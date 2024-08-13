@@ -1,0 +1,106 @@
+Aufnahmedatum: <[Pseudo] 2034-06-24 >
+Geburtsdatum: <[Pseudo] 1967-02-11 >
+Alter: 67
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 11/02/1967> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell: Kardiologische Verlaufskontrolle bei bekannter KHK und inflammatorischem
+Aortenaneurysma der Aorta ascendens
+- Kein Anhalt für einen Progress der koronaren Herzerkrankung
+-UNK- Echokardiographisch gute linksventrikuläre Funktion
+-UNK- Aneurysma der Aorta ascendens mit ca. 44 mm größenkonstant
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Inflammatorisches Aortenaneurysma -LRB- ED <[Pseudo] 09/23> -RRB-
+-UNK- MRT-Angiographisch bisher kein Hinweis auf Aortendissektion
+-UNK- Zuletzt Größenkonstanz des Aorta ascendens-Aneurysmas mit 48x49mm
+-LRB- Kardio-MRT Untersuchung vom <[Pseudo] 03/07/2033> -RRB-
+- Koronare Herzerkrankung ohne höhergradige Stenosen -LRB- max. 25%; B-OTHER vom <[Pseudo] 20/04/2024> -RRB-
+- Mittelgradige Aortenklappeninsuffizienz -LRB- Kardio-MRT <[Pseudo] 06/2033> -RRB-
+- Leichtgradige Mitralklappeninsuffizienz bei Prolaps des anterioren Mitralsegels -LRB- TTE v. <[Pseudo] 04/32> -RRB-
+- Z. n. Perikarderguss und Pleuraerguss <[Pseudo] 09/2023>
+- Leichtgradiges zentrilobuläres Lungenempfysem mit vereinzelten Bullae -LRB- CT <[Pseudo] 01/2033> -RRB-
+- Chronisch venöse Insuffizienz Stadium III -LRB- ED B-DATE, MVZ I-ORG -RRB-
+- Quincke-Ödem Gesicht und Zunge B-DATE, B-DATE Ramipril abgesetzt
+- Mehrere hypoechogene Schilddrüsenknoten links<1 cm
+- Als Kind rezidivierende Pneumonien
+- Z.n. Harnwegsinfekt mit ESBL-E. coli <[Pseudo] 11/23>
+- Bandscheibenprolaps LWK 4/5, <[Pseudo] 08/2031>
+- Polyneuropathie der Hände und Füße ED <[Pseudo] 2024>
+Kardiovaskuläre Risikofaktoren: Ex-Nikotinkonsum -LRB- kumulativ ca. 15 Packyears -RRB-
+Allergien/Unverträglichkeiten: ACE-Hemmer-Unverträglichkeit -LRB- Quincke-Ödem -RRB- , Duloxetin Unverträglichkeit -LRB- Übelkeit -RRB-
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur Verlaufskontrolle bei bekannter KHK und inflammatorischem Aortenaneurysma der Aorta ascendens. Im Alltag bestehe eine eingeschränkte Belastbarkeit -LRB- 1 Etage Treppensteigen möglich -RRB- ; bei 2-3 Etagen Treppensteigen bestehe inadäquate Belastungsdyspnoe -LRB- NYHA II -RRB- . Es bestehen keine typischen pectanginösen Beschwerden bei Belastung oder in Ruhe. Keine Palpitationen. Der Patient berichtet von regelmäßigem Schwindel beim Aufstehen. Stattgehabte Synkopen werden verneint. Keine relevante Nykturie. Periphere Ödeme seien regelmäßig vorhanden bei Chronisch Venöser Insuffizienz Grad III. Gewichtskonstanz. Die häuslichen Blutdruckmessungen ergäben Werte um 120/70 mmHg. Kein Fieber.
+
+Bisherige Medikation:
+ASS 100 mg 1-0-0
+Bisoprolol 2,5 mg 1-0-1
+Valsartan 80mg 1/2-0-0
+Atorvastatin 20 mg 0-0-1
+Allopurinol 300 mg 0-0-1/2
+Arava -LRB- Levlunomid -RRB- 20 mg 1-0-0
+MST ret. 30 mg 1-0-1
+Dekristol 20.000 1-0-0/Woche
+Ideos 500mg 0-1-0
+Pantoprazol 40mg 1-0-0
+Pregabalin 50mg 2-0-3
+Spiriva Respimat 1 Hub 1-0-1
+Salbutamol bei Bedarf
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 192cm, 78kg
+HF: 75/min, regelmäßig
+RR: 120/70 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 75/min, Steiltyp. PQ 180ms, QRS 90ms, QTc 396ms. Regelrechte R-Progression, R/S Umschlag in V2/V3, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Transthorakale Echokardiographie:
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA, RA und RV normal groß. Gute RV-Funktion. Hypermobiles Vorhofseptum. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenwurzel -LRB- 42 mm -RRB- leicht dilatiert, soweit von transthorakal beurteilbar Aneurysma der Aorta ascendens -LRB- ca. 44 mm -RRB- , Aortenbogen noch normal weit -LRB- 31 mm -RRB- . Aortenklappe trikuspid mit guter Separation und leicht- bis mittelgradiger zentraler Insuffizienz. Prolaps des vorderen Mitralsegels mit leichtgradiger Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Systolischer PA-Druck ist in Ruhe im Normalbereich -LRB- ca. 20 mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 02/05/2032:> Keine wesentliche Befundänderung.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Verlaufsuntersuchung bei bekannter KHK und inflammatorischem Aortenaneurysma der Aorta ascendens Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Echokardiographisch fand sich eine gute linksventrikuläre Pumpfunktion ohne relevante Klappenvitien. Das Aneurysma der Aorta ascendens zeigte sich heute - soweit von transthorakal beurteilbar - mit ca. 44 mm größenkonstant.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher eine Fortführung der konservativen Therapie.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten sowie weiterhin nichtmedikamentösen Maßnahmen -LRB- z.B. Reduktion des Salzkonsums, mediterrane Diät und Gewichtsreduktion -RRB- .
+
+Wir empfehlen zudem regelmäßige lungenfachärztliche Kontrollen zur Re-Evaluation der bronchodilatierenden Medikation bei aktueller Belastungsdyspnoe und bekanntem Lungenemphysem und zudem regelmäßige rheumatologische Kontrollen wie bisher.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Aktuelle Medikation -LRB- unverändert -RRB- :
+ASS 100 mg 1-0-0
+Bisoprolol 2,5 mg 1-0-1
+Valsartan 80mg 1/2-0-0
+Atorvastatin 20 0-0-1
+Allopurinol 300 mg 0-0-1/2
+Arava -LRB- Levlunomid -RRB- 20 mg 1-0-0
+MST ret. 30 mg 1-0-1
+Dekristol 20.000 1-0-0/Woche
+Ideos 500mg 0-1-0
+Pantoprazol 40mg 1-0-0
+Pregabalin 50mg 2-0-3
+Spiriva Respimat 1 Hub 1-0-1
+Salbutamol bei Bedarf
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

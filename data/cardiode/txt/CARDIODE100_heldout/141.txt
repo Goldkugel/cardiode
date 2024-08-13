@@ -1,0 +1,92 @@
+Aufnahmedatum: <[Pseudo] 2039-10-11 >
+Geburtsdatum: <[Pseudo] 1970-04-16 >
+Alter: 69
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 16/04/1970> wh. B-PLZ B-LOC I-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+
+Aktuell:
+Kein sicherer Ausschluss einer kardialen Genese bei Z.n. Synkope sowie kein sicherer Ausschluss einer koronaren Herzerkrankung
+- Unauffälliges Belastungs-EKG bis zu 75 Watt -LRB- 80% Ziel-HF -RRB-
+- Echokardiographisch noch gute systolische Pumpfunktion bei regionalen Hypokinesien inferior und inferolateral
+-UNK- LZ-EKG empfohlen
+-UNK- Ad Kardio-Stress-MRT am <[Pseudo] 07/03/2040> um 12:00 Uhr
+-UNK- Befundbesprechung am <[Pseudo] 21/03/2040> um 9:30 Uhr in unserer kardiologischen Ambulanz
+
+Diagnosen:
+- Z.n. Infarkt rechtscerebral DD Hirnstamm <[Pseudo] 28/09/2027>
+- Mikroembolische Hirninfarkte in beiden Hemisphären -LRB- cMRT <[Pseudo] 11/2027> -RRB-
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Nikotinanamense: nie, pos. Familienanamnese
+Allergien: Insektenstiche, Bienengift
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Abklärung bei Synkope unklarer Genese.
+Die Synkope ereignete sich am B-DATE. Die Patientin beschreibt i.R. der Grabpflege beim Bücken synkopiert zu sein. Es sei keine Belastung vor oder währenddessen erfolgt. Keine Prodromi. Kein Zungenbiss oder Einnässen. Die Synkope war unbeobachtete, es können keine Angaben zur Dauer gemacht werden. Sie habe sich eine Nasenbeinfraktur durch Sturz auf den Kopf zugezogen, die im B-ORG versorgt wurde. Eine kardiale oder neurologische Diagnostik habe bisher nicht erfolgt. Vor 12 Jahren sei es i.R. des Apoplex zu einer ähnlichen Synkope gekommen. Seitdem keine weiteren Synkopen. Schwindel bei Belastung bestehe nicht, jedoch bei flachem Liegen seit dem Apoplex.
+Im Alltag bestehe eine gute Belastbarkeit -LRB- 4 Etagen Treppensteigen möglich -RRB- ; Es bestehe keine inadäquate Belastungsdyspnoe -LRB- NYHAI -RRB- . Keine Ruhedyspnoe. Keine belastungsinduzierten pectanginösen Beschwerden oder in Ruhe. Palpitationen werden verneint. Es bestehe Nykturie mit ca. 2-3-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Es erfolgen keine häuslichen Blutdruckmessungen. Subjektiv bestehe kardiale Beschwerdefreiheit.
+
+Aktuelle Medikation:
+ASS 100mg 1-0-0
+Metoprolol 100mg 1-0-0
+Ramipril 5mg -UNK- -0-1/2
+Eisenpräparat; neu, Pat. nicht erinnerlich
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 165 cm 85 kg
+HF: 72 /min, regelmäßig
+RR: 115/80 mmHg
+Keine Zyanose, keine Anämiezeichen, kein Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: bds. Belüftet, vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 11/10/2039:>
+Sinusrhythmus, regelmäßig, 74 /min, Linkstyp. PQ 185 msec, QRS 82 msec, QTc 398 msec, Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine S-Persistenz. T-Negativierung in aVL. Sonst keine signifikanten Kammerendteilveränderungen. Gehäufte monomorphe VES.
+
+Belastungs-EKG vom <[Pseudo] 11/10/2039:>
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 75 Watt über 02:00 min. Maximale Frequenz 122/min -LRB- 80% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 114 mmHg, diastolisch 80 mmHg. Abbruch wegen peripherer Ermüdung. Keine Angina pectoris oder inadäquate Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Bei Nichterreichen der Ausbelastungsfrequenz eingeschränkte Beurteilbarkeit.
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Wenige VES -LRB- 70 -RRB- . Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz. Flaches Blutdruckprofil ohne Anstieg unter Belastung.
+
+Transthorakale Echokardiographie vom <[Pseudo] 11/10/2039>
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion bei regionalen Hypokinesien inferior und inferolateral. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA leicht , RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Leichtgradige Aorteninsuffizienz und Trikuspidalinsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 25 mmHg -RRB- . Erstbefund in domo.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Abklärung bei Synkope unklarer Genese. Die Patientin berichtet von kardialer Beschwerdefreiheit im Alltag.
+
+Das heute durchgeführte Belastungs-EKG bis 75 Watt ergab, soweit bei Nichterreichen der Ausbelastung beurteilbar -LRB- 80 % der Zielfrequenz -RRB- , weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradige Herzrhythmusstörungen.
+
+Echokardiographisch fand sich noch gute systolische Pumpfunktion bei regionalen Hypokinesien inferior und inferolateral ohne relevante Klappenvitien.
+
+In Zusammenschau der apparativen Untersuchungsbefunde sehen wir derzeit keinen sicheren Ausschluss für eine kardiale Genese der Synkope. Wir empfehlen zur Ergänzung der Diagnostik ein Langzeit-EKG beim Hausarzt.
+Eine neurologische Vorstellung im Verlauf bei ähnlichem Ereignis i.R eines Apoplexes <[Pseudo] 2027> sollte ebenfalls erwogen werden..
+
+Bei bislang nicht bekannter Hypokinesie empfehlen wir zudem die Durchführung eines bildgebenden Ischämienachweises mittels Kardio-Stress-MRT. Ein Termin hierfür wurde für den <[Pseudo] 07/03/2040> um 12:00 Uhr vereinbart und der Pat. telefonisch mitgeteilt.
+
+Wir bitten den Patienten, sich zum angegebenen Termin um 11:45 Uhr in der Patientenaufnahme in Ebene B-LOC vorzustellen. Zum komplikationsfreien Ablauf der geplanten Untersuchung bitten wir Sie, dem Patienten für den Tag der Untersuchung aktuelle Werte -LRB- nicht älter als 3 Wochen -RRB- von Harnstoff, Kreatinin und TSH, sowie eine Überweisung zum Kardio-MRT mitzugeben. Ein leichtes Frühstück am Tag der Untersuchung ist freundlich gestattet. Des Weiteren weisen wir darauf hin, dass der Patient zum komplikationsfreien Ablauf der Untersuchung 24h vor der Untersuchung keine koffeinhaltigen Lebensmittel und keine Schokolade zu sich nehmen sollte.
+Zur Besprechung des Befundes der Kardio-MRT-Untersuchung wurde ein Termin am <[Pseudo] 21/03/2040> um 09:30 Uhr vereinbart, wir bitten den Patienten, sich zum angegebenen Zeitpunkt in der kardiologischen Ambulanz vorzustellen.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie.
+
+Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Aktuelle Medikation:
+ASS 100mg 1-0-0
+Metoprolol 100mg 1-0-0 -LRB- bitte regelm. Puls- und Blutdruckkontrolle -RRB-
+Ramipril 5mg -UNK- -0- -UNK- -LRB- bitte regelm. Elektrolyt- und Kreatininkontrolle -RRB-
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

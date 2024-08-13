@@ -1,0 +1,81 @@
+Aufnahmedatum: <[Pseudo] 2037-12-01 >
+Geburtsdatum: <[Pseudo] 1958-08-04 >
+Alter: 79
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 04/08/1958> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen
+- Erfolgreiche 1-fache MitraClip-Implantation am <[Pseudo] 01/12/2037> -LRB- HK-Nr.: B-OTHER -RRB- bei hämodynamisch und angiographisch hochgradiger Mitralklappeninsuffizienz
+-UNK- Reduktion der Mitralinsuffizienz III° auf Mitralinsuffizienz I°
+- Erfolgreicher MitraClip am <[Pseudo] 01/12/2037>
+- Koronare Herzerkrankung ohne signifikante Stenosen -LRB- Koronar-CT <[Pseudo] 10/2033> -RRB-
+- Chronisch lymphatische Leukämie vom B-Zell-Typ, Stadium Binet A
+- Posttraumatische Sprunggelenksarthrose links
+- pAVK im Stadium Ib nach Fontaine vom Unterschenkeltyp, ED <[Pseudo] 10/2029>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Adipositas, Diabetes mellitus Typ 2, Adipositas
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die Übernahme erfolgte von B-ORG I-ORG nach Mithralclip Implantation. Nach Übernahme zeigte sich die Patientin wach und beschwerdefrei.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut
+HF: 97/min, regelmäßig
+RR: 115/70mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: 2/6 Systolikum mit p.m. über dem 5. ICR li. medioclavikulär mit Fortleitung in die B-ORG
+Lunge: vesikuläres AG, keine RGs
+Periphere Ödeme: US-Oedeme bds.
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+
+Herzkatheteruntersuchung B-OTHER vom <[Pseudo] 01/12/2036:>
+Befund folgt.
+
+Labor:
+Siehe ISH
+
+Zusammenfassung:
+Die Aufnahme des Patienten erfolgte zur Mitra-Clip-Implantation bei hochgradiger Mithralinsuffizienz mit Sehnenfadenabriss. Am <[Pseudo] 01/12/2036> erfolgte die erfolgreiche Implantation eines 1-fachen Mitra-Clips. Es erfolgte eine periinterventionelle Antibiose mit Cefuroxim, welche bis einschließlich <[Pseudo] 02/12/2037> fortgeführt werden sollte.
+
+Der weitere postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle beider Leisten.
+
+Wir begannen eine Antikoagulation mittels Heparinperfusors auf 0,9 ml/h. Wir bitten um pTT-gesteuerte Steigerung der Antikoagulation nach SOP.
+
+Zur Endokarditisprophylaxe empfehlen wir eine gute Mundhygiene und regelmäßige zahnärztliche Kontrollen. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o. oder i.v. -RRB- oder bei Penicillinallergie mit Clindamycin -LRB- 600 mg p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir verlegten die kardiorespiratorisch stabile Patientin am <[Pseudo] 01/12/2037> in Ihre geschätzte stationäre Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Procedere:
+- Monitor weiter
+- Echo
+- AHB
+- Termin HIS-Ambulanz in 4 Wochen
+
+Aktuelle Therapie:
+ASS 100 mg Pause
+Candesartan 16 mg 2-0-0
+Atorvastatin 20 mg 0-0-1
+Metformin 500 mg Pause
+Pantoprazol 20 mg 2-0-0
+Dekristol 20 000 I.E. 1 x/Woche, sonntags
+Novalgin 500 mg 1-1-1
+Macrogol Beutel 1-0-0
+MCP Tablette bei Bedarf
+Torasemid 5 mg 1-0-0
+
+Heparin 0,9 ml/h
+Cefuroxim 1,5 g 3x tgl. bis <[Pseudo] 02/12/2037>
+
+Wir danken für die unkomplizierte Übernahme und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE Steuer
+Ärztlicher Direktor Oberarzt Assistenzarzt

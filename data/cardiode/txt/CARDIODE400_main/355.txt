@@ -1,0 +1,366 @@
+Aufnahmedatum: <[Pseudo] 2034-01-30 >
+Geburtsdatum: <[Pseudo] 1968-08-09 >
+Alter: 65
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 09/08/1968> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- pAVK IIb-III nach Fontaine rechts; -LRB- B-OTHER -RRB- vom <[Pseudo] 23/01/2034:>
+-UNK- Erfolgreiche Atherektomie / PTA mittels DEB bei kurzstreckiger distaler Stenose der A. femoralis superficialis rechts proximal des einliegenden BM-Stents sowie im proximalen Stentanteil. NB: Spasmus der A. femoralis sup.
+
+Diagnosen:
+- pAVK
+-UNK- Aktuell gutes Ergebnis nach Rekanalisation der A. femoralis superficialis bei akutem Verschluss der AFS rechts Mitte Oberschenkel mittels PTA/ 1-fach BMS -LRB- BBA <[Pseudo] 25/07/2033> -RRB-
+-UNK- Erfolgreiche Rotationsatherektomie/1x DEB/1x BM-Stentimplantation der der A. femoralis superficialis rechts bei hochgradiger In Stent-Restenose, sowie PTA der A. poplitea rechts -LRB- B-OTHER v. <[Pseudo] 18/04/2033> -RRB-
+-UNK- Nachfolgend kräftiger 2-Gefäßabstrom -LRB- A. fibularis und A. tibialis anterior -RRB-
+-UNK- Z. n. erfolgreicher PTA und Rotationsthrombenarteriektomie, 1-fach BM-Stentimplantation einer hochgradigen Stenose der Arteria femoralis superficialis -LRB- B-OTHER vom <[Pseudo] 06/12/2032> -RRB-
+- Z. n. Eversions-TEA der ACI links am <[Pseudo] 25/11/2031> bei symptomatischer, höchstgradigen ACI Stenose links
+-UNK- -LRB- MRT negativ, Rankin 0 -RRB- bei rezidivierenden, leichtgradigen Paresen und Hypästhesie des rechten Armes im Sinne TIA
+- Z. n. Lungenarterienembolie <[Pseudo] 12/2032> -LRB- a. e. bei Immobilisation -RRB-
+- COPD
+- Nicht-kleinzelliges Bronchial-Carcinom
+-UNK- Radiation begonnen am B-DAY B-MONTH <[Pseudo] 2032> in der B-ORG bis <[Pseudo] 13/12/2032> täglich
+- Z. n. I° geschlossene intraartikuläre, mehrfragmentäre Fraktur des distalen Radius rechts -LRB- AO 23-C1 -RRB-
+-UNK- Offene Reposition und interne Fixation distaler Radius rechts mit winkelstabiler Plattenosteosynthese
+-UNK- -LRB- Implantat: Fa. Synthes VA Two-Colum Plate 2,4mm, 3+7-Loch -RRB- am <[Pseudo] 28/11/2032>
+- Z. n. Bandscheiben-Vorfall lumbal
+- Z. n. nach Katarakt- Op beidseits, anamnestisch Z. n. Lichtblitzen, augenärztliches Konsil am <[Pseudo] 03/12/2032> durchgeführt, kein Interventionsbedarf
+- Z. n. Appendektomie
+- Z. n. Hysterektomie
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesternämie, Ehemaliger Nikotinabusus -LRB- karent seit ca. 3 Wochen, kumulativ ca. 50 PY -RRB-
+
+Allergien:
+Anamnestisch keine bekannt
+
+Anamnese:
+Die Aufnahme auf unsere Station erfolgte über unsere B-ORG bei bekannter pAVK mit Z. n. Rekanalisation der AFS rechts <[Pseudo] 07/2033> vor. Die Patientin berichtet über Schmerzen, die in das rechte Schienbein ziehen würden. Der Fuß sei zeitweise kalt gewesen. Seit Dienstag hätten episodenweise Ruhebeschwerden mit einem NRS von 2 in Ruhe und 5 in Bewegung bestanden, die jeweils durch Erwärmung des Beines rückläufig waren. Palpationen würden ohne Zusammenhang mit der Tageszeit ca. 1x Woche auftreten. Synkopen werden verneint, bei täglich auftretendem orthostatischen Schwankschwindel 2-3x/Woche. Ebenso würden Kopfschmerzen ca. alle 3d bestehen. Dyspnoe und pectanginöse Beschwerden würden bei der Patientin bereits bei leichter Hausarbeit auftreten. In Ruhe bestehen keine Dyspnoe oder pectanginösen Beschwerden, entsprechend NYHA und CCS III. Die häuslichen Blutdruckmessungen würden bei systolischen Werten um 135mmHg liegen. Es bestehe keine Nykturie. Hustenreiz würde chronisch bestehen bei intermittierend gelblichem Auswurf. Peripher Ödeme seien bei Gewichtsverlust -LRB- -4kg/0,25a -RRB- in der letzten Zeit nicht aufgefallen. Es bestehe Nachtschweiß seit über einem Jahr bei bekanntem Bronchialkarzinom. Dienstag bis Mittwochabend diese Woche hätte Durchfall bestanden. Neben den Beinschmerzen beschreibt die Patientin Schmerzen der rechten Flanke, als Rippenschmerz, weswegen Sie einen Kontrolltermin in der Thoraxklinik diese Woche gehabt hätte.
+
+Medikation bei Aufnahme:
+ASS 100mg 1-0-0
+Clopidogrel 75mg 1-0-0 -LRB- 6 Monate bis <[Pseudo] 25/01/34> -RRB-
+Eliquis 5 mg pausiert
+Metoprolol succ 47,5mg 1-0-1
+Candesartan 16 mg 1-0-0
+Amlodipin 5mg bei Bedarf -LRB- RR> 160/100 1-0-0 -RRB-
+Atorvastatin 40mg 0-0-1
+Trimbow 85/5/9 1-0-0, 2 Hub
+Berodual Spray b.B.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+163 cm, 68 kg
+HF: 59/min, regelmäßig
+RR: 130 / 70 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o. B.
+HT: HT leise, rein, rhythmisch
+Lunge: exsp. Giemen bds.
+Abdomen: weich, kein DS, keine Resist, Narben -LRB- Appendektiomie, Warzenentfernung, Hysterektomie -RRB-
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: Ae. radiales und dorsales pedes bds. gut tastbar
+Neurologischer Status: orientierend o.B.
+sonstige Auffälligkeiten: Varikosis, Ganglion li. Fuß
+
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2033> und dem B-DAY B-MONTH <[Pseudo] 2033>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.90
+4 - 10 /nl
+B-DATE
+Hb
+12.7
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.4
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.390
+0,36 - 0,47 l/l
+B-DATE
+MCV
+89
+83 - 97 fl
+<[Pseudo] 24/01/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 24/01/34>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 24/01/34>
+RDW
+17.5
+12,9 - 18,7 %
+<[Pseudo] 24/01/34>
+hypochr.Erythroz.
+1.6
+0 - 2 %
+<[Pseudo] 24/01/34>
+Thrombozyten
+228
+150 - 440 /nl
+<[Pseudo] 24/01/34>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+136
+135 - 146 mmol/l
+<[Pseudo] 24/01/34>
+Kalium -LRB- ISE -RRB-
+4.28
+3,4 - 5,0 mmol/l
+<[Pseudo] 24/01/34>
+Kreatinin
+0.94
+0,5 - 1,0 mg/dl
+<[Pseudo] 24/01/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+33
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+63.9
+>60 s.u.
+<[Pseudo] 24/01/34>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+79
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+28
+- <37 U/l
+B-DATE
+GPT/ALT
+21
+- <35 U/l
+<[Pseudo] 22/01/34>
+CRP
+5.7 !H
+- <5 mg/l
+<[Pseudo] 22/01/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 24/01/34>
+ikterisch
+-
+
+<[Pseudo] 24/01/34>
+Lipämie
+-
+
+<[Pseudo] 24/01/34>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+271
+- <301 U/l
+B-DATE
+CK
+192 !H
+- <170 U/l
+<[Pseudo] 22/01/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+70
+- <125 ng/l
+<[Pseudo] 22/01/34>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.560
+0,400 - 4,000 mU/l
+<[Pseudo] 22/01/34>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+99.4
+70 - 125 %
+<[Pseudo] 22/01/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+INR - ber.
+1.02
+- <1.2
+<[Pseudo] 22/01/34>
+
+
+Weitere Laborwerte
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Schnelltest COVID 19
+negativ
+
+<[Pseudo] 22/01/34>
+ACT/POCT
+248.0
+s
+<[Pseudo] 23/01/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+2019-nCoV
+negativ
+
+<[Pseudo] 23/01/34>
+hs-TroponinT
+13.6
+- <14 pg/ml
+B-DATE
+
+
+
+
+
+Ruhe-EKG vom <[Pseudo] 23/01/2034:>
+Bradykarder Sinusrhythmus, regelmäßig, 59/min, Steiltyp. PQ 160 msec, QRS 82 msec., QTc 396 msec. Zeiten im Normbereich. Unspezifische intraventrikuläre Erregungsausbreitungsstörungen II, III, aVF, V1, V2. R-Verlust über V1-V3 R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Virologischer Befund vom <[Pseudo] 22/01/2034> -LRB- Chest-Pain-Unit -RRB- :
+
+Farbduplexsonographie der Arterien der rechten unteren Extremität vom <[Pseudo] 22/01/2034:>
+AFC mit triphasischen Flüssen bis 120 cm/s, in der AFS durchgehende Perfusion bei biphasischen Flüssen von 80-120 cm/s. In der A. poplitea biphasischer Fluss von 80 cm/s. 2-Gefäßabstrom in ATA und A. fibularis mit biphasischem Fluss von 80 cm/s der distalen ATA und kollateralisiertem monophasischen Fluss von 20 cm/s in der distalen ATP.
+Procedere: Stationäre Aufnahme, BBA morgen -LRB- von antegrad rechts ad ATP, bitte noch aufklären, anmelden, Blut abnehmen -RRB- .
+
+Virologischer Befund vom <[Pseudo] 23/01/2034> -LRB- Chest-Pain-Unit -RRB- :
+
+
+Becken-Bein-Angiographie -LRB- B-OTHER -RRB- vom <[Pseudo] 23/01/2034> Endbefund:
+Invasive angiologische Untersuchung bei pAVK IIb-III nach Fontaine rechts:
+Erfolgreiche Atherektomie / PTA mittels DEB bei kurzstreckiger distaler Stenose der A. femoralis superficialis rechts proximal des einliegenden BM-Stents sowie im proximalen Stentanteil. NB: Spasmus der A. femoralis sup.
+Relevante Vordiagnosen: pAVK mit Z. n. Rotationsatherektomie/ 1-fach DEB 1-fach BMS der AFS rechts bei hochgradiger In Stent-Restenose, sowie PTA der A. poplitea rechts -LRB- OTHER v. <[Pseudo] 18/04/2033> -RRB- ; Z. n. Rotationsthrombektomie / PTA / 1-fach BMS einer thrombotisch bedingten hochgradigen Stenose der distalen AFS -LRB- B-OTHER -RRB- . Rekanalisation des Tractus tibiofibularis und A. fibularis. NSCLC, Radiation seit B-DATE, Z. n. Eversions-TEA der ACI links -LRB- <[Pseudo] 11/2031> -RRB- COPD, anamnestisch Anämie unter Clopidogrel CVRF: AHT, HLP, ehem. Nikotinabusus -LRB- 50py -RRB- ; Allergien: keine bekannt
+Maßnahmen:
+1 -RRB- Eliquis und Aspirin weiter, erneute Evaluation in 4 Wochen in der B-ORG I-ORG bei der 1 Monats-Kontrolluntersuchung.
+2 -RRB- Calciumantagonisten/Isoket erwägen bei rez. Spasmen und symptomat. Pat.
+
+Angiologische Kontrolle nach PTA am Vortag vom <[Pseudo] 24/01/2034:>
+Kleines oberflächliches Hämatom im Bereich der Punktionsstelle rechts. Keine Beschwerden.
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+Zusammenfassende Beurteilung:
+Die Vorstellung erfolgte über unsere B-ORG I-ORG bei Va. hochgradige Stenose / Verschluss der ATP rechts bei bekannter pAVK. Es erfolgte eine angiologische Kontrolle, eine Becken-Bein-Angiographie in Interventionsbereitschaft wurde für den Folgetag geplant.
+
+In der am <[Pseudo] 23/01/2034> durchgeführten Becken-Bein-Angiographie wurde eine erfolgreiche Atherektomie / PTA mittels DEB bei kurzstreckiger distaler Stenose der A. femoralis superficialis rechts proximal des einliegenden BM-Stents sowie im proximalen Stentanteil durchgeführt. Nebenbefundlich zeigte sich ein Spasmus der A. femoralis sup. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich klinisch kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Zur Verschlussprophylaxe empfehlen wir eine Thrombozytenaggregationshemmung mit ASS 100mg 1x tgl. zusätzlich zu einer oralen Antikoagulation mit Apixaban wie unten angegeben. Über die Notwendigkeit einer lückenlosen Einnahme einer Thrombozytenaggregationshemmung zur Vermeidung eines Verschlusses wurde ausführlich aufgeklärt.
+
+Wir empfehlen eine angiologische Verlaufskontrolle und erneute Evaluation der med. Therapie in 4 Wochen in der B-ORG I-ORG bei der 1 Monats-Kontrolluntersuchung -LRB- Terminvereinbarung unter Tel.: B-PHONE -RRB- .
+
+Bei Auftreten eines Vasospasmus während der Untersuchung ist eine dauerhafte med. antianginöse Therapie mit einem Calciumantagonisten/ Iskoket zu erwägen.
+
+Wir empfehlen regelmäßige angiologische Kontrolluntersuchungen, welche gerne auch in der Praxis des betreuenden B-SALUTE B-TITLE B-PER durchgeführt werden können. Falls gewünscht kann hierfür auch ein Termin in unserer B-ORG I-ORG -LRB- Tel.: B-PHONE -RRB- vereinbart werden.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+ASS 100mg 1-0-0
+Eliquis 5 mg 1-0-1
+Metoprolol succ 47,5mg 1-0-1
+Candesartan 16 mg 1-0-0
+Amlodipin 5mg bei Bedarf -LRB- RR> 160/100 1-0-0 -RRB-
+Atorvastatin 40mg 0-0-1
+Trimbow 85/5/9 1-0-0, 2 Hub
+Berodual Spray b.B.
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der Paul-Ehrlich-Gesellschaft
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir empfehlen regl. ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen die Patientin heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärztin

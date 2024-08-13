@@ -1,0 +1,282 @@
+Aufnahmedatum: <[Pseudo] 2508-03-31 >
+Geburtsdatum: <[Pseudo] 2100-09-19 >
+Alter: 407
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 19/09/2100> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Koronare 3-Gefäßerkrankung mit hochgradig eingeschränkter linksventrikulärer Funktion bei Akinesie der Vorderwand, linksventrikuläre enddiastolische Drücke erhöht -LRB- B-OTHER vom <[Pseudo] 15/03/2182> -RRB-
+-UNK- Z.n. erfolgreicher Rekanalisation der verschlossenen LAD mittels PTCA und 3-fach DE-Stentimplantation -LRB- B-OTHER vom <[Pseudo] 15/03/2182> -RRB-
+-UNK- Z.n. akutem Myokardinfarkt -LRB- STEMI -RRB- am <[Pseudo] 15/03/2182>
+-UNK- Erfolgreiche PTCA/ 1fach Stentimplantation der RCA -LRB- B-OTHER v. <[Pseudo] 21/04/2182> -RRB-
+-UNK- Gutes LZ-Ergebnis der LAD
+- Vertebrobasiläre Ischämie nach Koronarangiographie am <[Pseudo] 21/04/2182>
+-UNK- Adduktions- und Konvergenzschwäche des rechten Auges, vertikale Blickparese, neue Gangunsicherheit, vorübergehende Hemihypästhesie links
+Diagnosen:
+- Z.n. Nephrektomie rechts bei Z.n. Tuberkulose
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Adipositas
+Allergien: anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG zur geplanten Intervention der residuellen proximalen RCA-Stenose. Die Patientin beschreibt ein kardiales Wohlbefinden, keine neu aufgetretene Belastungsdyspnoe oder AP-Beschwerden seit dem letzten stationären Aufenthalt. Die ausführliche Anamnese dürfen wir freundlicherweise als bekannt voraussetzen.
+
+Medikation bei Aufnahme:
+ASS 100 mg 1-0-0, dauerhaft
+Ticagrelor 90 mg 1-0-1, bis <[Pseudo] 15/03/2183>
+Candesartan 32 mg 1-0-0
+Metoprolol 47,5mg -UNK- -0-0
+Atorvastatin 20 mg 0-0-1
+Spironolacton 25 mg 1-0-0,
+Pantoprazol 40 mg 1-0-0, bis zum <[Pseudo] 15/03/2183>
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 155 cm, Gewicht: 76 kg -RRB-
+HF: 70/min, regelmäßig
+RR: 110/70 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+Normofrequenter Sinusrhythmus, Herzfrequenz 69/min, Linkstyp, PQ 187 ms, QRS 84 ms, QTc 480 ms. R-Verlust über den gesamten Brustwandableitungen, terminal negatives T über die gesamte Brustwandableitung hinweg.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 21/04/2182> -RRB- :
+Befund folgt im endgültigen Brief.
+
+Ruhe-EKG nach Intervention:
+Normofrequenter Sinusrhythmus, Herzfrequenz 68 /min, Linkstyp, PQ 200 ms, QRS 84ms, QTc 490ms. Fehlende R-Progression, terminal negatives T über die gesamte Brustwandableitung hinweg
+
+CT-Schädel nativ vom <[Pseudo] 22/04/2182:>
+CT-Angio Schädel vom <[Pseudo] 22/04/2182:>
+Anfertigung von 3 CTMIP-Rekonstruktionen vom <[Pseudo] 22/04/2182:>
+CT-gesteuertes Bolus-Tracking vom <[Pseudo] 22/04/2182:>
+Befund:
+Keine Voraufnahmen zum Vergleich vorliegend.
+cCT:
+Mittelständiger Interhemisphärenspalt. Erhaltene corticomedulläre Differenzierung. Älterer Parenchymdefekt frontal links -LRB- Serie 2 / 15 -RRB- . Lakunärer Parenchymdefekte im linken Caudatuskopf -LRB- Serie 2 / 9 -RRB- . Im Übrigen regelrechte Abgrenzbarkeit der Basalganglien und Thalami. Soweit bei untersuchungstypischen Aufhärtungsartefakten beurteilbar, unauffällige Darstellung von Kleinhirn und Hirnstamm. Kein Nachweis blutäquivalenter Dichtewerte intrakraniell. Altersentsprechende Weite der inneren und äußeren Liquorräume, ohne Nachweis einer Liquorzirkulationsstörung. Basale Vasosklerose.
+CTA:
+Regelrechte Kontrastierung der supraaortalen hirnversorgenden Arterien ohne Nachweis einer höhergradigen Stenosierung. Fetaler Versorgungstyp der Arteria cerebri posterior links. Truncus bovinus. Elongation und Kinking der ACC und ACI beidseits. Vasosklerose am Aortenbogen und im Carotis-Siphon. Orientierend seitensymmetrische Darstellung der Halsweichteile. Degenerative osteochondrotische Darstellung der abgebildeten Wirbelsäule mit Höhenminderung der Bandscheibenfächer, Punctum maximum HWK 6 / 7 und spondylophytären Anbauten. Frei belüftete Nasennebenhöhlen und Ohrnebenräume.
+Beurteilung:
+-UNK- Kein Nachweis einer akuten intrakraniellen Blutung oder einer -LRB- sub- -RRB- akuten territorialen Ischämie.
+-UNK- Regelrechte Kontrastierung der supraaortalen hirnversorgenden Arterien ohne Nachweis einer höhergradigen Stenosierung oder eines Verschlusses.
+-UNK- Älterer Parenchymdefekt frontal links, sowie Lakune im linken Caudatuskopf.
+-UNK- Mittelgradige Makro- und Mikroangiopathie.
+
+Neurologie - Konsiliarische Mitbeurteilung vom <[Pseudo] 22/04/2182:>
+Klinisch-neurologisch zeigen sich eine Adduktions- und Konvergenzschwäche des rechten Auges sowie eine vertikale Blickparese und eine Gangunsicherheit. In der CCT kamen keine demarkierte territoriale Ischämie und keine Blutung zur Darstellung. In der CTA ergab sich kein Hinweis auf höhergradige Stenosen oder Verschlüsse der hirnversorgenden Gefäße. In der Zusammenschau der Befunde erachten wir eine vertebrobasiläre Ischämie als Ursache für die neuen Beschwerden. Fortsetzung der bestehenden Thrombozytenaggregationshemmung mit ASS, aus neurologischer Sicht auch duale Thrombozytenaggregationshemmung unproblematisch. Statin weiter. Notwendigkeit einer neurologische Rehabilitation prüfen -LRB- RS OA B-TITLE B-TITLE B-PER erfolgt -RRB- .
+
+Ruhe-EKG vom <[Pseudo] 24/04/2182:>
+Normofrequenter Sinusrhythmus, regelmäßig, 66/min, überdrehter Linkstyp. PQ 200 ms, QRS 90 ms, QTc 480 ms. Zeiten im Normbereich. R-Verlust in V1-V3, R/S Umschlag in V4/V5. Präterminalnegative T-Wellen in V1-V5, ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Ruhe-EKG vom <[Pseudo] 25/04/2182:>
+Normofrequenter Sinusrhythmus, regelmäßig, 63/min, überdrehter Linkstyp. PQ 210 ms, QRS 100 ms, QTc 470 ms. AV-Block I°. R-Verlust in V1-V3, R/S Umschlag in V4/V5. Präterminalnegative T-Wellen in V1-V5, ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 21/04/2182> und dem <[Pseudo] 24/04/2182>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.30
+4 - 10 /nl
+B-DATE
+Hb
+12.3
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.1
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.370
+0,36 - 0,47 l/l
+B-DATE
+MCV
+90
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 24/04/82>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 24/04/82>
+RDW
+13.9
+12,9 - 18,7 %
+<[Pseudo] 24/04/82>
+hypochr.Erythroz.
+1.2
+0 - 2 %
+B-DATE
+Thrombozyten
+228
+150 - 440 /nl
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 24/04/82>
+Kalium -LRB- ISE -RRB-
+4.37
+3,4 - 5,0 mmol/l
+<[Pseudo] 24/04/82>
+Calcium
+2.41
+2,11 - 2,59 mmol/l
+<[Pseudo] 24/04/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+1.02
+0,5 - 1,4 mg/dl
+B-DATE
+Harnstoff
+36
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+51.7 !L
+>60 s.u.
+<[Pseudo] 24/04/82>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 24/04/82>
+ikterisch
+-
+
+<[Pseudo] 24/04/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lipämie
+-
+
+<[Pseudo] 24/04/82>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+28.3 !H
+- <14 pg/ml
+B-DATE
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+92.0
+70 - 125 %
+<[Pseudo] 21/04/82>
+INR - ber.
+1.05
+- <1.2
+<[Pseudo] 21/04/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+20.7
+- <35 s
+B-DATE
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG zur geplanten Intervention der residuellen proximalen RCA-Stenose.
+
+In der Herzkatheteruntersuchung zeigte sich die bekannte koronare 3-Gefäßerkrankung. Wir haben eine erfolgreiche PTCA und 1fach DE-Stentimplantation der RCA durchgeführt. Es stellte sich ein gutes Ergebnis nach PTCA/Stentimplantation der LAD dar. Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- . Postinterventionell zeigten sich keine signifikanten EKG-Veränderungen und kein signifikanter Troponin-Anstieg.
+
+Wir empfehlen die kombinierte Thrombozytenaggregationshemmung mit ASS und Ticagrelor für mindestens 12 Monate nach NSTEMI. Anschließend ist eine dauerhafte Thrombozytenaggregationshemmung mit ASS 100 mg täglich ausreichend. Die Patientin wurde über die Notwendigkeit einer lückenlosen Einnahme von ASS und Ticagrelor bis zum unten genannten Datum ausführlich aufgeklärt. Der Patientin wurde ein Implantatausweis ausgehändigt. Sie wurde über notwendige Verhaltensanweisungen informiert.
+
+Postinterventionell zeigte sich B-SALUTE B-PER am Morgen des <[Pseudo] 22/04/82> mit Kopfschmerz, Doppelbildern und Schwindelgefühl, sodass eine neurologische Vorstellung erfolgte. Klinisch-neurologisch zeigten sich eine Adduktions- und Konvergenzschwäche des rechten Auges sowie eine vertikale Blickparese und eine Gangunsicherheit. In der CCT kamen keine demarkierte territoriale Ischämie und keine Blutung zur Darstellung. In der CTA ergab sich kein Hinweis auf höhergradige Stenosen oder Verschlüsse der hirnversorgenden Gefäße. In der Zusammenschau der Befunde erachteten wir eine vertebrobasiläre Ischämie als Ursache für die neuen Beschwerden. Die Fortsetzung der bestehenden Thrombozytenaggregationshemmung mit ASS, aus neurologischer Sicht auch duale Thrombozytenaggregationshemmung unproblematisch.
+
+Bei Gangunsicherheit sahen wir die Notwendigkeit einer neurologischen Rehabilitation. Durch unseren Sozialdienst wurde eine neurologische Anschlussheilbehandlung eingeleitet. Ein Termin hierfür wird telefonisch übermittelt.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Empfehlung. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin am <[Pseudo] 25/04/2182> in Ihre geschätzte ambulante Betreuung.
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100 mg 1-0-0, dauerhaft
+Ticagrelor 90 mg 1-0-1, bis <[Pseudo] 15/03/2183>
+Candesartan 32 mg 1-0-0
+Metoprolol 47,5mg -UNK- -0-0
+Atorvastatin 20 mg 0-0-1
+Spironolacton 25 mg 1-0-0
+Pantoprazol 40 mg 1-0-0, bis zum <[Pseudo] 15/03/2183>
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

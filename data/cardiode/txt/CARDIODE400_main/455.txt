@@ -1,0 +1,148 @@
+Aufnahmedatum: <[Pseudo] 2034-03-31 >
+Geburtsdatum: <[Pseudo] 1982-01-26 >
+Alter: 52
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 26/01/1982> wh. B-PLZ B-LOC I-ADDR I-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Befundbesprechung der Kardio-MRT vom <[Pseudo] 15/03/2034>
+-UNK- Kein sicherer Nachweis einer kardialen Beteiligung bei SLE
+-UNK- Global leichtgradig eingeschränkte systolische Pumpfunktion bei globaler Hypokinesie sowie Akinesie inferolateral mittventrikulär
+-UNK- Ad: Empfehlung zur invasiven Abklärung mittels Koronarangiographie
+-UNK- Patientin möchte Bedenkzeit und wird sich telefonisch in unserer Ambulanz melden
+Diagnosen:
+- Systemischer Lupus erythematodes mit sekundärem Antiphospholipid-Antikörpersyndrom -LRB- Cardiolipin-Antikörper positiv -RRB- ED <[Pseudo] 2020>
+-UNK- Z.n. a/c Nierenversagen, a.e. Reaktivierung SLE <[Pseudo] 08/2032>
+-UNK- Shaldon-Anlage und Dialyseeinleitung am <[Pseudo] 04/09/2032>
+-UNK- Demersanlage am <[Pseudo] 09/09/2032> durch Gefäßchirurgie UKHD
+-UNK- Aktivierung des SLE <[Pseudo] 01/2032> mit Panzytopenie
+-UNK- Knochenmarkspunktion <[Pseudo] 16/01/2032:> Reduzierte Erythropoese, leichte linksverschobene Granulopoese mit reduzierter Ausreifung und Megakaryozyten unauffällig.
+-UNK- Z.n. Pneumonie B-DATE, <[Pseudo] 05/2032> u. <[Pseudo] 06/2032>
+-UNK- Z.n. respiratorischer Insuffizienz bei V.a. alveoläre Hämorrhagien
+-UNK- Nicht invasive Beatmung mittels HFNC und NIPPV vom B-DATE - B-DATE
+-UNK- Z.n. stat. Aufenthalt bei a/c Nierenversagen, a.e. Reaktivierung SLE mit hydropischer Dekompensation <[Pseudo] 08/2032> und hypochromer, normozytärer Anämie sowie Pneumonie, DD akutes Rezidiv des SLE mit renaler und pulmonaler Beteiligung
+- Z.n. Libman-Sacks-Endokarditis
+-UNK- Flottierende Tricuspidalauflagerung -LRB- Herzecho <[Pseudo] 07/2004> -RRB- mit erneuter Indikation zur Dauerantikoagulation mit Marcumar
+-UNK- Bekannte leichte Triduspidalklappeninsuffizienz
+- Bekanntes Phospholipid-AK-Syndrom
+-UNK- INR-Erhöhung bei Faktor-II- -LRB- ca. 50 % -RRB- und Faktor-IX- -LRB- ca. 45 % -RRB- -Mangel -LRB- bei operativen Eingriffen Substitution mit PPSB
+-UNK- Z.n. Beckenvenenthrombose li. mit teilweise erfolgreicher systemischer Streptokinase-Lyse <[Pseudo] 1997>
+-UNK- Sicca-Symptomatik, Indikation für künstl. Tränen seit <[Pseudo] 07/2004>
+-UNK- Mitochondriale Antikörper <[Pseudo] 07/2002>
+-UNK- Aktivierung des Antiphospholipid-Syndrom <[Pseudo] 01/2032>
+-UNK- Z.n. Posteriorinfarkt bds. -LRB- MRT vom <[Pseudo] 30/01/2032> -RRB-
+- Digitalarterienverschluss der re Hand D3, D4 mit Lyse und operativer Sympathektomie
+-UNK- Hochgradiger V.a. Mikroembolien Daumen li <[Pseudo] 09/2031>
+- Interstitielle Lungenerkrankung ED <[Pseudo] 01/2032>
+- Migräne-Anfälle mit Gedächtnisschwäche seit <[Pseudo] 2006>
+- Splenomegalie
+- Rezidivierende Harnwegsinfekte
+- Manifeste Osteoporose
+- Struma nodosa
+- Hypothyreose seit <[Pseudo] 1997> und Substitution mit L-Thyroxin -LRB- keine Schilddrüsen-AK -RRB-
+- Z.n. perianalem Blutabgang bei Hämorrhoiden <[Pseudo] 08/02/2032>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, ehem. Nikotinabusus -LRB- kumulativ 10 PY -RRB- , familiäre Disposition -LRB- Vater mit 52 52 Herzinfarkt -RRB-
+Allergien: Invanz
+
+Anamnese:
+Die ambulante Vorstellung erfolgte zur Befundbesprechung des Kardio-MRT vom B-DATE.
+Im Alltag bestünde eine deutliche eingeschränkte Belastbarkeit mit Belastungsdyspnoe nach 1 Etage Treppensteigen -LRB- NYHA II-III -RRB- bei deutlich eingeschränkter Mobilität. Es bestünden gelegentlich atypische pectanginösen Beschwerden. Gelegentlich Schwindel sowie Palpitationen. Stattgehabte Synkopen werden verneint. Es bestünde Nykturie bei ca. dreimaliger Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 120/80 mmHg. Subjektiv bestünde seit der letzten Vorstellung ein eingeschränkter kardialer Verlauf.
+
+Aktuelle Medikation:
+Marcumar 3 mg nach INR Kontrolle
+Bisoprolol 5 mg 1-0-0
+Candesartan 2 mg 1-0-0
+Furosemid 200 mg -UNK- - -UNK- - -UNK-
+Fluvastatin 10mg 0-0-1
+Pantozol 20mg 1-0-0
+L-Thyroxin 100ug 1-0-0
+Quensyl 200mg 1-0-0
+Mycophendsäure 360mg 1-0-0
+Cotrim forte 960mg -UNK- -0-0 Alle 2 Tage
+Decortin 10mg 1-0-0
+Ranavit 1-0-0 Alle 2 Tage
+Renagel 800mg 1-1-1
+Pregabalin 25mg 1-1-2 Im Verlauf steigern
+Tilidin 50/4mg 1-0-1
+Tilidin 50/4mg Bei Bedarf bis 2x/Tag zusätzlich
+Aciclovir 200mg 1-0-1
+Amineurin 10mg 0-0-0-1
+Calciumcarbonat 600 mg / Colecalciferol 400 I.E 1-0-1 Für die Dauer der Steroidmedikation beibehalten
+Vigantoletten 1-0-0
+L-Dopa 100/25mg Bei Bedarf zur Nacht
+EPO 8000 I.E. s.c. 2x pro Woche
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 164 cm 64 kg
+HF: 65/min, regelmäßig
+RR: 110/70 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, HF 65/min, Steil-typ. PQ 148 ms, QRS 91 ms, QTc 462 ms. Diskrete Q-Zacken II,III,avF sowie V4-V6. Regelrechte R-Progression, R/S Umschlag in V3/V4, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Kardio-MRT vom <[Pseudo] 15/03/2034:>
+Beurteilung:
+Normal großer linker Ventrikel mit global leichtgradig eingeschränkter systolischer Funktion bei globaler Hypokinesie und Akinesie inferolateral mittventrikulär. Normale longitudinale Funktion. Prominente Crista terminalis im rechten Vorhof. Normal großer rechter Ventrikel mit eingeschränkter systolischer Funktion und normaler longitudinaler Funktion. Vorhöfe normal groß.
+Bei chronischer Niereninsuffizienz mit einer GFR < 30 ml/min wurde auf eine Kontrastmittel-Gabe verzichtet. Inferolateral mittventrikulär erhöhte T1-Relaxationszeiten -LRB- global: T1 -UNK- 1,5T = 1049+-91 ms -RRB- . Regelrechter T2-Relaxationszeiten. In den T2-Blackblood-Sequenzen kein Nachweis eines myokardialen Ödems.
+
+Nebenbefunde: Milz grenzwertig groß -LRB- ca. 13cm -RRB- . Degenerative Wirbelsäulenveränderungen.
+
+Zusammenfassung:
+Normal großer linker Ventrikel mit global leichtgradig eingeschränkter systolischer Funktion bei globaler Hypokinesie und Akinesie inferolateral mittventrikulär -LRB- LVEF 49% -RRB- . Kein sicherer Nachweis einer kardialen Beteiligung bei systemischen Lupus erythematodes.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Befundbesprechung des Kardio-MRT vom B-DATE. Subjektiv wird von einem klinisch eingeschränkten kardialen Verlauf berichtet.
+
+Die Kardio-MRT-Untersuchung vom <[Pseudo] 15/03/2034> zeigte eine global leichtgradig eingeschränkte systolische Pumpfunktion bei globaler Hypokinesie und Akinesie inferolateral mittventrikulär -LRB- LV EF 49% -RRB- . Weiterhin ergab sich kein sicherer Nachweis einer kardialen Beteiligung bei bekanntem SLE.
+
+Bei Akinesie inferolateral mittventrikuläre sowie globaler Hypokinesie, ausgeprägtem kardiovaskulärem Risikoprofil sowie der geschilderten klinischen Symptomatik empfehlen wir eine invasive Abklärung mittels Koronarangiographie. Die Patientin steht dieser Empfehlung kritisch gegenüber und möchte Bedenkzeit. Sie wird sich nach Bedenkzeit telefonisch für eine Terminvereinbarung melden.
+
+Bei eingeschränkter linksventrikulärer Pumpfunktion -LRB- LV EF 49% -RRB- empfehlen wir die Wiederaufnahme von Candesartan 4mg -LRB- 1/2-0-0 -RRB- zur Therapie der Herzinsuffizienz.
+
+Wir empfehlen zudem die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien und nach Möglichkeit die regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten.
+
+Weiterhin empfehlen wir regelmäßige kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen, sowie die regelmäßige hausärztliche Vorstellung. Bei Auftreten von Beschwerden oder Komplikationen sind wir gerne bereit, die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung:
+Marcumar 3 mg nach INR Kontrolle
+Bisoprolol 5 mg 1-0-0
+Candesartan 4 mg 1/2-0-0 Wiederaufnahme -LRB- Kontrolle Blutdruck, Elektrolyte -RRB-
+Furosemid 200 mg -UNK- - -UNK- - -UNK-
+Fluvastatin 10mg 0-0-1
+Pantozol 20mg 1-0-0
+L-Thyroxin 100ug 1-0-0
+Decortin 10mg 1-0-0
+Quensyl 200mg 1-0-0
+Mycophendsäure 360mg 1-0-0
+Cotrim forte 960mg -UNK- -0-0 Alle 2 Tage
+Ranavit 1-0-0 Alle 2 Tage
+Renagel 800mg 1-1-1
+Pregabalin 25mg 1-1-2 Im Verlauf steigern
+Tilidin 50/4mg 1-0-1
+Tilidin 50/4mg Bei Bedarf bis 2x/Tag zusätzlich
+Aciclovir 200mg 1-0-1
+Amineurin 10mg 0-0-0-1
+Calciumcarbonat 600 mg / Colecalciferol 400 I.E 1-0-1 Für die Dauer der Steroidmedikation beibehalten
+Vigantoletten 1-0-0
+L-Dopa 100/25mg Bei Bedarf zur Nacht
+EPO 8000 I.E. s.c. 2x pro Woche
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen,
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

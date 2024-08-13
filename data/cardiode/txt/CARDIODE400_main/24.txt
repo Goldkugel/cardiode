@@ -1,0 +1,553 @@
+Aufnahmedatum: <[Pseudo] 2428-03-02 >
+Geburtsdatum: <[Pseudo] 2106-12-31 >
+Alter: 321
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 31/12/2106> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Teilweise erfolgreiche Rekanalisation der langstreckig thromb. verschlossenen AFS re. mittels PTA/1x covered- Stentimplantation
+-UNK- Einlage Lysekatheter bei res. Thrombuslast -LRB- B-OTHER v. <[Pseudo] 13/07/2189> -RRB-
+-UNK- Nach Lyse erneute PTA von A. fibularis/tibiofiularis und poplitea rechts. Postinterventionell 1-Gefäßabstrom über A. fibularis -LRB- B-OTHER v. <[Pseudo] 14/07/2189> -RRB-
+
+- Paroxysmales Vorhofflimmern
+-UNK- ChADsVasC: 6
+-UNK- EHRA II
+-UNK- Antikoagulation aktuell mit Clexane bei Z.n. covered-Stent-Implantation
+-UNK- Erfolgreiche elektrische Kardioversion -LRB- 1x 200J -RRB- nach Thrombenausschluss am <[Pseudo] 15/07/2189>
+
+- Dopplersonographisch kombiniertes Aortenvitium mittleren Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 1,2 cm², PPG 21 mmHg, MPG 11 mmHg, TTE B-DATE -RRB-
+
+
+- pAVK Stadium IIb nach Fontaine
+- Seit <[Pseudo] 12/07/2189> Progress der Symptomatik
+-UNK- Z.n. erfolgreicher Rekanalisation der langstreckig thrombotisch verschlossenen rechten A. femoralis superficialis, A. poplitea, A. fibularis mittels Rotationsartherektomie/PTA/4x BM-Stentimplantation bei noch kompensierter akuten Beinischämie rechts -LRB- B-OTHER vom <[Pseudo] 07/06/2189> -RRB-
+-UNK- Z.n. Progress der pAVK
+-UNK- Z.n. In-Stent Restenose der A. femoralis superficialis und Tractus tibiofibularis rechts
+-UNK- pAVK im Stadium IIb nach Fontaine
+-UNK- Z.n. Rotationsatherektomie/3x DEB/1-fach BM-Stentimplantation mehrerer hochgradiger teils In-Stent Restenose der A. femoralis superficialis und Tractus tibiofibularis rechts, sowie PTA der A. fibularis rechts -LRB- B-OTHER -RRB- vom <[Pseudo] 25/02/2189>
+-UNK- Bekannter 1-Gefäßabstrom am rechten Unterschenkel via A. fibularis mit guter Kollateralisierung des Unterschenkels und Fußes
+-UNK- pAVK IV mit Z. n. Ulcus DIV/DV rechter Fuß
+-UNK- Z. n. erfolgreicher Rekanalisation der A. femoralis superficialis und A. poplitea rechts mittels Rotationsthrombektomie/PTA/1-fach covered-stent-implantation -LRB- viabahn -RRB- sowie PTA und 2-fach bare-metal-Stentimplantation der prox. AFS rechts, PTA des Tractus tibiofibularis bei Re-Verschluss der A. femoralis superficialis sowie hochgradiger Instent-Re-Stenose der proximalen A. poplitea rechts; Z. n. Nachweis Citrobacter koseri am D3 Fuß rechts antibiogrammgerechte Antibiose mit Ciprofloxacin B-DATE - B-DATE
+-UNK- Z. n. frustranem Rekanalisationsversuch der A. tibialis posterior rechts -LRB- B-OTHER v. <[Pseudo] 18/08/2188> -RRB- bei pAVK II b
+-UNK- Z. n. erfolgreicher Rekanalisation der A. femoralis superficialis und A. poplitea rechts mittels PTA und Rotationsthrombektomie -LRB- B-OTHER vom <[Pseudo] 08/07/2188> -RRB-
+-UNK- Z. n. Teilrekanalisation der A. tibialis anterior rechts -LRB- B-OTHER des <[Pseudo] 18/03/2188> -RRB-
+-UNK- Z. n. Rotationsatherektomie/PTA der A. poplitea sowie PTA der Tractus tibiofibularis rechts -LRB- B-OTHER vom <[Pseudo] 19/02/2188> -RRB-
+-UNK- Z. n. erfolgreicher Rekanalisation der A. femoralis superficialis, A. poplitea und des Truncus tibiofibularis rechts mittels PTA/3x BM-Stentimplantation bei pAVK -LRB- B-OTHER vom <[Pseudo] 12/11/2187> -RRB-
+-UNK- Z. n. erfolglosem Rekanalisationsversuch der A. poplitea rechts am <[Pseudo] 20/10/2187> -LRB- B-ORG -RRB-
+-UNK- Z. n. Rekanalisation der distalen AFS, A. poplitea und des Tractus tibiofibularis mittels PTA rechts -LRB- B-OTHER vom <[Pseudo] 19/06/2187> -RRB-
+-UNK- Z. n. Rotationsthrombektomie/Angioplastie AFS und A. Poplitea re bei thrombot. Verschluss rechts <[Pseudo] 03/2187> -LRB- B-ORG -RRB-
+- Z. n. kardioembolischer rechtshemisphärischen Apoplex unter Apixaban
+-UNK- Ausschluss Carotisstenose -LRB- FDS <[Pseudo] 07/10/87> -RRB-
+-UNK- Kein Hinweis auf PFO, keine intrakardialen Thromben -LRB- TEE <[Pseudo] 01/10/2187> -RRB-
+- Ausschluss unterer GI-Blutung unter oraler Antikoagulation <[Pseudo] 10/2188>
+-UNK- positiver Hämoccult-Test und Hb-Abfall -LRB- 13 mg/dl -UNK- 8 mg/dl -RRB-
+-UNK- Koloskopie <[Pseudo] 05/11/2188:> reizlose Divertikel, sonst keine Auffälligkeiten
+- Z. n. Appendektomie
+- latente Hyperthyreose
+- Chronische Niereninsuffizienz Stadium III
+-UNK- Diabetische Nephropathie
+-UNK- Z. n. Nephrektomie links vor ca. 20 Jahren bei Nephrolithiasis
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus Typ II -LRB- insulinpflichtig -RRB- , Nikotinanamnese: nie.
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme der Patientin erfolgt zur geplanten Becken-Bein-Angiographie in PTA-Bereitschaft bei Z.n. erfolgreicher Rekanalisation der langstreckig thrombotisch verschlossenen rechten A. femoralis superficialis, A. poplitea, A. fibularis mittels Rotationsatherektomie/PTA/3x BM-Stentimplantation. Die Patientin gibt an, dass sie seit gestern wieder Schmerzen im rechten Bein entsprechend einer pAVK Stadium IIb nach Fontaine habe. Belastungsdyspnoe NYHA II, keine AP-Beschwerden. Keine relevanten Beinoedeme. Kein Fieber, klinisch kein Hinweis auf Infekt.
+Bei Übernahme auf die kardiolog. Wachstation c/r stabiler Patient mit einliegende
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 150 cm, 59 kg
+HF: 96/min, regelmäßig
+RR: 120/65 mmHg
+Temperatur 37,2° Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: 4/6 Systolikum mit Fortleitung in die Carotiden
+Lunge: bds. frei
+Periphere Ödeme: keine
+Pulsstatus: Fußpulse rechts tastbar,
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: re. Bein livide verfärbt, allerdings nicht kalt
+
+Ruhe-EKG bei Aufnahme:
+Arrhythmia absoluta bei Vorhofflimmern, Herzfrequenz 70-80/min, Linkstyp, QRS 71 ms, QTc 387 ms. Rechtsverspätung, keine signifikanten Kammerendteilveränderungen.
+
+Becken-Bein-Angiographie -LRB- B-OTHER vom <[Pseudo] 13/07/2189> -RRB- :
+Invasive angiologische Untersuchung bei V.a. akuten Verschluss:
+Erfolgreiche Rekanalisation der am ehesten thrombotisch langstreckig verschlossenen A. femoralis superficialis rechts mittels Rotationsthrombektomie / PTA / 1-fach Covered-Stent-Implantation und lokaler Lyse. Abschließend Einlage eines lokalen Lysekatheters bei ausgeprägter residueller Thrombuslast im rechten Unterschenkel und kompromittiertem Abfluss.
+Sonstige Diagnosen:
+pAVK mit zuletzt Z.n. Rekanalisation der AFS, A. pop. + TTF rechts mittels Rotationsatherekt. / 3x BMS -LRB- B-OTHER -RRB- ; Z.n. Rotationsatherekt./3xDEB/1x BMS der AFS und Tr. Tibiofib. re, sowie PTA der AFIB re -LRB- B-OTHER -RRB- , Z.n. frustraner Rekanal. der ATP re -LRB- B-OTHER -RRB- , Z.n. Rekanal. der AFS und APOP rechts mittels PTA/Rotationsthromb. -LRB- B-OTHER -RRB- , perm VHF, Z.n. kardioembolischem Apoplex, latente Hyperthyreose, Z.n. Nephrektomie links
+CVRF: AHT, IDDM /// Allergien: keine bekannt.
+Maßnahmen:
+
+1 -RRB- Actilyse 1mg/h bis zur Re-Intervention morgen, zusätzlich UFH -LRB- Ziel-PTT: 40-50sec -RRB- .
+2 -RRB- Emboliequellensuche.
+
+Angiologische Untersuchung vom <[Pseudo] 14/07/2189:>
+Farbduplexsonographie der Gefäße am linken Bein:
+Gute Perfusion der AFS und APOP, sowie des Tractus tibiofibularis rechts.
+Druckverband noch anliegend. Beschwerdefreie Patientin.
+Proc.:
+- VNS möglich
+- Nach BBA- Befund
+- Morgen Angio-Kontrolle der Leisten
+
+
+Farbduplexsonographie der Gefäße der rechten Leiste vom <[Pseudo] 15/07/2189:>
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Offene Gefäßachse am Bein rechts.
+Arterieller CW-Doppler -LRB- Verschlussdrücke in mmHg -RRB-
+Referenzdruck: A.brachialis re/li 130/135 mmHg
+Rechtes Bein
+Linkes Bein
+60
+
+A. dorsalis pedis
+125
+80
+A. tibialis posterior
+120
+0,6
+ABI
+0,9
+Proc.:
+- Klinische Observatio -LRB- dixit OA Dufner, morgen angiologische klinische Kontrolle durch DÄ -RRB-
+- N. Katheterbefund
+
+
+Transthorakale Echokardiographie vom <[Pseudo] 15/07/2189:>
+Normal großer, septal betont hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Verminderte longitudinale Funktion. Kein Hinweis auf eine relevante diastolische Dysfunktion. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Kein relevanter Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, deutlich verdickt und verkalkt mit verminderter Separation. Dopplersonographisch kombiniertes Aortenvitium mittleren Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 1,1 cm², PPG 26 mmHg, MPG 12 mmHg -RRB- . Mitralklappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 25-30 mmHg -RRB- . Im Vergleich zum Vorbefund vom <[Pseudo] 28/02/2189:> Geringe Zunahme der Gradienten über der Aortenklappen, zuletzt PPG 21 mmHg, MPG 11 mmHg, AÖF 1,2 cm².
+
+Echo-TEE vom <[Pseudo] 15/07/2189:>
+Kein Nachweis intrakardialer Thromben. Thrombogene Flussgeschwindigkeiten im linken Vorhofohr. Farbdopplersonographisch kein persistierendes Foramen ovale nachweisbar. Aorta ascendens, Bogen und descendens - soweit einsehbar - thrombogen Grad I. Normal großer, septal betont hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Verminderte longitudinale Funktion. Kein Hinweis auf eine relevante diastolische Dysfunktion. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Kein relevanter Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, deutlich verdickt und verkalkt mit verminderter Separation. Dopplersonographisch kombiniertes Aortenvitium mittleren Schweregrades mit
+überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 1,1 cm², PPG 26 mmHg, MPG 12 mmHg -RRB- . Mitralklappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 25-30 mmHg -RRB- . TEE Erstbefund in domo.
+
+Ruhe-EKG von <[Pseudo] 15/07/2189:>
+Arrhythmia absoluta bei Vorhofflimmern, Herzfrequenz 86/min, Linkstyp, QRS 77 ms, QTc 411 ms., keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 16/07/2189:>
+Sinusrhythmus, Herzfrequenz 57/min, Linkstyp, QRS 84 ms, QTc 427 ms, keine signifikanten Kammerendteilveränderungen. R/S Umschlag V1/V2
+
+Farbduplexsonographie der Gefäße der rechten Leiste vom <[Pseudo] 16/07/2189:>
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Rechtsseitige Gefäßachse weiterhin offen und perfundiert darstellbar.
+Procedere:
+-therapeutische Antikoagulation mit Clexane + ASS+ Clopidogrel für 4 Wochen, danach Reduktion auf Clexane in therapeutischer Dosierung und Clopidogrel -LRB- siehe Katheterbefund -RRB- .
+-erneute Wiedervortsellung in der B-ORG I-ORG in 4 Wochen, bei Beschwerden früher.
+Labor:
+Zusammenfassung:
+
+Die stationäre Aufnahme der Patientin erfolgte initail über unsere B-ORG zur geplanten Becken-Bein-Angiographie in PTA-Bereitschaft des rechten Unterschenkels.
+
+Es erfolgte eine teilweise erfolgreiche Rekanalisation der langstreckig thromb. verschlossenen AFS rechts mittels PTA/1x covered- Stentimplantation sowie Einlage des Lysekatheters bei residueller Thrombuslast und Übernahme auf die kardiologische Wachstation. Im Verlauf des stationären Aufenthaltes präsentierte die Patientin Schmerzen im Bereich des rechten Beines. Es erfolgte die unmittelbare Verlegung in den Herzkatheter zur Re-BBA. Hier wurde eine PTA der A. fibularis/tiobiofibularis/poplitea durchgeführt.
+
+Hiernach zeigte sich ein 1-Gefäßabstrom der A. fibularis. Postinterventionell erfolgte die Gabe von Prostavasin.
+
+Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- . Im Anschluss erfolgte die Verlegung auf B-ORG ORG.
+
+Bei symptomatischem Vorhofflimmern analog EHRA II erfolgte nach Thrombenausschluss eine elektrische Kardioversion in den normofrequenten Sinusrhythmus. Wir empfehlen die Durchführung eines Langzeit-EKGs im Verlauf. Bei einem symptomatischem Rezidiv empfehlen wir zudem eine Pulmonalvenenisolation zu evaluieren.
+
+Es wird eine duale Plättchenhemmung mittels ASS und Clopidogrel zusätzlich zur Vollantikoagulation mittels aktuell Clexane 2xtgl. 60mg empfohlen bis zur nächsten angiologischen Kontrolle am <[Pseudo] 16/08/2189> um 9h30 Uhr in unserer kardiologischen Ambulanz.
+
+Bei ausgeprägtem kardiovaskulärem Risikoprofil und pAVK empfehlen wir regelmäßige kardiologische Kontrolluntersuchungen sowie die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien. Zudem haben wir bei ausgeprägtem kardiovaskulären Risikoprofil einen Termin zur pharmakologischen Stressechokardiographie wie u.a. vereinbart.
+
+Außerdem raten wir zu einem regelmäßigen Gehtraining -LRB- bei pAVK Stadium I und II, kontraindiziert bei pAVK III und IV -RRB- .
+
+Wir passten die Medikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Des Weiteren begannen wir zur Lipidsenkung und Plaquestabilisierung eine Therapie mit einem Statin. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen die Patientin kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+Procedere/Termine:
+
+- Angiologische Kontrolle am <[Pseudo] 16/08/2189> um 9h 30 Uhr, Fortführung der Antikoagulation wie u.a. bis dahin
+-UNK- Festlegung des Antikoagulationskonzeptes
+
+- Regelmäßiges Gehtraining solange pAVK < Stadium III nach Fontaine
+
+- <[Pseudo] 31/01/2189> Termin pharmakologisches Stress-Echo um 12 Uhr in der kardiologischen Ambulanz
+-UNK- Bitte zudem Evaluation der Aortenklappenstenose
+
+- Durchführung eines ambulanten Langzeit-EKGs, in der Folge bei Vorhofflimmer-Rezidiv Evaluation einer Pulmonalvenenisolation
+
+- Regelmäßige Kontrolle der Transaminasen und des Blutbildes unter Carbimazol-Therapie. Zudem endokrinologische Vorstellung und Re-Evaluation inkl. Schilddrüsensonographie empfohlen.
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Clexane 0,6 1-0-1
+ASS 100mg 1-0-0
+Clopidogrel 75mg 1-0-0
+Bisoprolol 5mg -UNK- -0-1
+Torasemid 20 mg 1-1-0
+Vildagliptin 50 mg 1-0-0
+Atorvastatin 20 mg 0-0-1
+Ferrosanol 100mg 0-1-0
+Pantoprazol 40 mg 1-0-0
+Alendronsäure 70 mg 1-0-0 mittwochs
+Carbimazol 10 mg 1-0-1
+Irenat Tropfen 20 1-1-1 bis einschl. <[Pseudo] 25/06/2189>
+Insulin Liprolog Mix 10-0-12 IE
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+Mit freundlichen kollegialen Grüßen
+
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2188> und dem B-DAY B-MONTH <[Pseudo] 2188>
+Blutbild
+Parameter
+
+Wert
+
+Normb / Dimension
+Datum
+Leukozyten
+11.52 !H
+4 - 10 /nl
+B-DATE
+Hb
+8.2 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+2.7 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.250 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+90
+83 - 97 fl
+B-DATE
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+33
+30 - 36 g/dl
+B-DATE
+RDW
+15.7
+12,9 - 18,7 %
+B-DATE
+hypochr.Erythroz.
+6.9 !H
+0 - 2 %
+B-DATE
+Thrombozyten
+282
+150 - 440 /nl
+B-DATE
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+1.61
+1,0 - 4,8 /nl
+<[Pseudo] 13/07/89>
+Neutroph.G.-abs.
+6.96
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.66
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.21
+- <0,5 /nl
+<[Pseudo] 13/07/89>
+Basoph.G. -LRB- abs -RRB-
+0.03
+- <0,2 /nl
+<[Pseudo] 13/07/89>
+Neutroph.G. -LRB- mech. -RRB-
+72.4
+50 - 80 %
+<[Pseudo] 13/07/89>
+Lympho -LRB- mech. -RRB-
+16.8 !L
+25 - 40 %
+<[Pseudo] 13/07/89>
+Basoph.G.
+0.3
+- <1 %
+<[Pseudo] 13/07/89>
+Monozyten -LRB- mech. -RRB-
+6.9
+2 - 9 %
+<[Pseudo] 13/07/89>
+Eosinoph.G. -LRB- mech. -RRB-
+2.2
+2 - 4 %
+<[Pseudo] 13/07/89>
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+
+Wert
+
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+B-DATE
+Kalium -LRB- ISE -RRB-
+3.77
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.30
+2,11 - 2,59 mmol/l
+B-DATE
+Ca./korr.
+2.21
+2,1 - 2,65 mmol/l
+B-DATE
+Phosphat
+0.91
+0,84 - 1,45 mmol/l
+<[Pseudo] 13/07/89>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+Magnesium
+0.77
+0,75 - 1,05 mmol/l
+<[Pseudo] 13/07/89>
+Kreatinin
+1.26
+0,5 - 1,4 mg/dl
+B-DATE
+Harnstoff
+38
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+39.8 !L
+>60 s.u.
+B-DATE
+MDRD
+42.61
+ml/min/1,73qm
+B-DATE
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+Albumin quant.
+36.9
+30 - 50 g/l
+B-DATE
+Glucose
+135 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+16
+- <37 U/l
+B-DATE
+GPT/ALT
+9
+- <35 U/l
+B-DATE
+GGT
+11
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.40
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+9.5 !H
+- <6 mg/dl
+B-DATE
+Triglyceride
+90
+- <150 mg/dl
+B-DATE
+Cholesterin
+93.0
+- alt.abh. mg/dl
+<[Pseudo] 15/07/89>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+36
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+39 !L
+>50 mg/dl
+B-DATE
+Lipase
+34
+19 - 63 U/l
+<[Pseudo] 13/07/89>
+CRP
+42.6 !H
+- <5 mg/l
+B-DATE
+PCT sens.
+0.10 !H
+- <0,05 ng/ml
+<[Pseudo] 16/07/89>
+Hämolyse
+-
+
+<[Pseudo] 16/07/89>
+ikterisch
+-
+
+<[Pseudo] 16/07/89>
+Lipämie
+-
+
+<[Pseudo] 16/07/89>
+Aktivitätsparameter & Elektrophorese
+Parameter
+
+
+Wert
+
+Normb / Dimension
+Datum
+LDH
+262
+- <301 U/l
+B-DATE
+CK
+59
+- <170 U/l
+B-DATE
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+hs-TroponinT
+48.0 !H
+- <14 pg/ml
+<[Pseudo] 15/07/89>
+Endokrinologie & Diabetologie
+Parameter
+
+
+Wert
+
+Normb / Dimension
+Datum
+HbA1c
+6.4 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+46 !H
+20 - 42 mmol/mol
+B-DATE
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+mittlere Glucose
+137 !H
+- <110 mg/dl
+B-DATE
+TSH
+2.60
+0,400 - 4,000 mU/l
+<[Pseudo] 15/07/89>
+Gerinnungsdiagnostik
+Parameter
+
+
+Wert
+
+Normb / Dimension
+Datum
+Quick
+85.9
+70 - 125 %
+<[Pseudo] 15/07/89>
+INR - ber.
+1.08
+- <1.2
+<[Pseudo] 15/07/89>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+aPTT
+22.2
+- <35 s
+B-DATE
+Blutgasanalyse
+Parameter
+
+
+Wert
+
+Normb / Dimension
+Datum
+pH
+7.35 !L
+
+7,37 - 7,45
+B-DATE
+pO2
+25
+mmHg
+B-DATE
+pCO2
+44.7
+35 - 45 mmHg
+B-DATE
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+BE/Std.
+-1.3
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+22.5
+mmol/l
+B-DATE
+Laktat
+28.8 !H
+- <16 mg/dl
+B-DATE

@@ -1,0 +1,523 @@
+Aufnahmedatum: <[Pseudo] 2429-11-16 >
+Geburtsdatum: <[Pseudo] 2087-04-01 >
+Alter: 342
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 01/04/2087> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Koronare 2-Gefäßerkrankung mit hochgradiger RCA und intermediärer LAD-Stenose -LRB- B-OTHER vom <[Pseudo] 16/01/2170> -RRB-
+-UNK- Erfolgreiche PTCA/ 3x DES -LRB- resolute integrity 4,0 x26 mm + 4,0x 18mm + 4,0x18mm -RRB- der hochgradigen RCA-Stenose
+-UNK- 1-fach Hautnaht bei Blutung aus einem Hautgefäß
+
+-UNK- Erhöhte Drücke im kleinen Kreislauf -LRB- 45/12/32 mmHg -RRB-
+-UNK- ZVD 8 mmHg
+-UNK- PCWP 12 mmHg
+-UNK- Zentralvenöse Sättigung 60%
+-UNK- Cardiac Index 2,0l/min/cm²
+-UNK- Erhöhter PVR 342 dyn*sek*cm-5
+
+- Mäßige kombinierte post- und präkapilläre pulmonale Hypertonie
+-UNK- Keine spezifische Therapieindikation
+-UNK- Endgültiges pulmologisches Konsol wird nachberichtet
+Diagnosen:
+- Unklare pulmonale Hypertonie, a. e. pulmonal-arteriell -LRB- systolischer PA-Druck 85mmHg -RRB- -LRB- TTE Praxis Korff -RRB-
+-UNK- Eingeschränkte rechtsventrikuläre Pumpfunktion
+-UNK- Dilatitierter rechter Ventrikel
+-UNK- Vena cava inferior gestaut
+-UNK- Kein Hinweis auf eindeutige linkskardiale Ursache
+- Diffuse koronare 3-Gefäßerkrankung mit bekannter 70%-iger medialer RCA-Stenose und 60%-iger Stenose eines Septalastes -LRB- Herzkatheter vom <[Pseudo] 03/03/2168> B-ORG I-ORG I-ORG I-ORG -RRB-
+-UNK- Myokardzentigraphisch kein Nachweis einer signifikanten pharmakologisch induzierten Ischämiereaktion -LRB- <[Pseudo] 26/06/2169> -RRB-
+-UNK- Vorbefundlich unauffälliges Kardio-Stress-MRT mit negativem Ischämienachweis -LRB- Kardio-MRT vom <[Pseudo] 09/03/2168> -RRB-
+- Leichtgradige Aortenklappenstenose -LRB- KÖF 1,6cm2 -RRB-
+- Persistierendes Vorhofflimmern
+-UNK- Orale Antikoagulation mit Rivaroxaban
+-UNK- CHA2DS2-VASc Score: 4
+- COPD
+- Z. n. Sarkoidose
+- Chronische Niereninsuffizienz im Stadium G2 nach KDIGO
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, sistierter Nikotinkonsum -LRB- <[Pseudo] 2128> -RRB- , Adipositas, DM Typ II
+
+Allergien/Unverträglichkeiten: keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme erfolgte elektiv durch die Überweisung der Kardiologen bei Dyspnoe und pulmonaler Hypertonie.
+
+Der Patient beklagt Belastungsdyspnoe seit ca. 10 Wochen. Auf gezielte Nachfrage: Pektanginöse Beschwerden ausgeprägte Belastungsdyspnoe -LRB- analog NYHA IV -RRB- , kein Schwindel, keine Synkopen, keine Palpitationen. Es bestehen ständig periphere Ödeme bei zuletzt Gewichtsabnahme von 3 kg, nach Torasemid Einnahme. Nykturie bestehe 4 -mal pro Nacht bei einer Trinkmenge von 3 l/d, häuslich gemessenen Blutdruckwerte seien um 130/80 mmHg.
+
+Es besteht eine kardiale Dekompensation in der Vorgeschichte, zuletzt Ende B-YEAR damals a.e. bei diastolischer Dysfunktion. In den letzten 6 Wochen und bei Aufnahme kein Anhalt für einen Infekt -LRB- keine Dysurie, kein Fieber, kein Husten, kein subjektives Krankheitsgefühl -RRB- .
+
+Medikation bei Aufnahme:
+Xarelto 20mg 0-1-0
+Bisoprolol 5mg 1-0-1
+Candesatan 32mg 1-0-0
+Amlodipin 10mg 1-0-0
+Levodopa 100/25mg 0-1-0
+Torasemid 10mg 2-1-0
+Spirinolacton 25mg 1-0-0
+Atorvastatin 40mg 0-0-1
+Metformin 1000mg 1-0-1
+Teofilin 500mg 1-0-1
+Allopurinol 300mg -UNK- -0-0
+Tamsulosin 0,4mg 1-0-0
+Tramadol Lösung 6-6-6
+Macrogol beta plus 1-0-0
+Ferro sanol 100mg 0-1-0
+
+Trimbow 87/5/9 2-0-2
+Rotigotin Pflaster 6 24 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ:leicht eingeschränkt durch Dyspnoe
+EZ: adipös -LRB- Größe:180 cm, Gewicht:125 kg, BMI:38,6 kg/m2 -RRB-
+HF: /min
+RR: mmHg
+Keine Cyanose, keine Anämiezeichen, kein Ikterus.
+HT: leise, rein, bradykard keine path. Geräusche
+Lunge: bds. vesikuläres AG, exspiratiorisches Knistern.
+Pulsstatus: periphere Pulse gut tastbar
+Periphere Ödeme: keine
+Abdomen: weich, kein DS, keine Resistenzen, keine Abwehrspannung
+Neurol. Status: orientierend o.p.B.
+
+Ruhe-EKG bei Aufnahme:
+Sinusrhythmus, 53 /min, Rechtslagetyp. PQ 236 ms bei AV-Block I°, QRS 95 ms, QTc 482 ms. R/S Umschlag in V5/V6. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 17/01/2170>
+Normofrequente absolute arrhythmie bei VHF, 67 /min, Rechtslagetyp. QRS 114 ms, QTc 489 ms. R/S Umschlag in V5/V6. Keine signifikanten Kammerendteilveränderungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 16/01/2170> -RRB- :
+Herzkatheteruntersuchung bei V.a. Progress der KHK und bei PAH
+Erfolgreiche PTCA/3-fach DE-Stentimplantation -LRB- Resolute Intergrity 4,0x8mm/4,0x26mm;4,0x18mm -RRB- der hochgradigen langstreckigen RCA-Stenose. Koronare 2-Gefäßerkrankung der LAD und RCA. Verzicht auf LV-Angiographie zur Nephroprotektion. Erhöhte Drücke im kleinen Kreislauf -LRB- 45/20/32 mmHg -RRB- , normaler PCWP -LRB- 12mmHg -RRB- , erhöhter pulmonaler Gefäßwiderstand -LRB- 361 dyn.s.cm^-5 -RRB- ; passend zur präkapillären pulmonalen Hypertonie. Gemischtvenöse Sättigung 60%, Cardiac Index 2l/min/m². Normaler SVR -LRB- 1328 dyn.s.cm^-5 -RRB- , normaler LVEDP -LRB- 12 mmHg -RRB- . Kein relevanter Gradient über die Aortenklappe.
+
+Maßnahmen:
+1: Triple-Therapie 1 Woche, danach Clopidogrel+Xarelto 15 mg/d für 6 Monate und anschließend Xarelto 20mg/d
+2: Pulmonologische Abklärung bei PAH
+3: Optimale Einstellung der kardiovaskulären Risikofaktoren.
+
+Transthorakale Echokardiographie vom <[Pseudo] 15/01/2170:>
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit global guter bis leichtgradig eingeschränkter systolischer Pumpfunktion bei Hypokinesie inferior basal. Erhaltene longitudinale Funktion. Hinweise auf diastolische Dysfunktion. LA deutlich dilatiert, Dilatation des RA und des RV, leichtgradig eingeschränkte RV-Funktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, verdickt, verkalkt mit leichtgradiger Aortenklappenstenose -LRB- PPG 15 mmHg, MPG 7 mmHg, KÖF 1,6 cm² -RRB- . Leichtgradige zentrale Mitralklappeninsuffizienz sowie leichtgradige Trikuspidalklappeninsuffizienz.
+Der systolische PA-Druck in Ruhe ist deutlich erhöht -LRB- ca. 75-80 mmHg -RRB- .
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 15/01/2170:>
+Keine entsprechende Voruntersuchung zum Vergleich vorliegend.
+Befund und Beurteilung:
+Deutliche Cardiomegalie. Vergrößerte Hili DD bei klinischem Verdacht auf pulmonalarterielle Hypertonie gefäßbedingt. Vermehrte Zeichnung des Lungenparenchyms DD fibrotisch. Keine pulmonalvenöse Stauung. Kein Pleuraerguss. Kein Pneumothorax. Keine flächigen pneumonischen Infiltrate. Aortensklerose. Leichtes Kinking der Aorta descendens. Trachea nicht eingeengt. Degenerative Veränderung der teilerfassten Wirbelsäule.
+
+Pulmo Konsil vom <[Pseudo] 16/01/2170:>
+Beurteilung:
+Nach invasiver Diagnostik liegt bei B-SALUTE B-PER eine mäßige kombinierte post- und präkapilläre pulmonale Hypertonie vor. Diese ist nicht neu, bereits im externen Echo von <[Pseudo] 02/2168> -LRB- B-ORG I-ORG -RRB- werden deutliche Zeichen einer chronischen Rechtsherzbelastung beschrieben. Im aktuellen RHK liegt der systol. PA-Druck bereits deutlich niedriger als im vorherigen Echo -LRB- 80mmHg -> 42mmHg -RRB- , am ehesten durch die Rekompensation mittels Diuretika. Es finden sich mehrere Begleiterkrankungen als potentielle Ursachen:
+
+Pulmonal:
+Kombinierte Ventilationsstörung bei V.a. interstitielle Lungenerkrankung -LRB- auskultatorisch sowie nach Röntgen Thorax -RRB- sowie bronchialer Obstruktion. -> Bitte noch externe pneumologische Unterlagen besorgen -LRB- woher kommt Diagnose Sarkoidose? Gibt es ein externes CT-Thorax? Früher ohne Trimbow schwerere Obstruktion? -RRB- , ggf. CT-Thorax ergänzen. Eine ausgedehnte antiobstruktive Medikation mit Trimbow besteht bereits, allerdings mit fraglicher Compliance. Theophyllin kann abgesetzt werden.
+Kardial:
+Diastolische Dysfunktion und VHF, Blutdruck und HF sind wohl bereits gut eingestellt
+V.a. nächtliche Hypoxämie / schlafassoziierte Atemregulationsstörung bei BMI 37,7 kg/m²:
+-> noch unklar, bitte Polygraphie durchführen
+Thromboembolisch:
+bisher kein Lungenembolieausschluss erfolgt, jedoch bei bestehender Vollantikoagulation unwahrscheinlich
+
+Nachtrag vom <[Pseudo] 22/01/2170:>
+
+Zwischenzeitlich ist ein CT-Thorax erfolgt, hier zeigt sich eine mediastinale Lymphadenopathie -LRB- führend mit eher verfetteten LN -RRB- sowie ein Mosaikmuster und basal eine diskrete Fibrosierung sowie etwas Emphysem. Das parenchymale Verteilungsmuster ist nicht ganz typisch für eine Sarkoidose. Eine Alveolitis /Bronchiolits ist prinzipiell möglich. -> Abgleich mit früheren CT-Befunden und der Vordiagnostik der Sarkoidose empfohlen, Verlaufskontrolle beim betreuenden Lungenfacharzt, ggf. Vorstellung in der ILD-Ambulanz der Thoraxklinik zur Diskussion BAL und ggf. EBUS TBNA LN7.
+
+Pat. ist zwischenzeitlich entlassen ohne erfolgte Polygraphie -> ambulanter Ausschluss einer höhergradigen schlafassoziierten Atemregulationsstörung bei BMI 37,7 kg/m² empfohlen. Gewichtsreduktion anstreben.
+
+Von Seiten der pulmonalen Hypertonie zunächst Intensivierung der diuretischen Therapie optimalerweise mit Erhöhung des Spironolactons empfohlen sowie obige Abklärungen. Falls danach keine rückläufigen Beschwerden kann eine Vorstellung in einer PAH-Ambulanz zur individuellen Therapieentscheidung einer Gabe von am ehesten PD5-Hemmern erfolgen.
+
+Lungenfunktionsprüfung vom <[Pseudo] 16/01/2170:>
+Kapilläre Blutgasanalyse:
+Raumluft: unter Hyperventilation
+Spirometrie
+
+
+
+
+
+
+
+
+
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2169> und dem B-DAY B-MONTH <[Pseudo] 2169>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+11.79 !H
+4 - 10 /nl
+B-DATE
+Hb
+13.6
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.7
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.420
+0,38 - 0,52 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+<[Pseudo] 17/01/70>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 17/01/70>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 17/01/70>
+RDW
+16.7
+12,9 - 18,7 %
+<[Pseudo] 17/01/70>
+hypochr.Erythroz.
+4.1 !H
+0 - 2 %
+<[Pseudo] 17/01/70>
+Thrombozyten
+264
+150 - 440 /nl
+<[Pseudo] 17/01/70>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 17/01/70>
+Kalium -LRB- ISE -RRB-
+4.04
+3,4 - 5,0 mmol/l
+<[Pseudo] 17/01/70>
+Calcium
+2.62 !H
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+1.24
+0,6 - 1,7 mg/dl
+<[Pseudo] 17/01/70>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+73 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+53.8 !L
+>60 s.u.
+<[Pseudo] 17/01/70>
+MDRD
+75.83
+ml/min/1,73qm
+<[Pseudo] 14/01/70>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+46.2
+30 - 50 g/l
+<[Pseudo] 14/01/70>
+Glucose
+113 !H
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+26
+- <50 U/l
+B-DATE
+GGT
+61 !H
+- <60 U/l
+<[Pseudo] 14/01/70>
+Ges.Bili.
+0.7
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+7.8 !H
+- <7 mg/dl
+<[Pseudo] 14/01/70>
+Triglyceride
+71
+- <150 mg/dl
+<[Pseudo] 14/01/70>
+Cholesterin
+118.0
+- alt.abh. mg/dl
+<[Pseudo] 14/01/70>
+LDL-Chol. -LRB- berechn. -RRB-
+55
+- <160 mg/dl
+<[Pseudo] 14/01/70>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HDL-Cholesterin
+49
+>40 mg/dl
+B-DATE
+Eisen
+7.5 !L
+14 - 32 µmol/l
+<[Pseudo] 16/01/70>
+Ferritin
+104
+30 - 300 µg/l
+<[Pseudo] 16/01/70>
+Transferrin
+2.68
+2,0 - 3,6 g/l
+<[Pseudo] 16/01/70>
+TFSG
+11 !L
+16 - 45 %
+<[Pseudo] 16/01/70>
+CRP
+8.4 !H
+- <5 mg/l
+<[Pseudo] 17/01/70>
+Hämolyse
+-
+
+<[Pseudo] 17/01/70>
+ikterisch
+-
+
+<[Pseudo] 17/01/70>
+Lipämie
+-
+
+<[Pseudo] 17/01/70>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+238
+- <342 U/l
+B-DATE
+CK
+180
+- <190 U/l
+<[Pseudo] 14/01/70>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+26.6 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+3414 !H
+- <450 ng/l
+<[Pseudo] 14/01/70>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.4
+- <6,1 %
+<[Pseudo] 14/01/70>
+HbA1c -LRB- IFCC -RRB-
+36
+20 - 42 mmol/mol
+<[Pseudo] 14/01/70>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+108
+- <110 mg/dl
+<[Pseudo] 14/01/70>
+TSH
+2.26
+0,400 - 4,000 mU/l
+<[Pseudo] 14/01/70>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+66.9 !L
+70 - 125 %
+<[Pseudo] 14/01/70>
+INR - ber.
+1.19
+- <1.2
+<[Pseudo] 14/01/70>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+26.4
+- <35 s
+<[Pseudo] 14/01/70>
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.50 !H
+7,37 - 7,45
+B-DATE
+pO2
+71
+mmHg
+B-DATE
+pCO2
+31.7 !L
+35 - 45 mmHg
+<[Pseudo] 16/01/70>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+1.4
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+25.7
+mmol/l
+B-DATE
+Laktat
+22.3 !H
+- <16 mg/dl
+<[Pseudo] 16/01/70>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme des Patienten erfolgte nach Einweisung durch die betreuenden Kardiologen bei aktuell zunehmende Dyspnoe und V. a. eine pulmonal arterielle Hypertonie. Vorbefundlich besteht eine Koronare 3-Gefäßerkrankung die sich koronarangiographisch ohne signifikante Stenose präsentierte -LRB- <[Pseudo] 2167> -RRB- . Im Rahmen der Herzkatheteruntersuchung war eine diastolische Dysfunktion vermutet worden. Zudem besteht ein echokardiographisch erhöhter PA-Druck von ca. 85mmHg -LRB- extern -RRB- bei bekannter obstruktiver Lungenerkrankung.
+
+Im Röntgen Thorax zeigte sich eine deutliche Cardiomegalie und eine vermehrte Zeichnung des Lungenparenchyms. Es zeigte sich keine höhergradige pulmonalvenöse Stauung. In der transthorakalen Echokardiographie zeigte sich ein leicht hypertrophierter linker Ventrikel mit global guter bis leichtgradig eingeschränkter Pumpfunktion bei Hypokinesie inferior basal, passend zu den im Verlauf intervenierten Stromgebieten. Der PA-Druck war deutlich erhöht. Die Vena Carva inferior erschien nicht gestaut. Es zeigten sich keine höhergradigen Klappenvitien, bei jedoch klinisch deutlicher Stauungskomponente -LRB- Stauungsdermatitis und periphere Ödeme -RRB- wurde eine intravenöse Furorese zur Rekompensation durchgeführt.
+
+Nach erfolgter Rekompensation erfolgte die invasive Abklärung mittels Links- und Rechtsherzkatheteruntersuchung. Hier zeigte sich in der Koronarangiographie eine 2- Gefäßerkrankung von RCA und LAD mit hochgradiger RCA Stenose. Es erfolgte die erfolgreiche PTCA und 3-fach Stent-Implantation der hochgradigen RCA Stenose. Im Rechtsherzkatheter fanden sich nun allenfalls leicht erhöhte Drücke im pulmonalen Kreislauf -LRB- 42/15/28 mmHg -RRB-
+
+Der postprozedurarale Verlauf gestaltete sich komplikationslos. Es kam jedoch zu einer Blutung aus einem Hautgefäß während des Herzkatheters, die mit einer Hautnaht versorgt wurde -LRB- Hautnaht vor Entlassung gezogen -RRB- .
+
+Zur Stentverschlussprophylaxe empfehlen wir bei bestehender Antikoagulationsindikation eine Triple-Therapie mit dualer Thrombozytenaggregationshemmung -LRB- zusätzlich zur dauerhaften Antikoagulation in u.a. Dosierungen -RRB- mit ASS und Clopidogrel für insgesamt 7 Tage. Anschließend ist eine singuläre Thrombozytenaggregationshemmung -LRB- zusätzlich zur Antikoagulation -RRB- mit Clopidogrel bis 6 Monate nach Stentimplantation erforderlich. Hiernach ist die alleinige Antikoagulation ausreichend. Auf die Bedeutung einer lückenlosen Einnahme der Präparate für o.g. Zeiträume wurde explizit hingewiesen.
+
+Dem Patientenwurde ein Implantatausweis ausgehändigt. Es wurde ausführlich über notwendige Verhaltensanweisungen informiert.
+
+Zudem erfolgte eine pulmologische Mitbeurteilung und die Durchführung einer Bodyplethysmographie. In letzterer fand sich führend eine Verteilungsstörung mit leicht reduzierter Diffusionskapazität. Es wurde ein HR-CT durchgeführt. Hier zeigt sich eine mediastinale Lymphadenopathie -LRB- führend mit eher verfetteten LN -RRB- sowie ein Mosaikmuster und basal eine diskrete Fibrosierung sowie etwas Emphysem. Das parenchymale Verteilungsmuster ist nicht ganz typisch für eine Sarkoidose. Eine Alveolitis /Bronchiolits ist prinzipiell möglich. Wir empfehlen den Abgleich mit früheren CT-Befunden und der Vordiagnostik der Sarkoidose sowie eine Verlaufskontrolle beim betreuenden Lungenfacharzt. Hieran anschließend kann die Vorstellung in der ILD-Ambulanz der Thoraxklinik zur Diskussion BAL und ggf. EBUS/TBNA/LN7 diskutiert werden.
+
+Zum Ausschluss einer höhergradigen schlafassoziierten Atemregulationsstörung bei BMI 37,7 kg/m² empfohlen empfehlen wir die Durchführung einer ambulanten Polygraphie.
+
+Bei nur mäßig erhöhtem PVR und deutlicher Befundbesserung im Vergleich zum echokardiographisch gemessenen pulmonalen Hochdruck vor Rekompensation ist eine ausgeprägte postkapilläre Komponente desselben wahrscheinlich. Eine spezifische PAH-Therapie ist deshalb aus unserer Sicht aktuell noch nicht sinnvoll. Falls nach Intensivierung der diuretischen Therapie sowie obigen Abklärungen weiterhin Beschwerdeperstistenz besteht, kann eine Vorstellung in einer PAH-Ambulanz zur individuellen Therapieentscheidung einer Gabe von am ehesten PD5-Hemmern erfolgen.
+
+Bezüglich des inhalativen Triple-Präparates bei vorbekannter COPD besprachen wir mit dem Patienten erneut ausführlich die Notwendigkeit einer adäquaten Therapie-Adhärenz.
+
+Wir passten die Herzinsuffizienzmedikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Zudem bitten wir bei Statin-Therapie um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER mit einem Entlassgewicht von 115 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Procedere/Termine:
+- Zeitnahe, bereits geplante Vorstellung beim betreuenden Pulmologen B-TITLE B-PER B-PER - Durchführung einer Polygraphie zum Ausschluss schlafassoziierter Atemregulationsstörungen
+- Ambulante kardiologische Weiterbehandlung bei den betreuenden Kardiologen
+- Tägliche Gewichtskontrollen und Anpassung der Diuretika-Dosierung an den Gewichtsverlauf. Zeitnahe Vorstellung beim Hausarzt bei Gewichtszunahme > 2kg empfohlen.
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Xarelto 15 mg 1-0-0 bis zum <[Pseudo] 17/07/2170> danach 20 mg 1-0-0
+Clopidogrel 75 mg 1-0-0 bis zum <[Pseudo] 17/07/2170> danach absetzen
+ASS 100 mg 1-0-0 bis zum <[Pseudo] 23/01/2170> danach absetzen
+Pantozol 20 mg 1-0-1 solange Clopidogrel
+Bisoprolol 5mg 1-0-1
+Bitte regelmäßige Kontrollen von Herzfrequenz und Blutdruck und ggf. Dosisanpassung im Verlauf
+Candesatan 32mg 1-0-0
+Eplerenon 25mg 1-0-0 statt Spironolacton bei Hypotonie
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Jardiance 10mg 1-0-0 neu, bei HFpEF -LRB- Emperor-Preserved, NEJM <[Pseudo] 2169> -RRB-
+Bitte regelmäßige Kontrollen der Retentionsparameter und gute Intimhygiene. Bei rezidivierenden Harnwegsinfektionen absetzen
+Torasemid 10mg 3-2-0 erhöht
+Atorvastatin 40mg 0-0-1
+Metformin 1000mg 1-0-1
+Teophyllin 500mg 1-0-1 abgesetzt
+Allopurinol 300mg -UNK- -0-0
+Tamsulosin 0,4mg 1-0-0
+Levodopa 100/25mg 0-1-0
+Tramadol Lösung 6-6-6
+Macrogol beta plus 1-0-0
+Ferro sanol 100mg 0-1-0
+
+Trimbow 87/5/9 2-0-2
+Rotigotin Pflaster 6 24 1-0-0
+
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+
+Ärztl. Direktor Oberarzt Assistenzarzt

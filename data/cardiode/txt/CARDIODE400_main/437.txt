@@ -1,0 +1,492 @@
+Aufnahmedatum: <[Pseudo] 2038-12-29 >
+Geburtsdatum: <[Pseudo] 1980-06-30 >
+Alter: 58
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 30/06/1980> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- A.e. abgelaufenes akutes Koronarsyndrom -LRB- NSTEMI -RRB- bei schwerer koronarer 3-Gefäßerkrankung
+-UNK- In-Stent Verschluss der LCX
+-UNK- Intermediäre Stenosen des LAD-Abgangs und im weiteren Verlauf der LAD
+-UNK- RCA bekannt chronisch verschlossen
+-UNK- Hochdruck-PTCA / 2-fach DE-Stentimplantation -LRB- Resolute Integrity Supraflex Cruz -RRB- LCX. Danach TIMI III Fluss -LRB- B-OTHER v. <[Pseudo] 21/12/2038> -RRB-
+
+- ASS/Clopidogrel Resistenztestung: Gute Wirkung beider Präparate
+- Hyperkaliämie -LRB- 7,2 mmol/l -RRB- bei CNI und Kaliumsubstitution
+-UNK- Insulin + Glucose
+-UNK- Furosemid i.v.
+-UNK- Resonium
+-UNK- Inhalation mit Salbutamol
+-UNK- -UNK- Schnelle Beutel -UNK- am einliegenden PD-Katheter
+-UNK- Restitutio ad integrum
+
+- Progress der chronischen Niereninsuffizienz -LRB- Stadium III -> IV -RRB- unter Peritonealdialyse
+-UNK- Eindosierung Marcumar bei Kontraindikation DOAK
+
+- Wiedervorstellung zur Listungsevaluation und C7 + KardioMems-Implantation wie u.a.
+
+Diagnose:
+- Listung zur Herztransplantation aktuell Status NT seit PD Dialyse/Ulcera <[Pseudo] 03/2038>
+- ICMP bei Koronare 3-Gefäßerkrankung
+-UNK- höchstgradig eingeschränkter LV- Pumpfunktion TTE <[Pseudo] 11/2038>
+-UNK- Z.n. PTCA/1-fach DE-Stentimplantation -LRB- Promus Premier 3,5x24mm -RRB- Ramus marginalis. -LRB- B-OTHER vom <[Pseudo] 24/03/2038> -RRB-
+-UNK- bekannt verschlossener RCA, kollateralisiert über LCA. Gutes Langzeitergebnis nach PTCA/Stentimplantation der LAD. Erhöhte Drücke im kleinen Kreislauf -LRB- 60/30/40 mmHg -RRB- , erhöhter PCWP -LRB- 30 mmHg -RRB- , normaler pulmonaler Gefäßwiderstand -LRB- 126 dyn.s.cm^-5 -RRB- .
+-UNK- RCA bekannt verschlossen, retrograd kollateralisiert über RIVA, RCX 40% Sg11, RIVA 50% Sg 8 -LRB- B-LOC <[Pseudo] 04/2034> -RRB-
+-UNK- Z.n. 2-fach MitraClip- Implantation am <[Pseudo] 11/07/2034> -LRB- ORG -RRB-
+- Z.n. Sekundärprophylaktische ICD-Implantation nach CPR bei Kammerflimmern -LRB- <[Pseudo] 10/2025> -RRB-
+-UNK- Z.n. Aggregatwechsel <[Pseudo] 11/2034> -LRB- ORG -RRB-
+- PD Dialyse seit <[Pseudo] 10/04/2038> bei
+-UNK- ExitInfekt B-DATE - B-DATE z.Z. Genatmicin AT Dauertherapie
+-UNK- Akut auf chron. Nierenversagen bei kardiale Dekompensation und kardiorenalem Syndrom mit Urämie <[Pseudo] 03/2038>
+-UNK- Z.n. intermittierenden Hämodialyse per Shaldon <[Pseudo] 13/03/2038> - <[Pseudo] 08/04/2038>
+- Z.n. Infektkonstellation a.e. im Rahmen einer sekundärinfizierten Vigo rechtsseitig <[Pseudo] 03/2038>
+- Bekannte Unterschenkel-Ulzerationen mit Pseudomonasinfektion
+-UNK- Ambulante Versorgung: Wunde aktuell rückläufig -LRB- <[Pseudo] 11/2038> -RRB-
+- Z. n. Harnwegsinfektion <[Pseudo] 02/2038>
+- Diabetes mellitus Typ 2
+-UNK- V.a. diabetische Nephropathie bei Proteinurie
+- V.a. Zentralarterienverschluss <[Pseudo] 06/2038>
+- Paroxysmales Vorhofflimmern
+-UNK- CHA2DS2-VASc Score 6, HAS-BLED Score 3, EHRA I, LA Diameter 60mm -LRB- <[Pseudo] 11/2038> -RRB-
+-UNK- Z.n. Amiodaron-induzierter Hyperthyreose -LRB- AIT Typ 2 -RRB- <[Pseudo] 2028>
+-UNK- Z.n. Epithelkörperchenexstirpation bei prim. Hyperparathyreoidismus <[Pseudo] 2022> -LRB- PTH 7,1 pmol/l, Calcium 2,52 mmol/l -RRB-
+- Schlafapnoesyndrom mit CPAP-Therapie -LRB- seit <[Pseudo] 02/2024> -RRB-
+
+Kardiovaskuläre Risikofaktoren: Hypercholesterinämie, Adipositas Diabetes mellitus Typ 2, arterielle Hypertonie, positive Familienanamnese für koronare Herzerkrankung und plötzlichen Herztod.
+
+Allergien/Unverträglichkeiten: Lorazepam, Z.n. Amiodaron-induzierter Thyreotoxikose mit destruierenden Prozessen -LRB- AIT Typ 2 -RRB-
+Anamnese:
+
+Die stationäre Aufnahme erfolgte zur routinemäßigen Kontrolle bei aktiver Listung zur Herztransplantation.
+
+Der Patient berichtet über eine deutlich eingeschränkte körperliche Belastbarkeit im Alltag -LRB- 1 Etage -RRB- , mit gelegentlich inadäquater Belastungsdyspnoe -LRB- NYHA II -RRB- , aktuell explizit keine belastungsinduzierten pectanginösen Beschwerden. Keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen, kein Schwindel, keine stattgehabten Synkopen. Keine peripheren Ödeme. Die häuslichen Blutdruckmessungen seien um ca. 100/70 mmHg.
+
+
+
+Medikation bei Aufnahme:
+Apixaban 2,5 mg pausiert
+Carvedilol 12,5mg 1-0-1
+Entresto 24/26mg 1-0-1
+Eplereonon 25mg 1-0-0
+Fluvastatin 80mg 0-0-1
+Allopurinol 100mg 1-0-0
+Sitagliptin 25mg 1-0-0
+Torem 200mg 1-0-0
+Colecalciferol 20000IE sonntags
+Kalinor 600mg 2-2-2
+Kalium verla Beutel 0-0-1-2
+Calciumacetat/Magnesium 435/235mg 1-2-2
+Insulin n Plan
+Lactulose bei Bedarf
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe 175 cm, Gewicht 101 kg, -RRB-
+HF: 98/min, regelmäßig
+RR: xxxxx mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: unauffällig
+Neurol. Status: unauffällig
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+Grenzwertig tachykardes Vorhofflimmern, Herzfrequenz 98/min, Rechts-Typ. QRS 125 ms, QTc 399ms.
+Zögerliche R-Progression, ohne R/S Umschlag. S-Persistenz bis V6. Präterminale T-Negativierung in II, III, V4-V6, kompletter RSB -LRB- bekannt -RRB-
+
+Ruhe-EKG vom <[Pseudo] 22/12/2038:>
+Grenzwertig tachykardes Vorhofflimmern, Herzfrequenz 100/min, Rechts-Typ. QRS 108 ms, QTc 412 ms.
+Zögerliche R-Progression, ohne R/S Umschlag. S-Persistenz bis V6. Präterminale T-Negativierung in II, III, V6, inkompletter RSB -LRB- bekannt -RRB-
+
+Ruhe-EKG vom <[Pseudo] 23/12/2038:>
+Tachykardes Vorhofflimmern, unregelmäßig, 109/min, Rechtstyp. QRS 110 msec -LRB- nachgemessen -RRB- , QTc 411 msec, Inkompletter -LRB- bekannter -RRB- RSB. Fehlende R-Progression über der Vorderwand ohne R/S Umschlag. S-Persistenz bis V6. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 24/12/2038:>
+Normofrequentes Vorhofflimmern, unregelmäßig, 94/min, Rechtstyp. QRS 115 msec -LRB- nachgemessen -RRB- , QTc 417 msec, Inkompletter -LRB- bekannter -RRB- RSB. Fehlende R-Progression über der Vorderwand ohne R/S Umschlag. S-Persistenz bis V6. Keine signifikanten Kammerendteilveränderungen. VES.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 21/12/2038> -RRB- :
+Befund folgt.
+
+Transthorakale Echokardiographie vom <[Pseudo] 22/12/2038:>
+Deutlich dilatierter linker Ventrikel mit höchstgradig verminderter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte. Deutlich verminderte longitudinale Funktion. Compliancestörung des LV. LA, RA und RV deutlich dilatiert, reduzierte RV-Pumpfunktion. Kein Perikarderguss nachweisbar. Vena cava inferior gestaut. 2 MitraClip-Devices zwischen den Segmenten A2 und P2 der Mitralklappe aufgrund des fehlenden Schallfensters in der kurzen Achse nicht einsehbar, von apikal sonographisch
+regelrecht, dopplersonographisch residuelle noch mittelgradige Insuffizienz, keine relevante Stenosewirkung nachweisbar. Minimale Aortenklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist erhöht -LRB- ca. 55 mmHg -RRB- . Im direkten Vergleich zur Voruntersuchung vom <[Pseudo] 12/11/2038:> Zunahme der Mitralklappeninsuffizienz, ansonsten keine wesentlichen Befundänderungen.
+Labor:
+
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2038> und dem B-DAY B-MONTH <[Pseudo] 2038>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.36
+4 - 10 /nl
+B-DATE
+Hb
+15.0
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.6
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.450
+0,38 - 0,52 l/l
+B-DATE
+MCV
+99 !H
+83 - 97 fl
+<[Pseudo] 26/12/38>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+33
+27 - 33 pg
+<[Pseudo] 26/12/38>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 26/12/38>
+RDW
+17.9
+12,9 - 18,7 %
+<[Pseudo] 26/12/38>
+hypochr.Erythroz.
+1.6
+0 - 2 %
+<[Pseudo] 26/12/38>
+Thrombozyten
+164
+150 - 440 /nl
+B-DATE
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+136
+135 - 146 mmol/l
+<[Pseudo] 26/12/38>
+Kalium -LRB- ISE -RRB-
+4.68
+3,4 - 4,8 mmol/l
+<[Pseudo] 26/12/38>
+Calcium
+2.31
+2,11 - 2,59 mmol/l
+<[Pseudo] 26/12/38>
+Kreatinin
+<NONE> !H
+0,6 - 1,2 mg/dl
+<[Pseudo] 26/12/38>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+78 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+9.0 !L
+>60 s.u.
+<[Pseudo] 26/12/38>
+MDRD
+10.42
+ml/min/1,73qm
+<[Pseudo] 20/12/38>
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+40.5
+30 - 50 g/l
+<[Pseudo] 20/12/38>
+Glucose
+137 !H
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+12
+- <50 U/l
+B-DATE
+GGT
+137 !H
+- <60 U/l
+B-DATE
+Ges.Bili.
+1.60 !H
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+6.3
+- <7 mg/dl
+<[Pseudo] 20/12/38>
+Triglyceride
+199 !H
+- <150 mg/dl
+<[Pseudo] 20/12/38>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+182.0
+- alt.abh. mg/dl
+<[Pseudo] 20/12/38>
+LDL-Chol. -LRB- berechn. -RRB-
+111
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+31 !L
+>40 mg/dl
+B-DATE
+CRP
+20.9 !H
+- <5 mg/l
+<[Pseudo] 20/12/38>
+Hämolyse
+-
+
+<[Pseudo] 26/12/38>
+ikterisch
+-
+
+<[Pseudo] 26/12/38>
+Lipämie
+-
+
+<[Pseudo] 26/12/38>
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+278
+- <317 U/l
+B-DATE
+CK
+100
+- <190 U/l
+<[Pseudo] 20/12/38>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+<NONE> !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+13932 !H
+- <125 ng/l
+<[Pseudo] 20/12/38>
+
+Endokrinologie & Diabetologie
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+8.6 !H
+- <6,1 %
+<[Pseudo] 20/12/38>
+HbA1c -LRB- IFCC -RRB-
+70 !H
+20 - 42 mmol/mol
+<[Pseudo] 20/12/38>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+200 !H
+- <110 mg/dl
+<[Pseudo] 20/12/38>
+TSH
+2.40
+0,400 - 4,000 mU/l
+<[Pseudo] 20/12/38>
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+24.3 !L
+70 - 125 %
+B-DATE
+INR - ber.
+<NONE> !H
+- <1.2
+B-DATE
+aPTT
+27.4
+- <35 s
+<[Pseudo] 20/12/38>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+ASS
+3
+Ohm
+B-DATE
+CLOPI
+0
+Ohm
+<[Pseudo] 24/12/38>
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.32 !L
+7,37 - 7,45
+B-DATE
+pO2
+20
+mmHg
+B-DATE
+pCO2
+49.9 !H
+35 - 45 mmHg
+<[Pseudo] 21/12/38>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-1.8
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+21.4
+mmol/l
+B-DATE
+Laktat
+14.2
+- <16 mg/dl
+<[Pseudo] 21/12/38>
+Weitere Laborwerte
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+243 !H
+65 - 100 mg/dl
+<[Pseudo] 28/12/38>
+Zusammenfassung:
+
+
+
+
+
+Die stationäre Aufnahme erfolgte zur routinemäßigen stationären Kontrolle bei aktiver Listung zur Herztransplantation und Listungsevaluation.
+
+Im Rahmen der routinemäßigen Laborkontrolle zeigte sich eine massive Hyperkaliämie, die durch o.g. Maßnahmen unter konsiliarischer Mitbetreuung der nephrologischen B-SALUTE behandelt wurde.
+
+Zudem fand sich ein massiv erhöhtes Troponin bei jedoch asymptomatischem Patienten ohne elektrokardiographische Zeichen eines akuten Myokardsyndroms. Es erfolgte eine Verlaufs-TnT Kontrolle, hier signifikanter Abfall im Verlauf, somit a.e. abgelaufenes Koronarereignis. In Rücksprache mit B-PER wurde aufgrund des Zufallsbefundes und vordringlicheren Problems der Hyperkaliämie ein zunächst abwartendes Prozedere bzgl. der Koronarien getroffen. Es erfolgte ein Loading mit Clopidogrel bei bestehender Antikoagulation.
+
+Bei PD-Dialyse wurde die entsprechende Ambulanz informiert -LRB- Tel.: PHONE -RRB- . Die Materialien -LRB- Cycler, Baxxter-Beutel -RRB- wurden angefordert. Unter kontinuierlicher PD-Dialyse konnte eine Normokaliämie erreicht werden. Es erfolgte konsekutiv die Verlegung in den Herzkatheter.
+
+In der Koronarangiographie zeigte sich eine schwere Koronare 3 -Gefäßerkrankung mit hochgradiger In-Stent-Stenose der LCX. Es erfolgte eine erfolgreiche Rekanalisation der hochgradigen LCX -Stenose mittels Hochdruck-PTCA und 2-fach DE-Stentimplantation.
+
+Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Zur Stentverschlussprophylaxe empfehlen wir bei bestehender Antikoagulationsindikation eine Triple-Therapie mit dualer Thrombozytenaggregationshemmung -LRB- zusätzlich zur dauerhaften Antikoagulation -RRB- mit ASS und Clopidogrel für insgesamt 1 Monat. Anschließend ist eine singuläre Thrombozytenaggregationshemmung -LRB- zusätzlich zur Antikoagulation -RRB- mit Clopidogrel bis 12 Monate nach Stentimplantation erforderlich. Hiernach ist die alleinige Antikoagulation ausreichend. Auf die Bedeutung einer lückenlosen Einnahme der Präparate für o.g. Zeiträume wurde explizit hingewiesen.
+
+Ein ASS/Clopidogrel Resistenztest zeigte eine gute Wirkung beider Präparate. Bei GFR < 15 ml/min wurde die Antikoagulation auf Marcumar umgestellt. Bei Entlassung war der INR im Zielbereich -LRB- 2-3 -RRB- .
+
+Echokardiographisch fand sich nach NSTEMI im Wesentlichen Befundkonstanz mit weiterhin hochgradig eingeschränkter Pumpfunktion.
+
+Eine Listungsevaluation führten wir im Kontext des soeben abgelaufenen Koronarsyndroms nicht durch. Wir vereinbarten einen Termin zur stationären Wiederaufnahme wie u.a. Zudem wurden bei weiter zunehmendem Gewicht des Patienten noch einmal auf die dringende Indikation zum Gewichtsverlusts hingewiesen. In diesem Zusammenhang wurde auch erneut auf zusätzliche Kalorienzufuhr im Rahme der Peritonealdialyse durch die Glucoselösung hingewiesen. Es erfolgte eine psychosomatische Mitbetreuung zur Unterstützung der Gewichtsreduktion. Eine ambulante Betreuung wurde gebahnt. Aus psychosomatischer Sicht besteht ansonsten aktuell keine Kontraindikation zur Herztransplantation und der entsprechenden Compliance und somit diesbezüglich keine Bedenken bzgl. der Durchführung der Listungsevaluation im Januar.
+
+Dem Patienten wurde ein Implantatausweis ausgehändigt. Es wurde ausführlich über notwendige Verhaltensanweisungen informiert.
+
+Wir passten die Herzinsuffizienzmedikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Zudem bitten wir bei Statin-Therapie um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER mit einem Entlassgewicht von 101 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+
+
+Procedere/Termine:
+- Termin auf ORG am <[Pseudo] 22/02/39> um 9:00 Uhr zur Listungsevaluation und ggf. Cardio-Mems Implantation
+- Bis dahin insbesondere Gewichtsreduktion empfohlen -LRB- insb. körperliche Aktivität an > 4-5 Tagen pro Woche -LRB- z. Bsp. 45 min Ausdauersport / zügiges Gehen -RRB- und reduzierte Kalorienzufuhr
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Marcumar nach INR -LRB- Ziel: 2-3 -RRB-
+ASS 100 mg 1-0-0 bis <[Pseudo] 20/01/2039> danach absetzen
+Clopidogrel 75 mg 1-0-0 bis <[Pseudo] 21/12/2039> danach absetzen
+Pantozol 20 mg 1-0-1 bis <[Pseudo] 21/12/2039>
+Bisoprolol 5mg 1-0-1 statt Carvedilol bei Hypotonie
+Bitte regelmäßige Kontrollen von Herzfrequenz und Blutdruck und ggf. Dosisanpassung im Verlauf
+Ramipril 1,25 mg 1-0-0 statt Entresto, absetzen bei Hypotonie
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Fluvastatin 80mg 0-0-1 Ziel LDL < 55 mg/dl
+Bitte regelmäßige Kontrollen von CK, Transaminasen und Lipiden und bei Verträglichkeit LDL-adaptierte Dosisanpassung
+Torem 200mg 1-0-0
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Colecalciferol 20000IE sonntags
+Kalinor 600mg 1-1-1 reduziert
+Calciumacetat/Magnesium 1-2-2
+435/235mg
+
+Insulin n Plan
+Lactulose bei Bedarf
+Abgesetzt:
+
+Entresto 24/26mg 1-0-1 abgesetzt bei GFR < 15
+Eplerenon 25mg 1-0-0 abgesetzt bei GFR < 15
+Allopurinol 100mg 1-0-0 abgesetzt
+Sitagliptin 25mg 1-0-0 abgesetzt
+Kalium verla Beutel 0-0-1-2 abgesetzt
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

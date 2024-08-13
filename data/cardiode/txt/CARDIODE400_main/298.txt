@@ -1,0 +1,102 @@
+Aufnahmedatum: <[Pseudo] 2037-05-05 >
+Geburtsdatum: <[Pseudo] 2012-12-24 >
+Alter: 24
+
+über Ihre Patientin B-SALUTE B-PER B-PER geboren am <[Pseudo] 24/12/2012> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Ad Vorstellung in Arrhythmie-Sprechstunde am <[Pseudo] 13/08/2037> um 13 Uhr in unsere HIS-Ambulanz
+- Kriterien für Brugada-Syndrom nicht vollständig erfüllt -LRB- s.o -RRB- . Ausgeprägte Sinusarrhythmie, normale supra- und infrahisäre Leitungszeiten -LRB- B-OTHER vom <[Pseudo] 06/05/2037> -RRB-
+- Synkope unklarer Genese am <[Pseudo] 25/04/2037>
+-UNK- V.a. rhythmogene Genese
+- Ausschluss akuter Myokardinfarkt
+- Klinisch und laborchemisch kein Hinweis auf Lungenarterienembolie oder Aortendissektion
+- Anamnestisch depressive Erkrankung
+
+Kardiovaskuläre Risikofaktoren: Nikotinanamnese: früher, Packyears: 1,5
+
+Allergien: Novalgin -LRB- keine Allergie jedoch deutlicher Blutdruckabfall -RRB-
+
+Indikationen für verlängerten stationären Aufenthalt:
+- Katheter-gestützte elektrophysiologische Untersuchung erst am Folgetag aus Kapazitätsgründen
+
+Anamnese:
+Die aktuelle Vorstellung der Patientin erfolgt als Übernahme aus dem B-ORG zur elektiven elektrophysiologischen Untersuchung mit Ablation bei Z.n. Synkope unklarer Genese am B-DATE. Die initiale Vorstellung erfolgte in unserer B-ORG als Selbstvorstellung bei Synkopen und Bradykardien am B-DATE Anamnestisch bestanden seit 2-3 Jahren wiederkehrende Bradykardien bis 38/min in Ruhe mit begleitendem Schwindel und mehrmalig stattgehabte Synkopen. Eine umfangreiche Diagnostik sei bisher immer ergebnislos verlaufen. Am Samstag trat nach Sitzen im Auto ein plötzlicher Schwindel auf. Darüber hinaus zeigte sich eine Synkope beim Liegen im Bett mit einer Bewusstlosigkeit von 3-4 min. Es folgte die notfallmäßige Aufnahme im B-ORG. Die Patientin entließ sich gegen ärztlichen Rat. Heute Morgen zeigte sich beim Hausarzt eine erneute Episode mit Bradykardie und Schwindel, gefolgt von einer Tachykardie bis zu 180/min. Darüber hinaus zeigte sich eine präsynkopale Symptomatik, wobei keine Synkope eintrat. B-SALUTE B-PER berichtet von Palpitationen bei Belastung, neuerdings auch in Ruhe. Auf spezifische Nachfrage berichtet die Patientin von einer mäßigen Belastbarkeit im Alltag, einem gelegentlich auftretenden retrosternalen Druckgefühl ohne Ausstrahlung sowie einer Belastungsdyspnoe -LRB- entsprechend NYHA II -RRB- . Es liegen keine Ödeme vor. Es besteht zusätzlich kein Hinweis auf einen akuten Infekt. Häusliche Blutdruckwerte werden als schwankend bewertet. Es liegt keine Immobilisation und keine TVT/LAE in der Vorgeschichte vor.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 170 cm; 65 kg
+HF: 48/min, regelmäßig
+RR: 128/69 mmHg
+Temperatur 36,8° Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig
+HT: rein, keine patholog. Geräusche
+Lunge: bds. frei
+Periphere Ödeme: keine
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG post ablationem -LRB- <[Pseudo] 30/04/2037> -RRB- :
+Sinusrhythmus, Herzfrequenz 55/min, Linkstyp, PQ 142 ms, QRS 100 ms , QTc 422 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. T-Wellen Negativierung in V1. Darüber hinaus keine signifikanten Kammerendteilveränderungen.
+
+Elektrophysiologische Untersuchung -LRB- B-OTHER vom <[Pseudo] 06/05/2037> -RRB- :
+3-fache Punktion der V. femoralis dextra. Einbringen von drei 4-poligen diagnostischen Standardkathetern in HRA-, RV-Apex und HIS-Position. Zu Untersuchungsbeginn ausgeprägte Sinusarrhythmie, keine auffällige ventrikuläre Extrasystolie. Kein Epsilon-Potential. Normale QT-Zeit. Rechtsverspätung in V1. Normale Sinusknotenerholungszeit -LRB- korrigiert -RRB- . Ausschluss einer akzessorischen Bahn durch inkrementale RA- und RV-Stimulation. Bei programmierter RA-Stimulation mit 1 ES bei 2 BZL keine supraventrikuläre Tachyarrhythmie induzierbar. Anhalt für dualen AV-Knoten, jedoch ohne induzierbare AVNRT. Bei programmierter RV-Stimulation mit 3 ES vom RV-Apex keine ventrikuläre Tachyarrhythmie induzierbar. Intermittierend Induktion von kurzen, selbstlimitierenden atrialen Salven unklarer klinischer Signifikanz. Unauffälliger Carotis-Druckversuch im Liegen bds -LRB- häufige VES unter CSM -RRB- . Unter Ajmalin morphologisch Induktion eines Brugada-Typ-I arigen EKG Morphologie, Grad der ST-Elevation jedoch nicht signfikant. Normale supra- und infrahisäre Leitungszeiten.
+Nomale infrahisäre Leitungsreserve -LRB- HV-Zeit ms 42 --> 68 ms, 1:1 AV-Überleitung bis 460 ms mit suprahisärer Blockierung unter Ajmalin -RRB- .
+Zusammenfassung:
+Kriterien für Brugada-Syndrom nicht vollständig erfüllt -LRB- s.o -RRB- . Ausgeprägte Sinusarrhythmie, normale supra und infrahisäre Leitungszeiten.
+Proc.:
+DV 4h. Monitorüberwachung streng bis 14:30 Uhr nach Ajmalinapplikation, anschließend gemäß Anordnung Stationsarzt. LZ-EKG in domo. Sofern weiter nicht richtungsweisen ad ILR-Implantation bei unklaren Synkopen und Palpitationen nach Klärung der Kostenerstattung durch die Krankenkasse. Vorstellung in Arrhythmie-Sprechstunde -LRB- B-TITLE B-PER -RRB- im Verlauf zum genetischen Screening.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2036>
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+Gesamt-HCG
+<2.0
+- <6 mIE/ml
+B-DATE
+
+
+
+
+
+
+
+
+
+Zusammenfassung:
+Am <[Pseudo] 06/05/2037> erfolgte eine elektrophysiologische Untersuchung. Die Kriterien für Brugada-Syndrom wurden nicht vollständig erfüllt. Es zeigte sich eine ausgeprägte Sinusarrhythmie mit normalen supra und infrahisäre Leitungszeiten.
+
+Procedere:
+Wir empfehlen die Durchführung eines LZ-EKGs. Sofern dies nicht weiter richtungsweisend sein sollte empfehlen wir eine ILR-Implantation bei unklaren Synkopen und Palpitationen nach Klärung der Kostenerstattung durch die Krankenkasse. Darüber hinaus empfehlen wir die Vorstellung in unserer B-ORG -LRB- B-TITLE I-TITLE B-PER -RRB- im Verlauf zum genetischen Screening. Ein Termin hierfür wurde für den <[Pseudo] 13/08/2037> um 13 Uhr in unsere HIS-Ambulanz vereinbart.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien.
+
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchungen, welche gerne auch bei einem niedergelassenen B-SALUTE durchgeführt werden können. Falls gewünscht kann hierfür auch ein Termin in unserer B-ORG I-ORG -LRB- Tel.: B-PHONE -RRB- vereinbart werden.
+
+Nächster Termin/Kontrolle:
+Regelmäßige kardiologische Kontrolluntersuchungen, wenn vom zuweisenden B-SALUTE gewünscht, gerne auch in unserer B-ORG -LRB- Terminvereinbarung: B-PHONE -RRB- .
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Eszitalopram 10 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin am <[Pseudo] 07/05/2037> in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gern zur Verfügung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir bedanken uns für die Überweisung und die vertrauensvolle Zusammenarbeit.
+
+Mit freundlichen Grüßen
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

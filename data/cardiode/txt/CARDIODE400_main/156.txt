@@ -1,0 +1,653 @@
+Aufnahmedatum: <[Pseudo] 2031-12-22 >
+Geburtsdatum: <[Pseudo] 1965-09-09 >
+Alter: 66
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 09/09/1965> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreiche transfemorale Aortenklappenimplantation -LRB- Evolut R 34 mm -RRB- am <[Pseudo] 16/12/2031> bei kombiniertem Aortenklappenvitium mit führender hochgradiger Stenose -LRB- B-OTHER -RRB-
+-UNK- Z.n. Hochgradiger Aortenklappenstenose -LRB- AÖF-Kontinuitätsgleichung = 0,5 cm², PPG 77 mmHg, MPG 53 mmHg -RRB-
+-UNK- Erfolgreiche 2-Kammer-Schrittmacher-Implantation -LRB- Medtronic Attesta DR -RRB- am <[Pseudo] 16/12/2031> bei postinterventionellem AV-Block III°
+- Koronare Herzerkrankung ohne höhergradige Stenosen im Herzkatheter -LRB- B-OTHER vom <[Pseudo] 29/11/2031> -RRB- bei Unpassierbarkeit der Aortenklappe
+-UNK- Sekundärer Myokardschaden mit minimer Troponinkinetik
+-UNK- Echokardiographischer Nachweis leichtgradig reduzierter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen
+- Ausgeprägte Steatosis hepatis -LRB- TAVI Planungs CT v. <[Pseudo] 16/12/2031> -RRB-
+-UNK- Engmaschige abdomensonographische Verlaufskontrolle empfohlen
+- Chronisch venöse Insuffizienz mit Unterschenkelulzera bds
+- Hypothyreose
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Adipositas permagna -LRB- BMI <NONE> kg/m² -RRB-
+Allergien/Unverträglichkeiten: Keine bekannt
+
+
+Anamnese:
+Die stationäre Aufnahme des Patienten erfolgt als Übernahme aus dem B-ORG zur geplanten transfemoralen Aortenklappenimplantation bei hochgradiger Aortenklappenstenose. Der Patient hatte sich initial am <[Pseudo] 26/11/2031> bei V.a. das Vorliegen einer koronaren Herzerkrankung in unserer Chest-Pain-Unit vorgestellt. Es bestehen seit etwa Anfang B-MONTH belastungsabhängige thorakale Druckbeschwerden, außerdem im Alltag eingeschränkte körperliche Belastbarkeit vor allem aufgrund des Übergewichts -LRB- 1 Etage Treppensteigen möglich, NYHA II -RRB- . Auf spezifisches Nachfragen werden Palpitationen, Herzrhythmusstörungen, Schwindel oder Synkopen verneint. Periphere Oedeme bei chronisch venöser Insuffizienz sowie ausgeprägte Unterschenkel-Ulcera bds. Häusliche Blutdruckmessungen werden nicht durchgeführt. Von <[Pseudo] 07.12.> bis <[Pseudo] 15/12/2031> war der Patient zur stationären Überwachung im B-ORG
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: Adipositas per magna -LRB- 182 cm/ <NONE> kg -RRB-
+BMI: <NONE> kg/m²
+HF: 94/min, regelmäßig
+RR: 130/60 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig.
+HT: leise, 2/6 Systolikum p.m. 2. ICR re. parasternal mit Ausstrahlung in die Carotiden
+Lunge: o.B.
+Periphere Ödeme: bds
+Pulsstatus: o.B.
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: US-Ulcerationen
+
+Ruhe-EKG vom <[Pseudo] 15/12/2031:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 97/min, Indifferenztyp, PQ 176 ms, QRS 113 ms, QTc 402 ms. Frühe R-Progression, RS-Umschlag in V1/V2. Keine signifikanten Kammerendteilveränderungen.
+
+Herzkatheter-Untersuchung -LRB- B-OTHER vom <[Pseudo] 29/11/2031> -RRB- :
+Herzkatheteruntersuchung bei V.a. relevante koronare Herzerkrankung:
+Koronare Herzerkrankung ohne höhergradige Stenosen. Passage der Aortenklappe bei stark ausgeprägtem Kinking nicht möglich.
+
+Maßnahmen:
+1 -RRB- konservativ bzgl. Koronarien
+2 -RRB- TTE in domo bzgl. LVEF + Aortenklappe
+3 -RRB- Kontrolle und Einstellung der kardiovaskulären Risikofaktoren
+
+
+Lungenfunktionsprüfung vom <[Pseudo] 30/11/2031:>
+Kapilläre Blutgasanalyse:
+Raumluft: Hypoxie, Normokapnie, normaler Säure-Basen-Status.
+Spirometrie:
+Keine Obstruktion.
+Mittelgradige Restriktion.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 01/12/2031:>
+Links diskrete, rechts leichtgradige Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz -LRB- rechts ein etwas prominenter, echoreicher Plaque im Bulbus -RRB- . Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet. IMD rechts 0,08 cm, links 0,08 cm. Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar. Erstbefund in domo.
+
+TAVI-CT vom <[Pseudo] 03/12/2031:>
+Keine entsprechenden VU zum Vergleich vorliegend.
+Befund:
+Gefäße
+Regelrechte Darstellung der miterfassten, supraaortalen Äste. Keine Aortendissektion, kein Aneurysma. Keine Lungenarterienembolie, soweit beurteilbar. Ausgeprägte Aortenklappensklerose, mäßige Vasosklerose. Iliakalachse bds. mäßig elongiert.
+Thorax:
+Keine Infiltrate, kein Pleura- oder Perikarderguss. Linksventrikuläre Hypertrophie.
+Abdomen:
+Ausgeprägte Steatosis hepatis. Kein Nachweis von fokalen Läsionen der parenchymatösen Oberbauchorgane soweit beurteilbar. Keine Cholestase, kein Harnstau. Kein Aszites.
+Skelett
+Degenerative Veränderungen des Achsenskeletts.
+BEURTEILUNG
+- Die Beurteilung der kritischen Gefäße im Hinblick auf die Machbarkeit des Eingriffs erfolgt durch die die Intervention planende Fachabteilung.
+- Ausgeprägte Aortenklappensklerose.
+- Keine höhergradige Stenosen oder Elongationen der Aorta thorakoabdominalis oder der Iliakalachsen.
+- Ausgeprägte Steatosis hepatis.
+
+Aortenklappenimplantation -LRB- B-OTHER -RRB- vom <[Pseudo] 16/12/2031:>
+Interventionelle Klappenimplantation bei deutlich erhöhtem OP-Risiko für eine konventionelle Operation:
+Erfolgreiche transfemorale Implantation einer Aortenklappenbioprothese -LRB- Evolut R Klappe; 34 mm -RRB- unter Lokalanästhesie bei hochgradiger Aortenklappenstenose. Vorher einmalige Ballonvalvuloplastie der Aortenklappe mittels 22 mm Ballon unter rapid pacing. Nachdilatation mit 26mm Ballon.
+Postprocedural keine Aortenklappeninsuffizienz.
+Verschluss der A. femoralis rechts -LRB- 16F -RRB- mit dem Proglidesystem.
+
+Maßnahmen:
+Nach SOP.
+
+Ruhe-EKG nach Implantation:
+Durchgehend ventrikuläre Schrittmacherimplantation mit konsekutiven Kammerendteilveränderungen, Herzfrequenz 69/min. QRS 160 ms, PQ 506 ms.
+
+2-Kammer-Schrittmacherimplantation vom <[Pseudo] 16/12/2031:>
+Aggregathersteller: B-OTHER
+RA-Elektrode: B-OTHER
+RV-Elektrode: B-OTHER
+
+Messwerte:
+RA: RS: 0,5V/0,5 ms RV: RS: 0,4V/0,5 ms
+Impedanz: 486 -UNK- Impedanz: 597 -UNK-
+Sensing: 4,3mV Sensing: n.m. -LRB- kein Eigenrythmus -RRB-
+Zugang: V. subclavia links Zugang: V. subclavia links
+
+OP-Dauer: 53min. DL-Zeit: 2,40min. Dosis: 1,295Gy·cm² KM: 0ml
+
+Operation:
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links. Der Zugang der Ventrikelelektrode erfolgte transvenös über Punktion der Vena subclavia links. Phlebographie. Venotomie. Vorschieben der Ventrikelelektrode unter Bildwandlerkontrolle in die Spitze des rechten Ventrikels. Problemloses Platzieren der Sonde mit guten Messwerten. Erneute Venotomie. Vorschieben der Vorhofelektrode unter Bildwandlerkontrolle in den rechten Vorhof. Gute Messwerte. Danach Konnektion des Generators und Versenken in der Tasche. Schichtweiser Wundverschluß unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links subfaszial angelegt. Verband. Zug des passageren SM unter Durchleuchtung.
+Procedere:
+1. Verbandswechsel 3-4 Tage postoperativ, Sandsack bis morgen Mittag, Aussetzen der Antikoagulation für 2 Tage, postoperative Aggregatkontrolle morgen, Monitor bis zur Aggregatkontrolle, Rö-Thorax in 2 Ebenen in Exspiration, Echokontrolle zum PE-Ausschluß, WV zur Wundkontrolle in 10-12 Tagen -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- .
+Fahrungeeignet gemäß dem Positionspapier der DGK für mindestens 1 Woche.
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 16/12/2031:>
+Zum Vergleich liegt die CT vom <[Pseudo] 03/12/2031> vor.
+Befund und Beurteilung:
+Liegendaufnahme. Neu einliegendes Schrittmacheraggregat linkspectoral, Elektroden in Projektion auf den rechten Vorhof sowie den rechten basalen Ventrikel. ZVK von rechts jugulär mit Spitzenprojektion auf die VCS.
+Im Liegen vergrößerter Herzschatten sowie pulmonalvenöser Stauungsaspekt. Möglicher Erguss links. Keine Infiltrate. Keine abgrenzbare Pleuraablösung. Trachea mittig, nicht eingeengt.
+
+Echokardiographie vom <[Pseudo] 17/12/2031:>
+Normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit leichtgradig reduzierter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA leicht dilatiert, RA und RV noch normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht einsehbar. Evolut Klappenprothese in Aortenposition sonographisch und dopplersonographisch regelrecht, keine relevante Stenosewirkung nachweisbar. Mitralklappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trkuspidalklappeninsuffizienz nicht bestimmbar
+
+Farbduplexsonographie der Gefäße der Leiste vom <[Pseudo] 17/12/2031:>
+A: Kontrolle nach TAVI. Patient beschwerdefrei.
+K: Punktionsstellen reizlos, keine relevante Hämatome. Leistenpulse kräftig palpabel. Kein relevanter Druckschmerz im Bereich der Punktionsstellen.
+
+Farbduplexsonographie der Gefäße der Leisten:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstellen der Leisten. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+Elektrophysiologsicher Befund vom <[Pseudo] 17/12/2031:>
+Befund / Zusammenfassung:
+Regelrechte Aggregatfunktion. Batteriestatus gut -LRB- 2,79V, mittlere Laufzeit ca. 6.5 Jahre -RRB- . Messwerte gut. Keine neuen Episoden im Speicher. Aktuell 0,1% atriale- und 15,1% ventrikuläre Stimulation. Programmierung durchgeführt. Anpassung der Stimulationsparameter nach Ende der Einheilungsphase bei nächster Kontrolle. Der Patient wurde über Verhaltensmaßregeln aufgeklärt. Die Informationsbroschüre -LRB- lt. MPG -RRB- wurde ausgehändigt. Der Schrittmacher-Ausweis wurde ausgestellt und dem Patient ebenfalls ausgehändigt. Es besteht keine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+Procedere:
+Wundkontrolle in 3 - 4 Tagen beim Hausarzt empfohlen -LRB- Kein Fadenzug bei selbstauflösendem Nahtmaterial erforderlich -RRB- . Wiedervorstellung zur nächsten Schrittmacherkontrolluntersuchung am <[Pseudo] 27/01/2032> um 10:00 Uhr in unserer B-ORG Ambulanz empfohlen. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch einen niedergelassenen kardiologischen B-SALUTE in Intervallen von 6 Monaten durchführen zu lassen.
+Kommentar:
+Ihr Schrittmacher-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan- Modus -RRB- für die Verwendung im MRT entwickelt.
+Wichtig:
+Vor der MRT-Untersuchung sollte ihr Schrittmacher-System auf diesen SureScan-Modus programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2031> und dem B-DAY B-MONTH <[Pseudo] 2031>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+11.44 !H
+4 - 10 /nl
+B-DATE
+Hb
+11.0 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+3.9 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.330 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+86
+83 - 97 fl
+<[Pseudo] 21/12/31>
+MCH
+29
+27 - 33 pg
+<[Pseudo] 21/12/31>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 21/12/31>
+RDW
+14.2
+12,9 - 18,7 %
+<[Pseudo] 21/12/31>
+hypochr.Erythroz.
+0.7
+0 - 2 %
+<[Pseudo] 21/12/31>
+Thrombozyten
+236
+150 - 440 /nl
+<[Pseudo] 21/12/31>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+1.56
+1,0 - 4,8 /nl
+B-DATE
+Neutroph.G.-abs.
+8.93 !H
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.52
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.09
+- <0,5 /nl
+<[Pseudo] 16/12/31>
+Basoph.G. -LRB- abs -RRB-
+0.03
+- <0,2 /nl
+<[Pseudo] 16/12/31>
+Neutroph.G. -LRB- mech. -RRB-
+79.7
+50 - 80 %
+<[Pseudo] 16/12/31>
+Lympho -LRB- mech. -RRB-
+13.9 !L
+25 - 40 %
+<[Pseudo] 16/12/31>
+Basoph.G.
+0.3
+- <1 %
+B-DATE
+Monozyten -LRB- mech. -RRB-
+4.6
+2 - 9 %
+<[Pseudo] 16/12/31>
+Eosinoph.G. -LRB- mech. -RRB-
+0.8 !L
+2 - 4 %
+<[Pseudo] 16/12/31>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+137
+135 - 146 mmol/l
+<[Pseudo] 21/12/31>
+Kalium -LRB- ISE -RRB-
+4.06
+3,4 - 5,0 mmol/l
+<[Pseudo] 21/12/31>
+Calcium
+2.36
+2,11 - 2,59 mmol/l
+<[Pseudo] 21/12/31>
+Phosphat
+1.40
+0,84 - 1,45 mmol/l
+<[Pseudo] 16/12/31>
+Magnesium
+0.89
+0,75 - 1,05 mmol/l
+<[Pseudo] 16/12/31>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+1.02
+0,6 - 1,3 mg/dl
+B-DATE
+Harnstoff
+50 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+76.2
+>60 s.u.
+<[Pseudo] 21/12/31>
+MDRD
+74.07
+ml/min/1,73qm
+<[Pseudo] 18/12/31>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Ges.Eiweiss
+64.5
+60 - 80 g/l
+B-DATE
+Albumin quant.
+38.2
+30 - 50 g/l
+B-DATE
+Glucose
+113 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+27
+- <46 U/l
+B-DATE
+GPT/ALT
+24
+- <50 U/l
+B-DATE
+GGT
+34
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.7
+- <1.0 mg/dl
+B-DATE
+Dir.Bilirubin
+0.20
+- <0.3 mg/dl
+B-DATE
+Harnsäure
+7.0 !H
+- <7 mg/dl
+B-DATE
+Triglyceride
+55
+- <150 mg/dl
+<[Pseudo] 18/12/31>
+Cholesterin
+99.0
+- alt.abh. mg/dl
+<[Pseudo] 18/12/31>
+LDL-Chol. -LRB- berechn. -RRB-
+43
+- <160 mg/dl
+<[Pseudo] 18/12/31>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HDL-Cholesterin
+45
+>40 mg/dl
+B-DATE
+Lipase
+30
+19 - 63 U/l
+B-DATE
+Eisen
+6.7 !L
+14 - 32 µmol/l
+<[Pseudo] 16/12/31>
+Ferritin
+228
+30 - 300 µg/l
+<[Pseudo] 16/12/31>
+Transferrin
+1.72 !L
+2,0 - 3,6 g/l
+<[Pseudo] 16/12/31>
+TFSG
+16
+16 - 45 %
+B-DATE
+CRP
+98.6 !H
+- <5 mg/l
+<[Pseudo] 21/12/31>
+PCT sens.
+0.10 !H
+- <0,05 ng/ml
+<[Pseudo] 21/12/31>
+Hämolyse
+-
+
+<[Pseudo] 21/12/31>
+ikterisch
+-
+
+<[Pseudo] 21/12/31>
+Lipämie
+-
+
+<[Pseudo] 21/12/31>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+267
+- <342 U/l
+B-DATE
+CK
+367 !H
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+104 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+116
+- <125 ng/l
+<[Pseudo] 16/12/31>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+6.3 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+45 !H
+20 - 42 mmol/mol
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+134 !H
+- <110 mg/dl
+<[Pseudo] 18/12/31>
+TSH
+1.68
+0,400 - 4,000 mU/l
+<[Pseudo] 18/12/31>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+84.9
+70 - 125 %
+<[Pseudo] 18/12/31>
+INR - ber.
+1.08
+- <1.2
+<[Pseudo] 18/12/31>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+23.0
+- <35 s
+B-DATE
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+5.00 !L
+6,0 - 8,0
+<[Pseudo] 17/12/31>
+SpezGew/Tstr.
+1029
+1001 - 1035
+<[Pseudo] 17/12/31>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 17/12/31>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 17/12/31>
+Ketone /Tstr.
+Spur
+- neg. mg/dl
+<[Pseudo] 17/12/31>
+Erys /Tstr.
+200.0
+- 0 Ery /µl
+<[Pseudo] 17/12/31>
+Eiweiß/Tstr.
+100.00
+- neg. mg/dl
+B-DATE
+Urobil /Tstr.
+1.0
+- <2,0 mg/dl
+<[Pseudo] 17/12/31>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 17/12/31>
+Leuko /Tstr.
+Ca 15
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+1073.0 !H
+- <8 /µl
+B-DATE
+Leuko/µl
+26.0 !H
+- <8 /µl
+B-DATE
+HyalZy./Sedu.
+1.0 !H
+- <1 /µl
+B-DATE
+Pl.-epi./µl
+5.00 !H
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+positiv
+/µl
+<[Pseudo] 17/12/31>
+Krist./µl
+24
+/µl
+<[Pseudo] 17/12/31>
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.46 !H
+7,37 - 7,45
+B-DATE
+pO2
+89
+mmHg
+B-DATE
+pCO2
+39.5
+35 - 45 mmHg
+<[Pseudo] 17/12/31>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+3.7 !H
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+27.8
+mmol/l
+B-DATE
+Laktat
+13.9
+- <16 mg/dl
+<[Pseudo] 17/12/31>
+
+
+
+
+
+
+Zusammenfassung:
+Die Aufnahme Patienten auf der Tagesklinik erfolgte zur Vorbereitung einer transfemoralen Aortenklappenimplantation bei hochgradiger Aortenkklappenstenose. Es erfolgte eine ausführliche Aufklärung des Patienten über die Risiken des geplanten Eingriffs, sowie eine Prämedikation bei geplanter Vollnarkose.
+
+Die transfemorale Implantation einer Evolut R -LRB- 34 mm -RRB- am <[Pseudo] 16/12/2031> verlief komplikationslos. Der Verschluss der Leiste gestaltete sich ebenso problemlos.
+Bei Übernahme aus dem Herzkatheterlabor auf die kardiologische Wachstation spontan-atmender, beschwerdefreier Patient. Es erfolgte eine periinterventionelle Antibiose mittels Cefuroxim.
+
+Postinterventionell zeigte sich ein AV-Block III° mit durchgehender Schrittmacherabhängigkeit. Wir entscheiden uns bei instabilem passagerem Schrittmacher zur umgehenden Implantation eines permanenten 2-Kammer-Schrittmachers. Der komplikationslose Eingriff erfolgte am <[Pseudo] 16/12/2030> in Lokalanästhesie. Bezüglich des Weiteren Procederes verweisen wir auf den OP-Bericht der Implanteure. Ein Pneumothorax sowie ein relevanter Perikarderguss konnten in der Folge ausgeschlossen werden. Die postinterventionelle Schrittmacherabfrage zeigte eine regelrechte Aggregatfunktion.
+
+Echokardiographisch zeigte sich eine leichtgradig eingeschränkte linksventrikuläre Pumpfunktion ohne abgrenzbare Wandbewegungsstörungen bei verdickter Mitralklappe und leichtgradiger Insuffizienz. Der Sitz der Klappenprothese zeigte sich regelrecht.
+
+Nach TAVI empfehlen wir eine dauerhafte Therapie mit ASS 100 mg 1x/Tag.
+
+Außerdem bitten wir um Beachtung der lebenslangen Endokarditisprophylaxe nach den Leitlininien der B-ORG I-ORG I-ORG Kardiologie. Dem Patienten wurde hierzu ein Merkblatt ausgehändigt. Zur Endokarditisprophylaxe empfehlen wir eine gute Mundhygiene und regelmäßige zahnärztliche Kontrollen. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o. oder i.v. -RRB- oder bei Penicillinallergie mit Clindamycin -LRB- 600 mg p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen.
+
+Wir bitten um eine Wiedervorstellung zur TAVI-Kontrolle in sechs Monaten in unserer B-ORG I-ORG -LRB- Tel. B-PHONE -RRB- , der Termin hierfür wurde bereits für den <[Pseudo] 15/03/2032> um 09:30 Uhr in unserer B-ORG Ambulanz vereinbart. Bei unauffälligem Kontrolltermin kann dann eine jährliche ambulante Verlaufskontrolle erfolgen.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir verlegten den Patienten kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte stationäre Betreuung. Wir danken für die freundliche Übernahme. Für Rückfragen stehen wir jederzeit gerne zur Verfügung.
+
+Procedere/Termine:
+- Weiter intensive Mobilisierung
+- Fadenzug nach TAVI am
+Tag 10
+- Infektwertkontrolle und ggf. Initiierung einer Antibiose -LRB- PCT v. 25.05.: 0,1 ng/mL -RRB-
+- Reha Planen und organisieren
+- Termin am <[Pseudo] 15/03/2032> um 9:30 Uhr in unserer kardiologischen Ambulanz zur post TAVI Nachkontrolle
+- Termin am <[Pseudo] 27/01/2032> um 10:00 Uhr in unserer kardiologischen Ambulanz zur Kontrolle der Aggregatfunktion nach Schrittmacheranlage
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100 mg 1-0-0 dauerhaft nach TAVI
+Ivabradin 5 mg 1-0-1
+im Verlauf zu Gunsten von Metoprolol ausschleichen
+Metoprolol 47,5 mg 1-0-1
+bitte weitere Steigerung im Verlauf
+Candesartan 16 mg 1-0-0
+Atorvastatin 10 mg 0-0-1
+Chlortalidon 50 mg 1-0-0
+Lercanidipin 10 mg 1-0-0
+L-Thyroxin 75 μg 1-0-0
+
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der B-ORG I-ORG I-ORG I-ORG -LRB- http://leitlinien.dgk.org -RRB- .
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir bedanken uns für die Überweisung und die vertrauensvolle Zusammenarbeit.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Stationsarzt

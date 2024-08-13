@@ -1,0 +1,482 @@
+Aufnahmedatum: <[Pseudo] 2041-04-20 >
+Geburtsdatum: <[Pseudo] 2004-01-30 >
+Alter: 37
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 30/01/2004> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- vasovagaler Synkope ohne Hinweis auf einen Sinusknotenarrest
+-UNK- Gute systolische LV Funktion, keine relevanten Vitien -LRB- TTE v. <[Pseudo] 14/04/2041> -RRB-
+-UNK- Gute biventrikuläre Pumpfunktion -UNK- LVEF 64 % -UNK- kein Nachweis einer myokardialen Fibrose -LRB- Kardio MRT v. <[Pseudo] 15/04/2041> -RRB-
+-UNK- Vasovagale Prädisposition bei ansonsten normaler Sinusknotenerhohlungszeit und normaler infrahisärer AV Leitungszeit -LRB- EPU v. <[Pseudo] 16/04/2041> -RRB-
+-UNK- Unauffälliges Belastungs-EKG
+-UNK- Negativer Schellong Test
+-UNK- Unauffälliger Carotisduplex
+-UNK- Unauffälliges LZ EKG
+-UNK- Unauffällige Kipptischuntersuchung
+-UNK- Borrelienserologie: negativ.
+
+- Z. n. Kreuzband OP
+
+Kardiovaskuläre Risikofaktoren: keine kardiovaskulären RFs, keine positive FA für Herzrhythmusstörungen
+Allergien/Unverträglichkeiten: Gräser
+Tel. Nr. Patient: B-PHONE
+
+
+
+Anamnese:
+Ausführliche Anamnese auf B-ORG: Am Sonntag Erkältungssymptomatik bemerkt, dann am Montag krankgeschrieben, hierbei sei dem Patienten abends dann eine Vase heruntergefallen, hier habe er sich einen Cut im Bereich des Daumens zugezogen, nachts bzw. morgens sei er dann aufgewacht und habe den Verband wechseln wollen, hierbei sei Ihm plötzlich schwindelig geworden als er den Verband abgezogen habe und er sei in Ohnmacht gefallen. Die Ehefrau habe ihn dann im Bad sitzend gefunden, vor dem Abziehen des Pflasters habe er bereits ein extrem unwohles Gefühl mit Kaltschweißigkeit gehabt, dies kenne er schon da er als Jugendlicher bereits unter a. e. vasovagalen Synkopen gelitten habe -LRB- bisher keine Abklärung erfolgt -RRB- . Beim Aufsitzen sei es dann erneut zu einer Synkope mit Bewusstseinsverlust gekommen. Kein Stuhl- kein Urinabgang, kein Hinweis auf einen Krampfanfall, kein Zungenbiss. Keine AP, keine Dyspnoe, der Patient ist sehr sportlich, es sei eine Überquerung der Alpen mit dem Rennrad kommende Woche geplant.
+
+Medikation bei Aufnahme:
+Keine
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- 184cm, 73kg -RRB-
+HF: 86/min, regelmäßig
+RR: 126/65 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: unauffällig
+Neurol. Status: unauffällig
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+SR, 54/min, ÜLT, RSR Morphologie in V1-V2 a. e. inkomp. RSB, T-Neg V1-V2, S-Persistenz, sonst keine ERST.
+
+Ruhe-EKG am <[Pseudo] 15/04/2041>
+Sinusrhythmus, 58/min., Linkstyp, RSR-Konfiguration, normale Überleitungszeiten, sonst keine Erregungsrückbildungsstörungen.
+
+Ruhe-EKG am <[Pseudo] 16/04/2041>
+Sinusrhythmus, 63/min., Indiferrenztyp, normale Überleitungszeiten, sonst keine Erregungsrückbildungsstörungen.
+
+Echokardiographie vom <[Pseudo] 14/04/2041:>
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LVFunktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior leicht erweitert und wenig atemvariabel. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 25 mmHg -RRB- . Erstbefund in domo.
+
+Schellong Test vom <[Pseudo] 15/04/2041>
+
+Zeit in Min.
+RR in mmHG und bpm
+liegend
+0
+133/70 71
+
+7
+129/89 68
+
+14
+134/74 64
+
+20
+124/65 61
+stehend
+0
+126/92 83
+
+1
+118/84 87
+
+3
+131/85 89
+
+
+
+Belastungs-EKG vom <[Pseudo] 15/04/2041:>
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 300 Watt über 02:11 min. Maximale Frequenz 180/min -LRB- 98% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 169 mmHg, diastolisch 73 mmHg. Abbruch wegen peripherer Ermüdung und Kurzatmigkeit beim Tragen von FFP2-Maske. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Dezente aszendiere ST-Streckensenkung in II, III, aVF, V3-V6 unter maximaler Belastung mit rascher Rückbildung unter Erholung. Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Wenige VES -LRB- 22 -RRB- . Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck.
+
+Langzeit-EKG vom <[Pseudo] 15/04/2041:>
+Tagsüber normofrequenter, nachts bradykarder Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 42/min und 179/min -LRB- bei Belastungs-EKG -RRB- ,im Mittel 65/min. Normale Herzfrequenzvariabilität.
+Vereinzelte supraventrikuläre Extrasystolen. Keine Pausen. Vereinzelte polymorphe ventrikuläre Extrasystolen. Formal Lown III a.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 15/04/2041:>
+Kein Nachweis von signifikanten Plaquebildungen im Bereich der Carotiden bds.
+Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet.
+IMD rechts 0,06 cm, links 0,06 cm.
+Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar.
+Erstbefund in domo.
+
+Kardio-MRT vom <[Pseudo] 15/04/2041:>
+
+
+Elektrophysiologische Untersuchung -LRB- EPU-Nr. 520-21 vom <[Pseudo] 16/04/2041> -RRB- :
+3-fache Punktion der V. femoralis dextra. Einbringen von drei 4-poligen diagnostischen Standardkathetern in HRA-, RV-Apex und HIS-Position. Zu Untersuchungsbeginn keine auffällige ventrikuläre Extrasystolie. Kein Epsilon-Potential. Normale QT-Zeit. Unter atrialer Stimulation akzidentelle Induktion von VHF. Bei fehlender Spontankonversion, eCV in Kurznarkose -LRB- 120J, biphasisch, synchron -RRB- . Hiernach stabiler Sinusrhythmus. Normale Sinusknotenerholungszeit. Ausschluss einer akzessorischen Bahn durch inkrementale RA- und RV-Stimulation. Bei programmierter RA-Stimulation mit 1 ES bei 2 BZL keine supraventrikuläre Tachyarrhythmie induzierbar. Kein Anhalt für dualen AV-Knoten. Bei programmierter RV-Stimulation mit 3 ES vom RV-Apex keine ventrikuläre Tachyarrhythmie induzierbar. Passagerer Sinusarrest über max. 3.6sec Pause im Rahmen des Carotis-Druckversuches -LRB- rechts -RRB- im Liegen und ektoper atrialer Ersatzrhythmus mit HF 34/min, jedoch nicht reproduzierbar. Unauffälliger Ajmalintest. Normale supra- und infrahisäre Leitungszeiten. Nomale infrahisäre Leitungsreserve -LRB- HV-Zeit 52ms-->64ms, 1:1 AV-Überleitung bis 420 ms mit suprahisärer Blockierung unter Ajmalin -RRB- .
+Zusammenfassung: Vagale Prädisposition bei ansonsten normaler Sinusknotenerholungszeit und normaler infrahisärer AV-Leitungszeit.
+Proc.: DV 4h. Monitorüberwachung streng bis 14:00 Uhr nach Ajmalinapplikation, anschließend gemäß Anordnung Stationsarzt. Schrittmacherindikation nur bei hohem Sicherheitsbedürfnis des Pat, aktuell auf Basis der Untersuchungsbefunde keine zwingende SM-Indikation -LRB- RS OA B-PER erfolgt -RRB- .
+DL-Zeit: 1.45 min. , DAP 0.369 Gy x cm2
+2x 5F JSN, 1x 5F CRD-2
+
+Kipptischuntersuchung vom <[Pseudo] 17/04/2041:>
+Untersuchung:
+Tilt 35: HR -UNK- Start Liegen -UNK- Mittelwert: 69,3 BpM HR -UNK- Kippen auf 60° -UNK- Mittelwert: 85,9 BpM HR -UNK- Rückkippen auf 0° -UNK- Mittelwert: 63,1 BpM Systole -UNK- Start Liegen -UNK- Mittelwert: 126,6 mmHg Systole -UNK- Kippen auf 60° -UNK- Mittelwert: 109,2 mmHg Systole -UNK- Rückkippen auf 0° -UNK- Mittelwert: 120,3 mmHg Diastole -UNK- Start Liegen -UNK- Mittelwert: 69,6 mmHg Diastole -UNK- Kippen auf 60° -UNK- Mittelwert: 78,4 mmHg Diastole -UNK- Rückkippen auf 0° -UNK- Mittelwert: 70,0 mmHg
+Zusammenfassung:
+Über den gesamten Kipptischverlauf niedrig-normale RR-Werte -LRB- ca. 105-120 mmHg systolisch -RRB- . Kein signifikanter Blutdruckabfall nach Aufrichtung, somit kein Hinweis auf eine orthostatische Hypotonie. Im weiteren Verlauf der Standphase kein signfikanter Anstieg der Herzfrequenz oder Abfall der Blutdruckwerte, somit kein Hinweis auf ein posturales Tachykardysyndrom -LRB- POTS -RRB- bzw. auf eine neurokardiogene Synkope -LRB- NKS -RRB- . Pat. ist während des gesamten Versuchsablaufs beschwerdefrei.
+Beurteilung:
+Unauffällige Kipptischuntersuchung. Kein Hinweis auf eine orthostatische Hypotonie, kein Hinweis auf ein posturales Tachykardysyndrom oder eine neurokardiogene Synkope.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2040> und dem B-DAY B-MONTH <[Pseudo] 2040>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.13
+4 - 10 /nl
+B-DATE
+Hb
+14.1
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.3
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.390
+0,38 - 0,52 l/l
+B-DATE
+MCV
+92
+83 - 97 fl
+<[Pseudo] 15/04/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+33
+27 - 33 pg
+<[Pseudo] 15/04/41>
+MCHC
+36
+30 - 36 g/dl
+<[Pseudo] 15/04/41>
+RDW
+13.0
+12,9 - 18,7 %
+<[Pseudo] 15/04/41>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+<[Pseudo] 15/04/41>
+Thrombozyten
+250
+150 - 440 /nl
+<[Pseudo] 15/04/41>
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+143
+135 - 146 mmol/l
+<[Pseudo] 15/04/41>
+Kalium -LRB- ISE -RRB-
+3.89
+3,4 - 4,6 mmol/l
+B-DATE
+Calcium
+2.27
+2,11 - 2,59 mmol/l
+B-DATE
+Phosphat
+0.98
+0,84 - 1,45 mmol/l
+B-DATE
+Magnesium
+0.78
+0,75 - 1,05 mmol/l
+<[Pseudo] 14/04/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+0.74
+0,6 - 1,2 mg/dl
+<[Pseudo] 15/04/41>
+Harnstoff
+23
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+117.8
+>60 s.u.
+<[Pseudo] 15/04/41>
+MDRD
+128.17
+ml/min/1,73qm
+<[Pseudo] 15/04/41>
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Ges.Eiweiss
+71.0
+60 - 80 g/l
+B-DATE
+Albumin quant.
+41.6
+30 - 50 g/l
+B-DATE
+Glucose
+86
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+46 !H
+- <46 U/l
+B-DATE
+GPT/ALT
+14
+- <50 U/l
+B-DATE
+GGT
+14
+- <60 U/l
+B-DATE
+Ges.Bili.
+1.00 !H
+- <1.0 mg/dl
+B-DATE
+Dir.Bilirubin
+0.20
+- <0.3 mg/dl
+B-DATE
+Harnsäure
+4.7
+- <7 mg/dl
+<[Pseudo] 15/04/41>
+Triglyceride
+83
+- <150 mg/dl
+<[Pseudo] 15/04/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+175.0
+- alt.abh. mg/dl
+<[Pseudo] 15/04/41>
+LDL-Chol. -LRB- berechn. -RRB-
+107
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+51
+>40 mg/dl
+B-DATE
+Lipase
+52
+19 - 63 U/l
+<[Pseudo] 14/04/41>
+Eisen
+17.8
+14 - 32 µmol/l
+<[Pseudo] 14/04/41>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 15/04/41>
+Hämolyse
+-
+
+<[Pseudo] 15/04/41>
+ikterisch
+-
+
+<[Pseudo] 15/04/41>
+Lipämie
+-
+
+<[Pseudo] 15/04/41>
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+181
+- <316 U/l
+B-DATE
+CK
+106
+- <190 U/l
+<[Pseudo] 15/04/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+4.77
+- <14 pg/ml
+B-DATE
+NT-BNP
+45
+- <125 ng/l
+<[Pseudo] 14/04/41>
+
+Endokrinologie & Diabetologie
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.0
+- <6,1 %
+<[Pseudo] 15/04/41>
+HbA1c -LRB- IFCC -RRB-
+31
+20 - 42 mmol/mol
+<[Pseudo] 15/04/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+97
+- <110 mg/dl
+<[Pseudo] 15/04/41>
+TSH
+1.50
+0,400 - 4,000 mU/l
+<[Pseudo] 15/04/41>
+
+Gerinnungsdiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+76.8
+70 - 125 %
+<[Pseudo] 15/04/41>
+INR - ber.
+1.12
+- <1.2
+<[Pseudo] 15/04/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+23.7
+- <35 s
+B-DATE
+D-Dimer -LRB- neu -RRB-
+0.20
+- <0,5 mg/l
+B-DATE
+
+Blutgasanalyse
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.35 !L
+7,37 - 7,45
+B-DATE
+pO2
+32
+mmHg
+B-DATE
+pCO2
+47.1 !H
+35 - 45 mmHg
+<[Pseudo] 14/04/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-0.9
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+23.0
+mmol/l
+B-DATE
+Laktat
+18.7 !H
+- <16 mg/dl
+<[Pseudo] 14/04/41>
+
+Weitere Laborwerte
+Parameter
+Wert
+Normb / Dimension
+Datum
+Gewicht
+0
+kg
+<[Pseudo] 15/04/41>
+
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte bei bei Synkope a. e. Vasovagal DD im Rahmen eines Sick Sinus Syndroms.
+
+Es erfolgte eine ausführliche Abklärung bei initialem V.a. Sick Sinus Syndrom.
+Echokardiographisch zeigte sich eine gute systolische LV Funktion ohne Hinweis auf relevante Vitien.
+
+Es erfolgte ein Kardio MRT hierbei zeigte sich o.g. nicht pathologischer Befund. Zusätzlich erfolgte ein Carotisduplex hierbei zeigte sich ebenfalls kein pathologischer Befund.
+
+Im LZ EKG zeigte sich keine Auffälligkeiten. Bei im Notarzt EKG dokumentierter langer Pause mit V.a. Sinusarrest erfolgte am <[Pseudo] 16/04/2041> eine diagnostische EPU.
+
+Hierbei zeigte sich kein Hinweis auf einen Sinusknotenarrest bei normaler infrahisärer AV-Leitungszeit. Mit dem Patienten wurde ausführlich eine potentielle Schrittmacherimplantation besprochen, dies lehnte der Patient aktuell ab. Grundsätzlich kommt nach oberärztlicher Maßgabe -LRB- OA B-PER -RRB- eine 1-Kammer Schrittmacherimplantation zum Synkopenschutz in Frage, bei bisherigen Synkopen ohne Verletzungsfolge lehnt der Patient aktuell eine Schrittmacherimplantation ab und erbittet sich Bedenkzeit. Sollte eine Schrittmacherimplantation zum Synkopenschutz gewünscht sein kann gerne jederzeit ein Termin über unsere B-ORG -LRB- B-PHONE -RRB- terminiert werden.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen den Patienten kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+Procedere/Termine:
+- ggf. Schrittmacherimplantation falls gewünscht zum Synkopenschutz
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Keine.
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Stationsarzt

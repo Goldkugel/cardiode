@@ -1,0 +1,89 @@
+Aufnahmedatum: <[Pseudo] 2040-05-29 >
+Geburtsdatum: <[Pseudo] 1967-05-05 >
+Alter: 73
+
+über Ihren Patienten B-SALUTE B-PER PER, geboren am <[Pseudo] 05/05/1967> wh. B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Besprechung des Kardio-MRT vom <[Pseudo] 15/05/2040> zum Vitalitätsnachweis der Hinterwand bei hochgradiger AKS und koronarer 1-Gefäßerkrankung:
+-UNK- Vitalitätsnachweis der Hinterwand gegeben
+- Dem Beschluss der Herzkatheterkonferenz vom <[Pseudo] 14/04/2040> folgend: Ad chirurgischer Aortenklappenersatz und ACVB ad RCA mit intraoperativer Inspektion der Mitralklappe
+Diagnosen:
+- Hochgradige Aortenklappenstenose -LRB- TTE v. <[Pseudo] 03/04/2040> -RRB-
+-UNK- TAVI-CT am <[Pseudo] 10/03/2040>
+-UNK- HK-Konferenz vom <[Pseudo] 10/03/2040:> Zunächst TEE zur Beurteilung der Mitralklappe -LRB- MI? -RRB- , danach Evaluation chir. Vorgehen -LRB- ACB-OP +/- Klappenersatz -RRB-
+-UNK- HK-Konferenz vom <[Pseudo] 14/04/2040:> Vitalitätsnachweis bezüglich Hinterwand
+- Koronare 1-Gefäßerkrankung -LRB- HKU extern <[Pseudo] 03/03/2040> I-ORG -RRB-
+-UNK- Vitalitätsnachweis der Hinterwand bei Hypokinesie gegeben -LRB- MRT <[Pseudo] 15/05/2040> -RRB-
+- Z.n. kardialer Dekompensation bei Tachyarrhythmia absoluta bei neu aufgetretenem Vorhofflimmern und hypertensiver Herzerkrankung -LRB- <[Pseudo] 02/2040> B-LOC -RRB-
+-UNK- Pleuraerguss bds., nicht punktionswürdig -LRB- NIV für 10 Stunden -RRB-
+-UNK- Hochgradig eingeschränkte LV-Funktion, EF 35% bei unregelmäßiger Kontraktion bei Vorhofflimmern sowie lateraler Hypokinesie bis Akinesie sowie Hypokinesie posterior
+- Z.n. pAVK am 4. Zeh mit Zehamputation links
+-UNK- Z.n. SCS-Generator-Implantation
+- Psoriasis
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Dyslipoproteinämie, Nikotinabusus nie, Diabetes mellitus Typ 2 -LRB- diätetisch eingestellt -RRB- .
+Allergien: Keine bekannt.
+
+Anamnese:
+Die ambulante Vorstellung erfolgte zur MRT Besprechung zum Vitalitätsnachweis der Hinterwand bei koronarer 1-Gefäßerkrankung vor geplanter AKE -LRB- HK-Konferenz vom <[Pseudo] 10/03/2040> u. <[Pseudo] 12/04/2040> -RRB- . Im Alltag bestehe eine mäßige Belastbarkeit. Bei schwerer körperlicher Belastung -LRB- 2 Etagen -RRB- bestünde inadäquate Belastungsdyspnoe -LRB- NYHA II -RRB- ohne Progredienz. keine belastungsinduzierten pectanginösen Beschwerden. Pectanginöse Beschwerden in Ruhe, Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestehe keine Nykturie. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 110-120/60-70 mmHg. Subjektiv bestehe seit der letzten Vorstellung ein verbesserter kardialer Verlauf.
+
+Aktuelle Medikation:
+Rivaroxaban 20 mg 1-0-0
+Metoprolol 47,5 mg -UNK- -0- -UNK-
+Amiodaron 100 mg 1-0-0
+Candesartan 4 mg 1-0-1
+Spironolacton 25 mg -UNK- -0-0
+Rosuvastatin 10 mg 0-0-1
+Torasemid 10 mg 1-0-0
+Pantoprazol 40 mg 0-0-1
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 178 cm, 85 kg
+HF: 65/min, regelmäßig
+RR: 125/70 mmHg
+Keine Zyanose, keine Anämiezeichen, kein Ikterus.
+HT: rein, 3/6 Systolikum ubiquitär p.m. 2.ICR parasternal re
+Lunge: bds. belüftet, vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, HF 65/min, Indifferenztyp. PQ 150 ms, QRS 100 ms, QTc 453 ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, diskrete S-Persistenz bis in V6. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Kardio-MRT:
+Normal großer, septal betont konzentrisch hypertrophierter linker Ventrikel mit global leichtgradig eingeschränkter systolischer Funktion bei umschriebener Hypokinesie inferoseptal basal und inferolateral
+apikal. Erhaltene longitudinale LV-Funktion. LA und RA dilatiert, RV normal groß. Visuell gute systolische RV-Funktion. Nachweis eines Infarkt-atypischen Late Gadolinium Enhancements inferoseptal -LRB- RV Insertionsstelle -RRB- und eines Infarkt-typischen Late Gadolinium Enhancements inferior/inferolateral mediobasal. Global leicht erhöhte T1-Relaxationszeiten -LRB- T1 -UNK- 1,5T = 1078 -UNK- 75 ms -RRB- , betont septal mediobasal.
+Zusammenfassung:
+Leichtgradig eingeschränkte systolische linksventrikuläre Funktion -LRB- EF 49% -RRB- bei umschriebener Hypokinesie inferoseptal basal und inferolateral apikal. Verzicht auf eine Dobutamin-Stressuntersuchung bei hochgradiger AKS sowie Z.n. katecholaminpflichtiger dekompensierter AKS -LRB- <[Pseudo] 04/2040> -RRB- . Nachweis einer am ehesten Infarktnarbe inferior/inferolateral basal sowie einer unspezifischen myokardialen Fibrose inferoseptal im Bereich der RV-Insertionsstelle.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgt zur Kardio-MRT Besprechung vor geplantem AKE -LRB- HK-Konferenz vom <[Pseudo] 10/03/2040> -RRB- . Subjektiv wird von keiner klinischen Befundänderung seit letzter Vorstellung berichtet.
+
+Nach telefonischer RS mit B-PER besteht in der MRT-Untersuchung eine ausreichende Vitalität der Hinterwand. Somit empfehlen wir entsprechend dem HK-Beschluss vom <[Pseudo] 14/04/2040> eine operative Therapie mit chirurgischem Aortenklappenersatz und aortokoronarem Bypass auf die RCA sowie eine intraoperative Inspektion der Mitralklappe. Eine Anmeldung bei den B-SALUTE der Herzchirurgie wurde am <[Pseudo] 30/05/2040> vorgenommen. Der Patient wird im Folgenden durch die Herzchirurgie kontaktiert.
+
+Wir empfehlen bis zur operativen Therapie eine körperliche Schonung. Bei Auftreten von Beschwerden oder Komplikationen sind wir gerne bereit, den Patienten früher wiederzusehen - in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung: -LRB- unverändert -RRB-
+Rivaroxaban 20 mg 1-0-0
+Metoprolol 47,5 mg -UNK- -0- -UNK-
+Amiodaron 100 mg 1-0-0
+Candesartan 4 mg 1-0-1
+Spironolacton 25 mg -UNK- -0-0
+Rosuvastatin 10 mg 0-0-1
+Torasemid 10 mg 1-0-0
+Pantoprazol 40 mg 0-0-1
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+
+Wir danken für die Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen,
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

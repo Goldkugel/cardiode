@@ -1,0 +1,507 @@
+Aufnahmedatum: <[Pseudo] 2040-03-27 >
+Geburtsdatum: <[Pseudo] 1969-08-22 >
+Alter: 70
+
+über Ihren Patienten B-SALUTE B-PER B-PER geboren am <[Pseudo] 22/08/1969> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- 2-Kammer-Schrittmacher Implantation der Firma OTHER am <[Pseudo] 25/03/2040> bei intermittierendem AV-Block III° und bradykardem Ersatzrhythmus
+- Myokardschaden a.e. im Rahmen des AV-Block III°
+
+Diagnosen:
+- AV-Block II° Typ-Wenckebach mit interm. AV-Block III° <[Pseudo] 02/40> -LRB- B-ORG -RRB-
+-UNK- Indikation zur Schrittmacher-Implantation
+-UNK- Entlassung gegen ärztlichen Rat
+- Erfolgreiche cavotrikuspidale Isthmusablation bei typischem Vorhofflattern -LRB- B-OTHER v. <[Pseudo] 06/02/2038> -RRB-
+-UNK- Z. n. erfolgreicher elektrischer Kardioversion mit 1x 75 Joule am <[Pseudo] 07/04/36> bei Vorhofflattern mit 4 -5: 1 Überleitung, Erstdiagnose <[Pseudo] 06/04/2036>
+-UNK- EHRA IIa
+-UNK- CHA2DS2-VASc Score von 2
+- Linksventrikuläre Hypertrophie bei hypertensiver Herzerkrankung
+-UNK- Z. n. hypertensiver Entgleisung
+-UNK- Gute Pumpfunktion, Relaxationsstörung des LV
+- Leichte Mitral- und Trikuspidalinsuffizienz
+- Normaler pulmonalarterieller Druck
+- Kein Hinweis auf relevante koronare Herzerkrankung
+- Zunahme der Intima-Media-Dicke, echoreiche Carotis-Bifurkations-Plaques links > rechts
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Nikotinanamnese: nie.
+Allergien/Unverträglichkeiten: Frühblüher
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte als Selbstvorstellung über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei AV-Block °III.
+B-SALUTE B-PER sei Ende B-MONTH stationär in B-LOC gewesen nachdem in einer Kontrollkoloskopie ein AV- Block III° auffiel. Dort war bei AV- Block II° Typ Wenckebach und intermittierendem AV-Block III° die Indikation zur Schrittmacherimplantation gestellt worden. Es erfolgte jedoch eine Entlassung gegen ärztlichen Rat. Im Rahmen einer ambulanten kardiologischen Vorstellung erfolgte erneut die dringende Indikation zur Schrittmacherimplantation bei AV-Block III°. Auf spezifische Nachfrage keine typische Angina pectoris oder inadäquate Belastungsdyspnoe, bei guter körperlicher Belastbarkeit im Alltag -LRB- >2 Etagen -RRB- , NYHA I. Keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen, kein Schwindel, keine stattgehabten Synkopen. Keine peripheren Ödeme. Kein Hinweis auf einen akuten Infekt. Die häuslichen Blutdruckmessungen seien um ca. 120/80 mmHg.
+
+Medikation bei Aufnahme:
+Eliquis 5 mg aktuell pausiert
+Perindopril/Indapamid 2/0,625 1-0-0
+Atorvastatin 40 mg 0-0-1
+Tamsulosin 0,4 mg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut
+HF: 45/min, regelmäßig
+RR: 140/80mmHg
+Keine Zyanose, keine Anämiezeichen, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: orientierend unauffällig.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+AV-Block III° mit schmalem Ersatzrhythmus, Herzfrequenz: 49/min. Linkstyp. QRS 93ms, QTc 362ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V4/V5. Keine signifikanten Kammerendteilveränderungen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 25/03/2040:>
+Normal großer, septal betont konzentrisch hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. LA dilatiert, RA und RV noch normal Groß. Gute RV-Funktion. Kein relevanter Perikarderguss nachweisbar. Vena cava inferior gestaut, nur in Inspiration einsehbar somit Atemvariabilität nicht beurteilbar. Aortenklappe trikuspid verdickt und verkalkt mit noch guter Separation. Dopplersonographisch leichtgradige Aortenklappeninsuffizienz. Mitralklappe leicht verdickt mit guter Separation. Leichtgradige Trikuspidalklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist im oberen Normbereich -LRB- ca. 35 mmHg -RRB- .
+Im Vergleich zum Vorbefund -LRB- <[Pseudo] 01/2038> -RRB- : Heute TI I° nachweisbar, leichte Zunahme des RV Diameters, ansonsten keine wesentliche Befundänderung.
+
+Implantation eines 2-Kammer-SM vom <[Pseudo] 25/03/2040:>
+Begründung: NOTFALLINDIKATION - 2-Kammer-Herzschrittmacherimplantation als Notfalleingriff bei AV-Block III° mit bradykardem Ersatzrhythmus. Z.n. CTI bei typ. Vorhofflattern B-MONTH.
+Aggregathersteller: B-OTHERG
+RA-Elektrode: B-OTHER
+RV-Elektrode: B-OTHER
+Messwerte:
+RA: RS: 0,5 V/0,5 ms RV: RS: 0,6V/0,5 ms
+Impedanz: 432 -UNK- Impedanz: 597 -UNK-
+Sensing: 5,4mV Sensing: 5,5 mV
+Zugang: V. cephalica links Zugang: V. cephalica links
+Operation:
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links. Der Zugang der Ventrikelelektrode erfolgte transvenös über die Vena cephalica links. Präparation der Vene im Sulcus deltoidopectoralis. Anschlingen, distale Ligatur und Inzision der Vene. Vorschieben der Ventrikelelektrode unter Bildwandlerkontrolle in die Spitze des rechten Ventrikels -LRB- 1 maliges Umplatzieren -RRB- . Problemloses Platzieren der Sonde mit guten Messwerten. Der Zugang der Vorhofelektrode erfolgte transvenös über die Vena cephalica links. Vorschieben der Vorhofelektrode unter Bildwandlerkontrolle in den rechten Vorhof. Gute Messwerte. Danach Konnektion des Generators und Versenken in der Tasche. Schichtweiser Wundverschluss unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links subfaszial angelegt. Verband.
+
+Transthorakale Echokardiographie vom <[Pseudo] 26/03/2040:>
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht einsehbar.
+
+Schrittmacherkontrolle vom <[Pseudo] 26/03/2040:>
+Befund / Zusammenfassung:
+Regelrechte Aggregatfunktion. Batteriestatus gut -LRB- 2,79 V -RRB- . Niedrige RV-Wahrnehmung im Ersatzrhythmus gemessen -LRB- unipolar bei ca. 8-12mV und peak-to-peak bei ca. 8mV -RRB- . Weitere Messwerte gut. Keine neuen Episoden im Speicher. Aktuell 78,1% atriale- und 98,5% ventrikuläre Stimulation. Programmierung durchgeführt. Anpassung der Stimulationsparameter nach Ende der Einheilungsphase bei nächster Kontrolle.
+Der Patient wurde über Verhaltensmaßregeln aufgeklärt. Die Informationsbroschüre -LRB- lt. MPG -RRB- wurde ausgehändigt. Der Schrittmacher-Ausweis wurde ausgestellt und dem Patienten ebenfalls ausgehändigt. Es besteht keine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+Kommentar:
+Ihr Schrittmacher-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan-Modus -RRB- für die Verwendung im MRT entwickelt.
+Wichtig:
+Vor der MRT-Untersuchung sollte ihr Schrittmacher-System auf diesen SureScan-Modus programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung erfolgen, da dieser SureScan-Modus in dieser Zeit der Einheilungsphase nicht aktivierbar ist.
+
+Röntgen-Thorax vom <[Pseudo] 26/03/2040:>
+Randwinkel im Seitbild unvollständig erfasst.
+Keine Pleuraergüsse. Kein Pneumothorax. Keine infiltrattypischen Verschattungen. Kleine Rundherdverschattung in Projektion auf den 9. ICR rechts ohne eindeutiges Korrelat im Seitbild. Basale Dystelektasen, DD prominente Gefäße. Keine höhergradige kardiopulmonale Stauung.
+Trachea mittelständig und nicht eingeengt. Herzsilhouette grenzwertig weit -LRB- CTR 15 / 31 -RRB- . Suprakardiales Mediastinum schlank. Zwei-Kammer-Herzschrittmacher mit einer Vorhof- und einer Ventrikelsonde. Halbmondförmige knochendichte Verschattung in Projektion auf den ventralen Anteil der 1. Rippe rechts, DD degenerativ, DD Rundherd.
+
+Ruhe-EKG bei Entlassung vom <[Pseudo] 26/03/2040:>
+Durchgängige atriale und ventrikuläre Schrittmacherstimulation mit konsekutiven Kammerendteilveränderungen. Herzfrequenz: 60/min.
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte als Selbstvorstellung über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei AV-Block °III.
+
+Seit der Aufnahme war der Patient im Wesentlichen asymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigte sich ein AV-Block III°. Das hs-cTroponin betrug bei Aufnahme 21 pg/ml, im Verlauf stabil 20,9 pg/ml, somit Myokardschaden a.e. im Rahmen des AV-Block III°. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig -RRB- . Das NT-pro-BNP fand sich altersadjustiert im Normbereich.
+
+Echokardiographisch zeigte sich ein normal großer, septal betont konzentrisch hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen oder relevante Klappenvitien. Im Vergleich zum Vorbefund von <[Pseudo] 01/2038> war heute eine Trikuspidalklappeninsuffizienz I° nachweisbar, sowie eine leichte Zunahme des RV-Diameters, ansonsten keine wesentliche Befundänderung.
+
+Bei AV-Block III° und bradykardem Ersatzrhythmus entschieden wir uns zur Schrittmacherimplantation, diese konnte am <[Pseudo] 25/03/2040> komplikationslos durchgeführt werden. Postinterventionell konnten echokardiographisch ein Perikarderguss sowie konventionell-radiologisch ein Pneumothorax ausgeschlossen werden. Die im Anschluss kontrollierte Schrittmacherfunktion-Funktion war regelrecht. Bei Entlassung zeigte sich die Wunde reizlos. Wir bitten um einen Verbandswechsel in 3 - 4 Tagen und eine Wundkontrolle in 10-12 Tagen durch den Hausarzt. Ein Fadenzug ist bei selbstauflösendem Nahtmaterial nicht erforderlich. Bei Rötung, Schwellung, Fieber oder purulentem Sekret aus der Aggregattasche erbitten wir eine sofortige Wiedervorstellung in unserem Hause.
+
+Zur Wiedervorstellung zur nächsten Schrittmacherkontrolluntersuchung wurde ein Termin am <[Pseudo] 11/05/2040> um 13:00 Uhr in unserer B-ORG Ambulanz ausgemacht. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch einen niedergelassenen kardiologischen B-SALUTE in Intervallen von 6 Monaten durchführen zu lassen.
+
+Des Weiteren bitten wir um die Wiederaufnahme der Antikoagulation mit Eliquis ab dem Morgen des <[Pseudo] 28/03/2040> wie unten angegeben.
+
+Es besteht keine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- gemäß den aktuellen Leitlinien der DGK. Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+
+Zum Ausschluss einer relevanten koronaren Herzerkrankung empfehlen wir die Durchführung eines ambulanten Ischämienachweis im Verlauf. Dies kann auf Patientenwunsch - nach Maßgabe des uns zuweisenden Kardiologen - im ambulanten Rahmen erfolgen. Weiterhin empfehlen wir bei einmalig erhöhten Blutdruckwerten die Aufzeichnung eines Blutdruck-Tagesprofils.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung. Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten in der B-ORG B-TITLE B-PER
+
+Nächster Termin/Procedere:
+- Verbandswechsel in 3 - 4 Tagen und Wundkontrolle in 10-12 Tagen durch den Hausarzt empfohlen -LRB- Kein Fadenzug bei selbstauflösendem Nahtmaterial erforderlich -RRB-
+- Wiedervorstellung zur nächsten Schrittmacherkontrolluntersuchung in unserer Rhythmus-Ambulanz am <[Pseudo] 11/05/2040> um 13:00 Uhr
+- Ambulanter Ischämie-Nachweis im Verlauf zum Ausschluss einer relevanten koronaren Herzerkrankung
+
+Therapieempfehlung:
+Eliquis 5 mg 1-0-1 Pausiert, Wiederbeginn am Morgen des <[Pseudo] 28/03/2040>
+Perindopril/Indapamid 2/0,625 1-0-0
+Atorvastatin 40 mg 0-0-1
+Tamsulosin 0,4 mg 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsärztin
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2039>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.62
+4 - 10 /nl
+B-DATE
+Hb
+16.5
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.9
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.450
+0,38 - 0,52 l/l
+B-DATE
+MCV
+92
+83 - 97 fl
+B-DATE
+MCH
+34 !H
+27 - 33 pg
+B-DATE
+MCHC
+37 !H
+30 - 36 g/dl
+B-DATE
+RDW
+13.5
+12,9 - 18,7 %
+<[Pseudo] 26/03/40>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+B-DATE
+Thrombozyten
+144 !L
+150 - 440 /nl
+B-DATE
+Lympho -LRB- abs. -RRB-
+1.84
+1,0 - 4,8 /nl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Neutroph.G.-abs.
+5.89
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.55
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.16
+- <0,5 /nl
+<[Pseudo] 26/03/40>
+Basoph.G. -LRB- abs -RRB-
+0.03
+- <0,2 /nl
+<[Pseudo] 26/03/40>
+Neutroph.G. -LRB- mech. -RRB-
+68.3
+50 - 80 %
+<[Pseudo] 26/03/40>
+Lympho -LRB- mech. -RRB-
+21.4 !L
+25 - 40 %
+<[Pseudo] 26/03/40>
+Basoph.G.
+0.4
+- <1 %
+B-DATE
+Monozyten -LRB- mech. -RRB-
+6.4
+2 - 9 %
+<[Pseudo] 26/03/40>
+Eosinoph.G. -LRB- mech. -RRB-
+1.9 !L
+2 - 4 %
+<[Pseudo] 26/03/40>
+BKS 1h
+8
+- <20 mm
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+137
+135 - 146 mmol/l
+<[Pseudo] 26/03/40>
+Kalium -LRB- ISE -RRB-
+3.89
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.37
+2,11 - 2,59 mmol/l
+B-DATE
+Phosphat
+1.00
+0,84 - 1,45 mmol/l
+<[Pseudo] 26/03/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+1.08
+0,6 - 1,3 mg/dl
+B-DATE
+Harnstoff
+33
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+69.2
+>60 s.u.
+B-DATE
+MDRD
+75.24
+ml/min/1,73qm
+<[Pseudo] 26/03/40>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Ges.Eiweiss
+73.3
+60 - 80 g/l
+B-DATE
+Albumin quant.
+44.1
+30 - 50 g/l
+B-DATE
+Glucose
+80
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+26
+- <46 U/l
+B-DATE
+GPT/ALT
+27
+- <50 U/l
+B-DATE
+AP
+67
+40 - 130 U/l
+B-DATE
+GGT
+64 !H
+- <60 U/l
+B-DATE
+Ges.Bili.
+1.40 !H
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+7.2 !H
+- <7 mg/dl
+B-DATE
+Triglyceride
+75
+- <150 mg/dl
+B-DATE
+Cholesterin
+156.0
+- alt.abh. mg/dl
+<[Pseudo] 26/03/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+82
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+59
+>40 mg/dl
+B-DATE
+p-Amylase
+64 !H
+8 - 53 U/l
+B-DATE
+Lipase
+45
+19 - 63 U/l
+B-DATE
+CRP
+2.4
+- <5 mg/l
+<[Pseudo] 26/03/40>
+IgM
+1.86
+0,4 - 2,3 g/l
+B-DATE
+IgG
+13.35
+7,0 - 16,0 g/l
+B-DATE
+IgA
+3.06
+0,7 - 4,0 g/l
+<[Pseudo] 26/03/40>
+Hämolyse
+-
+
+<[Pseudo] 26/03/40>
+ikterisch
+-
+
+<[Pseudo] 26/03/40>
+Lipämie
+-
+
+<[Pseudo] 26/03/40>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+229
+- <342 U/l
+B-DATE
+CK
+104
+- <190 U/l
+B-DATE
+hs-TroponinT
+39.2 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+145 !H
+- <125 ng/l
+B-DATE
+NSE
+20.7 !H
+- <17 µg/l
+<[Pseudo] 26/03/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+CA 19-9 -LRB- neu -RRB-
+7.4
+- <37 U/ml
+B-DATE
+CEA -LRB- neu -RRB-
+1.1
+- <2,5 µg/l
+B-DATE
+PSA
+1.00
+- <4 µg/l
+B-DATE
+Rheumafaktor
+<7.0
+- <25 IU/ml
+<[Pseudo] 26/03/40>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.2
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+33
+20 - 42 mmol/mol
+<[Pseudo] 26/03/40>
+mittlere Glucose
+103
+- <110 mg/dl
+B-DATE
+TSH
+2.02
+0,400 - 4,000 mU/l
+<[Pseudo] 26/03/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+FT3
+2.44
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+12.75
+8 - 18 ng/l
+B-DATE
+Lipoprotein -LRB- a -RRB-
+89.52 !H
+- <30 mg/dl
+B-DATE
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+85.9
+70 - 125 %
+<[Pseudo] 26/03/40>
+INR - ber.
+1.08
+- <1.2
+<[Pseudo] 26/03/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+22.3
+- <35 s
+B-DATE
+Fib. -LRB- Clauss -RRB-
+3.46
+1,8 - 3,5 g/l
+B-DATE

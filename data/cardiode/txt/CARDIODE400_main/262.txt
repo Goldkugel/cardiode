@@ -1,0 +1,84 @@
+Aufnahmedatum: <[Pseudo] 2034-11-06 >
+Geburtsdatum: <[Pseudo] 1980-04-25 >
+Alter: 54
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 25/04/1980> wh. B-PLZ B-LOC B-ADDR I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+
+Aktuell:
+- Befundbesprechung der Stress-Kardio-MRT-Untersuchung vom <[Pseudo] 23/10/2034>
+-UNK- Negativer Ischämienachweis bezüglich LCX-Stromgebiets
+-UNK- Klinisch stabiler kardialer Verlauf
+-UNK- Zunächst konservatives Procedere bzgl. Koronarien
+
+Diagnosen:
+- Z.n. akutem Myokardinfarkt -LRB- STEMI -RRB- der Vorderwand am <[Pseudo] 01/08/2034>
+- Koronare 3-Gefäßerkrankung mit leichtgradig eingeschränkter linksventrikulärer Pumpfunktion bei Hypokinesie/Akinesie der Vorderwand -LRB- B-OTHER vom <[Pseudo] 01/08/2034> -RRB-
+-UNK- Erfolgreiche Rekanalisation der LAD mittels PTCA/1-fach DE-Stentimplantation bei proximalem Verschluss der LAD
+-UNK- höhergradige Stenose der LAD und des RIM
+-UNK- negativer Ischämienachweis Kardio-MRT <[Pseudo] 23/10/2034>
+
+CvRF: Grenzwertige arterielle Hypertonie, grenzwertige Hyperlipidämie, positive Familienanamnese -LRB- Vater, Bruder -RRB-
+Allergien: Keine bekannt
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur Befundbesprechung des Kardio-MRT vom <[Pseudo] 23/10/2034> bei bekannter koronarer Herzerkrankung. Im Alltag bestehe eine gute Belastbarkeit -LRB- 5 Etagen Treppensteigen möglich -RRB- ; Es bestehen keine typischen pectanginösen Beschwerden bei Belastung oder in Ruhe. Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestehe Nykturie mit ca. 1-facher Miktion pro Nacht. Periphere Ödeme seien nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 110/65 mmHg. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Bisherige Medikation:
+ASS 100 mg 1-0-0
+Ticagrelor 90 mg 1-0-1 bis <[Pseudo] 02/08/2035> nach PTCA/DES
+Metoprolol 23,75 mg 1-0-0
+Ramipril 2,5 mg 1-0-0
+Atorvastatin 40 mg 0-0-1
+Ezetimib 10 1-0-0
+Pantozol 20 1-0-0
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 185 cm 89 kg
+HF: 66/min, regelmäßig
+RR: 115/60 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 66/min, Indifferenztyp. PQ 162ms, QRS 83ms, QTc 400ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Kardio-MRT vom <[Pseudo] 23/10/2034:>
+
+
+
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgt zur Befundbesprechung des Kardio-MRT vom <[Pseudo] 23/10/2034> bei bekannter koronarer Herzerkrankung. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Im Kardio-MRT fand sich eine belastungsinduzierte Hypokinesie inferolateral mittventrikulär, sowie die vorbeschriebene Hypokinesie anterior mittventrikulär. Nach erneuter Durchsicht des letzten Koronarangiographie-Befundes und dem gesehenen Versorgungstyp ist der Ischämienachweis im Kardio-MRT-Befund bezüglich des LCX-Stromgebietes als negativ zu werten, sodass wir zunächst ein konservatives Procedere bezüglich der Koronarien empfehlen und aktuell keine interventionsbedürftigen Stenosen sehen.
+
+In Zusammenschau der klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher eine Fortführung der konservativen Therapie.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, I-ORG oder Ergometertraining, sowie weiterhin nichtmedikamentösen Maßnahmen -LRB- z.B. Reduktion des Salzkonsums, mediterrane Diät und Gewichtsreduktion -RRB- .
+Zur Einschätzung der erlaubten Pulsrate bzw. anaeroben Schwelle empfehlen wir eine Vorstellung in der Sportmedizin inkl. Spiroergometrischer Untersuchung.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung gerne auch bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung von kardiologischer Seite -LRB- unverändert -RRB- :
+ASS 100 mg 1-0-0
+Ticagrelor 90 mg 1-0-1 bis <[Pseudo] 02/08/2035> nach PTCA/DES
+Metoprolol 23,75 mg 1-0-0
+Ramipril 2,5 mg 1-0-0
+Atorvastatin 40 mg 0-0-1
+Ezetimib 10 1-0-0
+Pantozol 20 1-0-0
+
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

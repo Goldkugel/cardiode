@@ -1,0 +1,94 @@
+Aufnahmedatum: <[Pseudo] 2040-11-29 >
+Geburtsdatum: <[Pseudo] 1981-12-15 >
+Alter: 58
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 15/12/1981> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kein Anhalt für einen Progress der koronaren Herzerkrankung
+-UNK- Echokardiographisch leichtgradig eingeschränkte linksventrikuläre Funktion bei Hypo-Akinesie anteroseptal apikal auf apikal übergreifend
+-UNK- Unauffälliges Belastungs-EKG bis zu 100 Watt -LRB- 91% Ziel-Hf -RRB-
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung mit leichtgradig eingeschränkter linksventrikulärer Pumpfunktion -LRB- B-OTHER vom <[Pseudo] 27/08/2040> -RRB-
+-UNK- Erfolgreiche Rekanalisation des HS/ LCX mittels PTCA/4-fach DE-Stentimplantation bei akuten Myokardinfarkt -LRB- STEMI -RRB- am <[Pseudo] 27/08/2040>
+-UNK- Reanimation bei Kammerflimmern über 18 min am <[Pseudo] 27/08/2040>
+
+CvRF: Arterielle Hypertonie, ehemaliger Nikotinabusus, karent seit 20 J, kumulativ ca. 15 py -LRB- 10 Jahre -RRB- , Vater mit 58 J Herzinfarkt
+Allergien: Keine bekannt
+
+Anamnese:
+Die ambulante Vorstellung erfolgte zur kardiologischen Verlaufskontrolle nach erfolgreicher PTCA bei Reanimation und Kammerflimmern am B-DATE. Im Alltag bestände eine gute Belastbarkeit mit leichter Belastungsdyspnoe nach 2-3 Etagen Treppensteigen -LRB- NYHA I-II -RRB- . Es bestünden keine belastungsabhängigen und -unabhängigen pectanginösen Beschwerden. Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestünde keine Nykturie bei ca. einmaliger Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 120/70 mmHg. Subjektiv bestünde seit der letzten Vorstellung ein stabiler kardialer Verlauf. B-YEAR/B-YEAR hatte der Patient bereits einen HKU erhalten, anamnestisch mit dem Befund einer bestehenden koronaren 1-Gefäßerkrankung.
+
+Aktuelle Medikation:
+ASS 100 mg 1-0-0 dauerhaft
+Ticagrelor 90 mg 1-0-1 bis einschließlich <[Pseudo] 27/08/41>
+Ramipril 5 mg 1-0-1
+Bisoprolol 5 mg 1-0-1
+Lercanidipin 10 mg 1-0-1
+Moxonidin 0.3 mg 1-0-0
+Torasemid 10 mg 1-1-0
+Spironolacton 50 mg -UNK- -0-0
+Atorvastatin 80 mg 0-0-1
+Eisensubstitution
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 175 cm 88 kg
+HF: 75/min, regelmäßig
+RR: 130/80 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, HF 75/min, Linkstyp. PQ 173 ms, QRS 101 ms, QTc 426 ms. Verzögerte R-Progression, R/S Umschlag in V5/V6, S-Persistenz bis in V6. Keine signifikanten Erregungsrückbildungsstörungen. Biphasische T-Welle in V2-V3.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 100 Watt über 1:04 min. Maximale Frequenz 148/min -LRB- 91% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 205 mmHg, diastolisch 87 mmHg. Abbruch wegen Atemnot beim Tragen von FFP-Maske. Keine Angina pectoris oder inadäquate Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Vereinzelt VES -LRB- 7 -RRB- . Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck.
+
+Transthorakale Echokardiographie:
+Noch normal großer, septal betont hypertrophierter linker Ventrikel mit leichtgradig verminderter systolischer Pumpfunktion bei Hypo-Akinesie anteroseptal apikal auf apikal übergreifend. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe, trikuspid mit guter Separation. Leichtgradige Mitralklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalinsuffizienz nicht ableitbar. Im Vgl. zum Vorbefund vom <[Pseudo] 28/08/40:> I.W. Befundkonstanz.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur kardiologischen Verlaufskontrolle nach erfolgreicher PTCA bei Reanimation am B-DATE. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Das Belastungs-EKG bis 100 Watt ergab weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradigen Herzrhythmusstörungen.
+
+Echokardiographisch sahen wir eine leichtgradig eingeschränkte linksventrikuläre Pumpfunktion ohne regionale Kontraktionsstörungen. Die VCI war nicht gestaut. Es war eine leichtgradige Mitralklappeninsuffizienz feststellbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 28/08/40> fand sich keine wesentliche Befundänderung.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher die Fortführung der bestehenden medikamentösen Therapie.
+
+Wir empfehlen zudem die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien und nach Möglichkeit die regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen, sowie die regelmäßige hausärztliche Vorstellung. Bei Auftreten von Beschwerden oder Komplikationen sind wir gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung: -LRB- unverändert -RRB-
+ASS 100 mg 1-0-0 dauerhaft
+Ticagrelor 90 mg 1-0-1 bis einschließlich <[Pseudo] 27/08/41>
+Ramipril 5 mg 1-0-1
+Bisoprolol 5 mg 1-0-1
+Lercanidipin 10 mg 1-0-1
+Moxonidin 0.3 mg 1-0-0
+Torasemid 10 mg 1-1-0
+Spironolacton 50 mg -UNK- -0-0
+Atorvastatin 80 mg 0-0-1 Ziel-LDL <55 mg/dl
+Eisensubstitution
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen,
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

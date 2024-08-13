@@ -1,0 +1,87 @@
+Aufnahmedatum: <[Pseudo] 2040-11-10 >
+Geburtsdatum: <[Pseudo] 1980-07-01 >
+Alter: 60
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 01/07/1980> wh. B-PLZ B-LOC I-ADDR I-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Regelrechte kardiologische Verlaufskontrolle
+-UNK- Kein Anhalt für Klappenvegetationen
+-UNK- Echokardiographisch gute biventrikuläre Funktion
+-UNK- Unauffälliges Belastungs-EKG bis zu 175 Watt -LRB- 108% Ziel-Hf -RRB-
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Z. n. Bakterieller Endokarditis der Aortenklappe
+-UNK- Kein Nachweis mehr von Klappenvegetationen -LRB- TEE <[Pseudo] 17/01/2037> -RRB-
+-UNK- Nachweis einer kleinen Struktur -LRB- ca. 3x2 mm -RRB- am rechten Aortenklappensegel -LRB- TEE vom <[Pseudo] 04/12/2036> -RRB-
+-UNK- Ca. 15x10 mm messende Struktur am akoronaren Aortenklappensegel -LRB- TEE vom <[Pseudo] 13/11/2036> -RRB-
+-UNK- Positive Blutkultur vom <[Pseudo] 09/11/36> mit Nachweis von Streptococcus sanguinis
+- Leicht- bis mittelgradige Aortenklappeninsuffizienz
+- Kleines Vorhofseptumaneurysma ohne farbdopplersonographischen Nachweis eines Shunts
+- Z. n. dorso-ventraler Spondylodese LWK 4/5 mit Bandscheibenersatz mittels XLIF am <[Pseudo] 22/03/2037> bei Spondylodiszitis LWK 4/5 bei zunehmender knöcherner Destruktion
+-UNK- Hochgradiger Verdacht auf Spondylodiszitis LWK 4/5 -LRB- MRT LWS nativ+KM vom <[Pseudo] 04/12/2036> -RRB-
+- Rheumatische Arthritis -LRB- anamnestisch -RRB-
+- positive Borreliose-Antikörper -LRB- anamnestisch -RRB-
+Kardiovaskuläre Risikofaktoren: Ehemaliger Nikotinkonsum -LRB- 5py -RRB- , Arterielle Hypertonie
+Allergien/Unverträglichkeiten: Sulfonamide
+Anamnese:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Verlaufskontrolle. Im Alltag bestehe eine gute Belastbarkeit -LRB- 3-4 Etagen Treppensteigen möglich -RRB- ohne inadäquate Belastungsdyspnoe. Es bestehen keine typischen pectanginösen Beschwerden bei Belastung oder in Ruhe. Keine Palpitationen. Gelegentlich Schwindel. Keine stattgehabten Synkopen. Es bestehe Nykturie mit ca. 2-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die unregelmäßig gemessenen häuslichen Blutdruckmessungen ergäben teilweise erhöhte Werte bis zu 160mmHg systolisch. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Bisherige Medikation:
+Ramipril 5 mg 1-0-0
+Prednisolon unbekannte Dosierung
+Doxycyclin unbekannte Dosierung
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 170cm, 70kg
+HF: 60/min, regelmäßig
+RR: 110/80 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Bradykarder Sinusrhythmus, Hf 57/min, Steiltyp. PQ 108ms, QRS 93ms, QTc 402ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 175 Watt über 00:34 min. Maximale Frequenz 173/min -LRB- 108 % der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 228 mmHg, diastolisch 128 mmHg. Abbruch wegen peripherer Ermüdung und leichter Dyspnoe. Keine Angina pectoris. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Unter maximaler Belastung diskrete aszendierende ST-Streckensenkungen in den Ableitungen II, III, aVF und V4-V6 mit rascher Rückbildung in der Erholungsphase. Durchgehend Sinusrhythmus. Wenige VES -LRB- 15 -RRB- . Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck. Keine höhergradigen Herzrhythmusstörungen unter Belastung.
+
+Transthorakale Echokardiographie:
+Normal großer, septal leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA leicht dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation und leicht- bis mittelgradiger Insuffizienz. Mitralklappe leicht verdickt mit guter Separation und leichtgradiger Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht nachweisbar. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 20-25 mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 27/10/2039:> Heute regelrechte diastolische LV-Funktion, sonst im Wesentlichen Befundkonstanz.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur routinemäßigen kardiologischen Verlaufskontrolle. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Das Belastungs-EKG bis 175 Watt ergab weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradige Herzrhythmusstörungen. Echokardiographisch fand sich eine gute linksventrikuläre Pumpfunktion ohne relevante Klappenvitien.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher eine Fortführung der konservativen Therapie.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren insbesondere des Blutdrucks gemäß den aktuellen Leitlinien sowie die Fortführung der u.a. medikamentösen Therapie -LRB- ggf. Anpassung/Intensivierung der antihypertensiven Medikation -RRB- .
+
+Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, I-ORG oder Ergometertraining, sowie weiterhin nichtmedikamentösen Maßnahmen -LRB- z.B. Reduktion des Salzkonsums, mediterrane Diät und Gewichtsreduktion -RRB- .
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung in unserer B-ORG -LRB- Terminvereinbarung telefonisch unter B-PHONE -RRB- . Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Aktuelle Medikation -LRB- unverändert -RRB- :
+Ramipril 5 mg 1-0-0
+Prednisolon unbekannte Dosierung
+Doxycyclin unbekannte Dosierung, Absetzen nach Maßgabe des behandelnden Arztes
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Zur Endokarditisprophylaxe empfehlen wir lebenslang eine gute Mundhygiene und regelmäßige zahnärztliche Kontrollen. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o. oder i.v. -RRB- oder bei Penicillinallergie mit Ampicillin und Clindamycin -LRB- 600 mg p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres empfohlen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

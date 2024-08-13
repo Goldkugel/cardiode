@@ -1,0 +1,87 @@
+Aufnahmedatum: <[Pseudo] 2038-03-22 >
+Geburtsdatum: <[Pseudo] 1987-06-26 >
+Alter: 50
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 26/06/1987> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kardiologische Abklärung bei gehäuftem Auftreten von supra- und ventrikulären Extrasystolen
+-UNK- Echokardiographisch gute biventrikuläre Funktion, grenzgradig großer linker Ventrikel -LRB- 54 mm -RRB-
+-UNK- Unauffälliges Belastungs-EKG bis zu 50 Watt -LRB- 66% Ziel-Hf -RRB-
+- Ad Stress-Kardio-MRT-Untersuchung zur weiteren Abklärung einer möglichen Kardiomyopathie am <[Pseudo] 24/08/2038> um 12:00 Uhr und zur Befundbesprechung in unserer kardiologischen Ambulanz am <[Pseudo] 07/09/2038> um 11:00 Uhr.
+
+Diagnosen:
+- Palpitationen -LRB- VES, SVES -RRB-
+- Leichte Mitralklappen- und Trikuspidalinsuffizienz -LRB- <[Pseudo] 06/2037> -RRB-
+- Restless-legs Syndrom <[Pseudo] 01/2033>
+- Z.n. Morbus Hodgkin, gemischtzellige Form, Stadium IIIa, ED <[Pseudo] 04/2022>
+- Z.n. 8 Zyklen BEACOPP-14
+- Aktuell in Remission
+- Z.n. Nasen-OP -LRB- Nasenkorrektur und Sinusitis-OP am <[Pseudo] 06/01/2031> -RRB-
+- Chronisches Schmerzsyndrom
+
+Kardiovaskuläre Risikofaktoren: Dyslipoproteinämie, aktiver Nikotinabusus, kumulativca. 20py, pos. Familienanamnese -LRB- Mutter hat -UNK- Herzprobleme -UNK- -RRB-
+Allergien: keine bekannt
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Abklärung bei Palpitationen und begleitender Dyspnoe und Schwindel. Im Alltag bestehe eine gute Belastbarkeit -LRB- 3 Etagen Treppensteigen möglich -RRB- ; Es bestehen keine typischen pectanginösen Beschwerden bei Belastung oder in Ruhe. Seit etwa drei Jahren kenne der Patient Palpitationen, die sich jedoch in den letzten zwei Wochen v.a. bei Belastung vermehrt vorhanden, parallel verspüre der Patient dazu Dyspnoe, Schwindel und thorakales Engegefühl. Stattgehabte Synkopen werden verneint. Es bestehe keine Nykturie. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 110/60 mmHg. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Bisherige Medikation:
+Metoprolol 47,5mg 1-0-0
+Tromcardin 2-0-2 b.B.
+Foster-Spray 1-0-1
+Asthma-Spray b.B.
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 166cm 74 kg
+HF: 70 /min, regelmäßig
+RR: 120/80 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 70/min, Linkstyp. PQ 155ms, QRS 90ms, QTc 397ms. Regelrechte R-Progression, R/S Umschlag in V2/V3, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen. 2 SVES, 1VES.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 50 Watt über 01:57 min. Maximale Frequenz 113/min -LRB- 66% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 128 mmHg, diastolisch 64 mmHg. Abbruch wegen peripherer Ermüdung, Schwindel und Kurzatmigkeit gesteigert durch das Tragen von MNS. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Eingeschränkte Beurteilbarkeit bei Nichterreichen der Ausbelastungsfrequenz.
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Wenige VES -LRB- 38 -RRB- . Keine höhergradigen Herzrhythmusstörungen. Flaches Herzfrequenz- und Blutdruckprofil.
+
+Transthorakale Echokardiographie:
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne sicher abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Dopplersonographisch leichtgradige Trikuspidalklappeninsuffizienz. Leicht- bis mittelgradige Mitralklappeninsuffizienz. Leicht- bis mittelgradige Pulmonalklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 28 mmHg -RRB- . Erstbefund in domo.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Abklärung bei Palpitationen und begleitender Dyspnoe und Schwindel. Subjektiv wird von einem klinisch verschlechterten kardialen Verlauf berichtet.
+
+Das Belastungs-EKG bis 50 Watt ergab, soweit bei Nichterreichen der Ausbelastung beurteilbar, weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradige Herzrhythmusstörungen.
+
+Echokardiographisch fand sich eine gute linksventrikuläre Pumpfunktion mit grenzgradig großem linken Ventrikel -LRB- LV EDD 54 mm -RRB- . Es zeigte sich die vorbekannte leicht- bis mittelgradige Mitralklappeninsuffizienz, sowie eine leichtgradige Trikuspidalklappeninsuffizienz.
+
+Eine Hyperthyreose, Anämie oder Elektrolytentgleisung konnte laborchemisch als mögliche Ursache der Palpitationen ausgeschlossen werden.
+
+Bei grenzgradig großem Ventrikel empfehlen wir zur weiteren Abklärung einer möglichen Kardiomyopathie die Durchführung einer Stress-Kardio-MRT-Untersuchung. Ein Termin für diese Untersuchung wurde bereits für den <[Pseudo] 24/08/2038> um 12:00 Uhr und ein Termin zur Befundbesprechung am <[Pseudo] 07/09/2038> um 11:00 Uhr in unserer B-ORG Ambulanz vereinbart. Die Untersuchung wird inklusive Stress-MRT laufen, so dass wir den Patienten bitten in den 24 Stunden vor der Untersuchung morgens keine koffein- und teeinhaltigen Getränke und keine dunkle Schokolade zu sich zu nehmen. Weiterhin bitten wir um das Mitbringen von aktuellen Laborwerten -LRB- Harnstoff und Kreatinin, nicht älter als drei Wochen -RRB- , sowie eines aktuellen Überweisungsscheins.
+
+Wir empfehlen zunächst bei neu begonnener Betablocker-Therapie diese weiterzuführen und ggf. bei Beschwerdepersistenz die Dosis zu steigern.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, I-ORG oder Ergometertraining, sowie weiterhin nichtmedikamentösen Maßnahmen -LRB- z.B. Reduktion des Salzkonsums, mediterrane Diät und Gewichtsreduktion -RRB- .
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung gerne auch bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung von kardiologischer Seite -LRB- unverändert -RRB- :
+Metoprolol 47,5mg 1-0-0
+Tromcardin 2-0-2 b.B.
+Foster-Spray 1-0-1
+Asthma-Spray b.B.
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

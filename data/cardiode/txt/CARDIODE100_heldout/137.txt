@@ -1,0 +1,384 @@
+Aufnahmedatum: <[Pseudo] 2033-08-18 >
+Geburtsdatum: <[Pseudo] 2007-10-05 >
+Alter: 25
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 05/10/2007> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Progredienter Befund einer TVT des linken Beins mit/bei
+-UNK- 2-Etagenthrombose der distalen VFS, Vv. tib. anteriores et fibulares links -LRB- <[Pseudo] 08/08/2033> -RRB-
+-UNK- normwertige Thrombozyten
+-UNK- Initiierung einer Antikoagulation mittels Clexane s.c.
+-UNK- Anti Xa gesteuert Ziel: 1.1-1.3
+-UNK- Z. n. Covid-Impfung mit BioNTech am <[Pseudo] 07/08/33>
+-UNK- Z. n. TVT links im Rahmen einer SG-Fraktur <[Pseudo] 2032>
+- Empfehlung zum Gerinnungsscreening in unserer B-ORG I-ORG 3 Monate nach Entlassung bzw. nach Maßgabe der angiologischen I-ORG -LRB- Terminvereinbarung unter B-PHONE I-PHONE I-PHONE - I-PHONE -RRB-
+-UNK- Bitte 48 h vor dem Termin Clexane pausieren
+- Angiologische Verlaufskontrolle in 4 Wochen -LRB- Terminvereinbarung s.o. -RRB-
+
+Diagnosen:
+- Z. n. SG-Fraktur links <[Pseudo] 2032>
+
+Kardiovaskuläre Risikofaktoren:
+Adipositas Grad III
+
+Allergien:
+Anamnestisch keine bekannt
+Anamnese:
+Die Aufnahme auf unsere Station erfolgte über unsere B-ORG bei progredientem Befund einer TVT des linken Beins, ED <[Pseudo] 08/08/2033> nach Covid-Impfung mit BioNTech. Zustand nach vorheriger TVT links nach SG-Fraktur DATE
+
+Die initiale Vorstellung erfolgte bei intermittierenden Schmerzen im linken Bein in der CPU am DATE, dort wurde bei TVT links eine Antikoagulation mit Xarelto begonnen. Über das Wochenende ergab sich neu ein intermittierendes Taubheitsgefühl der medialen linken Wade bis in den Fuß ziehend mit Kribbelparästhesien. Es zeigt sich ein geschwollener überwärmter, leicht geröteter Unterschenkel. In der angiologischen Verlaufskontrolle vom <[Pseudo] 11/08/2033> zeigte sich ein progredienter Befund der TVT links. Es zeigte sich ein kardiorespiratorisch stabiler Patient ohne Hinweis auf ein akutes kardiopulmonales Ereignis. Der Patient arbeite in der B-ORG der B-ORG I-ORG und hatte somit eine berufliche Impfindikation.
+
+Medikation bei Aufnahme:
+Xarelto 15 mg Pause
+Enoxaparin 100 mg 1-0-1, neu, ab <[Pseudo] 11.08.> abends, Anti-Xa gesteuert, Zielbereich: 0.8 - 1-1
+Pantozol 40 mg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+
+AZ: gut
+181cm 146 kg
+HF: 99/min, regelmäßig
+RR: 179 / 111 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein, keine path. Geräusche
+Lunge: o.B.
+Abdomen: weich, kein DS, keine Resist
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: o.B.
+Neurologischer Status: unauffällig
+sonstige Auffälligkeiten: Geschwollener, überwärmter, leicht geröteter Unterschenkel links.
+
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 11/08/2033> und dem <[Pseudo] 16/08/2033>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+4.53
+4 - 10 /nl
+B-DATE
+Hb
+15.8
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.3
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.450
+0,38 - 0,52 l/l
+B-DATE
+MCV
+85
+83 - 97 fl
+<[Pseudo] 15/08/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 15/08/33>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 15/08/33>
+RDW
+12.7 !L
+12,9 - 18,7 %
+<[Pseudo] 15/08/33>
+hypochr.Erythroz.
+0.2
+0 - 2 %
+<[Pseudo] 15/08/33>
+Thrombozyten
+246
+150 - 440 /nl
+<[Pseudo] 15/08/33>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 15/08/33>
+Kalium -LRB- ISE -RRB-
+4.25
+3,4 - 4,6 mmol/l
+<[Pseudo] 15/08/33>
+Kreatinin
+0.91
+0,6 - 1,2 mg/dl
+<[Pseudo] 15/08/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+28
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+116.7
+>60 s.u.
+B-DATE
+MDRD
+124.40
+ml/min/1,73qm
+<[Pseudo] 12/08/33>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+50.0
+30 - 50 g/l
+<[Pseudo] 12/08/33>
+Glucose
+89
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+48 !H
+- <46 U/l
+B-DATE
+GPT/ALT
+89 !H
+- <50 U/l
+B-DATE
+Ges.Bili.
+0.80
+- <1.0 mg/dl
+B-DATE
+Triglyceride
+217 !H
+- <150 mg/dl
+B-DATE
+Cholesterin
+208.0
+- alt.abh. mg/dl
+<[Pseudo] 12/08/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+118
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+47
+>40 mg/dl
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 14/08/33>
+Hämolyse
+-
+
+<[Pseudo] 15/08/33>
+ikterisch
+-
+
+<[Pseudo] 15/08/33>
+Lipämie
+-
+
+<[Pseudo] 15/08/33>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+295
+- <316 U/l
+B-DATE
+CK
+407 !H
+- <190 U/l
+B-DATE
+Cardiol IgG
+<3
+- <13 U/ml
+<[Pseudo] 12/08/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cardiol IgM
+<3
+- <10 U/ml
+B-DATE
+b2-Gly IgG
+1
+- <17,7 U/ml
+B-DATE
+b2-Gly IgM
+<1
+- <5,7 U/ml
+B-DATE
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.1
+- <6,1 %
+<[Pseudo] 12/08/33>
+HbA1c -LRB- IFCC -RRB-
+32
+20 - 42 mmol/mol
+<[Pseudo] 12/08/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+100
+- <110 mg/dl
+B-DATE
+TSH
+2.52
+0,400 - 4,000 mU/l
+<[Pseudo] 12/08/33>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+87.1
+70 - 125 %
+<[Pseudo] 12/08/33>
+INR - ber.
+1.07
+- <1.2
+<[Pseudo] 12/08/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+26.4
+- <35 s
+B-DATE
+Anti-Xa /LMWH
+1.24 !H
+0,3 - 1,1 U/ml
+<[Pseudo] 16/08/33>
+
+
+
+
+
+
+Ruhe-EKG vom <[Pseudo] 11/08/2033> -LRB- über Chest-Pain-Unit -RRB- :
+Sinustachykardie, regelmäßig, 106/min, Indifferenztyp. PQ 120msec, QRS 106msec., QTc 409msec. Zeiten im Normbereich. Frühe R-Progression, R/S Umschlag in V2/V3. Keine S-Persistenz. Keine signifikanten Kammerendteilveränderungen.
+
+Virologischer Befund vom <[Pseudo] 11/08/2033> -LRB- Chest-Pain-Unit -RRB- :
+
+
+
+Angiologische Vorstellung bei 2-Etagenthrombose der VFS und Vv. tibiales links vom <[Pseudo] 11/08/2033:>
+Lokalbefund:
+Deutlicher Wadendruckschmerz, Schwellung, Rötung, Überwärmung linker Unterschenkel.
+Farbduplexsonographie der tiefen Venen der unteren Extremität links:
+Atemvariables, regelrechtes venöses Flussprofil in der V. iliaca externa. Im einsehbaren Verlauf distale V. iliaca externa, proximale V. femoralis communis ohne sicherer Hinweise auf intraluminales thrombotisches Material. Distale V. femoralis communis und V. femoralis superficialis subtotal, sowie beide Vv. poplitea, und Vv. tibiales anteriores et posteriores und Vv. fibulares soweit einsehbar vollständig thrombosiert. Nebenbefundlich triphasischer kräftiger arterieller Fluss bis auf Knöchelniveau.
+Zusammenfassung:
+Progress bei nun -Etagenthrombose der VFS, Vv. poplitea, Vv. tib. anteriores, Vv. tib. posteriores et fibulares
+Empfohlenes Procedere:
+- Stationäre Aufnahme,
+- Empfehlung einer Antikoagulation in therapeutischer Dosierung für mindestens 3 Monate mit NOAC -LRB- unter regelmäßiger Kontrolle der Nierenfunktion sowie des Blutbilds -RRB-
+- Fortführung Kompressionstherapie mit angepassten Kompressionsstrümpfen der Klasse II vom Oberschenkeltyp für mindestens 3 Monate
+
+Angiologische Vorstellung bei 3-Etagenthrombose der VFS und Vv. tibiales links vom <[Pseudo] 15/08/2033:>
+Lokalbefund:
+Wadendruckschmerz, Schwellung, Rötung, Überwärmung linker Unterschenkel.
+Farbduplexsonographie der tiefen Venen der unteren Extremität links:
+Atemvariables, regelrechtes venöses Flussprofil in der V. iliaca externa. Im einsehbaren Verlauf distale V. iliaca externa und proximale V. femoralis communis ohne sicherer Hinweise auf intraluminales thrombotisches Material. Distale V. femoralis communis und V. femoralis superficialis nicht vollständig komprimierbar aber perfundiert darstellbar. Vv. poplitea, und Vv. tibiales anteriores et posteriores und Vv. fibulares ebenfalls mit antegrad provozierbarem Flussnachweis darstellbar.
+Zusammenfassung:
+Verbesserung der TVT, heute durchgängig antegrad provozierbarer Fluss in den Venen des linken Beines.
+Empfohlenes Procedere:
+- Therapeutische Anti-Xa gesteuerte Antikoagulation mit Clexane fortführen -LRB- Zielbereich 1.1-1.3 -RRB-
+- Fortführung Kompressionstherapie mit angepassten Kompressionsstrumpfhosen der Klasse II für mindestens 3 Monate
+- Angiologische Kontrolluntersuchung in 4 Wochen
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme des Patienten erfolgte bei progredientem Befund einer TVT des linken Beins, ED <[Pseudo] 08/08/2033> nach Covid-Impfung mit BioNTech zur klinischen Observanz bei drohendem Compartment Syndrom.
+
+Die Antikoagulation wurde von Xarelto auf Clexane umgestellt. Die regelmäßigen klinischen Kontrollen zeigten eine lokale Befundbesserung, der Patient berichtete ebenfalls von einer Besserung der Beschwerden. Die Einstellung der Clexane Dosierung gestaltete sich protrahiert, schließlich wurde der Zielbereich am <[Pseudo] 16/08/2033> erreicht.
+
+Ein initial durchgeführtes Thrombophiliescreening erbrachte den Nachweis von Lupus Antikoagulanz Antikörpern; eine ausführliche Gerinnungsdiagnostik sollte in 3-6 Monaten wiederholt werden, 48h vor Screening Clexane bitte pausieren.
+
+In der angiologischen Kontrolle vom <[Pseudo] 15/07/2033> zeigte sich eine Verbesserung der TVT, mit durchgängig antegrad provozierbarem Fluss in den Venen des linken Beines.
+
+Wir empfehlen eine angiologische Verlaufskontrolle in 4 Wochen in unserer B-ORG Ambulanz. Weiterhin empfehlen wir die Fortführung der Kompressionstherapie mit angepassten Kompressionsstrumpfhosen der Klasse II für mindestens 3 Monate, diese werden dem Patienten zugestellt.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR - Evaluation mittels Langzeit-Blutdruckmessung, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+Enoxaparin 180 mg 1-0-1, neu, Anti-Xa gesteuert, Zielbereich: 1.1-1.3
+Pantozol 40 mg 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 3 Monaten empfehlen wir eine ambulante angiologische bzw. hämostaseologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen den Patienten heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

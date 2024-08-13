@@ -1,0 +1,378 @@
+Aufnahmedatum: <[Pseudo] 2031-08-21 >
+Geburtsdatum: <[Pseudo] 1972-07-29 >
+Alter: 59
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 29/07/1972> wh. B-PLZ B-LOC -LRB- B-LOC -RRB- , B-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Diagnosen:
+- Dilatative Kardiomyopathie unklarer Genese, initiale LVEF: 25%
+-UNK- Aktuell noch gute EF: 58%
+-UNK- V.a. stattgehabte Myokarditis -LRB- MRT <[Pseudo] 07/2026> -RRB-
+-UNK- Histologisches Bild einer DCMP -LRB- Pathologie B-LOC -RRB-
+-UNK- Ausschluss einer koronaren Herzerkrankung <[Pseudo] 07/2026> -LRB- B-LOC -RRB-
+-UNK- Genanalyse ohne Anhalt für Laminopathie -LRB- Genetik I-ORG -RRB-
+- Anamnest. Z.n. Knie-Arthroskopie bei Osteonekrose <[Pseudo] 05/2028>
+
+Kardiovaskuläre Risikofaktoren: keine bekannt
+Allergien: keine bekannt
+Aktuell:
+
+- Herzinsuffizienz NYHA Stadium II
+- Stabiler kardialer Verlauf
+Anamnese:
+
+Die Vorstellung erfolgt zur Verlaufskontrolle bei dilatativer Kardiomyopathie. Der Lebensgefährter sei vor kurzem gestorben, diese hätte die Patientin psychisch sehr belastet. Die Patientin war am <[Pseudo] 15/07/2031> einmalig aus der B-PER bewusstlos mit Verletzungsfolge -LRB- der Sportuhr-Ausdruck liegt vor und zeigte den Puls zwischen 44 und 132/min an dem Tag -RRB- , danach erfolgte keine Vorstellung beim Arzt. Im Alltag bestehe eine eingeschränkte körperliche Belastbarkeit -LRB- 2-3 Etagen Treppensteigen möglich, NYHA II -RRB- , limitiert durch Belastungsdyspnoe. Keine Angina pectoris in den letzten Wochen. Zuletzt im externen Langzeit-EKG -LRB- <[Pseudo] 04/2031> -RRB- normofrequenter Sinusrhythmus bei AV-Block I°, Puls 53/70/114 pro Minute. Trinkmenge 1,5 Liter/Tag. Die häuslichen Blutdruckwerte lägen bei ca. 100/70 mmHg. Gewichtskonstanz. Keine peripheren Ödeme. Aktuell kein klinischer Hinweis auf Infekt -LRB- kein Husten, kein Fieber, kein Brennen beim Wasserlassen -RRB- . Insgesamt bestehe ein stabiler kardialer Verlauf.
+
+Spezielle Krankheitsanamnese:
+Erstdiagnose: <[Pseudo] 07/2026>
+Letzte Koronarangiographie -LRB- <[Pseudo] 07/2026> -RRB- : KHK ohne höhergradige Stenosen -LRB- B-LOC -RRB-
+Kardio-MRT: V.a. Perimyokarditis -LRB- <[Pseudo] 07/2026> -RRB-
+Myokardbiopsie: V.a. DCMP -LRB- Pathologie B-LOC -RRB-
+Familienanamnese: leer
+Molekulargenetik und Autoantikörper: Ausschluss Laminopathie -LRB- Genetik B-LOC -RRB-
+Körperlicher Untersuchungsbefund:
+
+59-jäh. Pat., 178 cm, 62 kg, in gutem Allgemeinzustand. Klares Bewusstsein, Blutdruck 82/65 mmHg. Herztöne unauffällig, keine pathologischen Geräusche. Vesikuläres Atemgeräusch, keine Nebengeräusche. Keine Ödeme. Keine Zyanose.
+Ruhe-EKG:
+
+Normofrequenter Sinusrhythmus, regelmäßig, 68/min, überdrehter Linkstyp. PQ: 218 ms, QRS: 148 ms, QTc: 459 ms. Bekannter AV-Block I° und kompletter Linksschenkelblock mit konsekutiven Kammerendteilveränderungen.
+Belastungs-EKG:
+
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 100 Watt über 01:23 min. Maximale Frequenz 140/min -LRB- 92 % der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 162 mmHg, diastolisch 78 mmHg. Abbruch wegen peripherer Ermüdung und mäßiger Dyspnoe. Rasche Besserung in Ruhe. Keine Angina pectoris. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Bei Nichterreichen der Ausbelastungsfrequenz und zahlreichen Bewegungsartefakten eingeschränkte Beurteilbarkeit.
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Wenige VES -LRB- 17 -RRB- . Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck. Keine höhergradigen Herzrhythmusstörungen.
+Echokardiographie:
+
+Normal großer, septal leicht hypertrophierter linker Ventrikel mit noch guter systolischer
+Pumpfunktion bei deutlich dyskoordinierten Septumbewegungen sowie Hypokinesie der
+anterior und anterolateral apikal. Erhaltene longitudinale Funktion. Regelrechte diastolische
+LV-Funktion. LA, RA und RV normal groß. Gute RV-Funktion. Hypermobiles Vorhofseptum. Kein
+Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Klappen sonographisch und dopplersonographisch regelrecht. Systolischer PA-Druck bei
+fehlender Trikuspidalinsuffizienz nicht bestimmbar.
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 22/08/2030:> weiterhin Besserung der LV-Funktion.
+Labor:
+
+Zusammenfassung:
+Die Vorstellung erfolgte zur Routinekontrolle bei dilatativer Kardiomyopathie. Die Patientin berichtet über einen subjektiv stabilen kardialen Verlauf. Weiterhin berichtet die Patientin über eine Episode von Bewusstlosigkeit.
+
+Die durchgeführte Belastungs-EKG-Untersuchung erbrachte keinen Anhalt für eine relevante myokardiale Ischämie bis zu einer Leistung von 100 Watt, soweit bei komplettem Linksschenkelblock und fehlender Ausbelastung beurteilbar. Echokardiographisch ergab sich im Vergleich zur Voruntersuchung vom <[Pseudo] 22/08/2030> weiterhin eine Besserung der LV-Funktion. Das NTproBNP war bei 121 ng/l, zuvor 322 ng/l, somit minimale Befundbesserung. In der Zusammenschau gehen wir von einem weitgehend stabilen kardialen Verlauf aus. Bei Normalisierung der LV-Pumpfunktion haben wir die Spironolacton-Therapie abgesetzt.
+
+Wir empfehlen die Durchführung einer Kipptischuntersuchung und ein erneutes LZ-EKG zur weiteren Abklärung der geschildeten Lagerung-abhängigen Bewusstlosigkeit.
+
+Wir empfehlen die Fortführung der unten angegebenen Therapie und bitten um Wiedervorstellung in 12 Monaten -LRB- Terminvereinbarung unter Tel: B-PHONE -RRB- . Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+Medikation:
+
+
+
+
+Bisoprolol 1,25 mg 1-0-0
+Ramipril 5 mg 1-0-1
+Spironolacton 25 mg bitte absetzen
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+Mit freundlichen Grüßen
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER PER
+Ärztlicher Direktor Oberarzt Assistenzärztin
+
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2030>
+Blutbild
+Parameter
+
+Wert
+
+Normb / Dimension
+Datum
+Leukozyten
+6.82
+4 - 10 /nl
+B-DATE
+Hb
+12.8
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.3
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.370
+0,36 - 0,47 l/l
+B-DATE
+MCV
+86
+83 - 97 fl
+B-DATE
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+35
+30 - 36 g/dl
+B-DATE
+RDW
+12.9
+12,9 - 18,7 %
+B-DATE
+hypochr.Erythroz.
+0.3
+0 - 2 %
+B-DATE
+Thrombozyten
+193
+150 - 440 /nl
+B-DATE
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+1.41
+1,0 - 4,8 /nl
+<[Pseudo] 21/08/31>
+Neutroph.G.-abs.
+4.56
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.55
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.14
+- <0,5 /nl
+<[Pseudo] 21/08/31>
+Basoph.G. -LRB- abs -RRB-
+0.03
+- <0,2 /nl
+<[Pseudo] 21/08/31>
+Neutroph.G. -LRB- mech. -RRB-
+66.9
+50 - 80 %
+<[Pseudo] 21/08/31>
+Lympho -LRB- mech. -RRB-
+20.7 !L
+25 - 40 %
+<[Pseudo] 21/08/31>
+Basoph.G.
+0.5
+- <1 %
+<[Pseudo] 21/08/31>
+Monozyten -LRB- mech. -RRB-
+8.1
+2 - 9 %
+<[Pseudo] 21/08/31>
+Eosinoph.G. -LRB- mech. -RRB-
+2.1
+2 - 4 %
+<[Pseudo] 21/08/31>
+Elektrolyte & Nierenfunktionsparameter
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+135
+135 - 146 mmol/l
+<[Pseudo] 21/08/31>
+Kalium -LRB- ISE -RRB-
+3.67
+3,4 - 4,8 mmol/l
+<[Pseudo] 21/08/31>
+Calcium
+2.41
+2,11 - 2,59 mmol/l
+<[Pseudo] 21/08/31>
+Kreatinin
+0.71
+0,5 - 0,9 mg/dl
+B-DATE
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+Harnstoff
+39
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+93.5
+>60 s.u.
+B-DATE
+MDRD
+90.18
+ml/min/1,73qm
+<[Pseudo] 21/08/31>
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+Albumin quant.
+48.8
+30 - 50 g/l
+<[Pseudo] 21/08/31>
+Glucose
+98
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+15
+- <37 U/l
+B-DATE
+GPT/ALT
+10
+- <35 U/l
+B-DATE
+AP
+65
+55 - 105 U/l
+B-DATE
+GGT
+15
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.7
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+4.8
+- <6 mg/dl
+B-DATE
+Triglyceride
+52
+- <150 mg/dl
+B-DATE
+Cholesterin
+152.0
+- alt.abh. mg/dl
+<[Pseudo] 21/08/31>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+88
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+54
+>50 mg/dl
+B-DATE
+Eisen
+15.6
+12 - 27 µmol/l
+<[Pseudo] 21/08/31>
+Ferritin
+50
+20 - 120 µg/l
+<[Pseudo] 21/08/31>
+Transferrin
+2.49
+2,0 - 3,6 g/l
+<[Pseudo] 21/08/31>
+TFSG
+25
+16 - 45 %
+<[Pseudo] 21/08/31>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 21/08/31>
+Hämolyse
+-
+
+<[Pseudo] 21/08/31>
+ikterisch
+-
+
+<[Pseudo] 21/08/31>
+Lipämie
+-
+
+<[Pseudo] 21/08/31>
+Aktivitätsparameter & Elektrophorese
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+LDH
+195
+- <308 U/l
+B-DATE
+CK
+87
+- <170 U/l
+<[Pseudo] 21/08/31>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+hs-TroponinT
+5
+- <14 pg/ml
+B-DATE
+NT-BNP
+121
+- <125 ng/l
+<[Pseudo] 21/08/31>
+Endokrinologie & Diabetologie
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+HbA1c
+5.4
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+36
+20 - 42 mmol/mol
+<[Pseudo] 21/08/31>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+mittlere Glucose
+108
+- <110 mg/dl
+B-DATE
+TSH
+2.14
+0,400 - 4,000 mU/l
+<[Pseudo] 21/08/31>

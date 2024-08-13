@@ -1,0 +1,130 @@
+Aufnahmedatum: <[Pseudo] 2036-08-10 >
+Geburtsdatum: <[Pseudo] 1998-05-15 >
+Alter: 38
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 15/05/1998> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+Hypertensive Kardiomyopathie, DD HCM -LRB- Kardio-MRT v. <[Pseudo] 13/08/2035> -RRB- :
+- Gute linksventrikuläre Pumpfunktion -LRB- EF 73% -RRB-
+- Normal großer, septal deutlich betont konzentrisch hypertrophierter linker Ventrikel
+- Nachweis von Infarkt-Narben anteroseptal und inferolateral
+- Kein Nachweis einer myokardialen Amyloidose
+
+Kein Hinweis auf Progress der koronaren Herzerkrankung
+- Echokardiographisch noch gute LV-Funktion ohne relevante Wandbewegungsstörungen -LRB- TTE v. <[Pseudo] 10/08/2036> -RRB-
+
+Diagnosen:
+- Z.n. Akuter Myokardinfarkt -LRB- NSTEMI -RRB- am <[Pseudo] 26/06/2035>
+-UNK- Peripherer Verschluss des Ramus diagonalis und eines kleinen Septalasts, erfolgreiche PTCA und 1x DE-Stentimplantation des Ramus diagonalis, zudem hochgradige RCA-Stenose, erfolgreiche PTCA und 1-fach DE-Stentimplantation, koronare 3-Gefäßerkrankung, Verzicht auf linksventrikuläre Angiographie zur Nephroprotektion -LRB- B-OTHER vom <[Pseudo] 27/06/2035> -RRB-
+
+- Z. n. kombinierter Pankreas-Nierentransplantation am <[Pseudo] 22/06/2034> BG 0 pos./0 pos., 1 M, 5 MM, CMV pos./pos., KIZ Pankreas 11 Std. 42 Min., Niere 14 Std. 57 Min, Pankreas 1 Arterie auf AIC re., 1 Vene auf VIC re. Niere 1 Arterie auf AIC li., 1 Vene auf VIC li.
+-UNK- NPE vom <[Pseudo] 02/07/2034:> Zeichen der akuten Tubulusschadens. Keine floride Rejektion -LRB- mm0, g0, cg0, ct0, ci0, i-ifta0, i0, t0, v0, cv0, ptc0, C4d2 -RRB-
+-UNK- Demers-Entfernung am <[Pseudo] 09/07/2034>
+-UNK- Renale Grunderkrankung: Terminale Niereninsuffizienz CKD 5 bei familiären Zystennieren und dringendem V.a. diabetische Nephropathie
+-UNK- CAPD-Katheter-Anlage am <[Pseudo] 30/09/2031> Beginn PD am <[Pseudo] 03/04/2032>
+
+- Diabetes mellitus Typ 1
+-UNK- Diab. Polyneuropathie mit konsekutiver Gang- und Sensibilitätsstörung
+-UNK- Diab. Fußsyndrom bds.
+-UNK- Aktuell Charcotfuß im aktiven Entzündungsstadium
+-UNK- Ambulante Vorstellung am <[Pseudo] 09/08/2036> in der Neuroorthopädie am <[Pseudo] 09/08/2036> erfolgt
+-UNK- Rez. Glaskörpereinblutungen
+- Z. n. CAPD-Peritonitis <[Pseudo] 01/2034>
+- Chron. Sinusitis des li. Sinus max. -LRB- CT-Schädel <[Pseudo] 12/2032> -RRB-
+- Z. n. Thrombophlebitis V. cubitalis li. <[Pseudo] 04/2031>
+- Z. n. Leistenherniotomie nach Lichtenstein links am <[Pseudo] 29/03/2032>
+- Z. n. Infekt unklarer Genese DD Infekt am li. Fuß bei Charcot-Fuß <[Pseudo] 05/2035>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Diabetes mellitus, exNikotinabusus bis <[Pseudo] 2027> -LRB- 15 PY -RRB-
+Allergien: Paracetamol
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur kardiologischen Verlaufskontrolle und MRT-Befundbesprechung. Eine initiale Befundbesprechung wurde nicht terminiert.
+
+Im Alltag bestehe eine eingeschränkte Belastbarkeit. Bei 3 Etagen Treppensteigen bestehe inadäquate Belastungsdyspnoe -LRB- NYHA II -RRB- , limitiert auch durch periphere Erschöpfung und Schmerzen bei akutem Charcot-Fuß. Es bestehen auch auf Nachfrage keine belastungsinduzierten pectanginösen Beschwerden. Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Periphere Ödeme seien bei Gewichtskonstanz in den letzten 6 Wochen. Insgesamt sei es nach der Transplantation zu einer Gewichtszunahme gekommen -LRB- anamnestisch reduzierte Bewegung und erhöhte Kalorienzufuhr -RRB- Die häuslichen Blutdruckmessungen ergäben Werte um 135 / 90 mmHg. Subjektiv bestehe seit dem letzten stationären Aufenthalt ein stabiler kardialer Verlauf.
+
+B-SALUTE B-PER ist 100% erwerbsunfähig. Fieber, Schüttelfrost, erhöhte Temperaturen oder sonstige Infektparameter seien nicht aufgetreten. 4-fach Covid geimpft.
+
+Aktuelle Medikation:
+Cotrim 960 mg 1-0-0 jeden 2. Tag -LRB- Dauertherapie, bitte Re-Evaluation -RRB-
+Myfortic in -UNK- mg -UNK- 720-0-720
+Tacrolimus in -UNK- mg -UNK- 1,0-0-1,0
+Methylprednisolon 4mg 1-0-0
+ASS 100 mg 1-0-0
+Ticagrelor 90 mg 1-0-1, -LRB- eigentlich bis zum B-DATE geplant -RRB-
+Metoprolol 47,5 mg 1/2-0-1/2
+Doxazosin 4mg 1/2-0-0
+Clonidin 250 ug 1-0-1
+Atorvastatin 10mg 0-0-1
+Cinacalcet 30 mg 1-0-0
+Colecalciferol 1000 IE 1-0-0
+Mg Verla 1-0-1
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 192 cm 117 kg
+HF: 96 /min, regelmäßig
+RR: 140 / 90 mmHg
+Keine Zyanose, keine Anämiezeichen, kein Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: bds. Belüftet, vesikuläres AG, keine NG
+Periphere Ödeme: keine
+
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Sinusrhythmus, 96/min, Indifferenzlagetyp. PQ 126 ms, QRS 94 ms, QTc 334 ms. Zeiten im Normbereich. R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen, horizontale ST-Streckensenkungen in V5-V6. Häufige SVES -LRB- 10 im zweiseitigen Rhythmusstreifen -RRB- .
+
+Transthorakale Echokardiographie:
+Normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Deutlich verminderte longitudinale Funktion -LRB- GLS 7,9% -RRB- . Relaxationsstörung des LV. LA, RA und RV normal groß mit verminderter longitudinaler RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit einsehbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht einsehbar. Aortenklappe trikuspide, leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 20-25 mmHg -RRB- . Im direkten Bildvergleich zur Voruntersuchung vom <[Pseudo] 01/07/2035:> Keine wesentliche Befundänderung.
+
+Kardio-MRT v. <[Pseudo] 13/08/2035:>
+Gute linksventrikuläre Pumpfunktion -LRB- EF 73% -RRB- . Normal großer, septal deutlich betont konzentrisch hypertrophierter linker Ventrikel. Nachweis von Infarkt-Narben anteroseptal und inferolateral. Nachweis von umschriebenen Fibrosen inferoseptal, apikal, lateral und anterior. Kein Nachweis einer myokardialen Amyloidose. Je nach Blutdruckanamnese muss bei ausgeprägter und asymmetrischer LV-Hypertrophie eine HCM in Betracht gezogen werden.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Verlaufsuntersuchung bei bekannter koronarer Herzerkrankung. Zudem wird die Befundbesprechung des Kardio-MRTs v. <[Pseudo] 07/2035> nachgeholt.
+
+Eine Ergometrie war bei aktivem Charcot-Fuß nicht durchführbar. Echokardiographisch fand sich im Vergleich zur Voruntersuchung im Wesentlichen Befundkonstanz.
+
+In Zusammenschau von Klinik und der apparativen Untersuchungsbefunde sehen wir derzeit keinen Anhalt für einen Progress der bekannten koronaren 3-Gefäßerkrankung.
+
+Das Kardio-MRT war mit der Fragestellung nach einer kardialen Amyloidose durchgeführt worden. Diese konnte MR-tomographisch ausgeschlossen werden. Aufgrund der asymmetrischen LV-Hypertrophie kommt differenzialdiagnostisch eine HCM in Betracht. Im Kontext der bereits <[Pseudo] 2030> diagnostizierten Hypertonie und der auch aktuell häuslich erhöhten Blutdruckwerte erscheint eine hypertensive Kardiomyopathie jedoch wahrscheinlicher. Wir empfehlen diesbezüglich regelmäßige echokardiographische Kontrolle -LRB- alle 12 Monate -RRB- .
+
+Bei erhöhter Herzfrequenz und häufiger supraventrikulärer Extrasystolie haben wir die Betablockade wie u.a. angepasst und ausgebaut -LRB- Zur Reduktion v. Medikamenteninteraktionen Umstellung auf Bisoprolol -RRB- . Wir empfehlen eine weitere Anpassung der antihypertensiven Therapie unter nephrologischer Supervision -LRB- bei Z.n. kombinierter Transplantation -RRB- . Wir bitten um engmaschige Blutdruckkontrollen, Durchführung einer 24h-RR-Messung und ggf. Anpassung der Medikation.
+
+Bei deutlich erhöhtem Ischämierisiko wurde eine Fortführung der dualen Plättchenhemmung analog PEGASUS-Schema diskutiert. Im Kontext der rezidivierenden Glaskörpereinblutungen, die unter der DAPT deutlich verstärkt aufgetreten seien, wurde davon Abstand genommen. Ein Modifikation der Risikofaktoren, insbesondere des LDL-Cholesterins mit einem Zielwert von < 40 mg/dl halten wir für essenziell.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, Tanzen oder Ergometertraining.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung von kardiologischer Seite:
+Myfortic in -UNK- mg -UNK- 720-0-720
+Tacrolimus in -UNK- mg -UNK- 1,0-0-1,0
+Methylprednisolon 4mg 1-0-0
+Cotrim 960 mg 1-0-0 jeden 2. Tag -LRB- Dauertherapie, bitte Re-Evaluation -RRB-
+ASS 100 mg 1-0-0
+Ticagrelor 90 mg 1-0-1, -LRB- Abgesetzt -RRB-
+Bisoprolol 2,5 mg 1-0-1 statt Metoprolol
+Bitte regelmäßige Kontrollen von Herzfrequenz und Blutdruck und ggf. Dosisanpassung im Verlauf
+Doxazosin 4mg 1/2-0-0
+Clonidin 250 ug 1-0-1
+Atorvastatin 10mg 0-0-1 Ziel LDL < 40 mg/dl -LRB- bitte Bestimmung LDL-Cholesterin -RRB-
+Bitte regelmäßige Kontrollen von CK, Transaminasen und Lipiden und LDL-adaptierte Dosisanpassung nach aktuellen Leitlinien
+Cinacalcet 30 mg 1-0-0
+Colecalciferol 1000 IE 1-0-0
+Mg Verla 1-0-1
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen,
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

@@ -1,0 +1,94 @@
+Aufnahmedatum: <[Pseudo] 2445-10-05 >
+Geburtsdatum: <[Pseudo] 2120-05-03 >
+Alter: 325
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 03/05/2120> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Koronare Herzerkrankung ohne höhergradige Stenosen mit global guter linksventrikulärer Pumpfunktion -LRB- B-OTHER v. <[Pseudo] 02/09/2203> -RRB-
+-UNK- Normale enddiastolische Drücke des linken Ventrikels
+-UNK- Normale Drücke und Widerstände im kleinen Kreislauf
+-UNK- Gemischtvenöse Sättigung -LRB- 66% -RRB-
+-UNK- Cardiac Index -LRB- 2,58 l/min/m² -RRB- niedrignormal
+- Mittelgradige Aortenklappenstenose -LRB- KÖF 1,2 cm², peak to peak Gradient 14 mmHg -RRB-
+- V.a. linkshemisphärische TIA
+- Z.n. Hüft-TEP links
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie
+
+Allergien: keine bekannt
+
+Anamnese:
+Die aktuelle Vorstellung der Patientin erfolgt über die B-ORG B-TITLE B-PER zur Herzkatheteruntersuchung bei V.a. ein kombiniertes Aortenklappenvitium. Die Patientin befand sich vom B-DATE bis <[Pseudo] 03/07/2203> im B-ORG I-ORG bei einer stattgehabten TIA. Darüber hinaus berichtet die Patientin über einen guten Allgemeinzustand. Die Patientin berichtet keine Dyspnoe zu verspüren. Fragliche AP-Beschwerden liegen auch in Ruhe vor. Auf spezifisches Nachfragen werden Ödeme, Palpitationen, Schwindel oder Synkopen verneint. Es liegt keine Nykturie vor. Infektzeichen werden ebenfalls verneint. Darüber hinaus berichtet B-SALUTE B-PER über Schmerzen an der rechten Wade.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 162 cm, 68 kg
+HF: 72 /min, regelmäßig
+RR: 150/90 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig.
+HT: 4/6 Systolikum über dem 2. ICR re. mit Fortleitung in die B-ORG
+Lunge: bds. frei
+Periphere Ödeme: keine
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Herzfrequenz 66/min, Linkstyp, PQ 170 ms, QRS 98 ms, QTc 390 ms. Verfrühte R-Progression mit RS-Umschlag in V1/V2, ansonsten keine Erregungsrückbildungsstörungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 02/09/2203> -RRB- :
+Herzkatheteruntersuchung bei V.a. eine relevante KHK und Aortenvitium:
+Koronare Herzerkrankung ohne höhergradige Stenosen. Global gute linksventrikuläre Pumpfunktion. Normale enddiastolische Drücke des linken Ventrikels. Mittelgradige Aortenklappenstenose -LRB- KÖF 1,2 cm², peak to peak gradient 14 mmHg -RRB- . Normale Drücke und Widerstände im kleinen Kreislauf. Gemischtvenöse Sättigung -LRB- 66% -RRB- und Cardiac Index -LRB- 2,58 l/min/m² -RRB- niedrignormal.
+Sonstige Diagnosen:
+V.a. linkshemisphärische TIA; Z.n. Hüft-TEP links; CVRF: aHT, HLP.
+
+Procedere:
+1 -RRB- Konservativ bezüglich der Koronararterien.
+2 -RRB- Halbjährliche echokardiographische Kontrollen bezüglich Aortenvitium und PA-Druck.
+3 -RRB- Echokardiographie in domo ergänzen.
+
+Echokardiographie -LRB- <[Pseudo] 01/09/2193> -RRB- :
+Reduzierte Schallbedingungen.
+Beurteilung Normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit guter systolischer
+Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, deutlich verdickt und verkalkt mit verminderter Separation. Dopplersonographisch kombiniertes Aortenvitium mittleren Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 1,2 cm², PPG 15 mmHg, MPG 8 mmHg -RRB- . Mitralklappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 25-30 mmHg -RRB- .
+
+Zusammenfassung:
+In der Herzkatheteruntersuchung zeigte sich eine koronare Herzerkrankung ohne höhergradige Stenosen mit einer global guten linksventrikulären Pumpfunktion. Darüber hinaus zeigte sich eine mittelgradige Aortenklappenstenose -LRB- KÖF 1,2 cm², peak to peak Gradient 14 mmHg -RRB- . Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- .
+
+Procedere:
+Wir empfehlen bezüglich der Koronargefäße ein konservatives Procedere. Wir empfehlen die Fortführung der Thrombozytenaggregationshemmung mit ASS und der lipidsenkenden Therapie mittels Pravastatin wie unten aufgeführt. Wir bitten um weitere Verlaufskontrolle des LDL-Cholesterins sowie CK und Transaminasen.
+
+Im Hinblick auf die Aortenklappenstenose und des PA-Drucks empfehlen wir halbjährliche echokardiographische Untersuchungen durch den betreuenden Kardiologen B-TITLE B-PER
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der unten aufgeführten medikamentösen Therapie. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+
+
+Nächster Termin/Kontrolle:
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchungen in der Praxis des betreuenden B-SALUTE B-TITLE B-PER
+
+Therapieempfehlung:
+ASS 100 1-0-0, dauerhaft
+Candesartan 8 1-0-0
+Bisoprolol 5 1-0-0
+Pravastatin 20 0-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin am <[Pseudo] 03/09/2203> in Ihre geschätzte ambulante Betreuung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die Überweisung und vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

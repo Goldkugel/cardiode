@@ -1,0 +1,392 @@
+Aufnahmedatum: <[Pseudo] 2032-09-04 >
+Geburtsdatum: <[Pseudo] 1980-12-04 >
+Alter: 51
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 04/12/1980> wh. B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Diagnosen:
+- Dilatative Kardiomyopathie, a. e. peri- oder post-myokarditisch -LRB- <[Pseudo] 09/2024> -RRB- mit aktuell hochgradig eingeschränkter LV Funktion -LRB- EF 25% -RRB-
+-UNK- Initial hochgradig eingeschränkte LV-Pumpfunktion -LRB- EF 15 % -RRB- -LRB- B-OTHER vom <[Pseudo] 17/09/2024> -RRB-
+-UNK- KHK ohne höhergradige Stenosen -LRB- B-OTHER vom <[Pseudo] 17/09/2024> -RRB-
+- Z.n. Mediainfarkt rechts bei M2-Verschluss -LRB- Wake-up stroke -RRB- am <[Pseudo] 10/09/2024>
+-UNK- Z.n. systemischer Lysetherapie; kein Hinweis auf PFO im TEE
+- Z.n. Hodentumor <[Pseudo] 2004> mit Chemotherapie -LRB- anamn. in kompletter Remission -RRB-
+- Teilnahme an TransitionCHF Studie/ DZHK, IC am <[Pseudo] 02/09/2031> AG B-PER
+
+Kardiovaskuläre Risikofaktoren: keine bekannt
+Allergien: keine bekannt
+
+Aktuell:
+- Herzinsuffizienz NYHA Stadium I
+- Klinisch und apparativ stabiler Verlauf
+
+
+Anamnese:
+Die Vorstellung von B-SALUTE B-PER erfolgt zur routinemäßigen Verlaufskontrolle bei dilatativer Kardiomyopathie in unserer Ambulanz. B-SALUTE B-PER berichtet über einen stabilen kardialen Verlauf. Der Patient ist weiterhin kardiopulmonal beschwerdefrei. Im Alltag bestehe eine gute Belastbarkeit -LRB- >3 Etagen Treppensteigen möglich -RRB- . Keine Angina Pectoris oder inadäquate Belastungsdyspnoe. Schwindel, Palpitationen und Synkopen werden verneint. Nykturie: 2x/Nacht. In regelmäßigen häuslichen Blutdruckmessungen sei der Blutdruck ca. 110-120/80 mmHg. Gewichtkonstanz. Aktuell kein Hinweis auf einen Infekt -LRB- kein Husten, Schnupfen, Heiserkeit, Brennen beim Wasserlassen -RRB- .
+
+Spezielle Krankheitsanamnese:
+Erstdiagnose: <[Pseudo] 09/2024>
+Letzte Koronarangiographie -LRB- <[Pseudo] 17/09/2024> -RRB- : KHK ohne höhergradige Stenosen
+Kardio-MRT -LRB- <[Pseudo] 15/11/2024> -RRB- : late enhancement wie bei Z.n. Myokarditis, hochgradig eingeschränkte sys. Funktion.
+Myokardbiopsie -LRB- <[Pseudo] 17/09/2024> -RRB- : Am ehesten postmyokarditisch
+Langzeit-EKG -LRB- <[Pseudo] 27/08/2031> -RRB- : Lown IVa.
+Familienanamnese: Vater Schlaganfall 51 J.; Mutter fragliche Myokarditis 40 51 aktuell keine Herzschwäche bekannt.
+Molekulargenetik: Probenversand ad B-PER <[Pseudo] 08/2030> -LRB- Variante im CACNA1C-Gen, B-Probe empfohlen, vom Patienten derzeit nicht gewünscht -RRB-
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut, 176 cm, 84 kg
+HF: 60/min
+RR: 100/80 mmHg
+Keine Zyanose, Anämiezeichen oder Ikterus.
+HT: leise, rein, keine path. Geräusche
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse gut tastbar
+
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, 63/min, Überdrehter Linkstyp. PQ 163 ms, QRS 140 ms, QTc 426 ms. LAHB mit unspezifischer intraventrikulärer Erregungsausbreitungsverzögerung. R/S Umschlag in V4/V5. Präterminale T-Negativierungen in V3-V6.
+
+Ergometrie:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 200 Watt über 0:29 min. Maximale Frequenz 162 /min -LRB- 95 % der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 116 mmHg, diastolisch 79 mmHg. Abbruch wegen peripherer Ermüdung. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+
+Beurteilender Abschnitt:
+Beurteilbarkeit stark eingeschränkt bei bereits in Ruhe komplettem Linksschenkelblock sowie Artefaktüberlagerung in den Extremitäten- und Brustwandableitungen. Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. wenige VES -LRB- 89 -RRB- . Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck. Keine höhergradigen Herzrhythmusstörungen.
+
+Echokardiographie:
+Dilatierter, apikal vermehrt trabekularisierter linker Ventrikel mit hochgradig eingeschränkter Pumpfunktion bei Hypokinesie aller Wandabschnitte, betont inferior. Kein Nachweis intrakardialer Thromben. Noch erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA grenzwertig groß, RA und RV normal groß, gute RV-Pumpfunktion. Vermehrte Vorhofseptumbeweglichkeit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht einsehbar. Aorten- und Mitralklappe leicht verdickt mit guter Separation. Leichtgradige Mitralklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck ist normal -LRB- ca. 20 mmHg -RRB- .
+Beurteilung: Im direkten Vergleich zur Voruntersuchung vom <[Pseudo] 02/09/2031:> Keine wesentliche Befundänderung. Damals auch hochgradig eingeschränkte Pumpfunktion.
+
+Labordiagnostik:Zusammenfassung:
+Die Vorstellung von B-SALUTE B-PER erfolgt zur routinemäßigen Verlaufskontrolle bei dilatativer Kardiomyopathie in unserer Ambulanz. B-SALUTE B-PER berichtet über einen stabilen kardialen Verlauf. Der Patient ist weiterhin kardiopulmonal beschwerdefrei. Eine Ergometrie ergab keine höhergradigen Rhythmusstörungen oder Zeichen einer Koronarinsuffizienz bis zum einer Belastung von 200 Watt. Echokardiographisch ergab sich im direkten Vergleich zur Voruntersuchung vom <[Pseudo] 02/09/2031> keine wesentliche Befundänderung bei weiterhin hochgradig eingeschränkter LV-Pumpfunktion. Es bestehen keine höhergradigen Klappenvitien. Im extern durchgeführten Langzeit-EKG vom <[Pseudo] 11/08/2032> zeigt sich durchgehend SR, vereinzelte SVES -LRB- 12 -RRB- und VES -LRB- 73 -RRB- , keine höhergradigen Herzrhythmusstörungen. Das NT-proBNP war mit 630 ng/l leicht gestiegen. Letzter INR-Wert 2,3 beim Hausarzt. Die CK ist bekanntermaßen leicht erhöht und unter Therapie mit Ezetimib leicht angestiegen. Es bestand anamnestisch keine außergewöhnliche muskuläre Belastung -LRB- DD Makro-CK -RRB- . Myopathische Beschwerden bestehen ebenfalls nicht. Diesbezüglich empfehlen wir daher eine engmaschige Verlaufskontrolle, freundlicherweise durch den Hausarzt. In der Zusammenschau gehen wir von einem stabilen kardialen Verlauf auf.
+
+Wir empfehlen bei hochgradig eingeschränkter LV-Pumpfunktion und LV-Hypertrabekularisierung sowie bei Z.n. Apoplex die Forführung einer Antikoagulation mittels Marcumar. Ferner besteht bei hochgradig reduzierter LV-Funktion im Rahmen der dilatativen Kardiomyopathie vor dem Hintergrund der kompletten kardiopulmonalen Beschwerdefreiheit entsprechend der aktuellen Leitlinien auch weiterhin keine sichere Indikation für eine primärprophylaktische ICD-Implantation. Die Entscheidung für einen ICD hängt somit sehr stark vom individuellen Sicherheitsbedürfnis und der individuellen Abwägung aller Vor- und Nachteile eines solchen Devices ab. Eine Besprechung in unserer Rhythmusambulanz erfolgte bereits <[Pseudo] 09/2027> sowie zu allen weiteren Kontrollterminen. B-SALUTE B-PER ist diesbezüglich eher zurückhaltend und bittet weiterhin um Bedenkzeit. In der genetischen Analyse fand sich eine Variante im CACNA1C-Gen, die jedoch nach gegenwärtigem Wissen kein arrhythmogenes Substrat darstellt -LRB- hier empfehlen wir die Kontrolle in einer B-Probe, welche jedoch derzeit vom Patienten nicht gewünscht ist -RRB- .
+
+Wir empfehlen auch weiterhin regelmäßige LZ-EKG-Kontrollen durchzuführen und bitten um Wiedervorstellung bei Auftreten höhergradiger ventrikulärer Herzrhythmusstörungen und/oder bei im Verlauf ggf. beginnender Herzinsuffizienz-Symptomatik -LRB- Progression des NYHA-Stadiums -RRB- zur Re-Evaluation. Sollte der Patient sich nach individueller Abwägung für eine ICD-Implantation entscheiden, kann unter der folgenden Telefon-Nr. das weitere Procedere organisiert werden -LRB- Rhythmusgruppe: B-PHONE -RRB- .
+
+Wir empfehlen die Verlaufskontrolle in 12 Monaten. Eine Terminvereinbarung kann unter Tel. B-PHONE erfolgen. Bei vorher auftretenden Problemen kann kurzfristig eine Terminvereinbarung in unserer Ambulanz oder in Notfällen über unsere B-ORG I-ORG unter B-PHONE erfolgen.
+
+Aktuelle Therapie:
+Phenprocoumon 3 mg nach INR Ziel 2,0-3,0
+Metoprololsuccinat 95 mg 1-0-1
+Ramipril 5 mg 1 -UNK- -0-0
+Eplerenon 50 mg 1-0-0
+Ezetimib 10 mg 0-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen,
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt
+
+
+
+
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2032>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.55
+4 - 10 /nl
+B-DATE
+Hb
+15.2
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.6
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.450
+0,38 - 0,52 l/l
+B-DATE
+MCV
+97
+83 - 97 fl
+<[Pseudo] 04/09/32>
+MCH
+33
+27 - 33 pg
+<[Pseudo] 04/09/32>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 04/09/32>
+RDW
+12.9
+12,9 - 18,7 %
+<[Pseudo] 04/09/32>
+hypochr.Erythroz.
+0.4
+0 - 2 %
+<[Pseudo] 04/09/32>
+Thrombozyten
+207
+150 - 440 /nl
+<[Pseudo] 04/09/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+1.68
+1,0 - 4,8 /nl
+<[Pseudo] 04/09/32>
+Neutroph.G.-abs.
+2.87
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.46
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.34
+- <0,5 /nl
+<[Pseudo] 04/09/32>
+Basoph.G. -LRB- abs -RRB-
+0.04
+- <0,2 /nl
+<[Pseudo] 04/09/32>
+Neutroph.G. -LRB- mech. -RRB-
+<NONE>
+50 - 80 %
+<[Pseudo] 04/09/32>
+Lympho -LRB- mech. -RRB-
+30.3
+25 - 40 %
+<[Pseudo] 04/09/32>
+Basoph.G.
+0.8
+- <1 %
+<[Pseudo] 04/09/32>
+Monozyten -LRB- mech. -RRB-
+8.2
+2 - 9 %
+<[Pseudo] 04/09/32>
+<NONE> -LRB- mech. -RRB-
+6.1 !H
+2 - 4 %
+<[Pseudo] 04/09/32>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 04/09/32>
+Kalium -LRB- ISE -RRB-
+4.51
+3,4 - 4,8 mmol/l
+<[Pseudo] 04/09/32>
+Calcium
+2.21
+2,11 - 2,59 mmol/l
+<[Pseudo] 04/09/32>
+Kreatinin
+1.12
+0,6 - 1,2 mg/dl
+<[Pseudo] 04/09/32>
+Harnstoff
+31
+- <45 mg/dl
+<[Pseudo] 04/09/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cystatin C
+1.00 !H
+0,5 - 0,96 mg/l
+B-DATE
+GFR, CKD-EPI
+75.6
+>60 s.u.
+B-DATE
+GFR -LRB- Cystatin C -RRB-
+75.06 !L
+90 - 150 ml/min/1,73qm
+B-DATE
+MDRD
+77.08
+ml/min/1,73qm
+<[Pseudo] 04/09/32>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+43.3
+30 - 50 g/l
+<[Pseudo] 04/09/32>
+Glucose
+97
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+45
+- <46 U/l
+B-DATE
+GPT/ALT
+36
+- <50 U/l
+B-DATE
+AP
+55
+40 - 130 U/l
+B-DATE
+GGT
+36
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.60
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+5.3
+- <7 mg/dl
+<[Pseudo] 04/09/32>
+Triglyceride
+189 !H
+- <150 mg/dl
+<[Pseudo] 04/09/32>
+Cholesterin
+210.0
+- alt.abh. mg/dl
+<[Pseudo] 04/09/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+130
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+42
+>40 mg/dl
+B-DATE
+Eisen
+10.2 !L
+14 - 32 µmol/l
+<[Pseudo] 04/09/32>
+Ferritin
+89
+30 - 300 µg/l
+<[Pseudo] 04/09/32>
+Transferrin
+2.04
+2,0 - 3,6 g/l
+<[Pseudo] 04/09/32>
+TFSG
+20
+16 - 45 %
+<[Pseudo] 04/09/32>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 04/09/32>
+Hämolyse
+-
+
+<[Pseudo] 04/09/32>
+ikterisch
+-
+
+<[Pseudo] 04/09/32>
+Lipämie
+-
+
+<[Pseudo] 04/09/32>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+254
+- <317 U/l
+B-DATE
+CK
+<NONE> !H
+- <190 U/l
+<[Pseudo] 04/09/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+6
+- <14 pg/ml
+B-DATE
+NT-BNP
+630 !H
+- <125 ng/l
+<[Pseudo] 04/09/32>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.1
+- <6,1 %
+<[Pseudo] 04/09/32>
+HbA1c -LRB- IFCC -RRB-
+32
+20 - 42 mmol/mol
+<[Pseudo] 04/09/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+100
+- <110 mg/dl
+B-DATE
+TSH
+3.74
+0,400 - 4,000 mU/l
+<[Pseudo] 04/09/32>

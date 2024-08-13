@@ -1,0 +1,391 @@
+Aufnahmedatum: <[Pseudo] 2032-01-11 >
+Geburtsdatum: <[Pseudo] 1982-07-26 >
+Alter: 49
+
+über Ihren Patienten B-SALUTE B-TITLE B-PER I-PER geboren am <[Pseudo] 26/07/1982> wohnhaft in B-PLZ B-LOC B-LOC I-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreiche sekundärprophylaktische Implantation eines 1-Kammer-ICD-Systems der B-ORG -LRB- OTHER -RRB- am <[Pseudo] 07/01/2032> bei Z. n. Kammerflimmern und Reanimation <[Pseudo] 2016>
+
+Diagnosen:
+- Double-chambered right ventricle
+-UNK- Verminderte RV Funktion, leichtgradig reduzierte LV Funktion -LRB- TTE vom <[Pseudo] 15/12/2031> -RRB-
+-UNK- Leicht-mittelgradige Trikuspidalklappeninsuffizienz
+-UNK- Leicht erhöhter pulmonalarterieller Druck
+- Deaktivierung dysfunktionalen sekundärprophylaktischen ICD am <[Pseudo] 05/10/2031>
+-UNK- Z. n. Kammerflimmern und Reanimation <[Pseudo] 2016>
+-UNK- Z. n. sekundärprophylaktischer ICD-Implantation <[Pseudo] 2016>
+-UNK- Versorgung mittels LifeVest ab <[Pseudo] 05/10/2031> bis zur geplanten ICD-Implantation
+-UNK- Komplette Explantation des ICD-Systems <[Pseudo] 04/11/2031> HCH I-ORG
+-UNK- Atypische ICD-Sondenposition mit Schleifenbildung im Bereich des RVOT und V.a. Dislokation RV-Stimulation nur noch mit gleichzeitigem Zwerchfellzucken einstellbar
+- Z. n. Kardiale Dekompensation bei Postkardiomyotomie-Syndrom <[Pseudo] 11/2031>
+- Z. n. RVOT-Desobstruktion durch Resektion fibromuskulärer Bündel -LRB- bei sekundäre RVOT Obstruktion -LRB- PTP-Gradient 95 mmHg -RRB- -RRB- am <[Pseudo] 04/11/2031> HCH I-ORG
+-UNK- Rekonstruktion des Pulmonalishauptstammes mittels Direktnaht, -LRB- bei Subvalvulärer Pulmonalstenose -LRB- Infundibulär -RRB- -RRB- , -LRB- Pulmonalklappe-KÖF 0,34 cm² -RRB-
+-UNK- Trikuspidalklappen- De- und Reinsertion des septalen und anterioren Segels, Trikuspidalklappenrekonstruktion mittels mehrerer Segelplastiken.
+-UNK- Flottierende Thrombus am Doubly-committed VSD
+-UNK- Kein Shunt des VSD darstellbar -LRB- gedeckt durch Muskel -RRB-
+- Koronare Zweigefäßerkrankung der LCX und LAD mit hämodynamisch nicht relevanten Stenosen -LRB- B-OTHER v. <[Pseudo] 13/09/2031> -RRB-
+
+Kardiovaskuläre Risikofaktoren: Hypercholesterinämie
+Allergien: anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-TITLE B-PER erfolgte elektiv zur sekundärprophylaktischen ICD-Implantation bei Z. n. Kammerflimmern <[Pseudo] 2016> und Explantation des Systems bei Exitblock der Sonde und atypischer Lage mit aktueller LifeVest-Versorgung.
+Am <[Pseudo] 04/11/2031> war bei atypischer ICD-Sondenposition mit Schleifenbildung im Bereich des RVOT und V.a. Dislokation der RV-Stimulation eine komplette Explantation des ICD-Systems erfolgt.
+Zum aktuellen Zeitpunkt bestehe eine mäßige Belastbarkeit -LRB- 2-3 Etagen Treppensteigen möglich, NYHA II -RRB- , ohne Belastungsdyspnoe in den letzten Wochen und ohne typische pectanginöse Beschwerden. Palpitationen -LRB- Herzstolpern -RRB- seien einmalig in der Reha über ca. 15 Minuten aufgetreten. Schwindel oder stattgehabte Synkopen werden verneint. Die häuslichen Blutdruckwerte lägen bei ca. 115/75 mmHg. Nachtschlaf sei mit flachem Oberkörper möglich. Bei bestehender Gewichtskonstanz werden keine peripheren Ödeme angegeben -LRB- 82 kg -RRB- . Insgesamt bestehe ein stabiler kardialer Verlauf seit der letzten Vorstellung in unserer ORG. Aktuell besteht eine LifeVest-Versorgung. Keine Zeichen eines akuten Infektes.
+
+Medikation bei Aufnahme:
+ASS 100 mg 1-0-0
+Torasemid 10 mg 1-1-0
+Eplerenon 25 mg 1-0-0
+Atorvastatin 20 mg 0-0-1
+Pantoprazol 20 mg 1-0-0
+Pregabalin 50 mg 1-1-1 im Reduktionsschema
+Kalinor Btl. 1-0-0 -LRB- außer Mi und Fr -RRB-
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 174 cm, Gewicht: 80 kg, BMI 26 kg/m² -RRB-
+HF: 69/min, regelmäßig
+RR: 115/75 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, 2/6 Systolikum mit p.m. 2. ICR links
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme am <[Pseudo] 05/01/2032> :
+Normofrequenter Sinusrhythmus, regelmäßig, 69/min, Steillagetyp. PQ 210 ms, QRS 134 ms, QTc 400 ms. Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen. S-Persistenz bis V6. AV-Block I°. Ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+OP-Bericht: Implantation eines 1-Kammer-ICD vom <[Pseudo] 07/01/2032:>
+Diagnosen: Sekundärprophylaktische Indikation bei Z.n. Kammerflimmern <[Pseudo] 2016> und Explantation des Systemes bei Exitblock der Sonde und atypischer Lage mit aktuell Versorgung mit LifeVest, mittelgradig eingeschränkte LVEF, SR
+
+ICD-Aggregat: B-OTHER
+Ventrikelelektrode: B-OTHER
+
+Messwerte:
+RV: RS: 0,5V/0,5 ms
+Impedanz: 554 -UNK-
+Sensing: 7,8mV
+Zugang: V. subclavia links
+
+DFT: - OP-Dauer: 30min. DL-Zeit: 3,2min Dosis: 0,7Gy·cm² KM: 10ml
+
+OP-Bericht:
+Phlebographie mit offener V. subclavia links nach Systemexplantation. Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links. Der Zugang der Ventrikelelektrode erfolgte transvenös über Punktion der Vena subclavia links. Venotomie. Vorschieben der Ventrikelelektrode unter Bildwandlerkontrolle in die Spitze des RV. Hier keine gute Reizschwelle. Daher Platzierung apikoseptal mit guten Messwerten. Danach Konnektion des Generators und Versenken in der Tasche. Schichtweiser Wundverschluß unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links subfaszial angelegt. Verband.
+
+Transthorakale Echokardiographie nach ICD-Implantation vom <[Pseudo] 08/01/2032:>
+Kein Perikarderguss nachweisbar.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 08/01/2032:>
+Zuletzt eine Projektionsradiografie vom <[Pseudo] 17/11/2031> zum Vergleich.
+Befund und Beurteilung:
+Herzschrittmacherimplantation links pektoral mit Spitzenprojektion der Elektrode auf dem Boden des rechten Ventrikels. Übriges einliegendes Fremdmaterial unverändert.
+Kein Pneumothorax. Kein Pleuraerguss. Kein Infiltrat. Keine höhergradige Stauung. Trachea mittig, nicht eingeengt. Herz normal groß. Meteoristisch geblähter teilerfasster Colonrahmen. Retrosternalraum am ehesten überlagerungsbedingt nicht frei einsehbar, Retrocardialraum frei. Altersentsprechendes Achsenskelett.
+
+ICD-Abfrage vom <[Pseudo] 10/01/2032:>
+Befund:
+Regelrechte ICD-Funktion. Seit Implantation keine neuen Episoden im Speicher. Batteriestatus gut -LRB- mittlere Laufzeit ca. 12 Jahre -RRB- . Impedanz, Wahrnehmung und Reizschwelle regelrecht.
+Aktuell <0,1% ventrikuläres Pacing. Keine kurzen VV-Intervalle. Keine DFT-Testung, bei typischer Sonden- und Aggregatlage.
+Der ICD-Ausweis wurde ausgestellt und dem Pat. ausgehändigt. Die Informationsbroschüre -LRB- Lt. MPG -RRB- wurde dem Patient ebenfalls ausgehändigt und dieser über Verhaltensmaßnahmen aufgeklärt. Der Alarm wurde dem Patienten demonstriert.
+Es besteht eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 3 Monate gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+
+Ihr ICD-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan-Modus -RRB- für die Verwendung im MRT entwickelt.
+
+Wichtig:
+Vor der MRT-Untersuchung sollte ihr ICD-System auf diesen SureScan-Modus programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung erfolgen, da dieser SureScan-Modus in dieser Zeit der Einheilungsphase nicht aktivierbar ist.
+
+Ruhe-EKG vom <[Pseudo] 10/01/2032:>
+Normofrequenter Sinusrhythmus, regelmäßig, 66/min, Steillagetyp. PQ 215 ms, QRS 133 ms, QTc 420 ms. Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen. S-Persistenz bis V6. AV-Block I°. Ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2031>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.86
+4 - 10 /nl
+B-DATE
+Hb
+14.7
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.2
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.440
+0,38 - 0,52 l/l
+B-DATE
+MCV
+85
+83 - 97 fl
+<[Pseudo] 05/01/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+28
+27 - 33 pg
+<[Pseudo] 05/01/32>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 05/01/32>
+RDW
+14.8
+12,9 - 18,7 %
+<[Pseudo] 05/01/32>
+hypochr.Erythroz.
+1.4
+0 - 2 %
+<[Pseudo] 05/01/32>
+Thrombozyten
+207
+150 - 440 /nl
+<[Pseudo] 05/01/32>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 05/01/32>
+Kalium -LRB- ISE -RRB-
+4.17
+3,4 - 4,8 mmol/l
+<[Pseudo] 05/01/32>
+Calcium
+2.52
+2,11 - 2,59 mmol/l
+<[Pseudo] 05/01/32>
+Kreatinin
+1.08
+0,6 - 1,2 mg/dl
+<[Pseudo] 05/01/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+42
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+80.2
+>60 s.u.
+<[Pseudo] 05/01/32>
+MDRD
+78.68
+ml/min/1,73qm
+<[Pseudo] 05/01/32>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+47.4
+30 - 50 g/l
+<[Pseudo] 05/01/32>
+Glucose
+80
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+83 !H
+- <50 U/l
+B-DATE
+GGT
+120 !H
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.80
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+10.3 !H
+- <7 mg/dl
+B-DATE
+Triglyceride
+37
+- <150 mg/dl
+<[Pseudo] 05/01/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+134.0
+- alt.abh. mg/dl
+<[Pseudo] 05/01/32>
+LDL-Chol. -LRB- berechn. -RRB-
+78
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+49
+>40 mg/dl
+B-DATE
+CRP
+2.8
+- <5 mg/l
+<[Pseudo] 05/01/32>
+Hämolyse
+-
+
+<[Pseudo] 05/01/32>
+ikterisch
+-
+
+<[Pseudo] 05/01/32>
+Lipämie
+-
+
+<[Pseudo] 05/01/32>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+224
+- <317 U/l
+B-DATE
+CK
+64
+- <190 U/l
+<[Pseudo] 05/01/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+9.45
+- <14 pg/ml
+<[Pseudo] 05/01/32>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.4
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+36
+20 - 42 mmol/mol
+<[Pseudo] 05/01/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+108
+- <110 mg/dl
+<[Pseudo] 05/01/32>
+TSH
+2.00
+0,400 - 4,000 mU/l
+<[Pseudo] 05/01/32>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+87.1
+70 - 125 %
+<[Pseudo] 05/01/32>
+INR - ber.
+1.07
+- <1.2
+<[Pseudo] 05/01/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+21.3
+- <35 s
+<[Pseudo] 05/01/32>
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-TITLE B-PER erfolgte elektiv zur sekundärprophylaktischen ICD-Implantation bei Z. n. Kammerflimmern <[Pseudo] 2016> und Explantation des Systems bei Exitblock der Sonde und atypischer Lage mit aktueller LifeVest-Versorgung.
+
+Nach planmäßiger Vorbereitung konnte die Implantation eines 1-Kammer-ICD am <[Pseudo] 07/01/2032> komplikationslos durchgeführt werden. Echokardiographisch konnten postinterventionell ein Perikarderguss sowie konventionell-radiologisch ein Pneumothorax ausgeschlossen werden. Die ICD-Aggregatkontrolle war regelrecht. Die Wunde zeigte sich bei Entlassung reizlos. Wir bitten um Wundkontrolle in 3-4 Tagen -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- .
+
+Der ICD-Ausweis wurde ausgestellt und dem Pat. ausgehändigt. Die Informationsbroschüre -LRB- Lt. MPG -RRB- wurde dem Patienten ebenfalls ausgehändigt und dieser über Verhaltensmaßnahmen aufgeklärt. Der Alarm wurde dem Patienten demonstriert. Es besteht eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 3 Monate gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich. Des Weiteren wurde der Patient über eine Schonung und Vermeidung einer Elevation des linken Armes über 90° für 6 Wochen informiert. Bei Rötung, Schwellung, Fieber oder purulentem Sekret aus der Aggregattasche erbitten wir eine sofortige Wiedervorstellung in unserem Hause.
+
+Ein Termin zur nächsten ICD-Kontrolluntersuchung in unserer B-ORG wurde bereits für den <[Pseudo] 28/02/2032> um 10:00 Uhr vereinbart. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch einen niedergelassenen kardiologischen ORG in Intervallen von 6 Monaten durchführen zu lassen.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 10/01/2032> in Ihre geschätzte ambulante Betreuung.
+
+Nächster Termin/Prozedere
+- ICD-Kontrolltermin in unserer Rhythmus-Ambulanz am <[Pseudo] 28/02/2032> um 10:00 Uhr
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100 mg 1-0-0
+Torasemid 10 mg 1-1-0
+Eplerenon 25 mg 1-0-0
+Atorvastatin 20 mg 0-0-1
+Pantoprazol 20 mg 1-0-0
+Pregabalin 50 mg 1-1-1 im Reduktionsschema
+Kalinor Btl. 1-0-0 -LRB- außer Mi und Fr -RRB-
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Stationsarzt
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

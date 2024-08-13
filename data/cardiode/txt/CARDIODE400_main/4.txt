@@ -1,0 +1,353 @@
+Aufnahmedatum: <[Pseudo] 2032-11-14 >
+Geburtsdatum: <[Pseudo] 1982-01-06 >
+Alter: 50
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 06/01/1982> wh. B-PLZ B-LOC I-ADDR I-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Diagnosen:
+- Tako-Tsubo-Kardiomyopathie, ED <[Pseudo] 2027>
+-UNK- Aktuell mittelgradig eingeschränkte LV-Funktion bei globaler Hypokinesie -LRB- LVEF 40% -RRB-
+-UNK- Initial hochgradig eingeschränkte LV-Funktion
+-UNK- Unauffälliger Koronarstatus -LRB- B-OTHER vom <[Pseudo] 16/11/2027> -RRB-
+- Depression
+- Kardiovaskuläre Risikofaktoren: Positive Familienanamnese für koronare Herzerkrankung
+- Allergien: Nickel, Kobalt, Harnstoff, Kuhmilch, Haselnuss, Penicillin
+
+Aktuell:
+- Herzinsuffizienz NYHA Stadium II
+- Klinisch und apparativ stabiler Verlauf
+
+
+Anamnese:
+Vorstellung zur Routineverlaufskontrolle bei Tako-Tsubo-Kardiomyopathie. Im Alltag bestehe eine noch gute Belastbarkeit -LRB- 2-3 Etagen Treppensteigen möglich, NYHA II -RRB- , limitiert durch Belastungsdyspnoe. Keine Angina Pectoris oder Ruhedyspnoe in den letzten Wochen. Gelegentlich Palpitationen und orthostatischer Schwindel, Synkopen werden verneint. Nykturie: 0-1/Nacht. Trinkmenge 2 Liter/Tag. Die häuslichen Blutdruckwerte lägen bei ca. morgens bei 100/60 mmHg im Tagesverlauf höher. Gewichtskonstanz -LRB- 65 kg -RRB- . Aktuell kein klinischer Hinweis auf Infekt -LRB- Kein Husten, kein Fieber, kein Brennen beim Wasserlassen -RRB- . Insgesamt bestehe ein stabiler kardialer Verlauf.
+
+Körperlicher Untersuchungsbefund:
+50 Patientin, 168 cm, 65 kg, in gutem Allgemeinzustand. Klares Bewusstsein, Blutdruck 130/70 mmHg. Herztöne unauffällig, keine pathologischen Geräusche. Vesikuläres Atemgeräusch, keine Nebengeräusche. Keine Ödeme. Keine Zyanose. Periphere Pulse gut tastbar.
+
+Ruhe-EKG:
+Sinusrhythmus, regelmäßig, 58/min. Indifferenztyp. PQ: 139 ms, QRS: 97 ms, QT/QTc: 455/451 ms. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine S-Persistenz bis V6. Keine signifikanten Kammerendteilveränderungen.
+
+6-Minuten-Gehtest:
+
+Gehstrecke:
+515 m.
+-LRB- < 500 m eingeschränkt; <350 m deutlich eingeschränkt -RRB-
+
+Echokardiographie:
+Normal großer, apikal vermehrt trabekularisierter linker Ventrikel mit mittelgradig eingeschränkter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA leicht dilatiert, RA und RV noch normal groß, gute RV-Funktion. Hypermobiles Vorhofseptum. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Mitralklappenprolaps, betont des hinteren Mitralsegels mit begleitender, leichtgradiger Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 20 mmHg -RRB- .
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 21/11/2031:> Keine wesentliche Befundänderung.
+
+Labor:
+Zusammenfassung:
+Vorstellung zur Routineverlaufskontrolle bei Tako-Tsubo-Kardiomyopathie. Die Patientin berichtet über einen subjektiv stabilen kardialen Verlauf.
+Echokardiographisch zeigte sich die bekannte mittelgradig eingeschränkte systolische Pumpfunktion bei Hypokinesie aller Wandabschnitte. Im Vergleich zur Voruntersuchung vom <[Pseudo] 21/11/2031> fand sich keine wesentliche Befundänderung. Im 6-Minuten-Gehtest wurde eine Gehstrecke von 515 m erreicht, zuvor 556 m, somit weiterhin im Normbereich. Das NTproBNP lag ebenfalls weiterhin im Normbereich.
+In der Zusammenschau gehen wir von einem stabilen kardialen Verlauf aus. Wir empfehlen die Anpassung der unten angegebenen Therapie und bitten um Wiedervorstellung in 12 Monaten. Bei Problemen ist eine frühere Wiedervorstellung selbstverständlich möglich -LRB- Terminvereinbarung unter Tel: B-PHONE -RRB- .
+Wir empfehlen regelmäßige Langzeit-EKG-Untersuchungen -LRB- alle 6 Monate -RRB- und bitten um Mitnahme der Befunde zur nächsten Wiedervorstellung. Ebenfalls bitten wir um regelmäßige Blutdruckkontrollen.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Medikation:
+ASS 100 mg 1-0-0
+Metoprolol 47,5 mg -UNK- - -UNK- - -UNK-
+Ramipril 1,25 mg 0-0-1 bitte wieder beginnen unter Blutdruckkontrolle!
+Spironolacton 25 mg 1-0-0
+Opipramol 50 mg -UNK- -0-1
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Facharzt
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2032>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+11.17 !H
+4 - 10 /nl
+B-DATE
+Hb
+13.8
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.5
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.430
+0,36 - 0,47 l/l
+B-DATE
+MCV
+95
+83 - 97 fl
+B-DATE
+MCH
+31
+27 - 33 pg
+B-DATE
+MCHC
+32
+30 - 36 g/dl
+B-DATE
+RDW
+13.5
+12,9 - 18,7 %
+B-DATE
+hypochr.Erythroz.
+1.3
+0 - 2 %
+B-DATE
+Thrombozyten
+423
+150 - 440 /nl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+1.28
+1,0 - 4,8 /nl
+<[Pseudo] 12/11/32>
+Neutroph.G.-abs.
+9.42 !H
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.34
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.04
+- <0,5 /nl
+<[Pseudo] 12/11/32>
+Basoph.G. -LRB- abs -RRB-
+0.03
+- <0,2 /nl
+<[Pseudo] 12/11/32>
+Neutroph.G. -LRB- mech. -RRB-
+84.3 !H
+50 - 80 %
+<[Pseudo] 12/11/32>
+Lympho -LRB- mech. -RRB-
+11.5 !L
+25 - 40 %
+<[Pseudo] 12/11/32>
+Basoph.G.
+0.3
+- <1 %
+<[Pseudo] 12/11/32>
+Monozyten -LRB- mech. -RRB-
+3.0
+2 - 9 %
+<[Pseudo] 12/11/32>
+Eosinoph.G. -LRB- mech. -RRB-
+0.4 !L
+2 - 4 %
+<[Pseudo] 12/11/32>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 12/11/32>
+Kalium -LRB- ISE -RRB-
+4.22
+3,4 - 4,8 mmol/l
+<[Pseudo] 12/11/32>
+Calcium
+2.33
+2,11 - 2,59 mmol/l
+<[Pseudo] 12/11/32>
+Kreatinin
+0.82
+0,5 - 0,9 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+34
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+83.7
+>60 s.u.
+<[Pseudo] 12/11/32>
+MDRD
+81.04
+ml/min/1,73qm
+<[Pseudo] 12/11/32>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+46.5
+30 - 50 g/l
+B-DATE
+Glucose
+150 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+15
+- <37 U/l
+B-DATE
+GPT/ALT
+21
+- <35 U/l
+B-DATE
+AP
+68
+55 - 105 U/l
+B-DATE
+GGT
+35
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.40
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+4.8
+- <6 mg/dl
+B-DATE
+Triglyceride
+167 !H
+- <150 mg/dl
+B-DATE
+Cholesterin
+158.0
+- alt.abh. mg/dl
+<[Pseudo] 12/11/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+85
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+40 !L
+>50 mg/dl
+B-DATE
+Eisen
+9.8 !L
+12 - 27 µmol/l
+<[Pseudo] 12/11/32>
+Ferritin
+66
+20 - 120 µg/l
+<[Pseudo] 12/11/32>
+Transferrin
+2.63
+2,0 - 3,6 g/l
+<[Pseudo] 12/11/32>
+TFSG
+15 !L
+16 - 45 %
+<[Pseudo] 12/11/32>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 12/11/32>
+Hämolyse
+-
+
+<[Pseudo] 12/11/32>
+ikterisch
+-
+
+<[Pseudo] 12/11/32>
+Lipämie
+-
+
+<[Pseudo] 12/11/32>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+185
+- <308 U/l
+B-DATE
+CK
+58
+- <170 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+121
+- <125 ng/l
+<[Pseudo] 12/11/32>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.3
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+34
+20 - 42 mmol/mol
+<[Pseudo] 12/11/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+105
+- <110 mg/dl
+B-DATE
+TSH
+2.78
+0,400 - 4,000 mU/l
+<[Pseudo] 12/11/32>

@@ -1,0 +1,497 @@
+Aufnahmedatum: <[Pseudo] 2040-05-21 >
+Geburtsdatum: <[Pseudo] 2012-12-25 >
+Alter: 27
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 25/12/2012> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Periphere Lungenarterienembolie beidseits -LRB- CT-Thorax vom <[Pseudo] 13/05/2040> -RRB-
+-UNK- Antikoagulation mit Clexane seit dem <[Pseudo] 13/05/2040> kurzzeitige Umstellung auf Xarelto am <[Pseudo] 14/05/2040> bei V.a. Antiphospholipidsyndrom erneute Antikoagulation mittels NMH
+-UNK- Aktuell Marcumar seit <[Pseudo] 16/05/2040>
+-UNK- Ad INR-Kontrolle und Anpassung der Dosierung am <[Pseudo] 21/05/2040> durch den niedergelassenen Behandler
+-UNK- Kein Hinweis auf TVT
+-UNK- Echokardiographisch keine Rechtsherzbelastung
+-UNK- hämorrhagische Infarzierung im linken Unterlappen
+-UNK- Kleine Tumorsuche bei idiopatischer LAE
+-UNK- Abdomensonographie ohne Hinweis auf malignes Geschehen
+- Bei eingeschränkter Beurteilbarkeit aufgrund erschwerter Schallbedingungen bitten wir jedoch um eine erneute Sonographie
+-UNK- Keine suspekten Läsionen im CT-Thorax
+-UNK- Thrombophiliescreening in unserer Gerinnungsambulanz am <[Pseudo] 12/12/2040> um 10 Uhr
+-UNK- 4 Wochen zuvor Marcumar pausieren, Bridging mit NMH -LRB- z.B. Clexane -RRB-
+-UNK- Letzte NMH s. c. - Gabe am Morgen des <[Pseudo] 11/12/2040>
+-UNK- Screening bzgl. Antiphospholipidsyndrom
+-UNK- Lupusantikoagulans positiv
+- Entzündungskonstellation
+-UNK- Infarktpneumonische Komponente möglich -LRB- CT-Thorax <[Pseudo] 13/05/2040> -RRB-
+-UNK- CRP-Anstieg auf > 170 mg/l bei normwertigem PCT -LRB- < 0,05 ng/ml -RRB-
+-UNK- Antibiotische Therapie mit Unacid und Azythromycin vom <[Pseudo] 17/05/2040> bis <[Pseudo] 20/05/2040>
+-UNK- Bitte um laborchemische Kontrolle der Inflammationsmarker am <[Pseudo] 21/05/2040> durch den niedergelassenen Behandler
+- Ausschluss Myokardinfarkt
+
+Vorerkrankungen: Keine bekannt
+
+Kardiovaskuläre Risikofaktoren: Nikotinabusus -LRB- kumulativ 10 py -RRB- ,
+
+Allergien: Anamnestisch keine bekannt
+
+Anamnese:
+Die Aufnahme auf unsere Station erfolgte über unsere B-ORG Selbstvorstellung dort mit morgens plötzlich aufgetretenem, linksseitigem, atemabhängigem Thoraxschmerz, NAS 8-9/10 einschießend bis in die linke Flanke. Keine pektanginöse Symptomatik, keine Dyspnoe, keine Synkope. Kein Infekt erinnerlich. Erstereignis.
+Bei Aufnahme auf der Station gibt der Patient an keine langen Flugreisen oder Autofahrten absolviert zu haben, keine Operationen in den letzten Wochen oder Monaten, keine Immobilität, familiär keine Blutgerinnungsstörungen bekannt.
+
+Medikation bei Übernahme -LRB- CPU -RRB- :
+Clexane 80mg 1-0-1
+Novalgin i. v. 1g Bei Bedarf
+Dipidolor i. v. 3,75mg Bei Bedarf
+
+Körperlicher Untersuchungsbefund:
+Bewusstsein: klar, Herztöne: normal, Herzzusatztöne: keine, Pulmo auskultatorisch: vesikuläres Atmen, Abdomen: unauffällig, Beinvenenstatus: unauffällig, Halsvenen: unauffällig, Pulsstatus: regelrecht, Zyanosezeichen: Nein. Klin. kein Hinweis auf TVT. Kein FND. Schmerzen i.S. eines nach oben ziehenden Flankenklopfschmerzes links provozierbar.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 13/05/2040> und dem <[Pseudo] 20/05/2040>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.41
+4 - 10 /nl
+B-DATE
+Hb
+14.4
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.8
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.450
+0,38 - 0,52 l/l
+B-DATE
+MCV
+92
+83 - 97 fl
+<[Pseudo] 20/05/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 20/05/40>
+MCHC
+32
+30 - 36 g/dl
+<[Pseudo] 20/05/40>
+RDW
+16.7
+12,9 - 18,7 %
+<[Pseudo] 20/05/40>
+hypochr.Erythroz.
+4.5 !H
+0 - 2 %
+<[Pseudo] 20/05/40>
+Thrombozyten
+427
+150 - 440 /nl
+<[Pseudo] 20/05/40>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+143
+135 - 146 mmol/l
+<[Pseudo] 20/05/40>
+Kalium -LRB- ISE -RRB-
+4.05
+3,4 - 4,6 mmol/l
+<[Pseudo] 20/05/40>
+Kreatinin
+0.59 !L
+0,6 - 1,2 mg/dl
+<[Pseudo] 20/05/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+20
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+138.7
+>60 s.u.
+B-DATE
+MDRD
+163.21
+ml/min/1,73qm
+<[Pseudo] 14/05/40>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+45.1
+30 - 50 g/l
+<[Pseudo] 14/05/40>
+Glucose
+98
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+57 !H
+- <46 U/l
+B-DATE
+GPT/ALT
+19
+- <50 U/l
+B-DATE
+CRP
+84.1 !H
+- <5 mg/l
+<[Pseudo] 20/05/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+PCT sens.
+<0.05
+- <0,05 ng/ml
+<[Pseudo] 15/05/40>
+Hämolyse
+-
+
+<[Pseudo] 20/05/40>
+ikterisch
+-
+
+<[Pseudo] 20/05/40>
+Lipämie
+-
+
+<[Pseudo] 20/05/40>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+<NONE> !H
+- <316 U/l
+B-DATE
+CK
+52
+- <190 U/l
+B-DATE
+hs-TroponinT
+4.53
+- <14 pg/ml
+B-DATE
+NT-BNP
+52
+- <125 ng/l
+<[Pseudo] 14/05/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cardiol IgG
+3
+- <13 U/ml
+B-DATE
+Cardiol IgM
+<3
+- <10 U/ml
+B-DATE
+b2-Gly IgG
+<1
+- <17,7 U/ml
+B-DATE
+b2-Gly IgM
+3
+- <5,7 U/ml
+<[Pseudo] 15/05/40>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+3.09
+0,400 - 4,000 mU/l
+<[Pseudo] 14/05/40>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+26.9 !L
+70 - 125 %
+<[Pseudo] 20/05/40>
+INR - ber.
+2.32 !H
+- <1.2
+<[Pseudo] 20/05/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+30.7
+- <35 s
+B-DATE
+D-Dimer -LRB- neu -RRB-
+1.88 !H
+- <0,5 mg/l
+B-DATE
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+6.00
+6,0 - 8,0
+<[Pseudo] 13/05/40>
+SpezGew/Tstr.
+1037 !H
+1001 - 1035
+<[Pseudo] 13/05/40>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 13/05/40>
+Bili/Tstr.
+Schwach
+- neg.
+<[Pseudo] 13/05/40>
+Ketone /Tstr.
+Spur
+- neg. mg/dl
+<[Pseudo] 13/05/40>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 13/05/40>
+Eiweiß/Tstr.
+Spur
+- neg. mg/dl
+<[Pseudo] 13/05/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+1.0
+- <2,0 mg/dl
+<[Pseudo] 13/05/40>
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 13/05/40>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+9.0 !H
+- <8 /µl
+B-DATE
+Leuko/µl
+5.0
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+1.00
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+<[Pseudo] 13/05/40>
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.40
+7,37 - 7,45
+B-DATE
+pO2
+70
+mmHg
+B-DATE
+pCO2
+42.4
+35 - 45 mmHg
+<[Pseudo] 15/05/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+0.7
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+25.1
+mmol/l
+B-DATE
+Laktat
+7.9
+- <16 mg/dl
+<[Pseudo] 15/05/40>
+
+
+
+
+
+Ruhe-EKG vom <[Pseudo] 13/05/2040> -LRB- CPU -RRB- :
+Rhythmus: Sinusrhythmus, Herzfrequenz: 88/min, Lagetyp: Linkstyp, QRS-Komplex: normal, ST-Strecke:
+normal, T-Welle: normal.
+
+Ruhe-EKG <[Pseudo] 16/05/2040:>
+Normofrequenter Sinusrhythmus, 76/min, Indifferenztyp. PQ 132 ms, QRS 92ms, QTc 392 ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, keine S-Persistenz. Keine signifikanten Kammerendteilveränderungen.
+
+Virologischer Befund vom <[Pseudo] 13/05/2040> -LRB- ORG -RRB- :
+
+
+CT Thorax mit Kontrastmittel vom <[Pseudo] 13/05/2040:>
+Keine Voruntersuchung zum Vergleich vorliegend.
+Befund:
+Kontrastmittelaussparungen von Pulmonalarterien in allen Lungenlappen außer im Mittellappen: Segment- und Subsegmentarterien S6 rechts, Subsegmentarterien S9 und S3 rechts sowie Subsegmentarterien S1/S2 links, S5, S8 und segmental/subsegmental S9 links. Die Emboli insbesondere in S9 links weitgehend okkludierend. Flächige Milchglastrübungen mit Konsolidierungen im linken Unterlappen bis an die Pleura. Subpleurale Milchglastrübungen auch im rechten dorsalen Randwinkel. Schmaler Pleuraerguss links mit 15 mm an. Kein Erguss rechts. Kein Pneumothorax. RV/LV-Quotient <1. Kein Rückfluss von Kontrastmittel in die Lebervenen. Keine Dissektion der thorakalen Aorta. Kein Perikarderguss. Soweit in der gefäßarteriellen Phase beurteilbar, keine Auffälligkeiten im miterfassten Oberbauch. Keine freie Luft im Oberbauch. Keine suspekten ossären Läsionen.
+Beurteilung:
+- Periphere Lungenarterienembolie beidseits mit subtotal bis total okkludierenden Emboli in beiden UL. Weitere Emboli in beiden OL.
+- Konsekutive hämorrhagische Infarzierung des Lungenparenchyms der basalen Gruppe im linken UL mit teils Milchglas, teils Konsolidierungen; geringer auch im rechten dorsalen UL. Infarktpneumonische Komponente möglich.
+- Schmaler Reizerguss links.
+- CT-morphologisch keine Zeichen einer Rechtsherzbelastung.
+
+Virologischer Befund vom <[Pseudo] 14/05/2040> -LRB- ORG -RRB- :
+
+
+
+Mittelstrahlurin vom <[Pseudo] 14/05/2040:>
+Kultureller Befund:
+K1 10 hoch 3 KBE/ml Koagulase-negative Staphylokokken
+
+Farbduplexsonographie der tiefen Venen der unteren Extremität beidseits vom <[Pseudo] 14/05/2040:>
+Atemvariables, regelrechtes venöses Flussprofil in der V. iliaca externa. Im einsehbaren Verlauf distale V. iliaca externa, V. femoralis communis V. femoralis superficialis und V. poplitea komprimierbar ohne sichere Hinweise auf intraluminales thrombotisches Material. Bei eingeschränkten Schallbedingungen am Unterschenkel tiefe Unterschenkelvenen soweit beurteilbar komprimierbaren oder mit antegrad provozierbarem Flussnachweises ohne sichere Hinweise für intraluminales thrombotisches Material.
+- Derzeit keine Hinweise für eine TVT
+Zusammenfassung/Empfohlenes Procedere:
+- Empfehlung einer Antikoagulation in therapeutischer Dosierung für mindestens 3 Monate -LRB- unter regelmäßiger Kontrolle der Nierenfunktion sowie des Blutbilds -RRB- . Bei Patienten mit Erstereignis einer nicht provozierten LAE und einem niedrigen Blutungsrisiko ist eine verlängerte Dauer der Antikoagulation unter engmaschiger Reevaluation in Erwägung zu ziehen
+- Eine Umstellung auf eine DOAK ist möglich.
+- Thrombophiliescreening im Verlauf -LRB- in ca. 6 Monaten -RRB- , gern in unserer Gerinnungsambulanz.
+- Bei idiopathischer LAE empfehlen wir eine Tumorsuche.
+
+Echokardiographie vom <[Pseudo] 14/05/2040:>
+Bemerkungen: TTE am Bett auf B-ORG ORG.
+Beurteilung:
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA und RA normal groß, RV leicht dilatiert mit guter RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenwurzel normal weit. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht ableitbar. Zusammenfassend: Keine Rechtsherzbelastungszeichen, regelrechter Befund. Erstbefund in
+domo.
+Lungenfunktionsprüfung vom <[Pseudo] 15/05/2040:>
+Kapilläre Blutgasanalyse:
+Raumluft: altersjustiert leichte Hypoxämie ohne Sauerstoffbedarf, Normokapnie, normaler Säure-Basen-Status.
+Spirometrie und Bodyplethysmographie:
+Nicht durchgeführt
+
+Abdomensonographie vom <[Pseudo] 15/05/2040:>
+Deutlich eingeschränkte Schallbedingungen bei schmerzbedingt halbsitzender Position, Tachypnoe und ausgeprägtem Meteorismus. Die Leber ist von subcostal kaum darstellbar, der rechte Lappen ist von intercostal nicht vollständig einsehbar. Die Pankreas und die Aorta sind nicht darstellbar. Die Leber misst im größten kraniokaudalen Durchmesser 18,8 cm. Der Leberrand ist stumpf. Die Echodichte ist unauffällig, die Struktur ist etwas inhomogen. Raumforderungen sind nicht abzugrenzen, aufgrund der eingeschränkten Schallbedingungen jedoch auch nicht auszuschließen. Die Lebervenen sind offen perfundiert und nicht gestaut. Die Pfortader ist orthograd perfundiert. Die Gallenblase lässt sich postprandial teilweise kontrahiert darstellen und somit nur eingeschränkt beurteilen. Soweit einsehbar, sind keine Konkremente nachzuweisen. Die intrahepatischen Gallengänge sind nicht dilatiert. Der Ductus Choledochus ist normal weit. Die Milz misst 11,2 x 3,8 cm. Das Echomuster ist homogen. Die V. lienalis ist nicht erweitert. Die Pankreas ist bei massiver Darmgasüberlagerung nicht einsehbar. Beide Nieren erscheinen in Form, Größe und Lage altersentsprechend. Die abdominale Aorta kommt aufgrund des Meteorismus nicht zur Darstellung. Eine paraaortale Raumforderung oder pathologisch vergrößerte Lymphknoten lassen sich somit nicht ausschließen. Die Harnblase stellt sich unauffällig dar. Keine freie abdominelle Flüssigkeit.
+Beurteilung:
+-UNK- Zeichen eines diskreten Leberparenchymschadens
+-UNK- Hepatomegalie
+-UNK- Grenzwertige Milzgröße
+-UNK- Aufgrund der o.g. Schallbedingungen lässt sich eine Neoplasie keinesfalls ausschließen
+-UNK- Falls adäquate Beurteilung gewünscht, empfehlen wir eine Vorstellung des Patienten in nüchternem Zustand und respiratorisch sowie schmerzkompensiert.
+
+Zusammenfassende Beurteilung:
+Die Vorstellung erfolgte bei o.g. Krankheitsbild. Seit der Aufnahme war der Patient im Wesentlichen oligosymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme <3 pg/ml, im Verlauf stabil bei <3 pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. Das NT-pro-BNP fand sich altersadjustiert im Normbereich -LRB- <20 ng/L -RRB- . Laborchemisch zeigte sich eine Entzündungskonstellation -LRB- CRP 50,5 mg/L, Leukozyten 13,8/nl, PCT bei 0,05 ng/ml -RRB- . Patient klinisch ohne Infektfokus, afebril. Der Urin-Status ergab keinen Hinweis auf einen Harnwegsinfekt.
+
+In der Zusammenschau unter Novalgin nur leicht regrediente Symptomatik. Bei erhöhten D-Dimeren von 1,88 mg/L erfolgte eine CT-Angiographie des Thorax, hier präsentierte sich eine beidseitige periphere Lungenarterienembolie mit subtotal bis total okkludierenden Emboli in beiden Unterlappen und weiteren Emboli in beiden Oberlappen. Zudem konsekutive hämorrhagische Infarzierung des Lungenparenchyms der basalen Gruppe im linken Unterlappen mit teils Milchglas, teils Konsolidierungen, hier infarktpneumonische Komponente möglich. Eine Aortendissektion konnte ausgeschlossen werden.
+
+Wir leiteten aufgrund der hämorrhagischen Infarzierung zunächst eine Antikoagulation mit Clexane ein. Bei niedrigem PCT-Wert und Fieberfreiheit wurde zunächst auf die Einleitung einer Antibiose verzichtet. Es erfolgte die stationäre Aufnahme.
+
+In der erfolgten angiologischen Untersuchung zeigte sich kein Hinweis auf eine TVT. Wir initiierten zudem eine kleine Malignomsuche. Im bereits bei Aufnahme durchgeführten CT-Thorax ergaben sich keine suspekten Läsionen. Die Oberbauchsonographie erwies sich an zwei aufeinanderfolgenden Tagen trotz Analgesie mittels Piritramid als eingeschränkt verwertbar bei erschwerten Schallbedingung. Wir bitten daher um eine erneute Durchführung im Verlauf. Ggf. kann eine Erweiterung der Tumordiagnostik nach Maßgabe des niedergelassenen Behandlers erwogen werden.
+
+In der durchgeführten Echokardiographie zeigte sich keine Rechtsherzbelastung. In der kapillären Blutgasanalyse ergaben sich altersjustiert eine leichte Hypoxämie ohne Sauerstoffbedarf, eine Normokapnie sowie ein normaler Säure-Basen-Status.
+
+Wir stellten die Antikoagulation kurzzeitig auf Rivaroxaban um und führten parallel ein Antiphospholipdsyndrom-Screening durch. Bei positivem Lupusantikoagulans erfolgte die erneute Umstellung auf niedermolekulares Heparin. Wir begannen mit der Marcumarisierung des Patienten am <[Pseudo] 16/05/2040> mit adäquatem Bridging mittels NMH bis zum Erreichen des Ziel-INR. Wir bitten um eine INR-Kontrolle sowie eine Anpassung der Dosierung durch den niedergelassenen Behandler bereits am B-DATE
+
+Für eine weiterführende Gerinnungsdiagnostik bei idiopathischer LAE und jungem Patientenalter vereinbarten wir einen Termin in unserer Gerinnungsambulanz am <[Pseudo] 12/12/2040> um 10 Uhr in unserer kardiologischen Klinik. Wir bitten den Patienten die Antikoagulation mit Marcumar 4 Wochen vorher zu pausieren. Hierbei sollte eine erneute Antikoagulation mit niedermolekularem Heparin als Bridging erfolgen, wobei die letzte Gabe am Morgen des <[Pseudo] 11/12/2040> stattfinden sollte. Wir bitten den Patienten einen Überweisungsschein durch den Hausarzt, seinen Krankenversicherungsnachweis sowie einen aktuellen Medikamentenplan zum Termin mitzubringen.
+
+Insgesamt präsentierte sich der Patient kardiorespiratorisch allzeit stabil. Jedoch kam es intermittierend regelmäßig zu Schmerzepisoden, welche wir mit Novalgin i. v. und Piritramid i. v. behandelten. Wir bitten um eine Reduktion bzw. Anpassung der Analgesie im Verlauf.
+
+Hinsichtlich der bereits bei Aufnahme vorhandenen laborchemischen Entzündungskonstellation zeigte sich ein weiterer kontinuierlicher Anstieg des CRP auf > 170 mg/l, bei normwertigem PCT -LRB- < 0,05 ng/ml -RRB- und max. subfebrilem Patienten. Wir warteten zu Beginn mit einer antibiotischen Therapie weiter zu, entschieden uns jedoch am <[Pseudo] 16/05/2040> zu einer Antibiose mit Unacid und Azythromycin. Da sich bereits nach Erstgabe ein deutlicher Abfall der Inflammationsmarker zeigte, sehen wir die CRP-Erhöhung a. e. im Rahmen der LAE und führten die Antibiose ausschließlich für insg. 3 Tage fort, im Sinne der Vermeidung einer Resistenzentwicklung. Wir bitten jedoch um laborchemische Verlaufskontrollen.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+Marcumar 0-0-1/2 am <[Pseudo] 20/05/2040> -LRB- am <[Pseudo] 17.05.> 0-0-3, am <[Pseudo] 18.05.> 0-0-2, am <[Pseudo] 19.05.> 0-0-1, am
+<[Pseudo] 20.05.> 0-0-1 erhalten -RRB-
+Metamizol 500mg 2-2-2 bitte im Verlauf reduzieren
+Pantoprazol 40mg 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 12 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen den Patienten heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärztin

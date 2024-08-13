@@ -1,0 +1,85 @@
+Aufnahmedatum: <[Pseudo] 2037-03-07 >
+Geburtsdatum: <[Pseudo] 1978-02-11 >
+Alter: 59
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 11/02/1978> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Erfolgreiche Pulmonalvenenisolation in Cryo-Technik am <[Pseudo] 07/03/2037> -LRB- B-OTHER vom <[Pseudo] 07/03/2037> -RRB- :
+- Bekanntes paroxysmales Vorhofflimmern, aktuell Sinusrhythmus, zuvor Vorhofflimmerepisoden
+-UNK- EHRA Score 1-2
+-UNK- CHA2DS2-VASc-Score 0
+- Kein Hinweis auf strukturelle Herzerkrankung
+- V.a. Asthma bronchiale, DD COPD
+- Carotissklerose bds., rechts führend
+
+Kardiovaskuläre Risikofaktoren: Hyperlipidämie
+
+Allergien: keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme des Patienten erfolgt als Zuweisung durch die B-ORG B-TITLE B-PER zur elektiven Pulmonalvenenisolation bei paroxsysmalem Vorhofflimmern. Die ausführliche Anamnese setzen wir freundlicherweise als bekannt voraus.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 186 cm, Gewicht: 80 kg -RRB-
+HF: 53 /min
+RR: 100/60 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig.
+HT: leise, rein, keine path. Geräusche
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse gut tastbar
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 18/02/2037:>
+Normofrequenter Sinusrhythmus, regelmäßig, 54/min, Indifferenztyp. PQ 162 ms, QRS 111 ms, QTc 428 ms. Negatives P inferior. Keine ischämieverdächtigen Kammerendteilveränderungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 07/03/2037> -RRB- :
+2-fache Punktion der V. femoralis dextra. Vorführen eines steuerbaren, diagnostischen 4-poligen Katheters in den CS. Problemlose 1-fache transseptale Punktion. Einführen der FlexCath-Schleuse in das LA. Transnasales Einführen der Temperatursonde in den Ösophagus -LRB- FIAB -RRB- . Angiographie der LSPV, RSPV, LIPV und RIPV jeweils nach Inflation des Cryoballons. Isolation der lateralen Pulmonalvenen -LRB- LSPV 4, LIPV 1 -RRB- . Isolation der septalen Pulmonalvenen -LRB- RSPV 2, RIPV 1 -RRB- .
+Minimale Temperaturen und -UNK- time to isolation -UNK- in LSPV -LRB- -33°C/ -34C°/-48C°ns -RRB- , LIPV -LRB- -44°C/ns -RRB- , RSPV -LRB- -46°C/ -49C°/73s -RRB- und RIPV -LRB- -48°C/ns -RRB- . Kein Hinweis auf Parese des N. phrenicus -LRB- Kontrolle durch kontinuierliche Phrenicusstimulation -RRB- . Postablationem Nachweis eines Entranceblocks aller PVs. Postinterventionell Ausschluss eines Perikardergusses durch Echokardiographie.
+Zusammenfassung:
+Pulmonalvenenisolation in Cryo-Technik.
+Procedere:
+DV 8 h. Echo-Kontrolle morgen früh zum PE-Ausschluss wiederholen. Flecainid kann abgesetzt werden. Einleitung einer Therapie mit Eliquis ab heute Abend 20 Uhr bei Blutstille für 8 Wochen, hiernach nach Maßgabe Zuweiser. Bitte LZ-EKG Kontrollen heimatnah und WV in der zuweisenden Praxis zur Befundkontrolle. 40 mg Pantoprazol 1x/die für 10 Tage post ablationem.
+
+Ruhe-EKG prae ablationem:
+Normofrequenter Sinusrhythmus, Herzfrequenz 61/min, Steiltyp, PQ 203ms, QRS 113 ms , QTc 449 ms, AV-Block I°, unvollständiger Rechtsschenkelblock. Angedeutete S-Persistenz bis V6. Verfrühte R-Progression. R/S-Umschlag in V2/V3. Keine Erregungsleitungs- und Erregungsrückbildungsstörungen.
+
+Echokardiographie nach PVI vom <[Pseudo] 08/03/2037:>
+Kein Perikarderguss nachweisbar. V. cava inf. nicht gestaut.
+
+Zusammenfassung:
+Die stationäre Aufnahme des Patienten erfolgte zur elektiven Pulmonalvenenisolation bei paroxsysmalem Vorhofflimmern. Am <[Pseudo] 07/03/2037> konnte eine komplikationslose Pulmonalvenenisolation in Cryo-Technik durchgeführt werden. Ein Perikarderguss konnte nach der Intervention mehrfach ausgeschlossen werden. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich kein Anhalt für Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstellen beider Leisten.
+
+Procedere:
+Flecainid kann abgesetzt werden. Wir empfehlen die Einleitung einer Therapie mit Eliquis für 8 Wochen. Die danach folgende Antikoagulation sollte nach Maßgabe des Zuweisers B-TITLE B-PER erfolgen. Wir bitten um Langzeit-EKG Kontrollen und eine Wiedervorstellung in der zuweisenden Praxis zur Befundkontrolle. Darüber hinaus empfehlen wir eine Pantoprazol 40 mg 1x/ Tag Einnahme für 10 Tage post ablationem.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 08/03/2037> in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Therapieempfehlung v. kardiologischer Seite:
+Apixaban 5 mg 1-0-1, neu, bis <[Pseudo] 02/05/2037> danach Reevaluation durch B-TITLE B-PER
+Verapamil 120 mg -UNK- -0-0
+Felcainid 100 mg 1-0-1, bitte absetzen
+Rosuvastatin 10 mg 0-0-1/2
+Pantoprazol 40 mg 1-0-0, neu, bis zum <[Pseudo] 17/03/2037>
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen den/die kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 08/03/2037> in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gern zur Verfügung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

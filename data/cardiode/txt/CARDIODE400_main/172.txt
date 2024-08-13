@@ -1,0 +1,398 @@
+Aufnahmedatum: <[Pseudo] 2477-09-30 >
+Geburtsdatum: <[Pseudo] 2098-07-20 >
+Alter: 379
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 20/07/2098> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreiche transfemorale Aortenklappenimplantation -LRB- Evolut 29 R -RRB- -LRB- B-OTHER vom <[Pseudo] 31/08/2185> -RRB- bei hochgradiger Aortenklappenstenose -LRB- KÖF 0,8cm², PPG 40mmHg -RRB-
+-UNK- postinterventionell AI I-II°
+-UNK- postinterventionell neuer Linksschenkelblock, QRS-Zeit konstant, keine Pausen -LRB- LZ-EKG vom <[Pseudo] 02/09/2185> -RRB-
+
+Diagnosen:
+- Koronare 1-Gefäßerkrankung der LAD ohne höhergradige Stenosen mit global guter linksventrikulärer Pumpfunktion -LRB- B-OTHER v. <[Pseudo] 05/08/2185> -RRB-
+-UNK- Cardiac Index reduziert -LRB- 2,7l/min/m² -RRB-
+-UNK- Pulmonalarterielle Drücke und Widerstand im Normbereich
+- Symptomatische hochgradige Aortenklappenstenose -LRB- PPG 60 mmHg, MPG 38 mmHg, KÖF 0,7 cm² -RRB- mit global guter linksventrikulärer Pumpfunktion
+- Leichte septale LV-Hypertrophie mit Relaxationsstörung des linken Ventrikels
+- Normale systolischer PA-Druck
+- Hypermobiles Vorhofseptum
+- Leichte Ektasie der Aorta ascendens
+- Z. n. Blasen-Op. bei Blasensenkung
+- Z. n. Hysterektomie bei Myom
+- Polymyalgia rheumatica, EM B-DATE, ED <[Pseudo] 05/2183>
+- Z. n. Knie-TEP rechts <[Pseudo] 07/2183> bei Gonarthrose
+- Z. n. tiefer Beinvenenthrombose postoperativ <[Pseudo] 07/2183>
+- Coxarthrose bds.
+- Spinalkanalstenose L3/4
+- Z. n. CTS-OP <[Pseudo] 04/2183>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie ohne Statintherapie -LRB- Statinunverträglichkeit -RRB-
+Allergien: Nickel, anamnestisch Statine, ASS
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur elektiven transfemoralen Aortenklappenimplantation bei hochgradiger Aortenklappenstenose.
+Die Patientin berichtet über eine reduzierte Belastbarkeit im Alltag -LRB- wenige Stufen -RRB- , mit inadäquater Belastungsdyspnoe bei leichterer Belastung -LRB- NYHA III -RRB- . Keine belastungsinduzierten pectanginösen Beschwerden. Keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen, gelegentlich Schwindel, keine stattgehabten Synkopen.
+
+Medikation bei Aufnahme:
+Clopidogrel 75 0-1-0
+Candesartan 8 1-0-1
+Pantoprazol 20 1-0-0
+Mg 400 -UNK- -0- -UNK-
+
+Körperlicher Untersuchungsbefund -LRB- bei Aufnahme -RRB- :
+AZ: gut
+EZ -LRB- 165 cm/ 65 kg -RRB-
+HF: 68/min, regelmäßig
+RR: 140/90 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: 4/6 spindelförmiges Mesosystolikum mit pm im 2 ICR re. Parasternal, Fortleitung in die Carotiden bds.
+Lunge: o.B.
+Periphere Ödeme: keine
+Pulsstatus: o.B.
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 30/08/2185:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 78/min, Linkstyp, PQ 146 ms, QRS 81 ms, QTc 394 ms. S-Persistenz bis V6, keine signifikanten Kammerendteilveränderungen.
+
+TAVI-CT vom <[Pseudo] 06/08/2185:>
+Gefäße
+Die Beurteilung der kritischen Gefäße im Hinblick auf die Machbarkeit des Eingriffs erfolgt durch die die Intervention planende Fachabteilung.
+Aortenklappensklerose. Koronarsklerose. Mäßige Atherosklerose mit leichten Abgangsstenosen von TC, AMS, rechter A. renalis. Akzessorische Nierenarterie des Unterpols links.
+Leichte Elongation der Aorta thorakoabdominalis und der Iliakalachse beidseits.
+Thorax
+Kein Pleura- oder Perikarderguss, keine pneumonischen Infiltrate. Keine suspekten, thorakalen Lymphknoten. Mammärer Drüsenkörper rechts deutlich dichter als links -LRB- Se 501/190 -RRB- , CT-graphisch nicht weiter beurteilbar.
+Abdomen
+Verplumpte Nebenniere links. Fokale, hepatische Hyperarterialisierung in S VI -LRB- Se 501/469 -RRB- , ansonsten homogenes Leberparenchym. Gallenblase konkrementfrei, keine Cholestase. Mehrere Nebenmilzen. Verkalkungen am Milzhilus in Assoziation mit venösen Gefäßen -LRB- Se 501/363 -RRB- . Kolondivertikulose, Koprostase, Kotstein -LRB- Se 501/503 -RRB- .
+Imbibierung des subkutanen Fettgewebes rechts inguinal nach Leistenpunktion.
+Skelett
+Degenerative Skelettveränderungen. Skoliose der LWS.
+BEURTEILUNG
+-UNK- Die Beurteilung der kritischen Gefäße im Hinblick auf die Machbarkeit des Eingriffs erfolgt durch die die Intervention planende Fachabteilung.
+-UNK- Keine höhergradige Stenosen der Aorta oder Iliakalachse; Iliakalachsen und Aorta leicht elongiert.
+-UNK- Mammärer Drüsenkörper rechts deutlich ausgeprägter und dichter als links - in gegebener Technik nicht weiter beurteilbar, ggfs. senologische Korrelation.
+
+Lungenfunktion vom <[Pseudo] 06/08/2185:>
+Kapilläre Blutgasanalyse:
+
+Spirometrie
+
+.
+
+
+Carotisduplex vom <[Pseudo] 06/08/2185:>
+Beidseits leichtgradige echogemischte Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz, am ACI Abgang schallauslöschende Plaque, danach Flussbeschleunigung auf max. 120cm/s. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im Carotisstromgebiet.
+IMD deutlich erhöht, rechts 0,11 cm, links 0,12 cm.
+
+Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 31/08/2185> -RRB- :
+Interventionelle Klappenimplantation bei deutlich erhöhtem OP-Risiko für eine konventionelle Operation:
+
+Erfolgreiche transfemorale Implantation einer Aortenklappenbioprothese -LRB- Evolut R Klappe; 29 mm -RRB- unter Lokalanästhesie bei hochgradiger Aortenklappenstenose. Anschließend einmalige Ballonvalvuloplastie der Aortenklappe mittels 23 mm Ballon unter rapid pacing. Nach Implantation Abnahme des Druckgradienten von 50mmHg auf 0mmHg.
+Postprocedural Aortenklappeninsuffizienz I-II°.
+Verschluss der A. femoralis rechts -LRB- 14F -RRB- mit dem Proglidesystem.
+
+Ruhe-EKG nach Implantation:
+Normofrequenter Sinusrhythmus, Herzfrequenz 70/min, überdrehter Linkstyp. Linksschenkelblock mit konsekutiven Kammerendteilveränderungen. PQ 190ms, QRS 135ms, QTc 476ms.
+
+Angiologische Verlaufskontrolle nach TAVI vom <[Pseudo] 01/09/2185:>
+Anamnese:
+Kontrolle nach TAVI. Patient beschwerdefrei. Kein Druckschmerz im Bereich der Punktionsstellen.
+
+Lokalbefund:
+Punktionsstellen reizlos, kleine Hämatome. Leistenpulse kräftig palpabel. Kein Druckschmerz.
+
+Farbduplexsonographie der Gefäße der Leisten:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstellen der Leisten. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+Echokardiographie vom <[Pseudo] 01/09/2185:>
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne sicher abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA leicht dilatiert, RA und RV normal groß, gute RV-Funktion. Hypermobiles Vorhofseptum. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Evolut Klappenprothese in Aortenposition sonographisch regelrecht, dopplersonographisch leicht- bis mittelgradige Insuffizienz, keine relevante Stenosewirkung nachweisbar. Mitralkappe leicht verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Übrige Klappen sonographisch regelrecht, dopplersonographisch leicht- bis mittelgradige Trikuspidalklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 25-30 mmHg -RRB- . Erstbefund in domo.
+
+Langzeit-EKG vom <[Pseudo] 02/09/2185:>
+Normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 54/min und 133/min, im Mittel 77/min. Normale Herzfrequenzvariabilität. Schenkelblockbild. Einige supraventrikuläre Extrasystolen, z.T. auch repetitiv und als atriale Salven -LRB- längste über 8 Schläge mit 158/min -RRB- . Keine Pausen. Häufige polymorphe ventrikuläre Extrasystolen, z. T. auch repetitiv als Bigemini, vereinzelte Couplets. Vereinzelte ventrikuläre Salven -LRB- max. 182/min -RRB- ,max. über 6 Schläge. Eine a.e. supraventrikuläre Salve mit Schenkelblockaberranz über 11 Schläge mit 132/min. DD ventrikuläre Salve. Lown IV b.
+
+Ruhe-EKG vom <[Pseudo] 06/09/2185:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 81/min, Linkstyp. Linksschenkelblock mit konsekutiven Kammerendteilveränderungen. PQ 174ms, QRS 135ms, QTc 435ms.
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur elektiven transfemoralen Aortenklappenimplantation bei hochgradiger Aortenklappenstenose.
+
+Zur Evaluierung der technischen Machbarkeit einer TAVI erfolgte die Durchführung einer kontrastmittelgestützten CT-Untersuchung. Aufgrund des hohen Patientenalters sowie der allgemeinen körperlichen Gebrechlichkeit besteht bei B-SALUTE B-PER ein deutlich erhöhtes Operationsrisiko. Es erfolgte eine ausführliche Aufklärung der Patientin über die Risiken es geplanten Eingriffs sowie eine Prämedikation bei geplanter Vollnarkose. Nach Rücksprache mit unserem Klappen-Team unter der Leitung von B-TITLE I-TITLE B-PER wurde die technische Durchführbarkeit bestätigt.
+
+Am <[Pseudo] 31/08/2185> konnte die transfemorale Implantation einer TAVI Evolut-Bioprothese komplikationslos erfolgen. Es erfolgte eine periinterventionelle Antibiose mittels Cefuroxim. In der am Folgetag durchgeführten Echokardiographie zeigte sich die Aortenklappenprothese sonographisch regelrecht, dopplersonographisch mit leicht- bis mittelgradiger Insuffizienz, keine relevante Stenosewirkung nachweisbar. In der Farbduplexsonographie der Leistengefäße ergab sich kein Hinweis auf ein Aneurysma spurium, eine AV-Fistel oder eine TVT im Bereich der Punktionsstellen beider Leisten. Der prophylaktisch angelegte passagere Schrittmacher konnte am <[Pseudo] 01/09/2184> entfernt werden, die Pat. zeigte sich durchgehend rhythmusstabil. Das postinterventionell durchgeführte Langzeit-EGK ergab keinen Hinweis auf relevante Pausen oder höhergradige Herzrhythmusstörungen.
+
+Wir empfehlen bei ASS-Allergie die Fortführung der dauerhaften Thrombozytenaggregationshemmung aus Clopidogrel 75 mg tägl. Auf die Bedeutung einer lückenlosen Einnahme des Präparats wurde hingewiesen. Der Patientin wurde ein Implantatausweis ausgehändigt. Sie wurde über notwendige Verhaltensanweisungen informiert.
+
+Wir bitten um Entfernung des restlichen Fadenmaterials am B-DAY - B-DAY postoperativen Tag durch den Hausarzt. Ein Termin zur Verlaufskontrolle nach transfemoralem Aortenklappenersatz wurde für den Patient in unserer B-ORG Ambulanz am <[Pseudo] 09/03/2186> um 11.00 Uhr ausgemacht. Die weiteren Kontrolltermine empfehlen wir bei beschwerdefreiem Verlauf bei dem uns zuweisenden Kardiologen durchzuführen.
+
+Bei normofrequenter Herzfrequenz und Z.n. TAVI verzichteten wir zunächst auf die Hinzunahme eines Betablockers. Ebenso wurde bei anamnestischer Statin-Unverträglichkeit auf eine medikamentöse Einstellung der Hypercholesteriämie verzichtet, wir bitten dies im Verlauf zu reevaluieren.
+
+Bei Zustand nach transfemoraler Aortenklappenintervention sollte auf eine Endokarditisprophylaxe geachtet werden. Hierfür empfehlen wir gemäß aktueller Leitlinien eine gute Mundhygiene und regelmäßige zahnärztliche Kontrollen. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o. oder i.v. -RRB- oder bei Penicillinallergie mit Clindamycin -LRB- 600 mg p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen. Ein Implantatausweis wurde ausgehändigt, weiterhin erfolgte eine Aufklärung über notwendige Verhaltensanweisungen.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung. Bei beschwerdefreiem Verlauf empfehlen wir regelmäßige kardiologische Kontrolluntersuchung in der B-ORG B-TITLE I-TITLE B-PER
+
+
+Nächster Termin/Prozedere:
+- Termin zur Verlaufskontrolle nach transfemoralem Aortenklappenersatz in unserer Kardiologischen I-ORG am <[Pseudo] 09/03/2186> um 11.00 Uhr
+- Ggf. Fadenzug 10-12 Tage nach der transfemoralen Aortenklappenimplantation durch den Hausarzt
+
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Clopidogrel 75 0-1-0 Dauerhaft
+Candesartan 8 1-0-1
+Pantoprazol 20 1-0-0
+Mg 400 -UNK- -0- -UNK-
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER OBERARZT B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Stationsärztin
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 30/08/2185> und dem <[Pseudo] 03/09/2185>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.16
+4 - 10 /nl
+B-DATE
+Hb
+10.8 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.8 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.320 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+83
+83 - 97 fl
+<[Pseudo] 03/09/85>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 03/09/85>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 03/09/85>
+RDW
+13.3
+12,9 - 18,7 %
+<[Pseudo] 03/09/85>
+hypochr.Erythroz.
+0.3
+0 - 2 %
+<[Pseudo] 03/09/85>
+Thrombozyten
+145 !L
+150 - 440 /nl
+<[Pseudo] 03/09/85>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 03/09/85>
+Kalium -LRB- ISE -RRB-
+3.93
+3,4 - 5,0 mmol/l
+<[Pseudo] 03/09/85>
+Calcium
+2.25
+2,11 - 2,59 mmol/l
+<[Pseudo] 03/09/85>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+0.67
+0,5 - 1,4 mg/dl
+B-DATE
+Harnstoff
+37
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+79.3
+>60 s.u.
+<[Pseudo] 03/09/85>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+90
+65 - 110 mg/dl
+<[Pseudo] 01/09/85>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 30/08/85>
+Hämolyse
+-
+
+<[Pseudo] 03/09/85>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+ikterisch
+-
+
+<[Pseudo] 03/09/85>
+Lipämie
+-
+
+<[Pseudo] 03/09/85>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+CK
+113
+- <170 U/l
+B-DATE
+hs-TroponinT
+92.9 !H
+- <14 pg/ml
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+245
+- <450 ng/l
+<[Pseudo] 30/08/85>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.18
+0,400 - 4,000 mU/l
+<[Pseudo] 30/08/85>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+87.1
+70 - 125 %
+<[Pseudo] 01/09/85>
+INR - ber.
+1.07
+- <1.2
+<[Pseudo] 01/09/85>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+23.4
+- <35 s
+B-DATE
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.44
+7,37 - 7,45
+B-DATE
+pO2
+94
+mmHg
+B-DATE
+pCO2
+33.9 !L
+35 - 45 mmHg
+<[Pseudo] 01/09/85>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-1.3
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+23.4
+mmol/l
+B-DATE
+Laktat
+24.7 !H
+- <16 mg/dl
+B-DATE

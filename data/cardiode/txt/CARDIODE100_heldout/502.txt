@@ -1,0 +1,567 @@
+Aufnahmedatum: <[Pseudo] 2037-08-03 >
+Geburtsdatum: <[Pseudo] 1960-09-22 >
+Alter: 76
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 22/09/1960> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+Diagnosen:
+Aktuell:
+- Invasive Abklärung bei V. a. Progress der koronaren 2-Gefäßerkrankung -LRB- LAD, LCX -RRB-
+- Gute linksventrikuläre Pumpfunktion. Keine höhergradigen, interventionsbedürftigen Stenosen -LRB- B-OTHER vom <[Pseudo] 22/07/2037> -RRB-
+-UNK- Negatives Stress-MRT vom <[Pseudo] 22/07/2037>
+- Ausschluss einer Nierenarterienstenose im Nierenduplex
+- PAVK im Stadium I vom Beckentyp
+-UNK- Z. n. direkter kissing BM-Stentimplantation der AIC beidseits bei hochgradiger, prominenter AIC-Stenose rechts. Residuelle Stenose der distalen Aorta -LRB- ca. 25 bis 50% -RRB- -LRB- B-OTHER vom <[Pseudo] 23/04/2037> -RRB-
+- Koronare 2-Gefäßerkrankung -LRB- LAD, LCX -RRB-
+-UNK- Z. n. PCI und 2-fach DE-Stent der LAD bei In-Stent-Re-Stenose am <[Pseudo] 30/08/2033>
+-UNK- Z. n. PCI und 3-fach DE-Stent der LAD <[Pseudo] 01/2032>
+-UNK- Unauffälliges pharmakologische Stressechokardiographie <[Pseudo] 03/2037>
+- Vorbefundlich Diuretika-induzierte Hyponatriämie
+- Z. n. Antrumgastritis <[Pseudo] 01/2032>
+- Clopidogrel-Resistenz, pharmakokinetische ASS-Resistenz -LRB- bei ASS 300 gute Wirksamkeit von ASS
+Kardiovaskuläre Risikofaktoren: Arterieller Hypertonus, Hypercholesterinämie, pos. familiäre Belastung
+Allergien: Clopidogrelresistenz, Arzneimittelunverträglichkeit Amlodipin -LRB- Ödembildung -RRB-
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere Notaufnahme bei intermittierendem, thorakalem Druckschmerz seit ca. 1 Woche. Die AP Symptomatik sei retrosternal mit Austrahlung in den linken Arm und aggraviert durch Belastung. Bei weiterer Zunahme der Beschwerden Vorstellung in unserer ORG. Es bestehe außerdem ein systhematiches Schwindel ohne Synkope. Kein Hinweis auf eine akute Infektion.
+
+Medikation bei Aufnahme:
+ASS 300 mg 1-0-0
+Clopidogrel 75 mg 1-0-0 neu bis HK
+Metoprolol 47,5 mg 1-0-1
+Candesartan 16 mg 1-0-1
+Spironolacton 25 mg -UNK- -0-0
+Atorvastatin 40 mg 0-0-0-1 -UNK-
+Ezetimib 10 mg 1-0-0
+Torasemid 5 mg -UNK- -0-0
+Pantozol 40 mg 0-0-1
+L-Thyroxin 75 µg 1-0-0
+Symbicort 160/4,5 µg 1-0-1
+Moxinodin 0,4 mg 1-0-1/2
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 167 cm, 64 kg
+HF: 80/min
+RR: 165/80 mmHg
+Keine Zyanose, keine Anämiezeichen, kein Ikterus.
+Cor: leise, rein, keine path. Geräusche
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Abdomen: weich, kein DS, keine Resist.
+Pulsstatus: periphere Pulse gut tastbar
+Periphere Ödeme: keine
+Kopf/Hals: unauffällig
+Neurol. Status: orientierend o.p.B.
+Sonstiges: keine
+
+Ruhe-EKG bei Aufnahme am <[Pseudo] 21/07/2037:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 66/min, Linkstyp, PQ 157 ms, QRS 78 ms, QTc 77 ms, regelrechte R-Progression, keine signifikanten Kammerendteilveränderungen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 22/07/2037:>
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale LV-Funktion, Relaxationsstörung des LV. LA, RA und RV normal groß. Gute RV-Funktion. Hypermobiles Vorhofseptum, farbduplexsonographischem V.a. kleinen Shunt. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe -trikuspid- und Mitralklappe leicht verdickt mit guter Separation. Minimale Aortenklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalinsuffizienz nicht ableitbar. Im Vergleich zur Voruntersuchung vom B-DATE: V.a. kleinen Shunt auf Vorhofebene, ansonsten im Wesentlichen keine Befundänderung.
+
+Kardio-MRT vom <[Pseudo] 22/07/2037:>
+Beurteilung
+Normal großer, septal leicht hypertrophierter linker Ventrikel mit global normaler systolischer Funktion und normaler longitudinaler Funktion. Normal großer rechter Ventrikel mit visuell guter systolischer Funktion und regelrechter longitudinaler Funktion. LA und RA normal groß. Kein Nachweis eines Perfusionsdefizits in der Regadenoson-Stressuntersuchung. Kein Nachweis eines Late Gadolinium Enhancements. Soweit bei Artefaktüberlagerung anterior und anterolateral medioabasal beurteilbar regelrechte T1-Relaxationszeiten -LRB- T1 -UNK- 3T ca. 1230 ms -RRB- .
+Nebenbefunde
+Zystische Raumforderung der rechten Niere und der Leber. Degenerative Wirbelsäulenveränderung. Gabe von 0,2mg Sedalam zur Beruhigung zum Beginn der MRT-Diagnostik.
+Zusammenfassung
+Kein Nachweis eines Perfusionsdefizits in der Regadenoson-Stressuntersuchung. Global normaler systolischer linksventrikuläre Funktion -LRB- LVEF 70% -RRB- . Kein Nachweis einer myokardialen Fibrose.
+
+
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 22/07/2037> -RRB- :
+Koronare 2-Gefäßerkrankung von LAD und LCX ohne interventionsbedürftige Stenosen. Gute LV-Funktion.
+
+Ruhe-EKG vom <[Pseudo] 23/07/2037:>
+Sinusrhythmus, Herzfrequenz 92/min, Linkstyp, PQ 72 ms, QRS 81 ms, QTc 396 ms, R/S-Umschlag zwischen V4/V5, keine signifikanten Kammerendteilveränderungen.
+
+Angiologische Verlaufskontrolle nach Radialispunktion rechts vom <[Pseudo] 23/07/2037:>
+Anamnese:
+Bei der heutigen Vorstellung subjektiv beschwerdefreier Patient. Auf spezifische Nachfrage keine Angabe von Schmerzen, Sensibilitätsstörungen, Parästhesien oder Kraftminderung im Bereich der Punktionsstelle bzw. der rechten Hand.
+Lokalbefund:
+Punktionsstelle reizlos, flächiges Hämatom ca. 4x9 cm im ventralen Aspekt des distalen Unterarmes. Pulse über A. radialis, A. ulnaris und A. brachialis kräftig palpabel.
+Farbduplexsonographie der Gefäße des rechten Unterarms:
+A. radialis im gesamten einsehbaren Verlauf am Unterarm offen und perfundiert darstellbar.
+Kein Hinweis für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle am rechten Handgelenk. In der distalen A. radialis triphasische Flüsse bis 80 cm/s, in der distalen, schlanken A. ulnaris triphasische Flüsse bis 75 cm/s, in der A. brachialis triphasische Flüsse bis 90 cm/s.
+
+Farbduplexsonographie der Nieren vom <[Pseudo] 23/07/2037:>
+
+Nieren beidseits klein -LRB- rechts ca. 92/9m -LRB- VU 104/11 mm -RRB- ; links ca. 95/8mm -LRB- VU 100/12 mm -RRB- -RRB- , gewellte Konturen, PS schmal und deutlich hyperechogen, kein Stau, keine Steine, keine Narben. In der orientierenden FDS Perfusion bds nachweisbar. Homogene arterielle und venöse Perfusion beidseits, regelrechte Spektren, Resistance-Indices mit ca. 0,75 ohne relevante Seitendifferenz Nierenarterien beidseits ohne signifikante Flussbeschleunigung, V max. Arteria renalis rechts abgangsnah 96 cm/sec, links im Bereich des Hilus ca. 75 cm/sec. Keine direkten oder indirekten Hinweise auf eine hämodynamisch relevante Nierenarterienstenose.
+
+Lungenfunktionsprüfung vom <[Pseudo] 23/07/2037:>
+Kapilläre Blutgasanalyse:
+Raumluft: Hypoxie, Hypokapnie, kompensierte respiratorische Alkalose.
+Spirometrie und Bodyplethysmographie:
+Keine Obstruktion der kleinen Atemwege.
+Grenzwertige Obstruktion der großen Atemwege.
+Keine Restriktion. Keine Überblähung.
+CO-Diffusionskapazität: leichtgradig eingeschränkt.
+CO-Transferkoeffizient: leichtgradig eingeschränkt.
+
+
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 23/07/2037:>
+Beidseits hohe Bifurkation, ACI und ACE jeweils nur kurzstreckig einsehbar.
+Rechts leichtgradige Plaquebildung im Bulbusbereich sowie an den Gefäßabgängen, links prominente Plaque am Abgang der A. carotis interna, jeweils ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet. IMD rechts 0,07 cm, links 0,08 cm. Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar. Im Vergleich zum Vorbefund des <[Pseudo] 09/09/2036:> Keine wesentliche Befundänderung
+
+Langzeit-EKG vom B-DATE:
+Tagsüber tachykarder, nachts normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 60/min und 111/min, im Mittel 80/min. Eingeschränkte Herzfrequenzvariabilität.
+Vereinzelte supraventrikuläre Extrasystolen. Keine Pausen. Vereinzelte polymorphe ventrikuläre Extrasystolen, z. T. auch repetitiv mit weitem Kopplungsintervall. Formal Lown III a.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 23/07/2037> und dem <[Pseudo] 24/07/2037>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+10.38 !H
+4 - 10 /nl
+B-DATE
+Hb
+12.0
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.0
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.350 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+B-DATE
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+34
+30 - 36 g/dl
+B-DATE
+RDW
+13.4
+12,9 - 18,7 %
+B-DATE
+hypochr.Erythroz.
+0.3
+0 - 2 %
+B-DATE
+Thrombozyten
+215
+150 - 440 /nl
+B-DATE
+Lympho -LRB- abs. -RRB-
+1.99
+1,0 - 4,8 /nl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Neutroph.G.-abs.
+5.15
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.56
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.11
+- <0,5 /nl
+<[Pseudo] 23/07/37>
+Basoph.G. -LRB- abs -RRB-
+0.01
+- <0,2 /nl
+<[Pseudo] 23/07/37>
+Neutroph.G. -LRB- mech. -RRB-
+64.8
+50 - 80 %
+<[Pseudo] 23/07/37>
+Lympho -LRB- mech. -RRB-
+25.1
+25 - 40 %
+<[Pseudo] 23/07/37>
+Basoph.G.
+0.1
+- <1 %
+<[Pseudo] 23/07/37>
+Monozyten -LRB- mech. -RRB-
+7.0
+2 - 9 %
+<[Pseudo] 23/07/37>
+Eosinoph.G. -LRB- mech. -RRB-
+1.4 !L
+2 - 4 %
+<[Pseudo] 23/07/37>
+BKS 1h
+6
+- <30 mm
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+137
+135 - 146 mmol/l
+<[Pseudo] 24/07/37>
+Kalium -LRB- ISE -RRB-
+4.63
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.39
+2,11 - 2,59 mmol/l
+<[Pseudo] 23/07/37>
+Phosphat
+1.17
+0,84 - 1,45 mmol/l
+<[Pseudo] 23/07/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+1.46 !H
+0,5 - 1,1 mg/dl
+B-DATE
+Harnstoff
+33
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+34.7 !L
+>60 s.u.
+<[Pseudo] 24/07/37>
+MDRD
+51.07
+ml/min/1,73qm
+<[Pseudo] 23/07/37>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Ges.Eiweiss
+60.6
+60 - 80 g/l
+B-DATE
+Albumin quant.
+40.8
+30 - 50 g/l
+B-DATE
+Glucose
+116 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+8
+- <37 U/l
+B-DATE
+GPT/ALT
+15
+- <35 U/l
+B-DATE
+AP
+79
+55 - 105 U/l
+B-DATE
+GGT
+16
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.60
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+6.5 !H
+- <6 mg/dl
+B-DATE
+Triglyceride
+62
+- <150 mg/dl
+<[Pseudo] 23/07/37>
+Cholesterin
+143.0
+- alt.abh. mg/dl
+<[Pseudo] 23/07/37>
+LDL-Chol. -LRB- berechn. -RRB-
+76
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+55
+>50 mg/dl
+<[Pseudo] 23/07/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+p-Amylase
+14
+8 - 53 U/l
+<[Pseudo] 23/07/37>
+Lipase
+20
+19 - 63 U/l
+<[Pseudo] 23/07/37>
+Eisen
+9.2 !L
+12 - 27 µmol/l
+<[Pseudo] 23/07/37>
+Ferritin
+57
+20 - 120 µg/l
+<[Pseudo] 23/07/37>
+Transferrin
+2.11
+2,0 - 3,6 g/l
+<[Pseudo] 23/07/37>
+TFSG
+17
+16 - 45 %
+B-DATE
+CRP
+39.1 !H
+- <5 mg/l
+B-DATE
+IgM
+0.89
+0,4 - 2,3 g/l
+B-DATE
+IgG
+6.02 !L
+7,0 - 16,0 g/l
+B-DATE
+IgA
+0.70
+0,7 - 4,0 g/l
+B-DATE
+Hämolyse
+-
+
+<[Pseudo] 24/07/37>
+ikterisch
+-
+
+<[Pseudo] 24/07/37>
+Lipämie
+-
+
+<[Pseudo] 24/07/37>
+
+
+
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+138
+- <301 U/l
+B-DATE
+CK
+33
+- <170 U/l
+<[Pseudo] 23/07/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+10.2
+- <14 pg/ml
+B-DATE
+NT-BNP
+285
+- <450 ng/l
+<[Pseudo] 23/07/37>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+6.2 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+44 !H
+20 - 42 mmol/mol
+B-DATE
+mittlere Glucose
+131 !H
+- <110 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.220 !L
+0,400 - 4,000 mU/l
+<[Pseudo] 23/07/37>
+FT3
+3.12
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+16.00
+8 - 18 ng/l
+B-DATE
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+97.4
+70 - 125 %
+<[Pseudo] 24/07/37>
+INR - ber.
+1.02
+- <1.2
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+22.4
+- <35 s
+B-DATE
+Fib. -LRB- Clauss -RRB-
+4.17 !H
+1,8 - 3,5 g/l
+<[Pseudo] 24/07/37>
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.41
+7,37 - 7,45
+B-DATE
+pO2
+63
+mmHg
+B-DATE
+pCO2
+33.4 !L
+35 - 45 mmHg
+<[Pseudo] 23/07/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-3.1 !L
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+21.7
+mmol/l
+B-DATE
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte bei instabiler Angina pectoris Beschwerden. Wir konnten einen Progress der koronaren Herzerkrankung mittels Herzkatheteruntersuchung ausschließen. Hierbei zeigte sich eine koronare 2-Gefäßerkrankung ohne höhergradige Stenosen. Aufgrund der weiterhin hypertensiven Blutdruckwerte haben wir die Medikation wie unten aufgeführt angepasst. Zudem haben wir eine Nierenarterienstenose ausgeschlossen.
+
+Unter der veränderten Medikation zeigten sich die Blutdruckwerte im stationären Verlauf normwertig.
+
+Des Weiteren konnten wir eine Myokardischämie mittels Kardio-MRT ausschließen. Auf Grund grenzwertig erhöhter Schilddrüsenwerte haben wir die L-Thyroxin Medikation angepasst und bitten um eine Kontrolle in ca. 3 Wochen.
+
+Auf Grund der Dyspnoe und bei einer diastolischen Herzinsuffizienz haben wir gemäß den Daten von EMPEROR-PRESERVED mit einer Therapie mit Jardiance begonnen. Hier bitten wir um eine Kontrolle der Retentionswerte und Elektrolyte im Verlauf.
+
+Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER mit einem Entlassgewicht von 63,5 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Nächster Termin:
+Der nächste Termin wurde in der kardiologische Privatambulanz für den <[Pseudo] 14/10/2037> um 8 Uhr inkl. pharm. Stressechokardiographie vereinbart. Sollte dieser Termin nicht wahrgenommen werden können, bitten wir um direkte Kontaktaufnahme mit der Privatambulanz unter Tel. B-PHONE PHONE
+
+
+
+
+
+
+
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 300 mg 1-0-0
+Metoprolol 47,5 mg 2-0-1 gesteigert
+Candesartan 16 mg 1-0-1
+Jardiance 10 mg 1-0-0 neu
+Spironolacton 25 mg 1-0-0 gesteigert
+Atorvastatin 40 mg 0-0-0-1 -UNK-
+Ezetimib 10 mg 0-0-1
+Torasemid 5 mg -UNK- -0-0
+Pantozol 40 mg 0-0-1
+L-Thyroxin 50 µg 1-0-0 reduziert
+Symbicort 160/4,5 µg 1-0-1
+Wir empfehlen fettmodifizierte und an tierischen Fetten reduzierte, kalorienkontrollierte Mischkost.
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Facharzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

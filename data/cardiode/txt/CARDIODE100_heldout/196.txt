@@ -1,0 +1,115 @@
+Aufnahmedatum: <[Pseudo] 2037-07-02 >
+Geburtsdatum: <[Pseudo] 1970-01-12 >
+Alter: 67
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 12/01/1970> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+
+Aktuell:
+- Kein Anhalt auf eine Progression der koronaren Herzerkrankung
+- Unauffälliges Belastungs-EKG bis zu 50 Watt -LRB- 62% Ziel-HF -RRB-
+- Echokardiographisch noch gute systolische Pumpfunktion -LRB- LV-EF: 52% -RRB-
+- Ad pharmakologische Stressechokardiographie i.R. der nächsten Kontrolluntersuchung -LRB- Termin wird vom Patienten vereinbart -RRB-
+
+Diagnosen:
+- Koronaren 3-Gefäßerkrankung
+-UNK- Z. n. PTCA/3x-Stentimplantation der LCX; verbliebene ca. 50 %-ige proximale RCA-Stenose sowie LCX-Bifurkationsstenose -LRB- vom <[Pseudo] 02/03/2031> -RRB-
+-UNK- Global leichtgradig eingeschränkte linksventrikuläre Pumpfunktion -LRB- vom <[Pseudo] 02/03/2031> -RRB-
+-UNK- Negativer Ischämienachweis -LRB- Kardio-MRT <[Pseudo] 02/2036> -RRB-
+- COPD GOLD D
+-UNK- Stabile Situation mit schwergradiger obstruktiver Ventilationsstörung -LRB- <[Pseudo] 05/2037> -RRB-
+-UNK- Z. n. Exazerbation und Pneumonie <[Pseudo] 01/2032>
+-UNK- Z.n. Pleuropneumonie re. UL und Pneumonie links <[Pseudo] 01/2032>
+-UNK- Z.n. Pleuraerguss rechts, Z.n. Pleurapunktion am <[Pseudo] 17/03/2032>
+- Z. n. Venenstripping rechts <[Pseudo] 2020> und links <[Pseudo] 2030>
+- Z. n. Appendektomie <[Pseudo] 1988>
+
+CVRF: ehemaliger Nikotinabusus -LRB- bis B-YEAR ca. 60 PY -RRB- , Hyperlipidämie, arterielle Hypertonie
+Allergien/Unverträglichkeiten: Keine bekannt
+
+
+
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Verlaufskontrolle bei bekannter koronarer Herzerkrankung.
+Im Alltag bestehe eine mäßige Belastbarkeit -LRB- 1Etagen Treppensteigen möglich -RRB- ; Bei 2 Etagen Treppensteigen bestehe inadäquate Belastungsdyspnoe -LRB- NYHAII -RRB- . Dies sei stabil seit Jahren. Eine Besserung trete nach Applikation der COPD-Medikation auf. Keine belastungsinduzierten pectanginösen Beschwerden. Pectanginöse Beschwerden in Ruhe, Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestehe Nykturie mit ca. 4-facher Miktion pro Nacht. Periphere Ödeme gelegentlich. Kompressionstherapie würde erfolgen. Hierunter kompensiert. Das Gewicht sei bei intermittierenden Ödemen schwankend -LRB- +/- 1 bis 1,5 kg -RRB- . Die Diuretika werden seitens des Patienten absichtlich abends eingenommen, da eine Nykturie einer Pollakisurie tagsüber vorgezogen würde. Die häuslichen Blutdruckmessungen ergäben Werte um 100-120/50-60 mmHg. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Aktuelle Medikation:
+ASS 100 1-0-0
+Delix 2,5mg -LRB- Ramipril -RRB- 0-1-0
+Beloc zok mite 47,5mg -LRB- Metoprolol -RRB- -UNK- -0-0
+Torem 10mg -LRB- Torasemid -RRB- 0-0-2 bei B. morgens zusätzlich
+Rosuvastatin 20mg 0-0-1
+Tromcardin complex -LRB- Mg/K -RRB- 1-1-0
+Brimica 340/12µg -LRB- Aclidinium/Formoterol -RRB- 1-0-1
+Berodual N 20/50µg -LRB- Ipratropium/Fenoterol -RRB- b. Bedarf -LRB- ca. 2-3x/Tag -RRB-
+Diclofenac b.B
+
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 183 cm 98 kg
+HF: 80 /min, regelmäßig
+RR: 120/60 mmHg
+Keine Zyanose, keine Anämiezeichen, kein Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: bds. Belüftet, inspiratorischesBrummen, exspiratorisches Giemen
+Periphere Ödeme: Knöchelödeme bds.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG <[Pseudo] 02/07/2037:>
+Sinusrhythmus, regelmäßig, 80/min, überdrehter Linkstyp. PQ 171 msec, QRS 149 msec, QTc 434 msec. S-Persistenz bis V6. Vorbekannter bifaszikulärer Block -LRB- LAH+RSB -RRB- mit konsekutiven Kammerendteilveränderung.
+
+Belastungs-EKG vom <[Pseudo] 02/07/2037>
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 50 Watt über 01:00 min. Maximale Frequenz 95/min -LRB- 62 % der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 135 mmHg, diastolisch 70 mmHg. Abbruch wegen Dyspnoe. Keine Angina pectoris. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Bei Nichterreichen der Ausbelastungsfrequenz sowie Rechtsschenkelblock mit konsekutiven Kammerendstreckenveränderungen eingeschränkte Beurteilbarkeit.
+Durchgehend Sinusrhythmus. Vereinzelt VES -LRB- 2 -RRB- . Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck. Keine höhergradigen Herzrhythmusstörungen unter Belastung.
+
+Transthorakale Echokardiographie vom <[Pseudo] 02/07/2037:>
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA, RA und RV normal groß, RV apikal hypertrabekularisiert, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Mitralklappe leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht valide ableitbar. Im Vergleich zur Voruntersuchung vom B-DATE: Keine wesentliche Befundänderung.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Verlaufsuntersuchung bei bekannter koronarer Herzerkrankung. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet bei bekannter Belastungsdyspnoe i.R. der COPD.
+
+Das heute durchgeführte Belastungs-EKG bis 50 Watt ergab, soweit bei Nichterreichen der Ausbelastung beurteilbar -LRB- 62 % der Zielfrequenz -RRB- , weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradige Herzrhythmusstörungen bei jedoch eingeschränkter Beurteilbarkeit bei nicht Erreichen der Ausbelastungsfrequenz sowie vorbestehendem bifaszikulärem Block mit konsekutiven Kammerendteilveränderungen. Echokardiographisch fand sich eine noch gute linksventrikuläre Pumpfunktion ohne relevante Klappenvitien.
+
+In Zusammenschau von Klinik und der apparativen Untersuchungsbefunde sehen wir derzeit keinen Anhalt für einen Progress der bekannten koronaren 3-Gefäßerkrankung.
+
+Bei nicht Erreichen der Ausbelastungsfrequenz in der heutigen Ergometrie empfehlen wir i.R. der nächsten Kontrolluntersuchung eine pharmakologische Stressechokardiographie.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Aktuelle Medikation:
+ASS 100 1-0-0
+Delix 2,5mg -LRB- Ramipril -RRB- 0-1-0
+Beloc zok mite 47,5mg -LRB- Metoprolol -RRB- -UNK- -0-0
+Torem 10mg -LRB- Torasemid -RRB- 0-0-2 bei B. morgens zusätzlich
+Rosuvastatin 20mg 0-0-1 Ziel-LDL <55 mg/dl
+Tromcardin complex -LRB- Mg/K -RRB- 1-1-0
+Brimica 340/12µg -LRB- Aclidinium/Formoterol -RRB- 1-0-1
+Berodual N 20/50µg -LRB- Ipratropium/Fenoterol -RRB- b. Bedarf -LRB- ca. 2-3x/Tag -RRB-
+Diclofenac b.B
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+
+
+
+
+
+
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

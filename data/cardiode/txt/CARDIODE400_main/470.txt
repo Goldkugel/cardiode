@@ -1,0 +1,103 @@
+Aufnahmedatum: <[Pseudo] 2034-01-10 >
+Geburtsdatum: <[Pseudo] 1955-10-24 >
+Alter: 78
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 24/10/1955> wh. B-PLZ B-LOC B-LOC I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kein Anhalt für einen Progress der koronaren Herzerkrankung
+-UNK- Echokardiographisch gute linksventrikuläre Funktion -LRB- LV-EF 60% -RRB-
+-UNK- Leichtgradige Mitralklappeninsuffizienz
+-UNK- Unauffälliges Belastungs-EKG bis zu 75 Watt -LRB- 97% Ziel-Hf -RRB-
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Koronare 1-Gefäßerkrankung der LAD
+-UNK- Negatives Stress-Kardio-MRT -LRB- <[Pseudo] 15/05/2027> -RRB-
+-UNK- Z. n. erfolgreicher PTCA und Stent in die LAD <[Pseudo] 04/2016>
+- Leichtgradige Aortenklappeninsuffizienz -LRB- TTE: <[Pseudo] 10/01/2034> -RRB-
+- Leichtgradige Mitralklappeninsuffizienz -LRB- TTE: <[Pseudo] 10/01/2034> -RRB-
+- Asthma bronchiale, a. e. gemischter Genese
+- Bullöses Pemphigoid -LRB- ED <[Pseudo] 2016> -RRB-
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Dyslipoproteinämie, früherer Nikotinkonsum wird verneint
+Allergien: Ramipril -LRB- Reizhusten -RRB- , Duftstoffe, V. a. Latex-Allergie
+
+Anamnese:
+Die ambulante Vorstellung erfolgte zur kardiologischen Verlaufskontrolle bei bekannter koronarer Herzerkrankung. Im Alltag bestünde eine gute Belastbarkeit ohne inadäquate Belastungsdyspnoe nach 2 Etagen Treppensteigen -LRB- NYHA II -RRB- . Es bestünden keine belastungsabhängigen und -unabhängigen pectanginösen Beschwerden. Gelegentliche Palpitationen seien bereits seit Jahren vorbekannt. In diesem Zusammenhang durchgeführte Langzeit-EKGs seien ohne wegweisenden Befund ausgefallen. Schwindel sowie stattgehabte Synkopen werden auf gezielte Nachfrage verneint. Es bestünde keine Nykturie bei ca. einmaliger Miktion pro Nacht. Periphere Ödeme seien bei Gewichtsabnahme -LRB- -10 kg gewollt -RRB- nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 130/70 mmHg. Aktuell keine Infektzeichen. Subjektiv bestünde seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Aktuelle Medikation:
+ASS 100mg 1-0-0
+Losartan/HCT 100/12.5mg 1-0-0
+Amlodipin 5mg 0-0-1
+Atorvastatin 30mg 0-0-1
+Colecalciferol 20.000 I.E 1/Woche
+Foster 100/6 DA 1-0-1 nach Einnahme Mund ausspülen
+Salbutamol DA 1-2 Hübe bei Bed, bis zu 4x 2 Hübe/d
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 148cm 62 kg
+HF: 74/min, regelmäßig
+RR: 127/63mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kein fokal neurologisches Defizit
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+Pulsstatus: o.p.B.
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, HF 74/min, links-typ. PQ 160ms, QRS 77ms, QTc 398ms. Frühe R-Progression, R/S Umschlag in V1/V2, diskrete S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 75 Watt über 00:43 min. Maximale Frequenz 138/min -LRB- 97% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 158 mmHg, diastolisch 72 mmHg. Abbruch wegen peripherer Ermüdung. Keine Angina pectoris oder inadäquate Dyspnoe. Keine periphere Zyanose.
+
+Beurteilender Abschnitt:
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Wenige VES -LRB- 12 -RRB- . Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck.
+
+Transthorakale Echokardiographie:
+Normal großer, leicht konzentrisch hypertrophierter linker Ventrikel mit global guter Pumpfunktion ohne regionale Kontraktionsstörungen. Hinweis auf Relaxationsstörung des linken Ventrikels. LA, RA und RV normal groß. Gute RV-Funktion. Kein Perikarderguß nachweisbar. Vena cava inferior nicht gestaut.
+Aortenklappe trikuspid, mit guter Separation und weiterhin leichtgradiger Insuffizienz. Leichtgradige
+Trikuspidalinsuffizienz. Leichtgradige Mitralklappeninsuffizienz. Übrige Klappe sonographisch und dopplersonograhisch unauffällig. Der systolische PA-Druck in Ruhe ist im Normbereich -LRB- ca. 22 mmHg -RRB- .
+Im Vergleich zum Vorbefund von <[Pseudo] 08/12/2031:> Leichtgradige Mitralklappeninsuffizienz, ansonsten keine wesentliche Befundänderung.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Verlaufsuntersuchung bei bekannter koronarer Herzerkrankung. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Das Belastungs-EKG bis 75 Watt ergab, weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradigen Herzrhythmusstörungen.
+
+
+
+
+
+Echokardiographisch sahen wir eine gute linksventrikuläre Pumpfunktion ohne regionale Kontraktionsstörungen. Die VCI war nicht gestaut. Eine leichtgradige vorbekannte Aortenklappeninsuffizienz sowie leichtgradige Mitralklappeninsuffizienz. Im Vergleich zum Vorbefund von <[Pseudo] 08/12/2031> sehen wir eine leichtgradige Mitralklappeninsuffizienz ansonsten keine wesentliche Befundänderung.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher die Fortführung der bestehenden medikamentösen Therapie.
+
+Wir empfehlen zudem die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien und nach Möglichkeit die regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten beispielsweise in Form von B-ORG I-ORG Radfahren, Schwimmen, Tanzen oder Ergometertraining.
+
+In 24 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen, sowie die regelmäßige hausärztliche Vorstellung. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin wiederzusehen - in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung:
+ASS 100mg 1-0-0
+Losartan/HCT 100/12.5mg 1-0-0 -LRB- bitte regelm. Elektrolyt- und Kreatininkontrolle -RRB-
+Amlodipin 5mg 0-0-1
+Atorvastatin 30mg 0-0-1 Ziel-LDL <55mg/dl
+Colecalciferol 20.000 I.E 1/Woche
+Foster 100/6 DA 1-0-1 nach Einnahme Mund ausspülen
+Salbutamol DA 1-2 Hübe bei Bed, bis zu 4x 2 Hübe/d
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen,
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

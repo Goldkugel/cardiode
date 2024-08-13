@@ -1,0 +1,350 @@
+Aufnahmedatum: <[Pseudo] 2034-10-25 >
+Geburtsdatum: <[Pseudo] 1998-02-02 >
+Alter: 36
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 02/02/1998> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- V.a. rhythmogene Synkope
+-UNK- Langzeit-EKG mit durchgehendem Sinusrhythmus ohne höhergradige Herzrhythmusstörungen oder Pausen
+-UNK- Unauffällige Kipptisch-Untersuchung
+-UNK- Unauffällige elektrophysiologische Untersuchung
+-UNK- Laut neurologischem Konsil a. e. von einer kardialen Genese der Beschwerden auszugehen
+-UNK- cMRT Im Verlauf empfohlen
+- Erstdiagnose Vorhofflimmern
+-UNK- EHRA II
+-UNK- CHA2DS2 VASc: 2
+-UNK- HAS BLED: 1
+-UNK- Spontankonversion am <[Pseudo] 18/10/2034>
+- Echokardiographisch gute biventrikuläre Pumpfunktion ohne relevante Klappenvitien
+- Negativer bildgebender Ischämienachweis -LRB- Stress-Echokardiographie vom <[Pseudo] 18/10/2034> -RRB-
+
+Diagnosen:
+- Hypothyreose
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus, Adipositas, positive Familienanamnese, Nikotinanamnese: früher, Packyears: 5.
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- ORG -RRB- als Verbringung durch den Notarzt bei Zustand nach Synkope und thorakalen Beschwerden. Anamnestisch heute um 4 Uhr morgens nach dem Aufstehen kaltschweißig gewesen und Palpitationen verspürt. Auf der Arbeit um kurz vor 8 Uhr ein thorakales Druckgefühl verspürt sowie ebenfalls Palpitationen. Anschließend kann er sich nicht mehr erinnern, was passiert ist. Er sei jedoch beobachtet 4 Minuten bewusstlos gewesen. Hierbei sei er von einem B-SALUTE aufgefangen worden. Keine Traumafolgen. In den Tagen zuvor keine typische Angina pectoris oder inadäquate Belastungsdyspnoe. Kein Schwindel, keine Synkope. Keine Palpitationen. Kein Hinweis auf einen akuten Infekt. Häusliche Blutdruckmessungen werden nicht durchgeführt.
+
+Medikation bei Aufnahme:
+Ramipril 2,5 mg 1-0-0
+Thyronajod 50 ug 1-0-0
+Metformin 1000 mg 1-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: adipös
+EZ: gut
+HF: 105/min, regelmäßig
+RR: 110/70 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme -LRB- Chest-Pain-Unit -RRB- :
+Rhythmus: Vorhofflimmern, Herzfrequenz: 105/min, Lagetyp: Linkstyp, QRS-Komplex: normal, T-Welle:
+normal.
+
+Transthorakale Echokardiographie vom <[Pseudo] 18/10/2034:>
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LVFunktion. LA elongiert, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens leicht verbreitert -LRB- 32mm -RRB- . Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, zart. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht ableitbar. Erstbefund in domo.
+
+Dynamische Stress-Echokardiographie vom <[Pseudo] 18/10/2034:>
+Dynamische Belastung auf dem Liegendergometer bis 225 Watt -LRB- 11,2 METs -RRB- komplikationslos durchgeführt. Abbruch wegen peripherer Erschöpfung und Gonalgien rechts. Herzfrequenzanstieg von 72 /min bis 162 /min -LRB- 88 % der max. erwarteten Herzfrequenz -RRB- , Blutdruckanstieg von 124/90 mmHg bis 214/90 mmHg -LRB- DP =32314 -RRB- . Das gleichzeitig aufgezeichnete Belastungs-EKG ist unauffällig. Gute Zunahme der Kontraktilität aller Wandsegmente des linken Ventrikels. Systolischer PA-Druck in Ruhe und unter Belastung bei fehlender Trikuspidalklappeninsuffizienz nicht ableitbar.
+Zusammenfassung: Negatives Stress-Echokardiogramm, negatives Belastungs-EKG, negative Klinik.
+Erstbefund in domo.
+
+Langzeit-EKG vom B-DATE - B-DATE
+Tagsüber normofrequenter,nachts bradykarder Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 42/min und 129/min,im Mittel 61/min. Normale Herzfrequenzvariabilität. Vereinzelte supraventrikuläre Extrasystolen, z.T. auch repetitiv. Keine Pausen. Vereinzelte polymorphe ventrikuläre Extrasystolen. 1 Couplet. Formal Lown IV a.
+
+Neurologisches Konsil vom <[Pseudo] 19/10/2034:>
+ANAMNESE:
+B-SALUTE B-PER berichtet, am Sonntag morgens gegen 4:00 Uhr mit Schweißausbrüchen und Herzrasen erwacht zu sein. Er habe sich dann nochmals hingelegt, nach dem erneuten Erwachen 2 h später immer wieder Palpitationen bemerkt zu haben. Er sei dennoch zur Arbeit gegangen und gegen 8:00 Uhr bei seiner Arbeit als Sanitäter erneut ein thorakales Druckgefühl, sowie AP-Beschwerden bemerkt zu haben. Ihm sei schwindelig geworden und er sei in sich zusammengesackt.
+Ein Kollege habe ihn dann auch den Boden gelegt und ein EKG geschrieben. Dies sei arrhythymisch gewesen. Der Kollege habe berichtet, er sei schlapp in sich zusammengesackt. Er habe mich geschlossenen Augen auf dem Boden gelegen. Weder eine tonische Komponente noch Entäußerungen seien beobachtet worden. Kein Einnässen, ein Zungenbiss.
+Er sei nach wenigen Minuten wieder zu sich gekommen, sei rasch orientiert gewesen, habe alle B-SALUTE erkannt, die um ihn gestanden haben. Er sei dann ins Krankenhaus gebracht worden, wo die ED eines VHF gestellt worden sei.
+UNTERSUCHUNGSBEFUND:
+Wach, bewusstseinsklar, zu allen Qualitäten orientiert. Kein Meningismus, kein Kalottenklopfschmerz. Keine Auffälligkeiten der Hirnnerven. Keine manifesten oder latenten Paresen. Muskeleigenreflexe der oberen Extremität linksbetont, der unteren seitengleich mittellebhaft auslösbar. Keine Pyramidenbahnzeichen. Sensibilität zu allen Qualitäten regelrecht. Keine Tonusauffälligkeiten. Zeigeversuche sicher und zügig. Eudiadochokinese. Stand und Gang regelrecht.
+BEURTEILUNG und EMPFEHLUNG:
+Zusammenfassend ist aufgrund der beschriebenen Symptome a. e. von einer kardialen Genese der Beschwerden auszugehen. Ggf. kann aufgrund der Vorgeschichte eine EEG-Untersuchung ergänzt werden.
+Auch B-SALUTE B-PER jedoch berichtet, dass für ihn in diesem Moment die kardiale Symptomatik eindrücklich gewesen sei und er subjektiv keine Ähnlichkeit zu den stattgehabten epileptischen Ereignissen sehe.
+Aufgrund der fraglich längeren Bewusstlosigkeit und der aktuelle Reflexauffälligkeiten, empfehlen wir jedoch ergänzend im Verlauf eine cMRT -LRB- incl. TOF-Angio -RRB- durchzuführen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 21/10/2034:>
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Elektrophysiologische Untersuchung -LRB- B-OTHER vom <[Pseudo] 21/10/2034> -RRB- :
+Befund folgt im endgültigen Brief.
+
+Transthorakale Echokardiographie vom <[Pseudo] 22/10/2034:>
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Ruhe-EKG bei Entlassung:
+Befund folgt im endgültigen Brief.
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- ORG -RRB- als Verbringung durch den Notarzt bei Zustand nach Synkope und thorakalen Beschwerden.
+
+Seit der Aufnahme war der Patient im Wesentlichen asymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 6,2 pg/ml, im Verlauf stabil 5,8 pg/ml und 6,06 pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig -RRB- . Das NT-pro-BNP fand sich altersadjustiert im Normbereich. Eine Lungenarterienembolie/TVT/Dissektion der großen Gefäße schien klinisch -LRB- gute Sättigung unter RL, normofrequent, negative TVT Zeichen, Wells Score 0 -RRB- und laborchemisch -LRB- D-Dimer 0,24mg/l -RRB- unwahrscheinlich.
+
+In der ersten Nacht des stationären Aufenthalts kam es zu einer Spontankonversion des Vorhofflimmerns in den Sinusrhythmus.
+
+Echokardiographisch zeigte sich eine gute biventrikuläre Pumpfunktion ohne relevante Klappenvitien.
+
+Bei thorakalen Beschwerden kurz vor der Synkope sowie ausgeprägtem kardiovaskulärem Risikoprofil erfolgte eine Stress-Echokardiographie, welche einen negativen Ischämienachweis erbrachte.
+
+Es erfolgte eine weiterführende Synkopenabklärung. Ein Langzeit-EKG zeigte einen durchgehenden Sinusrhythmus ohne höhergradigen Herzrhythmusstörungen oder Pausen. Eine Kipptischuntersuchung zeigte sich unauffällig. Weiterhin erfolgte eine konsiliarische Mitbeurteilung des Patienten durch die B-SALUTE der Neurologie, laut derer aufgrund der beschriebenen Symptome a. e. von einer kardialen Genese der Beschwerden auszugehen sei. Von einer EEG-Untersuchung wurde entsprechend vorerst abgesehen, wir empfehlen jedoch die Durchführung einer cMRT-Untersuchung im Verlauf.
+
+Eine elektrophysiologische Untersuchung zeigte einen unauffälligen Untersuchungsbefund.
+
+Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Bei weiterhin unklarer Ursache der Synkope empfehlen wir eine weitere Abklärung mittels Durchführung mehrerer 7-Tage-Langzeit-EKGs. Nach Durchführung kann gerne eine Wiedervorstellung über unsere B-ORG I-ORG erfolgen. Ein Termin hierfür kann unter der Telefonnummer B-PHONE ausgemacht werden. Sollten die Langzeit-EKGs keinen wegweisenden Befund erbringen, könnte die Möglichkeit der Implantation eines Eventrecorders diskutiert werden.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien, eine absolute Nikotinkarenz sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir regelmäßige kardiologische Kontrolluntersuchung, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+Nächster Termin/Prozedere:
+- Regelmäßige Kontrollen von Gewicht, Blutdruck, Elektrolyten und Retentionsparametern und ggf. eine Anpassung der medikamentösen Therapieeinstellung
+- Durchführung mehrerer 7-Tage-Langzeit-EKGs im niedergelassenen Bereich
+- Im Anschluss Wiedervorstellung über unsere B-ORG Ambulanz
+
+Therapieempfehlung:
+Lixiana 60 mg 1-0-0 neu
+Ramipril 2,5 mg 1-0-0
+Atorvastatin 20 mg 0-0-1 neu, unter Kontrollen von CK und Leberwerten
+Sialofor 1000 mg 1-0-1
+Thyronajod 50 ug 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsärztin
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+
+
+
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2034>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.09
+4 - 10 /nl
+B-DATE
+Hb
+14.5
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.1
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.420
+0,38 - 0,52 l/l
+B-DATE
+MCV
+82 !L
+83 - 97 fl
+<[Pseudo] 17/10/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+28
+27 - 33 pg
+<[Pseudo] 17/10/34>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 17/10/34>
+RDW
+15.5
+12,9 - 18,7 %
+<[Pseudo] 17/10/34>
+hypochr.Erythroz.
+0.4
+0 - 2 %
+<[Pseudo] 17/10/34>
+Thrombozyten
+248
+150 - 440 /nl
+<[Pseudo] 17/10/34>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 17/10/34>
+Kalium -LRB- ISE -RRB-
+4.35
+3,4 - 4,6 mmol/l
+<[Pseudo] 17/10/34>
+Kreatinin
+0.75
+0,6 - 1,2 mg/dl
+<[Pseudo] 17/10/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+34
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+118.0
+>60 s.u.
+<[Pseudo] 17/10/34>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+104
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+19
+- <46 U/l
+B-DATE
+GPT/ALT
+23
+- <50 U/l
+<[Pseudo] 17/10/34>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 17/10/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 17/10/34>
+ikterisch
+-
+
+<[Pseudo] 17/10/34>
+Lipämie
+-
+
+<[Pseudo] 17/10/34>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+196
+- <316 U/l
+B-DATE
+CK
+262 !H
+- <190 U/l
+<[Pseudo] 17/10/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+137 !H
+- <125 ng/l
+<[Pseudo] 17/10/34>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.30
+0,400 - 4,000 mU/l
+<[Pseudo] 17/10/34>
+FT3
+3.37
+2,0 - 4,2 ng/l
+<[Pseudo] 17/10/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+FT4
+11.77
+8 - 18 ng/l
+<[Pseudo] 17/10/34>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+96.8
+70 - 125 %
+<[Pseudo] 17/10/34>
+INR - ber.
+1.03
+- <1.2
+<[Pseudo] 17/10/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+D-Dimer -LRB- neu -RRB-
+0.24
+- <0,5 mg/l
+B-DATE

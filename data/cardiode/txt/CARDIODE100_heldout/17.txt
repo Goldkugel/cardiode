@@ -1,0 +1,82 @@
+Aufnahmedatum: <[Pseudo] 2040-07-27 >
+Geburtsdatum: <[Pseudo] 1977-08-25 >
+Alter: 62
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 25/08/1977> wh. B-PLZ B-LOC I-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Atypischer Abgang der RCA aus dem linkskoronaren Aortensinus mit interarteriellem Verlauf und höhergradiger Lumeneinengung -LRB- Kardio-CT vom <[Pseudo] 13/07/2040> -RRB-
+-UNK- Ad dynamische Stress-Echokardiographie am <[Pseudo] 10/08/2040> um 11:00 Uhr
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung
+-UNK- Z.n. NSTEMI am <[Pseudo] 18/01/2040> mit PTCA/2fach DE-Stentimplantation -LRB- Promus -RRB- der LAD bei subtotalem Verschluss der mittleren LAD, hochgradige ostiale RCA-Stenose, atypischer RCA-Abgang aus dem linken Koronarostium -LRB- B-OTHER vom <[Pseudo] 18/01/2040> -RRB-
+- Z.n. Hirnstamminfarkt mit Demarkation PICA Areal links periinterventionell im Rahmen einer Koronarangiografie am <[Pseudo] 16/01/2040> extern
+-UNK- Fazialisparese li. und einseitige Hörminderung / Taubheit
+- Z.n. SAB mit Clipping eines Aneurysmas -LRB- <[Pseudo] 2018> B-ORG I-ORG -RRB-
+- Sigmadivertikulose
+- Axiale Hiatushernie
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Diabetes mellitus Typ 2, Hypercholesternämie, Ex-Nikotinkonsum -LRB- karent seit B-YEAR 20py -RRB- , Adipositas -LRB- BMI 35,3 kg/m² -RRB- .
+Allergien/Unverträglichkeiten: Keine bekannt.
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur Kardio-CT Befundbesprechung bei Vd.a. atypischen RCA-Abgang im Rahmen der Herzkatheteruntersuchung B-YEAR Im Alltag bestehe eine deutlich eingeschränkte körperliche Belastbarkeit. Bei -UNK- Etage Treppensteigen bestehe inadäquate Belastungsdyspnoe -LRB- NYHA III -RRB- , jedoch keine belastungsinduzierten pectanginösen Beschwerden. Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestehe Nykturie mit ca. 3-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen.
+
+Bisherige Medikation:
+ASS 100 mg 1-0-0, dauerhaft
+Ticagrelor 90 mg 1-0-1, für 12 Monate, bis <[Pseudo] 17/01/2041>
+Bisoprolol 2,5mg 0,5-0-0
+Candesartan 8mg 1-0-1
+Ramipril 5mg 1-0-0
+Atorvastatin 40 mg 0-0-1
+Pantoprazol 40 mg 1-0-0
+Metformin 500mg 1-0-1
+
+Körperlicher Untersuchungsbefund:
+Guter AZ. Größe: 1,64m, Gewicht: 95kg, -LRB- BMI 35kg/m² -RRB- . RR 130/80mmHg. Cor: reine Herztöne, keine pathol. Geräusche. Pulmo: beidseits vesikuläres Atemgeräusch, keine Nebengeräusche. Keine peripheren Ödeme.
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 78/min, Steiltyp. PQ 154ms, QRS 88ms, QTc 409ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Kardio-CT vom <[Pseudo] 13/07/2040:>
+- Nachweis einer koronaren Eingefäßerkrankung der LAD mit Z.n. PTCA/Stentimplatantion.
+- Atypischer Abgang der RCA aus dem linkskoronaren Aortensinus mit interarteriellem Verlauf und höhergradiger Lumeneinengunge. Zudem acute angle take-off, slit-like orifice und Abgang des Hauptstamms sowie der RCA kranial des Aortenbulbus -LRB- <1 cm -RRB- .
+- Nebenbefunde:
+-UNK- Soweit erfasst, keine suspekten Rundherde oder pneumonischen Infiltrate. Kein Pneumothorax. Kein Pleuraerguss. Kein Perikarderguss. LK ohne pathologische Vergrößerung.
+-UNK- Miterfasste Anteile des Oberbauchs unauffällig, soweit in arterieller Phase beurteilbar.
+-UNK- Unauffällige Darstellung der großen Gefäße soweit abgebildet.
+-UNK- Degenerative Skelettveränderungen in altersentsprechendem Umfang.:
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgt zur Kardio-CT Befundbesprechung bei Vd.a. atypischen RCA-Abgang im Rahmen der Herzkatheteruntersuchung B-MONTH B-YEAR
+
+Im Kardio-CT vom <[Pseudo] 13/07/2040> fand sich ein atypischer Abgang der RCA aus dem linkskoronaren Aortensinus mit interarteriellem Verlauf und höhergradiger Lumeneinengung. Zur Bewertung einer hämodynamischen Relevanz dieser Gefäßanomalie empfehlen wir eine dynamische Stress-Echokardiographie. Ein Termin für diese Untersuchung wurde bereits für den <[Pseudo] 10/08/2040> um 11:00 Uhr in unserer B-ORG Ambulanz vereinbart. Wir bitten um das Mitbringen eines aktuellen Überweisungsscheins.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie.
+
+Wir empfehlen regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung von kardiologischer Seite:
+Aut idem
+ASS 100 mg 1-0-0 -LRB- dauerhaft -RRB-
+Ticagrelor 90 mg 1-0-1 -LRB- bis <[Pseudo] 17/01/2041> -RRB-
+Bisoprolol 2,5mg 0,5-0-0
+Candesartan 8mg 1-0-1
+Ramipril 5mg 1-0-0
+Atorvastatin 40 mg 0-0-1 -LRB- Ziel-LDL < 55mg/dl -RRB-
+Metformin 500mg 1-0-1
+Pantoprazol 40 mg 1-0-0
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

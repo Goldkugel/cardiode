@@ -1,0 +1,655 @@
+Aufnahmedatum: <[Pseudo] 2032-12-20 >
+Geburtsdatum: <[Pseudo] 1958-10-15 >
+Alter: 74
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 15/10/1958> wohnhaft in B-PLZ B-LOC I-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+
+- Koronare Herzerkrankung ohne höhergradige Stenosen -LRB- HK Nr. B-DATE I-DATE I-DATE v. <[Pseudo] 01/12/2032> -RRB-
+-UNK- Erhöhte Drücke im kleinen Kreislauf -LRB- 48/24/34 mmHg -RRB-
+-UNK- PCWP bei deutlicher RV Dilatation nicht messbar aus technischen Gründen
+-UNK- Ventrikularisierte RA Drücke.
+-UNK- ZVD 14 mmHg
+-UNK- Regelrechte Bewegung der Aortenklappenprothese
+
+- Postinterventionell muskuläres Hämatom des M. gastrocnemius rechts mit Kompartement- Syndrom und operativer Hämatom-Ausräumung am <[Pseudo] 09/12/2032> -LRB- a.e. Spontanhämatom bei Antikoagulation -RRB-
+-UNK- Intermittierend Nierenversagen im Sinne einer Crush-Nephropathie und Beginn einer Ursalith-Therapie
+-UNK- Restitutio ad integrum
+
+- Echokardiographisch noch gute systolische Pumpfunktion -LRB- <[Pseudo] 09/09/2032> -RRB-
+-UNK- Transösophageale Echokardiographie -LRB- <[Pseudo] 09/09/2032> -RRB-
+-UNK- Schwere Trikuspidalklappeninsuffizienz
+-UNK- Weiterhin mittelgradige Mitralinsuffizienz
+
+
+
+- Nitrit positiver Harnwegsinfekt
+-UNK- Fosfomycin Gabe
+-UNK- Cefotaxim v. <[Pseudo] 09/12/32> - <[Pseudo] 12/12/2032>
+
+Diagnosen:
+- Hochgradige Trikuspidalinsuffizienz bei pulmonal-arterieller Hypertonie
+-UNK- Rechtsherzkatheteruntersuchung v. <[Pseudo] 30/10/2028> -LRB- HK-Nr. B-OTHER -RRB- :
+-UNK- Erhöhte Drücke im kleinen Kreislauf -LRB- 40/20/29 mmHg -RRB-
+-UNK- PCWP: 16mmHg. Cardiac-Index: 2,3 l/min/m2.
+
+- Z.n. mechanischem Aortenklappenersatz <[Pseudo] 09/2027> bei low gradient Aortenklappenstenose
+-UNK- Z.n. Endokarditits ohne Erregernachweis <[Pseudo] 09/2027>
+
+- Permanentes Vorhofflimmern
+-UNK- Z.n. Katheter-Ablation
+
+- Höhergradige Niereninsuffizienz G4, A2 -LRB- KDIGO <[Pseudo] 2023> -RRB- bei
+-UNK- diskreten Zeichen einer renoparenchymatösen Schädigung
+-UNK- kardiorenal bei rechtskardialer Insuffizienz bei hochradiger TI
+-UNK- renale Sekundärerkrankungen: Anämie, sek. Hyperparathyreoidismus
+-UNK- hypochlorämische metabolische Alkalose unter Diuretikatherapie
+
+- Z.n. Grand mal Anfälle in den 1980er Jahren, Carbamazepintherapie
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesternämie
+Allergien/Unverträglichkeiten: V.a.Penicillin -LRB- Hautausschlag -RRB-
+
+Anamnese:
+Die Aufnahme erfolgte zur Herzkatheteruntersuchung und Tri-Clip bei hochgradiger Trikuspidalinsuffizienz und mittelgradiger Mitralinsuffizienz. Auf spezifische Nachfrage wurden keine Angina pectoris Symptomatik, leichter Belastungsdyspnoe -LRB- 2 Etagen, NYHA II -RRB- , Nykturie -LRB- 1x tgl. -RRB- , kein Schwindel, keine Synkope, seltene Palpitationen, medikamentös eingestelltes Vorhofflimmern bei Z.n. Katheterablation, kein Hinweis auf einen akuten Infekt -LRB- Kein Husten, kein Schnupfen, kein Brennen beim Wasserlassen, kein Fieber, kein Durchfall, keine Übelkeit, kein Erbrechen -RRB- angegeben. Aktuell habe die Patientin das Marcumar pausiert und gestern Abend sowie heute Morgen keine s.c. Antikoagulation verabreicht.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 172cm, Gewicht: 78kg -RRB-
+HF: 76 /min
+RR: mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.p.B.
+HT: Herzaktion arrhythmisch, mechanische Aortenklappe
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Abdomen: weich, kein DS, keine Resist.
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse gut tastbar
+Neurol. Status: orientierend o.p.B.
+sonstige Auffälligkeiten: keine
+
+Aufnahme-EKG vom <[Pseudo] 01/12/2032:>
+Arrhythmisch bei bekanntem Vorhofflimmern, HF 76 /min, Indifferenztyp. QRS 98 ms, QT/QTc 414/444 ms. Regelrechte R-Progression, R/S Umschlag in V3/V4.
+
+Ruhe-EKG vom <[Pseudo] 02/12/2032:>
+Normofrequentes Vorhofflimmern, HF 79 /min, Indifferenztyp. QRS 98 ms, QT/QTc 473/508 ms. Regelrechte R-Progression, R/S Umschlag in V3/V4.
+
+
+Herzkatheterbefund -LRB- B-OTHER vom <[Pseudo] 01/12/2032> -RRB- :
+Myokardbiopsie bei Z.n. HTX:
+
+Komplikationslose Entnahme von 5 rechtsventrikulären Endomyokardbiopsien. Ausschluss Perikarderguss erfolgte.
+
+Sonstige Diagnosen:
+Z.n. HTX am <[Pseudo] 27/10/2032> bei hered. ATTR-Amyloidose, IS: Tac+MMF+Kortison; Z.n. Apoplex; Z.n. Poplitea-Verschluss bds. thrombembol. bei VHF B-DATE; RA; CTS-Op. bds; CVRF: pos FA f. Amyloidose.
+Maßnahmen:
+
+1 -RRB- PE-Ausschluss wiederholen.
+2 -RRB- Biopsieergebnis sichten und werten.
+3 -RRB- Nach Maßgabe HTX-Team.
+
+Lungenfunktionsprüfung vom <[Pseudo] 02/12/2032:>
+Spirometrie: der peripheren Atemwege
+Reduzierte VC, a.e. einer leichtgradigen Restriktion entsprechend.
+Eine reduzierte VC kann eine Obstruktion maskieren.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 02/12/2032:>
+Rechts noch leichtgradige, links leichtgradige Plaquebildungen im Bulbusbereich -LRB- rechts auch ausgeprägt in der ACC -RRB- sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet. IMD rechts 0,09 cm, links 0,09 cm. Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar. Erstbefund in domo.
+
+Lungenfunktionsprüfung vom <[Pseudo] 01/12/2032:>
+Spirometrie: der peripheren Atemwege
+Reduzierte VC, a.e. einer leichtgradigen Restriktion entsprechend.
+Eine reduzierte VC kann eine Obstruktion maskieren.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 02/12/2032:>
+Rechts noch leichtgradige, links leichtgradige Plaquebildungen im Bulbusbereich -LRB- rechts auch ausgeprägt in der ACC -RRB- sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet.
+IMD rechts 0,09 cm, links 0,09 cm.
+Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar.
+Erstbefund in domo.
+
+Farbduplexsonographie der Gefäße der rechten Leiste vom <[Pseudo] 05/12/2032:>
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Nachweis eines ausgeprägten, diffu verteiltem Hämatom in der rechten Leiste, Oberschenkel und dorsales Knie. Umfangsvermehrung des rechten Beins.
+Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+Procedere:
+- Schmerztherapie
+- Bein wickeln
+
+Konsiliarbericht Gefäßchirurgie vom <[Pseudo] 06/12/2032:>
+Diagnose:
+Spontanes Hämatom dorsaler Unterschenkel, Hämatom Leiste rechts
+Seit Donnerstag zunehmendes Hämatom US rechts und Leiste rechts. Bis heute Mittag keine Wickelung. Vorstellung mit Frage nach gefäßchir. Handlungsbedarf.
+Befund:
+Schwellung des Unterschenkels rechts, leicht druckschmerzempfindlich, Sprunggelenk frei beweglich, Sensomotorik vollständig intakt, Fußpulse tastbar
+Therapie:
+Wickelung mit Watte und braunen Binden. Hochlagern. Wiedervorstellung bei Problemen oder neuen Aspekten.
+
+Fragestellung: FDS Kontrolle bei V.a. Aneurysma spurium vom <[Pseudo] 06/12/2032:>
+Anamnese: Seit Herzkatheteruntersuchung Schmerzen der rechten Leiste, dort nun etwas besser werdend, seit gestern jedoch Schwellung und Schmerzen des rechten dorsalen Unterschenkels. Auf gezielte Nachfrage keine Parästhesien, keine Kraftminderung.
+
+Lokalbefund: Großes zum medialen Oberschenkel auslaufendes Hämtom ausgehend von der Punktionsstelle der rechten Leiste mit Druckdolenz. Weiterhin zweites großes Hämatom der proximalen dorsalen Wade mit Schwellung, Druckschmerz und Überwärmung der rechten Wade. Rechter Fuß leicht kühler wie linker mit verzögerter Rekapillarisierungszeit.
+Farbduplexsonographie der Gefäße der rechten Leiste und Bein:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden. Nachweis eines ausgeprägten, diffus verteiltem Hämatom in der rechten Leiste bis mittlerer Oberschenkel ohne Anhalt auf eine aktive Perfusion.
+Weiterhin Nachweis eines großen Hämatoms -LRB- max. 6x4,5cm -RRB- überwiegend organisiert dorsal des Tr. tibiofibularis im Bereich der Muskelloge des M. gastrocnemius rechts. Farbduplexsonographisch besteht der V.a. einen a.e. venösen Sickerfluss zum Hämatom ziehend, sowie kleine perfundierte Anteile im Hämatom.
+Es erfolgte eine manuelle Kompression über 10 Minuten sowie Druckverbandanlage.
+Procedere:
+Umgehende chirurgische Vorstellung bei V.a. Kompartmentsyndrom -LRB- Stationsarzt informiert -RRB- .
+
+Fragestellung: FDS Kontrolle bei Hämatom vom <[Pseudo] 07/12/2032:>
+Anamnese: Verlaufskontrolle bei Hämatom des M. gastrocnemius rechts. Gestern chirurgische Vorstellung, konsiliarisch kein Anhalt für Kompartment. Seit gestern leichte Besserung der Schmerzen, weiterhin erhaltene Sensibilität und Kraft.
+Lokalbefund: Unverändert großes Hämatom der proximalen dorsalen Wade mit Schwellung, Druckschmerz und Überwärmung der rechten Wade zum Fuß auslaufend. Beide Füße gleich warm ATA/ATP bds. tastbar.
+Farbduplexsonographie der Gefäße der rechten Leiste und Bein:
+Nachweis eines großen Hämatoms -LRB- max. 6x5cm -RRB- ausgehend von der Kniekehle nach kaudal im Bereich der Muskelloge des M. gastrocnemius rechts. Farbduplexsonographisch kein sicherer Anhalt für eine aktive Blutung, eine Sickerblutung kann nicht ausgeschlossen werden.
+Procedere:
+Weiterführung Kompression.
+Laborkontrolle CK und Laktat.
+Engmaschige klinische Kontrollen pDMS, bei Befundverschlechterung Wiedervorstellung.
+
+Ruhe-EKG vom <[Pseudo] 08/12/2032:>
+Normofrequentes Vorhofflimmern, HF 91 /min, Indifferenztyp. QRS 94 ms, QT/QTc 415/464 ms. Regelrechte R-Progression, R/S Umschlag in V3/V4.
+
+Konsiliarbericht Gefäßchirurgie vom <[Pseudo] 08/12/2032:>
+Diagnose:
+Blandes oberflächliches Hämatom im Leisten- und Oberschenkelbereich rechts unter Vollheparinisierung bei mechanischem Aortenklappenersatz
+Weiteres Hämatom in Wade rechts -LRB- 5 x 6 cm -RRB- wobei DMS o.B:
+Befund:
+-LRB- s.o. -RRB-
+Die Patientin gibt auf Nachfrage keine Sensibilitätsstörungen an.
+ADP rechts kräftig und ATP schwach palpabel.
+CK 311 U/l
+Therapie:
+Konservativ mit elastischer Wickelung des gesamten rechten Beines auf Wattepolsterung und Hochlagern des rechten Beines.
+CK-Verlaufskontrolle erbeten
+Verlaufskontrolle des US-Umfangs erbeten
+Bei Auftreten von Sensibilitätsstörungen im rechten Bein sofortige Kontaktaufnahme mit der Gefäßchirurgie erbeten.
+
+
+Fragestellung: FDS Kontrolle bei Hämatom vom <[Pseudo] 08/12/2032:>
+Anamnese: Verlaufskontrolle bei Hämatom des M. gastrocnemius rechts. Am B-DATE chirurgische Vorstellung, konsiliarisch kein Anhalt für Kompartment. Seit heute jedoch wieder Zunahme der Schmerzen sowie steigende CK, LDH und CRP, weiterhin erhaltene Sensibilität und Kraft.
+
+Lokalbefund: Unverändert großes Hämatom der proximalen dorsalen Wade mit Schwellung, Druckschmerz und Überwärmung der rechten Wade zum Fuß auslaufend. Beide Füße gleich warm ATA/ATP bds. tastbar jedoch heute rechts schwächer als links.
+
+Farbduplexsonographie der Gefäße der rechten Leiste und Bein:
+Nachweis eines großen Hämatoms -LRB- max. 6,5x5cm -RRB- ausgehend von der Kniekehle nach kaudal im Bereich der Muskelloge des M. gastrocnemius rechts. Farbduplexsonographisch kein sicherer Anhalt für eine aktive Blutung, eine Sickerblutung kann NICHT ausgeschlossen werden.
+Procedere:
+
+- Aufgrund klinischer und laborchemischer Verschlechterung erneute chirurgische Vorstellung
+- Weiterführung Kompression.
+- Laborkontrolle CK und Laktat.
+- Engmaschige klinische Kontrollen pDMS, bei Befundverschlechterung Wiedervorstellung.
+
+Konsiliarbericht Gefäßchirurgie vom <[Pseudo] 09/12/2032:>
+Diagnose:
+Unterschenkelhämatom ca. 6cm Durchmesser
+Befund:
+Bekanntes Hämatom am prox. Unterschenkel rechts, leicht überwärmt, Wadenmuskulatur dorsal prall, druckschmerzempfindlich. Unterschenkel im Umfang im Verlauf zunehmend. Bein gewickelt. Sensomotorik vollständig intakt, OSG schmerzfrei beweglich,. Fußpulse tastbar. Aktuell Antibiose bei Nitrit+ HWI
+Therapie:
+In RS B-TITLE B-PER Indikation zur Hämatomausräumung, Pat. gemeldet im OP, Aufklärung chir. Erfolgt, Prämed erfolgt, 2 EKs bereit in Blutbank, OP unter Heparinperfusor bei mech. Mitralklappe -LRB- in RS B-PER, Kardiologie -RRB- . Pat. nüchtern, auf Abruf in OP.
+
+Fragestellung: FDS Kontrolle nach Hämatomausräumung vom <[Pseudo] 13/12/2032:>
+Anamnese: Verlaufskontrolle nach Hämatomausräumung des M. gastrocnemius rechts am <[Pseudo] 09/12/2032> 2 Redon-Drainagen noch einliegend. Seither kaum Schmerzen der rechten Wade, keine Sensibilitätsstörung, keine Kraftminderung.
+Lokalbefund: Oberflächliches großflächiges Hämatom, proximal kein tiefes Hämatom mehr tastbar, in distaler dorsaler Wade noch Verhärtung tastbar. Beide Füße gleich warm ATA/ATP bds. tastbar.
+Farbduplexsonographie der Gefäße der rechten Leiste und Bein:
+Nachweis eines kleinen Hämatoms -LRB- max. 2,2x0,8cm -RRB- der distalen dorsalen Wade, proximal kein tiefes Hämatom mehr abgrenzbar. Farbduplexsonographisch kein sicherer Anhalt für eine aktive Blutung, eine Sickerblutung kann nicht ausgeschlossen werden.
+
+Ruhe-EKG vom <[Pseudo] 15/12/2032:>
+Normofrequentes Vorhofflimmern, HF 82 /min, Steiltyp. QRS 98 ms, QT/QTc 437/476 ms. Regelrechte R-Progression, R/S Umschlag in V3/V4.
+
+Ruhe-EKG vom <[Pseudo] 17/12/2032:>
+Normofrequentes Vorhofflimmern, HF 85 /min, Indifferenztyp. QRS 99 ms, QT/QTc 432/474 ms. Regelrechte R-Progression, R/S Umschlag in V3/V4.
+Procedere:
+
+- Drainagenzug nach Maßgabe Chirurgie
+- Weiterführung Kompression
+- Laborkontrolle CK und Laktat
+- Engmaschige klinische Kontrollen pDMS, bei Befundverschlechterung Wiedervorstellung
+Labor:
+
+Zusammenfassung:
+Die elektive Aufnahme der Patientin erfolgte zur interventionellen Mitralklappen-rekonstruktion mittels MitraClip-Device bei hochgradiger Mitralinsuffizienz.
+
+Es erfolgte eine präinterventionelle Koronarangiographie und bei bekannter einliegender mechanischer Aortenklappenprothese ein intermittierendes Bridging mittels Heparinperfusor.
+
+In der Koronarangiographie zeigte sich eine Koronare Herzerkrankung ohne höhergradige Stenosen und o.g. Rechtsherzkatheterbefund, weshalb wir bei grundsätzlich technischer Machbarkeit eine Trichlip Implantation planten.
+
+Postinterventionell kam es zu einer Nachblutung in die Leiste sowie zu Schmerzen im Bereich der rechten Waden und des Knies. Farbduplexsonographisch ergab sich der V.a. ein Hämatom des M. trizeps surae mit zunehmender Einengung der Kompartimente. Nach engmaschiger stationärer Überwachung musste bei steigender CK und Reduktion der Pulsintensität eine operative Hämatomausräumung durch die B-SALUTE der Gefäßchirurgie erfolgen. Kumulativ wurden 3 EK -UNK- s periprozedural transfundiert. Intermittierend kam es zum akut auf chronischen Nierenversagen im Rahmen einer Crush-Nephropathie, der mit Ursalith-Therapie begegnet wurde.
+
+Im Folgenden kam es zu rascher Regredienz der Retentionsparameter sowie zu ausgeprägter klinischer Befundbesserung. Die Drainagen konnten am <[Pseudo] 13/12/32> nach sistierter Förderung komplikationslos gezogen werden. In einer angiologischen Kontrolle zeigte sich kein weiterer Nachweis eines Hämatoms.
+
+Aufgrund des protrahierten Verlaufs entschieden wir uns gemeinsam mit der Patientin für eine Tri-Clip Versorgung im Intervall mit einer Aufnahme auf B-ORG I-ORG zum u.a. Termin.
+
+Wir passten die Medikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Des Weiteren begannen wir zur Lipidsenkung und Plaquestabilisierung eine Therapie mit einem Statin. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+Procedere/Termine:
+
+- Elektiver Termin zum Tri-Clip mit Aufnahme am B-DATE um 9:30 Uhr auf B-ORG B-ORG und Triclip-Implantation am <[Pseudo] 02/02/2033>
+-UNK- Bitte kein Marcumar am Aufnahmetag einnehmen, ab INR < 2,0 Heparin-gesteuertes Bridging bis zur Implantation im stationären Kontext -LRB- kein prästationäres Bridging bei Z.n. Spontanblutung nach Clexane-Bridging -RRB-
+- Wundkontrolle am Montag beim Hausarzt inkl. Verbandswechsel
+-UNK- Bitte zudem Verlaufskontrolle Hb und Retentionsparameter
+-UNK- Fadenzug an Tag 14 nach Hämatomausräumung -LRB- <[Pseudo] 23/12/2032> -RRB-
+-UNK- Bis zur Tri-Clip-Implantation wöchentliche INR-Kontrollen zur Vermeidung von INR-Entgleisungen, im Verlauf Selbstmessung mittels Koagu-Check oder ähnlichem nach Unterweisung dringend empfohlen
+Therapieempfehlung v. kardiologischer Seite:
+
+Marcumar Ziel-INR 2-3 1-0-0
+Bisoprolol 5mg 0-0-1
+Bitte regelmäßige Kontrollen von Herzfrequenz und Blutdruck und ggf. Dosisanpassung im Verlauf
+Candesartan 4mg 1/2-0-0 neu
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Torasemid 10mg 3-3-0 erhöht
+Atrovastatin 40mg 0-0-1 -UNK-
+Kalinor ret. 2-2-2
+Magnesium Drag -UNK- es 0-0-1
+Venlafaxin 37,5mg 1-0-0
+Omeprazol 20mg 1-0-0
+Allopurinol 100mg 1-0-0
+Novalgin 500mg 2-2-2 bei Bedarf
+Cholecalciferol 20000 IE 1mal wöchentlich
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der B-ORG I-ORG I-ORG I-ORG -LRB- http://leitlinien.dgk.org -RRB- .
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+Mit freundlichen Grüßen
+
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 01/12/2032> und dem <[Pseudo] 18/12/2032>
+Blutbild
+Parameter
+
+Wert
+
+Normb / Dimension
+Datum
+Leukozyten
+7.67
+4 - 10 /nl
+B-DATE
+Hb
+10.1 !L
+12 - 15 g/dl
+<[Pseudo] 18/12/32>
+Erythrozyten
+3.2 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.300 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+95
+83 - 97 fl
+<[Pseudo] 18/12/32>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 18/12/32>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 18/12/32>
+RDW
+15.6
+12,9 - 18,7 %
+<[Pseudo] 18/12/32>
+hypochr.Erythroz.
+2.9 !H
+0 - 2 %
+<[Pseudo] 18/12/32>
+Thrombozyten
+360
+150 - 440 /nl
+<[Pseudo] 18/12/32>
+Elektrolyte & Nierenfunktionsparameter
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 18/12/32>
+Kalium -LRB- ISE -RRB-
+3.98
+3,4 - 5,0 mmol/l
+<[Pseudo] 18/12/32>
+Calcium
+2.44
+2,11 - 2,59 mmol/l
+<[Pseudo] 18/12/32>
+Chlorid -LRB- ISE -RRB-
+110
+98 - 111 mmol/L
+<[Pseudo] 09/12/32>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+Kreatinin
+1.56 !H
+0,5 - 1,1 mg/dl
+<[Pseudo] 18/12/32>
+Harnstoff
+52 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+32.5 !L
+>60 s.u.
+<[Pseudo] 18/12/32>
+MDRD
+20.84
+ml/min/1,73qm
+<[Pseudo] 09/12/32>
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+Albumin quant.
+39.0
+30 - 50 g/l
+<[Pseudo] 09/12/32>
+Glucose
+115 !H
+65 - 110 mg/dl
+<[Pseudo] 18/12/32>
+GPT/ALT
+18
+- <35 U/l
+B-DATE
+GGT
+146 !H
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.60
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+4.7
+- <6 mg/dl
+B-DATE
+Triglyceride
+93
+- <150 mg/dl
+<[Pseudo] 01/12/32>
+Cholesterin
+162.0
+- alt.abh. mg/dl
+<[Pseudo] 01/12/32>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+82
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+61
+>50 mg/dl
+B-DATE
+CRP
+43.8 !H
+- <5 mg/l
+<[Pseudo] 16/12/32>
+PCT sens.
+0.09 !H
+- <0,05 ng/ml
+<[Pseudo] 12/12/32>
+Laktat
+0.56 !L
+0,9 - 1,6 mmol/l
+<[Pseudo] 09/12/32>
+Hämolyse
+-
+
+<[Pseudo] 18/12/32>
+ikterisch
+-
+
+<[Pseudo] 18/12/32>
+Lipämie
+-
+
+<[Pseudo] 18/12/32>
+Aktivitätsparameter & Elektrophorese
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+LDH
+410 !H
+- <301 U/l
+B-DATE
+CK
+309 !H
+- <170 U/l
+<[Pseudo] 14/12/32>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+hs-TroponinT
+21.6 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+2285 !H
+- <450 ng/l
+<[Pseudo] 01/12/32>
+Endokrinologie & Diabetologie
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+HbA1c
+5.4
+- <6,1 %
+<[Pseudo] 01/12/32>
+HbA1c -LRB- IFCC -RRB-
+36
+20 -
+42 mmol/mol
+<[Pseudo] 01/12/32>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+mittlere Glucose
+108
+- <110 mg/dl
+<[Pseudo] 01/12/32>
+TSH
+2.61
+0,400 - 4,000 mU/l
+<[Pseudo] 01/12/32>
+Gerinnungsdiagnostik
+Parameter
+
+
+Wert
+
+Normb / Dimension
+Datum
+Quick
+28.6 !L
+70 - 125 %
+<[Pseudo] 18/12/32>
+INR - ber.
+2.23 !H
+- <1.2
+<[Pseudo] 18/12/32>
+aPTT
+32.2
+- <35 s
+<[Pseudo] 12/12/32>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+Fib. -LRB- Clauss -RRB-
+7.33 !H
+1,8 - 3,5 g/l
+<[Pseudo] 09/12/32>
+ATIII
+86.4
+80 - 120 %
+<[Pseudo] 10/12/32>
+Urindiagnostik
+Parameter
+
+
+Wert
+
+Normb / Dimension
+Datum
+pH/Tstr.
+6.50
+6,0 - 8,0
+<[Pseudo] 13/12/32>
+SpezGew/Tstr.
+1007
+1001 - 1035
+<[Pseudo] 13/12/32>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 13/12/32>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 13/12/32>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 13/12/32>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 13/12/32>
+Eiweiß/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 13/12/32>
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 13/12/32>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 13/12/32>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+0
+- <8 /µl
+B-DATE
+Leuko/µl
+1.0
+- <8 /µl
+B-DATE
+HyalZy./Sedu.
+3.0 !H
+- <1 /µl
+B-DATE
+Pl.-epi./µl
+2.00
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+<[Pseudo] 13/12/32>
+Krist./µl
+1326
+/µl
+<[Pseudo] 08/12/32>
+Blutgasanalyse
+Parameter
+
+
+Wert
+
+Normb / Dimension
+Datum
+pH
+7.29 !L
+7,37 - 7,45
+B-DATE
+pO2
+86
+mmHg
+B-DATE
+pCO2
+36.9
+35 - 45 mmHg
+B-DATE
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+BE/Std.
+-8.5 !L
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+17.5
+mmol/l
+B-DATE
+Laktat
+14.2
+- <16 mg/dl
+B-DATE

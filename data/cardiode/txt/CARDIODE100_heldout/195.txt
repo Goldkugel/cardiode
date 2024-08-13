@@ -1,0 +1,76 @@
+Aufnahmedatum: <[Pseudo] 2039-12-29 >
+Geburtsdatum: <[Pseudo] 2016-04-06 >
+Alter: 23
+
+über Ihren Patienten B-SALUTE B-PER I-PER I-PER geboren am <[Pseudo] 06/04/2016> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kein Anhalt für eine strukturelle Herzerkrankung
+-UNK- Echokardiographisch gute linksventrikuläre Funktion ohne relevante Klappenvitien
+-UNK- Unauffälliges Belastungs-EKG bis zu 250 Watt -LRB- 92% Ziel-Hf -RRB-
+-UNK- Klinisch stabiler kardialer Verlauf
+-UNK- Ad Kardio MRT am <[Pseudo] 13/05/2040> am 07:30 Uhr
+Diagnosen:
+- Keine
+
+Kardiovaskuläre Risikofaktoren: Nikotinabusus 2 P.Y
+Allergien: keine bekannt
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur kardiologischen Abklärung bei einem nach Belastung auftretenden Puls-synchronen -UNK- Klickgeräusch -UNK- , welches er v.a. beim Öffnen des Mundes wahrnehme. Das Geräusch trete v.a. beim Vorbeugen auf und er verspüre dazu seine Herzschläge. Im Alltag bestehe eine gute Belastbarkeit. Keine inadäquate Belastungsdyspnoe -LRB- NYHAI -RRB- , keine belastungsinduzierten pectanginösen Beschwerden. Pectanginöse Beschwerden in Ruhe, Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestehe Nykturie mit ca. 1-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Subjektiv bestehe ein stabiler kardialer Verlauf.
+
+Aktuelle Medikation:
+Keine
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 187 cm 79 kg
+HF: 64 /min, regelmäßig
+RR: 130/80 mmHg
+Keine Zyanose, keine Anämiezeichen, kein Ikterus.
+HT: rein, keine path. Geräusche, bei der sportlichen Provokation spindelförmige Systolikum
+Lunge: bds. Belüftet, vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Sinusrhythmus, regelmäßig, 64/min, Steiltyp. PQ 152 msec, QRS 102 msec, QTc 405 msec, Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine S-Persistenz. Keine signifikanten Kammerendteilveränderungen.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 250 Watt über 00:22 min. Maximale Frequenz 183/min -LRB- 92 % der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 210 mmHg, diastolisch 100 mmHg. Abbruch wegen Dyspnoe bei Tragen einem Mund-Nasen-Schutz, die sich in Ruhe schnell sistierte. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Vereinzelt VES -LRB- 9 -RRB- . Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck. Keine höhergradigen Herzrhythmusstörungen unter Belastung.
+
+Transthorakale Echokardiographie:
+Normal großer linker Ventrikel mit noch guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA, RA normal groß, RV noch normal groß, mit guter RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Hypermobiles Vorhofseptum. Farbdopplersonographisch kein Nachweis intrakardialer Shuntvitien -LRB- VSD/ASV/PDA, soweit im TTE beurteilbar -RRB- . Aortenbogen ohne sign. Flussbeschleunigung als Anhalt für eine Aortenisthmusstenose, allerdings im Übergang zur Aorta desc. echogen Anteile -LRB- min. Diameter 12mm -RRB- . Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 20 mmHg -RRB- . Erstbefund in domo.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgt zur kardiologischen Abklärung eines belastungsassoziiertes, von außen dann ohne Hilfsmittel wahrnehmbaren Herzgeräusches. Subjektiv wird von einem klinisch beschwerdefreien kardialen Verlauf berichtet.
+
+In der Provokationstestung zeigte sich ein spindelförmiges Frühsystolikum mit diskreter Fortleitung in die Karotiden.
+
+Das heute durchgeführte Belastungs-EKG bis 250 Watt ergab, weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradige Herzrhythmusstörungen.
+
+Echokardiographisch fand sich eine gute linksventrikuläre Pumpfunktion ohne relevante Klappenvitien jedoch mit dem Verdacht auf eine Struktur im Aortenbogen/descendens.
+
+Zur weiteren Abklärung der potentiellen strukturellen Herzerkrankungen, die in der konventionellen transthorakalen Echokardiographie nicht optimal darstellbar sind, empfehlen wir weitere Bildgebende Diagnostik mittels kardio-MRT mit der Fragestellung Shuntvitium insbesondere im Ventrikel mit der weiteren Darstellung der Aorta. Ein Termin hierfür wurde am <[Pseudo] 13/05/2040> um 07:30 vereinbart, wir bitten den Patienten, sich zum angegebenen Termin in der Patientenaufnahme in Ebene B-LOC vorzustellen. Zum komplikationsfreien Ablauf der geplanten Untersuchung bitten wir Sie, dem Patienten für den Tag der Untersuchung aktuelle Werte -LRB- nicht älter als 3 Wochen -RRB- von TSH, Harnstoff und Kreatinin sowie eine Überweisung zum Kardio-MRT mitzugeben. Ein leichtes Frühstück am Tag der Untersuchung ist freundlich gestattet. Des Weiteren weisen wir darauf hin, dass der Patient zum komplikationsfreien Ablauf der Untersuchung 24h vor der Untersuchung keine koffeinhaltigen Lebensmittel -LRB- einschl. grünen / schwarzen Tee -RRB- und keine Schokolade zu sich nehmen sollte.
+Zur Besprechung des Befundes der Kardio- MRT-Untersuchung wurde ein Termin am <[Pseudo] 27/05/2040> um 11:00 Uhr vereinbart, wir bitten den Patienten, sich zum angegebenen Zeitpunkt in der kardiologischen Ambulanz vorzustellen.
+
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, Tanzen oder Ergometertraining.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung:
+Keine
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen,
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

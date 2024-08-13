@@ -1,0 +1,348 @@
+Aufnahmedatum: <[Pseudo] 2499-02-08 >
+Geburtsdatum: <[Pseudo] 2085-07-19 >
+Alter: 413
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 19/07/2085> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- NSTEMI Typ 2 bei VHF
+-UNK- Koronare 3-Gefäßerkrankung -LRB- B-OTHER vom <[Pseudo] 27/05/2173> -RRB-
+-UNK- Verzicht auf LV-Angiographie
+-UNK- PTCA 1-fach DES Stentimplantation der LCX
+-UNK- ostiale RCA Stenose sowie Stenosen von LAD und Ramus diagonalis Status idem
+-UNK- ad Kardio-MRT: Termin Stress MRT am <[Pseudo] 20/10/2173> um 07:30 Uhr, Besprechung am <[Pseudo] 03/11/2173> um 09:00 Uhr in unserer kardiologischen Ambulanz
+
+- NSTEMI, DD Typ II bei TAA unter ED VHF sowie bei bekannter koronarer 3- Gefäßerkrankung <[Pseudo] 15/04/2173>
+- HK des <[Pseudo] 15/04/2173> -LRB- B-OTHER -RRB- : Koronare 3-Gefäßerkrankung mit 50%iger ostiale In-Stent-Reststenose, ansonsten i. W. Status idem zur Voruntersuchung <[Pseudo] 11/2166>
+- Z. n. erfolgreicher 2xDE-Direktstentimplantation der RCA -LRB- ostiumsnah -RRB- -LRB- B-OTHER v. <[Pseudo] 21/11/2166> -RRB-
+- Gutes Ergebnis n. Stenting der LCX <[Pseudo] 2166>
+- ED paroxysmales Vorhofflimmern <[Pseudo] 04/2173>
+- CHA2DS2VASc-Score 4 Punkte
+- HAS-BLED-Score 3 Punkte
+- o Präklinische Spontankonversion in einen normofrequenten Sinusrhythmus
+- o Beginn einer Antikoagulation mit Eliquis
+- Hypothyreose, anamn. Z. n. zweimaliger Schilddrüsen-OP -LRB- ca. B-YEAR <[Pseudo] 2155> -RRB-
+- Depression
+- Z. n. periprothetischer proximaler Femurfraktur <[Pseudo] 02/2173> -LRB- B-ORG -RRB-
+- Postoperatives Delir
+- Postoperative Anämie
+- Z. n. Hüft-TEP links <[Pseudo] 2154>
+- Z. n. Knie-TEP rechts <[Pseudo] 2157>
+- Z. n. lat. Tibiakopffraktur links <[Pseudo] 2158> -LRB- konservativ -RRB-
+- Z. n. Bandscheiben-OP <[Pseudo] 2160> -LRB- B-TITLE B-PER PER -RRB-
+- Makuladegeneration bds.
+
+Allergien: anamnestisch keine
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Nikotinanamnese: nie.
+
+Anamnese:
+Die Vorstellung erfolgte als Verbringung durch den Notarzt bei heute Morgen plötzlich einsetzender typischer AP und begleitender vegetativer Symptomatik. Notarzt habe vor Schreiben des EKG einen stark
+tachykardem arrhythmischen Puls getastet. Bei Eintreffen der Sanitäter mit EKG bereits wieder SR und Rückbildung der Symptomatik. Auf spezifische Nachfrage typische Angina pectoris, mit Dyspnoe und Schwindel. Keine Synkope. Kein Hinweis auf einen akuten Infekt.
+
+Medikation bei Aufnahme:
+Eliquis 5 mg 1-0-1
+Bisoprolol 2,5 mg 2-0-1
+Torasemid 10 mg 0,5-0-0
+Atorvastatin 40 mg 0-0-1
+L-Thyroxin 75 ug 1-0-0
+Tilidin 50/4 mg 1-0-1
+Folsäure 5 mg 0-1-0
+Vit. B12 10000 ug 0-1-0
+Ferrosanol duodenal 100 mg 0-1-0
+Vigantoletten 1000 IE 1-0-0
+Lactulose 10-0-0 ml
+Novalgin 500 mg 2-0-2
+Melperon 25 mg 0-0-1-1
+Mirtazapin 15 mg 0-0-0-1
+
+Körperlicher Untersuchungsbefund bei Vorstellung:
+Bewußtsein: klar, Herztöne: normal, Herzzusatztöne: keine, Pulmo auskultatorisch: vesikuläres Atmen,
+Abdomen: unauffällig, Beinvenenstatus: unauffällig, Halsvenen: unauffällig, Pulsstatus: regelrecht,
+Cyanosezeichen: Nein.
+
+Ruhe-EKG vom <[Pseudo] 27/05/2173:>
+Rhythmus: Sinusrhythmus, Herzfrequenz: 75/min, Lagetyp: Indifferenztyp, QRS-Komplex: normal, STStrecke: normal, T-Welle: normal.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 27/05/2173> -RRB- :
+Befund folgt im endgültigen Arztbrief.
+
+
+
+
+
+
+
+
+Echokardiographie vom <[Pseudo] 28/05/2173:>
+Reduzierte Schallbedingungen.
+Normal großer, septal betont hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne sicher abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA leicht dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Aortenklappe trikuspid, leicht verdickt mit guter Separation und geringer Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Systolischer PA-Druck bei fehlender Trikuspidalinsuffizienz nicht bestimmbar.
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 14/04/2173:> Keine wesentliche Befundänderung.
+
+Farbduplexsonographie der Gefäße des rechten/ links Unterarms vom <[Pseudo] 29/05/2173:>
+In der distalen A. radialis biphasische Flüsse bis 40cm/s, in der distalen A. ulnaris biphasische Flüsse bis 40cm/s darstellbar. A. radialis im gesamten einsehbaren Verlauf am Unterarm offen und perfundiert darstellbar. In der Punktionsstelle am rechten Handgelenk derzeit keine Hinweise für ein Aneurysma spurium, eine AV-Fistel oder eine TVT.
+
+Ruhe-EKG nach Intervention vom <[Pseudo] 30/05/2173:>
+Normofrequenter Sinusrhythmus, 70/min, Indifferenztyp, PQ 1580 ms, QRS 85 ms, QTc 384 ms. R/S-Umschlag in V3/V4, regelrechte R-Progression. Keine signifikanten KETV.
+.
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 27/05/2173> und dem <[Pseudo] 29/05/2173>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+3.96 !L
+4 - 10 /nl
+B-DATE
+Hb
+11.7 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.1
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.360
+0,36 - 0,47 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+<[Pseudo] 29/05/73>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 29/05/73>
+MCHC
+32
+30 - 36 g/dl
+<[Pseudo] 29/05/73>
+RDW
+15.9
+12,9 - 18,7 %
+<[Pseudo] 29/05/73>
+hypochr.Erythroz.
+3.5 !H
+0 - 2 %
+<[Pseudo] 29/05/73>
+Thrombozyten
+173
+150 - 440 /nl
+<[Pseudo] 29/05/73>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+142
+135 - 146 mmol/l
+<[Pseudo] 29/05/73>
+Kalium -LRB- ISE -RRB-
+4.67
+3,4 - 5,0 mmol/l
+<[Pseudo] 29/05/73>
+Calcium
+2.48
+2,11 - 2,59 mmol/l
+<[Pseudo] 29/05/73>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+0.83
+0,5 - 1,4 mg/dl
+B-DATE
+Harnstoff
+36
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+63.6
+>60 s.u.
+<[Pseudo] 29/05/73>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+101
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+20
+- <37 U/l
+B-DATE
+GPT/ALT
+5
+- <35 U/l
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 27/05/73>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 29/05/73>
+ikterisch
+-
+
+<[Pseudo] 29/05/73>
+Lipämie
+-
+
+<[Pseudo] 29/05/73>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+282
+- <301 U/l
+B-DATE
+CK
+88
+- <170 U/l
+<[Pseudo] 27/05/73>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+82.0 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+589 !H
+- <450 ng/l
+<[Pseudo] 27/05/73>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.59
+0,400 - 4,000 mU/l
+<[Pseudo] 27/05/73>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+87.4
+70 - 125 %
+<[Pseudo] 27/05/73>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+INR - ber.
+1.07
+- <1.2
+<[Pseudo] 27/05/73>
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG I-ORG bei plötzlich einsetzender typischer AP Symptomatik. Bei Troponin-Kinetik führten wir eine Koronarangiographie durch. In der durchgeführten Koronarangiographie zeigte sich eine Koronare 3-Gefäßerkrankung. Es erfolgte eine erfolgreiche Rekanalisation der LCX mittels PTCA und 1-fach DES-Stentimplantation.
+Postinterventionell zeigte sich die Patientin bei Übernahme auf die Normalstation kardiorespiratorisch stabil. Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Die Echokardiographie zeigte einen normal großen, septal betont hypertrophierten linken Ventrikel mit guter systolischer Pumpfunktion ohne sicher abgrenzbare regionale Kontraktionsstörungen.
+
+Zur Stentverschlussprophylaxe begannen wir eine Tripel-Therapie mit Eliquis, Clopidogrel und ASS für eine Woche wie u.a. ASS soll dabei bis zum <[Pseudo] 03/06/2173> fortgeführt und dann abgesetzt werden. Die duale Therapie mit Clopidogrel und Eliquis soll dann bis zum <[Pseudo] 27/05/2174> fortgeführt werden. Ab dem <[Pseudo] 28/05/2174> soll die alleinige Therapie mit Eliquis erfolgen. Die Patientin wurde über die Notwendigkeit einer lückenlosen Einnahme aufgeklärt. Dem Patienten wurde ein Implantatausweis ausgehändigt.
+
+Bezüglich der residuellen Stenosen der Herzkranzgefäße vereinbarten wir mit B-SALUTE B-PER einen Termin zur Stress-Kardio-MRT-Untersuchung, Ein Termin hierfür wurde für den <[Pseudo] 20/10/2173> um 07:30 Uhr vereinbart. Zum komplikationsfreien Ablauf der geplanten Untersuchung bitten wir Sie, dem Patienten für den Tag der Untersuchung aktuelle Werte -LRB- nicht älter als 3 Wochen -RRB- von Harnstoff, Kreatinin und TSH, sowie eine Überweisung zum Kardio-MRT mitzugeben. Ein leichtes Frühstück am Tag der Untersuchung ist freundlich gestattet. Des Weiteren weisen wir darauf hin, dass der Patient zum komplikationsfreien Ablauf der Untersuchung 24h vor der Untersuchung keine koffeinhaltigen Lebensmittel und keine Schokolade zu sich nehmen sollte.
+
+Zur Besprechung des Befundes der Kardio-MRT-Untersuchung wurde ein Termin am <[Pseudo] 03/11/2173> um 09:00 Uhr vereinbart, wir bitten den Patienten, sich zum angegebenen Zeitpunkt in der kardiologischen Ambulanz vorzustellen.
+
+Wir passten die Medikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Insbesondere passten wir die Blutdruckmedikation wie u.a. an. Bei fortgeschrittenem Patientenalter und zur Sturzprophylaxe verzichteten wir auf noch forciertere Blutdruckeinstellung und bitten um Durchführung einer 24-RR-Messung und Anpassung der Medikation im Verlauf.
+
+Des Weiteren empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin in Ihre geschätzte ambulante Betreuung.
+
+Prozedere
+- Termin Stress MRT am <[Pseudo] 20/10/2173> um 07:30 Uhr
+- Besprechung am <[Pseudo] 03/11/2173> um 09:00 Uhr in unserer B-ORG Ambulanz
+
+
+Therapieempfehlung von kardiologischer Seite:
+Aspirin 100 mg 1-0-0, bis zum <[Pseudo] 03/06/2173>
+Clopidogrel 75 mg 1-0-0, bis zum <[Pseudo] 27/05/2174>
+Eliquis 5 mg 1/2-0-1/2
+Bisoprolol 2,5 mg 2-0-2, Dosis erhöht
+Ramipril 2,5mg 1-0-1, neu, bitte Elektrolyte u. Retentionsparameter kontrollieren
+Torasemid 10 mg 0,5-0-0
+Atorvastatin 40 mg 0-0-1
+L-Thyroxin 75 ug 1-0-0
+Tilidin 50/4 mg 1-0-1
+Folsäure 5 mg 0-1-0
+Vit. B12 10000 ug 0-1-0
+Ferrosanol duodenal 100 mg 0-1-0
+Vigantoletten 1000 IE 1-0-0
+Lactulose 10-0-0 ml
+Novalgin 500 mg 2-0-2
+Melperon 25 mg 0-0-1-1
+Mirtazapin 15 mg 0-0-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

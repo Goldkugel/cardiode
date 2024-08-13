@@ -1,0 +1,519 @@
+Aufnahmedatum: <[Pseudo] 2035-11-15 >
+Geburtsdatum: <[Pseudo] 1999-08-28 >
+Alter: 36
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 28/08/1999> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Rezidivierende Slow-VT ohne hämodynamische Relevanz
+-UNK- Vermehrtes Auftreten nach/während der Dialyse nach Volumenentzug
+-UNK- Neues Zielgewicht 75kg
+-UNK- Während der Abfrage am <[Pseudo] 01/11/2035> AV-Dissoziation bei einer ventrikulären Frequenz von etwa 90/min, erfolgreiche Übersimulation mit einer Frequenz von 120/min, regelrechte ICD-Funktion, keine neuen Episoden im Speicher -LRB- bei Monitorzone ab 120/min -RRB-
+-UNK- Amiodaronaufsättigung vom B-DATE, während der Aufsättigung Umprogrammierung der VT1-Zone auf 101/min sowie VT2-Zone auf 120/min
+- Bekannt schwankend erhöhte RV-Reizschwelle
+
+Diagnosen:
+- Erneute Umprogrammierung der VT1-Zone auf 150/min anstatt 110/min am <[Pseudo] 18/10/35>
+- Z. n. rezidivierenden VT am B-DATE und B-DATE
+-UNK- Eskalation der antiarrhythmischen Medikation um Flecainid 100 mg 2xtgl.
+-UNK- Temporäre Umprogrammierung der VT1-Zone auf 110/min
+- Unklare Kardiomyopathie DD CPVT
+-UNK- Zuletzt leichtgradig eingeschränkte LV-Pumpfunktion -LRB- TTE vom <[Pseudo] 12/09/2035> -RRB-
+-UNK- Z. n. mittelgradig eingeschränkter systolischer Pumpfunktion bei globaler Hypokinesie a. e. unter Verapamil -LRB- TTE vom <[Pseudo] 07/09/2035> -RRB-
+-UNK- Hantavirus-Serologie negativ
+-UNK- Ad Kardio-MRT
+-UNK- Genetische Testung vom Patienten nicht gewünscht
+- Z. n. 3D-gesteuerter Ablation bei klinisch rezidivierenden VTs am <[Pseudo] 09/09/2035> -LRB- B-OTHER -RRB-
+-UNK- ICD-Entladung bei V.a. faszikuläre ventrikuläre Tachykardie am <[Pseudo] 03.09.> und intrahospital am <[Pseudo] 06/09/2035>
+-UNK- Myokardschaden im Rahmen der Defi-Entladung
+-UNK- Postinterventionell Slow-VT-Rezidive -LRB- Frequenz ca. 120/min -RRB- , erfolgreiche Überstimulation mittels ATP-Abgaben
+-UNK- Beginn einer Therapie mit Propranolol
+- Kleines PFO -LRB- TEE vom <[Pseudo] 07/09/2035> -RRB-
+- Z. n. Implantation eines 2-Kammer-ICD -LRB- Firma St. Jude Medical -RRB- am <[Pseudo] 02/07/2034>
+-UNK- Rezidivierende Tachykardie-Episoden -LRB- DD SVT bei Vorhofflattern, DD ventrikulär bei V.a. AV-Dissoziation im Rahmen einer Episode <[Pseudo] 06/2033> -RRB-
+-UNK- Leicht induzierbare ventrikuläre Tachykardie -LRB- DD linksanteriorer Faszikel, anterolateraler Papillarmuskel -RRB- übereinstimmend mit der klinischen Dokumentation. Reizleitungserkrankung mit beginnendem trifaszikulärem Block und infrahisärer Leitungsverzögerung -LRB- B-OTHER vom <[Pseudo] 30/06/2034> -RRB-
+-UNK- Z. n. mehrerer nsVT und eine VT im Speicher mit 1xATP Abgabe -LRB- erfolgreich -RRB- mit Umstellung der antiarrhythmischen Therapie <[Pseudo] 12/10/2034>
+- Im Wesentlichen unauffällige Koronararterien -LRB- B-OTHER vom <[Pseudo] 31/05/2035> -RRB-
+- Kardio-MRT vom <[Pseudo] 01/07/2034:>
+-UNK- Normal großer linker Ventrikel mit global guter systolischer Funktion -LRB- EF 56% -RRB- .
+-UNK- In der T1-Mapping kein Hinweis auf diffuse myokardiale Fibrose sowie Speichererkrankungen. In der T2- Mapping kein Hinweis auf myokardiales Ödem
+- Vorhofflattern -LRB- ED <[Pseudo] 11/2031> -RRB-
+-UNK- CHA2DS2-VASc: 2
+-UNK- HAS-BLED: 2
+-UNK- LA-Diameter: 33mm -LRB- Echo vom <[Pseudo] 25/06/34> -RRB-
+-UNK- LV-Funktion leichtgradig -LRB- Echo vom <[Pseudo] 25/06/34> -RRB-
+-UNK- Z. n. erfolgreiche elektrische Kardioversion am <[Pseudo] 15/06/33>
+- Akut auf chron. Nierenversagen im Rahmen einer unklaren Glomerulonephritis DD maligne Hypertonie <[Pseudo] 07/2027> -LRB- keine NPE erfolgt -RRB-
+-UNK- Implantation eines Hemosplitkatheters in die V. jugularis interna rechts am <[Pseudo] 03/11/2027> -LRB- B-ORG B-ORG I-ORG -RRB-
+-UNK- Chronische Hämodialyse -LRB- seit <[Pseudo] 10/2027> -RRB-
+-UNK- Cimino-Shunt-Anlage re UA B-ORG I-ORG am <[Pseudo] 14/01/2028>
+-UNK- Demers-Explantation am <[Pseudo] 16/06/2028>
+-UNK- zuletzt wurde eine Nierentransplantation abgelehnt
+- Sekundärer Hyperparathyreoidismus
+- Renale Anämie
+- Maligne Hypertonie -LRB- Fundus Hypertonicus III° -RRB-
+- Z. n. Hämatomausräumung im Bauchbereich unter Clexane-Therapie B-DATE
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt.
+
+Anamnese:
+Die initiale Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- nach Übernahme aus dem Nierenzentrum bei Palpitationen und V.a. eine erneute VT-Episode.
+Anamnestisch bestanden nach der Hämodialyse Palpitationen, diese kenne der Patient bereits bei rez. VTs. B-SALUTE B-PER berichtet über ein seit 7 Tagen zunehmend häufigeres Auftreten -LRB- fast täglich -RRB- . Der Patient gibt zudem an seit der Ablation am <[Pseudo] 09/09/35> grundsätzlich häufiger unter VTs zu leiden. Eine ICD Auslösung habe seit dem letzten stationären Aufenthalt nicht bestanden. Ansonsten wird eine gute körperliche Belastbarkeit im Alltag beschrieben ohne inadäquate Belastungsdyspnoe und ohne belastungsinduzierte pectanginösen Beschwerden. Auch in Ruhe bestünden weder pectanginöse Beschwerden noch Dyspnoe. Schwindel und stattgehabte Synkope werden verneint. Aktuell kein Hinweis auf einen akuten Infekt. HD- Tage Di-Do-Sa mit 300ml Restausscheidung
+
+Medikation bei Aufnahme:
+Propranolol 40 mg 1-1-1
+Ramipril 5 mg 1-0-0,5
+Flecainid 100 mg 1-0-1
+Furosemid 500 mg 0,5-0,5-0
+Calciumacetat 950 mg 2-2-2
+Dekristol 20.000 IE 1x/Woche samstags
+Magnesium verla 1-0-0
+
+Subkutan:
+Clexane 0,4 mg 1-0-0 -LRB- an dialysefreien Tagen -RRB-
+Clexane 0,2 mg 0-0-1 -LRB- an Dialyse-Tagen -RRB-
+Ferrlecit 62,5 mg 1-0-0 alle 2 Wochen an Dialyse Do
+Epoetin alfa 6.000 I.E. 1-0-0 1x /Woche an Dialyse
+
+Körperlicher Untersuchungsbefund:
+AZ: stabil
+EZ: gut
+HF: 70/min, regelmäßig
+RR: 120/60mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Einflussstauung.
+Cor: reine, regelmäßige HT, gelegentliche Extrasystolen
+Pulmo: vesikuläres AG, sonorer Klopfschall, keine RG
+Abdomen: weich, kein DS, keine Resist. lebhafte DG, Hämatom durch Bauchspritzen
+Leber/Milz: beide nicht vergrößert palpabel
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse bds, tastbar
+Neurol. Status: orientierend o. p. B.
+sonstige Auffälligkeiten: keine,
+
+Transthorakale Echokardiographie vom <[Pseudo] 28/10/2035:>
+Fokussierte Fragestellung: Grenzwertig großer linker Ventrikel mit noch mittelgradig eingeschränkter systolischer Pumpfunktion bei globaler Hypokinesie und dyskoordiniertem Kontraktionsablauf. Eingeschränkte longitudinale Funktion des LV, erhaltene longitudinale LVFunktion des RV. LA, RA und RV normal groß, noch gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Leichtgradige Mitralklappeninsuffizienz bei Anulusdilatation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck ist nicht ableitbar.
+Im direkten Bildvergleich zur Voruntersuchung vom <[Pseudo] 16/09/2035:> Abnahme der LVEF, beginnende Dilatation des LV.
+
+ICD-Kontrolle vom <[Pseudo] 28/10/2035:>
+Befund/Zusammenfassung:
+Regelrechte ICD-Funktion. Batteriestatus gut -LRB- 2,4-2,9 Jahre, 71% bis ERI -RRB- . Bekannt erhöhte und weiter angestiegene RV-Reizschwelle bei aktuell 3,0 V/0,5 ms -LRB- VU: 2,75V/0,5ms -LRB- VU 2,25/0,5, 2,0V/0,5ms, 1,25V/0,5ms, 1,75V/0,5ms -RRB- . Nach RS OA B-PER a. e. durch antiarrhythmische Therapie erklärt. Derzeit keine Indikation zur Sondenrevision bei noch programierbaren Stimulationsparametern. Übrige Messwerte stabil. Es erfolgte eine Anpassung der Parameter. AP: 52% und VP: 61%. Im Speicher finden sich keine neuen Epiosden. Starres Frequenzhistogramm bei Inaktivität.
+Verlaufskontrolle der RV-Reizschwelle vor Verlegung/Entlassung empfohlen. Im Rahmen der nächsten Nachsorge ggf. Verlängerung der Impulsdauer der RV-Stimulation.
+
+Langzeit-EKG vom B-DATE:
+Durchgehend SM-Stimulation mit Frequenzen zwischen 70/min und 106/min,im Mittel 85/min. Keine Pausen. Häufige -LRB- fast alle zwischen 9:54 und 22:35 Uhr -RRB- überwiegend monomorph wirkende ventrikuläre Extrasystolen. Ab 22:35 Uhr bis zum Ende der LZ-EKG-Aufzeichnung anhaltende langsahme VT um 100/min mit AV-Dissoziation. Formal Lown III a.
+
+
+
+Kardio-MRT vom <[Pseudo] 01/11/2035:>
+Bei Artefakten aufgrund des einliegenden 2-Kammer-ICDs keine adäquate MR-tomographische Darstellung bzw. Beurteilung des Herzens möglich.
+Nebenbefunde:
+Kleine Nieren beidseits. Leber grenzwertig vergrößert.
+
+ICD-Kontrolle vom <[Pseudo] 01/11/2035:>
+Regelrechte ICD-Funktion. Batteriestatus gut -LRB- ~2,1-2,6 Jahre, 71% bis ERI, Ladezeit 8,9 Sek. -RRB- . Messwerte bei bekannt deutlich erhöhter RV-Reizschwelle stabil -LRB- s. auch Vorbefund -RRB- .
+Im Speicher finden sich keine neuen Episoden. Während der Abfrage zeigt sich jedoch eine AVDissoziation bei einer ventrikulären Frequenz von etwa 90/min. Mit einer Frequenz von 120/min lässt sich diese idioventrikuläre Tachykardie erfolgreich überstimulieren. Hiernach zeigt sich ein SMstimulierter
+Rhythmus um 70/min.
+AP: 52% und VP: 62%. Keine Änderung der Parameter vorgenommen.
+Weiteres Procedere bereits über Station geplant -LRB- Absetzen von Flecainid und Aufdosierung mit Amiodaron über Kardio-Wach -RRB- .
+
+Ruhe-EKG vom <[Pseudo] 03/11/2035> - <[Pseudo] 08/11/2035:>
+Vorhof- und ventrikuläre Stimulation mit QTc Zeiten zwischen 415 - 460 ms.
+
+ICD-Kontrolle vom <[Pseudo] 09/11/2035:>
+Befund/Zusammenfassung:
+Regelrechte ICD-Funktion. Batteriestatus gut -LRB- ~2,1-2,6 Jahre, 71% bis ERI, Ladezeit 8,9 Sek. -RRB- . Im Speicher finden sich keine neuen Episoden.
+Auf Wunsch der B-ORG B-ORG B-ORG I-ORG Umprogrammierung der Monitor/Therapiezonen für das aktuelle stationäre Setting:
+VT-Monitorzone auf 101/min -LRB- bei zuvor Slow-VTs um 90/min -RRB- . Monitorzone bei 90/min nach Rücksprache mit dem Hersteller technisch nicht möglich. Neue VT2-Zone bei 120/min -LRB- 2x ATP, 2x Defib -RRB- sowie Herunternahme der VF-Zone auf 193/min -LRB- ATP während Laden, insgesamt 6x Schock -RRB- .
+
+Langzeit-EKG vom B-DATE:
+Fast durchgehend SM-Stimulation mit Frequenzen zwischen 70/min und 84/min,im Mittel 70/min. Keine Pausen. Vereinzelte polymorphe ventrikuläre Extrasystolen. Vereinzelte Couplets. Formal Lown IV a.
+
+ICD-Kontrolle vom <[Pseudo] 14/11/2035:>
+Befund/Zusammenfassung:
+Regelrechte ICD-Funktion. Batteriestatus gut -LRB- ~2,0-2,7 Jahre, 70% bis ERI, Ladezeit 8,9 Sek. -RRB- . AP 91% und VP 37% unter Grundfrequenz von 70/min. Im Speicher finden sich keine neuen Episoden.
+Auf Wunsch der B-ORG I-ORG I-ORG I-ORG erfolgte nach Beendigung der Amiodaronaufsättigung eine Rückprogrammierung der Tachytherapie -LRB- Anpassung der Detektionsintervalle auf 400 ms in der VT-1-Zone, 350 ms in der FVT-Zone und 280 ms in der VF-Zone, Anzahl der Intervalle sowie Therapieprogrammierung wurden belassen -RRB- , sowie Anpassung der Grundfrequenz auf 60/min. Aktivierung der AutoCapture-Funktion erfolgt, sonst keine weitere Anpassung der Bradytherapie notwendig.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 27/10/2035> und dem <[Pseudo] 10/11/2035>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.25
+4 - 10 /nl
+B-DATE
+Hb
+8.0 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+2.5 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.230 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+94
+83 - 97 fl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 10/11/35>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 10/11/35>
+RDW
+13.9
+12,9 - 18,7 %
+<[Pseudo] 10/11/35>
+hypochr.Erythroz.
+1.3
+0 - 2 %
+<[Pseudo] 10/11/35>
+Thrombozyten
+227
+150 - 440 /nl
+<[Pseudo] 10/11/35>
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 10/11/35>
+Kalium -LRB- ISE -RRB-
+5.36 !H
+3,4 - 4,6 mmol/l
+B-DATE
+Calcium
+2.30
+2,11 - 2,59 mmol/l
+B-DATE
+Phosphat
+1.27
+0,84 - 1,45 mmol/l
+<[Pseudo] 28/10/35>
+Magnesium
+1.04
+0,75 - 1,05 mmol/l
+<[Pseudo] 03/11/35>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+13.61 !H
+0,6 - 1,2 mg/dl
+B-DATE
+Harnstoff
+122 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+4.1 !L
+>60 s.u.
+<[Pseudo] 10/11/35>
+MDRD
+13.66
+ml/min/1,73qm
+<[Pseudo] 02/11/35>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Ges.Eiweiss
+62.5
+60 - 80 g/l
+B-DATE
+Albumin quant.
+41.2
+30 - 50 g/l
+B-DATE
+Glucose
+145 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+5
+- <46 U/l
+B-DATE
+GPT/ALT
+8
+- <50 U/l
+B-DATE
+GGT
+16
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.2
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+1.6
+- <7 mg/dl
+<[Pseudo] 02/11/35>
+Triglyceride
+296 !H
+- <150 mg/dl
+<[Pseudo] 28/10/35>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+277.0
+- alt.abh. mg/dl
+B-DATE
+Lipase
+89 !H
+19 - 63 U/l
+B-DATE
+Eisen
+10.8 !L
+14 - 32 µmol/l
+<[Pseudo] 02/11/35>
+Transferrin
+1.59 !L
+2,0 - 3,6 g/l
+<[Pseudo] 02/11/35>
+TFSG
+27
+16 - 45 %
+B-DATE
+CRP
+2.1
+- <5 mg/l
+<[Pseudo] 07/11/35>
+Hämolyse
+-
+
+<[Pseudo] 10/11/35>
+ikterisch
+-
+
+<[Pseudo] 10/11/35>
+Lipämie
+-
+
+<[Pseudo] 10/11/35>
+
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+LDH
+139
+- <316 U/l
+B-DATE
+CK
+52
+- <190 U/l
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+37.0 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+7688 !H
+- <125 ng/l
+<[Pseudo] 27/10/35>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+TSH
+2.20
+0,400 - 4,000 mU/l
+<[Pseudo] 05/11/35>
+FT3
+2.28
+2,0 - 4,2 ng/l
+<[Pseudo] 27/10/35>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+FT4
+17.88
+8 - 18 ng/l
+<[Pseudo] 27/10/35>
+Gerinnungsdiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+105.0
+70 - 125 %
+<[Pseudo] 07/11/35>
+INR - ber.
+1.00
+- <1.2
+<[Pseudo] 07/11/35>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+aPTT
+27.9
+- <35 s
+<[Pseudo] 07/11/35>
+Blutgasanalyse
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH
+7.42
+7,37 - 7,45
+B-DATE
+pO2
+93
+mmHg
+B-DATE
+pCO2
+35.0
+35 - 45 mmHg
+<[Pseudo] 05/11/35>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-2.3 !L
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+22.5
+mmol/l
+B-DATE
+Laktat
+7.7
+- <16 mg/dl
+B-DATE
+
+
+
+
+Zusammenfassung:
+Die initiale Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- og -RRB- nach Übernahme aus dem ORG bei Palpitationen und V.a. eine erneute VT-Episode.
+
+Elektrokardiographisch zeigte sich bei Aufnahme eine Slow-VT, mit Spontankonversion im kurzfristigen Verlauf in einen normofrequenten Sinusrhythmus. Das hs-cTroponin zeigte sich stabil um 35 pg/ml. Laborchemisch zeigte sich keine Entzündungskonstellation. Das NT-pro-BNP fand sich im Vergleich zu den Vorwerten deutlich erhöht.
+
+In der ICD-Abfrage vom <[Pseudo] 28/10/2035> konnte eine regelrechte ICD-Funktion nachgewiesen werden. Es zeigte sich eine bekannt schwankend erhöhte RV-Reizschwelle, a.e. durch die antiarrhythmische Therapie zu erklären. Im Speicher ergaben sich keine neuen Tachyarrhythmien im Speicher.
+
+In der transthorakalen Echokardiographie vom <[Pseudo] 27/09/2035> zeigte sich im Vergleich zur Voruntersuchung vom <[Pseudo] 16/09/2035> eine Abnahme der LVEF mit beginnender Dilatation des linken Ventrikels. Daraufhin erfolgte zur weitergehenden Abklärung die Durchführung eines Kardio-MRTs, hier war bei Artefakten aufgrund des einliegenden 2-Kammer-ICDs keine adäquate MR-tomographische Darstellung bzw. Beurteilung des Herzens möglich.
+
+Bei wiederholten Palpitationen in Ruhe erfolgte eine erneute kurzfristige Abfrage des ICD-Geräts am B-DATE. Hierbei fanden sich im Speicher keine neuen Episoden, während der Abfrage zeigte sich jedoch eine AV-Dissoziation bei einer ventrikulären Frequenz von etwa 90/min. Mit einer Frequenz von 120/min ließ sich diese idioventrikuläre Tachykardie erfolgreich überstimulieren. Hiernach zeigt sich ein SM-stimulierter Rhythmus um 70/min.
+
+Am Abend des <[Pseudo] 01/11/2035> traten erneute rezidivierende VTs auf, zunächst konnte eine Überstimulation durch den internen ICD erreicht werden. Im Verlauf des Tages trat jedoch erneut eine hämodynamisch nicht relevante slow-VT auf, sodass wir B-SALUTE B-PER auf unsere Überwachungsstation übernahmen. Im Verlauf kam es zur Spontankonversion und weiteren slow-VT Episode. Diese traten v. a. während der Dialyse unter Volumenentzug auf, sodass wir das Zielgewicht auf 75 kg anhoben -LRB- bisher 70kg -RRB- und das Furosemid bei aktuell vermehrter Restausscheidungsmengen reduzierten.
+
+Zur Verbesserung der Rhythmuskontrolle entschieden wir uns für ein Absetzen von Flecainid und für eine Aufdosierung mit Amiodaron ab dem <[Pseudo] 03/11/2035> unter engmaschiger stationärer Observanz. Während der Aufsättigung erfolgte eine Umprogrammierung der Monitor-/Therapiezonen des ICDs im Rahmen des stationären Settings.
+
+Nach Rücksprache mit unserer Rhythmusgruppe wurde ein kein erneuter Ablationsversuch favorisiert.
+
+Bei Einnahme von Amiodaron empfehlen wir eine regelmäßige Kontrolle der Schilddrüsenwerte, der Leberwerte sowie eine elektrokardiographische Kontrolle im 3-Monatsrhythmus. Bei Verschlechterung einzelner Parameter, z. B. Verlängerung der QRS-Zeit bzw. QTc-Zeit um mehr als 25 % oder der PQ-Zeit um mehr als 50 % bzw. einer QTc-Verlängerung über die aktuellen 530 ms hinaus oder einer Zunahme der Anzahl oder des Schweregrades der Herzrhythmusstörungen, sollte eine Therapieüberprüfung erfolgen. Alle 6 Monate empfehlen wir eine Lungenfunktionsuntersuchung sowie augenärztliche Kontrolluntersuchungen. Auf entsprechende Maßnahmen zur notwendigen Lichtschutzprophylaxe wurde hingewiesen.
+
+In der erneuten ICD-Abfrage nach Amiodaronaufsättigung vor Entlassung zeigte sich keine neuen Episoden im Speicher. Es erfolgte eine Rückprogrammierung der Tachytherapie -LRB- Anpassung der Detektionsintervalle auf 400 ms in der VT-1-Zone, 350 ms in der FVT-Zone und 280 ms in der VF-Zone, Anzahl der Intervalle, sowie Therapieprogrammierung wurden belassen -RRB- , sowie Anpassung der Grundfrequenz auf 60/min. Die Aktivierung der AutoCapture-Funktion ist erfolgt, sonst keine weitere Anpassung der Bradytherapie notwendig ist.
+
+Nach aktuellen Positionen der B-ORG Fachgesellschaften -LRB- B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG of Cardiology -RRB- empfehlen wir dem Patienten, bei Zustand nach einer adäquaten Therapieabgabe durch den implantierten Defibrillator, für mind. eine Dauer von 3 Monaten nach der letzten Therapieabgabe -LRB- zuletzt am <[Pseudo] 09/11/2035> -RRB- , nicht als Führer eines Kraftfahrzeugs am Straßenverkehr teilzunehmen. Außerdem besteht eine dauerhafte Fahrungeeignetheit als Lastkraftwagen- und Busfahrer. Der Patient wurde hierüber umfassend aufgeklärt. Reevaluation der Fahrungeeignetheit nach 3 Monaten.
+
+Zur kurzfristigen Verlaufskontrolle nach Amiodaronaufsättigung wurde für B-SALUTE B-PER ein Termin in unserer Rhythmusambulanz ausgemacht, der Termin wird B-SALUTE B-PER telefonisch nachberichtet.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung. Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+
+Nächster Termin/Prozedere:
+- Verlaufskontrolle in unserer Rhythmusambulanz, Termin wird dem Patienten nachberichtet
+
+
+Aktuelle Therapie:
+Subkutan:
+Amiodaron 200 mg 1-0-0 Neu
+Propranolol 40 mg 1-1-1
+Ramipril 5 mg 1-0-0,5
+
+Furosemid 500 mg 0,5-0-0 Dosisreduktion
+Calciumacetat 950 mg 2-2-2
+Dekristol 20.000 IE 1x/Woche samstags
+Magnesium verla 1-0-0
+
+Subkutan:
+Clexane 0,4
+mg 1-0-0 -LRB- an dialysefreien Tagen -RRB-
+Clexane 0,2 mg 0-0-1 -LRB- an Dialyse-Tagen -RRB-
+Ferrlecit 62,5 mg 1-0-0 alle 2 Wochen an Dialyse Do
+Epoetin alfa 6.000 I.E. 1-0-0 1x/Woche an Dialyse
+
+Flecainid Abgesetzt
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER / B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsärztinnen
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

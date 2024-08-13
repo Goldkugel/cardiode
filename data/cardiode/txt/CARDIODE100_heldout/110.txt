@@ -1,0 +1,471 @@
+Aufnahmedatum: <[Pseudo] 2033-01-02 >
+Geburtsdatum: <[Pseudo] 1969-09-29 >
+Alter: 63
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 29/09/1969> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR a, die sich vom bis in unserer stationären Behandlung befand.
+
+
+Aktuell:
+- Akuter Myokardinfarkt -LRB- NSTEMI -RRB-
+-UNK- Koronare 2-Gefäßerkrankung -LRB- LAD, LCX -RRB- -LRB- B-OTHER v. <[Pseudo] 31/12/2032> -RRB-
+-UNK- Erfolgreiche Rekanalisation der LCX -LRB- 85 - 90% -RRB- mittels PTCA und 1-fach DE-Stentimplantation
+-UNK- Erfolgreiche Rekanalisation der LAD-Stenose -LRB- 90% -RRB- mittels PTCA und 1-fach DE-Stentimplantation
+-UNK- Verzicht auf LV-Angiographie zur Nephroprotektion
+
+- Akut auf chronisches Nierenversagen nach KM
+-UNK- Pausierung der Nephrotoxischen Medikation
+
+Diagnosen:
+- V.a. primären Hyperparathyreoidismus
+-UNK- Hyperkalziämie, erhöhter PTH-Wert
+-UNK- MRT-Abdomen B-DATE: kein Hinweis auf Nierensteinen
+-UNK- KDM B-DATE: normale Knochendichte
+-UNK- Kein Hinweis auf FHH
+-UNK- Z.n. gastraler Ulcera, <[Pseudo] 08/2030>
+- Asthma bronchiale
+- Spondylarthrose LWK4/S1
+- Bizepssehnenruptur links
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus Typ II,
+Allergien: Ein nicht erinnerliches Medikament
+
+Anamnese:
+Die Aufnahme erfolgte über den Rettungsdienst bei Thoraxschmerz mit Ausstrahlung in den linken Arm und hypertensiver Entgleisung in unsere B-ORG I-ORG Unit.
+
+Die Patientin berichtet über linksthorakalen Schmerz -UNK- wie durch ein Schwert -UNK- seit 3 Tagen.
+
+Auf spezifische Nachfrage ausreichende Belastbarkeit, 1 Etagen Treppensteigen möglich, limitiert durch Belastungsdyspnoe, auch bei Asthma bronchiale. Keine Verschlechterung der Belastungsdyspnoe in den letzten Tagen. Thoraxschmerz nicht eindeutig belastungsinduzierbar.
+
+Bei Aufnahme auf unsere Station berichtet die Patientin weiterhin über o.g. Thoraxschmerz, es besteht eine hypertensive Entgleisung bei aktuell 200/100 mmHg. Häusliche Blutdruckwerte werden nicht gemessen.
+
+Medikation bei Aufnahme:
+Oral:
+ASS 100mg 1-0-0
+Torem 10mg 2-2-0 PAUSE
+Atorvastatin 40mg 0-0-1
+Benazepril HCT 10/12,5 mg -UNK- -0-0
+Allopurinol 300 1-0-0
+Oxycodon Hydrochlorid 30mg 1-0-1
+Pramipexol 0,17mg 0-0-1 PAUSE
+Amitriptylin 40mg/ml 20 TRO 0-0-0-1
+Metformin 1g 1-0-1 PAUSE
+
+Subcutan:
+Insuman basal 0-0-0-22
+Insulin lispro 8-8-8-0
+
+Spray:
+Budesonid/Formoterol 160/4,5μg 1-0-1
+
+Bedarf:
+Oxycodon hydrochlorid 5mg 1-1-1
+Vomex Drg 50mg max 3x/d
+Naproxen 500mg 1-0-1
+Benazeril hydrochlorid / HCT 10/12,5mg 1/2-0-0
+Salbutamol 2 Hb
+Moxonindin 0,2mg max 2x/d
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 167 cm, Gewicht: 87 kg -RRB-
+BMI: 31,2 kg/m²
+HF: 99 /min
+RR: 180/90mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.p.B.
+HT: leise, rein, keine path. Geräusche
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Abdomen: weich, kein DS, keine Resist.
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse gut tastbar
+Neurol. Status: orientierend o.p.B.
+sonstige Auffälligkeiten: keine
+
+
+Ruhe-EKG vom <[Pseudo] 29/12/2032:>
+Sinusrhythmus, Herzfrequenz 99/min, Linkstyp. PQ 164ms, QRS 67ms, QTc 385ms. Verzögerte R-Progression, R/S Umschlag in V5/V6. Keine signifikanten Kammerendteilveränderungen.
+
+
+CT Triple-Rule-Out -LRB- Kooperation -RRB- vom <[Pseudo] 29/12/2032:>
+EKG-Triggerung -LRB- CT -RRB- vom <[Pseudo] 29/12/2032:>
+Messungen und manuelle Platzierung von ROIs -LRB- CT -RRB- vom <[Pseudo] 29/12/2032:>
+Spektral-CT vom: <[Pseudo] 29/12/2032>
+CT Multiplanare Rekonstruktion -LRB- en -RRB- vom <[Pseudo] 29/12/2032:>
+Es liegen keine Voruntersuchungen zum Befundvergleich vor.
+Befund:
+Thorax:
+Kein Hinweis auf eine Lungenarterienembolie. Kein Hinweis auf eine Aortendissektion oder etwaige thorakale Aortenaneurysmata.
+Kein Pneumothorax, Pleuraerguss oder pneumonisches Infiltrat. Allenfalls minimale bronchitische Veränderungen im rechten Unterlappen -LRB- Serie 401, Ima 262 -RRB- . Keine malignomsuspekten pulmonalen Raumforderungen.
+Keine pathologischen axillären, claviculären oder mediastinalen Lymphknoten. Kein Perikarderguss. Geringe Coronarsklerose -LRB- Serie 401, Ima 230 -RRB- .
+Miterfasstes Abdomen:
+Steatosis hepatis -LRB- Serie 401, Ima 391 -RRB- . Gering verplumpte linke Nebenniere -LRB- Serie 401, Ima 393 -RRB- . Darüber hinaus soweit miterfasst und in pulmonal arterieller Phase beurteilbar unauffällige parenchymatöse Oberbauchorgane.
+Skelett:
+Deutliche degenerative Veränderung des Achsenskeletts. Keine suspekten osteolytischen oder osteoplastischen Läsionen.
+Beurteilung:
+-UNK- Kein Nachweis einer Lungenarterienembolie.
+-UNK- Keine Aortendissektion.
+-UNK- Kein Pneumothorax, Pleuraerguss oder pneumonisches Infiltrat.
+-UNK- NB: Steatosis hepatis.
+
+
+Echokardiographie vom <[Pseudo] 29/12/2032:>
+Untersuchung am Bett. Deutlich eingeschränkte Schallbedingungen bei Adipositas.
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne sicher abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA, RA und RV normal groß, gute RVFunktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Mitralklappe ebenfalls leicht verdickt mit dopplersonographisch leichtgradiger Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht bestimmbar. Erstbefund in domo.
+
+Herzkatheteruntersuchung B-OTHER vom <[Pseudo] 31/12/2032:>
+Befund folgt im endgültigen Arztbrief.
+
+EKG nach Intervention vom <[Pseudo] 31/12/2032:>
+Sinusrhythmus, Herzfrequenz 81/min, Linkstyp. PQ 165ms, QRS 64ms, QTc 400ms. Verzögerte R-Progression, R/S Umschlag in V5/V6. Keine signifikanten Kammerendteilveränderungen.
+
+EKG bei Entlassung:
+
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2032> und dem B-DAY B-MONTH <[Pseudo] 2032>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.84
+4 - 10 /nl
+B-DATE
+Hb
+12.8
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.4
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.380
+0,36 - 0,47 l/l
+B-DATE
+MCV
+86
+83 - 97 fl
+<[Pseudo] 01/01/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 01/01/33>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 01/01/33>
+RDW
+14.4
+12,9 - 18,7 %
+<[Pseudo] 01/01/33>
+hypochr.Erythroz.
+2.1 !H
+0 - 2 %
+<[Pseudo] 01/01/33>
+Thrombozyten
+384
+150 - 440 /nl
+<[Pseudo] 01/01/33>
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+137
+135 - 146 mmol/l
+<[Pseudo] 01/01/33>
+Kalium -LRB- ISE -RRB-
+3.75
+3,4 - 5,0 mmol/l
+<[Pseudo] 01/01/33>
+Calcium
+<NONE> !H
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+1.63 !H
+0,5 - 1,0 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+67 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+33.3 !L
+>60 s.u.
+<[Pseudo] 01/01/33>
+MDRD
+80.20
+ml/min/1,73qm
+<[Pseudo] 29/12/32>
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+41.6
+30 - 50 g/l
+B-DATE
+Glucose
+212 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+23
+- <37 U/l
+B-DATE
+GPT/ALT
+17
+- <35 U/l
+B-DATE
+GGT
+68 !H
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.5
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+7.3 !H
+- <6 mg/dl
+B-DATE
+Triglyceride
+114
+- <150 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+183.0
+- alt.abh. mg/dl
+<[Pseudo] 29/12/32>
+LDL-Chol. -LRB- berechn. -RRB-
+118
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+42 !L
+>50 mg/dl
+B-DATE
+CRP
+39.0 !H
+- <5 mg/l
+B-DATE
+PCT sens.
+0.14 !H
+- <0,05 ng/ml
+<[Pseudo] 28/12/32>
+Hämolyse
+-
+
+<[Pseudo] 01/01/33>
+ikterisch
+-
+
+<[Pseudo] 01/01/33>
+Lipämie
+-
+
+<[Pseudo] 01/01/33>
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+228
+- <301 U/l
+B-DATE
+CK
+71
+- <170 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+35.6 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+114
+- <125 ng/l
+<[Pseudo] 28/12/32>
+
+Endokrinologie & Diabetologie
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+9.3 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+78 !H
+20 - 42 mmol/mol
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+220 !H
+- <110 mg/dl
+B-DATE
+TSH
+1.98
+0,400 - 4,000 mU/l
+<[Pseudo] 29/12/32>
+
+Gerinnungsdiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+89.7
+70 - 125 %
+<[Pseudo] 29/12/32>
+INR - ber.
+1.06
+- <1.2
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+20.1
+- <35 s
+B-DATE
+D-Dimer -LRB- neu -RRB-
+3.50 !H
+- <0,5 mg/l
+B-DATE
+
+Weitere Laborwerte
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+313 !H
+65 - 100 mg/dl
+<[Pseudo] 01/01/33>
+
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte über den Rettungsdienst bei aus der Ruhe auftretendem Thoraxschmerz mit Ausstrahlung in den linken Arm. Bei Troponin-Kinetik sehen wir die Symptome im Rahmen eines akuten Myokardinfarkts ohne ST-Streckenveränderung -LRB- NSTEMI -RRB- .
+
+Bei ausgeprägtem Risikoprofil stellten wir die Indikation zur invasiven Diagnostik.
+
+In der durchgeführten Koronarangiographie zeigte sich eine Koronare 2-Gefäßerkrankung. Es erfolgte eine erfolgreiche Rekanalisation der LAD und der LCX, jeweils mittels PTCA und 1-fach DE-Stentimplantation.
+
+Postinterventionell wurde die Patientin am DATE auf unsere Normalstation übernommen.
+
+Bei Übernahme beschwerdefreie und kardiorespiratorisch stabile Patientin. Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Echokardiographisch fand sich eine gute biventrikuläre Pumpfunktion ohne relevante Klappenvitien. Zudem zeigte sich kein Hinweis auf regionale Kontraktionsstörungen.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung mit ASS 100 mg/d und Ticagrelor 90mg 2x/d für 12 Monate. Im Anschluss daran ist eine dauerhafte alleinige Thrombozytenaggregationshemmung mit ASS 100 mg/d ausreichend. Die Patientin wurde über die Notwendigkeit einer lückenlosen Einnahme von Ticagrelor bis einschließlich DATE ausführlich aufgeklärt. Es wurde ein Implantatausweis ausgehändigt.
+
+Der HbA1c Wert zeigte sich mit 9,3 % pathologisch erhöht. Wir bitten um Beginn einer antidiabetischen Therapie.
+
+Wir passten die Medikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Des Weiteren begannen erhöhten wir zur Lipidsenkung und Plaquestabilisierung eine Therapie mit einem Statin. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf und ggf. eine weitere Anpassung der Therapie.
+
+Des Weiteren empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir verlegten die Patientin kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte stationäre Betreuung. Wir danken für die freundliche Übernahme. Für Rückfragen stehen wir jederzeit gerne zur Verfügung.
+
+
+Procedere:
+- Pausierung der nephrotoxischen Mediaktion
+- Blutdruckeinstellung
+
+Therapieempfehlung von kardiologischer Seite:
+ASS 100 mg 1-0-0 dauerhaft
+Ticagrelor 90 mg 1-0-1 neu, bis einschließlich <[Pseudo] 31/12/2033>
+Pantoprazol 40mg 1-0-0
+
+Metoprolol 47,5mg 1-0-1, neu
+Bitte regelmäßige Kontrollen von Herzfrequenz und Blutdruck und ggf. Dosisanpassung im Verlauf
+Lercanidipin 10mg 1-0-0, neu
+Ramipril 2,5mg pausiert bei a/c Nierenversagen
+Doxazosin 4mg 1-0-0, neu
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Jardiance 10mg pausiert bei a/c Nierenversagen
+
+Torem 10mg 2-2-0
+Atorvastatin 80mg 0-0-1, Dosis erhöht
+Bitte regelmäßige Kontrollen von CK, Transaminasen und Lipiden und LDL-adaptierte Dosisanpassung nach aktuellen Leitlinien
+Allopurinol 300 pausiert bei a/c Nierenversagen
+
+Benazepril HCT 10/12,5 mg -UNK- -0-0, abgesetzt bei primärem Hyperparathyreodismus
+Oxycodon Hydrochlorid 30mg 1-0-1
+Pramipexol 0,17mg pausiert bei a/c Nierenversagen
+Amitriptylin 40mg/ml 20 TRO 0-0-0-1
+Metformin 1000 mg pausiert bei a/c Nierenversagen
+
+Subcutan:
+Insuman basal 0-0-0-22
+Insulin lispro 8-8-8-0
+
+Spray:
+Budesonid/Formoterol 160/4,5μg 1-0-1
+
+Bedarf:
+Oxycodon hydrochlorid 5mg 1-1-1
+Vomex Drg 50mg max 3x/d
+Naproxen 500mg 1-0-1, wenn möglich absetzen oder durch unselektiven COX-Hemmer ersetzen
+Benazeril hydrochlorid / HCT 10/12,5mg 1/2-0-0, abgesetzt
+Salbutamol 2 Hb
+Moxonidin 0,2mg max 2x/d, bei Bedarf
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

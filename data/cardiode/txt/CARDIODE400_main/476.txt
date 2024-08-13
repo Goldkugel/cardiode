@@ -1,0 +1,156 @@
+Aufnahmedatum: <[Pseudo] 2032-08-06 >
+Geburtsdatum: <[Pseudo] 1983-09-14 >
+Alter: 48
+
+über Ihren Patienten B-PER I-PER geboren am <[Pseudo] 14/09/1983> der sich am <[Pseudo] 06/08/2032> um 10:26 Uhr in unserer B-ORG I-ORG I-ORG vorstellte.
+Hauptdiagnose:
+NSTEMI/DD Myokarditis
+Sars-Cov-2 Schnelltest negativ/PCR Ausstehend
+Diagnosen:
+Hyposensibilierung gegenüber Wespengift Z51.6 Wespengiftallergie
+Allergien: keine
+Risikofaktoren:
+Arterielle Hypertonie, Adipositas, Nikotinanamnese: Raucher, Packyears: 35.
+Anamnese:
+Die Vorstellung erfolgte als Verbringung durch den Rettungsdienstbei thorakalen Beschwerden seit Montag. Anamnestisch bestanden seit Montag linksseitige thorakales Druckgefühl aus Ruhe und intermittierend ,die jedes mal ca eine Stunde dauern .Keine Dyspnoe, Kein Schwindel, Keine Dyspnoe
+EKG:
+Rhythmus: Sinusrhythmus, Lagetyp: Steiltyp, QRS-Komplex: normal, ST-Strecke: nicht beurteilbarnormal, T-Welle: T Negativierung -LRB- Abi: V5, V4, V6, V7, V8, V9 -RRB- .
+
+B-PER -LRB- M, 48 -RRB- B-OTHER
+Untersuchungsbefund:
+Bewußtsein: klar, Herztöne: normal, Herzzusatztöne: keine, Pulmo auskultatorisch: vesikuläres Atmen, Abdomen: unauffällig, Pulsstatus: regelrecht, Cyanosezeichen: Nein.
+Labor bei Aufnahme:
+<[Pseudo] 06/08/2032> 10:25
+Natrium
+142
+mmol/l
+135 - 146
+<[Pseudo] 06/08/2032> 10:25
+Kalium
+4,96
+mmol/l
+- 4,8
+<[Pseudo] 06/08/2032> 10:25
+Kreatinin
+0,87
+mg/dl
+
+<[Pseudo] 06/08/2032> 10:25
+Harnstoff
+25
+mg/dl
+
+<[Pseudo] 06/08/2032> 10:25
+Glucose
+115
+mg/dl
+65 - 1 10
+<[Pseudo] 06/08/2032> 10:25
+C-reaktives Protein -LRB- CRP -RRB-
+45,3
+mg/l
+
+<[Pseudo] 06/08/2032> 10:25
+Laktatdehydrogenase -LRB- LDH -RRB-
+501
+
+<317
+<[Pseudo] 06/08/2032> 10:25
+GOT
+158
+
+
+<[Pseudo] 06/08/2032> 10:25
+
+50
+Uli
+<50
+<[Pseudo] 06/08/2032> 10:25
+Leukozyten
+15,78
+/nl
+4 - 10
+<[Pseudo] 06/08/2032> 10:25
+Erythrozyten
+5,5
+
+4,3 - 6,1
+<[Pseudo] 06/08/2032> 10:25
+Hämoglobin -LRB- Hb -RRB-
+16,3
+g/dl
+13 - 17
+<[Pseudo] 06/08/2032> 10:25
+Hämatokrit
+0,480
+
+0,38 - 0,52
+<[Pseudo] 06/08/2032> 10:25
+Thrombozyten
+225
+/nl
+150 - 440
+<[Pseudo] 06/08/2032> 10:25
+Quick
+88, 1
+
+70 - 125
+<[Pseudo] 06/08/2032> 10:25
+INR
+1 ,07
+
+< 1.2
+<[Pseudo] 06/08/2032> 10:25
+Thyreoidea stimulierendes Hormon -LRB- TSH -RRB-
+1 ,74
+ml-J/l
+0,400 - 4,000
+<[Pseudo] 06/08/2032> 10:25
+NTBNP
+1149
+ng/l
+- < 125
+HSTNT im Verlauf:
+
+
+
+<[Pseudo] 06/08/2032> 10:25 Troponin T -LRB- TNT -RRB- , high sensitive im Plasma
+1058
+pg/ml
+< 14
+<[Pseudo] 06/08/2032> 11:25 Troponin T -LRB- TNT -RRB- , high sensitive im Plasma
+Medikation in der CPU:
+894
+pg/ml
+< 14
+1 1 :15 Urapidil 12,5 mg
+i.v.
+
+
+1 1 :30 Ticagrelor 180 mg
+oral
+
+
+Metoprolol 5 mg
+1 1 :30 Arixtra 2,5 mg
+i.v.
+
+
+Epikrise:
+Die Vorstellung erfolgte bei o.g. Krankheitsbild. Seit der Aufnahme war der Patient im Wesentlichen oligosymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 1058 pg/ml, im Verlauf 894 pg/ml, somit NSTEMI. Laborchemisch zeigte sich eine Entzündungskonstellation -LRB- CRP 45, Leukozytose, PCT<0,07 -RRB- . Das NT-pro-BNP fand sich erhöht.
+Bei NSTEMI erfolgte eine Loading mit Ticagrelor -LRB- ASS wurde bereits durch niedergelassenen B-SALUTE eingereicht -RRB- und direkte Verlegung in Herzkatether zur invasiven Abklärung.
+Seite 2
+PER, B-PER -LRB- M, 48 -RRB- PID B-OTHER
+
+-Monitor
+-Nach HK Befund
+Therapieempfehlung:
+nach HK Befund
+Mit freundlichen und kollegialen Grüßen
+B-TITLE I-TITLE B-PER I-PER
+B-TITLE I-TITLE B-PER I-PER
+B-PER
+Ärztlicher Direktor
+Oberarzt B-ORG I-ORG I-ORG
+Assistenzarzt
+Seite 3

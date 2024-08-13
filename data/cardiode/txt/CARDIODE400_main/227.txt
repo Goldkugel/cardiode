@@ -1,0 +1,219 @@
+Aufnahmedatum: <[Pseudo] 2036-03-11 >
+Geburtsdatum: <[Pseudo] 1955-11-23 >
+Alter: 80
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 23/11/1955> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen
+Ad Befundsbesprechung der LV-Biopsie in unserer HIS-Ambulanz am <[Pseudo] 02/05/2036> um 14 Uhr
+- Komplikationslose Entnahme multipler LV-Biopsie -LRB- B-OTHER vom <[Pseudo] 2035> -RRB-
+- V. a. kardiale Amyloidose
+-UNK- Diffus supraendokardiale Kontrastmittelanreicherung, deutliche konzentrische Myokardhypertrophie, negativer Ischämienachweis bei diffuser supraendokardialer Perfusionsverzögerung am ehesten im Sinne einer mikrovaskulären Dysfunktion -LRB- MRT <[Pseudo] 12/2035> -RRB-
+-UNK- Mittelgradig eingeschränkte systolische LV-Funktion
+-UNK- Ausgeprägte konzentrische Linksherzhypertrophie mit Sparkling -LRB- B-ORG I-ORG <[Pseudo] 12/2035> -RRB-
+-UNK- Kein Hinweis auf eine Ausscheidung freier Leichtketten, kein Nachweis einer monoklonalen Gammopathie -LRB- B-ORG <[Pseudo] 12/2035> -RRB-
+-UNK- Myokardbiopsie mit histologischem Ausschluss einer Amyloidose -LRB- B-DATE -RRB-
+- Koronare Herzerkrankung mit mittelgradig eingeschränkter linksventrikulärer Pumpfunktion
+-UNK- NSTEM ohne Indikation zur Katheterintervention bei 50 %iger proximaler LAD-Stenose <[Pseudo] 05/2033>
+-UNK- 50-75 %ige RD1-Abgangsstenose
+- Z.n. Isthmusablation bei typischem Vorhofflattern <[Pseudo] 06/2033>
+- Z.n. DDD-SM-Implantation -LRB- Boston Scientific -RRB- bei AV-Block Grad III
+- Linksatriale Tachykardie, ED <[Pseudo] 03/2035>
+- Z.n. elektrischer Kardioversion in den Sinusrhythmus <[Pseudo] 03/2035>
+- Z.n. EPU <[Pseudo] 12/2035>
+- Keine antegrade Präexzitation, Nachweis einer linksatrialen Tachykardie
+- Sklerosierendes kombiniertes Aortenklappenvitium mit leichtgradiger Stenose und minimaler Insuffizienz
+- Leichtgradige Trikus- und Mitralklappeninsuffizienz
+- Chronische Niereninsuffizienz
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hyperlipoproteinämie, oral eingestellter Diabetes mellitus, positive Familienanamnese.
+
+Allergien: anamn. keine bekannt
+
+Indikation für stationären Herzkatheter:
+- Entnahme einer LV-Biopsie mit postinterventioneller Überwachungspflicht von mehr als 8 h sowie erhöhtes Risiko einer Nachblutung
+- Leistenpunktion unter intensivierter Antikoagulation mit erhöhtem Risiko einer Nachblutung
+
+Anamnese:
+Die aktuelle Vorstellung des Patienten erfolgt zur elektiven Myokardbiopsie bei V.a. kardiale Amyloidose. Der Patient berichtet über eine eingeschränkte Belastbarkeit mit Belastungsdyspnoe -LRB- 1 Etage Treppensteigen möglich, NYHA III -RRB- . Keine Luftnot in Ruhe. Auf spezifische Nachfrage keine Angina pectoris. Gelegentlich orthostatischer Schwindel. Auch stattgehabte Synkopen, Palpitationen oder periphere Oedeme werden verneint. Der häusliche Blutdruck liegt bei 120/70 mmHg. Aktuell kein Hinweis auf einen Infekt.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 178 cm, 85 kg
+HF: 70/min, regelmäßig
+RR: 120/68 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein, keine patholog. Geräusche
+Lunge: bds. frei
+Periphere Ödeme: keine
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Durchgehende ventrikuläre SM-Stimulation mit konsekutiven Kammerendteilveränderungen bei einer mittleren Frequenz von 70/min, QRS 198 ms, QTc 511 ms.
+
+Angiologie-Farbduplexsonographie vom <[Pseudo] 11/03/2036:>
+
+Anamnese und Lokalbefund:
+Z.n. HKU vor 5 Wochen. Nach der Intervention großes Hämatom. Aktuell kein Schmerzen bei Laufen oder Drucken. Leichte Schwellung im Bereich der Punktionsstelle, nicht größenprogredient
+
+Lokalbefund
+Kein Hämatom. Schwellung im Bereich der Punktionsstelle.
+
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Nachweis einer fast komplett thrombosierten Hämatomhöhle 2,8 x1,9cm oberhalb der AFS.
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 11/03/2036> -RRB-
+Myokardbiopsie bei V.a. kardiale Amyloidose:
+
+Komplikationslose Entnahme von 8 rechtsventrikulären, multilokulären Endomyokardbiopsien. PE-Ausschluss erfolgte.
+Procedere:
+1 -RRB- PE-Ausschluss wiederholen.
+2 -RRB- Biopsieergebnis sichten und werten.
+3 -RRB- Nach Maßgabe Amyloidose-Ambulanz.
+
+Ergebnis LV-Biopsie:
+Befund folgt im endgültigen Arztbrief
+
+Echokardiographie vom <[Pseudo] 12/03/2036:>
+Normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit noch leichtgradig verminderter systolischer Pumpfunktion bei Hypokinesie der mediobasalen Wandabschnitte. Deutlich verminderte longitudinale Funktion, typische Myokardtextur und Hinweis auf Compliancestörung des LV. LA,RA und RV dilatiert, RV hypertrophiert, deutlich verminderte RVFunktion. Aortenwurzel normal weit. Aorta ascendens und Aortenbogen, soweit beurteilbar, normal weit. Minimale zirkuläre Perikardergusslamelle ohne hämodynamische Relevanz nachweisbar. Vena cava inferior gestaut. Aorten- und Mitralklappe leicht verdickt mit guter Separation. Geringe Mitralklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist erhöht -LRB- ca. 46 mmHg -RRB- . Echokardiographische Parameter für kardiale Beteiligung bei Amyloidose erfüllt. Erstbefund in
+domo.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2035>
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+142
+135 - 146 mmol/l
+<[Pseudo] 11/03/36>
+Kalium -LRB- ISE -RRB-
+4.34
+3,4 - 5,0 mmol/l
+<[Pseudo] 11/03/36>
+Kreatinin
+1.17
+0,6 - 1,4 mg/dl
+<[Pseudo] 11/03/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+48 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+58.5 !L
+>60 s.u.
+<[Pseudo] 11/03/36>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 11/03/36>
+ikterisch
+-
+
+<[Pseudo] 11/03/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lipämie
+-
+
+<[Pseudo] 11/03/36>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+55.4 !L
+70 - 125 %
+<[Pseudo] 11/03/36>
+INR - ber.
+1.31 !H
+- <1.2
+<[Pseudo] 11/03/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+28.4
+- <35 s
+<[Pseudo] 11/03/36>
+
+
+
+
+
+Zusammenfassung
+Elektive Aufnahme zur Myokardbiopsie. Es zeigte sich das Bild einer kardiale Amyloidose. Es wurden multiple LV-Biopsien entnommen. Dies verlief problemlos, im anschließenden Echo kein Hinweis für einen Perikarderguß.
+Insgesamt komplikationsloser peri- und postinterventioneller Verlauf -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- .
+
+
+Bei einer noch leichtgradig verminderter systolischer Pumpfunktion -LRB- LVEF 50 % -RRB- und unter Rücksprache mit unserer Rhythmusgruppe empfehlen wir gegenwärtig keine Aufrüstung auf ein CRT-D oder CRT-P System.
+
+Procedere:
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien sowie die Fortführung der unten aufgeführten medikamentösen Therapie. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Zur Befundsbesprechung hinsichtlich der Myokardbiopsie bei V.a. Amyloidose haben wir einen Termin für den <[Pseudo] 02/05/2036> um 14 Uhr in unserer HIS-Ambulanz -LRB- Amyloidose-Sprechstunde -RRB- vereinbart.
+
+Nächster Termin/Kontrolle:
+Regelmässige kardiologische Kontrolluntersuchungen, wenn vom zuweisenden B-SALUTE gewünscht, gerne auch in unserer B-ORG -LRB- Terminvereinbarung: B-PHONE -RRB- .
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Xarelto 15 1-0-0, Wiederbeginn am <[Pseudo] 12/03/2036> -LRB- abends -RRB-
+Carvedilol 12,5 -UNK- -0- -UNK-
+Entresto 97/103 1-0-1
+Eplerenon 25 1-0-0
+Torasemid 10 1-0-0
+Rosuvastatin 10 0-0-1
+Pantozol 40 1-0-0
+Entresto 97/103 1-0-1 ggf. Reevaluation wegen proamyloidem Potential
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 12/03/2036> in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gern zur Verfügung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir bedanken uns für die Überweisung und die vertrauensvolle Zusammenarbeit.
+
+Mit freundlichen Grüßen
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

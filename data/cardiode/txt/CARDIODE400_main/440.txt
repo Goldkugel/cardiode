@@ -1,0 +1,511 @@
+Aufnahmedatum: <[Pseudo] 2035-03-26 >
+Geburtsdatum: <[Pseudo] 1955-05-10 >
+Alter: 79
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 10/05/1955> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Hämatom der Schrittmachertasche DD superinfiziert
+-UNK- Kalkulierte antibiotische Therapie mit PipTaz vom B-DATE - B-DATE und Vancomycin vom B-DATE - B-DATE
+-UNK- Punktion des Hämatoms am <[Pseudo] 14/03/2035:> Eubakterielle PCR negativ, mikrobiologisch kein Nachweis von Mikroorganismen
+-UNK- Laborchemisch undulierende, a.e. abakterielle Entzündungskonstellation -LRB- PCT negativ -RRB- , im Verlauf rückläufig, Verlaufskontrollen empfohlen
+- Rezidivierende INR Entgleisungen am <[Pseudo] 08/03/2035> a.e. bei CYP-Wechselwirkung unter Antibiotika-Therapie und am <[Pseudo] 15/03/2035> trotz reduziertem Eindosierungsschema -LRB- 1,1/2,0 Tbl. -RRB-
+-UNK- Entlassung auf expliziten Patientenwunsch
+-UNK- Supratherapeutischer INR bei Entlassung -LRB- INR 4,0 -RRB-
+-UNK- Ad engmaschige INR-Kontrollen
+
+Diagnosen:
+- Erfolgreiche Implantation eines 2-Kammer-Schrittmachers bei Brady-Tachy-Syndrom mit Pausen im Langzeit-EKG am <[Pseudo] 13/02/2035>
+- AKE 23 mm und MKE 29 mm m.e., LIMA-LAD, ACVB-M -LRB- <[Pseudo] 12/01/2035> -RRB-
+- Perikardiotomie inferior mit Entlastung von 600ml Perikarderguss -LRB- <[Pseudo] 19/01/2035> -RRB-
+- Infekt unklarer Genose
+-UNK- Antibiotische Therapie:
+-UNK- Meronem -LRB- B-DATE - <[Pseudo] 27/01/2035> -RRB-
+-UNK- Vancomycin -LRB- B-DATE - <[Pseudo] 26/01/2035> -RRB-
+-UNK- Caspofungin -LRB- B-DATE - <[Pseudo] 23/01/2035> -RRB-
+-UNK- Avalox 400 mg -LRB- <[Pseudo] 31.01.> - <[Pseudo] 04/02/2035> -RRB-
+-UNK- Linezolid -LRB- B-DATE - <[Pseudo] 12/02/2035> -RRB-
+-UNK- Ceftazidim und Clindamycin -LRB- B-DATE - <[Pseudo] 12/02/2035> -RRB-
+- Postoperatives Delir mit hypo- und hyperaktiven Phasen
+- Postoperatives a/c Nierenversagen
+-UNK- Restitutio ad integrum
+- Koronare 3-Gefäßerkrankung -LRB- B-OTHER, vom <[Pseudo] 02/01/2035> -RRB-
+-UNK- Beteiligung des Hauptstamms und chronischer Verschluss der RCA
+-UNK- LV-Angiographie: hochgradig reduziert
+- Z.n. hochgradiger Mitralklappeninsuffizienz -LRB- B-OTHER -RRB-
+-UNK- TEE -LRB- <[Pseudo] 04/01/2035> -RRB- : Hochgradige, zum Teil exzentrische Mitralklappeninsuffizienz bei restriktivem, verdickten und verkalkten AML, mit noch ausreichender Separation
+-UNK- Beschluss der Herzkatheterkonferenz vom <[Pseudo] 08/01/2035:> Doppelklappenersatz -LRB- Aortenklappen und Mitralklappe -RRB- + Bypass-Versorgung
+- Z.n. kombiniertem Aortenvitium höheren Schweregrades mit noch mittelgradiger Stenose und leichtgradiger Insuffizienz -LRB- AÖF-Kontinuitätsgleichung = 1,1 cm², PPG 23 mmHg, MPG 15 mmHg -RRB- .
+- Z.n. kardialer Dekompensation
+- Paroxysmales Vorhofflimmern -LRB- ED <[Pseudo] 12/2034> -RRB-
+-UNK- CHA2DS2-VASc-Score 5 Punkte
+-UNK- EHRA I
+-UNK- Antikoagulation mit Rivaroxaban
+- Postoperative Dysphagie mit Beaufsichtigungspflicht während der Nahrungsaufnahme
+- Inkompletter RSB mit Senkungen über der Vorderwand
+- Leichtgradige Trikuspidalklappeninsuffizienz
+- pAVK Stadium IIa nach Fontane
+-UNK- Stenosierung der A. poplitea rechts
+-UNK- bekannter AFS-Verschluss links
+- Spinalkanalstenose mit Claudicatio spinalis
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, ehemaliger Nikotinabusus -LRB- kumulativ 25-30 py -RRB- , Diabetes mellitus Typ 2, pos. Familienanamnese -LRB- Vater mit Myokardinfarkt im Alter von 79 79 -RRB-
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte als Überweisung aus der B-ORG bei V.a. Abszess der Schrittmacher-Tasche.
+Der Patient berichtet über eine seit ca. 2 Tagen bestehende schmerzlose Schwellung der Schrittmachertasche. Keine Überwärmung, keine Rötung, kein Hämatom. Insgesamt asymptomatischer Patient bei seit der Operation subjektiv stabilem kardialem Verlauf. Kein Fieber ohne andere Infektzeichen. Als mögliche Eintrittspforte besteht ein oberflächlicher Dekubitus sakral -LRB- anamnestisch seit ca. 3 Tagen bestehend -RRB- sowie die OP-Wunden -LRB- reizlos, nicht gerötet -RRB- . Weiterhin berichtet der Patient seit der herzchirurgischen Operation von einer verbesserten körperlichen Belastbarkeit im Alltag, keine inadäquate Belastungsdyspnoe, keine belastungsinduzierten pectanginösen Beschwerden. Keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen, kein Schwindel, keine stattgehabten Synkopen. Keine peripheren Ödeme.
+
+Medikation bei Aufnahme:
+Oral:
+Bisoprolol 5 mg 1-0-1
+Ramipril 2,5 mg -UNK- -0-0
+Spironolacton 50 mg -UNK- -0-0
+Torasemid 10 mg 1-0-0
+Melatonin 1 mg/ml 0-0-3
+Novalgin Tropfen 500 mg/ml 30-30-30-30
+Atorvastatin 10 mg 0-0-1
+Dapagliflozin 1-0-0
+Kalinor retard 600 mg 1-0-1
+Magnesium Verla 2-0-0
+Melneurin 25 mg 0-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut
+HF: 75/min, regelmäßig
+RR: 110/70 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: orientierend unauffällig.
+sonstige Auffälligkeiten: ca. 6x6 cm große Schwellung der Schrittmachertasche, keine Überwärmung, keine Rötung, kein Hämatom, OP-Wunden reizlos, oberflächlicher Dekubitus sakral.
+
+Ruhe-EKG bei Aufnahme:
+Normofrequenter Sinusrhythmus bei durchgängiger atrialer Schrittmacherstimulation, regelmäßig, Herzfrequenz 75/min, Indifferenztyp. PQ 196ms, QRS 136ms, QTc 451ms. Kompletter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 06/03/2035:>
+Normal großer, septal betont hypertrophierter linker Ventrikel mit leichtgradig reduzierter systolischer Pumpfunktion bei Hypokinesie anterolateral, inferolateral und apikal anterior. Erhaltene longitudinale Funktion. Relaxationsstörung des linken Ventrikels. LA dilatiert. RA und RV noch normal groß, global leicht reduzierte RV-Funktion insb. longitudinal. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aorten- und Mitralklappenersatz in loco typico ohne relevante transvalvuläre Gradienten. Leichtgradige MKE-Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 15 mmHg -RRB- .
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 01/01/2035:> Z.n. MKE und AKE, hiernach Vitien nicht mehr nachweisbar. Von transthorakal kein Nachweis von Vegetationen
+
+Transösophageale Echokardiografie vom <[Pseudo] 06/03/2035:>
+Kein Nachweis intrakardialer Vegetationen. Mitralklappenersatz in loco typico mit guter Separation ohne relevanten transvalvulären Gradienten bei diskreter Insuffizienz. Aortenklappenersatz in loco typico mit guter Separation ohne Nachweis transvalvulärer Gradienten ohne Nachweis einer Insuffizienz. Allenfalls Reflux über der Trikuspidalklappe bei einliegendem Schrittmacher-Kabel. Pulmonalklappe einsehbar und ohne Vegetationen. Schrittmacherkabel frei von Thromben/Vegetationen. Normal großer, septal betont hypertrophierter linker Ventrikel mit leichtgradig reduzierter systolischer Pumpfunktion bei Hypokinesie anterolateral, inferolateral und apikal anterior. Erhaltene longitudinale Funktion. Relaxationsstörung des linken Ventrikels. LA dilatiert. RA und RV noch normal groß, global leicht reduzierte RV-Funktion insb. longitudinal. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 15 mmHg -RRB- . Kein Nachweis einer Perikardergusses. Kein Nachweis intrakardialer Thromben. Erhaltene Flussgeschwindigkeiten im linken Vorhofohr. Farbduplexsonographisch kein Nachweis eines Shunts auf Vorhofebene. Aortenwurzel normal weit. Thrombogener Aortenbogen Grad II.
+Im Vergleich zur Voruntersuchung vom DATUM: Keine wesentliche Befundänderung.
+
+Farbduplexsonographie der Schrittmacher-Tasche vom <[Pseudo] 06/03/2035:>
+Z. n. Implantation eines 2-Kammer-Schrittmachers bei Brady-Tachy-Syndrom mit Pausen im Langzeit-EKG am <[Pseudo] 13/02/2035>
+Befund:
+Hämatom im linken Schulterbereich. Farbduplexsonographisch zeigt sich eine echogemischte Flüssigkeitsansammlung um das Aggregat -LRB- s. PACS -RRB- , einer Einblutung nach Implantation entsprechend. Keine frischen Anteile. Im kaudalen Bereich ist Abszessflüssigkeit im Bereich des Hämatoms nicht sicher auszuschließen. SM-Elektroden in v. subclavia nachweisbar. Kein Hinweis für ein Thrombus an den Elektroden.
+
+Schrittmacherkontrolle vom <[Pseudo] 06/03/2035:>
+Befund / Zusammenfassung:
+Regelrechte Aggregatfunktion. Batteriestatus gut -LRB- Mittlere Laufzeit: 13 Jahre, 2,78 V -RRB- . Keine wesentliche Änderung der RA und RV-Wahrnehmung, stabile Messwerte von Reizschwelle und Impedanz. 12 neue AT Episoden bei bekannten Vorhofflimmern im Speicher. Eine nsVT über 9 Schläge am <[Pseudo] 22/02/35> -LRB- CL: 300-330 -RRB- . Der Patient war hierunter asymptomatisch. Aktuell 7,2% atriale- und <1% ventrikuläre Stimulation. Keine Anpassung der Parameter bei weiterhin Einheilungsphase und aktivierter AutoCapture Funktion.
+Nächste Vorstellung zum 1-Monatsfollow-Up, sowie regelmäßige kardiologische Verlaufskontrollen empfohlen.
+
+Farbduplexsonographie der Schrittmacher-/DEFI-Tasche links thorakal vom <[Pseudo] 12/03/2035:>
+- Z.n. Implantation eines 2-Kammer-Schrittmachers bei Brady-Tachy-Syndrom mit Pausen im Langzeit-EKG am <[Pseudo] 13/02/2035>
+Inspektion:
+Narbe reizlos, leichte Rötung, neue Weichteilschwellung lateral kaudal des Aggregates, keine Fieber, kein Schüttelfrost. Kein Druckschmerz im Aggregatbereich. Keine Kollateralvenen, kein Hämatom.
+Sonographie:
+Um das Aggregat herum findet sich eine im Seitenvergleich regelhafte Cutis und Subkutis. Lateral kaudal des Aggregats -LRB- am Rand -RRB- Nachweis eines ca. 4,5x 2,2cm großes echoarmen Bereich, ohne Perfusion -LRB- DD Abszess -RRB- .
+V. u. A. subclavia regelrecht perfundiert ohne Hinweis auf Gefäßverletzung oder Thrombose.
+- V.a. Abszess
+
+Punktion Schrittmachertasche vom <[Pseudo] 14/03/2035:>
+Diagnosen:
+Unter antibiotischer Therapie persistierende Infektkonstellation. Serum DD Hygrom DD Hämatom DD Abszess lateral-kauda der HSM-Tasche. Bei fehlendem klarem Infektfokus und komplexer Vorgeschichte Individualentscheidung zur diagn. Punktion.
+Bericht:
+Nach initial sonographischer Lokalisation und ausgiebiger Desinfektion -LRB- Braunoderm -RRB- Punktion der verkapselten Flüssigkeitsansammlung mit einer 20G Nadel. Es kann ca. 1 ml dunkelrotes Punktat mit koagulösen Anteilen abgezogen werden, mehr Volumen lässt sich bei a. e. durch Koagel verstopfter 20G Nadel nicht mobilisieren. Steriler Verband. Versand des Materials in die Mikrobiologie.
+
+Mikrobiologischer Befund vom <[Pseudo] 15/03/2035:>
+Untersuchungsmaterial: Punktat
+Abnahmeort: Punktion Serom. HSM-Tasche linkspectoral
+Gewünschte Untersuchung:
+Eubakterielle PCR
+DNA-Nachweis:
+Eubakterielle PCR: negativ -LRB- <10 Keime/μl Probe -RRB-
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 15/03/2035:>
+Zum Vergleich dient ein Röntgen-Thorax vom B-DATE.
+Befund und Beurteilung:
+Aktuell Zustand nach Punktion der Schrittmachertasche links.
+Kleiner Randwinkelerguss rechts. Umverteilter deutlicher Pleuraerguss links, an der v.a. lateralen Thoraxwand gefangen. Medial angrenzend an den Erguss zeigen sich eine zarte senkrechte Linie und ein Saum ohne abgrenzbare Lungengefäßzeichnung DD Pneumothorax nicht auszuschließen, möglicherweise am Rand verklebt bei fehlender apikaler Umverteilung. Mediastinum verbreitert. Frei einsehbarer Retrosternalraum. Retrokardialraum durch Pleuraerguss verschattet. Aortensklerose. Keine höhergradige pulmonalvenöse Stauung. Flächige Verschattung retrokardial, in der Seitaufnahme durch den Pleuraerguss verdeckt, Infiltrat möglich. Ansonsten keine infiltrattypischen Verdichtungen in den einsehbaren Lungenabschnitten. Fremdmaterial unverändert zur Voruntersuchung.
+Die telefonische Befundmitteilung bzgl. V.a. Pneumothorax links ist erfolgt.
+
+Angiologische Untersuchung vom <[Pseudo] 15/03/2035:>
+Lokaler Befund: oberflächliche Hämatome am Unterarm rechts. Arm nicht geschwollen. Keine Verhärtungen. Keine Überwärmung. Klinisch kein Anhalt für eine Einblutung.
+Farbduplexsonographie der Gefäße des rechten Unterarms:
+A.Axillaris und brachialis regelrecht perfundiert. A. radialis und ulnaris mit biphasischen Flüssen darstellbar. Kein Anhalt für TVT im Unterarm.
+
+Schrittmacherkontrolle vom <[Pseudo] 16/03/2035:>
+Befund / Zusammenfassung:
+Regelrechte Schrittmacher-Kontrolluntersuchung. Messwerte stabil. Batteriestatus gut. Keine neuen Episoden im Speicher. 18,5% atriale- und <1% ventrikuläre SM-Stimulation. Anpassung der Stimulationsparameter.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 16/03/2035:>
+Mehrere Voruntersuchungen zum Vergleich vorliegend, zuletzt einen Röntgen Thorax des Vortages.
+Befund und Beurteilung:
+Fremdmaterial unverändert einliegend.
+Kleiner Randwinkelerguss rechts. A.e. an der lateralen Thoraxwand gefangener Pleuraerguss links mit einer maximalen Saumbreite von 3 cm. Kein Pneumothorax.
+Mediastinum verbreitert. Frei einsehbarer Retrosternalraum. Retrokardialraum durch Pleuraerguss verschattet. Aortensklerose. Keine höhergradige pulmonalvenöse Stauung. Flächige Verschattung retrokardial, in der Seitaufnahme durch den Pleuraerguss verdeckt, Infiltrat möglich. Ansonsten keine infiltrattypischen Verdichtungen in den einsehbaren Lungenabschnitten. Fremdmaterial unverändert zur Voruntersuchung.
+
+Ruhe-EKG bei Entlassung:
+Normofrequenter Sinusrhythmus, regelmäßig, Herzfrequenz 72/min, Linkstyp. PQ 179ms, QRS 133ms, QTc 450ms. Kompletter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen.
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte als Überweisung aus der B-ORG bei V.a. Abszess der Schrittmacher-Tasche.
+
+Bei laborchemisch erheblicher Entzündungskonstellation erfolgte die Asservierung von Blutkulturen. Wir führten die am <[Pseudo] 03/03/2035> extern begonnene kalkulierte antibiotische Therapie mit Piperacillin/Tazobactam fort und ergänzten diese am Aufnahmetag um Vancomycin.
+
+Bei Z. n. nach Aorten- und Mitralklappenersatz erfolgte die Umstellung der Antikoagulation auf einen Heparin-Perfusor. Eine Klappenendokarditis konnte echokardiographisch ausgeschlossen werden.
+
+Weiterhin zeigte sich echokardiographisch ein normal großer, septal betont hypertrophierter linker Ventrikel mit leichtgradig reduzierter systolischer Pumpfunktion bei Hypokinesie anterolateral, inferolateral und apikal anterior. Im Vergleich zur Voruntersuchung vom <[Pseudo] 01/01/2035> zeigte sich ein Z.n. Mitral- und Aortenklappenersatz, weiterhin keine wesentliche Befundänderung.
+
+Bei unter antibiotischer Therapie regredienter Infektkonstellation, klinisch rückläufiger Schwellung und sonographisch a.e. Hämatom, einer Einblutung nach Implantation entsprechend, entschieden wir uns für ein primär konservatives Prozedere. Die kontrollierte Schrittmacherfunktion war regelrecht.
+
+Im Verlauf kam es zu einem erneuten leichten Anstieg der Infektwerte bei klinisch sowie sonographisch konstant imponierender Raumforderung lateral kaudal des Aggregats. Es erfolgte die erneute Asservierung von Blutkulturen, in welchen sich kein mikrobielles Wachstum zeigte. Zum Ausschluss eines verkapselten Abszesses erfolgte die Entscheidung zur Punktion mit feiner Nadel. Es konnte dunkelrotes Punktat mit koagulösen Anteilen gewonnen werden, welches zur mikrobiologischen Untersuchung eingesendet wurde. Eine mikrobiologische Untersuchung mittels PCR erbrachte keinen Keimnachweis, auch eine kulturelle Anzucht erbrachte kein Keimwachstum. Eine Schrittmacher-Kontrolle nach Punktion war regelrecht, konventionell radiologisch konnte ein Pneumothorax ausgeschlossen werden.
+In Rücksprache mit der Mikrobiologie erfolgte bei niedrigem PCT, regredienter Entzündungskonstellation sowie keinem Keimnachweis in der Raumforderung der Schrittmachertasche ein Auslassversuch der antibiotischen Therapie. Hierunter zeigte sich nach zunächst undulierenden Infektparameter ein Abfall der Entzündungswerte -LRB- CRP bei Entlassung bei 90mg/dl, PCT negativ -RRB- . Wir empfehlen engmaschige Verlaufskontrollen von hausärztlicher Seite.
+
+Die intravenöse Antikoagulation mittels Heparin-Perfusor konnte auf Marcumar umgestellt werden. Hierunter kam es zu supratherapeutischen INR-Werten, sodass Marcumar zunächst pausiert wurden. Nach erneuter Eindosierung in reduzierter Dosis -LRB- 1, 1/2, 0 Tabletten -RRB- mit Beginn am <[Pseudo] 17.03.> kam es erneut zu einer milden INR-Entgleisung, sodass Marcumar erneut pausiert wurde. Zum Verlegungszeitpunkt lag der INR bei 4,0, somit im supratherapeutischen Bereich. Wir bitten um regelmäßige INR-Kontrollen, zunächst am <[Pseudo] 26/03/2035> sowie ggf. um eine Anpassung der Marcumar-Dosis im Verlauf -LRB- Eindosierung in niedriger Dosis empfohlen -RRB- . Bis dahin empfehlen wir Marcumar pausiert zu belassen.
+
+Wir entlassen B-SALUTE B-PER auf expliziten Patientenwunsch und empfehlen engmaschige Kontrollen von Infekt- und INR-Werten.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien, eine absolute Nikotinkarenz sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung. Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+
+Therapieempfehlung:
+Oral:
+Marcumar Nach INR Neu, aktuell bis zum <[Pseudo] 26/03/2035> pausiert
+Bisoprolol 5 mg 1-0-1
+Ramipril 2,5 mg -UNK- -0-0
+Spironolacton 50 mg -UNK- -0-0
+Torasemid 10 mg 1-0-0
+Melatonin 1 mg/ml 0-0-3
+Novalgin Tropfen 500 mg/ml 30-30-30-30
+Atorvastatin 10 mg 0-0-1
+Dapagliflozin 10mg 1-0-0
+Kalinor retard 600 mg 1-0-1
+Magnesium Verla 2-0-0
+Melneurin 25 mg 0-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER / B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsärztinnen
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 04/03/2035> und dem <[Pseudo] 23/03/2035>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.32
+4 - 10 /nl
+B-DATE
+Hb
+10.4 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+3.2 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.300 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+93
+83 - 97 fl
+<[Pseudo] 23/03/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 23/03/35>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 23/03/35>
+RDW
+18.0
+12,9 - 18,7 %
+<[Pseudo] 23/03/35>
+hypochr.Erythroz.
+3.6 !H
+0 - 2 %
+<[Pseudo] 23/03/35>
+Thrombozyten
+146 !L
+150 - 440 /nl
+<[Pseudo] 23/03/35>
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+136
+135 - 146 mmol/l
+<[Pseudo] 23/03/35>
+Kalium -LRB- ISE -RRB-
+4.28
+3,4 - 5,0 mmol/l
+<[Pseudo] 23/03/35>
+Calcium
+2.16
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+1.36
+0,6 - 1,4 mg/dl
+<[Pseudo] 23/03/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+31
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+49.1 !L
+>60 s.u.
+<[Pseudo] 23/03/35>
+MDRD
+39.66
+ml/min/1,73qm
+<[Pseudo] 04/03/35>
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+31.6
+30 - 50 g/l
+B-DATE
+Glucose
+83
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+7
+- <50 U/l
+B-DATE
+GGT
+134 !H
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.80
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+7.0 !H
+- <7 mg/dl
+B-DATE
+Triglyceride
+96
+- <150 mg/dl
+B-DATE
+Cholesterin
+122.0
+- alt.abh. mg/dl
+<[Pseudo] 04/03/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+71
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+32 !L
+>40 mg/dl
+B-DATE
+CRP
+89.4 !H
+- <5 mg/l
+<[Pseudo] 23/03/35>
+PCT sens.
+<0.05
+- <0,05 ng/ml
+<[Pseudo] 19/03/35>
+Hämolyse
+-
+
+<[Pseudo] 23/03/35>
+ikterisch
+-
+
+<[Pseudo] 23/03/35>
+Lipämie
+-
+
+<[Pseudo] 23/03/35>
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+374 !H
+- <342 U/l
+B-DATE
+CK
+22
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+74.8 !H
+- <14 pg/ml
+<[Pseudo] 04/03/35>
+
+Endokrinologie & Diabetologie
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+5.25 !H
+0,400 - 4,000 mU/l
+<[Pseudo] 04/03/35>
+
+
+
+Gerinnungsdiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+13.6 !L
+70 - 125 %
+<[Pseudo] 23/03/35>
+INR - ber.
+<NONE> !H
+- <1.2
+<[Pseudo] 23/03/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+47.2 !H
+- <35 s
+<[Pseudo] 21/03/35>
+
+Urindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+5.00 !L
+6,0 - 8,0
+<[Pseudo] 14/03/35>
+SpezGew/Tstr.
+1020
+1001 - 1035
+<[Pseudo] 14/03/35>
+Glucose/Tstr.
+>=1000
+- neg. mg/dl
+<[Pseudo] 14/03/35>
+Bili/Tstr.
+
+negativ
+- neg.
+<[Pseudo] 14/03/35>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 14/03/35>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 14/03/35>
+Eiweiß/Tstr.
+Spur
+- neg. mg/dl
+<[Pseudo] 14/03/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 14/03/35>
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 14/03/35>
+Leuko /Tstr.
+Ca 125
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+27.0 !H
+- <8 /µl
+B-DATE
+Leuko/µl
+198.0 !H
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+13.00 !H
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+<[Pseudo] 14/03/35>
+
+Medikamentenspiegel & Toxikologie
+Parameter
+Wert
+Normb / Dimension
+Datum
+Vancomycin
+12.9
+5 - 20 mg/l
+B-DATE

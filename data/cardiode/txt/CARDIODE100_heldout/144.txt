@@ -1,0 +1,122 @@
+Aufnahmedatum: <[Pseudo] 2032-10-17 >
+Geburtsdatum: <[Pseudo] 1973-08-02 >
+Alter: 59
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 02/08/1973> wh. B-PLZ B-LOC I-ADDR I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Verlaufskontrolle nach Aortenklappen- -LRB- <[Pseudo] 2029> -RRB- und Mitralklappenersatz -LRB- <[Pseudo] 2031> -RRB-
+-UNK- Klinisch stabiler kardialer Verlauf
+-UNK- Echokardiographisch grenzwertig großer, septal betont hypertrophierter linker Ventrikel mit leichtgradig eingeschränkte systolische Pumpfunktion bei Hypokinesie betont inferior, inferolateral und inferoseptal
+-UNK- Biologische Mitralklappenprothese in regelrechter Lage ohne Restinsuffizienz oder relevante Stenosierung. Aortenklappenprothese in regelrechter Position mit minimaler Restinsuffizienz nachweisbar,
+-UNK- Im Belastungs-EKG bis zu 50 Watt -LRB- 85% Ziel-Hf -RRB- waren ST-Streckensenkung in V5 und V6 in Ruhe erkenntlich, welche sich unter maximaler Belastung verstärkten
+- Ad pharmakologisches Echo am <[Pseudo] 21/03/2033> 13:00 Uhr in unserer kardiologischen Ambulanz vereinbart
+
+Diagnosen:
+- Koronare Dreigefäßerkrankung mit leichtgradig eingeschränkter linksventrikulärer Pumpfunktion
+-UNK- Z.n. 2-fach Koronarrevaskularisation unter Anlage eines aortokoronaren Venenbypasses auf LAD, Anlage eines aorto-koronaren Venenbypasses auf RCA als Re-OP am <[Pseudo] 28/07/2031>
+-UNK- 25%-ige Hauptstammstenose, 75%-ige Stenose der RCA, 75%-ige Stenose der LAD, 50%-ige Stenose der LCX. -LRB- B-OTHER vom <[Pseudo] 16/07/2031> -RRB-
+- Z. n. Mitralklappen-Endokarditis <[Pseudo] 06/2031>
+-UNK- Mitralklappenersatz mit biologischer Prothese -LRB- Medtronic Hancock II T510 -LRB- MK -RRB- ,
+-UNK- 29 mm, SNr: B-OTHER -RRB-
+-UNK- Z.n. Re-Thorakotomie mit Hämatomausräumung und Blutstillung bei Perikardtamponade und Hämatothorax am <[Pseudo] 28/07/2031>
+-UNK- Z.n. Mitralklappeninsuffizienz II°-III°, Mitralanalulusverkalkung. Beginnend flottierende Struktur an der Mitralklappe am <[Pseudo] 25/06/2031>
+- Aortenklappenersatz mit biologischer Prothese -LRB- Edwards Lifesciences C-E Perimount Magna Ease 3300TFX -LRB- AK -RRB- , 23 mm, SNr: B-OTHER -RRB- am <[Pseudo] 08/01/30> bei
+-UNK- Z.n. kombiniertem Aortenklappenvitium mit überwiegender Aortenklappenstenose III° -LRB- KÖF 0,3 cm², PPG 76 mmHg, MPG 43 mmHg -RRB- und Aortenklappeninsuffizienz I°
+-UNK- Taschenklappenexzisate -LRB- Aortenklappe -RRB- mit fibromyxoider Degeneration des Klappenapparates und fokal dystrophen Verkalkungen sowie Nachweis einer floriden Klappenendokarditis -LRB- Pathologie postoperativ <[Pseudo] 08/01/2030> -RRB-
+- Paroxysmales Vorhofflimmern -LRB- Erstdiagnose <[Pseudo] 05/2031> -RRB-
+-UNK- Tachymyopathie mit zuletzt hochgradig eingeschränkter systolischer LV-Funktion -LRB- TEE am <[Pseudo] 31/08/2031> -RRB-
+- Nierentransplantatversagen -LRB- Baseline Krea vom <[Pseudo] 12/07/2031> 2,45 mg/dl, max. Kreatinin vom <[Pseudo] 28/08/2031> 4,06 mg/dl -RRB-
+-UNK- Chronische Hämodialyse seit <[Pseudo] 08/2031> bei Z.n. hydropischer Dekompensation
+-UNK- Z.n. Nierenallotransplantation einer rechten Niere in linke Fossa iliaca <[Pseudo] 04/12/2013>
+-UNK- Renale Grunderkrankung: Membranoproliferative Glomerulonephritis
+-UNK- Hämodialyse vom B-DATE - B-DATE
+-UNK- Renale Anämie, sekundärer Hyperparathyreoidismus, steroidinduzierter DM
+- COPD Gold I -LRB- Ausschluss Alpha-1-Antitrypsin-Mangel am <[Pseudo] 29/06/27> -RRB-
+- Unklare pulmonale Raumforderung re. S8 mit 8 mm, DD narbig dystelektatisch, CT
+- Z.n. Staphylokokkensepsis <[Pseudo] 03/30>
+- Z.n. Bursitis calcarea linke Schulter <[Pseudo] 08/09>
+- Z.n. rezidiv. Paukenergüssen <[Pseudo] 04/2029>
+- Gicht -LRB- ED B-DATE mit Cortison Stroßtherapie -RRB-
+
+Kardiovaskuläre Risikofaktoren: arterielle Hypertonie, Diabetes mellitus -LRB- steroidinduziert -RRB- , ehemaliger Nikotinabusus -LRB- 10 packyears bis <[Pseudo] 2017> -RRB-
+Allergien/Unverträglichkeiten: braunes Pflaster
+
+Anamnese:
+Die ambulante Vorstellung erfolgte zur routinemäßigen kardiologischen Verlaufskontrolle bei zweifachem Klappenersatz und bekannter koronarer 3-Gefäßerkrankung. Der Patient hatte <[Pseudo] 2029> Aortenklappen- und <[Pseudo] 2031> Mitralklappenersatz gehabt. Seit einem Jahr sei VHF aufgetreten -LRB- Apple Watch zeigt 130 Ereignisse/Jahr -RRB- . Im Alltag bestünden eine eingeschränkte Belastbarkeit mit einer inadäquaten Belastungsdyspnoe nach 1-2 Etagen Treppensteigen -LRB- NYHA II-III -RRB- . Es bestünden keine belastungsabhängigen und -unabhängigen pectanginösen Beschwerden. Patient ist bei Nierentransplantatversagen dialysepflichtig. Bei Dialyse nehme er selten Palpitationen wahr. Selten komme Schwindel vor. Stattgehabte Synkopen werden verneint. Es bestünde keine Nykturie bei einer minimalen Restausscheidung. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die Blutdruckmessungen bei Dialyse ergäben Werte um 110/59 mmHg. Subjektiv bestünde seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Aktuelle Medikation:
+Marcumar 3 mg n INR -LRB- 2 - 2.5 -RRB-
+Amlodipin 5 mg 1-0-0 -LRB- Blutdruck -RRB-
+Captopril 25 mg 0-1-0
+Bisoprolol 5 mg 1-0-1 -LRB- 0-0-1 bei Dialyse -RRB-
+Digitoxin 0,07 mg 1-0-0 -LRB- Reduziert, Puls zu niedrig -RRB-
+Fluvastatin 40 mg 0-0-1
+Furosemid 40 mg 1-1-0
+Urbason 4 mg 1-0-0
+Sevelamer 800 mg 0-1-0
+Pantoprazol 40 mg 1-0-0
+Epoetin alfa 6000 IE 1x wöchentlich montags
+Dekristol 20.000 1x wöchentlich montags
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 188 cm 71 kg
+HF: 60 /min, regelmäßig
+RR: 90/60 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+Blase:
+
+Ruhe-EKG:
+Bradyarrhythmia absoluta bei Vorhofflimmern, HF 60/min, überdrehter Linkstyp. QRS 127 ms, QTc 392 ms. Linksanteriorer Hemiblock mit konsekutiven Kammerveränderungen. Verzögerte R-Progression, R/S Umschlag in V4/V5, S-Persistenz bis in V6. Nicht-signifikante ST-Senkungen in V5-V6 -LRB- vorbeschrieben -RRB- .
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 50 Watt über 1:54 min. Maximale Frequenz 136/min -LRB- 84% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 131 mmHg, diastolisch 69 mmHg. Abbruch wegen peripherer Ermüdung und Aggravation vorbestehender ST-Streckensenkung. Keine Angina pectoris oder inadäquate Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Bei Nichterreichen der Ausbelastungsfrequenz eingeschränkte Beurteilbarkeit.
+Bereits in Ruhe ST-Streckensenkung in V5 und V6. Unter maximaler Belastung angedeutete Aggravation mit diskret horizontaler ST-Streckensenkungen in den Ableitungen V5-V6 -LRB- max 0,2 mV -RRB- . Durchgehend Vorhofflimmern. Wenige VES -LRB- mehr beobachtet als angegeben -RRB- teils als Couplet und Bigeminus. Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz bei flachem Blutdruckanstieg und insgesamt hypotonem Blutdruckprofil.
+
+Transthorakale Echokardiographie:
+Biologische Mitralklappenprothese -LRB- Medtronic Hancock II, 29 mm -RRB- in regelrechter Lage ohne Restinsuffizienz oder relevante Stenosierung. Aortenklappenprothese in regelrechter Position mit minimaler Restinsuffizienz nachweisbar, ohne sign. Stenosierung. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist erhöht -LRB- ca 35-40 mmHg -RRB- . Grenzwertig großer, septal betont hypertrophierter linker Ventrikel mit leichtgradig eingeschränkter systolischer Pumpfunktion bei Hypokinesie betont inferior, inferolateral und inferoseptal. Erhaltene longitudinale LV-Funktion. LA deutlich dilatiert. RA und RV grenzwertig groß mit leicht eingeschränkter RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Im Vergleich zum Vorbefund vom <[Pseudo] 26/10/2031:> Leichte Besserung von LV-Diameter, LV-Fkt und PA-Druck, a.e. nach adapt. Volumenentzug. PA-Druck weiterhin leicht erhöht.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur routinemäßigen kardiologischen Verlaufskontrolle bei Aorten- und Mitralklappenersatz und bekannter koronarer 3-Gefäßerkrankung. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Das Belastungs-EKG bis 50 Watt ergab, soweit bei Nichterreichen der Ausbelastungsfrequenz beurteilbar, bereits in Ruhe ST-Streckensenkung in V5 und V6, welche sich unter maximaler Belastung angedeutete verstärken.
+
+Echokardiographisch zeigte sich ein grenzwertig großer, septal betont hypertrophierter linker Ventrikel mit leichtgradig eingeschränkter systolischer Pumpfunktion bei Hypokinesie betont inferior, inferolateral und inferoseptal. Die biologische Mitralklappenprothese zeigte sich in regelrechter Lage ohne Restinsuffizienz oder relevante Stenosierung. Aortenklappenprothese zeigte sich in regelrechter Position mit minimaler Restinsuffizienz nachweisbar. Im Vergleich zu Vorbefunden vom <[Pseudo] 26/10/2031> zeigte sich eine leichte Besserung von LV-Diameter, linksventrikulären Funktion und PA-Druck, welche a.e. auf einen adaptierten Volumenentzug zurückzuführen sind.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir derzeit von einem stabilen kardialen Befund und guten Ergebnis nach Klappenersatz aus. Wir empfehlen daher die Fortführung der konservativen Therapie.
+
+Bei elektrokardiographischen Veränderungen unter Belastung empfehlen wir die Durchführung einer pharmakologischen Echokardiographie. Ein Untersuchungstermin wurde am <[Pseudo] 21/03/2033> um 13:00 Uhr in unserer B-ORG Ambulanz vereinbart.
+
+Wir empfehlen zudem die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien und regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, oder Ergometertraining.
+
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen, sowie die hausärztliche Vorstellung. Bei Auftreten von Beschwerden oder Komplikationen sind wir gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung:
+Marcumar 3 mg n INR -LRB- 2 - 2.5 -RRB-
+Captopril 25 mg 0-1-0
+Bisoprolol 5 mg 1-0-1
+Digitoxin 0,07 mg 1-0-0
+Fluvastatin 40 mg 0-0-1
+Furosemid 40 mg 1-1-0
+Urbason 4 mg 1-0-0
+Sevelamer 800 mg 0-1-0
+Pantoprazol 40 mg 1-0-0
+Epoetin alfa 6000 IE 1x wöchentlich montags
+Dekristol 20.000 1x wöchentlich montags
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen,
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

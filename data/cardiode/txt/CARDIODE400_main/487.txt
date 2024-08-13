@@ -1,0 +1,83 @@
+Aufnahmedatum: <[Pseudo] 2036-08-08 >
+Geburtsdatum: <[Pseudo] 1992-09-20 >
+Alter: 43
+
+über Ihre Patientin B-PER I-PER geboren am <[Pseudo] 20/09/1992> die sich am <[Pseudo] 08/08/2036> um 12:26 Uhr in unserer B-ORG I-ORG I-ORG vorstellte.
+Hauptdiagnose:
+Instabile Angina Pectoris
+Ausschluss LAE
+SARS-C0V Ag neg/PCR folgt
+Allergien: keine bekannt
+Risikofaktoren:
+Arterielle Hypertonie, Diabetes mellitus, Adipositas, Nikotinanamnese: nie.
+Anamnese:
+Die Vorstellung erfolgte als Einweisung durch den Hausarzt bei V.a. LAE. Die Patientin berichet von einer
+Aggravierung der Belastungsdyspnoe seit 4 Tagen. Auf spezifische Nachfrage heute thorakales Engegefühl ohne radiatio >20 min. Im Rahmen der hausärztlichen Vorstellung erhöhte D-Dimere festgestellt sodass bereits die Gabe von Clexane erfolgte. Kein Schwindel, keine Synkope. Keine Palpitationen. Kein Hinweis auf einen akuten Infekt. Häusliche Blutdruckwerte 120/80 mmHg.
+Vitalparameter bei Aufnahme: 142/82 mmHg, 80 /min, 36,0 o c.
+EKG:
+
+Rhythmus: Sinusrhythmus, Herzfrequenz: 80/min, Lagetyp: Steiltyp, QRS-Komplex: normal, ST-Strecke: normal, T-Welle: normal.
+Untersuchungsbefund:
+Bewußtsein: klar, Herztöne: normal, Herzzusatztöne: keine, Pulmo auskultatorisch: vesikuläres Atmen, Abdomen: unauffällig, Halsvenen: unauffällig, Cyanosezeichen: Nein. klin. kein Hinweis auf TVT -LRB- Meyer, payr, Homans neg -RRB-
+Computertomographie:
+
+ACHTUNG !!! Vorläufiger Befund ! Dieser Befund wurde noch nicht vom zuständigen Radiologen freigegeben ! ! !
+
+Klinische Angaben: v.a. lae/dissektion Diagnose: s.o.
+Fragestellung: bitte ausschluss lae/Dissektion
+CT-Angio der Pulmonalarterien vom B-DATE
+Rechtfertigende Indikation: B-PER
+Maximum-Intensitäts-Projektion -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 08/08/2036>
+Multiplanare Reformatierung -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 08/08/2036> Spektral-CT vom B-DATE
+Keine vergleichbare Voruntersuchung.
+Befund:
+Kein Nachweis einer Lungenarterienembolie. Keine Rechtsherzbelastungszeichen. Einzelne prominente jedoch nicht suspekt vergrößerte Lymphknoten mediastinal. Kein Perikarderguss. Kein Pleuraerguss. Keine pneumonischen Infiltrate oder suspekten Verdichtungen. Einzelner, kleiner Milchglasnodulus im rechten Unterlappen bis ca. 5 mm -LRB- 405 / 200 -RRB- . Keine suspekten Verdichtungen.
+Mäßige, skelettale Degeneration. Unauffällige Darstellung des angrenzend abgebildeten Weichteilmantels.
+Beurteilung:
+- Kein Nachweis einer Lungenarterienembolie.
+- Insgesamt unauffällige Thorax-CT.
+Labor bei Aufnahme:
+B-DATE 12:41 Natrium 138 mmol/l 135 - 146
+B-DATE 12:41 Kalium 4,14 mmol/l 3,4 - 4,8
+B-DATE 12:41 Kreatinin 0,87 mg/dl
+B-DATE 12:41 Harnstoff 28 mg/dl <45
+B-DATE 12:41 Glucose 93 mg/dl 65 - 1 10
+B-DATE 12:41 C-reaktives Protein -LRB- CRP -RRB- 16,2 mg/l
+B-DATE 12:41 Laktatdehydrogenase -LRB- LDH -RRB- 182 Uli <308
+B-DATE 12:41 GOT 12 Uli <37
+B-DATE 12:41 GPT 14 <35
+B-DATE 12:41 D-Dimer 0,90 mg/l
+B-DATE 12:41 Leukozyten 9,57 /nl 4 - 10
+B-DATE 12:41 Erythrozyten 4,7 /pl 4 - 5,2
+B-DATE 12:41 Hämoglobin -LRB- Hb -RRB- 13,4 g/dl 12 - 15
+B-DATE 12:41 Hämatokrit 0,390 0,36 - 0,47
+B-DATE 12:41 Thrombozyten 249 /nl 150 - 440
+B-DATE 12:41 Quick 105,3 70 - 125
+B-DATE 12:41 INR 0,99 < 1.2
+B-DATE 12:41 Thyreoidea stimulierendes Hormon -LRB- TSH -RRB- ml-J/l 0,400 - 4,000
+B-DATE 12:41 Trijodthyronin -LRB- T3 -RRB- , freies 2,99 ng/l- 4,2
+B-DATE 12:41 Thyroxin -LRB- T4 -RRB- , freies 12,60 ng/l 8 - 18
+B-DATE 12:41 NTBNP 59 ng/l < 125
+HSTNT im Verlauf:
+<[Pseudo] 08/08/2036> 12:42 Troponin T -LRB- TNT -RRB- , high sensitive im Plasma 4,29 pg/ml < 14
+<[Pseudo] 08/08/2036> 13:53 Troponin T -LRB- TNT -RRB- , high sensitive im Plasma 3,72 pg/ml
+Medikation in der ORG:
+Epikrise:
+Die Vorstellung erfolgte bei o.g. Krankheitsbild. Seit der Aufnahme war die Patientin im Wesentlichen asymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 4,3 pg/ml, im Verlauf stabil 3,7 pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig -RRB- . Das NT-pro-BNP fand sich im
+Normbereich.
+Zum Ausschluss einer LAE führten wir ein CT durch. Hiernach kein Hiwneis für eine LAE. Insgesamtz werten wir die berichteten Beschwerden bei bekanntem Diabetes mellitus als ANgina Äquivalent im Sinne einer instabilen Angina Pectoris.
+Es erfolgte bei max. Bettenmangel eine stationäre Aufnahme im B-ORG. Wir danken für die freundliche Übernahme und stehen für Rückfragen jederzeit gerne zur Verfügung.
+- Monitor
+- ad invasive ABklärung
+- pulmologische Abklärung
+- endgültigen CT-Thoraxbefund unter Tel. B-PHONE
+- SARS-C0V PCR sichten
+Die Patientin wurde am B-DATE <[Pseudo] 09/2035> um 17:42 Uhr verlegt --> B-ORG B-ORG B-LOC
+Therapieempfehlung:
+ASS IOOmg 1-0-0 neu
+
+Clopidogrel 75mg 1-0-0 neu, n.HK Befund
+Ramipril 5mg 1-0-0 neu, unter regelm. Kontrollen v. E'lyt und HF, RR und Nierenwerten Metformin 1000mg 1-0-1
+Mit freundlichen und kollegialen Grüßen
+B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt B-ORG I-ORG I-ORG Assistenzärztin

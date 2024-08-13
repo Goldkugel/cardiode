@@ -1,0 +1,88 @@
+Aufnahmedatum: <[Pseudo] 2036-08-06 >
+Geburtsdatum: <[Pseudo] 1977-05-27 >
+Alter: 59
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 27/05/1977> wh. B-PLZ B-LOC I-ADDR I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Verlaufskontrolle bei bekannter Aortenklappenstenose und koronarer Herzerkrankung
+-UNK- Echokardiographisch noch gute linksventrikuläre Funktion
+-UNK- Progress der Aortenklappenstenose, aktuell hochgradig
+-LRB- AÖF-Kontinuitätsgleichung = 0,8 cm², PPG 71 mmHg, MPG 40 mmHg -RRB-
+-UNK- Empfehlung zu weiterer Abklärung mittels invasiver Diagnostik sowie Planung Klappenersatz
+-UNK- Ad Herzkatheteruntersuchung einschließlich Koronarangiographie am <[Pseudo] 14/08/2036>
+-LRB- Aufklärung bereits erfolgt, Laborkontrolle erfolgt beim Hausarzt! -RRB-
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung
+-UNK- Z.n. NSTEMI am <[Pseudo] 12/08/2033>
+-UNK- Erfolgreiche PTCA/ 1x DE-Stentimplantation der LAD -LRB- B-OTHER v. <[Pseudo] 31/10/2033> -RRB-
+-UNK- Gutes Ergebnis nach PTCA/DES der RCA am <[Pseudo] 12/08/33>
+-UNK- Kardio-Stress-MRT vom <[Pseudo] 06/10/2033:> Positiver Ischämienachweis im LAD Stromgebiet
+-UNK- Z.n. erfolgreicher Implantation von 3 DES in RCA am <[Pseudo] 12/08/2033> -LRB- B-OTHER -RRB- ; mit 25-50% Abgangsstenose der LCX
+-UNK- Z. n. Hinterwandinfarkt <[Pseudo] 11/2025> -LRB- B-ORG, B-LOC -RRB-
+-UNK- Thombektomie und Stenting -LRB- DES -RRB- eines akuten RCA Verschlusses mit TIMI III -LRB- Primäre PCTA; Koronarangiografie vom <[Pseudo] 20/12/2025> -RRB-
+- Aortenklappenstenose
+-UNK- Dopplersonographisch hochgradig -LRB- AÖF-Kontinuitätsgleichung = 0,8 cm², PPG 71 mmHg, MPG 40 mmHg, TTE <[Pseudo] 06/08/2036> -RRB- .
+- Latente Hypothyreose
+- Z. n. Leistenbruch -LRB- OP bds. <[Pseudo] 1985> -RRB-
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, positive Familienanamnese -LRB- Vater Myokardinfarkt mit ca. 59 59 -RRB- , ehemaliger Nikotinkonsum -LRB- karent seit B-DATE, insgesamt ca. 40 py -RRB-
+Allergien/Unverträglichkeiten: ACE Hemmer -LRB- Reizhusten -RRB-
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Verlaufskontrolle bei bekannter koronarer 3-Gefäßerkrankung und zuletzt mittel- bis hochgradiger Aortenklappenstenose. Im Alltag bestehe eine zuletzt leicht eingeschränkte Belastbarkeit -LRB- 2 Etagen Treppensteigen möglich -RRB- ohne inadäquate Belastungsdypnoe. Jedoch merke er bei Belastung eine generelle körperliche Schwäche ohne jedoch Schwindel. Es bestünden keine pectanginösen Beschwerden in Ruhe oder bei Belastung. Palpitationen, Schwindel sowie stattgehabte Synkopen werden ebenfalls verneint. Es bestehe keine Nykturie. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die unregelmäßigen häuslichen Blutdruckmessungen ergäben Werte um 125/80 mmHg. Subjektiv bestehe seit der letzten Vorstellung ein verschlechterter kardialer Verlauf.
+
+Bisherige Medikation:
+ASS 100 mg 1-0-0
+Candesartan 8 mg 1-0-0
+Metoprolol 47,5 mg 1-0-0
+Atorvastatin 80 mg 0-0-1
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 185cm, 82kg
+HF: 65 /min, regelmäßig
+RR: 130/80 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: 2/6 Systolikum mit p.m. über dem 2. ICR rechts parasternal
+Lunge: vesikuläres Atemgeräusche bds., keine Nebengeräusche bds.
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 63/min, Steiltyp. PQ 162ms, QRS 105ms, QTc 384ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, S-Persistenz bis V6. Bekannte präterminal negative T-Welle in III, sowie biphasische T-Welle in aVF. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Transthorakale Echokardiographie:
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion bei Hypokinesie inferior basal. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA leicht dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, deutlich verdickt und verkalkt mit eingeschränkter Separation. Dopplersonographisch hochgradige Aortenklappenstenose nachweisbar -LRB- AÖF-Kontinuitätsgleichung = 0,8 cm², PPG 71 mmHg, MPG 40 mmHg -RRB- . Geringer Prolaps des AML, beginnende Mitralanulusverkalkung. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Systolischer PA-Druck bei fehlender Trikuspidalinsuffizienz nicht bestimmbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 27/11/2035:> Zunahme der Gradienten über der Aortenklappe mit jetzt hochgradiger Aortenklappenstenose -LRB- zuletzt PPG 48 mmHg, MPG 29 mmHg, KÖF 1,1 cm² -RRB- . Ansonsten keine wesentliche Befundänderung.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Verlaufsuntersuchung bei bekannter koronarer 3-Gefäßerkrankung und zuletzt mittel- bis hochgradiger Aortenklappenstenose. Subjektiv wird von einem klinisch verschlechterten kardialen Verlauf berichtet.
+
+Echokardiographisch fand sich eine noch gute linksventrikuläre Pumpfunktion mit bekannter Hypokinesie inferior basal. Die bekannte Aortenklappenstenose war progredient und zeigte sich heute hochgradig -LRB- AÖF 0,8cm2 -RRB- .
+
+Wir empfehlen daher bei gleichzeitiger Beschwerdesymptomatik zur weiteren Abklärung und Festlegung des weiteren Procederes eine invasive Diagnostik mittels Herzkatheteruntersuchung.
+
+Es wurde daher ein Termin für eine erneute Herzkatheteruntersuchung mit Koronarangiographie und ggf. transseptaler Punktion am <[Pseudo] 14/08/2036> um 9.00 Uhr in unserer Tagesklinik -LRB- Station B-ORG, Ebene B-LOC, B-ADDR I-ADDR I-ADDR I-ADDR B-ORG I-ORG I-ORG -RRB- vereinbart. Wir bitten um Anmeldung an der Patientenaufnahme -LRB- Eingang B-ORG Klinik, Ebene B-LOC -RRB- . Der Patient wurde bereits im Rahmen des Ambulanzbesuchs aufgeklärt. Wir bitten den Patienten/ die Patientin am Tag der Untersuchung maximal ein kleines Frühstück einzunehmen und einen aktuellen Überweisungsschein -RRB- mitzubringen. Wir bitten darum einen negativen COVID Abstrich -LRB- <48h alt -RRB- mitzubringen. Sollte dies nicht möglich sein, kann ein Schnelltest über unsere Patientenaufnahme erfolgen. In diesem Falle bitten wir um eine Vorstellung ca. 1 Stunde vor dem o.g. Termin.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie.
+
+Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen.
+
+Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen - in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Aktuelle Medikation -LRB- unverändert -RRB- :
+ASS 100 mg 1-0-0
+Candesartan 8 mg 1-0-0
+Metoprolol 47,5 mg 1-0-0
+Atorvastatin 80 mg 0-0-1
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt
+Vorläufiger Arztbrief!

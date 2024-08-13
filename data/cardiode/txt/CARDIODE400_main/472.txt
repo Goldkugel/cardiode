@@ -1,0 +1,229 @@
+Aufnahmedatum: <[Pseudo] 2033-06-29 >
+Geburtsdatum: <[Pseudo] 2009-01-19 >
+Alter: 24
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 19/01/2009> wh. B-PLZ B-LOC B-ADDR I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Diagnosen:
+- Screening-Untersuchung bei positiver Familienanamnese für DCM -LRB- Laminopathie -RRB-
+
+Aktuell:
+- Kein sicherer Anhalt für eine manifeste Kardiomyopathie
+
+
+Anamnese: Die Vorstellung von B-SALUTE B-PER erfolgt Screening-Untersuchung bei positiver Familienanamnese für DCMP. B-SALUTE B-PER ist kardiopulmonal beschwerdefrei. Im Alltag bestehe eine gute Belastbarkeit -LRB- >5 Etagen Treppensteigen möglich -RRB- . Keine Angina Pectoris oder Belastungsdyspnoe. Palpitationen, Schwindel oder Synkopen werden verneint. Nykturie: 0-1x/Nacht. Gewichtkonstanz -LRB- 80kg -RRB- . Keine peripheren Ödeme. Keine häusliche Blutdruckmessungen. Aktuell kein Hinweis auf einen Infekt -LRB- kein Husten, Schnupfen, Heiserkeit, Brennen beim Wasserlassen -RRB- .
+
+Kardiovaskuläre Risikofaktoren: pos. Familienanamnese für DCMP und SCD
+Allergien/Unverträglichkeiten: Keine bekannt
+
+Körperlicher Untersuchungsbefund: 24 Patient in unauffälligem AZ und EZ. Blutdruck 140/75 mmHg. Herztöne rein, keine Nebengeräusche. Lunge: vesikuläres Atemgeräusch, keine Rasselgeräusche. Nierenlager nicht klopfschmerzhaft. Keine peripheren Ödeme.
+
+Ruhe-EKG: Normofrequenter Sinusrhythmus, regelmäßig, 93/min, Steiltyp. PQ 152 msec, QRS 97 msec, QTc 398 msec. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 250 Watt über 01:02 min. Maximale Frequenz 165/min -LRB- 84 % der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 205 mmHg, diastolisch 97 mmHg. Abbruch wegen Atemnot beim Tragen einer FFP2-Maske. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+
+Beurteilender Abschnitt:
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. VES -LRB- 0 -RRB- . Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck. Keine höhergradigen Herzrhythmusstörungen unter Belastung.
+
+
+Echokardiographie:
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale
+Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LVFunktion.
+LA, RA normal groß, RV noch normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in
+Ruhe ist bei fehlender Trikuspidalinsuffizienz nicht beurteilbar.
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 17/02/2033:> Keine wesentliche Befundänderung.
+
+Labor:
+Zusammenfassung: Die Vorstellung von B-SALUTE B-PER erfolgt Screening-Untersuchung bei positiver Familienanamnese für DCMP. B-SALUTE B-PER ist kardiopulmonal beschwerdefrei.
+
+In der Ergometrie waren höhergradgige ventrikuläre Rhythmusstörungen unter einer maximalen Belastung von 250 Watt -LRB- 84 % der Zielfrequenz -RRB- nicht induzierbar. Ferner ergaben sich keine Hinweise auf eine Koronarinsuffizienz.
+
+Echokardiographisch ergab sich weiterhin eine Befundkonstanz bei guter biventrikulärer Pumpfunktion ohne Nachweis regionaler Wandbewegungsstörungen oder relevanter Klappenvitien. Das NT-proBNP war mit <20ng/l im Normbereich.
+
+Laborchemisch fand sich weiterhin eine bekannte CK Erhöhung, welche wir im Rahmen der sportlichen Betätigung werteten. Wir bitten um eine erneute ambulante Kontrolle sowie ggf. weiterführende Abklärung.
+
+In der Zusammenschau sehen wir keinen Anhalt für eine manifeste Kardiomyopathie. Trotz der unauffälligen Screening-Untersuchung empfehlen wir die kardiologische Verlaufskontrolle in 24 Monaten. Eine Terminvereinbarung kann unter Tel. B-PHONE erfolgen. Bei vorher auftretenden Problemen kann kurzfristig eine Terminvereinbarung in unserer Ambulanz oder in Notfällen über unsere B-ORG I-ORG unter B-PHONE erfolgen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Funktionsoberarzt Assistenzärztin
+
+
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2032>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+4.76
+4 - 10 /nl
+B-DATE
+Hb
+16.0
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.2
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.460
+0,38 - 0,52 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+<[Pseudo] 29/06/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 29/06/33>
+MCHC
+35
+30 - 36 g/dl
+B-DATE
+RDW
+12.0 !L
+12,9 - 18,7 %
+<[Pseudo] 29/06/33>
+hypochr.Erythroz.
+0
+0 - 2 %
+B-DATE
+Thrombozyten
+253
+150 - 440 /nl
+<[Pseudo] 29/06/33>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 29/06/33>
+Kalium -LRB- ISE -RRB-
+3.71
+3,4 - 4,6 mmol/l
+<[Pseudo] 29/06/33>
+Calcium
+2.30
+2,11 - 2,59 mmol/l
+<[Pseudo] 29/06/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+0.93
+0,6 - 1,2 mg/dl
+<[Pseudo] 29/06/33>
+Harnstoff
+34
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+114.5
+>60 s.u.
+<[Pseudo] 29/06/33>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+92
+65 - 110 mg/dl
+B-DATE
+Eisen
+25.4
+14 - 32 µmol/l
+<[Pseudo] 29/06/33>
+Ferritin
+146
+30 - 300 µg/l
+<[Pseudo] 29/06/33>
+Transferrin
+2.05
+2,0 - 3,6 g/l
+<[Pseudo] 29/06/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TFSG
+49 !H
+16 - 45 %
+<[Pseudo] 29/06/33>
+Hämolyse
+-
+
+<[Pseudo] 29/06/33>
+ikterisch
+-
+
+<[Pseudo] 29/06/33>
+Lipämie
+-
+
+<[Pseudo] 29/06/33>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+183
+- <316 U/l
+B-DATE
+CK
+450 !H
+- <190 U/l
+<[Pseudo] 29/06/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+8.51
+- <14 pg/ml
+B-DATE
+NT-BNP
+<20
+- <125 ng/l
+B-DATE

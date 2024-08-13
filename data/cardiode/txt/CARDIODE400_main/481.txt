@@ -1,0 +1,673 @@
+Aufnahmedatum: <[Pseudo] 2036-08-16 >
+Geburtsdatum: <[Pseudo] 1962-09-08 >
+Alter: 73
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 08/09/1962> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- V.a. Lobärpneumonie
+-UNK- Infiltrat im rechten Unterlappen im Röntgen-Thorax vom <[Pseudo] 16/08/2036>
+-UNK- Sputum: Enterobacteriacae -LRB- K2, Differenzierung ausstehend -RRB-
+-UNK- Blutkultur: ausstehend
+-UNK- Empirische AB mit Tazobac + Azythromycin v. <[Pseudo] 16/08/36> - dato
+
+- CMV/EBV/Aspergillus-Antigen: negativ
+- SaRS-COV-2
+-UNK- PCR v. B-DATE: negativ
+-UNK- PCR v. B-DATE: ausstehend
+-UNK- Schnelltest v. B-DATE: negativ
+Diagnosen:
+- Z. n. Herztransplantation und ICD-Systemexplantation am <[Pseudo] 05/10/2026>
+-UNK- Gute LV-Funktion
+-UNK- Mittel-hochgradige Trikuspidalklappeninsuffizienz bei partiellem Sehnenfadenabriss TTE <[Pseudo] 04/2036>
+-UNK- KHK ohne höhergradige Stenosen -LRB- B-OTHER vom <[Pseudo] 08/04/2032> -RRB-
+-UNK- Aktuelle Immunsuppression: Prograf und CellCept
+-UNK- Initiale kardiale Diagnose: Ischämische Kardiomyopathie
+- Z. n. linkshemisphärischer Ischämie am <[Pseudo] 19/01/2026>
+- Chronische Otitis media mesotympanalis bds.
+-UNK- Schallleitungsschwerhörigkeit bds.
+- Chronische Sinusitis maxillaris rechts
+- Z. n. retropubischer Prostatovesikulektomie und Lymphadenektomie am <[Pseudo] 24/12/2027> -LRB- B-ORG -RRB- bei Adenokarzinom der Prostata pT3a, pN0 -LRB- 0/2 -RRB- , Pn1, L0, V0, R0, Gleason 7 -LRB- 4+3 -RRB-
+- Hepatomegalie mit sonographisch diskreten Zeichen eines LPS
+-UNK- Mehrere zystische Läsionen der Leber
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus, Nikotinanamnese: früher, Packyears: 35.
+
+Allergien/Unverträglichkeiten: Certican -LRB- ausgeprägte Stomatitis -RRB- , Übelkeit unter Amoxicillin
+
+Anamnese:
+Die stationäre Aufnahme erfolgte aus unserer ORG bei AZ-Verschlechterung und Fieber.
+
+Der Patient berichtet über seit 2-3 Wochen bestehenden Husten und Dyspnoe in Ruhe, zudem auch Fieber bis 39°C am Wochenende. Auf spezifische Nachfrage keine typische Angina pectoris, keine Ödeme, kein Schwindel, keine Synkope. Keine Palpitationen. Häusliche Blutdruckwerte im Normbereich. Die Belastbarkeit sei im Rahmen des Infekts zuletzt leicht reduziert, im Alltag sonst aber unverändert stabil -LRB- NYHA I, 4 Etagen -RRB- . Der Patient ist 2-fach Covid geimpft.
+
+Medikation bei Aufnahme:
+Prograf in mg -LRB- Tacrolimus -RRB- 0,5-0-0,5 Zielspiegel 4,0-6,0
+CellCept in mg -LRB- Mycophenolatmofetil -RRB- 1000-0-750 Zielspiegel 1,5-4,0
+ASS 100 mg -LRB- Acetylsalicylsäure -RRB- 1-0-0
+Bisoprolol 5 mg 1-0-1
+Procoralan 5 mg -LRB- Ivabradin -RRB- 1-0-1
+Torasemid 10 mg 1-0-0
+Fluvastatin 40 mg 0-0-1
+Ezetimib 10 mg 1-0-0
+Magnesium Tabl 1-0-1
+Lantus-Insulin in IE n. Plan
+Actrapid n. Plan
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 170cm, Gewicht: 76kg, BMI: 26,3kg/m2 -RRB-
+HF: /min
+RR: mmHg
+Keine Cyanose, keine Anämiezeichen, kein Ikterus.
+HT: leise, rein, keine path. Geräusche
+Lunge: links vesikulär Atmung, rechts basal feinblasige Rasselgeräusche
+Pulsstatus: periphere Pulse gut tastbar
+Periphere Ödeme: keine
+Abdomen: weich, kein DS, keine Resistenzen
+Neurol. Status: orientierend o.p.B.
+
+Ruhe-EKG bei Aufnahme:
+Rhythmus: Sinusrhythmus, Herzfrequenz: 84/min, Lagetyp: Linkstyp, QRS-Komplex: Linksschenkelblock,
+ST-Strecke: ST Depression > 0,1 -LRB- Abl: V3 -RRB- , T-Welle: T Negativierung -LRB- Abl: V1, V2, V3 -RRB- .
+
+Thorax vom <[Pseudo] 16/08/2036:>
+Klinische Angaben: Diagnose: Fragestellung: Infiltrat, Erguss, Stauung, Atelektase, Pneu Röntgen Thorax in 2 Ebenen vom <[Pseudo] 16/08/2036:> Zum Vergleich liegt zuletzt ein Röntgen Thorax vom <[Pseudo] 01/11/2035> vor. Befund und Beurteilung: Neue, fein-fleckige Tranzparenzminderung im rechten Unterlappen, passend zu einem Infiltrat. Kein Pneumothorax. Bei bekanntermaßen verschwieltem Randwinkel links hier kein relevanter Erguss. Kein Erguss rechts. Keine Stauung. Trachea mittig, nicht eingeengt. Bekannter Zwerchfellhoch stand links. Konstanter Herz- und Mediastinalschatten. Altersentsprechende degenerative Veränderungen des Achsenskeletts. Fremdmaterial idem.
+
+
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte über unsere B-ORG bei AZ-Verschlechterung und Fieber.
+
+Es wurde eine Fokussuche durchgeführt, in der sich eine Unterlappenpneumonie rechts demaskierte. Wir begannen entsprechend eine empirische Therapie mit Tazobac + azythromycin v. <[Pseudo] 16/08/36> - dato.
+
+EBV/CMV/Aspergillus wurden asserviert und sind ausstehend. Die Blutkulturen v. <[Pseudo] 17.08.> sind bis dato negativ. Im Sputum fanden sich spärlich Enterobacteriacae, die Differenzierung ist ausstehend.
+
+Der MPA-Spiegel fand sich unterhalb des Zielbereichs, weswegen MPA angepasst wurde. Wir bitten um Spiegelkontrolle in den kommen Wochen und ggf. um Durchführung einer AUC
+
+Unter Antibiose, Atemgymnastik und NaCl-Inhalation fand sich eine schnelle symptomatische Besserung, so dass wir den Patienten kardiorespiratorisch stabil in ihre weitere Behandlung verlegen. Wir danken für die freundliche und unkomplizierte Übernahme.
+
+Wir passten die Herzinsuffizienzmedikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Zudem bitten wir bei Statin-Therapie um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir verlegten den Patienten kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte stationäre Betreuung. Wir danken für die freundliche Übernahme. Für Rückfragen stehen wir jederzeit gerne zur Verfügung.
+
+Procedere/Termine:
+- i.v. Antibiose
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Prograf in mg -LRB- Tacrolimus -RRB- 0,5-0-0,5 Zielspiegel 4,0-6,0
+CellCept in mg -LRB- Mycophenolatmofetil -RRB- 1000-0-1000 erhöht, Zielspiegel 1,5-4,0
+ASS 100 mg -LRB- Acetylsalicylsäure -RRB- 1-0-0
+Bisoprolol 5 mg 1-0-1
+Procoralan 5 mg -LRB- Ivabradin -RRB- 1-0-1
+Ramipril 2,5 mg 1-0-1 bei Hypertension, neu
+Torasemid 10 mg 1-0-0
+Fluvastatin 40 mg 0-0-1
+Ezetimib 10 mg 1-0-0
+Magnesium Tabl 1-0-1
+Lantus-Insulin in IE n. Plan
+Actrapid n. Plan
+
+Tazobac 4,5g 1-1-1 seit <[Pseudo] 17.08.>
+Azythromycin 500 mg 1-0-0 v. <[Pseudo] 17.08.> - <[Pseudo] 20.08.> -LRB- Behandlung abgeschlossen -RRB-
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2035> und dem B-DAY B-MONTH <[Pseudo] 2035>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.02
+4 - 10 /nl
+B-DATE
+Hb
+9.9 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+3.6 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.310 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+86
+83 - 97 fl
+B-DATE
+MCH
+28
+27 - 33 pg
+B-DATE
+MCHC
+32
+30 - 36 g/dl
+B-DATE
+RDW
+13.1
+12,9 - 18,7 %
+<[Pseudo] 19/08/36>
+hypochr.Erythroz.
+1.2
+0 - 2 %
+B-DATE
+Thrombozyten
+349
+150 - 440 /nl
+B-DATE
+Lympho -LRB- abs. -RRB-
+0.66 !L
+1,0 - 4,8 /nl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Neutroph.G.-abs.
+9.77 !H
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.22
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.33
+- <0,5 /nl
+<[Pseudo] 17/08/36>
+Basoph.G. -LRB- abs -RRB-
+0
+- <0,2 /nl
+<[Pseudo] 17/08/36>
+Stabkern.G.-man.
+0 !L
+3 - 10 %
+<[Pseudo] 17/08/36>
+Metamyelo. -LRB- man. -RRB-
+0
+- 0 %
+B-DATE
+Normobl. -LRB- man. -RRB-
+0
+- <1 /100 Leuko
+B-DATE
+Blasten -LRB- man. -RRB-
+0
+- 0 %
+B-DATE
+Promyeloz. -LRB- man. -RRB-
+0
+- 0 %
+B-DATE
+Plasmaz. -LRB- man. -RRB-
+0
+- 0 %
+<[Pseudo] 17/08/36>
+Kernschatten
+0
+- 0 %
+<[Pseudo] 17/08/36>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+137
+135 - 146 mmol/l
+<[Pseudo] 19/08/36>
+Kalium -LRB- ISE -RRB-
+4.37
+3,4 - 5,0 mmol/l
+<[Pseudo] 19/08/36>
+Calcium
+2.32
+2,11 - 2,59 mmol/l
+<[Pseudo] 19/08/36>
+Kreatinin
+2.19 !H
+0,6 - 1,4 mg/dl
+<[Pseudo] 19/08/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+80 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+28.8 !L
+>60 s.u.
+<[Pseudo] 19/08/36>
+MDRD
+30.90
+ml/min/1,73qm
+<[Pseudo] 17/08/36>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+41.3
+30 - 50 g/l
+B-DATE
+Glucose
+140 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+18
+- <46 U/l
+B-DATE
+GPT/ALT
+21
+- <50 U/l
+B-DATE
+GGT
+47
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.60
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+4.5
+- <7 mg/dl
+<[Pseudo] 17/08/36>
+Triglyceride
+138
+- <150 mg/dl
+<[Pseudo] 17/08/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+123.0
+- alt.abh. mg/dl
+<[Pseudo] 17/08/36>
+LDL-Chol. -LRB- berechn. -RRB-
+66
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+29 !L
+>40 mg/dl
+B-DATE
+CRP
+65.6 !H
+- <5 mg/l
+<[Pseudo] 19/08/36>
+PCT sens.
+0.19 !H
+- <0,05 ng/ml
+<[Pseudo] 16/08/36>
+Hämolyse
+-
+
+<[Pseudo] 19/08/36>
+ikterisch
+-
+
+<[Pseudo] 19/08/36>
+Lipämie
+-
+
+<[Pseudo] 19/08/36>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+278
+- <342 U/l
+B-DATE
+CK
+494 !H
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+67.9 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+2303 !H
+- <450 ng/l
+<[Pseudo] 16/08/36>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+8.4 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+68 !H
+20 - 42 mmol/mol
+<[Pseudo] 17/08/36>
+mittlere Glucose
+194 !H
+- <110 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.910
+0,400 - 4,000 mU/l
+B-DATE
+FT3
+1.80 !L
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+11.29
+8 - 18 ng/l
+B-DATE
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+72.8
+70 - 125 %
+<[Pseudo] 17/08/36>
+INR - ber.
+1.15
+- <1.2
+<[Pseudo] 17/08/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+24.3
+- <35 s
+<[Pseudo] 17/08/36>
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+6.00
+6,0 - 8,0
+<[Pseudo] 16/08/36>
+SpezGew/Tstr.
+1014
+1001 - 1035
+<[Pseudo] 16/08/36>
+Glucose/Tstr.
+100.0
+- neg. mg/dl
+<[Pseudo] 16/08/36>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 16/08/36>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 16/08/36>
+Erys /Tstr.
+Ca 80
+- 0 Ery /µl
+B-DATE
+Eiweiß/Tstr.
+<NONE>
+- neg. mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 16/08/36>
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 16/08/36>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+9.0 !H
+- <8 /µl
+B-DATE
+Leuko/µl
+1.0
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+1.00
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+<[Pseudo] 16/08/36>
+
+
+Medikamentenspiegel & Toxikologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Tacro./MS
+6.8
+5 - 15 µg/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MPA -LRB- MS -RRB-
+10.26 !H
+1,5 - 5 mg/l
+B-DATE
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.42
+7,37 - 7,45
+B-DATE
+pO2
+45
+mmHg
+B-DATE
+pCO2
+31.9 !L
+35 - 45 mmHg
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-3.6 !L
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+21.2
+mmol/l
+B-DATE
+Laktat
+9.2
+- <16 mg/dl
+<[Pseudo] 16/08/36>
+
+
+
+Zusätzliche Laborwerte
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+10.98
+4 - 10 /nl
+B-DATE
+Hb
+10.4
+13 - 17 g/dl
+B-DATE
+Erythrozyten -UNK-
+3.5
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.300
+0,38 - 0,52 l/l
+B-DATE
+MCV
+86
+83 - 97 fl
+<[Pseudo] 17/08/36>
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 17/08/36>
+RDW
+13.1
+12,9 - 18,7 %
+<[Pseudo] 17/08/36>
+hypochr.Erythroz.
+2.0
+0 - 2 %
+<[Pseudo] 17/08/36>
+Thrombozyten -UNK-
+283
+150 - 440 /nl
+B-DATE
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+B-DATE
+Kalium -LRB- ISE -RRB-
+4.96
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.44
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+2.22
+0,6 - 1,4 mg/dl
+B-DATE
+Harnstoff
+76
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+28.3
+>60 s.u.
+<[Pseudo] 17/08/36>
+Glucose
+196
+65 - 110 mg/dl
+B-DATE
+CRP
+158.8
+- <5 mg/l
+<[Pseudo] 17/08/36>
+Hämolyse
+-
+
+<[Pseudo] 17/08/36>
+ikterisch
+-
+
+<[Pseudo] 17/08/36>
+Lipämie
+-
+
+<[Pseudo] 17/08/36>
+hs-TroponinT -UNK-
+87.5
+- <14 pg/ml
+B-DATE

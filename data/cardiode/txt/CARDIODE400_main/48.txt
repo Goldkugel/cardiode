@@ -1,0 +1,400 @@
+Aufnahmedatum: <[Pseudo] 2032-08-04 >
+Geburtsdatum: <[Pseudo] 1994-12-04 >
+Alter: 37
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 04/12/1994> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Kardiale Dekompensation bei valvulärer Kardiomyopathie
+-UNK- Rekompensation mittels i.v. Furosemidgabe
+
+- Evaluation bezüglich eines TriClips mittels TTE
+-UNK- Hochgradige Trikuspidalklappeninsuffizenz bei Anuslusdilatation und einliegender ICD Elektrode -LRB- TEE v. <[Pseudo] 29/07/2032> -RRB-
+-UNK- Tri-Chlip technisch nicht machbar
+- Ad konservative Therapie bzgl. des Tri-Chlip
+
+Diagnosen:
+- Valvuläre Kardiomyopathie
+-UNK- Mittelgradig eingeschränkte systolische LV-Funktion -LRB- TTE <[Pseudo] 06/2032> -RRB-
+-UNK- Hochgradige Trikuspidalklappeninsuffizienz bei RV-Dilatation noch gute RV Funktion -LRB- TTE <[Pseudo] 06/2032> -RRB-
+-UNK- Z. n. mechanischem Mitralklappenersatz -LRB- B-ORG, 31 mm -RRB- bei postoperativ bedeutsamer Mitralklappenstenose -LRB- <[Pseudo] 05/2011> -RRB-
+-UNK- Z.n. Mitralklappenrekonstruktion bei hämodynamisch bedeutsamer Mitral-klappeninsuffizienz bei Prolaps -LRB- <[Pseudo] 01/2010> HD -RRB-
+- Z.n. 1-Kammer-ICD-Aggregatwechsel -LRB- Medtronic Cardia VR -RRB- subpectoral am <[Pseudo] 09/11/2025> -LRB- Herzchirurgie I-ORG -RRB- , Erstversorgung <[Pseudo] 2014> -LRB- Sekundärprophylaxe -RRB-
+-UNK- Z.n. inadäquater ICD-Therapieabgabe am <[Pseudo] 01/2029> -> Amiodaronaufsättigung
+-UNK- Z.n. multiplen Sondenrevisionen und Aggregatwechseln zuletzt <[Pseudo] 28/07/2029>
+- Valvuläres Vorhofflimmern
+-UNK- CHADS-VASc Score: 2 Punkte
+- Leberzirrhose Child A bei cirrhose cardiaque
+-UNK- Laborchemisch Ausschluss virale Hepatitis -LRB- B, C -RRB- , Autoimmunhepatitis, Hämochromatose, M. Wilson, PSC, PBC, IgG4 assoziierte Erkrankung, Fettstoffwechselstörung, alpha-1 Antitrypsinmangel oder Zöliakie -LRB- <[Pseudo] 03/2030> -RRB-
+- Latente Hypothyreose ED <[Pseudo] 05/2032>
+- Williams-Beuren-Syndrom
+- Psychosomatischer Beschwerdekomplex
+
+Risikofaktoren: Hypercholesterinämie, Adipositas, Nikotinanamnese: nie.
+Allergien/Unverträglichkeiten: Verapamil -LRB- Reanimation -RRB- , Lactose, Sonne
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgt elektiv zur Evaluation bezüglich eines TriClips mittels TTE
+Im Alltag bestehe eine eingeschränkte Belastbarkeit -LRB- 1 Etagen Treppensteigen möglich, NYHA III -RRB- . Keine Ruhedyspnoe. Die zuletzt begonnen Therapie mit Torasemid 10 mg -LRB- 2-0-1 -RRB- wurde durch die Patientin eigenständig reduziert. Hierunter Befundverschlechterung mit zunehmenden peripheren Ödemen sowie fraglich Aszites. Zusätzlich gibt die Patienten vermehrt Husten an, sowohl tagsüber als auch nachts. Keine Angina Pectoris in den letzten Wochen. Palpitationen, Schwindel oder Synkopen werden verneint. Nykturie: 3-4x//Nacht. Trinkmenge 1,5-2,0 Liter/Tag. Die häuslichen Blutdruckwerte lägen bei ca. 120/70 mmHg. Ein aktuelles Gewicht liege nicht vor, daher fraglich konstantes Gewicht von 85 kg.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 160cm, Gewicht: 85kg -RRB-
+BMI 33,2 kg/m²
+HF: 102/min
+RR: 120/70mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.p.B.
+HT: laut, rein, keine path. Geräusche, mech. Mitralklappe laut auskultierbar
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Abdomen: ausladend, kein DS, keine Resist. Undulierende Welle, Abdomen teils weich teils verhärtet tastbar DD Aszites
+Leber: nicht vergrößert
+Periphere Ödeme: bds. ausgeprägte Ödeme
+Pulsstatus: periphere Pulse gut tastbar
+Neurol. Status: orientierend o.p.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom :
+Tachykardes VHF, unregelmäßig, 102/min, Linkslagetyp. QRS 126ms, QTc 446ms. R/S Umschlag in V4/V5. Keine signifikanten Kammerendteilveränderungen.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 24/07/2032:>
+Projektionsradiographische VU vom <[Pseudo] 01/08/2029> zum Vergleich vorliegend.
+Befund und Beurteilung:
+Fremdmaterial in situ idem.
+Keine Infiltrate, kein Pleuraerguss, kein Pneumothorax und keine höhergradigen Stauungszeichen. Emphysemaspekt. Unveränderte Verbreiterung der Herzsilhouette mit einem HTQ von 18:30 Trachea mittelständig und nicht eingeengt. Retrosternalraum bei Cardiomegalie nicht frei einsehbar. Retrocardialraum frei. Achsenskelett altersentsprechend.
+
+TEE vom <[Pseudo] 29/07/2032:>
+Transösophageale Echokardiographie
+Soweit beurteilbar:
+Hochgradige Trikuspidalklappeninsuffizenz bei Anulusdilatation sowie einliegender ICDElektrode. Mechanische Mitralklappenprothese sonographisch regelrecht, dopplersonographisch geringe Insuffizienz darstellbar, keine relevante Stenosekomponente.
+
+
+TTE vom <[Pseudo] 29/07/2032:>
+Normal großer linker Ventrikel mit global hochgradig eingeschränkter LV-Funktion bei dyskoordinierten Kontraktionsablauf und flachen Septumbewegungen. LA deutlich dilatiert, RA und RV ebenfalls deutlich dilatiert mit hochgradig eingeschränkter Pumpfunktion. Vena cava inferior deutlich dilatiert und nicht atemvariabel. Kein relevanter Perikarderguss nachweisbar. Mechanische Mitralklappenprothese sonographisch und dopplersonographisch regelrecht, leichte Insuffizienz darstellbar. Hochgradige Trikuspidalinsuffizienz bei ICDElektrode sowie Anulusdilatation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist erhöht -LRB- ca. 39 mmHg, a.e. jedoch unterschätzt bei hochgradiger TI -RRB- .
+Im direkten Vergleich zur Voruntersuchung vom <[Pseudo] 01/07/2032:>
+Biventrikulär weiterhin hochgradig reduzierte Pumpfunktion, sonst keine wesentliche Befundänderung.
+
+Labor:
+
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2032> und dem B-DAY B-MONTH <[Pseudo] 2032>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+3.62 !L
+4 - 10 /nl
+B-DATE
+Hb
+12.3
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.9 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.380
+0,36 - 0,47 l/l
+B-DATE
+MCV
+96
+83 - 97 fl
+<[Pseudo] 30/07/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 30/07/32>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 30/07/32>
+RDW
+16.1
+12,9 - 18,7 %
+<[Pseudo] 30/07/32>
+hypochr.Erythroz.
+1.9
+0 - 2 %
+<[Pseudo] 30/07/32>
+Thrombozyten
+88 !L
+150 - 440 /nl
+<[Pseudo] 30/07/32>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 30/07/32>
+Kalium -LRB- ISE -RRB-
+4.17
+3,4 - 4,6 mmol/l
+<[Pseudo] 30/07/32>
+Calcium
+2.22
+2,11 - 2,59 mmol/l
+<[Pseudo] 30/07/32>
+Kreatinin
+0.86
+0,5 - 0,9 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+36
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+86.6
+>60 s.u.
+B-DATE
+MDRD
+78.00
+ml/min/1,73qm
+<[Pseudo] 23/07/32>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+41.1
+30 - 50 g/l
+B-DATE
+Glucose
+129 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+29
+- <37 U/l
+B-DATE
+GPT/ALT
+18
+- <35 U/l
+B-DATE
+AP
+80
+55 - 105 U/l
+B-DATE
+GGT
+104 !H
+- <40 U/l
+B-DATE
+Ges.Bili.
+2.00 !H
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+5.9
+- <6 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Triglyceride
+44
+- <150 mg/dl
+B-DATE
+Cholesterin
+103.0
+- alt.abh. mg/dl
+<[Pseudo] 23/07/32>
+LDL-Chol. -LRB- berechn. -RRB-
+61
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+33 !L
+>50 mg/dl
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 29/07/32>
+Hämolyse
+-
+
+<[Pseudo] 30/07/32>
+ikterisch
++
+
+<[Pseudo] 30/07/32>
+Lipämie
+-
+
+<[Pseudo] 30/07/32>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+<NONE> !H
+- <264 U/l
+B-DATE
+CK
+139
+- <170 U/l
+B-DATE
+hs-TroponinT
+14.8 !H
+- <14 pg/ml
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+1402 !H
+- <125 ng/l
+<[Pseudo] 23/07/32>
+Gesamt-HCG
+<2.0
+- <6 mIE/ml
+<[Pseudo] 24/07/32>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+6.4 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+46 !H
+20 - 42 mmol/mol
+B-DATE
+mittlere Glucose
+137 !H
+- <110 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+<NONE> !H
+0,400 - 4,000 mU/l
+B-DATE
+FT3
+2.72
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+13.97
+8 - 18 ng/l
+B-DATE
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+18.1 !L
+70 - 125 %
+<[Pseudo] 30/07/32>
+INR - ber.
+<NONE> !H
+- <1.2
+<[Pseudo] 30/07/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+36.3 !H
+- <35 s
+<[Pseudo] 30/07/32>
+
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur Rekompensation bei bestehender hochgradiger Tricuspitalklappeninsuffizienz.
+
+Eine Rekompensation konnte durch forcierte Diurese mittels i.v. Fuorosemid dargestellt werden. Es wurde ein Gewichtsverlust von 10 kg erzielt.
+Am <[Pseudo] 29/07/2032> erfolgte eine Schluckechokardiographische Untersuchung auf unserer B-ORG I-ORG unter Propofol.
+Hierbei zeigte sich eine hochgradig eingeschränkte systolische LV Funktion mit deutlich eingeschränkter rechtsventrikulärer Pumpfunktion. Die Mechanische Mitraklappenprothese zeigte sich regelrecht einliegend. Zusätzlich zeigte sich die hochgradige Tricuspitalklappeninsuffizienz bei einliegender ICD Elektrode und Anulusdilatation.
+
+Wir besprachen den Fall intern mit den B-SALUTE des Device Teams -LRB- B-TITLE B-PER -RRB- hiernach ist ein TriClip bei B-SALUTE B-PER technisch nicht machbar. Dies wurde ebenfalls mit den B-SALUTE der B-ORG via B-TITLE B-PER besprochen. Der Gesamte Fall wurde ebenfalls mit der Betreuerin mehrfach telefonisch sowie persönlich besprochen. B-SALUTE B-PER wird den Fall in der B-ORG I-ORG zwecks postentieller weiterer Therapieoptionen besprechen.
+
+Wir passten die orale diuretische Therapie an, wir bitten um regelmäßige klinische Kontrollen, sowie Kontrollen der Elektrolyte und ggf. eine Anpassung im Verlauf.
+Bei Einnahme von Amiodaron empfehlen wir eine regelmäßige Kontrolle der Schilddrüsenwerte, der Leberwerte sowie eine elektrokardiographische Kontrolle im 3-Monatsrhythmus. Bei Verschlechterung einzelner Parameter, z. B. Verlängerung der QRS-Zeit bzw. QTc-Zeit um mehr als 25 % oder der PQ-Zeit um mehr als 50 % bzw. einer QTc-Verlängerung auf mehr als 500 ms oder einer Zunahme der Anzahl oder des Schweregrades der Herzrhythmusstörungen, sollte eine Therapieüberprüfung erfolgen. Alle 6 Monate empfehlen wir eine Lungenfunktionsuntersuchung sowie augenärztliche Kontrolluntersuchungen. Auf entsprechende Maßnahmen zur notwendigen Lichtschutzprophylaxe wurde hingewiesen.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Wir entlassen B-SALUTE B-PER kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+Procedere/Termine:
+- Termin in der Herzinsuffizienzambulanz am <[Pseudo] 31/10/2032> um 08:00 Uhr
+- Regelmäßige Gewichtsmessung und Anpassung der antidiuretrischen Therapie
+- Morgen INR Kontrolle und Kaliumkontrolle morgen beim Hausarzt
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Macumar Ziel INR 2,5-3,5 B-DATE: -UNK- Tbl. Abends
+Morgen INR Kontrolle beim Hausarzt
+Pantozol 20 mg 1-0-0
+Amiodaron 200 mg Mo. Mi. Fr.
+Carvedilol 25 mg 1-0-1
+Entresto 24/26 mg/mg 1-0-1
+Eplerenon 50 mg 1-0-1
+Atorvastatin 10 mg 0-0-1
+Kalinor retard 600 mg 1-1-1
+Torasemid 10 mg 3-2-0
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

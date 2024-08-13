@@ -1,0 +1,512 @@
+Aufnahmedatum: <[Pseudo] 2501-08-02 >
+Geburtsdatum: <[Pseudo] 2094-09-17 >
+Alter: 406
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 17/09/2094> wohnhaft in B-PLZ B-LOC B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Atypische thorakale Beschwerden
+-UNK- Negative Stress-Echokardiographie am <[Pseudo] 30/09/2182>
+-UNK- Negativer Ischämienachweis mittels MRT am <[Pseudo] 07/01/2181> Im B-ORG B-ORG I-ORG
+- Akute Myokardschädigung DD im Rahmen der hypertensiven Entgleisung
+- Fragliche Synkope im Rahmen des stationären Aufenthaltes
+-UNK- Langzeit-EKG erfolgt
+- Akuter Harnwegsinfekt
+-UNK- Antibiotische Therapie mittels Pivmelam p. o. vom <[Pseudo] 29/09/2182> bis <[Pseudo] 02/10/2182>
+
+Diagnosen:
+- KHK ohne höhergradige Stenosen der epikardialen Herzkranzgefäße, gute LV-Pumpfunktion
+- -LRB- HK-Nr. B-OTHER vom <[Pseudo] 17/02/2167> -RRB-
+-UNK- TTE vom <[Pseudo] 22/04/2182:> Gute systol. Pumpfunktion ohne regionale
+-UNK- Kontraktionsstörung, kein Hinweis auf Endokarditis
+- Chron. Niereninsuffizienz Stadium G2 A1 nach KDIGO
+- Z. n. Onkozytom linke Niere <[Pseudo] 10/2160>
+- Polymyalgia rheumatica, ED <[Pseudo] 2160>
+- Z. n. Arteriitis temporalis superficialis <[Pseudo] 2163> -LRB- Augenklinik I-ORG -RRB-
+- Löfgren Syndrom <[Pseudo] 2144>
+- Diabetes mellitus 2 b -LRB- Insulinpflichtig -RRB- ,
+-UNK- diab. Polyneuropathie, diab. Fußsyndrom
+- Mikrozytäre, mikrochrome Anämie, a. e. Eisenmangelanämie
+-UNK- Beginn orale Eisensubstitution
+- Obstruktives Schlafapnoe Syndrom mit CPAP-Therapie seit <[Pseudo] 09/2161>
+- Restless-Legs- Syndrom
+- Kein Hinweis auf hämodynamisch relevante pAVK -LRB- Angiolog. Ambulanz <[Pseudo] 07/10/2179> -RRB-
+- Z. n. akuter Pankreatitis B-DATE seither kein MTX
+- Hallux-valgus-Operation rechts <[Pseudo] 09/2170>
+- Z. n. hämorrhagisch fibröser Uretrozystitis, Vulvovaginitis -LRB- <[Pseudo] 11/2178> -RRB-
+- Kolon-Ca, ED -LRB- <[Pseudo] 01/2175> -RRB- pT3 pN0 -LRB- 0/13 -RRB- cM0 R0 G3, UIcc-Stad. 2a
+-UNK- Z. n. erweiterter Hemikolektomie rechts <[Pseudo] 05/02/2175>
+- Z. n. Implantation einer zementierten Knie-TEP re. am <[Pseudo] 04/03/2179>
+- Z. n. Aspergillus-Sanierung rechte Körperhöhe <[Pseudo] 02/2180>
+- Z. n. Infekt unklarer Genese <[Pseudo] 03/2182>
+-UNK- Rö.-Thorax vom <[Pseudo] 21/04/2182:> Leicht zunehmende re. parakardiale Verschattung bei bereits in der Vor-CT-Untersuchung von <[Pseudo] 2173> hier darstellbaren narbigen Veränderungen.
+-UNK- OBS vom <[Pseudo] 22/04/2182:> Multiple Gallenblasensteine mit Schallschatten, keine Dreischichtung der Gallenblasenwand, kein sicherer Infektfokus.
+-UNK- Antibiotische Therapie mit Unacid vom B-DATE - B-DATE
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie, kein Nikotinabusus, Übergewicht -LRB- BMI 29,4 kg/m² -RRB- , Diabetes mellitus Typ 2, OSAS
+
+Allergien:
+Gadolinium, MTX, Salofalk
+
+Anamnese:
+Die Aufnahme auf unsere Station erfolgte über unsere B-ORG bei Verdacht auf instabiler Angina pectoris bei rechtsthorakalen hellen Schmerzen. Diese seien nach Analgesie durch den NA verschwunden und seien seitdem nicht mehr aufgetreten.
+Die Schmerzen seien gut lokalisiert im rechten Schulterblatt und seien atemabhängig, allerdings nicht belastungsabhängig gewesen. Die Patientin fühlte, schmerzbedingt nicht mehr richtig durchatmen zu können. Der Schmerzcharakter sei bis zur Analgesie zunehmend gewesen. Brennender oder stechender Charakter, sowie Schmerzausstrahlung wurden verneint - ebenso das Gefühl von Brustenge.
+Es wird eine gute körperliche Belastbarkeit im Alltag beschrieben, die Patientin sei mit dem Rollator mobil und habe bei altersentsprechender Belastung -LRB- Gang zum Einkaufen, Spazieren -RRB- keine belastungsinduzierten pectanginösen Beschwerden oder Dyspnoe verspürt. Auch in Ruhe bestünden weder pectanginöse Beschwerden noch Dyspnoe. Palpitationen und Schwindel werden wie stattgehabte Synkopen verneint. Die häuslichen Blutdruckmessungen ergäben schwankende Werte, im Mittel um 140/70mmHg. Blutdruckkrisen seien bekannt. Die Patientin sei Inkontinenzversorgt. Periphere Ödeme seien bei Gewichtskonstanz in der letzten Zeit nicht aufgefallen.
+
+Medikation bei Aufnahme:
+ASS 100mg 1-0-0
+L-Thyroxin 50μg 1-0-0
+Candesartan/HCT 16/12,5mg 1-0-1
+Bisohexal 5mg 0,5-0-0,5
+Amlodipin 5mg 1-0-1
+Pantoprazol 40mg 0-0-1
+Atorvastatin 20mg 0-0-1
+Decortin 5mg 1-0-0
+Dekristol 20.000IE 1xWöchentlich
+Actrapdid nach Plan
+L-Dopa Dosis unbekannt
+Clonidin Dosis unbekannt
+Körperlicher Untersuchungsbefund:
+AZ: gut
+170 cm 85 kg
+HF: 62/min, regelmäßig
+RR: 170 / 80 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein, leises Systolikum
+Lunge: o.B.
+Abdomen: weich, kein DS, keine Resist bei voroperierten Situs, lebhafte DG
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: o.B.
+Neurologischer Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 24/09/2182> und dem <[Pseudo] 02/10/2182>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.84
+4 - 10 /nl
+B-DATE
+Hb
+10.5 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.8 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.330 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+28
+27 - 33 pg
+<[Pseudo] 02/10/82>
+MCHC
+32
+30 - 36 g/dl
+<[Pseudo] 02/10/82>
+RDW
+14.7
+12,9 - 18,7 %
+<[Pseudo] 02/10/82>
+hypochr.Erythroz.
+1.6
+0 - 2 %
+<[Pseudo] 02/10/82>
+Thrombozyten
+211
+150 - 440 /nl
+<[Pseudo] 02/10/82>
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 02/10/82>
+Kalium -LRB- ISE -RRB-
+4.84
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.50
+2,11 - 2,59 mmol/l
+B-DATE
+Chlorid -LRB- ISE -RRB-
+107
+98 - 111 mmol/L
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+0.98
+0,5 - 1,4 mg/dl
+B-DATE
+Harnstoff
+60 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+51.7 !L
+>60 s.u.
+<[Pseudo] 02/10/82>
+MDRD
+45.37
+ml/min/1,73qm
+<[Pseudo] 26/09/82>
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+45.5
+30 - 50 g/l
+B-DATE
+Glucose
+217 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+13
+- <37 U/l
+B-DATE
+GPT/ALT
+22
+- <35 U/l
+B-DATE
+AP
+67
+55 - 105 U/l
+B-DATE
+GGT
+37
+- <40 U/l
+B-DATE
+CHE
+10.59
+4,26 - 11,25 kU/l
+B-DATE
+Ges.Bili.
+0.5
+- <1.0 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Dir.Bilirubin
+0.10
+- <0.3 mg/dl
+B-DATE
+Harnsäure
+9.6 !H
+- <6 mg/dl
+B-DATE
+CRP
+9.1 !H
+- <5 mg/l
+<[Pseudo] 02/10/82>
+PCT sens.
+0.09 !H
+- <0,05 ng/ml
+<[Pseudo] 26/09/82>
+Hämolyse
+-
+
+<[Pseudo] 02/10/82>
+ikterisch
+-
+
+<[Pseudo] 02/10/82>
+Lipämie
+-
+
+<[Pseudo] 02/10/82>
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+239
+- <301 U/l
+B-DATE
+CK
+52
+- <170 U/l
+B-DATE
+CK-MB
+13
+-
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+36.9 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+5298 !H
+- <450 ng/l
+<[Pseudo] 24/09/82>
+
+Endokrinologie & Diabetologie
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.01
+0,400 - 4,000 mU/l
+B-DATE
+FT3
+2.14
+2,0 - 4,2 ng/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+FT4
+12.15
+8 - 18 ng/l
+<[Pseudo] 26/09/82>
+
+Gerinnungsdiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+102.2
+70 - 125 %
+<[Pseudo] 26/09/82>
+INR - ber.
+1.01
+- <1.2
+<[Pseudo] 26/09/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+18.7
+- <35 s
+B-DATE
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+5.00 !L
+6,0 - 8,0
+<[Pseudo] 27/09/82>
+SpezGew/Tstr.
+1014
+1001 - 1035
+<[Pseudo] 27/09/82>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 27/09/82>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 27/09/82>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+B-DATE
+Erys /Tstr.
+Ca 10
+- 0 Ery /µl
+<[Pseudo] 27/09/82>
+Eiweiß/Tstr.
+negativ
+- neg. mg/dl
+B-DATE
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 27/09/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Nitrit /Tstr.
+positiv
+- neg.
+<[Pseudo] 27/09/82>
+Leuko /Tstr.
+Ca 125
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+46.0 !H
+- <8 /µl
+B-DATE
+Leuko/µl
+100.0 !H
+- <8 /µl
+B-DATE
+HyalZy./Sedu.
+1.0 !H
+- <1 /µl
+B-DATE
+Pl.-epi./µl
+4.00
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+positiv
+/µl
+B-DATE
+
+
+
+
+
+Ruhe-EKG bei Aufnahme:
+ST-Senkungen und T-Negativierungen <[Pseudo] 2179> vorbekannt., Rhythmus: Sinusrhythmus, Herzfrequenz:
+62/min, Lagetyp: überdrehter Linkstyp, QRS-Komplex: linksanteriorer Hemiblock, ST-Strecke: ST Depression > 0,1 -LRB- Abl.: V5, V6 -RRB- , T-Welle: T Negativierung -LRB- Abl: I, aVL -RRB- .
+
+Ruhe-EKG vom <[Pseudo] 25/09/2182>
+Normofrequenter Sinusrhythmus, arrhythmisch bei ventrikulären Extrasystolen, 62/min, Überdrehter Linkstyp. PQ 169msec, QRS 122msec., QTc 442msec. Regelrechte R-Progression, R/S Umschlag in V3/V4. T-Negativierung aVL, ST-Streckensenkung in II, V5 und V6, ST-Streckenhebung in aVR - konkordant negativ -LRB- <0,1mV -RRB- . Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 30/09/2182>
+Bradykarder Sinusrhythmus, arrhythmisch bei ventrikulären Extrasystolen, 43/min, Überdrehter Linkstyp. PQ 204msec, QRS 125msec., QTc 428msec. Zögerliche R-Progression, R/S Umschlag in V5/V6. T-Negativierung aVL, ST-Streckensenkung in II, V5 und V6, ST-Streckenhebung in aVR - konkordant negativ -LRB- <0,1mV -RRB- . Ansonsten keine signifikanten Kammerendteilveränderungen.
+
+Langzeit-EKG vom <[Pseudo] 30/09/2182>
+Bradykarder Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 33/min und 79/min, im Mittel 51/min. Normale Herzfrequenzvariabilität. Einige supraventrikuläre Extrasystolen, z.T. auch repetitiv und als atriale Salven -LRB- längste über sechs Schläge, schnellste mit 103/min -RRB- . Nachts vereinzelte postextrasystolische Pausen bis maximal 2,29 sec Dauer. Häufige, überwiegend monomorph wirkende ventrikuläre Extrasystolen, z. T. auch repetitiv mit weitem Kopplungsintervall und als Bigemini. Ein Couplet. Lown IV a.
+
+Ruhe-EKG vom <[Pseudo] 02/10/2182>
+Bradykarder Sinusrhythmus, arrhythmisch bei ventrikulären Extrasystolen, 46/min, Überdrehter Linkstyp. PQ 214msec, QRS 123msec., QTc 428msec. Regelrechte R-Progression, R/S Umschlag in V3/V4, S-Persistenz bis V6. ST-Streckensenkung in II, aVF, V4, V5 und V6; ST-Streckenhebung in aVR - konkordant negativ -LRB- <0,1mV -RRB- , V2. Ansonsten keine signifikanten Kammerendteilveränderungen.
+
+Virologischer Befund vom <[Pseudo] 24/09/2182> -LRB- CPU -RRB- :
+
+Nasenabstrich vom <[Pseudo] 25/09/2182:>
+Kultureller Befund:
+K1 Staphylococcus aureus Oxacillin empfindlich
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB- .
+
+Rektalabstrich vom <[Pseudo] 25/09/2182:>
+Kultureller Befund:
+Kein Nachweis von Staphylococcus aureus
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB- .
+Kein Nachweis von Vancomycin-resistenten Enterokokken
+Kein Nachweis von multiresistenten gramnegativen Stäbchen.
+
+Mittelstrahlurin vom <[Pseudo] 28/09/2182:>
+Kultureller Befund:
+K1 >= 10 hoch 5 KBE/ml Klebsiella pneumoniae
+K2 >= 10 hoch 5 KBE/ml Klebsiella pneumoniae
+unterschiedlicher Biotyp
+
+
+Echokardiographie vom <[Pseudo] 30/09/2182:>
+Normal großer, septal deutlich hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne sicher regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Hinweis auf eine relevante diastolische LV-Dysfunktion. LA deutlich dilatiert, RA dilatiert, RV normal groß mit guter Pumpfunktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Mitralklappe deutlich verdickt, verkalkt mit leichtgradiger eingeschränkter Separation. Dopplersonographisch kombiniertes Mitralvitium mit leichtgradiger Stenosekomponente -LRB- PPG 12 mmHg, MPG 4 mmHg -RRB- . Deutliche Mitralanulusverkalkung. Aortenklappe trikuspid, verdickt mit guter Separation. Übrige Klappen sonographisch regelrecht. Der systolische PA-Druck in Ruhe ist noch normal -LRB- ca. 30 mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 22/04/2182:> Abnahme des PA-Drucks, sonst keine wesentliche Befundänderung.
+
+Dobutamin Stress-Echokardiographie vom <[Pseudo] 30/09/2182:>
+Pharmakologische Belastung mit Dobutamin 40 μg/kg/min komplikationslos durchgeführt. Abbruch bei Erreichen der Zielherzfrequenz. Keine pectanginösen Beschwerden, keine inadäquate Belastungsdyspnoe. Unter steigender pharmakologischer Stimulation zunehmende körperliche Unruhe z. T mit intermittierenden Zitterattacken und Verstärkung des Restless-Legs- Syndroms. Herzfrequenzanstieg von 47 /min bis 107 /min -LRB- 81% der max. erwarteten Herzfrequenz -RRB- , Blutdruckanstieg von 129/47 mmHg bis 162/102 mmHg -LRB- DP = 14418 -RRB- . Das gleichzeitig aufgezeichnete Belastungs-EKG zeigte T-Negativierung aVL, V4 bis V6 sowie ST-Streckensenkung in II. Gute Zunahme der Kontraktilität aller Wandsegmente des linken Ventrikels.
+
+Zusammenfassung: Negatives Stress-Echokardiogramm, Belastungs-EKG und Klinik wie o.g. Erstbefund in domo.
+Psychologische Testdiagnostik vom <[Pseudo] 30/09/2182:>
+
+
+
+Zusammenfassende Beurteilung:
+Die Vorstellung erfolgte bei o.g. Krankheitsbild. Seit der Aufnahme war die Patientin im Wesentlichen oligosymptomatisch, sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 38,4 pg/ml, im 3h Verlauf stabil 34,4 pg/ml, somit akute Myokardschädigung. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig -RRB- . Das NT-pro-BNP fand sich altersadjustiert erhöht.
+
+Im Rahmen des stationären Aufenthalts zeigte sich das hs-cTNT weitestgehend konstant, sodass wir dieses im Rahmen der Grunderkrankung bzw. der hypertensiven Entgleisung werteten. Wir entschieden uns nach Rücksprache mit unserem Herzkatheter-Team -LRB- B-TITLE I-TITLE B-PER B-TITLE I-TITLE B-PER sowie B-TITLE I-TITLE B-PER -RRB- und in Übereinstimmung mit der Patientin zunächst gegen eine invasive Diagnostik und empfahlen die Durchführung eines Belastungstest im ambulanten Bereich.
+
+Am <[Pseudo] 26/09/2182> berichtete die Patientin kurz vor Verlassen des Klinikums von prä-synkopalen bis fraglich synkopalen Zuständen im Rahmen des Toilettengangs, Schmerzen im Bereich des linken Oberbauchs, Übelkeit, sowie Erbrechen. Das durchgeführte EKG zeigte keine neuen Reizleitungsstörungen, die laborchemische Kontrolle des hs-cTNT zeigte keine relevante Kinetik.
+Wir entschieden uns daher zu einer weiterführenden stationären Observanz und zur Durchführung einer Stress-Echokardiographie, welche ein negatives Ergebnis erbrachte. Des Weiteren liegen uns die Befunde einer negativen Ischämiediagnostik vom <[Pseudo] 07/01/2181> aus dem B-ORG B-ORG I-ORG vor. Wir sehen daher aktuell weiterhin keine Indikation zur invasiven Abklärung. Des Weiteren führten wir bei fraglicher Synkope ein Langzeit-EKG durch, welches keine erklärenden höhergradigen Rhythmusstörungen zeigte. Aufgrund des bradykarden Grundrhythmus und der postextrasystolischen Pausen bis maximal 2,29 sec Dauer empfehlen wir jedoch ein erneutes LZ-EKG im Verlauf durch den niedergelassenen Behandler.
+
+In der laborchemischen Diagnostik zeigte sich ein milder CRP-Anstieg, der U-Status zeigte einen akuten Harnwegsinfekt. Wir initiierten eine kalkulierte antibiotische Therapie mittels Pivmela p. o. vom <[Pseudo] 29/09/2182> bis <[Pseudo] 30/09/2182> Hierunter zeigten sich die Inflammationsmarker regelrecht fallend.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie. Hierzu empfehlen wir u.a. die Durchführung einer Langezeit-Blutdruck-Messung bei schwankenden RR-Werten und bis zuletzt unklarem Medikationsplan.
+
+Medikation bei Entlassung:
+ASS 100mg 1-0-0
+L-Thyroxin 50μg 1-0-0
+Delix 2,5mg 1-0-1
+Clonidin 250 0-0-0-1
+Torasemid 5mg 1-0-0
+Aldactone 25mg 1-0-0
+Bisohexal 5mg 0,5-0-0,5
+Amlodipin 5mg 1-0-1
+Pantoprazol 40mg 1-0-0
+Atorvastatin 20mg 0-0-1
+Decortin 5mg 1,5-0-0
+Dekristol 20.000IE 1xWöchentlich
+Calcium forte 500 0-1-0
+Actrapid nach Plan
+Madopar 125 0-0-0-1
+Madopar Depot 0-0-0-1
+Mucofalk Btl 1-0-0
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der Paul-Ehrlich-Gesellschaft
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 6 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen die Patientin heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärztin

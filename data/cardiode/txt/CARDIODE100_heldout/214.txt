@@ -1,0 +1,549 @@
+Aufnahmedatum: <[Pseudo] 2037-05-11 >
+Geburtsdatum: <[Pseudo] 1989-04-03 >
+Alter: 48
+
+über Ihren Patienten B-SALUTE B-PER B-PER geboren am <[Pseudo] 03/04/1989> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Routinemäßige Kontrolle -LRB- stationäre 3 Monatskontrolle -RRB- nach HTX
+-UNK- Unauffällige Koronarien Muskelbrücke der medialen LAD -LRB- B-OTHER v. <[Pseudo] 03/05/2037> -RRB-
+-UNK- Entnahme multipler LV Biopsien: 0 R pAMR 0
+-UNK- Kein Nachweis von DSA -LRB- <[Pseudo] 05/05/2037> -RRB-
+-UNK- Gute systolische LV Funktion, noch gute RV Funktion keine wesentliche Befundänderung -LRB- Echokardiographie v. <[Pseudo] 04/05/2037> -RRB-
+
+- Akut auf chronisches Nierenversagen a. e. nach KM Exposition
+-UNK- Regredienz nach oraler Hydrierung
+
+- Z. n. Herztransplantation, LVAD-Explantation und ICD-Explantation am <[Pseudo] 26/01/2037>
+-UNK- Transplantatstatus: Gute LV-Funktion
+-UNK- Aktuelle Immunsuppression: Prograf + CellCept
+-UNK- Z. n. LVAD-Implantation -LRB- HeartMate 3 -RRB- am <[Pseudo] 19/02/2034>
+-UNK- Kardiale Grunderkrankung: Nicht-ischämische Kardiomyopathie -LRB- DCM bei Z. n. Myokarditis bei schwerer Streptokokken-Angina tonsillaris -RRB-
+
+Kardiovaskuläre Risikofaktoren: Nikotinkonsum bis <[Pseudo] 2020> -LRB- 5 py -RRB- , unauffällige Familienanamnese bzgl. CMP oder SCD
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme des Patienten erfolgte elektiv zur Herzkatheteruntersuchung und Myokardbiopsie bei Z. n. Herztransplantation am B-DATE. Der Patient berichtet über eingeschränkte körperliche Belastbarkeit im Alltag -LRB- ca. 1 Etage -RRB- mit dann eintretender Belastungsdyspnoe -LRB- NYHA III -RRB- , keine belastungsinduzierten pectanginösen Beschwerden. Keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen. Der Patient berichtet über orthostatischen Schwindel, keine stattgehabten Synkopen. Keine peripheren Ödeme. Die häuslichen Blutdruckmessungen seien um ca. x mmHg. Der Patient klagt über epigastrische Schmerzen in Ruhe, Schmerzen im Bereich des Sternums bei Husten oder Bewegung.
+
+Medikation bei Aufnahme:
+Prograf -LRB- Tacrolimus -RRB- in mg 5,0-0-5,0 Zielspiegel 10-12
+Cellcept -LRB- Mycophenolat -RRB- in mg 1000-0-1000 Zielspiegel 1,5-4,0
+Prednisolon 7,5 mg 1-0-0 -LRB- bis <[Pseudo] 27/04/2037> dann 5 mg 1-0-0, anamn. weiter 7,5mg -RRB-
+Cotrimoxazol 960 mg 1-0-0 bis <[Pseudo] 28/07/2037> nur Mo und Do
+Valganciclovir 450 mg 1-0-1 bis <[Pseudo] 28/07/2037>
+Chlorhexidin Lsg 3 ml 1-1-1-1 bis <[Pseudo] 28/07/2037>
+Ampho-Moronal Susp. 3 ml 1-1-1-1 bis <[Pseudo] 28/07/2037>
+ASS 100 mg 1-0-0
+Metoprolol 47,5 mg 1-0-1
+Ramipril 2,5 mg 1-0-0
+Atorvastatin 80 mg 0-0-1
+Pantoprazol 40 mg 1-0-0
+Calcium 500 mg/Vit. D3 400 IE 1-0-1
+Kalinor ret. 1-0-1 unter Kaliumkontrolle
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- 71,5kg; 164cm; BMI 26,4 kg/m² -RRB-
+HF: 72/min, regelmäßig
+RR: 110/90 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: unauffällig
+Neurol. Status: unauffällig
+sonstige Auffälligkeiten: OP-Narben Thorax reizlos
+
+Ruhe-EKG bei Aufnahme:
+Normofrequenter Sinusrhythmus, Herzfrequenz 72/min, Linkstyp. PQ 146ms, QRS 98ms, QTc 419ms,
+Zeiten im Normbereich. R-Progression regelrecht, R/S-Umschlag bei V3/V4, Keine relevanten Erregungsrückbildungsstörungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 03/05/2037> -RRB- :
+Herzkatheteruntersuchung bei Z.n. Herztransplantation:
+Im Wesentlichen unauffälliger Koronararterien, Muskelbrücke der medialen LAD. Verzicht auf Ventrikulographie zur Nephroprotektion. Komplikationslose Entnahme von 8 linksventrikulären Endomyokardbiopsien. Ausschluss Perikarderguss erfolgte.
+
+Sonstige Diagnosen:
+Z.n. HTX mit LVAD-Explantation und ICD-Explantation am <[Pseudo] 26/01/2037> IS: Tac+MMF, kard. GE: DCM bei Z.n. Myokarditis; CVRF: Ex-Raucher -LRB- 5 py -RRB- .
+
+Maßnahmen:
+1 -RRB- Konservativ bzgl. der Koronararterien.
+2 -RRB- PE-Ausschluss wiederholen.
+3 -RRB- Biopsieergebnis sichten und werten.
+4 -RRB- Nach Maßgabe HTX-Team.
+Transthorakale Echokardiographie vom <[Pseudo] 04/05/2037:>
+Normal großer, septal betont leichtgradig hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion bei flachen Septumbewegungen. Erhaltene longitudinale Funktion. Kein Hinweis auf eine signifikante diastolische Dysfunktion. LA und RA elongiert und leicht dilatiert, RV dilatiert, noch gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid mit guter Separation und leichtgradiger Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist im oberen Normbereich -LRB- ca. 35mmHg -RRB- Im Vergleich zur Voruntersuchung vom <[Pseudo] 05/04/2037:> Heute PA-Druck ableitbar -LRB- noch im Normbereich -RRB- , ansonsten im Wesentlichen Befundkonstanz.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 03/05/2037> und dem <[Pseudo] 05/05/2037>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+2.98 !L
+4 - 10 /nl
+B-DATE
+Hb
+11.8 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.1 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.360 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+B-DATE
+MCH
+29
+27 - 33 pg
+B-DATE
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 05/05/37>
+RDW
+15.0
+12,9 - 18,7 %
+<[Pseudo] 05/05/37>
+hypochr.Erythroz.
+1.8
+0 - 2 %
+<[Pseudo] 05/05/37>
+Thrombozyten
+263
+150 - 440 /nl
+B-DATE
+Lympho -LRB- abs. -RRB-
+1.58
+1,0 - 4,8 /nl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Neutroph.G.-abs.
+1.31 !L
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.17 !L
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.07
+- <0,5 /nl
+<[Pseudo] 03/05/37>
+Basoph.G. -LRB- abs -RRB-
+0.03
+- <0,2 /nl
+<[Pseudo] 03/05/37>
+Stabkern.G.-man.
+9
+3 - 10 %
+<[Pseudo] 03/05/37>
+Metamyelo. -LRB- man. -RRB-
+1 !H
+- 0 %
+B-DATE
+Normobl. -LRB- man. -RRB-
+0
+- <1 /100 Leuko
+B-DATE
+Blasten -LRB- man. -RRB-
+0
+- 0 %
+<[Pseudo] 03/05/37>
+Promyeloz. -LRB- man. -RRB-
+0
+- 0 %
+<[Pseudo] 03/05/37>
+Plasmaz. -LRB- man. -RRB-
+0
+- 0 %
+<[Pseudo] 03/05/37>
+Kernschatten
+0
+- 0 %
+<[Pseudo] 03/05/37>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 05/05/37>
+Kalium -LRB- ISE -RRB-
+4.19
+3,4 - 4,8 mmol/l
+<[Pseudo] 05/05/37>
+Calcium
+2.37
+2,11 - 2,59 mmol/l
+<[Pseudo] 05/05/37>
+Kreatinin
+1.18
+0,6 - 1,2 mg/dl
+<[Pseudo] 05/05/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+20
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+72.5
+>60 s.u.
+<[Pseudo] 05/05/37>
+MDRD
+76.22
+ml/min/1,73qm
+<[Pseudo] 03/05/37>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+48.9
+30 - 50 g/l
+<[Pseudo] 03/05/37>
+Glucose
+103
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+13
+- <50 U/l
+B-DATE
+GGT
+9
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.80
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+5.9
+- <7 mg/dl
+<[Pseudo] 03/05/37>
+Triglyceride
+268 !H
+- <150 mg/dl
+<[Pseudo] 03/05/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+158.0
+- alt.abh. mg/dl
+<[Pseudo] 03/05/37>
+LDL-Chol. -LRB- berechn. -RRB-
+66
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+38 !L
+>40 mg/dl
+<[Pseudo] 03/05/37>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 03/05/37>
+Hämolyse
+-
+
+<[Pseudo] 05/05/37>
+ikterisch
+-
+
+<[Pseudo] 05/05/37>
+Lipämie
+-
+
+<[Pseudo] 05/05/37>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+307
+- <317 U/l
+B-DATE
+CK
+54
+- <190 U/l
+<[Pseudo] 03/05/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+18.6 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+1045 !H
+- <125 ng/l
+<[Pseudo] 03/05/37>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.6
+- <6,1 %
+<[Pseudo] 03/05/37>
+HbA1c -LRB- IFCC -RRB-
+38
+20 - 42 mmol/mol
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+114 !H
+- <110 mg/dl
+<[Pseudo] 03/05/37>
+TSH
+0.880
+0,400 - 4,000 mU/l
+<[Pseudo] 03/05/37>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+60.8 !L
+70 - 125 %
+<[Pseudo] 03/05/37>
+INR - ber.
+1.25 !H
+- <1.2
+<[Pseudo] 03/05/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+21.9
+- <35 s
+<[Pseudo] 03/05/37>
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+5.00 !L
+6,0 - 8,0
+<[Pseudo] 04/05/37>
+SpezGew/Tstr.
+1037 !H
+1001 - 1035
+<[Pseudo] 04/05/37>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 04/05/37>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 04/05/37>
+Ketone /Tstr.
+Spur
+- neg. mg/dl
+<[Pseudo] 04/05/37>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 04/05/37>
+Eiweiß/Tstr.
+Spur
+- neg. mg/dl
+<[Pseudo] 04/05/37>
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 04/05/37>
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 04/05/37>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+<[Pseudo] 04/05/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Erys/µl
+0
+- <8 /µl
+B-DATE
+Leuko/µl
+4.0
+- <8 /µl
+B-DATE
+HyalZy./Sedu.
+4.0 !H
+- <1 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+B-DATE
+U-Kreatinin
+233.92
+22 - 328 mg/dl
+B-DATE
+Protein/Urin
+0.254
+g/l
+<[Pseudo] 04/05/37>
+U-Prot./U-Krea
+12.28 !H
+- <10 g/molKr
+B-DATE
+U-Albumin
+26.0 !H
+- <20 mg/l
+<[Pseudo] 04/05/37>
+AlbU/Krea
+1.26
+- <3,0 mg/ mmolKrea
+<[Pseudo] 04/05/37>
+
+
+Medikamentenspiegel & Toxikologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Tacro./MS
+10.7
+5 - 15 µg/l
+<[Pseudo] 03/05/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MPA -LRB- MS -RRB-
+2.46
+1,5 - 5 mg/l
+<[Pseudo] 03/05/37>
+
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte zur stationären 3-Monatskontrolle nach HTX
+
+Es erfolgte die Abnahme von Donorspezifischen Antikörpern.
+Nach SOP erfolgte eine invasive Diagnostik mittels Koronarangiographie. Hierbei zeigte sich eine koronare Herzerkrankung ohne höhergradige Stenosen. Die Ergebnisse LV Myokardbiospie war zum Entlasszeitpunkt noch ausstehend, zeigten im Nachbericht eine 0R pAMR 0 Situation.
+
+Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle. Ein PE Ausschluss erfolgte.
+
+Echokardiographisch zeigte sich keine Wesentliche Befundänderung. Die Spiegel zeigten sich im Zielbereich. Bei a.e. KM DD prärenal bei eingeschränkter Trinkmenge bestehendem a/c Nierenversagen erfolgte eine orale Hydrierung mit regredienz der Kreatininwerte.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen den Patienten mit einem Entlassgewicht von 68,4 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+
+Procedere/Termine:
+- Termin zur ambulanten 4 Monatskontrolle nach HTX am <[Pseudo] 31/05/2037> um 07:45 Uhr in unserer HTX Ambulanz
+- Nächste Laborkontrolle: In 1 Woche -LRB- Medikamentenspiegel, Blutbild, Niere -RRB- .
+- Für Medikamentenspiegel bitte 1x EDTA-Vollblut -LRB- Inkl. Medikamentenplan -RRB- per Postversand an unsere HTX-Ambulanz. Ggf. Blutbild und Nierenparameter per Fax an uns -LRB- Fax B-PHONE -RRB- .
+
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Prograf -LRB- Tacrolimus -RRB- in mg 5,0-0-5,0 Zielspiegel 10-12
+Cellcept -LRB- Mycophenolat -RRB- in mg 1000-0-1000 Zielspiegel 1,5-4,0
+Prednisolon 5 mg 1-0-0
+Cotrimoxazol 960 mg 1-0-0 bis <[Pseudo] 28/07/2037> nur Mo und Do
+Valganciclovir 450 mg 1-0-1 bis <[Pseudo] 28/07/2037>
+Chlorhexidin Lsg 3 ml 1-1-1-1 bis <[Pseudo] 28/07/2037>
+Ampho-Moronal Susp. 3 ml 1-1-1-1 bis <[Pseudo] 28/07/2037>
+ASS 100 mg 1-0-0
+Metoprolol 47,5 mg 1-0-1
+Ramipril 2,5 mg 1-0-0
+Atorvastatin 80 mg 0-0-1
+Pantoprazol 40 mg 1-0-0
+Calcium 500 mg/Vit. D3 400 IE 1-0-1
+Kalinor ret. 1-0-1 unter Kaliumkontrolle
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Stationsarzt

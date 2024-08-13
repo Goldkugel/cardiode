@@ -1,0 +1,387 @@
+Aufnahmedatum: <[Pseudo] 2038-03-02 >
+Geburtsdatum: <[Pseudo] 1958-05-10 >
+Alter: 79
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 10/05/1958> wohnhaft in
+B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreicher Aggregatwechsel eines 1-Kammer-ICD bei nahender Batterieerschöpfung
+
+Diagnosen:
+- Dilatative Kardiomyopathie
+-UNK- Hochgradig eingeschränkte linksventrikuläre Pumpfunktion -LRB- TTE vom <[Pseudo] 25/01/2038> Praxis B-TITLE B-PER -RRB-
+-UNK- Mittelgradige Mitralklappeninsuffizienz -LRB- TTE vom <[Pseudo] 25/01/2038> Praxis B-TITLE B-PER -RRB-
+- Koronare 2-Gefäßerkrankung -LRB- R. intermedius und RCA -RRB- mit hochgradig eingeschränkter LV-Funktion -LRB- B-OTHER vom <[Pseudo] 23/02/2033> -RRB-
+- Z.n. primärprophylaktischer ICD-Implantation -LRB- Medtronic Kardia VRG384VRG -RRB- am <[Pseudo] 04/05/2028>
+- Z.n. kardialer Dekompensation <[Pseudo] 02/2033>
+- Z.n. Apoplex <[Pseudo] 2008>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, pos. Familienanamnese -LRB- Bruder HTX bei DCM -RRB-
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte elektiv zum ICD-Aggregatwechsel bei baldiger Batterieerschöpfung bei Zustand nach primärprophylaktischer ICD-Implantation am B-DATE.
+Der Patient berichtet über gute körperliche Belastbarkeit im Alltag -LRB- mehrere Etagen -RRB- , keine inadäquate Belastungsdyspnoe und keine belastungsinduzierten pectanginösen Beschwerden. Auf spezifisches Nachfragen berichtete B-SALUTE B-PER über keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen und keine stattgehabten Synkopen. Schwindel sei zuletzt vor etwa 3 Monaten im Rahmen niedriger Blutdrücke aufgetreten, seitdem nicht mehr. Der Patient berichtet über Aszites zuletzt vor 6-9 Monaten, keine peripheren Ödeme.
+
+Medikation bei Aufnahme:
+Marcumar nach INR, Zielbereich INR 2,0 bis 3,0
+Carvedilol 12,5mg -UNK- -0- -UNK-
+Candesartan 8mg 1-0-0
+Torasemid 10mg -UNK- -0-0
+Spironolacton 25mg -UNK- -0-0
+Simvastatin 20mg 0-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut
+HF: 57/min, regelmäßig
+RR: 110/56 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: orientierend unauffällig.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+Sinusrhythmus, regelmäßig, Herzfrequenz 57/min, überdrehter Linkstyp. PQ 222 ms, QRS 146ms, QTc 468 ms. AV-Block I°. Kompletter Linksschenkelblock mit konsekutiven Kammerendteilveränderungen.
+
+Aggregatwechsel bei 1-Kammer-ICD vom <[Pseudo] 22/02/2038:>
+Diagnosen:
+Elektiver Aggregatwechsel bei nahender regulärer Batterieerschöpfung. Z.n. primärprophylaktischer 1K-ICD Implantation B-DATE. KHK -2-GE, LVEF hochgradig eingeschränkt. Vp 1.2%, LAHB mit QRS um 140 ms, stabile klinische Situation -LRB- Patient steige jeden Tag 34 Treppenstufen -RRB- .
+ICD-Aggregat: B-OTHER
+Ventrikelelektrode: B-OTHER <[Pseudo] 04/05/2028>
+Explantat: B-OTHER <[Pseudo] 04/05/2028>
+Intraoperative Messwerte:
+Meßwerte:
+RV: RS: 0,4 V/0,5 ms
+Impedanz: 657 Ohm
+Sensing: 11,1 mV
+DFT: - OP-Dauer: 21 min.
+
+OP-Bericht:
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links im Bereich der alten Narbe. Freipräparieren und Herausluxieren des alten Aggregates. Durchmessen der alten RV-Sonde mit guten Messwerten. Danach Konnektion des neuen Generators und Versenken in der Tasche. Schichtweiser Wundverschluss unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links subfaszial belassen. Verband.
+
+ICD-Kontrolle vom <[Pseudo] 23/02/2038:>
+Regelrechte ICD-Funktion. Seit Implantation keine neuen Episoden im Speicher. Batteriestatus gut -LRB- 3,09 V -RRB- . Impedanz, Wahrnehmung und Reizschwelle regelrecht. Aktuell <1% ventrikuläres Pacing. Keine kurzen VV-Intervalle. Keine DFT-Testung, bei typischer Sonden- und Aggregatlage.
+Der ICD-Ausweis wurde ausgestellt und dem Pat. ausgehändigt. Die Informationsbroschüre -LRB- Lt. MPG -RRB- wurde dem Patienten ebenfalls ausgehändigt und dieser über Verhaltensmaßnahmen aufgeklärt. Der Alarm wurde dem Patienten demonstriert. Es besteht eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 2 Wochen gemäß den aktuellen Leitlinien der ORG. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+Kommentar:
+Ihr ICD Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan-Modus -RRB- für die Verwendung im MRT entwickelt.
+Wichtig:
+Vor der MRT-Untersuchung sollte ihr ICD-System auf diesen SureScan-Modus programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung erfolgen, da dieser SureScan-Modus in dieser Zeit der Einheilungsphase nicht aktivierbar ist.
+
+Ruhe-EKG bei Entlassung:
+Sinusrhythmus, regelmäßig, Herzfrequenz 62/min, überdrehter Linkstyp. PQ 230 ms, QRS 143 ms, QTc 446 ms. AV-Block I°. Kompletter Linksschenkelblock mit konsekutiven Kammerendteilveränderungen.
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte elektiv zum ICD-Aggregatwechsel bei baldiger Batterieerschöpfung bei Zustand nach primärprophylaktischer ICD-Implantation am B-DATE.
+
+Der Aggregatwechsel des 1-Kammer-ICD konnte am <[Pseudo] 22/02/2038> komplikationslos durchgeführt werden. Postinterventionell konnten echokardiographisch ein Perikarderguss sowie konventionell-radiologisch ein Pneumothorax ausgeschlossen werden. Die im Anschluss kontrollierte ICD-Funktion war regelrecht. Bei Entlassung zeigte sich die Wunde reizlos. Wir bitten um einen Verbandswechsel in 3 - 4 Tagen und eine Wundkontrolle in 10-12 Tagen durch den Hausarzt. Ein Fadenzug ist bei selbstauflösendem Nahtmaterial nicht erforderlich. Bei Rötung, Schwellung, Fieber oder purulentem Sekret aus der Aggregattasche erbitten wir eine sofortige Wiedervorstellung in unserem Hause.
+
+Die Wiedervorstellung zur nächsten Schrittmacherkontrolluntersuchung wünscht der Patient in
+4-6 Wochen in der Praxis B-TITLE B-PER durchzuführen. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch die B-ORG B-TITLE B-PER in Intervallen von 6 Monaten durchführen zu lassen.
+
+Die Antikoagulation mit Marcumar wurde periprozedural weitergeführt.
+
+Über Verhaltensmaßregeln sowie eine Fahrungeeignetheit als Privatkraftfahrer für mindestens 2 Wochen und eine dauerhafte Fahrungeeignetheit als Berufskraftfahrer, wurde der Patient aufgeklärt. DEFI-Ausweis, Informationsbroschüre -LRB- Lt. MPG -RRB- , sowie Patienteninformation und Einverständniserklärung wurden dem Patienten ausgehändigt. Die Alarmfunktion wurde demonstriert.
+
+Wir passten die Herzinsuffizienzmedikation gemäß den aktuellen Leitlinien wie unten angegeben individuell optimiert an. Bei hypotonen Blutdruckwerten wurde auf einen Therapiebeginn mit Entresto verzichtet. Wir bitten im Verlauf die Herzinsuffizienzmedikation unter Kontrolle des Blutdrucks, der Herzfrequenz, der Nierenwerte und Elektrolyte bis zur maximal verträglichen evidenzbasierten Dosis zu steigern.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien, sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 23/02/2038> in Ihre geschätzte ambulante Betreuung. Bei beschwerdefreiem Verlauf empfehlen wir kardiologische Kontrolluntersuchung in der B-ORG B-TITLE B-PER
+
+Nächster Termin/Procedere:
+- Verbandswechsel in 3 - 4 Tagen und Wundkontrolle in 10-12 Tagen durch den Hausarzt empfohlen -LRB- Kein Fadenzug bei selbstauflösendem Nahtmaterial erforderlich -RRB-
+- ICD-Kontrolle in 4-6 Wochen in der Praxis B-TITLE B-PER
+
+Therapieempfehlung von kardiologischer Seite:
+Marcumar nach INR, Zielbereich INR 2,0 bis 3,0
+Carvedilol 12,5mg -UNK- -0- -UNK-
+Candesartan 8mg 1-0-0
+Torasemid 10mg -UNK- -0-0
+Spironolacton 25mg -UNK- -0-0
+Empagliflozin 10 mg 1-0-0 neu
+Simvastatin 20mg 0-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsärztin
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2037>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.12
+4 - 10 /nl
+B-DATE
+Hb
+13.8
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.7
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.420
+0,38 - 0,52 l/l
+B-DATE
+MCV
+90
+83 - 97 fl
+<[Pseudo] 22/02/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 22/02/38>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 22/02/38>
+RDW
+13.8
+12,9 - 18,7 %
+<[Pseudo] 22/02/38>
+hypochr.Erythroz.
+0.5
+0 - 2 %
+<[Pseudo] 22/02/38>
+Thrombozyten
+220
+150 - 440 /nl
+<[Pseudo] 22/02/38>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+134 !L
+135 - 146 mmol/l
+<[Pseudo] 22/02/38>
+Kalium -LRB- ISE -RRB-
+4.91
+3,4 - 5,0 mmol/l
+<[Pseudo] 22/02/38>
+Calcium
+2.43
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+1.17
+0,6 - 1,4 mg/dl
+<[Pseudo] 22/02/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+36
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+58.9 !L
+>60 s.u.
+<[Pseudo] 22/02/38>
+MDRD
+67.95
+ml/min/1,73qm
+<[Pseudo] 22/02/38>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+46.1
+30 - 50 g/l
+<[Pseudo] 22/02/38>
+Glucose
+105
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+22
+- <50 U/l
+B-DATE
+GGT
+37
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.80
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+9.0 !H
+- <7 mg/dl
+<[Pseudo] 22/02/38>
+Triglyceride
+82
+- <150 mg/dl
+<[Pseudo] 22/02/38>
+Cholesterin
+160.0
+- alt.abh. mg/dl
+<[Pseudo] 22/02/38>
+LDL-Chol. -LRB- berechn. -RRB-
+99
+- <160 mg/dl
+<[Pseudo] 22/02/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HDL-Cholesterin
+45
+>40 mg/dl
+B-DATE
+Eisen
+19.0
+14 - 32 µmol/l
+<[Pseudo] 22/02/38>
+Ferritin
+193
+30 - 300 µg/l
+<[Pseudo] 22/02/38>
+Transferrin
+2.44
+2,0 - 3,6 g/l
+<[Pseudo] 22/02/38>
+TFSG
+31
+16 - 45 %
+<[Pseudo] 22/02/38>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 22/02/38>
+Hämolyse
+-
+
+<[Pseudo] 22/02/38>
+ikterisch
+-
+
+<[Pseudo] 22/02/38>
+Lipämie
+-
+
+<[Pseudo] 22/02/38>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+196
+- <342 U/l
+B-DATE
+CK
+50
+- <190 U/l
+<[Pseudo] 22/02/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+29.5 !H
+- <14 pg/ml
+<[Pseudo] 22/02/38>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.8
+- <6,1 %
+<[Pseudo] 22/02/38>
+HbA1c -LRB- IFCC -RRB-
+40
+20 - 42 mmol/mol
+<[Pseudo] 22/02/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+120 !H
+- <110 mg/dl
+<[Pseudo] 22/02/38>
+TSH
+1.82
+0,400 - 4,000 mU/l
+<[Pseudo] 22/02/38>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+35.0 !L
+70 - 125 %
+<[Pseudo] 22/02/38>
+INR - ber.
+1.86 !H
+- <1.2
+<[Pseudo] 22/02/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+25.9
+- <35 s
+B-DATE

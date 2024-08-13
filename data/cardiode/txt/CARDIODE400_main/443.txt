@@ -1,0 +1,275 @@
+Aufnahmedatum: <[Pseudo] 2032-11-13 >
+Geburtsdatum: <[Pseudo] 1978-06-24 >
+Alter: 54
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 24/06/1978> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Hypertensive Entgleisung mit akutem Myokardschaden -LRB- formal NSTEMI Typ II -RRB-
+-UNK- Ausschluss LAE/Aortendissektion
+- Unauffällige Koronararterien mit Bild einer hypertensiven Herzkrankheit -LRB- B-OTHER vom <[Pseudo] 07/11/2032> -RRB-
+- V.a. hochgradig partiell okkludierenden Thrombus in der A. axillaris links über einer Strecke von 2,4 cm mit V.a. spontane Rekanalisation DD bildmorphologisches Artefakt -LRB- CT vom <[Pseudo] 05/11/2032> -RRB-
+-UNK- Farbduplexsonographisch kein Thrombus in der A. axillaris darstellbar, Klinik nicht passend zu arteriellem Verschluss/Thrombus
+-UNK- Kein Anhalt für eine vorgeschaltete Stenose in den Arm/Unterarmarterien
+
+Diagnosen:
+- Chronische Nacken-/Rückenschmerzen
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, pos. Familienanamnese -LRB- Vater HRST, Großvater und Onkel Herzinfarkt -RRB-
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über die internistische I-ORG bei akutem Myokardschaden -LRB- formal NSTEMI -RRB- unter hypertensiver Entgleisung.
+Zuvor war bei reißenden linksthorakalen Schmerzen mit einer Intensität von 10/10 über den Schockraum der Chirurgie eine Aortendissektion ausgeschlossen worden. In den letzten Monaten immer wieder thorakale Beschwerden von wenigen Sekunden Dauer aufgetreten, nicht atemabhängig. Die Patientin berichtet über abnehmende Belastbarkeit im Alltag bei progredienter inadäquate Belastungsdyspnoe einhergehend mit belastungsinduzierter inadäquater Tachykardie. Keine peripheren Ödeme. Keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen, kein Schwindel, keine stattgehabten Synkopen.
+
+Medikation bei Aufnahme:
+keine
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut
+HF: 107/min, regelmäßig
+RR: initial 180/100 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: orientierend unauffällig.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+Sinustachykardie, regelmäßig, Herzfrequenz 107/min, überdrehter Linkslagetyp. PQ 124 ms, QRS 91 ms, QTc 403 ms. Zeiten im Normbereich. Verzögerte R-Progression, R/S Umschlag in V5/V6. Isolierte T-Negativierung in aVL, ansonsten keine signifikanten Kammerendteilveränderungen.
+
+Sonographie vom Abdomen und der Pleura beidseits vom <[Pseudo] 05/11/2032:>
+Keine Voraufnahmen zum Vergleich vorliegend.
+Befund und Beurteilung:
+Kein Hinweis auf freie Flüssigkeit retrovesikal, in Morrison- oder Coller-Pouch. Kein Hinweis auf Pneumothorax. Kein Hinweis auf Perikarderguss.
+Befundmitteilung an Schockraum-Team erfolgt.
+
+Multiplanare Reformatierung -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 05/11/2032:>
+BEFUND:
+Gefäße:
+Arteria lusoria. Abgang der rechten Arteria vertebralis aus der ACC, an der linken direkt aus dem Aortenbogen. Über einer Strecke von 2,4 cm umspülter, hochgradig partiell okkludierender Thrombus in der A. axillaris links -LRB- 7/60, 6/150 -RRB- . Kein Nachweis einer Aortendissektion. Rechte Leberarterie aus der AMS. Keine relevante Vasosklerose. Kein Hinweis auf Lungenarterienembolie.
+Thorax:
+Geringe dorsobasale Belüftungsstörungen beidseits. Kein Pneumothorax. Kein pneumonisches Infiltrat. Keine pathologisch vergrößerten Lymphknoten. Mediastinum unauffällig.
+Abdomen:
+Hypodense Leberläsion in Segment 6 mit 3,3 cm -LRB- 5 / 183 -RRB- , in der arteriellen Phase randständige Hyperperfusion. Keilförmige Hyperperfusion der Leber in Segment 4 B -LRB- 5 / 189 -RRB- . Milz regelrecht. Pankreas regelrecht. Nebennieren beidseits regelrecht. Eingeblutete Nierenzyste am Nierenoberpol links mit 2,4 cm -LRB- 2 / 179 -RRB- . Kleine blande Nierenzyste im Mittelgeschoss rechts -LRB- 5 / 198 -RRB- . Nieren beidseits regelrecht perfundiert. Kein Harnstau. Keine pathologisch vergrößerten Lymphknoten. Keine freie Luft oder freie Flüssigkeit.
+Skelett:
+Altersentsprechende degenerative Skelettveränderungen.
+BEURTEILUNG:
+-UNK- Umspülter, hochgradig partiell okkludierender Thrombus in der A. axillaris links über einer Strecke
+2,4 cm.
+-UNK- Arteria lusoria.
+-UNK- V.a. Leberhämangiom in S6, soweit in der arteriellen Phase beurteilbar, sonographische oder MR-tomographische Korrelation empfohlen.
+-UNK- Eingeblutete Nierenzyste am Oberpol links, Bosniak 2.
+Befundmitteilung an SR-Team erfolgt.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 07/11/2032> -RRB- :
+Herzkatheteruntersuchung bei V.a. eine relevante koronare Herzerkrankung:
+Unauffällige Koronararterien. Bild einer hypertensiven Herzkrankheit.
+Maßnahmen:
+1 -RRB- Optimierung der antihypertensiven Therapie.
+2 -RRB- Echokardiographie bzgl. LV-Funktion und Vitien.
+
+Transthorakale Echokardiographie vom <[Pseudo] 08/11/2032:>
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LVFunktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Leichtgradige Aortenklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht ableitbar. Erstbefund in domo.
+
+Farbduplexsonographie der tiefen Venen der oberen Extremität links vom <[Pseudo] 08/11/2032:>
+V. jugularis, V. subclavia, V. axillaris, Vv. brachiales, Vv. radiales et ulnares mit guter Komprimierbarkeit und ohne Hinweis auf intraluminales thrombotisches Material.
+Farbduplexsonographie der Arterien der oberen Extremität links:
+A. jugularis, A. subclavia, A. axillaris und A. brachialis sowie A. ulnaris und A. radialis mit regelrechten biphasischen Flüssen.
+Aktuell kein Anhalt für einen arteriellen oder venösen Verschluss.
+Morgen Wiedervorstellung zur ABI Messung.
+
+Angiologische Untersuchung vom <[Pseudo] 10/11/2032:>
+Anamnese: Im CT Angio V.a. Thrombus in der A. axillaris links. FDS konnte dies nicht bestätigt werden. Die Beschwerden -LRB- Parästhesien im Schulter- und Halsbereich, keine Schwäche, Schmerzen in den linken Arm oder Hand -RRB- waren auch sehr atypisch für eine arterielle Stenose/ Verschluss. Heute Nacht im Liegen Taubheitsgefühl im linken Arm.
+
+Arterieller CW-Doppler -LRB- Verschlussdrücke in mmHg -RRB-
+Referenzdruck: A.brachialis re/li 120 mmHg
+Rechtes Bein
+
+Linkes Bein
+120
+A. dorsalis pedis
+115
+120
+A. tibialis posterior
+115
+1,0
+ABI
+0,95
+
+Empfehlungen: Bei atypischen Beschwerden aber sehr verunsicherter Patientin wurde nochmal die ABI Messung wiederholt. Es ergab sich weiterhin kein Anhalt für eine hämodynamisch relevante arterielle Stenose oder Verschluss im linken Arm.
+Orthopädische Abklärung der Beschwerden, falls noch nicht erfolgt.
+
+Ruhe-EKG bei Entlassung:
+Sinusrhythmus, regelmäßig, Herzfrequenz 52/min, Linkslagetyp. PQ 147 ms, QRS 98 ms, QTc 404 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über die internistische I-ORG bei akutem Myokardschaden -LRB- formal NSTEMI -RRB- unter hypertensiver Entgleisung.
+
+Zuvor war bei reißenden linksthorakalen Schmerzen mit einer Intensität von 10/10 über den Schockraum der Chirurgie eine Aortendissektion ausgeschlossen worden. Im Rahmen des durchgeführten Schockraum-CTs wurde weiterhin eine Lungenarterienembolie ausgeschlossen.
+
+In der Notaufnahme wurde bei steigendem Troponin T mit 11 initial und im Verlauf signifikant auf 18 -LRB- 1h -RRB- sowie 21 -LRB- 3h -RRB- steigend ein akuter Myokardschaden -LRB- formal NSTEMI festgestellt, a.e. Typ 2 -RRB- im Rahmen der hypertensiven Entgleisung.
+
+In der am <[Pseudo] 07/11/2032> durchgeführten Herzkatheter-Untersuchung zeigten sich unauffällige Koronararterien vor dem Bild einer hypertensiven Herzerkrankung. Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Im Rahmen des durchgeführten Schockraum-CTs wurde der Verdacht auf einen umspülten, hochgradig partiell okkludierenden Thrombus in der A. axillaris links über einer Strecke von 2,4 cm gestellt. In Rücksprache mit den B-SALUTE der Angiologie wurde eine Antikoagulation eingeleitet. Es erfolgte eine angiologische Vorstellung, in welcher sich der Thrombus farbdopplersonographisch nicht darstellen ließ. Weiterhin zeigte sich kein Anhalt für eine vorgeschaltete Stenose in den Arm/Unterarmarterien. In Zusammenschau der Befunde wurde der Verdacht auf eine spontane Rekanalisation oder ein Artefakt in der CT-Untersuchung gestellt. Im Verlauf traten bei der Patientin intermittierende kurzzeitig anhalten Parästhesien im Schulter- und Halsbereich unterschiedlicher Qualitäten ohne Schwäche oder Schmerzen im linken Arm oder der Hand auf. Obgleich die Beschwerden untypisch für eine arterielle Durchblutungsstörung waren, erfolgte eine erneute angiologische Vorstellung, welche weiterhin keinen Anhalt für eine hämodynamisch relevante arterielle Stenose oder einen Verschluss im linken Arm ergab. Bei Beschwerdepersistenz empfehlen wir eine orthopädische Vorstellung zur weiteren Abklärung der Beschwerden. Sollte es weiterhin zu keiner Beschwerderegredienz kommen, kann eine erneute angiologische Vorstellung in unserer B-ORG I-ORG erfolgen.
+
+Bei während des stationären Aufenthaltes hypertensivem Blutdruckprofil erfolgte die Einleitung einer antihypertensiven Medikation wie unten angegeben. Hierdurch ließ sich rasch eine gute Blutdruckeinstellung erreichen, sodass der bei rezidivierenden hypertensiven Krisen initial aufgetretene Verdacht auf eine sekundäre Ursache der Hypertension zurückgestellt wurde. Wir empfehlen regelmäßige eigenständige Blutdruckmessungen sowie die Erhebung einer 24h-Blutdruckprofils. Sollten unter hypertensiver Medikation erneut hypertensive Blutdruckwerte auftreten, empfehlen wir den Ausschluss einer sekundären Hypertonie mit Ausschluss einer Nierenarterienstenose sowie endokriner Ursachen.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung. Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+
+Nächster Termin/Prozedere:
+- Regelmäßige Kontrollen von Gewicht, Blutdruck, Elektrolyten und Retentionsparametern und ggf. eine Anpassung der medikamentösen Therapieeinstellung
+
+Therapieempfehlung:
+Candesartan 8 mg 1-0-0,5 neu
+Lercanidipin 10 mg 0,5-0-1 neu
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER / B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsärztinnen
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+
+
+
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2031>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.94
+4 - 10 /nl
+B-DATE
+Hb
+14.8
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+5.3 !H
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.450
+0,36 - 0,47 l/l
+B-DATE
+MCV
+84
+83 - 97 fl
+<[Pseudo] 06/11/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+28
+27 - 33 pg
+<[Pseudo] 06/11/32>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 06/11/32>
+RDW
+13.3
+12,9 - 18,7 %
+<[Pseudo] 06/11/32>
+hypochr.Erythroz.
+1.1
+0 - 2 %
+<[Pseudo] 06/11/32>
+Thrombozyten
+381
+150 - 440 /nl
+<[Pseudo] 06/11/32>
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+143
+135 - 146 mmol/l
+<[Pseudo] 06/11/32>
+Kalium -LRB- ISE -RRB-
+4.28
+3,4 - 4,8 mmol/l
+<[Pseudo] 06/11/32>
+Calcium
+2.69 !H
+2,11 - 2,59 mmol/l
+<[Pseudo] 06/11/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+0.85
+0,5 - 0,9 mg/dl
+B-DATE
+Harnstoff
+23
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+77.9
+>60 s.u.
+<[Pseudo] 06/11/32>
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 06/11/32>
+ikterisch
+-
+
+<[Pseudo] 06/11/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lipämie
+-
+
+<[Pseudo] 06/11/32>
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+11.4
+- <14 pg/ml
+B-DATE

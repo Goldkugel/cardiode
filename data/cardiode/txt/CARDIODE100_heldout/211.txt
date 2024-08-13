@@ -1,0 +1,455 @@
+Aufnahmedatum: <[Pseudo] 2038-12-24 >
+Geburtsdatum: <[Pseudo] 1980-09-14 >
+Alter: 58
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 14/09/1980> wohnhaft in B-PLZ B-LOC I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Vorhofflimmern -LRB- ED -RRB-
+-UNK- EHRA I, CHADSVASc 2 HAS BLED 1
+-UNK- LA-Diameter: 50 mm
+-UNK- Orale Antikoagulation: Lixiana
+-UNK- Elektrische Kardioversion 2x 150 J, 1x 200 J in den normofrequenten Sinusrhythmus am <[Pseudo] 16/12/2038>
+
+- V.a. relevante KHK DD Tachymyopathie
+-UNK- Leicht bis mittelgradig eingeschränkte LVEF -LRB- Echokardiographie v. <[Pseudo] 12/12/2038> -RRB-
+-UNK- Ausschluss einer relevanten Koronaren Herzerkrankung bei global leicht bis mittelgradig eingeschränkter Pumpfunktion. LV Biopsie technisch nicht möglich. -LRB- HK Nr. B-DATE I-DATE I-DATE v. <[Pseudo] 15/12/2038> -RRB-
+-UNK- Postinterventionelles A. spurium
+- Druckverbandanlage am <[Pseudo] 16/12/2038>
+- Thrombininjektion -LRB- 200 IE -RRB- und erneute angiologische Kontrolle am Folgetag bei fraglich flottierender Struktur der AFS
+-UNK- Ad Kardio MRT -LRB- Termin s.u. -RRB-
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Ex-Nikotinabusus -LRB- 20 py -RRB-
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die Vorstellung erfolgte als Überweisung durch den niedergelassenen Kardiogen bei ED Vorhofflimmern.
+Auf spezifische Nachfrage keine typische Angina pectoris, jedoch leicht progrediente Belastungsdyspnoe
+-LRB- entsprechend NYHA II -RRB- . Weiterhin in den letzten Wochen Leistungsknick bemerkt. Kein Schwindel, keine
+Synkope. Keine Palpitationen. Kein Hinweis auf einen akuten Infekt. Häusliche Blutdruckwerte 120/80
+mmHg.
+
+Medikation bei Aufnahme:
+Lixiana 60 mg 1-0-0 neu
+Ramipril 5 mg 1-0-0 neu
+Metoprolol 47,5 mg -UNK- -0- -UNK- neu
+Atorvastatin 20 mg 0-0-1 neu
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- 180 cm, 75 kg -RRB-
+BMI 23,1 kg/m²
+HF: 69/min, regelmäßig
+RR: 160/100 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: unauffällig
+Neurol. Status: unauffällig
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+Normofrequentes Vorhofflimmern, HF 69 S/min, keine relevanten Kammerendteilveränderungen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 12/12/2038:>
+Grenzwertig großer, septal leicht hypertrophierter linker Ventrikel mit leicht- bis mittelgradig verminderter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte. Verminderte longitudinale Funktion -LRB- GLS 10% -RRB- . Regelrechte diastolische Funktion des LV. LA und RA dilatiert, RV grenzwertig groß mit noch guter Pumpfunktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior leicht erweitert, jedoch ausreichend atemvariabel. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist nicht valide ableitbar. Erstbefund in domo.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 15/12/2038> -RRB- :
+Befund folgt.
+
+Ruhe-EKG vom <[Pseudo] 15/12/2038:>
+Normofrequentes Vorhofflimmern, HF 73 S/min, Steiltyp, QRS 96ms, QTc 395ms, keine relevanten Kammerendteilveränderungen.
+
+Echo-TEE vom <[Pseudo] 15/12/2038:>
+Transösophageale Echokardiografie zum Thrombenausschluss vor Elektrokardioversion Kein Nachweis intrakardialer Thromben. Reduzierte Flussgeschwindigkeiten im linken Vorhofohr. 2 rechte und 2 linke Lungenvenen münden regelrecht in den linken Vorhof ein. Vorhofseptum sonographisch regelrecht darstellbar ohne Hinweis auf ein persistierendes Foramen ovale. Aorta ascendens, Bogen und descendens - soweit einsehbar - regelrecht. Aortenwurzel noch normal -LRB- Durchmesser 37mm -RRB- . Aortenklappe trikuspid mit regelrechter Separation. Leichtgradige Mitralklappeninsuffizenz. Übrige Klappen sonographisch regelrecht. Der PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht ableitbar. TEE Erstbefund in domo. TTE Befund vom <[Pseudo] 12/12/2038> im ISH.
+
+Ruhe-EKG vom <[Pseudo] 15/12/2038:>
+Normofrequenter Sinusrhythmus, HF 61 S/min, Steiltyp, PQ 227 ms, AV-Block I°, QRS 93ms, QTc 405ms, R/S-Umschlag V3/V4, keine relevanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 16/12/2038:>
+Normofrequenter Sinusrhythmus, HF 75 S/min, Steiltyp, PQ 210 ms, AV-Block I°, QRS 93ms, QTc 414ms, R/S-Umschlag V3/V4, keine relevanten Kammerendteilveränderungen.
+
+Elektrophysiologischer Kurzbefund - HCR vom <[Pseudo] 16/12/2038:>
+Befund:
+Erfolgreiche elektrische Kardioversion bei Vorhofflimmern -LRB- 2x150 J- primär erfolgreich, Rezidiv nach wenigen Sekunden, 1x200 J, biphasisch, synchron -RRB- . Nachfolgend Sinusrhythmus.
+Blutdruck vor und nach Kardioversion:
+RR prä CV 159/103 mmHg
+RR post CV 155/97 mmHg
+Medikamente während Kardioversion:
+Propofol 80 mg um 11:49 Uhr
+Metoprolol 5 mg
+Sonstige Bemerkungen:
+SaO2 vor und nach CV 98-100%, Präoxygenierung mit 8 l/min O2 über Insufflationsmaske.
+Procedere:
+Bettruhe 4h und Monitoring, orale Antikoagulation -LRB- Lixiana -RRB- fortsetzen. Über ein Fahrverbot für 24 Stunden nach Kardioversion wurde aufgeklärt.
+
+Angiologische Verlaufskontrolle nach Femoralispunktion rechts vom <[Pseudo] 16/12/2038:>
+Anamnese:
+Kontrolle nach Koronarangiographie am DATE, B-SALUTE B-PER berichtet über krampfartige Schmerzen von der Leiste in den Oberschenkel ziehen, er habe Probleme beim Belasten des Beines aufgrund der ausgeprägten Schmerzen.
+Lokalbefund:
+Punktionsstelle reizlos, kein relevantes Hämatom. Leistenpuls kräftig palpabel. Mäßiger Druckschmerz.
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Nachweis einer singulären A. spurium Höhle direkt ventral der A. femoralis communis mit sehr kurzem Hals und typischem Pendelfluss. Kein Hinweis auf eine AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Empfohlenes Procedere:
+- Wie bereits telefonisch besprochen manuelle Kompression über 20min unter adäquater Analgesie -LRB- eingezeichnete Lokalisation -RRB-
+- Im Anschluss Druckverband über mindestens 4h
+- Antikoagulation, wenn vertretbar, pausieren
+- Morgen Vormittag erneute angiologische Kontrolle
+
+Angiologie v. <[Pseudo] 17/12/2038:>
+Anamnese:
+Kontrolle nach Koronarangiographie am DATE, B-SALUTE B-PER berichtet über krampfartige Schmerzen von der Leiste in den Oberschenkel ziehen, er habe Probleme beim Belasten des Beines aufgrund der ausgeprägten Schmerzen.
+Lokalbefund:
+Punktionsstelle reizlos, kein relevantes Hämatom. Leistenpuls kräftig palpabel. Mäßiger Druckschmerz.
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Nachweis einer singulären A. spurium Höhle direkt ventral der A. femoralis communis mit sehr kurzem Hals und typischem Pendelfluss. Kein Hinweis auf eine AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Nach erfolgloser ultraschallgesteuerter Kompression folgte eine ultraschallgesteuerte Thrombininjektion -LRB- 200 IE -RRB- mit anschließender Druckverband-Anlage.
+Empfohlenes Procedere:
+- Druckverband belassen bis 15:30 Uhr
+- Anschließend erneute angiologische Kontrolle -LRB- bitte anmelden -RRB-
+- AK pausieren, sofern vorhanden und vertretbar
+- Regelmäßige klinische Kontrollen -LRB- DMS -RRB-
+
+Angiologie-Konsiliarische Untersuchung v. <[Pseudo] 17/12/2038:>
+Anamnese:
+Nach Koronarangiographie am <[Pseudo] 15/12/38> großes Aneurysma direkt ventral der A. femoralis communis mit sehr kurzem Hals und typischem Pendelfluss. Nach erneuter manueller Kompression und Druckverband gestern, heute Morgen erfolglose ultraschallgesteuerte Kompression über 30min und anschließend erfolgreiche Thrombininjektion. Patient jetzt beschwerdefrei.
+
+Lokalbefund:
+Punktionsstelle reizlos, kein relevantes Hämatom. Leistenpuls kräftig palpabel. Mäßiger Druckschmerz.
+
+Farbduplexsonographie der Gefäße der rechten Leiste:
+A. spurium Höhle nicht mehr perfundiert und vollständig thrombosiert nachweisbar. Im Bereich der ehemaligen Verbindung zwischen Arterie und Aneurysma Nachweis einer in das Lumen hineinragenden flottierenden Struktur, am ehesten Thrombinrest/DD Thrombusmaterial. Regelrechtes Flussprofil in der A. femoralis communis ohne Turbulenzen oder Flussbeschleunigungen. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+
+Empfohlenes Procedere:
+- Wie bereits telefonisch mit dem Stationsarzt besprochen Vollantikoagulation mit Lixiana aufgrund von Vorhofflimmern -LRB- ggf. heute zusätzlich Clexane -RRB-
+- Anschließend erneute angiologische Kontrolle -LRB- bitte anmelden -RRB- morgen früh
+- Regelmäßige klinische Kontrollen -LRB- DMS -RRB-
+
+Angiologie-Konsiliarische Untersuchung vom <[Pseudo] 18/12/2038:>
+Anamnese:
+Kontrolle nach Thrombininjektion bei Aneurysma der AFC nach Koronarangiographie am B-DATE. B-SALUTE B-PER berichtet über Besserung der Beschwerden.
+
+Lokalbefund:
+Punktionsstelle reizlos, kein relevantes Hämatom. Leistenpuls kräftig palpabel. Mäßiger Druckschmerz.
+
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Nachweis einer singulären A. spurium Höhle ventral der A. femoralis communis heute ohne Hinweis auf Perfusion. Kein Hinweis auf eine AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+Ruhe-EKG vom <[Pseudo] 18/12/2038:>
+Normofrequenter Sinusrhythmus, HF 65 S/min, Steiltyp, PQ 220 ms, AV-Block I°, QRS 101ms, QTc 416ms, R/S-Umschlag V3/V4, keine relevanten Kammerendteilveränderungen.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 12/12/2038> und dem <[Pseudo] 16/12/2038>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.01
+4 - 10 /nl
+B-DATE
+Hb
+14.8
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.8
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.430
+0,38 - 0,52 l/l
+B-DATE
+MCV
+89
+83 - 97 fl
+<[Pseudo] 16/12/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 16/12/38>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 16/12/38>
+RDW
+12.5 !L
+12,9 - 18,7 %
+<[Pseudo] 16/12/38>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+<[Pseudo] 16/12/38>
+Thrombozyten
+210
+150 - 440 /nl
+<[Pseudo] 16/12/38>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 16/12/38>
+Kalium -LRB- ISE -RRB-
+4.19
+3,4 - 4,8 mmol/l
+<[Pseudo] 16/12/38>
+Calcium
+2.32
+2,11 - 2,59 mmol/l
+<[Pseudo] 16/12/38>
+Kreatinin
+0.78
+0,6 - 1,2 mg/dl
+<[Pseudo] 16/12/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+29
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+99.5
+>60 s.u.
+<[Pseudo] 16/12/38>
+MDRD
+121.96
+ml/min/1,73qm
+<[Pseudo] 13/12/38>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+41.2
+30 - 50 g/l
+<[Pseudo] 13/12/38>
+Glucose
+92
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+27
+- <46 U/l
+B-DATE
+GPT/ALT
+31
+- <50 U/l
+B-DATE
+GGT
+22
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.90
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+4.6
+- <7 mg/dl
+B-DATE
+Triglyceride
+66
+- <150 mg/dl
+<[Pseudo] 13/12/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+174.0
+- alt.abh. mg/dl
+<[Pseudo] 13/12/38>
+LDL-Chol. -LRB- berechn. -RRB-
+110
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+51
+>40 mg/dl
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 13/12/38>
+Hämolyse
+-
+
+<[Pseudo] 16/12/38>
+ikterisch
+-
+
+<[Pseudo] 16/12/38>
+Lipämie
+-
+
+<[Pseudo] 16/12/38>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+164
+- <317 U/l
+B-DATE
+CK
+35
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+5.70
+- <14 pg/ml
+B-DATE
+NT-BNP
+491 !H
+- <125 ng/l
+<[Pseudo] 12/12/38>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.2
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+33
+20 - 42 mmol/mol
+<[Pseudo] 13/12/38>
+mittlere Glucose
+103
+- <110 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.85
+0,400 - 4,000 mU/l
+B-DATE
+FT3
+2.89
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+12.19
+8 - 18 ng/l
+B-DATE
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+78.1
+70 - 125 %
+<[Pseudo] 13/12/38>
+INR - ber.
+1.12
+- <1.2
+<[Pseudo] 13/12/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+24.8
+- <35 s
+<[Pseudo] 13/12/38>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte bei Erstdiagnose einer leicht bis mittelgradig eingeschränkten Pumpfunktion unter normofrequentem Vorhofflimmern zur weiteren Abklärung.
+
+Bei insgesamt EHRA I verzichteten die Kollegen der CPU auf eine TEE Untersuchung und notfallmäßige Kardioversion und begannen bei leicht bis mittelgradig eingeschränkter Pumpfunktion eine Herzinsuffizienztherapie.
+
+Es erfolgte eine stationäre Aufnahme zur weiteren Abklärung. Es erfolgte eine invasive Diagnostik. Hierbei konnte eine relevante Koronare Herzerkrankung ausgeschlossen werden. Eine Biopsie war technisch nicht möglich bei unter TAA mittelgradig eingeschränkter Pumpfunktion empfehlen wir deshalb ein Kardio MRT nach elektrischer Kardioversion, im Sinusrhythmus. Einen Termin hierfür haben wir unten terminiert.
+
+Der postprozedurale Verlauf gestaltete sich komplikationslos, postinterventionell zeigte sich ein A. spurium sodass eine Druckverbandanlage erfolgte. In einer Kontrolle am Folgetag zeigte sich persistierendes A. spurium, sodass eine Thrombininjektion erfolgte -LRB- 200 IE -RRB- . In einer Kontrolle zeigte sich dann eine fraglich flottierende Struktur der A. femoralis superficialis sodass wir eine erneute Angiologische Kontrolle am Folgetag durchführten. Hierbei zeigte sich dann ein regelrechter Befund.
+
+Am <[Pseudo] 16/12/2038> erfolgte ein TEE zum Thrombenausschluss mit nachfolgender Elektrischer Kardioversion in den normofrequenten Sinusrhythmus -LRB- siehe o.g. Befund -RRB- .
+
+Wir passten die Herzinsuffizienzmedikation und Frequenzkontrollierende Medikation wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Des Weiteren begannen wir zur Lipidsenkung und Plaquestabilisierung eine Therapie mit einem Statin. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen den Patienten kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Procedere/Termine:
+- LZ EKG empfohlen
+- Kardio-MRT am <[Pseudo] 27/04/2039> um 15:00 Uhr -LRB- Fragestellung: Tachymyopathie? CMP? -RRB- Bitte hierzu eine Überweisung mitführen
+-UNK- Besprechung in unserer Herzinsuffizienz-Ambulanz am <[Pseudo] 08/05/2039> um 11:30 Uhr
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Lixiana 60 mg 1-0-0 neu
+Ramipril 5 mg 1-0-0 neu
+Metoprolol 47,5 mg -UNK- -0- -UNK- neu
+Eplerenon 25 mg 1-0-0 neu
+Atorvastatin 20 mg 0-0-1 neu
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Stationsarzt

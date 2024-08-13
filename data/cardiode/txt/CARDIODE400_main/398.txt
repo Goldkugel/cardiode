@@ -1,0 +1,265 @@
+Aufnahmedatum: <[Pseudo] 2039-06-27 >
+Geburtsdatum: <[Pseudo] 1981-08-13 >
+Alter: 57
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 13/08/1981> wh. B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Akuter Myokardinfarkt -LRB- STEMI -RRB- am <[Pseudo] 20/06/2039>
+- Koronare 2-Gefäßerkrankung -LRB- LCX, LAD -RRB- mit guter linksventrikulärer Pumpfunktion
+-UNK- Erfolgreiche Rekanalisation der medialen LCX bei Verschluss mittels PTCA/1-fach DE-Stentimplantation -LRB- B-OTHER vom <[Pseudo] 20/06/2039> -RRB-
+-UNK- PCI der LAD in 3-4 Wochen am <[Pseudo] 30/07/2039> um 7:15 Uhr in unserer Tagesklinik
+-UNK- Langzeit-EKG v. <[Pseudo] 24/06/2039:> Keine Pausen. 2 polymorphe ventrikuläre Extrasystolen. Lown III a.
+-UNK- Belastungs-EKG v <[Pseudo] 26/06/2039:> im Wesentlichen unauffällig.
+
+Diagnosen:
+- Keine relevanten Vorerkrankungen
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie
+
+Allergien:
+Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte notfallmäßig über die B-ORG bei STEMI. Am Morgen der Aufnahme habe die Patientin einen retrosternalen Schmerz mit Ausstrahlung in den Rücken verspürt. Bei fehlender Regredienz und Schwindel mit zunehmenden Beschwerden sei der Notarzt verständigt worden.
+Auf spezifische Nachfrage hätten zuvor keine typischen pectanginösen Beschwerden, sowie keine Belastungsdyspnoe bestanden. Schwindel und stattgehabte Synkopen werden wie Palpitationen verneint. Kein Hinweis auf einen akuten Infekt -LRB- kein Husten, kein Schnupfen, keine Heiserkeit, kein Fieber, kein Brennen beim Wasserlassen -RRB- . Regelmäßige häusliche Blutdruckmessungen würden nicht durchgeführt werden. Es bestehe keine Nykturie. Periphere Ödeme seien bei aktueller Gewichtskonstanz in der letzten Zeit nicht aufgefallen.
+
+Medikation bei Aufnahme:
+Anamnestisch keine.
+
+Körperlicher Untersuchungsbefund:
+AZ: leicht reduziert.
+EZ gut -LRB- 165 cm 69 kg -RRB-
+HF: 67/min, regelmäßig
+RR: 140/60 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: reine HT, keine path. HG
+Lunge: vesikuläres Atemgeräusch ohne Rasselgeräusche
+Periphere Ödeme: bds US leicht
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: keine
+
+Labor:
+Ruhe-EKG bei Aufnahme:
+Normofrequenter Sinusrhythmus, Herzfrequenz 95/min, IT, PQ 166 ms, QRS 89 ms, QTc 391 ms, ST Senkungen in V1, V2, ST Hebungen in V7-V9
+
+Ruhe EKG v. <[Pseudo] 20/06/2039>
+Normofrequenter Sinusrhythmus HF: 70 S/min, IT, PQ: 163 ms QRS: 76 ms, QTc 426 ms, Rückläufige ST Senkungen in V1/V2.
+
+Ruhe-EKG vom <[Pseudo] 22/06/2039:>
+Normofrequenter Sinusrhythmus, regelmäßig, 73/min, Steiltyp. PQ 146 msec, QRS 90 msec., QTc 391 msec. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V2/V3. Erhöhte T Welle V2-V3.
+
+Ruhe-EKG vom <[Pseudo] 23/06/2039:>
+Normofrequenter Sinusrhythmus, regelmäßig, 79/min, Linkstyp. PQ 140 msec, QRS 80 msec., QTc 387 msec. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V2/V3.
+
+Langzeit-EKG vom <[Pseudo] 24/06/2039>
+Normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 64/min und 122/min, im Mittel 81/min. Eingeschränkte Herzfrequenzvariabilität.
+1 supraventrikuläre Extrasystole. Keine Pausen. 2 polymorphe ventrikuläre Extrasystolen. Lown III a.
+In dieser Aufzeichnung
+
+Ruhe-EKG vom <[Pseudo] 26/06/2039>
+Normofrequenter Sinusrhythmus, regelmäßig, 79/min, Linkstyp. PQ 140 msec, QRS 80 msec., QTc 387 msec. Zeiten im Normbereich. Tiefe Q-Zacke in III. verfrühte R-Progression, R/S Umschlag in V1/V2. Keine signifikanten Erregungsruckbildungsstörungen.
+
+Ruhe-EKG vom <[Pseudo] 27/06/2039>
+Normofrequenter Sinusrhythmus, regelmäßig, 81/min, Linkstyp. PQ 150 msec, QRS 85 msec., QTc 396 msec. Zeiten im Normbereich. Tiefe Q-Zacke in III. Frühe R-Progression, R/S Umschlag in V1/V2. Keine signifikanten Erregungsruckbildungsstörungen.
+
+Belastungs-EKG vom <[Pseudo] 26/06/2039>
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 125 Watt über 00:35 min. Maximale Frequenz 143/min -LRB- 87 % der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 234 mmHg, diastolisch 104 mmHg. Abbruch wegen Atembeschwerden bei Tragen einer FFP2-Maske. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Unter maximaler Belastung diskrete aszendierende ST-Streckensenkungen in den Ableitungen V2-V5 mit langsamer Rückbildung in der Erholungsphase. Durchgehend Sinusrhythmus. Vereinzelt VES -LRB- 2 -RRB- . Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck. Keine höhergradigen Herzrhythmusstörungen unter Belastung.
+
+Herzkatheteruntersuchung B-OTHER vom <[Pseudo] 20/06/2039> -LRB- vorläufig -RRB-
+Indikation: STEMI
+Befund: Koronare 2-Gefäßerkrankung -LRB- LCX, LAD -RRB- mit guter linksventrikulärer Pumpfunktion.
+Prozedere: Erfolgreiche Rekanalisation der medialen LCX bei Verschluss mittels PTCA/1-fach DE-Stentimplantation. Residuelle höhergradige mediale LAD-Stenose. LVEDP erhöht -LRB- 20 mmHg -RRB-
+Prozedere: DAPT für 12 Monate. Einstellung CVRF. Ad PCI der LAD in 4-6 Wochen.
+
+Echokardiographie vom <[Pseudo] 23/06/2039:>
+Beurteilung: Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit leichtgradig verminderter systolischer Pumpfunktion bei Hypokinesie anterolateral sowie Hypo-/Akinesie inferolateral. Verminderte longitudinale Funktion. Relaxationsstörung des LV. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Noch leichtgradige Mitralklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht ableitbar. Erstbefund in domo.
+
+Belastungs-EKG vom <[Pseudo] 26/06/2039>
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 125 Watt über 00:35 min. Maximale Frequenz 143/min -LRB- 87 % der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 234 mmHg, diastolisch 104 mmHg. Abbruch wegen Atembeschwerden bei Tragen einer FFP2-Maske. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Unter maximaler Belastung diskrete aszendierende ST-Streckensenkungen in den Ableitungen V2-V5 mit langsamer Rückbildung in der Erholungsphase. Durchgehend Sinusrhythmus. Vereinzelt VES -LRB- 2 -RRB- . Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck. Keine höhergradigen Herzrhythmusstörungen unter Belastung.
+
+Zusammenfassende Beurteilung:
+Die Aufnahme von B-SALUTE B-PER erfolgte bei akutem Myokardinfarkt -LRB- STEMI -RRB- .
+
+In der ORG war der Patient im Wesentlichen oligosymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich ST-Streckensenkungen in V2, ein hohes R in V2 sowie grenzwertige Hebungen in V6-V9. Durch den Notarzt erfolgte bereits die Gabe von ASS 500 mg und Heparin 5000 IE. In der CPU erfolgte die Gabe von 180 mg Ticagrelor. Bei Aufnahme weiterhin typische AP Beschwerden. Es erfolgte die direkte Verlegung in unser Herzkatheterlabor.
+
+In der Koronarangiographie zeigte sich eine koronare 2-Gefäßerkrankung mit guter eingeschränkter linksventrikulärer Pumpfunktion. Es erfolgte die Rekanalisation der medialen LCX bei Verschluss mittels PTCA/1-fach DE-Stentimplantation. Insgesamt gestaltete sich der postinterventionelle Verlauf komplikationslos. Bei residueller höhergradiger medialer LAD-Stenose empfehlen wir eine Koronarangiographie mit Versorgung der LAD in 4-6 Wochen. Hierfür vereinbarten wir einen Termin für den <[Pseudo] 30/07/2039> um 7:15 in unserer ORG. Wir bitten einen aktuellen Überweisungsschein, aktuelle Laborwerte, sowie einen Medikamentenplan mitzuführen.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung mit ASS 100 mg 1x tägl. und Ticagrelor 90 mg 2x tägl. für 12 Monate. Im Anschluss ist eine alleinige Thrombozytenaggregationshemmung mit ASS 100 mg 1x tägl. ausreichend.
+Die Patientin wurde über die Notwendigkeit einer lückenlosen Einnahme von ASS und Ticagrelor bis einschließlich <[Pseudo] 19/06/2040> ausführlich aufgeklärt.
+
+In der transthorakalen Echokardiographie ergab sich ein normal großer, septal betont leicht hypertrophierter linker Ventrikel mit leichtgradig verminderter systolischer Pumpfunktion bei Hypokinesie anterolateral sowie Hypo-/Akinesie inferolateral. Zudem ergab sich eine Relaxationsstörung des LV. Die Aortenklappe präsentierte sich trikuspid, leicht verdickt mit guter Separation. Ferner ergab sich eine noch leichtgradige Mitralklappeninsuffizienz. Die übrigen Klappen waren sonographisch und dopplersonographisch regelrecht.
+
+Im Langzeit-EKG ergab sich kein Hinweis auf signifikanten Pausen und höhergradige Herzrhythmusstörungen. Abschließend erfolgte noch die Durchführung eines Belastungs-EKGs. Hierbei konnten keine typischen AP-Beschwerden provoziert werden. Unter maximaler Belastung ergaben sich keine höhergradigen Herzrhythmusstörungen unter Belastung bei regelrechtem Anstieg und Abfall der Herzfrequenz und des Blutdrucks.
+
+Bei häufigen hypertensiven Episoden während des stationären Aufenthaltes bis zu 186/118 mmHg systolisch leiteten wir eine antihypertensive Therapie wie unten angegeben ein. Wir bitten um regelmäßige Blutdruck-, Herzfrequenz-, Nierenwert- und Elektrolytkontrollen und ggf. Anpassung der Medikation.
+
+Eine Anschlussheilbehandlung wurde eingeleitet.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien.
+
+Medikation bei Entlassung:
+ASS 100 mg 1-0-0 neu, dauerhaft!
+Ticagrelor 90 mg 1-0-1 neu, bis mindestens B-DATE!
+
+
+Metoprolol 47,5 mg 1,5-0-1,5 neu!
+Candesartan 8 mg 1-0-1 neu!
+Atorvastatin 40 mg 0-0-1 neu! Ziel-LDL < 55 mg/dl
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 3 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, B-SALUTE B-PER unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen B-SALUTE B-PER heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+
+
+
+
+
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER PER/ B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärzte
+
+
+
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2038>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+9.12
+4 - 10 /nl
+B-DATE
+Hb
+14.7
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.8
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.430
+0,36 - 0,47 l/l
+B-DATE
+MCV
+89
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 26/06/39>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 26/06/39>
+RDW
+12.7 !L
+12,9 - 18,7 %
+<[Pseudo] 26/06/39>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+<[Pseudo] 26/06/39>
+Thrombozyten
+368
+150 - 440 /nl
+<[Pseudo] 26/06/39>
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 26/06/39>
+Kalium -LRB- ISE -RRB-
+3.96
+3,4 - 4,8 mmol/l
+<[Pseudo] 26/06/39>
+Kreatinin
+0.94 !H
+0,5 - 0,9 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+45 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+67.6
+>60 s.u.
+<[Pseudo] 26/06/39>
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 26/06/39>
+ikterisch
+-
+
+<[Pseudo] 26/06/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lipämie
+-
+
+<[Pseudo] 26/06/39>
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+755 !H
+- <14 pg/ml
+B-DATE

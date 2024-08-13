@@ -1,0 +1,587 @@
+Aufnahmedatum: <[Pseudo] 2031-09-25 >
+Geburtsdatum: <[Pseudo] 1979-02-11 >
+Alter: 52
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 11/02/1979> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+
+Diagnosen:
+- Z.n. Aufrüstung eines ICDs auf ein CRT-D-System -LRB- SJM Quadra Assura -RRB- am <[Pseudo] 22/07/2031> bei hohem Stimulationsanteil und Progress der Herzinsuffizienzsymptomatik
+-UNK- 12 AMS Episoden a.e. ventrikulärem Farfield entsprechend, ohne therapeuthische Konsequenz
+-UNK- Anpassung der LV-Amplitude/Amplitudendauer bei Zwerchfellzucken
+- Z.n. hämodynamisch relevanter ventrikulärer Tachykardie -LRB- HF bis 250/min, B-DATE -RRB-
+-UNK- Spontankonversion in Sinusrhythmus nach 27min
+-UNK- Z.n. mehrfachen ventrikulären Tachykardien
+-UNK- ICD-Aufrüstung am <[Pseudo] 15/12/2030> im B-ORG I-ORG
+- 2-Kammer-Schrittmacher-Implantation am <[Pseudo] 24/04/2028> bei symptomatischem intermittierendem AV-Block II° mit 2:1 ÜL
+- Pulmonale Sarkoidose -LRB- ED <[Pseudo] 2028> -RRB- mit kardialer Beteiligung -LRB- AV-Block III° -RRB- -LRB- ED B-DATE -RRB-
+-UNK- Hochgradig eingeschränkte LV-Funktion
+- Ausschluss einer koronaren Herzkrankheit -LRB- B-DATE, B-ORG I-ORG -RRB-
+- Solitäre Nierenzyste
+- Tinnitus
+- Z. n. Burn-out <[Pseudo] 2024>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, positive Familienanamnese -LRB- Vater Herzschrittmacher unklarer Indikation, Bruder Defibrillator bei VT -RRB- , Hypercholesterinämie
+
+Allergien: Penicillin
+
+
+Aktuell:
+- Herzinsuffizienz NYHA Stadium III
+- Probatorische Therapie mittels Entresto
+- Beginn einer Methotrexat Therapie, Reduktion von Kortison
+- Beginn einer Statin Therapie
+
+
+Anamnese:
+Ambulante Vorstellung zur Verlaufskontrolle bei kardialer Sarkoidose. Seit der CRT-D Implantation stabile eingeschränkte Belastbarkeit -LRB- 1 Etagen Treppensteigen möglich, NYHA III -RRB- , limitiert durch eine seit B-MONTH progrediente Belastungsdyspnoe. Keine belastungsinduzierten pectanginösen Beschwerden. Keine Palpitationen, glg. orthostatischer Schwindel. Keine Synkopen in den letzten Monaten. Nykturie: 1-2/Nacht. Trinkmenge 2 Liter/Tag. Die häuslichen Blutdruckwerte lägen bei ca.120/70 mmHg. 3Kg Gewichtszunahme unter Cortison. Aktuell kein klinischer Hinweis auf Infekt -LRB- Kein Husten, kein Fieber, kein Brennen beim Wasserlassen -RRB- .
+
+Körperlicher Untersuchungsbefund:
+52-jäh. Pat., 184 cm, 86 kg, in gutem Allgemeinzustand. Klares Bewusstsein. Herztöne leise, keine pathologischen Geräusche. Vesikuläres Atemgeräusch, exspiratorisches Giemen bds.. Keine Ödeme. Keine Zyanose.
+
+Ruhe-EKG:
+Durchgehende CRT Stimulation mit konsekutiven Kammerendteilveränderungen, atriale Eigenstimulation, 67/min. PQ: 165ms, QRS: 161 ms, QT/WTc: 455/470 ms.
+
+Spezielle Krankheitsanamnese:
+Erstdiagnose: <[Pseudo] 2028>
+Letzte Koronarangiographie -LRB- <[Pseudo] 15/12/2030> B-ORG I-ORG -RRB- : Unauffällig
+Myokardbiopsie: nicht durchgeführt
+Familienanamnese: Bruder ICD-Träger seit ca. <[Pseudo] 2019> -LRB- unklare Indikation, a.e. sekundärprophylaktisch bei unklarer Grunderkrankung -RRB- ;
+Vater Herzschrittmacher bei unklarer Grunderkrankung vor 20 Jahren sowie KHK, im Alter von 52 52 verstorben.
+
+LuFu:
+Kapilläre Blutgasanalyse:
+Raumluft:
+Spirometrie
+
+.
+
+
+
+
+
+
+
+Echokardiographie:
+Normal großer linker Ventrikel mit mittelgradig verminderter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte. Vorbekanntes apikoseptales Aneurysma. Verminderte longitudinale Funktion. Hinweis auf Relaxationsstörung des LV. LA, RA, RV normal groß mit noch guter RV-Pumpfunktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Klappen sonographisch regelrecht. Dopplersonographisch leichtgradige Trikuspidalklappeninsuffizienz bei einliegender Sonde. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 25 mmHg -RRB- .
+Im direkten Vergleich zur Voruntersuchung vom <[Pseudo] 19/06/2031:> Besserung der Pumpfunktion.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 27/08/2031> und dem <[Pseudo] 25/09/2031>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+<NONE> !H
+4 - 10 /nl
+B-DATE
+Hb
+13.9
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.7
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.410
+0,38 - 0,52 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+B-DATE
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+34
+30 - 36 g/dl
+B-DATE
+RDW
+13.2
+12,9 - 18,7 %
+<[Pseudo] 25/09/31>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+B-DATE
+Thrombozyten
+225
+150 - 440 /nl
+B-DATE
+Lympho -LRB- abs. -RRB-
+2.12
+1,0 - 4,8 /nl
+B-DATE
+Neutroph.G.-abs.
+<NONE> !H
+1,8 - 7,7 /nl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Mono. -LRB- abs. -RRB-
+0.53
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.18
+- <0,5 /nl
+<[Pseudo] 25/09/31>
+Basoph.G. -LRB- abs -RRB-
+0
+- <0,2 /nl
+<[Pseudo] 25/09/31>
+Stabkern.G.-man.
+1 !L
+3 - 10 %
+B-DATE
+Metamyelo. -LRB- man. -RRB-
+1 !H
+- 0 %
+B-DATE
+Normobl. -LRB- man. -RRB-
+0
+- <1 /100 Leuko
+B-DATE
+Blasten -LRB- man. -RRB-
+0
+- 0 %
+B-DATE
+Promyeloz. -LRB- man. -RRB-
+0
+- 0 %
+B-DATE
+Plasmaz. -LRB- man. -RRB-
+0
+- 0 %
+B-DATE
+Kernschatten
+0
+- 0 %
+B-DATE
+BKS 1h
+14
+- <20 mm
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+136
+135 - 146 mmol/l
+<[Pseudo] 25/09/31>
+Kalium -LRB- ISE -RRB-
+4.15
+3,4 - 4,8 mmol/l
+<[Pseudo] 25/09/31>
+Calcium
+2.29
+2,11 - 2,59 mmol/l
+<[Pseudo] 25/09/31>
+Kreatinin
+1.09
+0,6 - 1,2 mg/dl
+B-DATE
+Harnstoff
+45 !H
+- <45 mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Cystatin C
+1.30 !H
+0,5 - 0,96 mg/l
+B-DATE
+GFR, CKD-EPI
+77.6
+>60 s.u.
+B-DATE
+GFR -LRB- Cystatin C -RRB-
+54.85 !L
+90 - 150 ml/min/1,73qm
+B-DATE
+MDRD
+72.53
+ml/min/1,73qm
+B-DATE
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+40.5
+30 - 50 g/l
+B-DATE
+Glucose
+92
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+14
+- <46 U/l
+B-DATE
+GPT/ALT
+28
+- <50 U/l
+B-DATE
+AP
+55
+40 - 130 U/l
+B-DATE
+GGT
+46
+- <60 U/l
+B-DATE
+Ges.Bili.
+1.40 !H
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+5.8
+- <7 mg/dl
+B-DATE
+Triglyceride
+277 !H
+- <150 mg/dl
+B-DATE
+Cholesterin
+315.0
+- alt.abh. mg/dl
+<[Pseudo] 25/09/31>
+LDL-Chol. -LRB- berechn. -RRB-
+<NONE> !H
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+59
+>40 mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Eisen
+20.3
+14 - 32 µmol/l
+B-DATE
+Ferritin
+300
+30 - 300 µg/l
+<[Pseudo] 25/09/31>
+Transferrin
+2.19
+2,0 - 3,6 g/l
+<[Pseudo] 25/09/31>
+TFSG
+37
+16 - 45 %
+B-DATE
+CRP
+3.3
+- <5 mg/l
+B-DATE
+IgM
+0.90
+0,4 - 2,3 g/l
+B-DATE
+IgG
+5.67 !L
+7,0 - 16,0 g/l
+B-DATE
+IgA
+2.34
+0,7 - 4,0 g/l
+B-DATE
+Hämolyse
+-
+
+<[Pseudo] 25/09/31>
+ikterisch
++
+
+<[Pseudo] 25/09/31>
+Lipämie
+-
+
+<[Pseudo] 25/09/31>
+
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+LDH
+295
+- <317 U/l
+B-DATE
+CK
+31
+- <190 U/l
+B-DATE
+hs-TroponinT
+6
+- <14 pg/ml
+B-DATE
+NT-BNP
+182 !H
+- <125 ng/l
+<[Pseudo] 25/09/31>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+ANA-Ak
+1:160 !H
+- <1:80 Titer
+<[Pseudo] 27/08/31>
+ANA-Muster
+gespr.
+
+<[Pseudo] 27/08/31>
+Rheumafaktor
+11.0
+- <25 IU/ml
+<[Pseudo] 27/08/31>
+Antikörper gegen cyclisch citr
+<0.4
+- <5 IU/ml
+<[Pseudo] 27/08/31>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.5
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+37
+20 - 42 mmol/mol
+B-DATE
+mittlere Glucose
+111 !H
+- <110 mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+TSH
+0.740
+0,400 - 4,000 mU/l
+B-DATE
+25 OH-Vit. D3
+21.3
+6,3 - 46,4 ng/ml
+<[Pseudo] 27/08/31>
+Urindiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+6.50
+6,0 - 8,0
+<[Pseudo] 27/08/31>
+SpezGew/Tstr.
+1024
+1001 - 1035
+<[Pseudo] 27/08/31>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 27/08/31>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 27/08/31>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 27/08/31>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 27/08/31>
+Eiweiß/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 27/08/31>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 27/08/31>
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 27/08/31>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+<[Pseudo] 27/08/31>
+Erys/µl
+1.0
+- <8 /µl
+B-DATE
+Leuko/µl
+1.0
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+<[Pseudo] 27/08/31>
+Infektiologie
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+HBsAg qual.
+negativ
+qualitativ
+<[Pseudo] 27/08/31>
+anti-HBc IgG/IgM
+negativ
+qualitativ
+<[Pseudo] 27/08/31>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+anti-HCV IgG
+negativ
+qualitativ
+<[Pseudo] 27/08/31>
+Blutgasanalyse
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH
+7.43
+7,37 - 7,45
+B-DATE
+pO2
+83
+mmHg
+B-DATE
+pCO2
+36.4
+35 - 45 mmHg
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-0.3
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+24.2
+mmol/l
+B-DATE
+Laktat
+16.2 !H
+- <16 mg/dl
+<[Pseudo] 25/09/31>
+
+
+
+
+
+Zusammenfassung:
+Vorstellung zur Verlaufskontrolle bei kardialer Beteiligung bei Sarkoidose. Der Patient berichtet über einen subjektiv stabilen kardialen Verlauf seit der CRT-D Implantation. Eine deutliche Besseerung der Symptomatik seitdem habe er nicht bemerkt.
+
+Echokardiographisch zeigte sich eine Besserung der LV Funktion, aktuell mittelgradig eingeschränkte systolische LV-Funktion -LRB- EF 40% -RRB- . Es waren keine relevanten Klappenvitien nachweisbar. Der PA-Druck in Ruhe zeigte sich im Normbereich. Das NT-Pro-BNP lag mit 182ng/l -LRB- Vorwert 187 ng/l -RRB- altersjustiert im Graubereich, das hsTroponin T im Normbereich. Es zeigte dich eine Leukozytose unter Cortison Therapie. Das Diff-BB zeigte soweit keine Auffälligkeiten. Insgesamt zeigte sich klinisch einen stabilen Befund und apparativ eine Befundbesserung.
+
+Bei der letzten Vorstellung wurde eine Prednison-Therapie empfohlen. Im Rahmen einer rheumatologischen Vorstellung in domo wurde bei subjektivem Fehlen einer Besserung wurde die Hinzunahme einer immunsuppressiven, glucokortikoidsparenden Therapie z.B. Methotrexat, z. B. 15 mg s. c./Woche und Dosisreduktion von Prednisolon empfohlen. Die Methotrexat Therapie darf ab sofort begonnen werden.
+
+Cortison Reduktionsschema: alle 10 Tage reduzieren, zunächst um 5mg, ab 20mg um 2,5mg, ab 10mg um 1mg-Schritten. 5mg Prednison sollte als Erhaltungstherapie fortgeführt werden -LRB- mind. 6 Monate, eher 2 Jahre, in Abhängigkeit des Verlaufs -RRB- .
+
+Bei weiterhin NYHA III kann eine probatorische Entresto Therapie begonnen werden. Bei deutlich hohem LDL Wert empfehlen wir Beginn einer Statin Therapie.
+
+Wir empfehlen regelmäßige hausärztliche Kontrollen und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir bitten ansonsten um Wiedervorstellung in 6 Monaten. Bei Problemen ist eine frühere Wiedervorstellung selbstverständlich möglich -LRB- Terminvereinbarung unter Tel: B-PHONE -RRB- . Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Medikation bei Entlassung:
+Prednisolon 40mg 1-0-0, nach Schema reduzieren
+Telmisartan 80mg 1-0-1/2, absetzen
+Entresto 24/26mg 1-0-1, neu, bei guter Veträglichkeit in 2 Wochen verdoppeln
+Spironolacton 50mg 1-0-0
+Bisoprolol 2,5mg 1-0-1
+Amiodaron 200mg 1-0-0
+Rosuvastatin 10 0-0-1, neu
+Ca2+ 500mg 1-0-1
+Pantoprazol 40mg 0-0-1
+Methotrexat 15 mg s. c./Woche, neu
+Folsäure 5mg 1-0-0, neu, 24h nach Methotrexat
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Mit freundlichen Grüßen
+
+
+
+
+B-TITLE I-TITLE B-PER I-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE B-PER I-PER
+Ärztl. Direktor Fachärztin

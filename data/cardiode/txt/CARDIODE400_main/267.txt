@@ -1,0 +1,445 @@
+Aufnahmedatum: <[Pseudo] 2482-05-12 >
+Geburtsdatum: <[Pseudo] 2056-04-23 >
+Alter: 426
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 23/04/2056> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Periphere Lungenarterienembolie -LRB- CT Triple-Rule-Out vom <[Pseudo] 01/03/2138> -RRB-
+-UNK- Antikoagulation mit Apixaban
+-UNK- Kapilläre Blutgasanalyse am <[Pseudo] 02/03/2138>
+-UNK- Unter Raumluft: Normoxie, Normokapnie, metabolische Alkalose
+- Hypertensive Entgleisung
+- Ausschluss Myokardinfarkt bei
+- Koronare Herzerkrankung ohne höhergradige Stenosen bei -LRB- B-OTHER v. <[Pseudo] 07/03/2138> -RRB-
+-UNK- Global gute LV-Funktion. Nebenbefundlich ausgeprägtes Kinking der A. subclavia dextra
+
+Diagnosen:
+- Z. n. nach distaler Radiusfraktur links
+- Z. n. Hysterektomie
+- Z. n. Cholezystektomie
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie
+
+Allergien/Unverträglichkeiten:
+Anamnestisch Penicillin, braunes Pflaster, Iod, Lercanidipin -LRB- Hautausschlag, Herzrasen -RRB-
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte am <[Pseudo] 01/03/2138> als Übernahme von unserer B-ORG bei Dyspnoe und thorakalen Beschwerden mit V.a. Lungenarterienembolie.
+Bei Aufnahme wird eine eingeschränkte körperliche Belastbarkeit im Alltag beschrieben. 2 Etagen Treppensteigen sei möglich, limitiert bei peripherer Erschöpfung. In den letzten Tagen habe eine zunehmende Belastungsdyspnoe -LRB- NYHA III -RRB- bestanden mit diffusem thorakalem Druckgefühl mit Ausstrahlung in den Unterkiefer. Seit etwa einer Woche sei der Patientin ein nicht produktiver Husten aufgefallen. Palpitationen und Schwindel werden wie stattgehabte Synkopen verneint. Die häuslichen Blutdruckmessungen ergäben Werte um 150 mmHg systolisch. Es bestehe eine Nykturie mit ca. 2- bis 3-facher Miktion pro Nacht. Periphere Ödeme seien trotz Gewichtskonstanz in der letzten Zeit an den Unterschenkeln aufgefallen.
+
+Medikation bei Aufnahme:
+Oral:
+Bisoprolol 5 mg 1,5-0-0
+Candesartan 16 mg 1-0-0
+HCT 12,5 mg 1-0-0
+Perindopril/ Indapamid 2,5/0,625 mg 1-0-0
+Perphenazin 8 mg 0-0-1/2
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 165 cm, Gewicht: 71 kg -RRB-
+HF: 69/min, regelmäßig
+RR: 138 / 69 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o. B.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres Atemgeräusch bds., keine Rasselgeräusche
+Abdomen: DG über allen 4 Quadranten, weich, kein DS, keine Resistenzen, kein Peritonismus
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: A. carotis communis, A. radialis und A. dorsalis pedis bds. gut tastbar
+Neurologischer Status: orientierend o. B.
+sonstige Auffälligkeiten: vorbekannte Umfangsvermehrung des rechten Beins bei Z.n. Unfall, Klopfschmerz LWS, Narbe bei Z.n. offener Cholezystektomie
+
+Labor:
+Ruhe-EKG vom <[Pseudo] 02/03/2138:>
+Normofrequenter Sinusrhythmus, regelmäßig, 69/min, Indifferenztyp. PQ 185 msec, QRS 100 msec. QTc 408 msec. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 04/03/2138:>
+Normofrequenter Sinusrhythmus, regelmäßig, 67/min, Indifferenztyp. PQ 194 msec, QRS 99 msec, QTc 432 msec. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 08/03/2138:>
+Normofrequenter Sinusrhythmus, regelmäßig, 60/min, Linkstyp. PQ 188 msec, QRS 95 msec, QTc 428 msec. Verzögerte R-Progression mit R/S Umschlag in V4/V5. Keine signifikanten Kammerendteilveränderungen.
+
+Virologischer Befund vom <[Pseudo] 01/03/2138> -LRB- Chest-Pain-Unit -RRB- :
+
+
+CT Triple-Rule-Out -LRB- Kooperation -RRB- vom <[Pseudo] 01/03/2138:>
+Strukturierter Befund: Lungenarterienembolie
+Allgemeine Angaben: Deutlich eingeschränkte Beurteilbarkeit basal bei Atemartefakten
+Angaben zur Lungenarterienembolie: Lungenarterienembolie nicht beurteilbar
+Deskription:
+Fragliche Unterbrechungen der Kontrastierung peripherer Äste in den Unterlappen mit distal erhaltener Kontrastierung, exemplarisch im linken Unterlappen -LRB- 401/202 -RRB- sowie im rechten Unterlappen -LRB- 401/197 -RRB- , am ehesten Bewegungsartefakte, formal sind periphere Embolien nicht auszuschließen.
+Biomarker:
+Qanadli-Score -LRB- Schätzung -RRB- : -
+Perfusionsausfälle -LRB- DE-CT -RRB- : -
+RV/LV-Quotient: <1
+Angaben zu anderen Befunden:
+Herz und Aorta:
+Keine Pathologie der Thorakalaorta. Der Koronararterienbefund wird gesondert dokumentiert.
+Miterfasstes Abdomen:
+Multiple Leberzysten. Prominenter Pankreasgang bis 6 mm im Pankreaskopf -LRB- 401/390 -RRB- , kein Nachweis eines Abflusshindernisses bei nicht vollständig erfasster Pankreas.
+Skelett:
+Unauffälliges Skelett.
+Beurteilung:
+Lungenarterienembolie: Nicht beurteilbar
+CT-Kriterien Rechtsherzbelastung: Nein -LRB- RV/LV-Quotient <1 -RRB- ·
+Deskription: Bei Bewegungsartefakten eingeschränkte Beurteilbarkeit, periphere Embolien in den Unterlappen nicht auszuschließen, ggf. Ergänzung einer dezidierten LAE-Spirale erwägen.
+Andere Befunde: Prominenter Pankreasgang bis 6 mm im Pankreaskopf.
+
+Kardio-CT Befund vom <[Pseudo] 01/03/2138:>
+Nebenbefund
+- Atherosklerose der thorakalen Aorta.
+Zusammenfassung:
+Deutlich eingeschränkte Bildqualität, soweit beurteilbar:
+- Keine höhergradigen Stenose der proximalen RCA -LRB- Artefakte am Übergang segment 2/3
+- Haupstamm wahrscheinlich ohne höhergradige Stenose, V.a. moderate mediale LAD Stenose
+- LCX mit fraglich milder bis moderater Abgangsstenose, distal des großen Ramus marginalis nicht beurteilbar
+
+Echokardiographie vom <[Pseudo] 01/03/2138:>
+Bemerkungen: Untersuchung am Bett in der CPU. Reduzierte Schallbedingungen.
+Beurteilung:
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion - soweit bei deutlich reduzierten Schallbedingungen beurteilbar - ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA grenzwertig weit, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens und Aortenbogen, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Klappen sonographisch regelrecht. Dopplersonographisch leichtgradige exzentrische Mitralklappeninsuffizienz bei Prolaps des anterioren Segels sowie noch leichtgradige Trikuspidalklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 30 mmHg -RRB- .
+Erstbefund in domo.
+
+Angiologische Vorstellung bei V.a. Thrombose vom <[Pseudo] 02/03/2138:>
+Lokalbefund:
+Kein Wadendruckschmerz, Umfangsvermehrung rechtes Bein -LRB- anamnestisch aufgrund einer Verletzung schon seit vielen Jahren so -RRB- , keine Ödeme. Keine zyanotische Glanzhaut oder Überwärmung, Meyer, Homan, Payr negativ.
+Farbduplexsonographie der tiefen Venen der unteren Extremität bds.:
+Atemvariables, regelrechtes venöses Flussprofil in der V. iliaca externa. Im einsehbaren Verlauf distale V. iliaca externa, V. femoralis communis, V. femoralis superficialis und V. poplitea komprimierbar ohne sichere Hinweise auf intraluminales thrombotisches Material. Bei eingeschränkten Schallbedingungen am Unterschenkel tiefe Unterschenkelvenen komprimierbar, bzw. mit antegrad provozierbarem Flussnachweis ohne sichere Hinweise für intraluminales thrombotisches Material.
+- Derzeit keine sicheren Hinweise für eine TVT bds.
+
+
+
+
+
+
+Abdomensonographie vom <[Pseudo] 02/03/2138:>
+Die Leber misst im größten kraniokaudalen Durchmesser 15 cm. Der Leberrand ist abgerundet. Die Echogenität ist unauffällig, die Struktur ist etwas inhomogen. Es zeigen sich mehrere rundliche echoleere Strukturen, exemplarisch in Segment II, III und IV aneinander liegend, die größte hier von ca. 19 x 21 mm, a. e. Leberzysten entsprechend. In Segment V zeigt sich eine echoreiche scharf begrenzte Struktur von 10 x 12 mm und in Segment VIII von 5,3 x 5,5mm, a. e. einem Hämangiom entsprechend. Weitere Raumforderungen sind nicht abzugrenzen. Die Lebervenen sind nicht gestaut. Die Lebervenen sind offen perfundiert. Die Pfortader misst in der Pforte 9,5 mm und ist orthograd undulierend perfundiert, Vmax. 29 cm/s. Die Gallenblase lässt sich deutlich darstellen. Es sind keine Konkremente nachzuweisen. Die intrahepatischen Gallengänge sind nicht dilatiert. Der Ductus Choledochus ist normal weit. Die Milz misst 9,6 x 2,2 cm. Das Echomuster ist homogen. Die V. lienalis ist nicht erweitert. Die Pankreas ist bei Darmgasüberlagerung nur teilweise einzusehen. Soweit beurteilbar, Parenchym mit vermehrter Echogenität. Der Pankreasschwanz ist nicht vollständig einsehbar. Der Pankreasgang ist nicht einsehbar.
+Beide Nieren erscheinen in Form, Größe und Lage altersentsprechend. An der linken Niere zeigt sich eine echoleere rundliche Struktur von 13 x 12 mm, a. e. einer Nierenzyste entsprechend. Die abdominale Aorta stellt sich teilweise dar, keine Gefäßektasien nachweisbar. Eine paraaortale Raumforderung ist soweit beurteilbar nicht nachzuweisen. Die Harnblase stellt sich unauffällig dar. Keine freie abdominelle Flüssigkeit.
+Beurteilung:
+- V.a. Leberzysten in Segment IV
+- V.a. Hämangiom in Segment V, VIII
+- V.a. Nierenzyste links
+- V.a. Pankreaslipomatose
+
+Lungenfunktionsprüfung vom <[Pseudo] 02/03/2138:>
+Kapilläre Blutgasanalyse:
+Raumluft: Normoxie, Normokapnie, metabolische Alkalose
+
+Echokardiographie vom <[Pseudo] 07/03/2138>
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. LA grenzwertig weit, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Klappen sonographisch regelrecht. Dopplersonographisch leichtgradige Mitralklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 30 mmHg -RRB- .
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 01/03/38:> Keine wesentliche Befundänderung, echokard. keine Rechtsherzbelastungszeichen -LRB- unter LAE -RRB- .
+
+Herzkatheteruntersuchung -LRB- B-OTHER -RRB- vom <[Pseudo] 07/03/2138> vorläufiger Befund:
+Indikation:
+Herzkatheteruntersuchung bei V.a. eine relevante koronare Herzerkrankung
+Befund:
+Koronare Herzerkrankung ohne höhergradige Stenosen. Global gute LV-Funktion. Nebenbefundlich: ausgeprägtes Kinking der A. subclavia dextra.
+Intervention:
+keine
+Procedere:
+Konservativ bzgl. der Koronararterien
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte am <[Pseudo] 01/03/2138> als Übernahme von unserer B-ORG bei Dyspnoe und thorakalen Beschwerden mit V.a. Lungenarterienembolie.
+
+Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten leicht erhöht -RRB- . Das NT-pro-BNP fand sich altersadjustiert im Normbereich. Echokardiographisch zeigte sich keine Rechtsherzbelastungszeichen. Bei niedrigem Wells-Score war die D-Dimere allerdings erhöht. In der am <[Pseudo] 01/03/38> durchgeführten Triple Rule Out CT ergab sich der Hinweis auf periphere Lungenarterienembolien in den Unterlappen. Eine Vollantikoagulation wurde begonnen, Sauerstoff wurde appliziert. Klinisch kam es hierunter zu einer Besserung. In der angiologischen Kontrolle vom <[Pseudo] 02/03/2138> zeigte sich kein sicherer Hinweis für eine TVT bds.
+
+In der hier durchgeführten Umfelddiagnostik ergab sich kein Hinweis einer primären Ursache. Wir empfehlen regelmäßige hausärztliche Kontrollen sowie eine Aktualisierung der geschlechts- und altersspezifischen gesetzlichen onkologischen Früherkennungsuntersuchungen -LRB- Urologische Vorstellung, Gastroenterologische Vorstellung inkl. ÖGD und Koloskopie -RRB- . Zudem empfehlen wir ein Thrombophilie-Screening im ambulanten Bereich nach Beendigung der Antikoagulation.
+
+Wir bitten um Fortsetzen der Antikoagulation mit Apixaban 10mg 2xtgl für insgesamt 7 Tagen -LRB- bis einschließlich dem <[Pseudo] 08/03/2138> -RRB- . Anschließend empfehlen wir eine Erhaltungsdosis mit Apixaban 5mg 2xtgl. 1xtgl. für min. 6 Monate. Danach bitten wir um eine Re-Evaluation der Antikoagulation mit ggf. Anpassung der Therapie durch den Hausarzt.
+
+Das hs-cTroponin betrug bei Aufnahme 19,3 pg/ml, im Verlauf stabil 16,8 pg/ml und im 3h Verlauf auf 16,4pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. In der Echokardiographie -LRB- unter eingeschränkten Schallbedingungen -RRB- vom <[Pseudo] 01/03/2138> zeigte sich ein normal großer linker Ventrikel mit guter systolischer Pumpfunktion. In der Kardio CT zum Triple Rule Out ergaben sich -LRB- bei deutlich eingeschränkter Bildqualität, soweit beurteilbar -RRB- keine höhergradigen Stenose der proximalen RCA, der Hauptstamm wahrscheinlich ohne höhergradige Stenose. Es ergab sich der V.a. eine moderate mediale LAD Stenose sowie fragliche milde bis moderate Abgangsstenose der LCX.
+
+In der transthorakalen Echokardiographie vom <[Pseudo] 07/03/2138> zeigte sich ein normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Insgesamt zeigte sich im Vergleich zur Voruntersuchung vom <[Pseudo] 01/03/38> keine wesentliche Befundänderung, insbesondere konnten echokardiographisch keine Rechtsherzbelastungszeichen nachgewiesen werden.
+
+Bei typischen pectanginösen Beschwerden in der Anamnese und laborchemisch erhöhtem Troponin stellten wir die Indikation zur weitergehenden invasiven Abklärung bei V.a. eine koronare Herzerkrankung.
+
+In der am <[Pseudo] 07/03/2138> durchgeführten Herzkatheteruntersuchung ergab sich eine koronare Herzerkrankung ohne höhergradige Stenosen mit guter LV-Funktion. Nebenbefundlich zeigte sich ein ausgeprägtes Kinking der A. subclavia dextra. Es fiel der Entschluss zum konservativen Vorgehen bezüglich der Koronarien.
+
+Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich klinisch kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Des Weiteren begannen wir zur Lipidsenkung und Plaquestabilisierung eine Therapie mit einem Statin. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Bei hypertensiven Werten erfolgte eine Anpassung der antihypertensiven Therapie wie unten angegeben. Wir bitten um regelmäßige Blutdruck- und Herzfrequenzmessungen mit ggf. weiterer Anpassung der antihypertensiven Therapie im Verlauf.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+
+
+
+
+Medikation bei Entlassung:
+Apixaban 10 mg 1-0-1 neu, bis einschließlich dem B-DATE!
+Apixaban 5 mg 1-0-1 im Anschluss für mindestens 6 Monate!
+Bisoprolol 5 mg 1-0-0
+Candesartan 32 mg 1-0-0 Dosisanpassung!
+HCT 12,5 mg 1,5-0-0 neu!
+Atorvastatin 20 mg 0-0-1 neu!
+Perphenazin 8 mg 0-0-1/2
+Novalgin 500 mg b. B. neu!
+Perindopril/Indapamid 2.5 mg/0.625 mg Abgesetzt bei Doppelmedikation
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der ORG
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 6 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+.
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen die Patientin heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 01/03/2138> und dem <[Pseudo] 08/03/2138>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.55
+4 - 10 /nl
+B-DATE
+Hb
+12.1
+12 - 15 g/dl
+<[Pseudo] 08/03/38>
+Erythrozyten
+4.1
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.360
+0,36 - 0,47 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+<[Pseudo] 08/03/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 08/03/38>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 08/03/38>
+RDW
+13.0
+12,9 - 18,7 %
+<[Pseudo] 08/03/38>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+<[Pseudo] 08/03/38>
+Thrombozyten
+356
+150 - 440 /nl
+<[Pseudo] 08/03/38>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+132 !L
+135 - 146 mmol/l
+<[Pseudo] 08/03/38>
+Kalium -LRB- ISE -RRB-
+3.76
+3,4 - 5,0 mmol/l
+<[Pseudo] 08/03/38>
+Kreatinin
+0.64
+0,5 - 1,4 mg/dl
+<[Pseudo] 08/03/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+33
+- <45 mg/dl
+<[Pseudo] 08/03/38>
+GFR, CKD-EPI
+84.0
+>60 s.u.
+<[Pseudo] 08/03/38>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+138 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+19
+- <37 U/l
+B-DATE
+GPT/ALT
+17
+- <35 U/l
+B-DATE
+CRP
+5.9 !H
+- <5 mg/l
+<[Pseudo] 01/03/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 08/03/38>
+ikterisch
++
+
+<[Pseudo] 08/03/38>
+Lipämie
+-
+
+<[Pseudo] 08/03/38>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+195
+- <301 U/l
+B-DATE
+CK
+89
+- <170 U/l
+<[Pseudo] 01/03/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+17.4 !H
+- <14 pg/ml
+<[Pseudo] 08/03/38>
+NT-BNP
+241
+- <450 ng/l
+<[Pseudo] 01/03/38>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.74
+0,400 - 4,000 mU/l
+<[Pseudo] 01/03/38>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+68.0 !L
+70 - 125 %
+<[Pseudo] 01/03/38>
+INR - ber.
+1.18
+- <1.2
+<[Pseudo] 01/03/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+D-Dimer -LRB- neu -RRB-
+0.94 !H
+- <0,5 mg/l
+B-DATE
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.46 !H
+7,37 - 7,45
+B-DATE
+pO2
+70
+mmHg
+B-DATE
+pCO2
+38.2
+35 - 45 mmHg
+<[Pseudo] 03/03/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+2.7
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+26.8
+mmol/l
+B-DATE
+Laktat
+9.3
+- <16 mg/dl
+B-DATE

@@ -1,0 +1,91 @@
+Aufnahmedatum: <[Pseudo] 2511-04-23 >
+Geburtsdatum: <[Pseudo] 2059-03-18 >
+Alter: 452
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 18/03/2059> wh. B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Postinterventionelle Thrombose der rechten A. radialis
+
+Diagnosen:
+- Koronare 1-Gefäßerkrankung ohne Interventionsbedarf -LRB- B-OTHER v. <[Pseudo] 27/09/2135> -RRB-
+-UNK- Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 17/02/2144> -RRB-
+-UNK- 50%-ige ostiale Hauptstammstenose der LAD
+-UNK- Koronaraneurysmata der proximalen LAD und med. RCA
+-UNK- LAD Hauptstammaneurysma
+-UNK- Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 19/02/2144> -RRB-
+-UNK- PTCA/2xDES der LAD
+-UNK- PTCA/1xDES des RD1 -LRB- Bifurkation LAD/RD1 in Mini-Crush-Technik -RRB-
+-UNK- Leichtgradig eingeschränkte LV Pumpfunktion -LRB- MRT <[Pseudo] 01/2136> -RRB-
+-UNK- V. a. dilatative Kardiomyopathie mit initial global hochgradig eingeschränkter linksventrikulärer Pumpfunktion
+-UNK- Z. n. NSTEMI am <[Pseudo] 07/08/2141> a. e. Typ II
+-UNK- Leicht hypertrophierter linker Ventrikel mit global leichtgradig eingeschränkter Pumpfunktion bei Hypokinesie septal und inferior -LRB- TTE <[Pseudo] 08/08/41> -RRB-
+-UNK- RV dilatiert mit gering eingeschränkter Funktion
+- Dilatative Kardiomyopathie -LRB- DCM -RRB-
+- Chronische thromboembolische pulmonale Hypertonie WHO III
+-UNK- Respiratorische Insuffizienz Typ I
+-UNK- Echo B-DATE: noch gute syst. LV-Fkt., Relaxationsst., RV leicht dilat. mit leicht red. Fkt, syst. PAP 50mmHg
+-UNK- Z. n. pulmonaler Endarteriektomie <[Pseudo] 2135> -LRB- Bad I-ORG -RRB-
+-UNK- Z. n. Lungenembolie <[Pseudo] 2130>
+- Anuloaortale Ektasie mit Dilatation der Aorta asc. auf max. ca. 48 mm
+- Z. n. Pneumonie <[Pseudo] 10/2139> und <[Pseudo] 07/2141>
+- Monoklonale B-Lymphozytose, ED <[Pseudo] 01/2136>
+-UNK- Immunphänotyp a. e. einer chronischen lymphatischen Leukämie
+-UNK- Zytogenetik: Tumorzellen mit Deletion 13q14 -LRB- 16% -RRB- und einer Trisomie 12q13 -LRB- 24% -RRB- , entsprechend intermediäres Risiko.
+-UNK- Gammopathie IgG Typ kappa ED <[Pseudo] 01/2136>
+- Z. n. Poplitealvenenthrombose <[Pseudo] 2130>
+- Hiatushernie
+- Chronische Bronchitis
+- Z. n. Adenocarcinom des Sigmas mit Hemicolektomie links in DATE, initiales TNM-Stadium: pT3, pN0 -LRB- 0/21 -RRB- , M0, G II, R0
+- Z. n. Darmtumor <[Pseudo] 2128>
+- Z. n. Hiluslymphdrüsen-Tbc als Kind
+- Z. n. Pleuritis exsudativa rechts <[Pseudo] 10/2139>
+- Niereninsuffizienz im Stadium der kompensierten Retention
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie
+Allergien:
+Anamnestisch keine bekannt
+
+Anamnese:
+Die Vorstellung erfolgte zur Verlaufskontrolle bei postinterventioneller Thrombose der rechten A. radialis. Der Patient verneint Schmerzen oder Schwellung, oder Parästhesien.
+
+Aktuelle Medikation:
+ASS 100 mg 1-0-0 -LRB- bis einschließlich <[Pseudo] 21/08/2144> -RRB- !
+Clopidogrel 75 mg 1-0-0 -LRB- bis einschließlich <[Pseudo] 18/02/2145> -RRB- !
+Apixaban 2,5 mg 1-0-1 Bis einschließlich dem B-DATE!
+Apixaban 5 mg 1-0-1 Dauerhaft ab dem B-DATE!
+Metoprolol 47,5 mg 1-0-1
+Candesartan 8 mg -UNK- -0-0
+Spironolacton 25 mg 1-0-0
+Torasemid 10 mg 1- -UNK- -0
+Omeprazol 20 mg 1-0-0
+
+Lokalbefund:
+Punktionsstelle reizlos, kleines Hämatom. Pulse über A. radialis, A. ulnaris und A. brachialis kräftig palpabel.
+
+Farbduplexsonographie der Gefäße des rechten Unterarms:
+Kein Fluss in der A. radialis im einsehbaren Verlauf am Unterarm darstellbar. Kein Hinweis für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle am rechten Handgelenk. A. ulnaris offen und perfundiert dartsellbar, ebenfalls A. brachialis rechts.
+
+
+Zusammenfassung:
+Die Vorstellung erfolgte zur Verlaufskontrolle bei postinterventioneller Thrombose der rechten A. radialis. Der Patient verneint Schmerzen oder Schwellung, Parästhesien oder Kraftminderung.
+Farbdopplersonographisch zeigte sich weiterhin keinen Fluss in der A. radialis, A. ulnaris und A. brachialis stellten sich offen und perfundiert dar. Bei subjektiver Beschwerdefreiheit empfehlen diesbezüglich ein konservatives Prozedere.
+Bei Einstweiligen Beschwerdeprogress oder Auftreten von akuten Beschwerden ist eine kurzfristige Wiedervorstellung jederzeit möglich.
+
+
+Therapieempfehlung -LRB- von angiologischer Seite -RRB- :
+ASS 100 mg 1-0-0 bis einschließlich <[Pseudo] 21/08/2144> dann absetzen
+Clopidogrel 75 mg 1-0-0 bis einschließlich <[Pseudo] 18/02/2145> dann absetzen!
+Apixaban 2,5 mg 1-0-1 bis einschließlich dem <[Pseudo] 21/08/2144> dann umstellen wie u.g.
+Apixaban 5 mg 1-0-1 Dauerhaft ab dem B-DATE!
+Metoprolol 47,5 mg 1-0-1
+Candesartan 8 mg -UNK- -0-0
+Spironolacton 25 mg 1-0-0
+Torasemid 10 mg 1- -UNK- -0
+Omeprazol 20 mg 1-0-0
+
+Mit freundlichen Grüßen
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

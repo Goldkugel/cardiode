@@ -1,0 +1,125 @@
+Aufnahmedatum: <[Pseudo] 2041-03-14 >
+Geburtsdatum: <[Pseudo] 1974-11-06 >
+Alter: 66
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 06/11/1974> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Erfolgreiche Direkt-Stent Implantation eines DES mit Nachdillatation bei höhergradiger distaler RCA Stenose -LRB- B-OTHER v. <[Pseudo] 14/03/2041> -RRB-
+- Koronare 3-Gefäßerkrankung mit guter linksventrikulärer Pumpfunktion
+- Hochgradige Stenose der medialen LAD, LIMA ad LAD offen, Hochgradige Stenose der peripheren LCX, Vene-Y-Graft aus LIMA ad RPLS offen. LVEDP deutlich erhöht -LRB- 30mmHg -RRB- . Leicht- bis mittelgradige Aortenklappenstenose -LRB- PPG 25mmHg -RRB-
+- Echokardiographisch kombiniertes Aortenvitium mittleren Schweregrades -LRB- AÖFKontinuitätsgleichung = 1,4 cm², PPG 44 mmHg, MPG 25 mmHg -RRB- .
+-UNK- Echokardiographisch global gute Pumpfunktion -LRB- TTE MVZ I-ORG <[Pseudo] 28/02/2041> -RRB-
+-UNK- Negativer Ischämienachweis in der Dobutamin-Stressuntersuchung -LRB- Kardio-MRT vom <[Pseudo] 13/04/2039> -RRB-
+-UNK- Gute linksventrikuläre Funktion -LRB- LVEF 69% -RRB- -LRB- Kardio-MRT vom <[Pseudo] 13/04/2039> -RRB-
+-UNK- Nachweis einer myokardialen Fibrose inferoseptal medial -LRB- Kardio-MRT vom <[Pseudo] 13/04/2039> -RRB-
+-UNK- Koronare 3-Gefäßerkrankung mit Z.n. 2-fach ACB-Op. <[Pseudo] 04/2035> -LRB- LIMA ad LAD, ACVB ad R. marginalis -RRB-
+- Paroxysmales Vorhofflimmern, ED <[Pseudo] 03/2039>
+-UNK- CHA2DS-VASc-Score 3
+- Z.n. TEA der ACI links <[Pseudo] 04/2035>
+- LWS-Syndrom
+- COPD
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Z.n. Nikotinabusus -LRB- 60 py -RRB- , Diabetes mellitus Typ 2
+Allergien: keine bekannt
+
+Indikation für stationären Herzkatheter:
+- PTCA und Stentimplantation mit postinterventioneller Überwachungspflicht von mehr als 8h sowie erhöhtem Risiko einer Nachblutung
+
+Anamnese:
+Die aktuelle Vorstellung des Patienten erfolgt zur Herzkatheteruntersuchung bei V.a. Progress der koronaren Herzerkrankung. Der Patient berichtet über seit etwa 1 Monat sowohl unter Belastung, als auch manchmal in Ruhe thorakale Beschwerden, diese beschreibt er als brennend und drückend. Bis vor einem Monat sei er im Alltag gut belastbar gewesen und sei auch viel Spazierengegangen, seitdem Beginn der Schmerzen habe er sich aber geschont. <[Pseudo] 2034> sei er nach der Bypass-Op. und anschließenden Reha einmalig synkopiert, außerdem bestehe ein bekannter orthostatischer Schwindel. Die häuslichen Blutdruckmessungen liegen bei 100-120/60-70 mmHg. Keine Oedeme. Etwa 2-mal/Monat Palpitationen -LRB- Herzrasen -RRB- dann nehme er Metoprolol ein. Nykturie 0-2-mal/Nacht.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 170 cm, 80 kg
+HF: 63/min, regelmäßig
+RR: 120/80 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig.
+HT: rein, keine patholog. Geräusche
+Lunge: bds. frei
+Periphere Ödeme: keine
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 06/03/2041> -LRB- extern -RRB- :
+Normofrequenter Sinusrhythmus, Herzfrequenz 66/min, Steiltyp, PQ 183 ms, QRS 99 ms, QTc 414 ms. RSR-Konfiguration in V1. Regelrechte R-Progression, RS-Umschlag in V2/V3. Angedeutete T-Negativierung in V3-V6.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 14/03/2041> -RRB- :
+Befund folgt im endgültigen Brief.
+
+Ruhe-EKG nach Intervention:
+Normofrequenter Sinusrhythmus, Herzfrequenz 75/min, Steiltyp, PQ 187 ms, QRS 87 ms, QTc 390 ms. RSR-Konfiguration in V1. Regelrechte R-Progression, RS-Umschlag in V2/V3. Angedeutete T-Negativierung in V3-V6.
+
+Transthorakale Echokardiographie vom <[Pseudo] 15/03/2041:>
+Normal großer, septal betont hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion bei diskreter Hypokinesie apikal. Flache Septumbewegung. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, deutlich verdickt und verkalkt mit verminderter Separation. Dopplersonographisch kombiniertes Aortenvitium mittleren Schweregrades -LRB- AÖFKontinuitätsgleichung = 1,4 cm², PPG 44 mmHg, MPG 25 mmHg -RRB- . Mitralklappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Beginnende Mitralanulusverkalkung. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck ist ohne TI nicht ableitbar.
+
+Labor
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2040>
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+13.1
+- <14 pg/ml
+<[Pseudo] 15/03/41>
+
+
+
+
+
+
+
+
+Zusammenfassung:
+In der Herzkatheteruntersuchung zeigte sich eine koronare 3-Gefäßerkrankung mit guter linksventrikulärer Pumpfunktion. Wir haben eine erfolgreiche Direkt-Stent Implantation eines DES bei höhergradiger distaler RCA durchgeführt. Es stellte sich eine hochgradige Stenose der medialen LAD, das LIMA ad LAD offen, eine hochgradige Stenose der peripheren LCX, Vene-Y-Graft aus LIMA ad RPLS offen dar. Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- .
+
+Echokardiographisch zeigte sich eine gute Pumpfunktion mit kombiniertem Aortenvitium mittleren Schweregrades.
+
+Dem Patienten wurde ein Implantatausweis ausgehändigt. Er wurde über notwendige Verhaltensanweisungen informiert.
+
+Procedere:
+Wir empfehlen die Fortführung der Antikoagulation mit Eliquis sowie eine kombinierte Thrombozytenaggregationshemmung mit ASS für eine Woche und Clopidogrel für mindestens 6 Monate nach Intervention wie unten aufgeführt. Anschließend ist eine dauerhafte Antikoagulation mit Eliquis ausreichend. Der Patient wurde über die Notwendigkeit einer lückenlosen Einnahme von Eliquis, ASS und Clopidogrel bis zum unten genannten Datum ausführlich aufgeklärt.
+
+Bezüglich des Aortenvitiums bitten wir um regelmäßige Verlaufskontrollen durch den betreuenden B-SALUTE des B-ORG B-LOC. Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der unten aufgeführten medikamentösen Therapie.
+
+Nächster Termin/Kontrolle:
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchungen in der Praxis der betreuenden B-SALUTE des B-ORG.
+
+Therapieempfehlung:
+Eliquis 5 1-0-1, weiter
+ASS 100 1-0-0, neu, bis einschließlich <[Pseudo] 21/03/2041>
+Clopidogrel 75 1-0-0, neu, bis einschließlich <[Pseudo] 14/09/2041>
+Metoprolol 47,5 bei Bedarf
+Candesartan 16 0-0- -UNK-
+Atorvastatin 30 0-0-1
+Finasterid 5 0-0-1
+Ranexa 500 1-0-1
+Siofor 1000 1-0-1
+Foster 100/6 1-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 15/03/2041> in Ihre geschätzte ambulante Betreuung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+
+
+
+
+
+
+Wir danken für die Überweisung und vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER I-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

@@ -1,0 +1,708 @@
+Aufnahmedatum: <[Pseudo] 2514-09-04 >
+Geburtsdatum: <[Pseudo] 2117-12-16 >
+Alter: 396
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 16/12/2117> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- pAVK Stadium III/IV rechts bei Verschluss von A. femoralis superficialis/A. poplitea
+-UNK- Erfolgreiche Rekanalisation der A. femoralis superficialis recht mittels distaler Punktion/ PTA/3-fach BM-Stentimplantation -LRB- BBA-Nr. B-OTHER vom <[Pseudo] 04/11/2207> -RRB-
+-UNK- Nachblutung aus der Punktionsstelle am <[Pseudo] 04/11/2207> mit Hypotonie und Vigilanzminderung
+-UNK- Transfusion von 2 Erythrozytenkonzentraten
+- Anschließend regelrechter Hb-Anstieg
+-UNK- Erneute manuelle Kompression
+- Nosokomiale Pneumonie:
+-UNK- Antibiotische Therapie mittels:
+-UNK- Piperacillin/Tazobactam vom <[Pseudo] 06/11/2207> bis <[Pseudo] 18/11/2207>
+-UNK- Mikrobiologische Diagnostik:
+- Sputum: E. coli
+- Blutkulturen: kein Wachstum
+- NSTEMI
+-UNK- Herzkatheteruntersuchung -LRB- HK-Nr. B-OTHER -RRB- vom <[Pseudo] 15/11/2207>
+-UNK- Korona 3-Gefäßerkrankung mit global guter linksventrikulärer Pumpfunktion.
+-UNK- Erfolgreiche PTCA/2-fach DE-Stentimplantation -LRB- Promus PS 3,0x24, 3,0x20mm -RRB- der subtotal verschlossenen RCA-Stenose
+-UNK- Verbleibende hochgradige LAD- und LCX-Stenose
+-UNK- Normale enddiastolische Drücke des linken Ventrikels
+-UNK- Duale Thrombozytenaggregationshemmung für 12 Monate
+-UNK- Ad PTCA/DES der LAD am <[Pseudo] 28/12/2207> um 10:00 Uhr in unserer
+B-ORG I-ORG
+- Schmalkomplex-Tachykardie DD AT mit Frequenzen von bis zu 150/min
+-UNK- Amiodaronaufsättigung vom <[Pseudo] 13/11/2207> - <[Pseudo] 21/11/2207>
+-UNK- Amiodaronerhaltungsdosis seit <[Pseudo] 22/11/2207>
+-UNK- LZ-EKG vom B-DATE - B-DATE
+- ZVK-Anlage am <[Pseudo] 11/11/2207>
+
+Diagnosen:
+- V.a. erneute Ischämie im Stromgebiet der A. cerebri media rechts am <[Pseudo] 19/03/2207>
+-UNK- rückläufige Dysarthrie und brachio-fazial betonte Hemiparese links
+-UNK- DD iktal DD ischämisch KHK
+- Z. n. Grenzzoneninfarkt rechts mit Feinmotorikstörung linke Hand <[Pseudo] 2193>
+- Z. n. Carotis-TEA bei symptomatischer 80%iger ACI-Stenose rechts <[Pseudo] 2193>
+- Z. n. NSTEMI
+-UNK- PTCA / Stent <[Pseudo] 2195>
+- Z. n. Verschlussikterus, Duodenohemipankreatektomie mit Pylorusresektion -LRB- pp Whipple -RRB- am <[Pseudo] 24/05/2202>
+- Z. n. Radiusfraktur beidseits <[Pseudo] 2201>
+- Z. n. Schenkelhalsfraktur beidseits <[Pseudo] 2201>
+- Spinalkanalstenose
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie, ehemaliger Nikotinabusus -LRB- karent seit B-DATE,kumulativ 30 PY -RRB- , Diabetes mellitus Typ 2
+
+Allergien:
+Anamnestisch keine bekannt
+
+Anamnese:
+Die Aufnahme auf unsere Station erfolgte über die B-ORG I-ORG I-ORG zur Becken-Bein-Angiographie bei pAVK Stadium III/IV mit persistierendem Ulcus am lateralen Außenrand des rechten Fußes und seit mehreren Tagen bestehenden Ruheschmerzen des Vorfußes. Der Patient berichtet über eine maximale Gehstrecke von unter 200 m sowie Ruhebeschwerden, entsprechend einer pAVK III/IV. Ansonsten bestehe ein kardial stabiler Zustand ohne Dyspnoe oder pectanginöse Beschwerden soweit bei eingeschränkter Belastbarkeit aufgrund pAVK beurteilbar. Palpitationen und Schwindel werden wie stattgehabte Synkopen verneint. Eine häusliche Blutdruckmessung wird nicht durchgeführt. Es bestehe Nykturie mit ca. 3-4-facher Miktion pro Nacht. Periphere diskrete Ödeme, v.a. rechts haben sich in letzter Zeit nicht verändert. Der Patient berichtet von einer Gewichtsabnahme -LRB- -5 kg -RRB- in den letzten 6 Monaten.
+
+Medikation bei Aufnahme:
+ASS 100mg 1-0-0
+Ramipril 2,5mg 1-0-1
+Bisoprolol 2,5mg 1-0-1
+Lercanidipin 10mg 1-0-1
+Atorvastatin 20mg 0-0-1
+Pantoprazol 20mg 0-0-0-1
+Pangrol 25000 1-1-1
+Vigantolvit 2000 IE 0-0-1
+Movicol Btl 0-0-0,5-0
+Tilidin comp 50/4 1-0-1
+Brimzolamid Trp. 1-0-1
+Jardiance 10mg 1-0-0
+Insulin -LRB- Absalgar -RRB- 16IE um 22:00 Uhr
+Novo Rapid nach Bd.
+Spiolto 2,5 2-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+160 cm 70 kg
+HF: 68/min, regelmäßig
+RR: 130/ 75 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein, keine path. Geräusche
+Lunge: o.B.
+Abdomen: weich, kein DS, keine Resist
+Leber: nicht vergrößert
+Periphere Ödeme: diskrete Ödeme v.a. rechts bimalleolar
+Pulsstatus: A. dorsalis pedis rechts nicht palpabel
+Neurologischer Status: orientierend o.B.
+sonstige Auffälligkeiten: persistierendem Ulcus am lateralen Außenrand des rechten Fußes
+
+Labor:
+Ruhe-EKG vom <[Pseudo] 03/11/2207>
+Normofrequenter Sinusrhythmus mit einzelner ventrikulärer Extrasystole, regelmäßig, HF 68/min, überdrehter Linkstyp. Linksanteriorer Hemiblock. PQ 199msec, QRS 93msec, QTc 419msec, Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4, S-Persistenz bis in V6. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 09/11/2207:>
+Normofrequenter Sinusrhythmus regelmäßig, HF 83/min, überdrehter Linkstyp. PQ 197 msec, QRS 100 msec, QTc 424msec, Zeiten im Normbereich. Niedervoltage in den Extremitätenableitungen. Regelrechte R-Progression, R/S Umschlag in V4/V5, S-Persistenz bis in V6. Linksanteriorer Hemiblock. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 10/11/2207:>
+Normofrequenter Sinusrhythmus regelmäßig, HF 78/min, überdrehter Linkstyp. PQ 194 msec, QRS 89 msec, QTc 429 msec, Zeiten im Normbereich. Niedervoltage in den Extremitätenableitungen. Regelrechte R-Progression, R/S Umschlag in V4/V5, S-Persistenz bis in V6. Linksanteriorer Hemiblock. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 14/11/2207:>
+Normofrequenter Sinusrhythmus regelmäßig, HF 72/min, überdrehter Linkstyp. PQ 174 msec, QRS 84 msec, QTc 421msec, Zeiten im Normbereich. Niedervoltage in den Extremitätenableitungen. Gestörte R-Progression, R/S Umschlag in V3/V4, leichte S-Persistenz bis in V6. Linksanteriorer Hemiblock. T-Negativierungen in V1-V4. Ansonsten keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 15/11/2207:>
+Normofrequenter Sinusrhythmus regelmäßig, HF 62/min, überdrehter Linkstyp. PQ 180 msec, QRS 94 msec, QTc 448msec. Niedervoltage EKG. Gestörte R-Progression, R/S Umschlag in V4/V5, S-Persistenz bis in V6. Linksanteriorer Hemiblock. Keine signifikanten Kammerendteilveränderungen.
+
+
+Ruhe-EKG vom <[Pseudo] 16/11/2207:>
+Normofrequenter Sinusrhythmus mit monomorphen ventrikulären Extrasystolen i.S. eines Bigeminus. HF 69/min, überdrehter Linkstyp. PQ 190 msec, QRS 84 msec, QTc 434msec, Zeiten im Normbereich. Niedervoltage in den Extremitätenableitungen. Gestörte R-Progression, R/S Umschlag in V3/V4, S-Persistenz bis in V6. Linksanteriorer Hemiblock. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 17/11/2207:>
+Normofrequenter Sinusrhythmus, HF 57/min, überdrehter Linkstyp. PQ 202 msec, QRS 91 msec, QTc 450msec, Niedervoltage in den Extremitätenableitungen. Verzögerte R-Progression, R/S Umschlag in V3/V4, S-Persistenz bis in V6. Linksanteriorer Hemiblock. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 18/11/2207:>
+Sinusbradykardie, HF 59/min, überdrehter Linkstyp. PQ 195 msec, QRS 102 msec, QTc 479 msec, Niedervoltage in den Extremitätenableitungen. Regelrechte R-Progression, R/S Umschlag in V3/V4, S-Persistenz bis in V6. Linksanteriorer Hemiblock. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 21/11/2207:>
+Sinusrhythmus, HF 67/min, überdrehter Linkstyp. PQ 183 msec, QRS 105 msec, QTc 454 msec, Niedervoltage in den Extremitätenableitungen. Regelrechte R-Progression, R/S Umschlag in V3/V4, S-Persistenz bis in V6. Neg. T-Welle in V2
+
+Ruhe-EKG vom <[Pseudo] 22/11/2207:>
+Sinusrhythmus, HF 63/min, überdrehter Linkstyp. PQ 187 msec, QRS 98 msec, QTc 439 msec, Niedervoltage in den Extremitätenableitungen. Regelrechte R-Progression, R/S Umschlag in V3/V4, S-Persistenz bis in V6. Keine signifikanten Kammerendteilveränderungen.
+
+Virologischer Befund vom <[Pseudo] 02/11/2207> -LRB- CPU -RRB- :
+
+
+Virologischer Befund vom <[Pseudo] 03/11/2207> -LRB- CPU -RRB- :
+
+
+Becken-Bein-Angiographie -LRB- BBA-Nr. B-OTHER -RRB- vom <[Pseudo] 04/11/2207:>
+Erfolgreiche Rekanalisation der A. femoralis superficialis recht mittels distaler Punktion/ PTA/3-fach BM-Stentimplantation.
+
+Röntgen Thorax auf Intensiv a. p. / Kardio vom <[Pseudo] 04/11/2207:>
+Im Liegen kein Pneumothorax abgrenzbar. Keine Pleuraergüsse. Keine infiltrattypischen Verschattungen. Keine höhergradigen Stauungszeichen. Verbreiterte Mediastinalsilhouette im Liegen. Trachea nicht eingeengt.
+Von rechts jugulär einliegender Shaldon-Katheter mit Spitzenprojektion auf VCS.
+
+Angiologische Kontrolle vom <[Pseudo] 05/11/2207:>
+Diagnose: Z. n. Rekanalisation der AFS re mittels PTA/3x BM-Stent, Z. n. HB-relevanter Nachblutung
+Lokalbefund: Hämatom re Leiste
+Farbduplexsonographie der Gefäße beider Leisten:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstellen beider Leisten. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden. Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz. Re AFS Stent offen perfundiert, A. Popl. Monophasische Flüsse proximal.
+
+Nasenabstrich vom <[Pseudo] 05/11/2207> -LRB- Kard-Intensiv -RRB- :
+Kein Nachweis von Staphylococcus aureus
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB- .
+
+Rektalabstrich vom <[Pseudo] 05/11/2207:>
+Kein Nachweis von Staphylococcus aureus
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB- .
+Kein Nachweis von Vancomycin-resistenten Enterokokken
+Kein Nachweis von multiresistenten gramnegativen Stäbchen.
+
+Blutkultur peripher vom <[Pseudo] 06/11/2207:>
+Aerobe Flasche kein Wachstum
+Lytic anaerobe Flasche kein Wachstum
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 08/11/2207:>
+Im Vergleich zur Voruntersuchung keine wesentliche kardiopulmonale Befundänderung. Keine relevante Pleuraablösung. Keine flächigen pneumonischen Infiltrate in den frei einsehbaren Lungenabschnitten. Emphysemaspekt. Retikuläre Zeichnungsvermehrung, teilweise mit fleckigen Verschattungen vor allem im rechten Unterfeld, möglicherweise fibrotische Veränderungen, maskierte Infiltrate möglich. Keine größeren Pleuraergüsse. Keine höhergradige pulmonalvenöse Stauung. Unveränderter Herz- und Gefäßbefund. Trachea mittelständig, nicht eingeengt. Vasosklerose. Retrosternal Retrocardialraum frei einsehbar.
+
+Sputum Befund vom <[Pseudo] 09/11/2207:>
+K1 mäßig Escherichia coli
+K2 spärlich Candida albicans
+K3 spärlich Candida tropicalis
+K4 spärlich Candida species -LRB- nicht C. albicans -RRB-
+
+
+Angiologische Verlaufskontrolle nach Femoralispunktion rechts vom <[Pseudo] 09/11/2207:>
+Kontrolle nach BBA. Auf Nachfrage gibt der Pat. keine Schmerzen an. Leichter Druckschmerz.
+Punktionsstelle reizlos, flächiges Hämatom. Leistenpuls kräftig palpabel.
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden. Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz. AFS im gesamten Verlauf offen und perfundiert darstellbar, ebenfalls A. poplitea.
+
+Echokardiographie vom <[Pseudo] 10/11/2207:>
+Untersuchung am Bett. Deutlich eingeschränkte Schallbedingungen, kein adäquates Schallfenster von parasternal, inferolateralen Wand des LV nicht einsehbar. Im Untersuchungsverlauf sehr variable Herzfrequenz bei VHF. Normal großer, septal leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion, soweit beurteilbare ohne abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralklappe sonographisch regelrecht, dopplersonographisch leichtgradige Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist nicht ableitbar.
+Röntgen Thorax auf Intensiv a. p. / Kardio vom <[Pseudo] 11/11/2207:>
+Neu eingebrachter ZVK von links jugulär Spitzenprojektion auf die Vena cava superior. Persistierende ausgeprägte Verschattung rechts basal mit peribronchialer Verteilung und hier vereinzelten Bronchiektasien. Aspiration in der Anamnese? Insgesamt Zeichnungsvermehrung der Lungen sowie Emphysemaspekt. Kein relevanter Erguss. Kein Bild einer kardialen Dekompensation. Keine Pleuraablösung im Zustand nach ZVK-Anlage von links jugulär. Spitzenprojektion regelrecht auf die Vena cava superior.
+
+Herzkatheteruntersuchung -LRB- HK-Nr. B-OTHER -RRB- vom <[Pseudo] 12/11/2207:>
+Erfolgreiche PTCA/2-fach DE-Stentimplantation -LRB- Promus PS 3,0x24, 3,0x20mm -RRB- der subtotal verschlossenen RCA-Stenose. Koronare 3-Gefäßerkrankung mit global guter linksventrikulärer Pumpfunktion. Verbleibende hochgradige LAD- und LCX-Stenose. Normale enddiastolische Drücke des linken Ventrikels.
+
+LZ-EKG vom B-DATE / <[Pseudo] 16/11/2207:>
+Eingeschränkte Herzfrequenzvariabilität. Einige supraventrikuläre Extrasystolen, z.T. auch repetitiv und als atriale Salven -LRB- längste über 6 Schläge, schnellste mit 142/min -RRB- . Keine Pausen. Häufige überwiegend monomorph wirkende ventrikuläre Extrasystolen, oft als Bigeminus. 1 Couplet. Lown IV a.
+
+Virologischer Befund vom <[Pseudo] 21/11/2207:>
+
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme des Patienten erfolgte über die B-ORG I-ORG I-ORG zur Becken-Bein-Angiographie bei pAVK Stadium III/IV mit persistierendem Ulcus am lateralen Außenrand des rechten Fußes und seit mehreren Tagen bestehenden Ruheschmerzen des Vorfußes.
+
+In der am <[Pseudo] 03/11/2207> durchgeführten Becken-Bein-Angiographie wurde eine erfolgreiche Rekanalisation der A. femoralis superficialis recht mittels distaler Punktion/ PTA/3-fach BM-Stentimplantation durchgeführt.
+
+Postinterventionell kam es zu einer hämodynamischen Instabilität mit Hypotonie und einem Hb-Abfall von 12,3 g/dl auf 9,8 g/dl, so dass B-SALUTE B-PER kurzfristig auf unsere B-ORG I-ORG verlegt wurde. Nach Volumensubstitution sowie Gabe von 2 Erythrozytenkonzentraten konnte eine rasche Stabilisierung erzielt werden. Im weiteren Verlauf blieb der Hb stabil, klinisch zeigte sich der Patient beschwerdefrei, so dass er am <[Pseudo] 05/11/2207> bei gebessertem Allgemeinzustand auf B-ORG I-ORG zurückverlegt wurde.
+
+Die angiologische Kontrolle vom <[Pseudo] 05/11/2207> zeigte keinen Hinweis auf ein Aneurysma spurium, eine AV-Fistel oder eine TVT im Bereich der Punktionsstelle ebenso wenig wie eine akute Einblutung. Der Re-AFS-Stent war offen perfundiert darstellbar, im Bereich der A. popl. zeigten sich monophasische Flüsse proximal. In der angiologischen Kontrolle vom <[Pseudo] 09/11/2207> zeigte sich die AFS im gesamten Verlauf offen und perfundiert, ebenfalls A. poplitea.
+
+Im Rahmen des stationären Verlaufs kam es am <[Pseudo] 06/11/2207> zu einem Anstieg der laborchemischen Inflammationsmarker. Nach Asservierung mikrobiologischen Materials -LRB- Blutkultur, U-Kultur; Sputum: E. coli -RRB- erfolgte eine antibiotische Therapie mittels Piperacillin/Tazobactam. Im Rö-Thorax vom <[Pseudo] 08/11/2207> zeigte sich eine nun demaskierte Lobärpneumonie des rechten Unterlappens. Die laborchemischen Inflammationsmarker stellten sich im weiteren Verlauf regredient dar.
+
+Aufgrund einer Troponinkinetik während des stat. Aufenthaltes wurde am <[Pseudo] 12/11/2207> bei Vd. NSTEMI eine Herzkatheteruntersuchung durchgeführt, in der sich eine koronare 3-Gefäßerkrankung mit global guter linksventrikulärer Pumpfunktion darstellte. Es erfolgte eine erfolgreiche PTCA/2-fach DE-Stentimplantation -LRB- Promus PS 3,0x24, 3,0x20mm -RRB- der subtotal verschlossenen RCA-Stenose. Des Weiteren kamen eine verbleibende hochgradige LAD- und LCX-Stenose sowie normale enddiastolische Drücke des linken Ventrikels zur Darstellung.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung wie unten angegeben für insgesamt 12 Monate postinterventionell. Anschließend ist eine dauerhafte Thrombozytenaggregationshemmung mit ASS 100 mg/tägl. ausreichend.
+
+Über die Notwendigkeit einer lückenlosen Einnahme einer Thrombozytenaggregationshemmung zur Vermeidung eines In-Stent-Verschlusses wurde ausführlich aufgeklärt. Dem Patienten wurde ein Implantatausweis ausgehändigt. Er wurde über notwendige Verhaltensanweisungen informiert.
+
+Bzgl. der LAD-Stenose empfehlen wir eine PTCA/DES der LAD. Hierfür vereinbarten wir einen Termin zur stationären Aufnahme am <[Pseudo] 28/12/2207> um 10.00 Uhr in unserer kardiologischen Klinik. Wir bitten den Patienten zum Termin eine Einweisung des Hausarztes, seine Krankenversicherungskarte sowie einen aktuellen Medikamentenplan mitzubringen.
+
+Bei prolongiert erhöhten, allmählich fallenden Troponinwerten sind laborchemische Kontrollen und eine ambulante kardiologische Kontrolluntersuchung anzuraten, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Postinterventionell zeigte sich im Rahmen der stationären Observanz inkl. Monitoring eine Schmalkomplextachykardie DD AT DD AVNRT. Bei Frequenzen bis zu 150/min unter Beta-Blocker-Therapie und symptomatischem Patienten mit Übelkeit und Erbrechen, initiierten wir eine Amiodaronaufsättigung ab dem B-DATE. Hierunter Sinusrhythmus mit Bigeminus. Ein ähnliches Rhythmusereignis zeigte sich bereits einige Tage zuvor. Im Langzeit-EKG stellten sich sich einige supraventrikuläre Extrasystolen und häufige überwiegend monomorphe ventrikuläre Extrasystolen sowie Bigeminie und 1 Couplet., formal Lown IV a. B-DATE wurde eine Erhaltungsdosis mit Amiodaron 200mg 1x tgl begonnen. Bei Hypokaliämie wurde eine orale Kaliumsubstitution initiiert. Regelmäßige EKG-, Herzfrequenz-, sowie laborchemische Kontrolle von Elektrolyten, Nierenfunktions- und Schilddrüsenparametern -LRB- TSH -RRB- und eine regl. Spiegelbestimmung von Amiodaron sind anzuraten.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+ASS 100mg 1-0-0, dauerhaft
+Clopidogrel 75mg 1-0-0, für 12 Monate -LRB- bis einschl. <[Pseudo] 12/11/2208> -RRB-
+Amiodaron 200mg 1-0-0
+Ramipril 2,5mg 1-0-1
+Bisoprolol 2,5mg 1-0-1
+Lercanidipin 10mg 1-0-1
+Atorvastatin 20mg 0-0-1
+Pantoprazol 40mg 1-0-0
+Pangrol 25000 1-1-1
+Vigantolvit 2000 IE 0-0-1
+Movicol Btl 0-0-1
+Kalium 600 1-1-1
+Tilidin comp 50/4 1-0-1
+
+Brimzolamid Trp. 1-0-1
+Jardiance 10mg 1-0-0
+Insulin -LRB- Absalgar -RRB- 16IE um 22:00 Uhr
+Novo Rapid nach Schema
+
+Spiolto 2,5 2-0-0
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der Paul-Ehrlich-Gesellschaft
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen den Patienten heute kardiorespiratorisch stabilem Zustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärztin
+
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 03/11/2207> und dem <[Pseudo] 19/11/2207>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+9.77
+4 - 10 /nl
+B-DATE
+Hb
+11.3 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+3.9 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.350 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+89
+83 - 97 fl
+<[Pseudo] 19/11/07>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 19/11/07>
+MCHC
+32
+30 - 36 g/dl
+<[Pseudo] 19/11/07>
+RDW
+<NONE> !H
+12,9 - 18,7 %
+<[Pseudo] 19/11/07>
+hypochr.Erythroz.
+<NONE> !H
+0 - 2 %
+<[Pseudo] 19/11/07>
+Thrombozyten
+515 !H
+150 - 440 /nl
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 19/11/07>
+Kalium -LRB- ISE -RRB-
+3.97
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.04 !L
+2,11 - 2,59 mmol/l
+B-DATE
+Ca./korr.
+2.26
+2,1 - 2,65 mmol/l
+B-DATE
+Phosphat
+1.26
+0,84 - 1,45 mmol/l
+B-DATE
+Magnesium
+0.84
+0,75 - 1,05 mmol/l
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Chlorid -LRB- ISE -RRB-
+109
+98 - 111 mmol/L
+B-DATE
+Kreatinin
+0.49 !L
+0,6 - 1,7 mg/dl
+B-DATE
+Harnstoff
+16
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+96.9
+>60 s.u.
+B-DATE
+MDRD
+99.75
+ml/min/1,73qm
+B-DATE
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Ges.Eiweiss
+57.2 !L
+60 - 80 g/l
+B-DATE
+Albumin quant.
+36.3
+30 - 50 g/l
+B-DATE
+Glucose
+178 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+42
+- <46 U/l
+B-DATE
+GPT/ALT
+26
+- <50 U/l
+B-DATE
+AP
+68
+40 - 130 U/l
+B-DATE
+GGT
+23
+- <60 U/l
+<[Pseudo] 04/11/07>
+CHE
+
+7.85
+5,32 - 12,92 kU/l
+B-DATE
+Ges.Bili.
+0.30
+- <1.0 mg/dl
+B-DATE
+Dir.Bilirubin
+0.10
+- <0.3 mg/dl
+B-DATE
+Harnsäure
+4.4
+- <7 mg/dl
+B-DATE
+Triglyceride
+65
+- <150 mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+82.0
+- alt.abh. mg/dl
+<[Pseudo] 04/11/07>
+LDL-Chol. -LRB- berechn. -RRB-
+43
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+26 !L
+>40 mg/dl
+B-DATE
+p-Amylase
+<5 !L
+8 - 53 U/l
+B-DATE
+Lipase
+15 !L
+19 - 63 U/l
+B-DATE
+Haptoglobin
+1.07
+0,3 - 2,0 g/l
+B-DATE
+CRP
+24.1 !H
+- <5 mg/l
+<[Pseudo] 17/11/07>
+PCT sens.
+0.28 !H
+- <0,05 ng/ml
+<[Pseudo] 09/11/07>
+Hämolyse
+-
+
+<[Pseudo] 19/11/07>
+ikterisch
+-
+
+<[Pseudo] 19/11/07>
+Lipämie
+-
+
+<[Pseudo] 19/11/07>
+
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+LDH
+356 !H
+- <342 U/l
+B-DATE
+CK
+95
+- <190 U/l
+B-DATE
+CK-MB
+33
+-
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+217 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+zu wenig Material
+- <450 ng/l
+<[Pseudo] 04/11/07>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+HbA1c
+9.5 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+80 !H
+20 - 42 mmol/mol
+B-DATE
+mittlere Glucose
+226 !H
+- <110 mg/dl
+B-DATE
+TSH
+0.910
+0,400 - 4,000 mU/l
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+FT3
+2.53
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+10.74
+8 - 18 ng/l
+B-DATE
+PTH intakt
+6.0
+1,3 - 7,6 pmol/l
+B-DATE
+Prolaktin
+365
+43 - 375 mU/l
+B-DATE
+Gerinnungsdiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+75.4
+70 - 125 %
+<[Pseudo] 05/11/07>
+INR - ber.
+1.13
+- <1.2
+B-DATE
+aPTT
+20.6
+- <35 s
+B-DATE
+Fib. -LRB- Clauss -RRB-
+1.84
+1,8 - 3,5 g/l
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+D-Dimer -LRB- neu -RRB-
+1.26 !H
+- <0,5 mg/l
+B-DATE
+ATIII
+47.5 !L
+80 - 120 %
+B-DATE
+Thrombinzeit
+>120.0 !H
+- <22 s
+B-DATE
+Anti-Xa /LMWH
+0.83
+0,3 - 1,1 U/ml
+B-DATE
+Urindiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+5.00 !L
+6,0 - 8,0
+<[Pseudo] 06/11/07>
+SpezGew/Tstr.
+1033
+1001 - 1035
+<[Pseudo] 06/11/07>
+Glucose/Tstr.
+>=1000
+- neg. mg/dl
+B-DATE
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 06/11/07>
+Ketone /Tstr.
+Spur
+- neg. mg/dl
+<[Pseudo] 06/11/07>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 06/11/07>
+Eiweiß/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 06/11/07>
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 06/11/07>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 06/11/07>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+4.0
+- <8 /µl
+B-DATE
+Leuko/µl
+9.0 !H
+- <8 /µl
+B-DATE
+HyalZy./Sedu.
+<1.0
+- <1 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+positiv
+/µl
+<[Pseudo] 06/11/07>
+Blutgasanalyse
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH
+7.34 !L
+7,37 - 7,45
+B-DATE
+pO2
+77
+mmHg
+B-DATE
+pCO2
+34.8 !L
+35 - 45 mmHg
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-6.8 !L
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+18.9
+mmol/l
+B-DATE
+Laktat
+16.8 !H
+- <16 mg/dl
+B-DATE

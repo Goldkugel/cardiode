@@ -1,0 +1,453 @@
+Aufnahmedatum: <[Pseudo] 2037-01-04 >
+Geburtsdatum: <[Pseudo] 1983-01-09 >
+Alter: 53
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 09/01/1983> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Schwere koronare 3-Gefäßerkankung mit leichtgradig eingeschränkter, linksventrikulärer Pumpfunktion -LRB- B-OTHER vom <[Pseudo] 25/12/2036> -RRB-
+-UNK- Hochgradige Endhauptstamm Trifurkationsstenose sowie höhergradige Instent-Restenosen der LAD -LRB- B-OTHER vom <[Pseudo] 25/12/2036> -RRB-
+-UNK- Erhöhte enddiastolische Drücke des linken Ventrikels
+-UNK- Ad ACVB-OP
+-UNK- Z. n. PTCA/2fach DE-Stent der LAD -LRB- OTHER B-LOC <[Pseudo] 04/08/32> -RRB-
+-UNK- 90%ige Stenose des R. intermedius und 25%iger in-Stent-Restenose der LAD, keine sinnvolle Interventionsmöglichkeit -LRB- B-ORG I-ORG <[Pseudo] 12/07/2030> -RRB-
+-UNK- Z. n. NSTEMI mit PTCA des R. intermedius ohne Stent <[Pseudo] 09/2029> -LRB- B-LOC -RRB-
+-UNK- Z. n. PTCA/2fach DES der LAD <[Pseudo] 01/2029>
+-UNK- Z. n. PTCA der LAD <[Pseudo] 11/2028> -LRB- B-LOC -RRB-
+
+Diagnosen:
+- Keine weiteren relevanten internistischen Vorerkrankungen bekannt
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus Typ II -LRB- insulinpflichtig -RRB- , Adipositas, Nikotinanamnese: nie.
+Allergien: anamnestisch keine bekannt
+
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei V. a. Progress der bekannten koronaren Herzerkrankung.
+Anamnestisch bestünde eine eingeschränkte körperliche Belastbarkeit im Alltag -LRB- max. 1 Etage Treppensteigen möglich -RRB- , limitiert durch Belastungsdyspnoe sowie belastungsinduzierte pectanginöse Beschwerden, teilweise mit Ausstrahlung in den linken Arm. Der Patient lebe im 2. Stockwerk und könne bei progredienten Beschwerden 2 Stockwerke nicht ohne Pausen hochsteigen. Seit den letzten Wochen könne er keine 50 Meter ohne Pause gehen. Am Sonntag -LRB- <[Pseudo] 23/12/2036> -RRB- habe er beim Spaziergang mit seiner Familie mehrere Pausen aufgrund von Belastungsdyspnoe sowie Schwindelattacken einlegen müssen. Die Beschwerden seien nach ca. 10 Minuten in Ruhe regredient. Zudem verspüre B-SALUTE B-PER vermehrt subjektiv empfunden Palpitationen sowie Herzrasen.
+Keine stattgehabten Synkopen. Ferner gibt B-SALUTE Sur periphere Ödeme, vermehrt morgens mit Abnahme abends, an. Die häuslichen Blutdruckmessungen seien mit 138/77 mmHg. Insgesamt würden die Beschwerden denselben Charakter wie bereits vor der letzten Herzkatheteruntersuchung haben.
+
+Medikation bei Aufnahme:
+oral
+ASS 100 mg 1-0-0
+Metoprolol 23,75 mg 1-0-0
+Pentalong 50 mg 1-0-0
+Metformin 1000 mg 1-0-0
+Atorvastatin 40 mg 0-0-1
+
+subkutan
+Lantus in I.E. 20-0-0
+Actrapid n. Schema
+
+Körperlicher Untersuchungsbefund:
+AZ: reduziert
+EZ: gut -LRB- Größe: 188 cm, Gewicht: 113 kg -RRB-
+HF: 93/min, regelmäßig
+RR: 140/90 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 24/12/2036:>
+Normofrequenter Sinusrhythmus, regelmäßig, Herzfrequenz 84/min, Indifferenztyp. PQ 164 ms, QRS 98 ms, QTc 404 ms. Unspezifische intraventrikuläre Erregungsausbreitungsstörung in V2. Präterminal negative T-Wellen in I, II, V5 und V6, ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 25/12/2036:>
+Reduzierte Schallbedingungen
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion mit Hypokinesie inferolateral. Erhaltene longitudinale Funktion.
+Relaxationsstörung des LV. LA, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht einsehbar.
+Aortenklappe trikuspid, leicht verdickt mit guter Separation und dopplersonographisch leichtgradiger Insuffizienz. Übrige Klappen sonographisch regelrecht, jeweils leichtgradige Pulmonal-, Mitral- und Trikuspidalklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 25 mmHg -RRB- .
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 29/06/2030:> Zunahme der LV-Hypertrophie, leichte Verschlechterung der LV-Pumpfunktion.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 25/12/2036> -RRB- :
+Herzkatheteruntersuchung bei Verdacht auf Progress der bekannten koronaren Herzerkrankung
+
+Schwere koronare 3-Gefäßerkankung mit leichtgradig eingeschränkter, linksventrikulärer Pumpfunktion. Erhöhte enddiastolische Drücke des linken Ventrikels. Hochgradige Endhauptstamm Trifurkationsstenose sowie höhergradige Instent-Restenosen der LAD.
+
+Relevante Nebendiagnosen:
+Z. n. PTCA/2fach DE-Stent der LAD -LRB- B-OTHER vom <[Pseudo] 04/08/32> -RRB-
+Z . n. NSTEMI mit PTCA des R. intermedius ohne Stent <[Pseudo] 09/2029> -LRB- B-LOC -RRB-
+CVRF: Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus Typ II -LRB- insulinpflichtig -RRB- , Adipositas
+Allergien: Anamnestisch keine bekannt
+
+Lungenfunktionsprüfung vom <[Pseudo] 26/12/2036:>
+Spirometrie.
+Keine Obstruktion der peripheren Atemwege.
+
+Spez.FEV1: 35,8 ml/kgKG
+Die spez. FEV1 liegt bei 35,8 ml/kgKG, damit besteht bei Beurteilung rein anhand der spez. FEV1 kein erhöhtes Op/ITN-Risiko.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 26/12/2036:>
+Beidseits diskrete Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im Carotisstromgebiet.
+IMD rechts 0,08 cm, links 0,09 cm.
+Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar.
+Im Vergleich zur Voruntersuchung von <[Pseudo] 2029> im Wesentlichen Befundkonstanz.
+
+Angiologische Kontrolle vor ACB-OP vom <[Pseudo] 31/12/2036:>
+Farbduplexsonographie der Gefäße des linken Unterarms:
+A. radialis und A. ulnaris im gesamten Verlauf normalkalibrig und offen perfundiert ohne Hinweis für eine Stenose. In der distalen A. radialis triphasische Flüsse bis 60 cm/s, in der distalen A. ulnaris triphasische Flüsse bis 40 cm/s darstellbar.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 01/01/2037:>
+Vergleich zur Voruntersuchung vom B-DATE.
+Befund und Beurteilung:
+Verbreiterter Herzschatten mit einer CTR von 16/28. Stauungskomponente mit Kranialisierung der Gefäßzeichnung. Minimale Randwinkelergüsse beidseits. Keine pneumonischen Infiltrate. Kein Pneumothorax. Retrosternal- und Retrokardialraum frei. Trachea mittig, nicht eingeengt. Degenerative Veränderungen der BWS.
+
+Ruhe-EKG vom <[Pseudo] 01/01/2037:>
+Normofrequenter Sinusrhythmus, regelmäßig, Herzfrequenz 75/min, Indifferenztyp. PQ 138 ms, QRS 94 ms, QTc 408 ms. Q-Zacke in V2, unspezifische intraventrikuläre Erregungsausbreitungsstörung in V1. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 24/12/2036> und dem <[Pseudo] 01/01/2037>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.85
+4 - 10 /nl
+B-DATE
+Hb
+13.4
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.0
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.400
+0,38 - 0,52 l/l
+B-DATE
+MCV
+80 !L
+83 - 97 fl
+<[Pseudo] 01/01/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+27
+27 - 33 pg
+<[Pseudo] 01/01/37>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 01/01/37>
+RDW
+14.6
+12,9 - 18,7 %
+<[Pseudo] 01/01/37>
+hypochr.Erythroz.
+1.0
+0 - 2 %
+<[Pseudo] 01/01/37>
+Thrombozyten
+205
+150 - 440 /nl
+<[Pseudo] 01/01/37>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+141
+135 - 146 mmol/l
+<[Pseudo] 01/01/37>
+Kalium -LRB- ISE -RRB-
+4.57
+3,4 - 4,8 mmol/l
+<[Pseudo] 01/01/37>
+Calcium
+2.42
+2,11 - 2,59 mmol/l
+<[Pseudo] 01/01/37>
+Kreatinin
+0.81
+0,6 - 1,2 mg/dl
+<[Pseudo] 01/01/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+26
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+101.5
+>60 s.u.
+B-DATE
+MDRD
+111.16
+ml/min/1,73qm
+<[Pseudo] 01/01/37>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+46.0
+30 - 50 g/l
+<[Pseudo] 01/01/37>
+Glucose
+164 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+38
+- <46 U/l
+B-DATE
+GPT/ALT
+141 !H
+- <50 U/l
+B-DATE
+GGT
+111 !H
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.60
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+6.5
+- <7 mg/dl
+B-DATE
+Triglyceride
+151 !H
+- <150 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+144.0
+- alt.abh. mg/dl
+<[Pseudo] 01/01/37>
+LDL-Chol. -LRB- berechn. -RRB-
+76
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+38 !L
+>40 mg/dl
+B-DATE
+CRP
+4.4
+- <5 mg/l
+<[Pseudo] 01/01/37>
+Hämolyse
+-
+
+<[Pseudo] 01/01/37>
+ikterisch
+-
+
+<[Pseudo] 01/01/37>
+Lipämie
+-
+
+<[Pseudo] 01/01/37>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+203
+- <317 U/l
+B-DATE
+CK
+234 !H
+- <190 U/l
+B-DATE
+hs-TroponinT
+5.98
+- <14 pg/ml
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+9.64
+- <14 pg/ml
+B-DATE
+NT-BNP
+63
+- <125 ng/l
+<[Pseudo] 24/12/36>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+9.2 !H
+- <6,1 %
+<[Pseudo] 01/01/37>
+HbA1c -LRB- IFCC -RRB-
+77 !H
+20 - 42 mmol/mol
+<[Pseudo] 01/01/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+217 !H
+- <110 mg/dl
+<[Pseudo] 01/01/37>
+TSH
+1.55
+0,400 - 4,000 mU/l
+<[Pseudo] 01/01/37>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+99.4
+70 - 125 %
+<[Pseudo] 01/01/37>
+INR - ber.
+1.02
+- <1.2
+<[Pseudo] 01/01/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+25.0
+- <35 s
+B-DATE
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.30 !L
+7,37 - 7,45
+B-DATE
+pO2
+20
+mmHg
+B-DATE
+pCO2
+57.2 !H
+35 - 45 mmHg
+<[Pseudo] 29/12/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+0
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+22.9
+mmol/l
+B-DATE
+Laktat
+23.0 !H
+- <16 mg/dl
+B-DATE
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei V. a. Progress der bekannten koronaren Herzerkrankung.
+
+Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 14,5 pg/ml, im Verlauf stabil bei 14,4 pg/ml und, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig -RRB- . Das NT-pro-BNP fand sich altersadjustiert im Normbereich.
+
+Bei ausgeprägtem Risikoprofil sowie der klinischen Präsentation entschieden wir uns bei V. a. Progress der bekannten koronaren Herzerkrankung zur Durchführung einer invasiven Diagnostik. In der Herzkatheteruntersuchung zeigte sich eine schwere koronare 3-Gefäßerkankung mit leichtgradig eingeschränkter, linksventrikulärer Pumpfunktion. Ferner zeigte sich eine hochgradige Endhauptstamm-Trifurkationsstenose sowie höhergradige Instent-Restenosen der LAD. Es erfolgte eine zeitnahe Rücksprache mit den B-SALUTE der Herzchirurgie bzgl. der Anschließbarkeit. Hiernach erging die Maßgabe zur Durchführung einer Revaskularisation mittels Bypass-Operation.
+
+Es erfolgte eine ausführliche Aufklärung des Patienten über das aktuelle Krankheitsbild sowie die Risiken des geplanten Eingriffs. B-SALUTE B-PER stimmte zu, ihn in der hiesigen Herzchirurgie zur Operation anzumelden. Mit der Herzchirurgie -LRB- Sekretariat B-TITLE B-PER Tel. B-PHONE -RRB- wurde der <[Pseudo] 02/01/2037> für die Operation vereinbart. Bis zu diesem Zeitpunkt erfolgte eine strenge Monitorüberwachung.
+
+Die präoperativen Untersuchungen -LRB- Röntgen-Thorax, Spirometrie sowie Sonographie der extrakraniellen hirnversorgenden Gefäße -RRB- wurden durchgeführt. Sie ergaben keine höhergradigen Stenosen im Bereich der Carotiden und keine relevante obstruktive Ventilationsstörung.
+
+Die A. radialis und A. ulnaris zeigten sich in der angiologischen Untersuchung im gesamten Verlauf normalkalibrig und offen perfundiert ohne Hinweis für eine Stenose.
+
+Bei rezidivierenden Angaben von pektanginösen Beschwerden ohne Troponindynamik und elektrokardiographischen Veränderungen passten wir die antianginöse Therapie wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung der Medikation im Verlauf.
+
+Bei einem HbA1c-Wert von 9,5 % ergänzten wir die antidiabetische Therapie um Empagliflozin wie unten angegeben. Wir bitten um eine Kontrolle des HbA1c-Wertes im Verlauf und ggf. Optimierung der antidiabetischen Therapie.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir empfehlen regelmäßige kardiologische Kontrollen durch den betreuenden B-SALUTE B-SALUTE B-TITLE B-PER B-PER
+Wir verlegten B-SALUTE Sur in gebessertem Allgemeinzustand in Ihre geschätzte stationäre Weiterbetreuung.
+
+Therapieempfehlung:
+oral
+ASS 100 mg 1-0-0
+Metoprolol 23,75 mg 1-0-0
+Pentalong 50 mg 1-0-1 erhöht!
+Metformin 1000 mg 1-0-0
+Empagliflozin 10 mg 1-0-0 neu!
+Atorvastatin 40 mg 0-0-1
+
+subkutan
+Lantus in I.E. 20-0-0
+Actrapid n. Schema
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

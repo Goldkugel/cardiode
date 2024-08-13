@@ -1,0 +1,76 @@
+Aufnahmedatum: <[Pseudo] 2035-10-03 >
+Geburtsdatum: <[Pseudo] 1961-04-20 >
+Alter: 74
+
+über Ihre Patientin B-PER I-PER geboren am <[Pseudo] 20/04/1961> die sich am <[Pseudo] 03/10/2035> um 08:35 Uhr in unserer B-ORG I-ORG I-ORG vorstellte.
+Hauptdiagnose:
+Symptomatisches VHF -LRB- EHRA -UNK- b -RRB-
+Milde Hypokaliämie
+Erfolgreiche elektrische Kardioversion am <[Pseudo] 03/10/35>
+Diagnosen:
+Z.n. Hysterektomie <[Pseudo] 2009>
+Gute linksventrikuläre Pumpfunktion -LRB- EF 66% -RRB- , Praxis B-TITLE B-PER - hochgradig dilatierter linker Vorhof
+Allergien: keine bekannt.
+Risikofaktoren:
+Hypercholesterinämie, Diabetes mellitus, Adipositas, positive Familienanamnese, Nikotinanamnese: früher, Packyears: 15.
+Anamnese:
+Die Vorstellung erfolgte als Einweisung durch den Kardiologen bei paroxysmalem Vorhofflimmern seit 2 Monaten. Anamnestisch bestanden zu Beginn Übelkeit, Beklemmung und Schweißausbrüche während der oft Stunden andauernden Episoden, außerdem leichte Belastungsdyspnoe -LRB- 2 Etagen möglich -RRB- . Nach Initiierung der Therapie mit Bisoprolol und Eliquis Besserung der Beschwerden, kein sistieren. Auf spezifische Nachfrage in den letzten Wochen keine typische Angina pectoris. Keine Ödeme, kein
+
+B-PER, B-PER -LRB- W, 74 -RRB- PD: B-PHONE FID: B-PHONE
+Schwindel, keine Synkope. Keine Palpitationen. Kein Hinweis auf einen akuten Infekt.
+Vitalparameter bei Aufnahme:
+148/100 mmHg, 78 /min, 36,2 o c.
+EKG:
+Rhythmus: Vorhofflimmern, Herzfrequenz: 78/min, Lagetyp: Linkstyp, QRS-Komplex: unspezifische intraventrikuläre Leitungsverzögerung, ST-Strecke: normal, T-Welle: normal.
+Untersuchungsbefund:
+Bewußtsein: klar, Herztöne: normal, Herzzusatztöne: keine, Pulmo auskultatorisch: vesikuläres Atmen, Abdomen: unauffällig, Beinvenenstatus: unauffällig, Halsvenen: unauffällig, Pulsstatus: regelrecht,
+Cyanosezeichen: Nein.
+Herztöne unregelmäßig.
+Labor bei Aufnahme:
+<[Pseudo] 03/10/2035> 08:28 Natrium 138 mmol/l 135 - 146
+<[Pseudo] 03/10/2035> 08:28 Kalium 3,27 mmol/l
+<[Pseudo] 03/10/2035> 08:28 Kreatinin 0,98 mg/dl
+<[Pseudo] 03/10/2035> 08:28 Harnstoff 31 mg/dl
+<[Pseudo] 03/10/2035> 08:28 Glucose 126 mg/dl 65 - 1 10
+<[Pseudo] 03/10/2035> 08:28 C-reaktives Protein -LRB- CRP -RRB- mg/l
+<[Pseudo] 03/10/2035> 08:28 Laktatdehydrogenase -LRB- LDH -RRB- 198<301
+<[Pseudo] 03/10/2035> 08:28 GOT 23 - <37
+<[Pseudo] 03/10/2035> 08:28 19 Uli
+<[Pseudo] 03/10/2035> 08:28 Leukozyten 6,60 /nl 4 - 10
+<[Pseudo] 03/10/2035> 08:28 Erythrozyten 4,7 4 - 5,2
+<[Pseudo] 03/10/2035> 08:28 Hämoglobin -LRB- Hb -RRB- 14,0 g/dl 12 - 15
+<[Pseudo] 03/10/2035> 08:28 Hämatokrit 0,410 0,36 - 0,47
+<[Pseudo] 03/10/2035> 08:28 Thrombozyten 187 /nl 150 - 440
+<[Pseudo] 03/10/2035> 08:28 Quick 78,1 70 - 125
+<[Pseudo] 03/10/2035> 08:28 INR 1 ,12
+HSTNT im Verlauf:
+<[Pseudo] 03/10/2035> 08:30 Troponin T -LRB- TNT -RRB- , high sensitive im Plasma 17,7 pg/ml
+<[Pseudo] 03/10/2035> 08:44 Troponin T -LRB- TNT -RRB- , high sensitive im Plasma 5,42 pg/ml < 14
+DATE 09:47 Troponin T -LRB- TNT -RRB- , high sensitive im Plasma 16,6 pg/ml < 14
+B-DATE I-DATE 1:33 Troponin T -LRB- TNT -RRB- , high sensitive im Plasma 14,9 pg/ml
+Medikation in der ORG:
+10:27 Ster0500+20KCl 500 ml i.v.
+Epikrise:
+Die Vorstellung erfolgte bei paroxysmalem Vorhofflimmern seit 2 Monaten. Seit der Aufnahme war die
+Patientin im Wesentlichen oligosymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- .
+Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen bei frequenzkontrollierem VHF
+Seite 2
+B-PER -LRB- W, 74 -RRB- PD: B-PHONE FID: B-PHONE
+und Symptomatik -LRB- EHRA Ilb -RRB- . Das hs-cTroponin betrug bei Aufnahme 17,7 pg/ml, im Verlauf bei 16,6 pg/ml und 14,9 pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt und bei fehlenden APBeschwerden als Myokardschaden im Rahmen des Vorhofflimmern zu werten. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig, afebrile Patientin -RRB- .
+Bei milder Hypokaliämie erfolgte eine i.v. Kalium-Substitution. Bei suffizienter und dauerhaft eingenommener Antikoagulation erfolgte eine erfolgreiche, elektrische Kardioversion in Analgosesedierung. Hiernach Slnusrhythmus.
+Wir empfehlen eine Vorstellung in unserer Rhythmusambulanz nach telefonischer Terminvereinbarung unter B-PHONE zur Beratung über eine Ablation bzw. antiarrhythmische Therapie.
+Wir entlassen die Patientin kardiorespiratporisch stabil und klinisch beschwerdefrei nach Hause. Bei erneutem Auftreten von Beschwerden ist natürlich jederzeit eine Wiedervorstellung in unserer B-ORG I-ORG I-ORG möglich.
+Procedere:
+- Fahrverbot für 24 Stunden
+- Antikoagulation fortführen für mind. 4 Wochen, danach gemäß CHAD-VASc
+- Vorstellung in der Rhythmusambulanz zur Beratung über Ablation bzw. antiarrhythmische Therapie
+Die Patientin wurde am <[Pseudo] 03/10/2035> um 17:51 Uhr regelrecht entlassen.
+Therapieempfehlung:
+Eliquis 5mg 1-0-1
+Bisoprolol 2,5mg 1-0-0, ggfs. weiter steigern
+Simvastatin 60mg 1-0-0
+Pantoprazol 20mg 1-0-0
+Mit freundlichen und kollegialen Grüßen
+B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt B-ORG I-ORG I-ORG Assistenzärztin
+Seite 3

@@ -1,0 +1,73 @@
+Aufnahmedatum: <[Pseudo] 2040-03-07 >
+Geburtsdatum: <[Pseudo] 1965-01-10 >
+Alter: 75
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 10/01/1965> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Erfolgreiche Pulmonalvenenisolation in Cryo-Technik bei paroxsysmalem Vorhofflimmern am <[Pseudo] 07/03/2040>
+- Paroxysmales Vorhofflimmern, ED <[Pseudo] 07/2039> -LRB- ext. Event Recorder -RRB-
+-UNK- CHA2DS2-VASc-Score 5
+-UNK- LA-Diameter: 38 mm -LRB- Echo <[Pseudo] 01/2040> -RRB-
+-UNK- Gute systolische LV-Funktion -LRB- Echo <[Pseudo] 01/2040> -RRB-
+- Koronare 1-Gefäßerkrankung der LAD
+-UNK- Z. n. elektiver PTCA/DE-Stentimplantation der distalen LAD -LRB- HK <[Pseudo] 07/2034> -RRB-
+-UNK- Myokardszintigraphie B-DATE: Vorwiegend chronisch reduzierte Perfusionsverhältnisse im LCX-Bereich posterolateral sowie minimal apical pharmakologisch induziert reversivel. Konservatives Procedere bei Oligosymptomatik
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hyperlipidämie, Nikotinkonsum -LRB- ca. 15 py -RRB- .
+Allergien: keine bekannt.
+
+Anamnese:
+Die stationäre Aufnahme der Patientin erfolgt zur elektiven Pulmonalvenenisolation bei paroxsysmalem Vorhofflimmern. Im Rahmen einer Vorstellung in unserer Rhythmusambulanz berichtete die Patientin von seit ca. -UNK- Jahr bestehenden Anfällen mit Palpitationen. Diese sind in den letzten Wochen häufiger geworden, aktuell fast jede Nacht Anfälle. Bereits im B-MONTH <[Pseudo] 2039> wurde mittels eines Event-Recorders paroxysmales Vorhofflimmern festgestellt. Im Alltag bestehe ansonsten eine gute Belastbarkeit. Keine Angina Pectoris oder Belastungsdyspnoe in den letzten Wochen. Schwindel oder Synkopen werden verneint. Die unregelmäßig erhobenen häuslichen Blutdruckwerte lägen bei ca. 120/70 mmHg. Tel. B-PHONE
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 90 kg, 174 cm
+HF: 60/min
+RR: 120/70 mmHg
+HT: 1. + 2. HT regelrecht, keine HG
+Lunge: Ves. AG, keine RGs
+Periphere Ödeme: keine
+Abdomen: weich, kein DS, DG +.
+Neurol. Status: unauffällig
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 06/03/2040:>
+Bradykarder Sinusrhythmus, 51/min, Linkstyp. PQ 145 ms, QRS 126 ms, QTc 463ms. Regelrechte R-Progression, R/S Umschlag in V3/V4. Kompletter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen.
+
+Herzkatheteruntersuchung -LRB- EPU-Nr. 678-21 vom <[Pseudo] 07/03/2040> -RRB- :
+2-fache Punktion der V. femoralis dextra. Vorführen eines steuerbaren, diagnostischen 4-poligen Katheters in den CS. Problemlose 1-fache transseptale Punktion. Einführen der FlexCath-Schleuse in das LA. Transnasales Einführen der Temperatursonde in den Ösophagus -LRB- FIAB -RRB- . Angiographie der LSPV, RSPV, LIPV und RIPV jeweils nach Inflation des Cryoballons. Isolation der lateralen Pulmonalvenen -LRB- LSPV 1, LIPV2 -RRB- . Isolation der septalen Pulmonalvenen -LRB- RSPV 1, RIPV 2 -RRB- . Minimale Temperaturen und -UNK- time to isolation -UNK- in LSPV -LRB- -49°C/22s -RRB- , LIPV -LRB- -54°C/-38°C/nm -RRB- , RSPV -LRB- -55°C/nm -RRB- und RIPV -LRB- -41°C/-41°C/nm -RRB- . Kein Hinweis auf Parese des N. phrenicus -LRB- Kontrolle durch kontinuierliche Phrenicusstimulation -RRB- . Postablationem Nachweis eines Entranceblocks aller PVs. Postinterventionell Ausschluss eines Perikardergusses durch Echokardiographie.
+Zusammenfassung: Pulmonalvenenisolation in Cryo-Technik.
+Proc.: DV 8 h. Bitte Z-Naht heute Abend entfernen. Echo-Kontrolle morgen früh zum PE-Ausschluss wiederholen. Betablocker zunächst weiter. Einmalige Gabe von Enoxaparin 0,8 heute um 22h, DOAC ab morgen früh fortsetzen. Bitte LZ-EKG Kontrollen heimatnah und WV in der zuweisenden Praxis zur Befundkontrolle. 40 mg Pantoprazol 1x/die für 10 Tage post ablationem.
+
+Echokardiographie nach PVI vom <[Pseudo] 08/03/2040:>
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Zusammenfassung:
+Die stationäre Aufnahme der Patientin erfolgte zur elektiven Pulmonalvenenisolation bei paroxsysmalem Vorhofflimmern. Nach echokardiographischem Ausschluss von intrakardialen Thromben konnte am <[Pseudo] 07/03/2040> eine komplikationslose Pulmonalvenenisolation durchgeführt werden. Die Z-Naht wurde entfernt. Ein Perikarderguss konnte nach der Intervention mehrfach ausgeschlossen werden. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich kein Anhalt für Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstellen.
+
+Wir empfehlen auch bei stabilem Sinusrhythmus die Fortführung der oralen Antikoagulation mit Xarelto sowie der Betablockade mittels Metoprolol. Wir bitten um die zeitnahe Durchführung eines Langzeit-EKGs. Darüber hinaus empfehlen wir vorerst monatliche Langzeit-EKG-Kontrollen in der zuweisenden Praxis. Nach Pulmonalvenenisolation empfehlen wir die Einnahme eines Protonenpumpeninhibitors für 10 Tage wie unten aufgeführt.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin am <[Pseudo] 08/03/2040> in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 3 Monaten in der B-ORG B-TITLE B-PER
+
+Therapieempfehlung v. kardiologischer Seite:
+Xarelto 20 mg 1-0-0
+Metoprolol 47,5 mg -UNK- -0- -UNK-
+Ramipril 5 mg 1-0-0
+Simvastatin 20 mg 0-0-1
+Pantoprazol 40mg 1-0-0, neu, bis einschließlich <[Pseudo] 17/03/2040>
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

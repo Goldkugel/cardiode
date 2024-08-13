@@ -1,0 +1,74 @@
+Aufnahmedatum: <[Pseudo] 2041-06-12 >
+Geburtsdatum: <[Pseudo] 1991-09-24 >
+Alter: 49
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 24/09/1991> wh. B-PLZ B-ADDR I-ADDR B-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kein Anhalt für eine strukturelle oder ischämische Herzerkrankung
+-UNK- Echokardiographisch gute biventrikuläre Funktion mit LV-Relaxationsstörung
+-UNK- Unauffälliges Belastungs-EKG bis zu 150 Watt -LRB- 116% Ziel-Hf -RRB-
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Hashimoto-Thyreoiditis -LRB- ED <[Pseudo] 2032> -RRB-
+- Hypersensibles Bronchialsystem
+
+Kardiovaskuläre Risikofaktoren: pos. Familienanamnese -LRB- Mutter Herzschwäche mit 69 J -RRB-
+Allergien: Penicillin -LRB- starke Ödeme -RRB-
+
+Anamnese:
+Die ambulante Vorstellung erfolgte zur Abklärung einer neu aufgetretenen Tachykardie und Belastungsdyspnoe dominant nach zweiter BioNTech-Impfung -LRB- <[Pseudo] 31/03/2041> -RRB- . Die Patientin beschreibt verstärkt abendliche Palpitationen. Schwindel sowie stattgehabte Synkopen werden verneint. Zuletzt sei es zur Befundbesserung in den letzten Wochen gekommen. Es bestünde jedoch eine Grundmüdigkeit, deren Genese laut Patientin auch im Rahmen des Hashimotos diskutiert werden könnte. Im Alltag bestände soweit eine gute Belastbarkeit mit leichter Belastungsdyspnoe nach schwerer Belastung -LRB- entsprechend NYHA I-II -RRB- . Es gäbe gelegentlich atypischen lageabhängigen thorakale Schmerzen -LRB- im Liegen am Morgen und mit Besserung beim Aufstehen -RRB- . Es bestünden jedoch keine typischen belastungsabhängigen und -unabhängigen pectanginösen Beschwerden. Es bestünde keine Nykturie bei ca. einmaliger Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 120/80 mmHg. Die Hashimoto-Erkrankung sei anamnestisch sehr aktiv und deshalb wurde L-Thyroxin Dosis am Anfang des Jahres von der Patientin und der Hausärztin erhöht. Anamnestisch bestünde ein hypersensibles Bronchialsystem, mit letzter Vorstellung beim Pulmologen vor ca. 2 Jahren.
+
+Aktuelle Medikation:
+L-Thyroxin 150 ug 1-0-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 165 cm 79 kg
+HF: 96/min, regelmäßig
+RR: 130/80 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, HF 96/min, Indifferenztyp. PQ 140 ms, QRS 81 ms, QTc 395 ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 150 Watt über 00:24 min. Maximale Frequenz 188/min -LRB- 116% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 208 mmHg, diastolisch 115 mmHg. Abbruch wegen peripherer Ermüdung und Kurzatmigkeit beim Tragen von FFP2-Maske. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Unter maximaler Belastung diskrete aszendierende ST-Streckensenkungen in den Ableitungen II, III, aVF, V4-V6 mit rascher Rückbildung in der Erholungsphase. Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Vereinzelt VES -LRB- 9 -RRB- . Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck.
+
+Transthorakale Echokardiographie:
+Normal großer linker Ventrikel mit -LRB- soweit bei deutlich reduzierten Schallbedingungen beurteilbar -RRB- noch guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht sicher einsehbar. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht bestimmbar. Erstbefund in domo.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Abklärung einer neu aufgetretenen Tachykardie und Belastungsdypnoe nach zweiter Biontech Impfung -LRB- <[Pseudo] 31/03/2041> -RRB- .
+
+Das Belastungs-EKG bis 150 Watt ergab weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradigen Herzrhythmusstörungen.
+
+Echokardiographisch sahen wir eine gute linksventrikuläre Pumpfunktion ohne regionale Kontraktionsstörungen. Die VCI war nicht gestaut. Es waren keine relevanten Klappenvitien feststellbar.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund und nicht-kardialen Genese der Beschwerden aus. Zur weiteren Abklärung der Belastungsdyspnoe könnte eine Vorstellung beim ambulanten Pulmologen erfolgen. Im Rahmen der beschriebenen Tachykardie und gelegentlichen Palpitationen sowie der am Anfang des Jahres anamnestisch durchgeführten Erhöhung der Therapie mit L-Thyroxin empfehlen wir die Kontrolle der TSH-Werte und ggf. eine leichte Reduktion der Medikation.
+
+Wir empfehlen zudem die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien und nach Möglichkeit die regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten.
+
+Wir empfehlen die regelmäßige hausärztliche Vorstellung. Bei Auftreten von Beschwerden oder Komplikationen sind wir gerne bereit, die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung: -LRB- unverändert -RRB-
+L-Thyroxin 150 ug 1-0-0-0
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen,
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

@@ -1,0 +1,507 @@
+Aufnahmedatum: <[Pseudo] 2033-01-07 >
+Geburtsdatum: <[Pseudo] 1975-12-05 >
+Alter: 57
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 05/12/1975> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Hypertensive Entgleisung mit Troponin Kinetik DD MINOCA
+-UNK- Kardio-MRT vom <[Pseudo] 31/12/2032:> MR-tomographisch kein Nachweis einer akuten Tako-Tsubo-CMP.
+-UNK- Ausschluss einer koronaren Herzerkrankung mit mittelgradig eingeschränkter linksventrikulärer Pumpfunktion -LRB- B-OTHER vom <[Pseudo] 28/12/2032> -RRB-
+-UNK- Z. n. Herzkatheter vom <[Pseudo] 05/02/2024:>
+-UNK- KHK ohne höhergradige Stenosen -LRB- KH I-ORG -RRB-
+- Hyponatriämie, a. e. Diuretika-induziert
+-UNK- Im Verlauf: Normalisierung der laborchemischen Natriumwerte bei Pause des Diuretikums
+
+Diagnosen:
+- Thrombozytose, Leukozytose + Eisenmangelanämie a. e. reaktiv DD Myelodysplasie
+-UNK- Knochenmarkspunktion vom <[Pseudo] 17/05/2032:> Befund nicht typisch für eine MPN, eher reaktiv bei z.B. Eisenmangelanämie
+- Z. n. ausgeprägter Soorösophagitis
+- Divertikulose
+- Asthma bronchiale
+- Z. n. Glottishämatom
+- Hepatomegalie
+- Z. n. perianalem Abzess mit Abszess-Spaltung <[Pseudo] 20/12/2023>
+
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie, Adipositas II° -LRB- BMI 39,95 kg/m² -RRB- , insulinpflichtiger Diabetes mellitus Typ 2, pos. Familienanamnese -LRB- Mutter an Myokardinfarkt im Alter von 57 57 verstorben -RRB-
+
+Allergien:
+Anamnestisch Desinfektionsmittel, Staub, Rauch, Menthol
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte am <[Pseudo] 27/12/2032> als Übernahme aus der B-ORG I-ORG als Verbringung durch den Notarzt bei V.a. akutem Koronarsyndrom.
+
+Bei Aufnahme berichtet B-SALUTE B-PER von thorakalen Beschwerden seit den Mittagsstunden. Diese seien im Bereich des Thorax und der linken Axilla gewesen und nicht manuell auslösbar gewesen. Zudem seien initial hypotone, später hypertensive Blutdruckwerte >200 mmHg gemessen worden.
+Auf spezifische Nachfrage hin werden keine typische Angina pectoris im Alltag, jedoch progrediente Belastungsdyspnoe -LRB- entsprechend NYHA II-III -RRB- angegeben. Schwindel, Palpitationen sowie stattgehabte Synkopen werden verneint. Die häuslichen Blutdruckmessungen ergäben Werte um 160/90 mmHg. Es bestehe Nykturie mit ca. 3- bis 4-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz in der letzten Zeit nicht aufgefallen.
+
+Medikation bei Aufnahme:
+Oral:
+Ramipril 5 mg 1-0-1
+HCT 12,5 mg 1-0-0
+Pantoprazol 40 mg 1-0-0
+Metformin 500 mg 1-0-1
+Novalgin 500 mg 1-0-1
+
+Subkutan:
+Insulin glargin 100IE/ml n. Schema
+
+Inhalativ:
+Symbicort 80/4,5 µg 2-0-2
+Salbutamol 100 µg/Hub 1-2x Hub/Bedarf
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: adipös -LRB- 145 cm, 84 kg, BMI: 39,95 kg/m² -RRB-
+HF: 64/min, regelmäßig
+RR: 130 / 70 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o. B.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläre Atemgeräusche bds., keine Rasselgeräusche
+Abdomen: DG über allen 4 Quadranten, weich, diffuser DS über allen Quadranten, keine Resistenzen
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis bds. gut tastbar
+Neurologischer Status: orientierend o. B.
+sonstige Auffälligkeiten: keine
+
+Labor:
+Ruhe-EKG vom <[Pseudo] 01/01/2033:>
+Normofrequenter Sinusrhythmus, regelmäßig, 64/min, Indifferenztyp, PQ 156 ms, QRS 135 ms, QTc 421 ms. Kompletter Linksschenkelblock mit konsekutiven Kammerendteilveränderungen. -LRB- vorbekannt -RRB-
+
+Langzeit-EKG Befund vom <[Pseudo] 01/01/2033> auf den <[Pseudo] 02/01/2033:>
+Bradykarder Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 41/min und 95/min, im Mittel 57/min. Normale Herzfrequenzvariabilität. Vereinzelte supraventrikuläre Extrasystolen, z.T. auch repetitiv und als atriale Salve über 5 Schläge mit 110/min. Keine Pausen. Vereinzelte polymorphe ventrikuläre Extrasystolen. Lown III a.
+
+Ruhe-EKG vom <[Pseudo] 02/01/2033:>
+Normofrequenter Sinusrhythmus, regelmäßig, 63/min, Steiltyp, PQ 159 ms, QRS 134 ms, QTc 434 ms. Kompletter Linksschenkelblock mit konsekutiven Kammerendteilveränderungen -LRB- vorbekannt -RRB- .
+
+Ruhe-EKG vom <[Pseudo] 03/01/2033:>
+Bradykarder Sinusrhythmus, regelmäßig, 55/min, Steiltyp, PQ 158 ms, QRS 138 ms, QTc 439 ms. Kompletter Linksschenkelblock mit konsekutiven Kammerendteilveränderungen -LRB- vorbekannt -RRB- .
+Virologischer Befund vom <[Pseudo] 28/12/2032> -LRB- Chest-Pain-Unit -RRB- :
+
+
+Herzkatheteruntersuchung -LRB- B-OTHER -RRB- vom <[Pseudo] 28/12/2032> Endbefund:
+NSTEMI DD Takotsubo Kardiomyopathie
+Ausschluss KHK, mittelgradig reduzierte LV-Funktion und erhöhter LVEDP.
+Maßnahmen:
+- K-MRT
+- Konservativ
+
+Nasenabstrich vom <[Pseudo] 28/12/2032> -LRB- B-ORG -RRB- :
+Kultureller Befund:
+K1 Staphylococcus aureus Oxacillin empfindlich
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB- .
+
+Rektalabstrich vom <[Pseudo] 28/12/2032> -LRB- B-ORG -RRB- :
+Kultureller Befund:
+Kein Nachweis von Staphylococcus aureus
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB- .
+Kein Nachweis von Vancomycin-resistenten Enterokokken
+Kein Nachweis von multiresistenten gramnegativen Stäbchen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 28/12/2032:>
+Bemerkungen: Untersuchung am Bett.
+Beurteilung:
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LVFunktion. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender TI nicht ableitbar. Erstbefund in domo.
+
+MRT-Befund vom <[Pseudo] 31/12/2032:>
+Beurteilung:
+Noch normal großer linker Ventrikel mit global grenzwertiger systolischer Funktion und normaler longitudinaler Funktion. LA dilatiert. RA und RV normal groß mit visuell guter systolischer RV-Funktion. Kein Nachweis eines Late Gadolinium Enhancement. Global grenzwertigeT1-Relaxationszeiten -LRB- T1 -UNK- 3T = 1243 -UNK- 109 ms -RRB- . Regelrechte T2-Relaxationszeiten. In den T2-Blackblood-Sequenzen kein Nachweis eines myokardialen Ödems.
+Nebenbefunde
+Degenerative Wirbelsäulenveränderungen.
+Zusammenfassung
+Noch normal großer linker Ventrikel mit global grenzwertiger systolischer Funktion -LRB- LV-EF 50% -RRB- . Nachweis einer unspezifischen umschriebenen myokardialen Fibrose inferolateral basal. Kein Nachweis eines myokardialen Ödems. MR-tomographisch kein Nachweis eines Myokardinfarktes oder einer Myokarditis. Kein Nachweis einer akuten Tako-Tsubo-CMP.
+
+
+Psychologische Testdiagnostik vom <[Pseudo] 01/01/2033:>
+
+
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte am <[Pseudo] 27/12/2032> als Übernahme aus der B-ORG I-ORG als Verbringung durch den Notarzt bei V.a. akutem Koronarsyndrom
+
+In der Chest-Pain-Unit war die Patientin asymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich der bekannte LSB idem zum Vor-EKG. Das hs-cTroponin betrug bei Aufnahme 15pg/ml, im Verlauf 37,1 pg/ml -LRB- 3h Kontrolle -RRB- , somit formal ein NSTEMI DD Typ 2 im Rahmen der hypertensiven Entgleisung.
+
+Es erfolgte die Indikationsstellung zur weitergehenden invasiven Abklärung. In der am <[Pseudo] 28/12/2032> durchgeführten Herzkatheteruntersuchung konnte eine höhergradige koronare Herzerkrankung ausgeschlossen werden. Ferner zeigte sich eine mittelgradig eingeschränkte LV-Pumpfunktion. Es ergab sich der V.a. eine Tako-Tsubo-Kardiomyopathie
+
+Zur weitergehenden Abklärung erfolgte am <[Pseudo] 31/12/2032> die Durchführung eines Kardio-MRTs. Hierbei zeigte sich ein normal großer linker Ventrikel mit global grenzwertiger systolischer Funktion -LRB- LV-EF 50% -RRB- . Es konnte eine unspezifisch umschriebene myokardiale Fibrose inferolateral basal beschrieben werden ohne Nachweis eines myokardialen Ödems. MR-tomographisch ergab sich insgesamt kein Nachweis eines Myokardinfarktes oder einer Myokarditis. Auch konnte kein Anhalt einer akuten Tako-Tsubo-CMP nachgewiesen werden. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich klinisch kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Bei hypertensiven Blutdruckwerten und Z.n. MINOCA DD NSTEMI erfolgte eine Anpassung der antihypertensiven Therapie und Optimierung der Herzinsuffizienztherapie wie unten angegeben. Wir bitten um regelmäßige Kontrollen des Blutdrucks, der Elektrolyte und Klinik mit ggf. Anpassung im Verlauf. Weiterhin fand sich laborchemisch eine Hyponatriämie welche wir a. e. im Rahmen der Diuretikaeinnahme werteten. Im weiteren stationären Verlauf normalisierte sich das Natrium. Wir bitten um regelmäßige Natriumkontrollen und ggf. weiterführende Diagnostik.
+
+Im Langzeit-EKG vom <[Pseudo] 01/01/2033> bis <[Pseudo] 02/01/2033> zeigte sich ein bradykarder Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 41/min und 95/min, im Mittel 57/min mit normaler Herzfrequenzvariabilität. Insgesamt ergab sich kein Anhalt für höhergradige Herzrhythmusstörungen oder signifikante Pausen im aufgezeichneten Langzeit-EKG.
+
+Wir empfehlen eine dauerhafte Thrombozytenaggregationshemmung mit ASS 100 mg/tägl. Des Weiteren begannen wir zur Lipidsenkung und Plaquestabilisierung eine Statin-Therapie wie unten angegeben. Darunter sollten laborchemische Kontrollen von CK- und Leberwerten erfolgen, bei Auftreten von Myopathien bitten wir um ärztliche Wiedervorstellung.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+Oral:
+ASS 100 mg 1-0-0 neu!
+Carvedilol 6,25 mg 1-0-1 neu!
+Ramipril 5 mg 1-0-1
+Amlodipin 5 mg 1-0-0 neu!
+Atorvastatin 20 mg 0-0-1 neu!
+Pantoprazol 40 mg 1-0-0
+Metformin 500 mg 1-0-1
+Novalgin 500 mg 1-0-1
+HCT 12,5 mg aktuell pausiert
+
+Subkutan:
+Insulin glargin 100IE/ml n. Schema
+
+Inhalativ:
+Symbicort 80/4,5 µg 2-0-2
+Salbutamol 100 µg/Hub 1-2x Hub/Bedarf
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der Paul-Ehrlich-Gesellschaft
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 3 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung inklusive Echokardiographie, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen die Patientin heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 27/12/2032> und dem <[Pseudo] 03/01/2033>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.82
+4 - 10 /nl
+B-DATE
+Hb
+12.9
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.4
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.390
+0,36 - 0,47 l/l
+B-DATE
+MCV
+90
+83 - 97 fl
+B-DATE
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+33
+30 - 36 g/dl
+B-DATE
+RDW
+13.4
+12,9 - 18,7 %
+<[Pseudo] 03/01/33>
+hypochr.Erythroz.
+0.4
+0 - 2 %
+<[Pseudo] 03/01/33>
+Thrombozyten
+372
+150 - 440 /nl
+<[Pseudo] 03/01/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+2.15
+1,0 - 4,8 /nl
+B-DATE
+Neutroph.G.-abs.
+5.97
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.85 !H
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.14
+- <0,5 /nl
+<[Pseudo] 28/12/32>
+Basoph.G. -LRB- abs -RRB-
+0.02
+- <0,2 /nl
+<[Pseudo] 28/12/32>
+Neutroph.G. -LRB- mech. -RRB-
+63.8
+50 - 80 %
+<[Pseudo] 28/12/32>
+Lympho -LRB- mech. -RRB-
+23.0 !L
+25 - 40 %
+<[Pseudo] 28/12/32>
+Basoph.G.
+0.2
+- <1 %
+B-DATE
+Monozyten -LRB- mech. -RRB-
+9.1 !H
+2 - 9 %
+<[Pseudo] 28/12/32>
+Eosinoph.G. -LRB- mech. -RRB-
+1.5 !L
+2 - 4 %
+<[Pseudo] 28/12/32>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+133 !L
+135 - 146 mmol/l
+<[Pseudo] 03/01/33>
+Kalium -LRB- ISE -RRB-
+4.70
+3,4 - 4,8 mmol/l
+<[Pseudo] 03/01/33>
+Calcium
+2.35
+2,11 - 2,59 mmol/l
+<[Pseudo] 28/12/32>
+Phosphat
+1.30
+0,84 - 1,45 mmol/l
+<[Pseudo] 28/12/32>
+Magnesium
+0.83
+0,75 - 1,05 mmol/l
+<[Pseudo] 30/12/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Osmolalität -LRB- Kr. -RRB-
+263 !L
+281 - 297 mOSM /kg H2O
+<[Pseudo] 28/12/32>
+Kreatinin
+0.57
+0,5 - 0,9 mg/dl
+B-DATE
+Harnstoff
+21
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+103.2
+>60 s.u.
+<[Pseudo] 03/01/33>
+MDRD
+136.87
+ml/min/1,73qm
+<[Pseudo] 28/12/32>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+41.6
+30 - 50 g/l
+<[Pseudo] 28/12/32>
+Glucose
+99
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+21
+- <37 U/l
+B-DATE
+GPT/ALT
+20
+- <35 U/l
+<[Pseudo] 27/12/32>
+Ges.Bili.
+0.40
+- <1.0 mg/dl
+B-DATE
+Triglyceride
+91
+- <150 mg/dl
+<[Pseudo] 28/12/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+204.0
+- alt.abh. mg/dl
+<[Pseudo] 28/12/32>
+Lipase
+34
+19 - 63 U/l
+<[Pseudo] 28/12/32>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 31/12/32>
+Hämolyse
+-
+
+<[Pseudo] 03/01/33>
+ikterisch
+-
+
+<[Pseudo] 03/01/33>
+Lipämie
+-
+
+<[Pseudo] 03/01/33>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+290
+- <308 U/l
+B-DATE
+CK
+189 !H
+- <170 U/l
+<[Pseudo] 27/12/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+10.6
+- <14 pg/ml
+B-DATE
+NT-BNP
+zu wenig Material
+- <125 ng/l
+<[Pseudo] 27/12/32>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+2.83
+0,400 - 4,000 mU/l
+<[Pseudo] 28/12/32>
+FT3
+2.74
+2,0 - 4,2 ng/l
+<[Pseudo] 27/12/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+FT4
+14.65
+8 - 18 ng/l
+<[Pseudo] 27/12/32>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+123.8
+70 - 125 %
+<[Pseudo] 31/12/32>
+INR - ber.
+0.93
+- <1.2
+<[Pseudo] 31/12/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+22.1
+- <35 s
+B-DATE
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.38
+7,37 - 7,45
+B-DATE
+pO2
+53
+mmHg
+B-DATE
+pCO2
+43.6
+35 - 45 mmHg
+<[Pseudo] 31/12/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-0.1
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+24.2
+mmol/l
+B-DATE
+Laktat
+6.9
+- <16 mg/dl
+B-DATE

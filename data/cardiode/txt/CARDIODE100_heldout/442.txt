@@ -1,0 +1,189 @@
+Aufnahmedatum: <[Pseudo] 2447-06-11 >
+Geburtsdatum: <[Pseudo] 2102-03-05 >
+Alter: 345
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 05/03/2102> wohnhaft in B-PLZ B-LOC B-LOC I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Erfolgreiche transfemorale Aortenklappenimplantation -LRB- Evolut R, 26 mm -RRB- am B-DATE bei kombiniertem Aortenklappenvitium mit führender hochgradiger Stenose -LRB- B-OTHER -RRB-
+-UNK- Verschluss der A. femoralis links -LRB- 14F -RRB- durch Implantation zweier gecoverter Stents -LRB- Fluency -RRB- bei Stenose nach Anlage des Proglidesystems.
+- Kardiale Dekompensation bei kombiniertem Aortenvitium kritischen Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 0,3 cm², PPG 101 mmHg, MPG 66 mmHg -RRB- -LRB- TTE <[Pseudo] 21/07/2188> -RRB-
+- Koronare Herzkrankheit ohne höhergradige Stenosen -LRB- B-OTHER vom <[Pseudo] 21/07/2188> -RRB-
+- Tachyarrhythmia absoluta, ED VHF
+-UNK- CHA2DS2-VASc Score 5
+-UNK- HAS-BLED 1
+-UNK- Beginn orale Antikoagulation mit Apixaban, Bisoprolol
+- Gute biventrikuläre Pumpfunktion -LRB- TTE vom <[Pseudo] 21/07/2188> -RRB-
+- Rheumatoide Arthritis
+- Zystische Raumforderung Ovar links: Zyste DD Tumor
+-UNK- B-DATE Empfehlung zur operativen Entfernung
+-UNK- Bislang keine OP-Freigabe bei Aortenklappenstenose
+-UNK- Gynäkologische Vorstellung empfohlen
+- Z.n. vaginaler Myomentfernung
+- Idiopathische Fazialisparese rechts <[Pseudo] 2175>
+- Osteoporose
+- Z.n. TEP Knie rechts <[Pseudo] 04/2171>
+- Z.n. TEP Knie links <[Pseudo] 2173>
+
+Allergien: keine bekannt
+Risikofaktoren: arterielle Hypertonie, Hypercholesterinämie
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte nach Einlieferung durch den Notarzt bei kardialer Dekompensation bei vorbekannter höhergradigen Aortenklappenstenose.
+Die Patientin berichtet über progrediente Belastungsdyspnoe seit Monaten, mit Exazerbation in den letzten 2 Tagen mit Sprechdyspnoe. Pectanginöse Beschwerden werden verneint. Gelegentlich bestehe orthostatischer Schwindel. Eine Gewichtszunahme sei nicht aufgefallen. Flach auf dem Rücken liegen sei nicht möglich, die Pat. schlafe auf der Seite. <[Pseudo] 2185> sei im Rahmen einer präopertiven Abklärung eine höhergradige Aortenklappenstenose aufgefallen. Damals wurde die Planung einer TAVI bei einer KÖF von 0,6 cm2 empfohlen, was von der damals kardial asymptomatischen Patientin zum besagten Zeitpunkt nicht gewünscht wurde, sodass die OP -LRB- Entfernung einer ovarialen Raumforderung -RRB- bislang nicht erfolgt ist.
+
+Bei Übernahme auf die CCU c/r stabile Pat., wach und oligosymptomatisch.
+
+Körperlicher Untersuchungsbefund:
+AZ: reduziert
+EZ: gut
+HF: TAA 150/min
+RR: 130/80mmHg
+Keine Zyanose, keine Anämiezeichen. Ausgeprägte Dyspnoe, keine Einflussstauung.
+Cor: reine, unregelmäßige HT
+Pulmo: vesikuläres AG
+Abdomen: weich, kein DS, keine Resist. lebhafte DG
+Leber/Milz: nicht vergrößert palpabel
+Periphere Ödeme: keine
+Pulsstatus: o.p.B.
+Neurol. Status: orientierend o.p.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme am <[Pseudo] 20/07/2188:>
+TAA 120/min. Indifferenztyp. QRS 100 ms, QTc 379 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S-Umschlag V3/V4. Keine S-Persistenz. Keine relevanten Kammerendteilveränderungen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 21/07/2188:>
+Normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Verminderte longitudinale Funktion. Hinweis auf diastolische LV-Dysfunktion. LA deutlich dilatiert, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens nicht einsehbar. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Aortenklappe trikuspid, deutlich verdickt und verkalkt mit verminderter Separation. Dopplersonographisch kombiniertes Aortenvitium kritischen Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 0,3 cm², PPG 101 mmHg, MPG 66 mmHg -RRB- . Mitralklappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Leichtgradige Trikuspidalkalppeninsuffizienz. Der systolische PA-Druck in Ruhe ist erhöht. -LRB- ca. 40 mmHg -RRB- .
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 21/07/2188> -RRB- :
+Befund folgt
+
+TAVI-CT vom <[Pseudo] 22/07/2188:>
+Voruntersuchung: Auswärtiges CT des Thorax vom B-DATE.
+Herz und Gefäße:
+Die Beurteilung der kritischen Gefäße im Hinblick auf die Machbarkeit des Eingriffs erfolgt separat durch die die Intervention planende Fachabteilung.
+Kleines PAU oder sehr kurzstreckige kleine Dissektion am proximalen Truncus brachiocephalicus mit 7 mm -LRB- 501/860 -RRB- .
+Keine relevanten Gefäßstenosen.
+In den kranialen Anteilen thrombosiertes Milzarterienaneurysma 13 mm -LRB- 501/266 -RRB- . Keine relevante Vasosklerose der Beckenachsen beidseits. Insgesamt, in Anbetracht des Alters, milde Vasosklerose.
+Thorax:
+Pleuraergüsse beidseits, rechts mit 5 cm, links mit 2,3 cm Saumbreite und angrenzenden Belüftungsstörungen. Milchglasartige, in den Unterlappen teilweise konsolidierende Verdichtungen -LRB- 505/38, 68 -RRB- in allen Lungenlappen mit zentraler Betonung. Keine Pleuraablösung. Cardiomegalie.
+Keine pathologisch vergrößerten Lymphknoten thorakal.
+Abdomen:
+Bekannte ringförmige Verkalkungsstruktur mit 7 mm in Segment 6 der Leber -LRB- 501 / 276 -RRB- . Im Übrigen homogenes Leberparenchym in der früharteriellen Phase. Milz nicht vergrößert. Nebennieren schlank. Nieren seitengleich kontrastiert, keine Harntransportstörung.
+Atrophes Pankreasparenchym mit gegenüber DATE unverändert erweitertem Ductus pancreaticus bis 5 mm bis an die Papille heran -LRB- 501/305 -RRB- . Gegenüber <[Pseudo] 04/2186> etwas akzentuiertere zystische Läsion im Pankreasschwanz mit 14x13 mm, zuvor 10 x 13 mm -LRB- 101/279 -RRB- .
+Anamnestisch bekannte zystische Raumforderung linksseitig im kleinen Becken mit 9,8 x 5,1 cm -LRB- 501/541 -RRB- , a.e. vom Ovar ausgehend. Verdacht auf verkalktes Uterusmyom mit 18 mm -LRB- 501/536 -RRB- . Reizlose Divertikulose.
+Keine pathologisch vergrößerten Lymphknoten abdominell. Harnblasenkatheter einliegend. Streifige Imbibierung des subcutanen Fettgewebes des proximalen Oberschenkel rechts ventral.
+Skelett:
+Degenerative Skelettveränderungen ohne suspekte ossäre Läsionen. Omarthrose beidseits, rechts betont mit Gelenkerguss und Zeichen einer sekundären Chondromatose bei eingelagerten flauen Verkalkungen -LRB- 501/17 -RRB- .
+Beurteilung
+CT vor interventionellem Klappenersatz. Die Beurteilung der kritischen Gefäße im Hinblick auf die Machbarkeit des Eingriffs erfolgt separat durch die die Intervention planende Fachabteilung.
+Kleine kurzstreckige Auffälligkeit am proximalen Truncus brachiocephalicus, kleines PAU oder kurzstreckige Dissektion möglich. Teilthrombosiertes Milzarterienaneurysma 13 mm.
+Perihilär betonte Lungeninfiltrate beidseits, in erster Linie im Rahmen Lungenödem bei auch PLeuraergüssen beidseits. Pneumonie möglich.
+Anamnestisch bekannte zystische Raumforderung links im kleinen Becken, am ehesten vom Ovar ausgehend mit 9,8 x 5,1 cm, gynäkologische Abklärung nötig.
+Zystische Pankreasschwanzläsion 13 mm.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 23/07/2188:>
+Beidseits diskrete echogemischte Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet. IMD rechts 0,09 cm, links 0,09 cm. Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar. Erstbefund in domo.
+
+Lungenfunktionsprüfung vom <[Pseudo] 23/07/2188:>
+Spirometrie:
+VC, stark reduziert,a.e. einer sehr schweren Restriktion entsprechend.
+Obstruktion anhand fehlender FEV1 nicht beurteilbar.
+Kommentar: gesamte Untersuchung nicht sicher auswertbar, da die Patientin bei starker emotionaler Belastung die Kommandos nicht ordnungsgemäß ausführen konnte.
+
+Lungenfunktionsprüfung vom <[Pseudo] 24/07/2188:>
+Bei eingeschränkter Mitarbeit, Durchführung der Untersuchung nicht möglich.
+
+Aortenklappenimplantation -LRB- B-OTHER -RRB- vom DATE:
+Interventionelle Klappenimplantation bei deutlich erhöhtem OP-Risiko für eine konventionelle Operation:
+Erfolgreiche transfemorale Implantation einer Aortenklappenbioprothese -LRB- Evolut R Klappe; 26 mm -RRB- unter
+Lokalanästhesie bei hochgradiger Aortenklappenstenose. Vorher einmalige Ballonvalvuloplastie der Aortenklappe
+mittels 20 mm Ballon unter rapid pacing. Nach Implantation Abnahme des Druckgradienten von 65mmHg auf 0mmHg. Postprocedural Aortenklappeninsuffizienz < I° -LRB- trace -RRB- .
+Verschluss der A. femoralis links -LRB- 14F -RRB- durch Implantation zweier gecoverter Stents -LRB- Fluency -RRB- bei Stenose nach Anlage des Proglidesystems.
+
+Körperlicher Untersuchungsbefund -LRB- nach TAVI -RRB- :
+RR 100/50 mmHg, HF 80/min, kein fokalneurologisches Defizit, Leiste soweit bei anliegendem DV beurteilbar unauffällig. Abdomen weich, keine Resistenzen palpabel.
+
+Ruhe-EKG nach Implantation:
+95/min, VHF, QRS 115 ms, QTc 414 ms. Diskonkordant negative T-Wellen in I, aVL
+
+Echokardiographie vom DATE:
+Angemeldet.
+
+Farbduplexsonographie der Gefäße der Leiste vom DATE:
+Angemeldet.
+
+Labor:
+Siehe ISH
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte nach Einlieferung durch den Notarzt bei kardialer Dekompensation bei vorbekannter höhergradigen Aortenklappenstenose.
+
+Es zeigte sich eine kardiale Dekompensation mit deutlich erhöhtem NT-proBNP und hydrophischer Komponente. Sonographisch zeigte sich bei Aufnahme ein Pleuraerguss rechts von ca. 2,5cm. Die initiale Sauerstoffgabe über Maske konnte rasch auf Nasenbrille deeskaliert werden. Unter vorsichtiger i.v. Furosemid-Bolusgabe konnte eine gute Diurese und rasche Rekompensation erreicht werden.
+
+Bei Erstdiagnose Vorhofflimmern begannen wir eine orale Antikoagulation mittels Apixaban in reduzierter Dosis und eine Frequenzkontrolle mittels Beta Blocker.
+
+Echokardiographisch zeigte sich eine gute systolische Pumpfunktion. Es zeigte sich ein kombiniertes Aortenvitium kritischen Schweregrades mit führender Stenose mit einer KÖF von 0,3cm² ohne weitere relevante Klappenvitien.
+
+Zur Vorbereitung auf einen Klappenersatz erfolgte eine Herzkatheteruntersuchung am B-DATE. Diese zeigte eine koronare Herzerkrankung ohne höhergradige Stenose. Aufgrund der symptomatischen hochgradigen Aortenklappenstenose erfolgte im Heart Team der Entschluss der Planung einer TAVI noch im Rahmen dieses stationären Aufenthaltes.
+
+Die Patientin wurde bei deutlich erhöhtem Risiko für eine konventionelle Operation ausführlich über die Möglichkeit einer interventionellen Klappenimplantation informiert. Zur Evaluierung der technischen Machbarkeit einer TAVI erfolgte die Durchführung einer kontrastmittelgestützten CT-Untersuchung. Nach Rücksprache mit unserem Klappen-Team wurde die technische Durchführbarkeit bestätigt.
+
+Es erfolgte eine ausführliche Aufklärung über die Risiken des geplanten Eingriffs, sowie eine Prämedikation. Ebenso erfolgte eine interdisziplinäre Besprechung mit unseren B-SALUTE der Herzchirurgie.
+
+Die präinterventionellen Untersuchungen zur Risikoevaluation ergaben keine höhergradigen Stenosen im Bereich der Carotiden. Die Lungenfunktion konnte bei psychisch und physisch deutlich angestrengter Patientin in mehrmaligen Versuchen nicht durchgeführt werden.
+
+Die transfemorale Implantation einer Evolut R-Bioprothese -LRB- 26 mm -RRB- am <[Pseudo] 28/07/2188> verlief komplikationslos. Bei Nachblutung der linken Leiste wurden 2 gecoverten Stents implantiert. Es erfolgte ein Loading mittels ASS 500 mg, und Clopidogrel 300 mg.
+Bei Übernahme aus dem Herzkatheterlabor auf die kardiologische Wachstation spontan-atmende, beschwerdefreie Patientin. Es erfolgte eine periinterventionelle Antibiose mittels Cefuroxim.
+Laborchemisch fiel bereits präinterventionell ein kontinuierlicher Hb-Abfall seit Aufnahme auf -LRB- 13 g/dl auf 8g /dl -RRB- . In der postinterventionellen Kontrolle -LRB- nach TAVI -RRB- zeigte sich der Hb stabil. Die orale Antikoagulation sollte erst nach FDS wiederbegonnen werden. Ggf Gastroskopie und Koloskopie ergänzen.
+
+Der prophylaktisch angelegte passagere Schrittmacher konnte am <[Pseudo] 29/07/2188> entfernt werden, bis zu diesem Zeitpunkt zeigte sich die Pat. durchgehend rhythmusstabil.
+
+Bei Z. n. TAVI und Covered-Stentimplantation sowie bei VHF empfehlen wir bis zur Entlassung zunächst eine Tripletherapie mit ASS, Clopidogrel und Apixaban 2x 2,5 mg -LRB- adaptiert an Alter und Gewicht -RRB- . Anschließend bitten wir um Fortführung als duale Therapie bestehend aus Apixaban 2,5 mg 2x tgl und Clopidogrel 75mg 1x tgl bis B-DATE. Ab dem <[Pseudo] 29/07/2189> ist eine alleinige Antikoagulation mittels Apixaban ausreichend. Auf die Bedeutung einer lückenlosen Einnahme wurde explizit hingewiesen. Der Patientin wurde ein Implantatausweis ausgehändigt. Sie wurde über notwendige Verhaltensanweisungen informiert.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir verlegen die kardiorespiratorisch stabile Patientin am <[Pseudo] 29/07/2188> im Hause.
+
+Procedere:
+- Monitor weiter
+- Gemäß TAVI SOP
+- Hb-Kontrolle am <[Pseudo] 29/07/2188> gegen 18 Uhr
+- Echo
+- FDS, danach Wiederbeginn Apixaban
+- LZ-EKG
+- Termin in der B-ORG I-ORG I-ORG in 6 Monaten vereinbaren
+- Lebenslange Endokarditisprophylaxe
+
+Aktuelle Therapie:
+ASS 100mg 1-0-0 bis Entlassung
+Clodipogrel 75mg 1-0-0 für 12 Monate bis einschließlich <[Pseudo] 28/07/2189>
+Apixaban 2,5mg Pause Wiederbeginn erst nach Leistensonographie
+Bisoprolol 2,5 mg 1-0-1
+Amlodipin 5 mg 1-0-0
+Ramipril 2,5 2-0-1/2
+Atorvastatin 10 mg 0-0-1
+Calcium 500 mg 1-0-0
+Esomeprazol 40 mg 0-0-1
+Opipramol 50 mg 0-0-1
+Prednisololon 5 mg -UNK- -0-0
+Hydroxychloroquin 200 mg 1-0-0
+Urtimed 10mg 0-0-1
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der B-ORG I-ORG I-ORG I-ORG -LRB- http://leitlinien.dgk.org -RRB- .
+
+Zur Endokarditisprophylaxe empfehlen wir eine gute Mundhygiene und regelmäßige zahnärztliche Kontrollen. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o. oder i.v. -RRB- oder bei Penicillinallergie mit Clindamycin -LRB- 600 mg p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel. B-PHONE -RRB- .
+
+Wir bedanken uns für die Übernahme und verbleiben
+mit freundlichen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Stationsarzt
+
+
+B-TITLE I-TITLE B-PER I-PER
+Funktionsoberarzt

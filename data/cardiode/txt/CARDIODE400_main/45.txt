@@ -1,0 +1,473 @@
+Aufnahmedatum: <[Pseudo] 2472-09-15 >
+Geburtsdatum: <[Pseudo] 2079-08-26 >
+Alter: 393
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 26/08/2079> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Pseudoaneurysma der proximalen rechten AFS von ca. 5 mm nach antegrader BBA am <[Pseudo] 01/04/63> -LRB- CTA -RRB-
+-UNK- Großes Hämatom von 14 x 4 x 15 cm in der rechten Leiste
+- ED Vorhofflimmern -LRB- <[Pseudo] 12/04/2163> -RRB-
+-UNK- EHRA: III
+-UNK- CHA2DS2-VASc: 5
+-UNK- HAS-BLED: 2
+-UNK- Erfolgreiche pharmakologische Kardioversion am <[Pseudo] 13/04/2163>
+
+Diagnosen:
+- pAVK Stadium III rechts führend mit livider Verfärbung DIII rechts
+-UNK- Becken-Bein-Angiographie -LRB- B-OTHER -RRB- vom <[Pseudo] 01/04/2163:>
+-UNK- Erfolgreiche Rekanalisation der im mittleren Segment verschossenen A. tibialis anterior mittels PTA, anschließend ein 3-Gefäß-Abstrom.
+-UNK- Weiterhin zeigte sich eine deutlich veränderte A. tibialis posterior.
+- Empfehlung zur weiterführenden kardiologischen Diagnostik
+- Z. n. 3-maliger TVT um <[Pseudo] 2130>
+-UNK- Antikoagulation mit Marcumar seit ca. <[Pseudo] 2137>
+- Z. n. distaler Radiusfraktur rechts
+- Z. n. Fixateur externe und Wechsel auf volare Platte am <[Pseudo] 18/10/2153>
+- Z. n. Achillessehnenruptur <[Pseudo] 10/2153>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, ehemaliger Nikotinabusus -LRB- karent seit B-YEAR kumulativ 20 PY -RRB-
+Allergien: Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei plötzlich aufgetretenen Schmerzen in der rechten Leiste mit vegetativer Begleitreaktion und initialer Hypotonie.
+Die initiale Vorstellung sei in der Gefäßchirurgie nach Vorstellung via Notarzt erfolgt. Durch den Notarzt sei eine Analgesie mit Dipidolor 15 mg mit nachfolgend beginnender Vigilanzminderung bei Ankunft in der chir. Ambulanz erfolgt. Dort sei sonographisch der V.a. A. spurium aufgestellt worden und anschließend eine CT-A mit Ausschluss einer akuten Blutung durchgeführt worden. Bei Vorstellung in unserer B-ORG I-ORG bereits angelegter Druckverband bei kardiorespiratorisch stabiler, oligosymptomatischer Patientin. Die Patientin habe am <[Pseudo] 01/04/2163> eine Beckenbeinangiographie in domo gehabt. Ansonsten bestehe ein kardial stabiler Zustand ohne Dyspnoe oder pectanginösen Beschwerden soweit bei eingeschränkter Belastbarkeit aufgrund pAVK beurteilbar. Palpitationen und stattgehabte Synkopen werden verneint. Die häuslichen Blutdruckmessungen ergäben Werte um 120/80 mmHg. Es bestehe Nykturie mit ca. 1-facher Miktion pro Nacht. Knöchelödeme sind beidseits vorhanden und seit Jahren konstant.
+
+Medikation bei Aufnahme:
+Marcumar Ziel-INR 2,5 - 3,5
+Clopidogrel 75 mg 1-0-0 bis einschl. <[Pseudo] 02/05/2163>
+Metoprolol 47,5 mg 1-0-0
+Atorvastatin 20 mg 0-0-1
+Allopurinol 300 mg 0-0-1
+Pantoprazol 40 mg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: reduziert
+EZ: gut -LRB- Größe: 168 cm, Gewicht: 80 kg -RRB-
+HF: 64/min, regelmäßig
+RR: 124/72 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: prätibial und malleolar beidseits
+Pulsstatus: A. radialis bds. tastbar,
+A. tibialis anterior, A. dorsalis pedis links tastbar.
+A. tibialis anterior und A. doraslis pedis links nicht tastbar.
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: Ausgeprägtes bereits livide gefärbtes Hämatom in der rechten Leiste und dem rechten Oberschenkel. Oberschenkel weich, Pulsation über Punktionsstelle tastbar. Keine Hautläsionen. Einstichstelle reizlos. ATA rechts tastbar.
+
+Ruhe-EKG bei Aufnahme:
+Normofrequenter Sinusrhythmus, regelmäßig, Herzfrequenz 66/min, Linkstyp. PQ 140 ms, QRS 90 ms, QTc 437 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Erregungsrückbildungsstörungen.
+
+CT-Angio Becken-Bein nativ und mit Kontrastmittel vom <[Pseudo] 07/04/2163:>
+CT Multiplanare Rekonstruktion -LRB- en -RRB- vom <[Pseudo] 07/04/2163:>
+Zum Vergleich liegt keine Voruntersuchung vor.
+Befund:
+Deutliche Atherosklerose. Iliacalachsen beidseits frei kontrastiert.
+Rechts:
+Großes Hämatom von ca. 14,1 x 4 cm subkutan in der rechten Leiste -LRB- 8-108 -RRB- mit kraniokaudal ca. 15 cm Ausdehnung. Kleine Kontrastmittel-Ausstülpung der proximalen rechten AFS von ca. 5 mm nach ventral -LRB- 7-105 -RRB- mit leichter Zunahme in der venösen und spätvenösen Phase -LRB- 8-93 und 9-92 -RRB- .
+Freie Kontrastierung der AFS im weiteren Verlauf. Rechte Arteria poplitea im P3 Segment etwas schlechter kontrastiert als die Gegenseite. Deutliche Kalklast der Unterschenkelarterien mit konsekutiv eingeschränkter Beurteilbarkeit. Allenfalls flaue Kontrastierung der proximalen Unterschenkelarterien. ATA und ATP verdämmern im mittleren Unterschenkeldrittel. Arteria fibularis verdämmert im distalen Unterschenkeldrittel. Rekontrastierung der rechten Arteria dorsalis pedis ab den Ossa metatarsalia -LRB- 7, 521 -RRB- , am ehesten über Kollateralen.
+Links:
+AFS frei kontrastiert. Proximal noch flaue Kontrastierung der drei Unterschenkelarterien, die ATP und ATA verdämmern im mittleren Unterschenkeldrittel. Arteria fibularis bis distal kontrastiert, Verdämmerung im distalen Unterschenkeldrittel.
+Ödematöse Einlagerungen subkutan entlang der Unterschenkel beidseits, geringer auch entlang der Oberschenkel.
+Keine freie Flüssigkeit intraabdominell, axiale Hiatushernie. Darüber hinaus im Nativ- in arterieller Phase unauffällige Darstellung der weiteren Bauchorgane. Dorsobasale Dystelektasen beidseits. Degenerative Skelettveränderungen. Eindruck der Osteopenie. Sklerosierungen an der Symphyse.
+Umschriebene popcornartige Sklerosierung der distalen linken Femurdiaphyse -LRB- 11-91 -RRB- , keine Periostreaktion, keine endosteales Scalloping, DD Enchondrom.
+Beurteilung:
+-UNK- Großes Hämatom von 14 x 4 x 15 cm in der rechten Leiste mit kleinem Pseudoaneurysma der proximalen rechten AFS von ca. 5 mm.
+-UNK- Rechter Unterschenkel ab dem P3 Segment schlechter kontrastiert als links, a.e. phasenbedingt.
+-UNK- Deutliche Kalklast der Unterschenkelarterien mit Verdämmern von ATP und ATA beidseits im mittleren Unterschenkeldrittel. A. fibularis verdämmert beidseits im distalen Unterschenkeldrittel.
+
+Farbduplexsonographie der Gefäße der rechten Leiste vom <[Pseudo] 08/04/2163:>
+Anamnese:
+Z.n. BBA am DATE, am Wochenende plötzlich einschießender Schmerz re Leiste, Angio-CT: Pseudoaneurysma AFS re, gestern manuelle Kompression sowie Druckverband durchgeführt
+
+Lokalbefund: Ausgeprägtes Hämatom rechte Leiste bis in den OS und die rechte Flanke ziehend
+
+Ausgeprägtes oberflächliches Hämatom bis in die rechte Flanke ziehend. Eingeschränkte Schallbedingungen. Soweit beurteilbar: Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle in der rechten Leiste. Keine Hinweise für eine aktive Blutung, eine Sickerblutung kann sonographisch nicht ausgeschlossen werden.
+
+Angiologie vom <[Pseudo] 09/04/2163:>
+Anamnese:
+Z.n. BBA am DATE, am Wochenende plötzlich einschießender Schmerz re Leiste, Angio-CT: Pseudoaneurysma AFS re, vorgestern manuelle Kompression sowie Druckverband durchgeführt
+
+Lokalbefund: Ausgeprägtes Hämatom rechte Leiste bis in den OS und die rechte Flanke ziehend
+
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Ausgeprägtes oberflächliches Hämatom bis in die rechte Flanke ziehend. Eingeschränkte Schallbedingungen.
+Soweit beurteilbar: Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle in der rechten Leiste. Keine Hinweise für eine aktive Blutung, eine Sickerblutung kann sonographisch nicht ausgeschlossen werden.
+
+Angiologie vom <[Pseudo] 10/04/2163:>
+Anamnese:
+Z.n. BBA am DATE, am Wochenende plötzlich einschießender Schmerz re Leiste, Angio-CT: Pseudoaneurysma AFS re, am <[Pseudo] 08/04/2163> manuelle Kompression sowie Druckverband durchgeführt, hiernach gestern kein Nachweis eines Aneurysma bei ausgeprägten oberflächlichen Hämatom. Seit heute Antikoagulation. Keine Schmerzen.
+
+Lokalbefund: Ausgeprägtes Hämatom rechte Leiste bis in den OS und die rechte Flanke ziehend
+
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle in der rechten Leiste. Keine Hinweise für eine aktive Blutung, eine Sickerblutung kann sonographisch nicht ausgeschlossen werden.
+
+Ruhe-EKG vom <[Pseudo] 13/04/2163:>
+Tachykard übergeleitetes Vorhofflimmern, 136/min, Linkstyp. QRS 92 ms, QTc 388 ms. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Ruhe-EKG vom <[Pseudo] 14/04/2163:>
+Normofrequenter Sinusrhythmus, regelmäßig, 75/min, Indifferenztyp. PQ 137 ms, QRS 98 ms, QTc 422 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 08/04/2163> und dem <[Pseudo] 13/04/2163>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+12.48 !H
+4 - 10 /nl
+B-DATE
+Hb
+8.4 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+2.6 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.260 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+98 !H
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 13/04/63>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 13/04/63>
+RDW
+17.1
+12,9 - 18,7 %
+<[Pseudo] 13/04/63>
+hypochr.Erythroz.
+6.0 !H
+0 - 2 %
+<[Pseudo] 13/04/63>
+Thrombozyten
+387
+150 - 440 /nl
+<[Pseudo] 13/04/63>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+142
+135 - 146 mmol/l
+<[Pseudo] 13/04/63>
+Kalium -LRB- ISE -RRB-
+4.19
+3,4 - 5,0 mmol/l
+<[Pseudo] 13/04/63>
+Calcium
+2.20
+2,11 - 2,59 mmol/l
+<[Pseudo] 13/04/63>
+Kreatinin
+0.71
+0,5 - 1,4 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+35
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+79.0
+>60 s.u.
+B-DATE
+MDRD
+66.78
+ml/min/1,73qm
+<[Pseudo] 08/04/63>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+32.4
+30 - 50 g/l
+B-DATE
+Glucose
+112 !H
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+67 !H
+- <35 U/l
+B-DATE
+GGT
+23
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.60
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+4.3
+- <6 mg/dl
+B-DATE
+Triglyceride
+181 !H
+- <150 mg/dl
+B-DATE
+Cholesterin
+137.0
+- alt.abh. mg/dl
+<[Pseudo] 08/04/63>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+69
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+32 !L
+>50 mg/dl
+B-DATE
+CRP
+43.7 !H
+- <5 mg/l
+B-DATE
+PCT sens.
+0.05 !H
+- <0,05 ng/ml
+<[Pseudo] 13/04/63>
+Hämolyse
+-
+
+<[Pseudo] 13/04/63>
+ikterisch
+-
+
+<[Pseudo] 13/04/63>
+Lipämie
+-
+
+<[Pseudo] 13/04/63>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+196
+- <301 U/l
+B-DATE
+CK
+104
+- <170 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+38.6 !H
+- <14 pg/ml
+<[Pseudo] 08/04/63>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+6.5 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+48 !H
+20 - 42 mmol/mol
+B-DATE
+mittlere Glucose
+140 !H
+- <110 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+4.18 !H
+0,400 - 4,000 mU/l
+B-DATE
+FT3
+2.00
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+12.07
+8 - 18 ng/l
+B-DATE
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+47.3 !L
+70 - 125 %
+<[Pseudo] 09/04/63>
+INR - ber.
+1.46 !H
+- <1.2
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+23.5
+- <35 s
+B-DATE
+Anti-Xa /LMWH
+0.47
+0,3 - 1,1 U/ml
+B-DATE
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH venös
+Kein Material
+7,37 - 7,43
+B-DATE
+pH
+7.43
+7,37 - 7,45
+B-DATE
+pO2
+41
+mmHg
+B-DATE
+pCO2
+36.6
+35 - 45 mmHg
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-0.3
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+24.0
+mmol/l
+B-DATE
+Laktat
+13.3
+- <16 mg/dl
+<[Pseudo] 12/04/63>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte am <[Pseudo] 07/04/2163> über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei einem Pseudoaneurysma der proximalen rechten AFS von ca. 5 mm nach antegrader BBA am <[Pseudo] 01/04/63> -LRB- CTA -RRB- .
+
+Die Vorstellung erfolgte durch die ORG der Gefäßchirurgie nach Vorstellung via Notarzt bei plötzlich aufgetretenen Schmerzen in der rechten Leiste mit vegetativer Begleitreaktion und initialer Hypotonie.
+
+Elektrokardiographisch zeigten sich keine akuten infarkttypischen Ischämiezeichen. Nach Gabe von 500 ml Sterofundin -LRB- Notarzt/Chir. Ambulanz -RRB- erfolgte ein Hb-Abfall um 1 Punkt innerhalb von 2 h, der a. e. im Rahmen einer Verdünnung mit Sterofundin zu werten war. Es erfolgte zudem die Anlage eines Druckverbandes.
+
+In der angiologischen Kontrolle am <[Pseudo] 08/04/2163> zeigte sich bei eingeschränkten Schallbedingungen kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle in der rechten Leiste. Das rechte Bein wurde gewickelt. In der am Folgetag erfolgten angiologischen Verlaufskontrolle zeigte sich kein durchgreifender Befundwandel, sodass bei stabilem Hb-Wert die Antikoagulation erneut aufgenommen wurde.
+
+Nach RS B-TITLE B-PER empfehlen wir zur Stentverschlussprophylaxe eine Thrombozytenaggregationshemmung aus Clopidogrel 75 mg tägl. in Kombination mit niedermolekularem Heparin in gewichtsadaptierter Dosis 2x tägl. Wir bitten um eine Evaluation der oralen Antikoagulation und bitten ggf. um Fortführung der oralen Antikoagulation mit einem NOAK. Nach Wiederaufnahme der Vollantikoagulation zeigte sich der Hb-Wert stabil.
+
+Bei zunehmender Schwellung, Rötung und Druckdolenz nach Wiederaufnahme der Antikoagulation veranlassten wir erneut eine angiologische Verlaufskontrolle. Hierbei konnte kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle in der rechten Leiste und keine Hinweise für eine aktive Blutung dargestellt werden. Bei laborchemischer Entzündungskonstellation mit niedrigem PCT und ausgeprägten Leistenbeschwerden leiteten wir eine antiinflammatorische und analgetische Therapie mit Novalgin ein. Wir bitten um Fortführung der Therapie für 10 Tage, danach bitten wir um eine laborchemische Verlaufskontrolle der Entzündungsparameter durch den Hausarzt.
+
+Am <[Pseudo] 12/04/2163> kam es zu einer weiteren Zunahme der Schwellung an der rechten Leiste mit Schmerzexazerbation, sodass eine manuelle Kompression von 15 Minuten mit anschließender Anlage eines Druckverbandes erfolgte. Am Folgetag zeigte sich die Schwellung rückläufig, sodass der Druckverband entfernt werden konnte.
+
+Am selben Tag zeigte sich elektrokardiographisch ein erstmals dokumentiertes Vorhofflimmern. Wir veranlassten am <[Pseudo] 13/04/2163> nach oberärztlicher RS einen pharmakologischen Kardioversionsversuch mit Cordarex als Kurzinfusion. Nachfolgend zeigte sich am Folgetag ein normofrequenter Sinusrhythmus. Bei Vorhofflimmern und einem CHA2DS2VASc-Score > 2 empfehlen wir die Weiterführung der oralen Antikoagulation.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin am <[Pseudo] 14/04/2163> in Ihre geschätzte ambulante Betreuung.
+
+Wir empfehlen regelmäßige Kardiologische/Angiologische Kontrollen durch die betreuende B-SALUTE B-SALUTE B-TITLE B-PER B-PER
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Oral
+Clopidogrel 75 mg 1-0-0 weiter, bis einschl. <[Pseudo] 02/05/2163>
+Metoprolol 47,5 mg 1-0-0
+Atorvastatin 20 mg 0-0-1
+Allopurinol 300 mg 0-0-1
+Novalgin 1 g 1-1-1-1 neu, bis zum <[Pseudo] 24/04/2163>
+Pantoprazol 40 mg 1-0-0
+Marcumar Ziel-INR 2,5 - 3,5 abgesetzt, ggf. Reevaluation eines NOAK!
+
+Subkutan
+Clexane 0,8 ml 1-0-1 neu!
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

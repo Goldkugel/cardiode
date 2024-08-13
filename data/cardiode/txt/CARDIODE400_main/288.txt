@@ -1,0 +1,470 @@
+Aufnahmedatum: <[Pseudo] 2035-02-18 >
+Geburtsdatum: <[Pseudo] 2010-09-27 >
+Alter: 24
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 27/09/2010> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Peri-Myokarditis a. e. nach Biontec Impfung
+-UNK- MR tomographisch gute systolische Pumpfunktion -LRB- 62% -RRB- ohne relevante Hypokinesie -LRB- vorläufiger Kardio MRT Befund v. <[Pseudo] 12/02/2035> -RRB-
+
+- keine relevanten Vorerkrankungen
+
+Kardiovaskuläre Risikofaktoren: keine
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die Einweisung erfolgte durch den Hausarzt bei V.a. Myokarditis. Z.n. zweiter Biontec-Impfung gegen Sars-CoV2 am DATE, danach zunächst zu erwartende Impfreaktion mit leicht grippaler Symptomatik, dann aber auch Durchfällen seit dem <[Pseudo] 02/02/35> bis zum Aufnahmetag zwar gebessert, aber noch persistierend. Sechs Tage danach atypischer Thoraxschmerz -LRB- stechend, linksthorakal -RRB- . Zuvor Übelkeit. Aktuell gibt der Patient keine Beschwerden an. Keine Dyspnoe, keine typische AP-Symptomatik. Kein Schwindel, keine Palpitationen oder Synkope.
+
+Medikation bei Aufnahme:
+keine
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: schlank -LRB- 180cm, 58 kg -RRB-
+HF: 75/min, regelmäßig
+RR: 110/60 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: unauffällig
+Neurol. Status: unauffällig
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+Normofrequenter Sinusrhythmus, Herzfrequenz 85/min, Indifferenztyp. Zeiten im Normbereich. Keine relevanten Erregungsrückbildungsstörungen.
+
+Ruhe-EKG am <[Pseudo] 12/02/2035>
+Normofrequenter Sinusrhythmus, Herzfrequenz 79/min., Indifferenztyp, negatives P in I, PQ-Zeit: 140ms, QRS-Komplex: 97ms, QTC: 413ms, keine relevanten Erregungsrückbildungsstörungen.
+
+Ruhe-EKG vom <[Pseudo] 13/02/2035>
+Normofrequenter Sinusrhythmus, Herzfrequenz 59/min. Indifferenztyp, PQ-Zeit: 144ms, QRS-Komplex: 121ms, QTC: 391ms, keine relevanten Erregungsrückbildungsstörungen.
+
+Ruhe-EKG vom <[Pseudo] 14/02/2035>
+Normofrequenter Sinusrhythmus, Herzfrequenz 70/min. Steiltyp, PQ-Zeit: 136ms, QRS-Komplex: 108ms, QTC: 386ms, keine relevanten Erregungsrückbildungsstörungen.
+
+Echokardiographie vom <[Pseudo] 11/02/2035:>
+Notfallmäßige Untersuchung am Bett in der kardiologischen Notaufnahme.
+Normal großer linker Ventrikel mit leichtgradig reduzierter systolischer Pumpfunktion bei diskreter Hypokinesie der Vorderwand -LRB- betont anterolateral sowie anterior -RRB- . Erhaltene longitudinale Funktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht ableitbar.
+Erstbefund in domo.
+
+Langzeit-EKG vom <[Pseudo] 12/02/2035:>
+Normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 47/min und 112/min, im Mittel 72/min. Normale Herzfrequenzvariabilität. Keine supraventrikulären Extrasystolen. Keine Pausen. Vereinzelte polymorphe ventrikuläre Extrasystolen. Lown III a.
+
+Kardio MRT Befund vom <[Pseudo] 12/02/2035:>
+Befund ausstehend
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2034> und dem B-DAY B-MONTH <[Pseudo] 2034>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.05
+4 - 10 /nl
+B-DATE
+Hb
+13.4
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.4
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.390
+0,38 - 0,52 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+B-DATE
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+34
+30 - 36 g/dl
+B-DATE
+RDW
+12.6 !L
+12,9 - 18,7 %
+<[Pseudo] 15/02/35>
+hypochr.Erythroz.
+0.8
+0 - 2 %
+B-DATE
+Thrombozyten
+385
+150 - 440 /nl
+B-DATE
+Lympho -LRB- abs. -RRB-
+2.58
+1,0 - 4,8 /nl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Neutroph.G.-abs.
+6.95
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.10 !L
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0
+- <0,5 /nl
+<[Pseudo] 12/02/35>
+Basoph.G. -LRB- abs -RRB-
+0
+- <0,2 /nl
+<[Pseudo] 12/02/35>
+Stabkern.G.-man.
+8
+3 - 10 %
+<[Pseudo] 12/02/35>
+Metamyelo. -LRB- man. -RRB-
+0
+- 0 %
+<[Pseudo] 12/02/35>
+Normobl. -LRB- man. -RRB-
+0
+- <1 /100 Leuko
+<[Pseudo] 12/02/35>
+Blasten -LRB- man. -RRB-
+0
+- 0 %
+<[Pseudo] 12/02/35>
+Promyeloz. -LRB- man. -RRB-
+0
+- 0 %
+<[Pseudo] 12/02/35>
+Plasmaz. -LRB- man. -RRB-
+0
+- 0 %
+<[Pseudo] 12/02/35>
+Kernschatten
+0
+- 0 %
+<[Pseudo] 12/02/35>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 15/02/35>
+Kalium -LRB- ISE -RRB-
+4.27
+3,4 - 4,6 mmol/l
+<[Pseudo] 15/02/35>
+Calcium
+2.36
+2,11 - 2,59 mmol/l
+<[Pseudo] 15/02/35>
+Kreatinin
+0.99
+0,6 - 1,2 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+25
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+106.2
+>60 s.u.
+B-DATE
+MDRD
+100.61
+ml/min/1,73qm
+<[Pseudo] 12/02/35>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+45.9
+30 - 50 g/l
+<[Pseudo] 12/02/35>
+Glucose
+84
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+20
+- <46 U/l
+B-DATE
+GPT/ALT
+19
+- <50 U/l
+B-DATE
+GGT
+15
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.80
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+5.4
+- <7 mg/dl
+B-DATE
+Triglyceride
+147
+- <150 mg/dl
+<[Pseudo] 12/02/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+110.0
+- alt.abh. mg/dl
+<[Pseudo] 12/02/35>
+LDL-Chol. -LRB- berechn. -RRB-
+57
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+24 !L
+>40 mg/dl
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 14/02/35>
+Hämolyse
+-
+
+<[Pseudo] 15/02/35>
+ikterisch
+-
+
+<[Pseudo] 15/02/35>
+Lipämie
+-
+
+<[Pseudo] 15/02/35>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+282
+- <316 U/l
+B-DATE
+CK
+45
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+9.12
+- <14 pg/ml
+B-DATE
+NT-BNP
+151 !H
+- <125 ng/l
+<[Pseudo] 11/02/35>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+4.6
+- <6,1 %
+<[Pseudo] 12/02/35>
+HbA1c -LRB- IFCC -RRB-
+27
+20 - 42 mmol/mol
+<[Pseudo] 12/02/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+85
+- <110 mg/dl
+<[Pseudo] 12/02/35>
+TSH
+0.880
+0,400 - 4,000 mU/l
+<[Pseudo] 12/02/35>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+88.1
+70 - 125 %
+<[Pseudo] 12/02/35>
+INR - ber.
+1.07
+- <1.2
+<[Pseudo] 12/02/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+24.5
+- <35 s
+<[Pseudo] 12/02/35>
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+7.00
+6,0 - 8,0
+<[Pseudo] 11/02/35>
+SpezGew/Tstr.
+1012
+1001 - 1035
+<[Pseudo] 11/02/35>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 11/02/35>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 11/02/35>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 11/02/35>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 11/02/35>
+Eiweiß/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 11/02/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 11/02/35>
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 11/02/35>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+<[Pseudo] 11/02/35>
+Erys/µl
+1.0
+- <8 /µl
+B-DATE
+Leuko/µl
+3.0
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+<[Pseudo] 11/02/35>
+
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte bei atypischem Thoraxschmerz und Unwohlsein nach stattgehabter Biontec Impfung. Bei laborchemisch bestehendem Myoakardschaden erfolgte die stationäre Aufnahme auf unsere B-ORG B-ORG bei V.a. Myokarditis. Am <[Pseudo] 12/02/35> wurde ein Kardio MRT durchgeführt, dort zeigte sich nach eine gute systolische Pumpfunktion ohne relevante Hypokinesien sowie das Bild einer akuten Perimyokarditis. Bei MR-tomographisch guter systolischer Pumpfunktion, fallendem hsTnT und nach RS Karditis Team -LRB- B-PER -RRB- erfolgte eine Myokardbiopsie und kein beginn einer antiinflammatorischen Therapie.
+
+Es erfolgte die Meldung des Falls an das PEI sowie das zuständige Gesundheitsamt. Auf ein sportverbot wurde der Patient ausführlich hingewiesen. Wir terminierten einen MRT Kontrolltermin nach oberärztlicher Maßgabe wie unten beschrieben.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen den Patienten kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+Procedere/Termine:
+- Sportverbot für 6 Monate bei Perimyokarditis
+- Erneutes LZ EKG im ambulanten Setting
+- Verlaufskontrolle in unserer Herzinsuffizienzambulanz in 6 Monaten
+-UNK- <[Pseudo] 05/08/2034> um 14:45 Uhr K MRT Termin
+-UNK- <[Pseudo] 19/08/2034> um 11: 30 Uhr
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Keine.
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Stationsarzt

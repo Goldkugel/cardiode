@@ -1,0 +1,367 @@
+Aufnahmedatum: <[Pseudo] 2039-10-12 >
+Geburtsdatum: <[Pseudo] 1968-05-22 >
+Alter: 71
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 22/05/1968> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Koronare 2-Gefäßerkrankung der LCX und RCA mit mittelgradig reduzierter linksventrikulärer Pumpfunktion
+-UNK- Erfolgreiche PTCA/1-fach DE-Stentimplantation einer autokollateralisierten und über die LCX kollateralisierten CTO der medialen RCA, bei deutlich erschwertem Guiding über Radialiszugang zunächst Abbruch -LRB- B-OTHER vom <[Pseudo] 05/10/2039> -RRB-
+-UNK- Hochgradige Abgangsstenose des Ramus marginalis
+-UNK- Erfolgreiche PTCA/3-fach DES -LRB- Promus -RRB- einer filiformen hochgradigen Stenose der RCA -LRB- B-OTHER vom <[Pseudo] 08/10/2039> -RRB-
+-UNK- Ad PCI der LCX im Verlauf
+- ED Paroxysmales Vorhofflimmern
+-UNK- EHRA IIb
+-UNK- CHA2DS2 VASc Score 2
+-UNK- HAS BLED Score 2
+-UNK- Beginn orale Antikoagulation mit Eliquis -LRB- <[Pseudo] 09/2039> -RRB-
+-UNK- Erfolgreiche elektrische Kardioversion bei Vorhofflimmern -LRB- 1x120 J, biphasisch, synchron -RRB- am <[Pseudo] 02/10/2039>
+- Kardiale Dekompensation a. e. unter Tachyarrhythmia absoluta
+-UNK- Erfolgreiche Negativbilanzierung mittels oraler diuretischer Medikation
+- AV-Block °I
+- Hypertensive Herzerkrankung
+
+Diagnosen:
+- Hemicolektomie rechts, B-ORG <[Pseudo] 07/2033>
+- Indikation zu einer adj. Chemotherapie FolFox Therapie
+- Kein Hinweis auf Tumoraktivität <[Pseudo] 11/2038>
+- Anamnest. Z.n. Lungen-OP vor ca. 15 Jahren
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Nikotinanamnese: früher, Packyears: 50
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte als Selbstvorstellung über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei symptomatischem Vorhofflimmern.
+Anamnestisch bestanden seit ca. 2 Wochen Palpitationen, sowie eine eingeschränkte Belastbarkeit mit Belastungsdyspnoe gemäß NYHA II-III. Keine belastungsinduzierten pectanginösen Beschwerden. Zuvor gute allgemeine Belastbarkeit bei allerdings fehlender Ausbelastung. Keine peripheren Ödeme. Kein Schwindel, keine stattgehabten Synkopen. Kein Hinweis auf einen akuten Infekt. Die häuslichen Blutdruckmessungen seien um ca. 140/90 mmHg.
+
+Medikation bei Aufnahme:
+Ramipril 5 mg 1-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: adipös
+HF: 140/min, regelmäßig
+RR: 148/96 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig.
+HT: rein, keine patholog. Geräusche
+Lunge: bds. frei
+Periphere Ödeme: keine
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe EKG vor Kardioversion:
+Vorhofflattern, Herzfrequenz 140/min, Steiltyp, inkompletter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen, T Negativierung in aVL.
+
+Transösophageale Echokardiographie vom <[Pseudo] 02/10/2039:>
+Kein Nachweis intrakardialer Thromben, insbesondere Vorhofohr und Dach frei. Reduzierte Flussgeschwindigkeiten im linken Vorhofohr und Nachweis von Spontankonstrast. Dopplersonographisch Hinweis auf persistierendes foramen ovale. Aorta desscendens mit max. 5 mm dickem Plaque 35 cm ab Zahnreihe, Aorta ascendes und Bogen - soweit einsehbar - regelrecht.
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit hochgradig verminderter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte unter laufender TAA. Hinweis auf signifikante diastolische LV-Dysfunktion. LA, RA und RV dilatiert, reduzierte RV-Funktion. Aortenwurzel normal weit. Aorta ascendens und Aortenbogen, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior gestaut, wenig atemvariabel. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Leichtgradige Mitral- und Trikuspidalinsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe leicht erhöht -LRB- ca. 40 mmHg -RRB- .
+
+Elektrische Kardioversion vom <[Pseudo] 02/10/2039:>
+Befund:
+Erfolgreiche elektrische Kardioversion bei Vorhofflimmern -LRB- 1x120 J, biphasisch, synchron -RRB- . Nachfolgend Sinusrhythmus.
+
+Medikamente während Kardioversion:
+Piritramid 7,5mg + Etomidat 2 mg/ml - 5 ml um 18:11 Uhr
+
+Sonstige Bemerkungen:
+SaO2 vor und nach CV 98-100%, Präoxygenierung mit 8 l/min O2 über Insufflationsmaske.
+
+Ruhe EKG nach Kardioversion:
+Tachykarder Sinusrhythmus, regelmäßig, 100/min, Steiltyp. PQ 243 msec, QRS 109 msec, QTc 385 msec. Verzögerte R-Progression, R/S-Umschlag in V5/V6. Keine signifikanten Kammerendteilveränderungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 05/10/2039> -RRB- :
+Herzkatheteruntersuchung bei V.a. eine relevante koronare Herzerkrankung:
+
+PTCA einer autokollateralisierten und über die LCX kollateralisierten CTO der medialen RCA, bei deutlich erschwertem Guiding über Radialiszugang zunächst Abbruch. Koronare 2-Gefäßerkrankung von LCX und RCA. Hochgradige Stenose des Ramus marginalis. Global mittelgradig eingeschränkte linksventrikuläre Pumpfunktion. Erhöhte enddiastolische Drücke des linken Ventrikels.
+
+Sonstige Diagnosen:
+ED VHFli mit Tachymyopathie; kardiale Dekompensation; Z.n. Hemicolektomie rechts; CVRF: aHT, Ex-Raucher -LRB- 50 py -RRB- .
+
+Maßnahmen:
+1 -RRB- Duale Thrombozytenaggregationshemmung für mind. 4 Wochen nach POBA.
+2 -RRB- CTO-Rekanalisierung -LRB- entsprechende Aufklärung -RRB- am Montag über Leistenzugang.
+3 -RRB- PCI des Ramus marginalis in 4-6 Wochen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 08/10/2039> -RRB- :
+Geplante PCI der RCA
+
+Koronare 2-Gefäßerkrankung der LCX und RCA. Filiforme Stenose der RCA. PTCA/3-fach DES der RCA -LRB- Promous 2,4x38, 2x 2,75x38 mm -RRB-
+
+Sonstige Diagnosen:
+ED VHFli mit Tachymyopathie; kardiale Dekompensation
+Z.n. Hemicolektomie rechts
+CVRF: aHT, Ex-Raucher -LRB- 50 py -RRB- .
+
+Maßnahmen:
+- Druckverband bis 19:00 Uhr
+-Tripple-Therapie nach SOP, DOAC auf Eliquis umstellen
+-Optimierung HI-Therapie
+
+Echo-TTE vom <[Pseudo] 08/10/2039:>
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Ruhe EKG nach Herzkatheter:
+Normofrequenter Sinusrhythmus, regelmäßig, 61/min, Steiltyp, AV-Block °I, PQ 254msec, QRS 109msec, QTc 417msec. Verzögerte R-Progression, R/S-Umschlag in V3/V4, T-Negativierungen in I, aVL. Weiterhin keine signifikanten Kammerendteilveränderungen.
+
+Labor:
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte als Selbstvorstellung über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei symptomatischem Vorhofflimmern.
+
+Seit der Aufnahme war der Patient im Wesentlichen oligosymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 16,9 pg/ml, im Verlauf stabil bei 15,1 pg/ml und 16,4 pg/ml -LRB- 3h -RRB- , somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt, a. e. Myokardschaden bei Vorhofflimmern. Laborchemisch zeigte sich keine relevante Entzündungskonstellation -LRB- CRP 10 mg/l, Leukozyten normwertig, PCT bei 0,07 ng/ml -RRB- . Das NTpro- BNP fand sich altersadjustiert erhöht.
+
+Echokardiographisch ergab sich unter laufender Tachyarrythmia absoluta eine hochgradig verminderte systolische Pumpfunktion bei Hypokinesie aller Wandabschnitte. Weiterhin ergab sich der Hinweis auf signifikante diastolische LV-Dysfunktion. Die VCI fand sich gestaut, wenig atemvariabel.
+
+Nach Thrombenausschluss in der transösophagealen Echokardiographie erfolgte eine elektrische Kardioversion in Sedierung mit 120 J biphasisch mit nachfolgend dokumentiertem Sinusrhythmus.
+
+Bei Erstdiagnose Vorhofflimmern initiierten wir eine orale Antikoagulation mit Lixiana wie unten angegeben. Bei zusätzlicher Indikation zur dualen Thrombozytenaggregationshemmung erfolgte eine Umstellung auf Eliquis. Wir bitten um eine Fortführung der Antikoagulation mit Eliquis. Bei aktuell CHA2DS2 VASc-Score von 2 besteht die Indikation zur lebenslangen Antikoagulation.
+
+Bei Erstdiagnose einer hochgradig eingeschränkten Pumpfunktion unter laufender TAA sowie progredienter Dyspnoe führten wir zum Ausschluss einer ischämischen Genese eine weitere invasive Diagnostik durch. Hier zeigte sich eine koronare 2-Gefäßerkrankung der LCX und RCA mit mittelgradig reduzierter linksventrikulärer Pumpfunktion. Speziell eine hochgradige Abgangsstenose eines Astes der Ramus marginalis. Es konnte eine erfolgreiche PTCA/1-fach DE-Stentimplantation der RCA erfolgen, eine weitere distale Stenose war nicht passierbar. Bei residuellem Verschluss der RCA erfolgte am <[Pseudo] 08.10.> eine erneute Herzkatheteruntersuchung, hier konnte eine PTCA/3-fach DES der filiformen hochgradigen Stenose der RCA erfolgen.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung in Kombination mit der begonnen oralen Antikoagulation -LRB- Eliquis -RRB- mit ASS 100 mg 1x tägl. und Clopidogrel 75 mg 1x tägl. für 4 Wochen. Im Anschluss eine duale Therapie aus Clopidogrel und Eliquis für 6 Monate, danach ist eine dauerhafte orale Antikoagulation ausreichend. Der Patient wurde über die Notwendigkeit einer lückenlosen Einnahme ausführlich aufgeklärt. Bei dualer Thrombozytenaggregationshemmung begannen wir eine Therapie mit einem Protonenpumpeninhibitor.
+
+Bei verbliebener Stenose der LCX empfehlen wir eine erneute elektive Koronarangiographie mit PTCA mit Aufnahmetermin am <[Pseudo] 16/11/2039> um 09.30Uhr Uhr in unserer B-ORG I-ORG -LRB- Tel.: B-PHONE Ebene B-LOC, B-ORG I-ORG B-ORG I-ORG -RRB- .
+
+Wir bitten um das Aussetzen der oralen Antikoagulation -LRB- Eliquis -RRB- am Tag und am Vorabend der Aufnahme -LRB- also letzte Einnahme 24h vor Herzkatheter -RRB- . Wir bitten den Patienten am Tag der Untersuchung ausschließlich ein kleines Frühstück zu sich zu nehmen, einen aktuellen Überweisungsschein und aktuelle Laborwerte -LRB- incl. Nierenfunktion, Elektrolyte, Gerinnung, TSH -RRB- mitzubringen. Der Patient wurde bereits für die erneute Koronarangiographie im Rahmen dieses stationären Aufenthaltes aufgeklärt.
+
+Wir optimierten bei Erstdiagnose einer mittelgradig eingeschränkten linksventrikulären Pumpfunktion die Herzinsuffizienzmedikation wie unten angegeben. Wir bitten in diesem Zusammenhang um regelmäßige Kontrollen von Herzfrequenz, Blutdruck, sowie der Elektrolyte und Nierenfunktionsparameter. Eine Ausdosierung der Herzinsuffizienztherapie sollte bis zur individuell verträglichen Maximaldosis, gemäß Nierenfunktionsparametern und Elektrolyten erfolgen.
+
+Eine Rekompensation konnte durch Beginn einer oralen diuretischen Medikation dargestellt werden. Es wurde ein Gewichtsverlust von 4kg erzielt. Wir passten die orale diuretische Therapie an, wir bitten um regelmäßige klinische Kontrollen, sowie Kontrollen der Elektrolyte und ggf. eine Anpassung im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER mit einem Entlassgewicht von 102kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung. Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+
+Nächster Termin/Prozedere:
+- Erneute elektive Koronarangiographie am <[Pseudo] 16/11/2039> um 09.30Uhr in unserer B-ORG I-ORG -LRB- vorher bitte Anmeldung Abstrich Center -RRB-
+- Regelmäßige Kontrollen von Gewicht, Blutdruck, Elektrolyten und Retentionsparametern und ggf. eine Anpassung der medikamentösen Therapieeinstellung
+
+Therapieempfehlung:
+Eliquis 5mg 1-0-1 Neu, dauerhaft
+ASS 100mg 1-0-0 Neu, für 4 Wochen, bis zum <[Pseudo] 08/11/2039>
+Clopidogrel 75mg 1-0-0 Neu, für 6 Monate, bis zum <[Pseudo] 09/04/2040>
+Bisoprolol 2,5mg 1-0-1 Neu
+Ramipril 5mg 1-0-1
+Lercanidipin 10mg 1-0-0 Neu
+Torasemid 10mg 1-0-0 Neu
+Empagliflozin 10mg 1-0-0 Neu
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsärztin
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 02/10/2039> und dem <[Pseudo] 09/10/2039>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.76
+4 - 10 /nl
+B-DATE
+Hb
+13.2
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.8
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.400
+0,38 - 0,52 l/l
+B-DATE
+MCV
+84
+83 - 97 fl
+<[Pseudo] 09/10/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+28
+27 - 33 pg
+<[Pseudo] 09/10/39>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 09/10/39>
+RDW
+13.8
+12,9 - 18,7 %
+<[Pseudo] 09/10/39>
+hypochr.Erythroz.
+0.3
+0 - 2 %
+<[Pseudo] 09/10/39>
+Thrombozyten
+233
+150 - 440 /nl
+<[Pseudo] 09/10/39>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+136
+135 - 146 mmol/l
+<[Pseudo] 09/10/39>
+Kalium -LRB- ISE -RRB-
+3.94
+3,4 - 5,0 mmol/l
+<[Pseudo] 09/10/39>
+Calcium
+2.23
+2,11 - 2,59 mmol/l
+<[Pseudo] 09/10/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+1.20
+0,6 - 1,4 mg/dl
+<[Pseudo] 09/10/39>
+Harnstoff
+54 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+60.5
+>60 s.u.
+<[Pseudo] 09/10/39>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+142 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+45
+- <46 U/l
+B-DATE
+GPT/ALT
+37
+- <50 U/l
+B-DATE
+CRP
+10.2 !H
+- <5 mg/l
+<[Pseudo] 02/10/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+PCT sens.
+0.07 !H
+- <0,05 ng/ml
+<[Pseudo] 02/10/39>
+Hämolyse
+-
+
+<[Pseudo] 09/10/39>
+ikterisch
+-
+
+<[Pseudo] 09/10/39>
+Lipämie
+-
+
+<[Pseudo] 09/10/39>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+254
+- <342 U/l
+B-DATE
+CK
+60
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+45.7 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+3163 !H
+- <450 ng/l
+<[Pseudo] 02/10/39>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+2.35
+0,400 - 4,000 mU/l
+<[Pseudo] 02/10/39>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+69.6 !L
+70 - 125 %
+<[Pseudo] 02/10/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+INR - ber.
+1.16
+- <1.2
+B-DATE

@@ -1,0 +1,362 @@
+Aufnahmedatum: <[Pseudo] 2039-02-12 >
+Geburtsdatum: <[Pseudo] 1981-01-31 >
+Alter: 58
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 31/01/1981> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR OTHER, die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreiche Pulmonalvenenisolation in Cryo-Technik bei paroxysmalem Vorhofflimmern -LRB- B-OTHER vom <[Pseudo] 08/02/2039> -RRB-
+
+Diagnosen:
+- Paroxysmales Vorhofflimmern -LRB- ED <[Pseudo] 10/2038> -RRB-
+-UNK- EHRA: III
+-UNK- CHA2DS2-VASc: 1
+-UNK- HAS-BLED: 0
+-UNK- LA-Diameter: 35 mm -LRB- TEE vom <[Pseudo] 07/02/2039> -RRB-
+-UNK- LV-Funktion: gut -LRB- TEE vom <[Pseudo] 07/02/2039> -RRB-
+- Substituierte Hypothyreose
+-UNK- Euthyreote Stoffwechsellage
+- Z.n. LAE bei TVT links <[Pseudo] 2010>
+-UNK- Anamnestisch Kontrazeptiva induziert
+- Fibromyalgie
+- Anhaltende somatoforme Schmerzstörung
+- Panikstörung
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, positive Familienanamnese -LRB- Mutter Vorhofflimmern, Vater Schlaganfälle -RRB-
+Allergien: Ibuprofen, Vomex
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur elektiven Pulmonalvenenisolation bei paroxysmalem Vorhofflimmern. Die Patientin berichtet über Herzrasen/Herzstolpern seit Jahren, träte 1 mal/ Monat auf. In den vergangenen drei Jahren sei es zu fünf Krankenhauseinweisungen wegen Herzrasen/Herzstolpern gekommen, jedoch nur einmal -LRB- <[Pseudo] 10/2038> -RRB- sei ein Vorhofflimmern dokumentiert worden. Während der Vorhofflimmerepisode im B-MONTH letzten Jahres hoch-symptomatische Patientin mit Herzstolpern, Herzrasen und Dyspnoe. Die anderen Episoden zuvor hätten jeweils ca. 30 - 60 Minuten gedauert. Darüber hinaus gibt die Patientin kardiales Wohlbefinden an. Im Alltag bestehe eine stabile körperliche Belastbarkeit auf reduziertem Niveau -LRB- 1 - 2 Etagen Treppensteigen möglich -RRB- limitiert durch Belastungsdyspnoe. Keine typische Angina Pectoris. Chronischer, täglicher Schwindel sowohl schwankend als auch linksdrehend. Stattgehabte Synkopen werden verneint. Nachtschlaf sei mit flachem Oberkörper möglich. Seit Einnahme von Escitalopram habe die Patientin an Gewicht zugenommen. Keine peripheren Ödeme bekannt. Die häuslichen Blutdruckwerte seien um 100/70 mmHg.
+
+Medikation bei Aufnahme:
+Apixaban 2,5 mg 1-0-1
+Bisoprolol 2,5 mg -UNK- -0- -UNK-
+L-Thyroxin 75 µg 1-0-0
+Escitalopram 10 mg 0-1-0
+Tromcardin complex 2-0-2
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 160 cm, Gewicht: 53 kg -RRB-
+HF: 73/min, regelmäßig
+RR: 110/70 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: leise, reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits gut palpabel
+Neurol. Status: grob orientierend unauffällig
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 08/02/2039:>
+Normofrequenter Sinusrhythmus, regelmäßig, 73/min, Indifferenztyp. PQ 146 ms, QRS 110 ms, QTc 418 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Präterminal negative T-Welle in V4 und V5, ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Transösophageale Echokardiographie vom <[Pseudo] 07/02/2039> :
+Kein Nachweis intrakardialer Thromben, insbesondere linkes Vorhofohr und -dach thrombenfrei. Erhaltene Flussgeschwindigkeiten im linken Vorhofohr. Hypermobiles Vorhofseptum ohne dopplersonographischen Nachweis eines Vorhofseptumdefekts. 2 rechte und 2 linke Lungenvenen münden regelrecht in den linken Vorhof ein. Aorta ascendens, Bogen und descendens - soweit einsehbar - regelrecht. Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LVFunktion. LA, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist nicht valide ableitbar. TEE-Erstbefund in domo.
+
+Pulmonalvenenisolation -LRB- B-OTHER vom <[Pseudo] 08/02/2039> -RRB- :
+2-fache Punktion der V. femoralis dextra. Problemlose 1-fache transseptale Punktion. Einführen der FlexCath-Schleuse in das LA. Transnasales Einführen der Temperatursonde in den Ösophagus -LRB- FIAB -RRB- . Vorführen eines steuerbaren, diagnostischen 4-poligen Katheters in den CS. Angiographie der LSPV, RSPV, LIPV und RIPV jeweils nach Inflation des Cryoballons. Isolation der lateralen Pulmonalvenen -LRB- LSPV 1, LIPV 1 -RRB- . Isolation der septalen Pulmonalvenen -LRB- RSPV 1, RIPV 1 -RRB- . Minimale Temperaturen und
+-UNK- time to isolation -UNK- in LSPV -LRB- -45°C/27s -RRB- , LIPV -LRB- -45°C/35s -RRB- , RSPV -LRB- -51°C -RRB- und RIPV -LRB- -53°C -RRB- . Kein Hinweis auf Parese des N. phrenicus -LRB- Kontrolle durch kontinuierliche Phrenicusstimulation -RRB- . Postablationem Nachweis eines Entranceblocks aller PVs. Postinterventionell Ausschluss eines Perikardergusses durch Echokardiographie.
+Zusammenfassung: Pulmonalvenenisolation in Cryo-Technik.
+Transthorakale Echokardiographie nach PVI vom <[Pseudo] 09/02/2039:>
+Beurteilung Kein Perikarderguss. Vena Cava inferior nicht gestaut, atemvariabel.
+
+EKG nach PVI vom <[Pseudo] 09/02/2039:>
+Normofrequenter Sinusrhythmus, regelmäßig, 70/min, Indifferenztyp. PQ 128 ms, QRS 97 ms, QTc 424 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Präterminalnegative T-Welle in V2 - V4, ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2038>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.05
+4 - 10 /nl
+B-DATE
+Hb
+12.6
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.2
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.370
+0,36 - 0,47 l/l
+B-DATE
+MCV
+90
+83 - 97 fl
+<[Pseudo] 08/02/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 08/02/39>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 08/02/39>
+RDW
+12.9
+12,9 - 18,7 %
+<[Pseudo] 08/02/39>
+hypochr.Erythroz.
+0.2
+0 - 2 %
+<[Pseudo] 08/02/39>
+Thrombozyten
+216
+150 - 440 /nl
+<[Pseudo] 08/02/39>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 08/02/39>
+Kalium -LRB- ISE -RRB-
+3.45
+3,4 - 4,8 mmol/l
+<[Pseudo] 08/02/39>
+Calcium
+2.08 !L
+2,11 - 2,59 mmol/l
+<[Pseudo] 08/02/39>
+Ca./korr.
+2.09 !L
+2,1 - 2,65 mmol/l
+<[Pseudo] 08/02/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+0.62
+0,5 - 0,9 mg/dl
+B-DATE
+Harnstoff
+31
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+99.7
+>60 s.u.
+<[Pseudo] 08/02/39>
+MDRD
+100.93
+ml/min/1,73qm
+<[Pseudo] 08/02/39>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+39.8
+30 - 50 g/l
+<[Pseudo] 08/02/39>
+Glucose
+107
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+19
+- <35 U/l
+B-DATE
+GGT
+6
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.60
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+3.2
+- <6 mg/dl
+<[Pseudo] 08/02/39>
+Triglyceride
+85
+- <150 mg/dl
+<[Pseudo] 08/02/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+221.0
+- alt.abh. mg/dl
+<[Pseudo] 08/02/39>
+LDL-Chol. -LRB- berechn. -RRB-
+138
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+66
+>50 mg/dl
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 08/02/39>
+Hämolyse
+-
+
+<[Pseudo] 08/02/39>
+ikterisch
+-
+
+<[Pseudo] 08/02/39>
+Lipämie
+-
+
+<[Pseudo] 08/02/39>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+188
+- <308 U/l
+B-DATE
+CK
+148
+- <170 U/l
+<[Pseudo] 08/02/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+<3.00
+- <14 pg/ml
+<[Pseudo] 08/02/39>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.4
+- <6,1 %
+<[Pseudo] 08/02/39>
+HbA1c -LRB- IFCC -RRB-
+36
+20 - 42 mmol/mol
+<[Pseudo] 08/02/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+108
+- <110 mg/dl
+<[Pseudo] 08/02/39>
+TSH
+1.48
+0,400 - 4,000 mU/l
+<[Pseudo] 08/02/39>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+79.1
+70 - 125 %
+<[Pseudo] 08/02/39>
+INR - ber.
+1.11
+- <1.2
+<[Pseudo] 08/02/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+<NONE> !H
+- <35 s
+<[Pseudo] 08/02/39>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme der Patientin erfolgte zur elektiven Pulmonalvenenisolation bei paroxysmalem Vorhofflimmern.
+
+Nach echokardiographischem Ausschluss von intrakardialen Thromben konnte am <[Pseudo] 08/02/2039> eine komplikationslose Pulmonalvenenisolation in Cryo-Technik durchgeführt werden. Ein Perikarderguss konnte nach der Intervention mehrfach ausgeschlossen werden. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstellen.
+
+Bei einem CHA2DS2-VASc-Score von einem Punkt sehen wir keine zwingende Indikation zur oralen Antikoagulation bei zudem aktuell infratherapeutischer Dosierung. Nach der PVI wäre jedoch eine Antikoagulation für zwei Monate post-Ablationem notwendig. Daher empfehlen wir auch bei stabilem Sinusrhythmus die Fortführung der oralen Antikoagulation mit Eliquis für mindestens 2 Monate. Im Anschluss daran sollte eine Re-Evaluation nach CHA2DS2-VASc-Score und HAS-BLED-Score durch den niedergelassenen Kardiologen erfolgen. Wir bitten um die zeitnahe Durchführung eines Langzeit-EKGs. Nach Pulmonalvenenisolation empfehlen wir die Einnahme eines Protonenpumpen-inhibitors für 10 Tage wie unten aufgeführt. Über die Blanking-Periode von 3 Monaten wurde der Patient ausführlich aufgeklärt.
+
+Bzgl. des Schwindels empfehlen wir eine neurologische wie HNO-ärztliche Vorstellung. Hinsichtlich des Belastungsdyspnoe empfehlen wir die Durchführung eines ambulanten Belastungstests sowie eine lungenfachärztliche Vorstellung.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin am <[Pseudo] 09/02/2039> in Ihre geschätzte ambulante Betreuung.
+
+Nächster Termin/Prozedere
+- Durchführung eines LZ-EKGs in 8 - 12 Wochen
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Apixaban 5 mg 1-0-1 neu, bis einschließlich <[Pseudo] 11/04/2039>
+Bisoprolol 2,5 mg -UNK- -0- -UNK-
+L-Thyroxin 75 µg 1-0-0
+Escitalopram 10 mg 0-1-0
+Tromcardin complex 2-0-2
+Pantoprazol 40 mg 1-0-0 neu, bis einschließlich <[Pseudo] 18/02/2039>
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

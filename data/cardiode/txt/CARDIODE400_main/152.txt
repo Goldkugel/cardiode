@@ -1,0 +1,378 @@
+Aufnahmedatum: <[Pseudo] 2034-05-03 >
+Geburtsdatum: <[Pseudo] 1955-05-11 >
+Alter: 78
+
+über Ihren Patienten B-SALUTE B-PER B-PER geboren am <[Pseudo] 11/05/1955> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Koronare 1-Gefäßerkrankung der LAD ohne Interventionsbedarf bei guter linksventrikulärer Pumpfunktion -LRB- B-OTHER vom <[Pseudo] 28/04/2034> -RRB-
+-UNK- Intermediäre Stenose des Endhauptstamms sowie der prox. RCA
+-UNK- Keine Aortenklappeninsuffizienz
+-UNK- In Bulbusangiographie kein Hinweis auf eine Dissektion
+-UNK- Ausschluss akuter Myokardinfarkt
+-UNK- Ausschluss Dissektion der großen Gefäße
+-UNK- Ausschluss LAE
+- Herzinsuffizienz vom HFpEF-Typ mit LV-EF von 60% -LRB- TTE vom <[Pseudo] 28/04/2034> -RRB-
+-UNK- Hinweis auf Compliancestörung des LV und reduzierte RV-Funktion. Vena cava inferior gestaut und nicht relevant atemvariabel -LRB- TTE vom <[Pseudo] 28/04/2034> -RRB-
+-UNK- Einleitung einer medikamentösen Herzinsuffizienz-Therapie
+Diagnosen:
+- Gicht
+
+Kardiovaskuläre Risikofaktoren: keine bekannt
+
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- als Verbringung durch den Notarzt bei V.a. akutem Myokardinfarkt -LRB- STEMI -RRB- .
+In der Nacht des Vorstellungstages ca. um 03:00 Uhr sei es aus dem Schlaf heraus zu einem retrosternalen thorakalen dumpfen Schmerz mit Ausstrahlung in den Unterkiefer gekommen -LRB- VAS 7 -RRB- . Der Schmerz sei nicht lagerungsabhängig gewesen. Zudem habe B-SALUTE B-PER in dem Moment über Dyspnoe geklagt. Auf spezifische Nachfrage hin werden subjektiv empfundene Palpitationen oder Herzrhythmusstörungen, Schwindel, sowie stattgehabte Synkopen verneint. Ähnliche Beschwerden habe B-SALUTE B-PER noch nie verspürt. Vor dem Ereignis habe eine gute körperliche Belastbarkeit im Alltag -LRB- >3 Etagen -RRB- ohne inadäquate Belastungsdyspnoe -LRB- NYHA I -RRB- und ohne belastungsinduzierten pectanginösen Beschwerden bestanden. Bei aktueller Gewichtskonstanz werden keine peripheren Ödeme angegeben.
+
+Medikation bei Aufnahme:
+Allopurinol 300 mg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 175 cm, Gewicht: 76 kg -RRB-
+HF: 50/min, regelmäßig
+RR: 137/90 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 28/04/2034:>
+Normofrequenter Sinusrhythmus, regelmäßig, 66/min, überdrehter Linkslagetyp. PQ 189 ms, QRS 96 ms, QTc 405 ms. erhöhter ST-Streckenabgang in V2-V3. Verzögerter R-Progression mit R/S-Umschlag in V/V6. S-Persistenz in V6. Linksanteriorer Hemiblock. T-Negativierung in aVL und präterminale T-Negativierung in V6. Unspezifische intraventrikuläre Erregungsausbreitungsstörung in aVR, ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 28/04/2034> -RRB- :
+Herzkatheteruntersuchung bei V.a. STEMI DD Aortendissektion
+
+Koronare 2-Gefäßerkrankung mit guter linksventrikulärer Pumpfunktion.
+Intermediäre Stenosen der proximalen LAD sowie RCA ohne Interventionsbedarf. Etwa 25%ige Endhauptstammstenose. Erhöhte enddiastolische Drücke des linken Ventrikels -LRB- 26 mmHg -RRB- . Zeichen einer LV-Hypertrophie. In der Bulbusangiographie kein Hinweis auf eine Dissektion der Aorta ascendens oder des Aortenbogens. Echokardiographisch kleine Perikardergusslamelle betont vor RA.
+
+Sonstige relevante Diagnose:
+- Gicht
+CvRF: Arterielle Hypertonie
+
+Maßnahmen:
+- Konservativ bezüglich der Koronararterien
+- Echokardiographie zur Evaluation der kleinen Perikardergusslamelle
+- Bestimmung der D-Dimere zur Evaluation LAE/Dissektion
+
+Transthorakale Echokardiographie vom <[Pseudo] 28/04/2034:>
+Normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Reduzierte longitudinale LV-Funktion, typische Myokardtextur und Hinweis auf Compliancestörung des LV. LA, RA und RV normal groß, reduzierte RV-Funktion. Kleine Perikardergusslamelle betont vor dem RA nachweisbar. Vena cava inferior gestaut und nicht relevant atemvariabel. Kein Nachweis einer relevanten dynamischen LVOT-Obstruktion. Kein SAM der Mitralklappe. Aortenklappe trikuspid mit guter Separation. Auch übrige Klappen sonographisch und
+dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist - soweit valide beurteilbar - grenzwertig erhöht -LRB- ca. 30-35mmHg -RRB- . Echokardiographische Parameter für kardiale Beteiligung bei Amyloidose erfüllt. Erstbefund in domo.
+
+Langzeit-EKG vom <[Pseudo] 01/05/2034:>
+Normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 59/min und 133/min, im Mittel 75/min. Eingeschränkte Herzfrequenzvariabilität. Einige supraventrikuläre Extrasystolen, z.T. auch repetitiv und als atriale Salven -LRB- längste über 14 Schläge, schnellste mit 162/min -RRB- . Keine Pausen. Einige polymorphe ventrikuläre Extrasystolen, z. T. auch repetitiv mit weitem Kopplungsintervall. Vereinzelte Couplets. Eine ventrikuläre Salve über 4 Schläge mit 168/min. Lown IV b. In Abhängigkeit der kardialen Grunderkrankung kann eine weitere Risikostratifizierung sinnvoll sein.
+
+Ruhe-EKG vom <[Pseudo] 03/05/2034:>
+Normofrequenter Sinusrhythmus, regelmäßig, 73/min, Linkslagetyp. PQ 182 ms, QRS 95 ms, QTc 391 ms. Zeiten im Normbereich. Verzögerte R-Progression, R/S Umschlag in V3/V4. erhöhter ST-Streckenabgang in V2-V3, T-Negativierung in aVL und präterminale T-Negativierung in V5-V6. Unspezifische intraventrikuläre Erregungsausbreitungsstörung in aVR+ V6, ansonsten keine signifikanten Erregungsrückbildungsstörungen
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 28/04/2034> und dem <[Pseudo] 30/04/2034>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.71
+4 - 10 /nl
+B-DATE
+Hb
+13.9
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.1 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.400
+0,38 - 0,52 l/l
+B-DATE
+MCV
+97
+83 - 97 fl
+<[Pseudo] 29/04/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+34 !H
+27 - 33 pg
+<[Pseudo] 29/04/34>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 29/04/34>
+RDW
+13.8
+12,9 - 18,7 %
+<[Pseudo] 29/04/34>
+hypochr.Erythroz.
+0.5
+0 - 2 %
+<[Pseudo] 29/04/34>
+Thrombozyten
+288
+150 - 440 /nl
+<[Pseudo] 29/04/34>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+137
+135 - 146 mmol/l
+<[Pseudo] 29/04/34>
+Kalium -LRB- ISE -RRB-
+4.50
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.45
+2,11 - 2,59 mmol/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+0.76
+0,6 - 1,4 mg/dl
+B-DATE
+Harnstoff
+33
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+87.4
+>60 s.u.
+<[Pseudo] 29/04/34>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+111 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+22
+- <46 U/l
+B-DATE
+GPT/ALT
+17
+- <50 U/l
+B-DATE
+CRP
+15.0 !H
+- <5 mg/l
+B-DATE
+IgM
+0.21 !L
+0,4 - 2,3 g/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+IgG
+7.74
+7,0 - 16,0 g/l
+B-DATE
+IgA
+1.16
+0,7 - 4,0 g/l
+B-DATE
+Hämolyse
+-
+
+<[Pseudo] 29/04/34>
+ikterisch
++
+
+<[Pseudo] 29/04/34>
+Lipämie
+-
+
+<[Pseudo] 29/04/34>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+207
+- <342 U/l
+B-DATE
+CK
+48
+- <190 U/l
+B-DATE
+hs-TroponinT
+127 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+716 !H
+- <450 ng/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+fr. Lambda LK
+203.8 !H
+5.7 - 26.3 mg/l
+B-DATE
+fr. Kappa LK
+14.1
+3.3 - 19.4 mg/l
+B-DATE
+Kappa/ Lambda
+0.1 !L
+0.3 - 1.6
+<[Pseudo] 30/04/34>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.660
+0,400 - 4,000 mU/l
+B-DATE
+FT3
+2.78
+2,0 - 4,2 ng/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+FT4
+11.50
+8 - 18 ng/l
+<[Pseudo] 28/04/34>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+66.9 !L
+70 - 125 %
+<[Pseudo] 29/04/34>
+INR - ber.
+1.19
+- <1.2
+<[Pseudo] 29/04/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+25.7
+- <35 s
+B-DATE
+D-Dimer -LRB- neu -RRB-
+0.20
+- <0,5 mg/l
+B-DATE
+
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- als Verbringung durch den Notarzt bei V.a. einem akuten Koronarsyndrom.
+
+Bei Aufnahme zeigten sich im EKG in der B-ORG I-ORG I-ORG erhöhte ST-Streckenabgängen in V2/V3. Bei weiterhin anhaltenden typischen AP-Beschwerden erfolgte die direkte Verlegung in den Herzkatheter nach präinterventionellem Loading mit 180 mg Ticagrelor. Durch den Notarzt erfolgte bereits die Gabe von ASS 250 mg und Heparin 5000 IE. In dem durchgeführten Herzkatheter zeigte sich eine koronare 1-Gefäßerkrankung der LAD ohne Interventionsbedarf bei guter linksventrikulärer Pumpfunktion. Zusätzlich zeigte sich eine intermediäre Stenose des Endhauptstamms sowie der prox. RCA. Die Bulbusangiographie erbrachte keinen Hinweis für eine Dissektion. Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere ergab sich klinisch kein Hinweis für eine Radialisthrombose.
+
+Das hs-cTroponin betrug bei Aufnahme 84 pg/ml, im Verlauf stabil 84 pg/ml, somit ergab sich insgesamt kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. Ferner zeigte sich laborchemisch keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig, PCT bei 0,20 ng/ml -RRB- . Das NT-pro-BNP zeigte sich leicht erhöht. Die D-Dimere waren normwertig. Insgesamt ergab sich kein Hinweis auf eine Lungenarterienembolie.
+
+In der postinterventionellen Echokardiographie zeigte sich ein normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Ferner zeigte sich eine reduzierte longitudinale LV-Funktion, typische Myokardtextur und Hinweise auf eine Compliancestörung des linken Ventrikels. Es ergaben sich kein Nachweis einer relevanten dynamischen LVOT-Obstruktion und keine Hinweise höhergradiger Klappenvitien. Die echokardiographischen Parameter für eine kardiale Beteiligung bei Amyloidose waren jedoch erfüllt. Es erfolgte eine Immunfixation zur Bestimmung der Leichtketten, hierbei ergab sich kein Anhalt auf eine manifeste Amyloidose.
+
+Bei neudiagnostizierter Compliancestörung leiteten wir eine medikamentöse Herzinsuffizienztherapie mittels Candesartan, Metoprolol und Eplerenon ein wie unten angegeben. Wir bitten um eine Kontrolle der Vitalparameter, Elektrolyte und Nierenretentionsparameter mit ggf. Anpassung der medikamentösen Therapie im Verlauf. Ferner initiierten wir eine orale diuretische Therapie mit Torasemid, wie unten angegeben. Wir bitten um eine zeitnahe klinische Verlaufskontrolle und Reevaluation mit ggf. Anpassung der diuretischen Therapie im Verlauf. Zudem bitten wir um tägliche häusliche Gewichtsmessungen. Bei ausgeprägtem Gewichtsverlust bitten wir um eine Pause der oralen diuretischen Therapie mit Torasemid.
+
+Bei einer neu diagnostizierten koronaren Herzerkrankung empfehlen wir eine dauerhafte Thrombozytenaggregationshemmung mit ASS 100 mg täglich, sowie eine dauerhafte fettsenkende und Plaque-stabilisierende Medikation mit einem Statin, wie unten angeführt. Diesbezüglich bitten wir um eine hausärztliche Kontrolle der CK- und Leberwerte im Verlauf.
+
+Im durchgeführten Langzeit-EKG vom <[Pseudo] 01/05/2034> zeigten sich einige supraventrikuläre Extrasystolen, z.T. auch repetitiv und atriale Salven. Darüber hinaus konnten auch einige polymorphe ventrikuläre Extrasystolen und eine ventrikuläre Salve über 4 Schläge aufgezeichnet werden. Insgesamt zeigte sich kein Anhalt für signifikante Pausen. Wir empfehlen zunächst ein konservatives Vorgehen mit Einleitung einer medikamentösen Therapie mittels Metoprolol. Wir bitten um eine Kontrolle im Verlauf mit ggf. Anpassung im Verlauf.
+
+Bei Hinweis auf eine Compliancestörung des linken Ventrikels und zum Ischämienachweis der LAD empfehlen wir die Durchführung eines Kardio-MRTs. Einen Termin hierfür haben wir für den <[Pseudo] 14/09/2034> um 7:30 Uhr vereinbart. Die Anmeldung erfolgt über die zentrale Patientenaufnahme im Eingangsbereich. Wir bitten am Tag der Untersuchung um einen Überweisungsschein vom Hausarzt sowie aktuelle Laborwerte -LRB- insb. Kreatinin, Harnstoff -RRB- . Außerdem bitten wir ab dem Tag vor der Untersuchung auf koffeinhaltige Lebensmittel sowie Schokolade zu verzichten. Einen Termin zur Befundbesprechung haben wir am <[Pseudo] 28/09/2034> um 10:30 Uhr in der kardiologischen Ambulanz vereinbart.
+
+Während des gesamten stationären Aufenthaltes zeigte sich B-SALUTE B-PER stets kardiorespiratorisch stabil und beschwerdefrei.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir empfehlen regelmäßige kardiologische Kontrollen durch eine niedergelassene Kardiologin bzw. Kardiologen.
+
+Wir entließen B-SALUTE B-PER mit einem Entlassgewicht von 73,95 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Nächster Termin/Prozedere:
+- Durchführung eines Kardio-MRTs am <[Pseudo] 14/09/2034> um 7:30 Uhr mit Befundbesprechung am <[Pseudo] 28/09/2034> um 10:30 in der kardiologischen Ambulanz
+- Regelmäßige Kontrolle der Vitalparameter, Elektrolyte und Nierenretentionsparameter mit ggf. Anpassung der medikamentösen Herzinsuffizienz-Therapie im Verlauf
+- Tägliche häusliche Gewichtsmessungen. Bei ausgeprägtem Gewichtsverlust bitten wir um eine Pause der oralen diuretischen Therapie mit Torasemid
+
+Therapieempfehlung:
+ASS 100 mg 1-0-0 neu!
+Metoprolol 47,5 mg 1-0-0 neu!
+Candesartan 8 mg 1-0-0 neu!
+Torasemid 10 mg 1-0-0 neu!
+Eplerenon 25 mg 1-0-0 neu!
+Atorvastatin 20 mg 0-0-1 neu!
+Allopurinol 300 mg 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER PER/ B-PER I-PER
+Ärztl. Direktor Stationsärzte
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

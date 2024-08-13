@@ -1,0 +1,344 @@
+Aufnahmedatum: <[Pseudo] 2034-07-04 >
+Geburtsdatum: <[Pseudo] 1977-05-27 >
+Alter: 57
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 27/05/1977> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- V.a. Superinfektion bei pAVK Stadium IV Dig II rechts
+-UNK- BK v. B-DATE: Kein Wachstum
+
+- Beginn Antibiose mit Ceftriaxon + Vancomycin am <[Pseudo] 01/07/34> einmalig nach Hämodialyse
+
+- Patient lehnt weitere stationäre Behandlung gegen ausdrücklichen ärztlichen Rat ab
+Diagnosen:
+- Z.n. Akuter Myokardinfarkt -LRB- NSTEMI -RRB- am <[Pseudo] 24/05/2034>
+-UNK- Koronare 3-Gefäßerkrankung -LRB- B-OTHER vom <[Pseudo] 24/05/2034> -RRB-
+-UNK- Erfolgreiche Rekanalisation der langstreckig deutlich verkalkten LCX-Stenose mittels PTCA/4fach DE-Stentimplantation
+-UNK- Z.n. PCI mittels DEB einer ostialen subtotalen LCX-Instent-Restenose -LRB- HK vom <[Pseudo] 21/09/2032> B-ORG I-ORG -RRB-
+-UNK- Z.n. Myokardinfarkt -LRB- NSTEMI -RRB- am <[Pseudo] 02/10/2024>
+
+- Hochgradige Mitralklappenstenose -LRB- PPG 28mmHg, MPG 16mmHg, KÖF 1,0cm², TTE vom DATE/ TEE vom <[Pseudo] 04/06/2034> -RRB-
+-UNK- Erhöhte Gradienten über dem mechanischen Aortenklappenersatz -LRB- PPG 31mmHg, MPG 16mmHg -RRB-
+-UNK- Ad Bio-AKE plus Bio-MKE plus Vorhofohramputation in 3 Monaten gemäß Herzkatheterkonferenzbeschluss vom <[Pseudo] 04/06/2034>
+-UNK- Terminmitteilung folgt separat über die Herzchirurgie
+-UNK- Bei Kontraindikation der VKA-Gabe Entscheidung zum biologischen Klappenersatz/ Erweiterung um Vorhofohramputation
+
+- Z.n. Aortenklappenersatz mit mechanischer Prothese -LRB- St. Jude Medical I-ORG B-OTHER -LRB- AK -RRB- Size 25 mm, B-OTHER -RRB- am <[Pseudo] 11/12/2027> bei Z.n. kombiniertem Aortenklappenvitium mit überwiegender Aortenklappenstenose III° -LRB- 0,9 cm², PG max. 79 mmH, PG mean 49 mmHg -RRB- und Aortenklappeninsuffizienz I
+-UNK- Aktuell Antikoagulation mit niedermolekularem Heparin
+-UNK- Anti-Faktor Xa Kontrolle B-DATE: 0,78
+
+- pAVK Stadium IV rechts
+-UNK- Erfolgreiche Rekanalisation der A. tibialis posterior, A. plant. lat. et med. rechts mittels Rotationsatherektomie und PTA -LRB- B-OTHER v. <[Pseudo] 01/06/2034> -RRB-
+-UNK- Clindamycin bei V.a. Superinfektion v. B-DATE - B-DATE
+
+- Z.n. Bakterieller Pneumonie
+-UNK- Unacid im angepassten Schema v. <[Pseudo] 23/05/2034> - <[Pseudo] 04/06/2034>
+-UNK- Eskalation der Antibiose auf Piperacillin-Tazobactam vom <[Pseudo] 04.06.> - <[Pseudo] 15.06.>
+-UNK- Azythromycin v. B-DATE - B-DATE
+
+- Z.n. Tachyarrhythmia absoluta bei pVHF am <[Pseudo] 26/05/2034>
+-UNK- Medikamentöse Kardioversion durch Infusion von 300 mg Amiodaron -LRB- <[Pseudo] 26/05/34> -RRB-
+-UNK- Erneute Amiodaronaufsättigung ab <[Pseudo] 28.05.>
+-UNK- Z.n. Rhyhtmuskontrolle mit Amiodaron, anamnestisch <[Pseudo] 2032> probatorisch abgesetzt
+
+- Terminale dialysepflichtige Niereninsuffizienz bei V.a. Glomerulonephritis
+-UNK- Chronische Hämodialyse seit <[Pseudo] 15/09/2013> -LRB- Dialysetage Mo/Mi/Fr -RRB-
+-UNK- Sekundärer Hyperparathyreoidismus
+-UNK- Renale Anämie
+-UNK- Z.n. Shuntbanding bei hohem Shuntfluss <[Pseudo] 12/2026>
+-UNK- Z.n. Resektion eines Shuntaneurysmas und proximale Neuanastomose <[Pseudo] 03/2021>
+
+- Calciphylaxie mit Manifestation an Glans penis <[Pseudo] 01/2034> mit Teilpenektomie nach Marcumar-Therapie
+-UNK- Bioptische Sicherung B-ORG I-ORG
+-UNK- Kontraindikation für zukünftige Anwendungen von Vitamin K-Antagonisten
+-UNK- Aktuelle Antikoagulation mit Clexanen
+
+- Refluxösophagitis
+- Z.n. Gesichtstrauma und Nasenrekonstruktion ca. <[Pseudo] 2002>
+-UNK- Z.n. Re-Gesichts-Operation <[Pseudo] 2021>
+- Z.n. Duodenitis <[Pseudo] 09/2024>
+- Neuropathia vestibularis rechts mit Drehschwindel
+
+Risikofaktoren: arterielle Hypertonie, Hypercholesterinämie
+Allergien: Marcumar -LRB- Calciphylaxie -RRB-
+
+Anamnese:
+Die stationäre Aufnahme erfolgte über unsere ORG nach initialer Vorstellung in der B-ORG Ambulanz. Seit ca. 4 Tagen bestehe eine zunehmende Rötung und livide Verfärbung von dig II rechts. Gefäßchirurgischerseits wurde der V.a. auf ein Trash-Syndrom bei Z.n. Rekanalisation im B-MONTH diesen Jahres geäußert. Es besteht keine AP-Symptomatik, weder unter Belastung noch in Ruhe. Keine Phasen von Palpitationen seit der Therapie mit Amiodaron. Keine Fieber. Kein sonstiger Hinweis auf einen Infekt.
+
+Medikation bei Aufnahme:
+Ceftriaxon 2g nach Dialyse
+Vancomycin 1g nach Dialyse
+
+Clexane 0,6ml 1-0-1 an Dialysetagen nur 1xtgl unter Anti-Faktor Xa Kontrollen
+ASS 100 1-0-0 bis <[Pseudo] 24/08/34> -LRB- 3 Monate -RRB-
+Clopidogrel 75mg 1-0-0 bis <[Pseudo] 24/05/35> -LRB- 12 Monate -RRB-
+Metoprolol 95mg 1-0-1
+Amiodaron 200mg 1-0-0
+Candesartan 16mg 1-0-1
+Amlodipin 10mg 1-0-0
+Clonidin ret. 250 0-0-1
+Atorvastatin 20mg 0-0-1
+Pantoprazol 40mg 1-0-0
+Renavit 1-0-0
+Fosrenol 1000mg 1-1-1
+Rocaltrol 0,25μg 1-0-0
+Dekristol 20.000 I.E 1x/Woche
+Veltassa 8,4g PSE Mo-Mi-Fr an Nicht-Dialysetagen
+Sevelamercarbonat 800mg 1-1-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 176 cm, Gewicht: 72 kg -RRB-
+HF: 85 /min
+RR: mmHg
+Keine Cyanose, keine Anämiezeichen, kein Ikterus.
+HT: leise, rein, keine path. Geräusche
+Lunge: bds. vesikuläres AG, sonorer KS, keine NG
+Pulsstatus: periphere Pulse gut tastbar
+Periphere Ödeme: keine
+Abdomen: weich, kein DS, keine Resistenzen
+Neurol. Status: orientierend o.p.B.
+
+Ruhe-EKG bei Aufnahme am <[Pseudo] 30/06/34:>
+Sinusrhythmus, 85/min, Indifferenzlagetyp. PQ 208 ms bei AV-Block Grad 1, QRS 98 ms, QTc 440 ms. R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Röntgen Vorfuß rechts in 2 Ebenen vom <[Pseudo] 30/06/2034:>
+Keine Voruntersuchungen zum Vergleich vorliegend
+Befund und Beurteilung:
+Os sesamoideum bipartitum medial. Kein Nachweis von fokalen Osteolysen oder einer Corticalisarrosion im Untersuchungsbereich. Deutliche, fleckige Mineralsalzminderung des Skelettes. Erhaltene Artikulation der dargestellten Gelenke.
+Fortgeschrittene Vasosklerose. Darüberhinaus Weichteilmantel radiographisch unauffällig.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 30/06/2034:>
+Zum Vergleich liegen Voruntersuchungen vor, zuletzt vom <[Pseudo] 23/05/2034> -LRB- konventionell -RRB- sowie ein CT vom B-DATE:
+Befund und Beurteilung:
+Zur Voruntersuchung zunehmende streifige Transparenzminderung im rechten Unterfeld, vereinbar mit einem Infiltrat. Kein Pneumothorax. Kein Nachweis suspekter pulmonaler Verschattungen. Ähnlich zur CT-Voruntersuchung deutliche pulmonalvenöse Stauungszeichen. Geringe Randwinkelergüsse beidseits. Cardiomegalie. Unauffällige thorakale Aorta. Trachea mittelständig, nicht eingeengt. Prominentes Mediastinum, idem zur Voruntersuchung. Zustand nach Aortenklappenersatz. Sternale Drahtcerclagen intakt. Thoraxskelett soweit einsehbar mit altersentsprechenden degenerativen Veränderungen.
+
+Ruhe-EKG bei Aufnahme am <[Pseudo] 02/07/34:>
+Sinusrhythmus, 81/min, Indifferenzlagetyp. PQ 218 ms bei AV-Block Grad 1, QRS 98 ms, QTc 442 ms. R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Angiologie vom <[Pseudo] 04/07/2034:>
+Prozedere: der Patient entlässt sich gegen ärztlichen Rat, da er seine Dialyse in B-LOC durchführen möchte. B-SALUTE B-PER klärt mit B-ORG I-ORG ob eine stationäre Aufnahme zur i.v. Antibiose und weiteren Untersuchungen möglich wäre. Es wurde noch ein Verdacht auf eine Klappenvegetation geäußert, ein TEE wurde empfohlen und bei frühzeitiger Entlassung nicht durchgeführt.
+Empfehlungen -LRB- aus angiologischer Sicht -RRB- : i.v. Antibiose weiter, Applikation von Antimykotikum auf die Nagel.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2033>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+15.47 !H
+4 - 10 /nl
+B-DATE
+Hb
+10.9 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+3.5 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.340 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+98 !H
+83 - 97 fl
+<[Pseudo] 30/06/34>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 30/06/34>
+MCHC
+32
+30 - 36 g/dl
+<[Pseudo] 30/06/34>
+RDW
+<NONE> !H
+12,9 - 18,7 %
+<[Pseudo] 30/06/34>
+hypochr.Erythroz.
+10.0 !H
+0 - 2 %
+<[Pseudo] 30/06/34>
+Thrombozyten
+440
+150 - 440 /nl
+<[Pseudo] 30/06/34>
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+144
+135 - 146 mmol/l
+<[Pseudo] 30/06/34>
+Kalium -LRB- ISE -RRB-
+4.93 !H
+3,4 - 4,8 mmol/l
+<[Pseudo] 30/06/34>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+<NONE> !H
+0,6 - 1,2 mg/dl
+<[Pseudo] 30/06/34>
+GFR, CKD-EPI
+5.1 !L
+>60 s.u.
+<[Pseudo] 30/06/34>
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+CRP
+33.7 !H
+- <5 mg/l
+<[Pseudo] 30/06/34>
+PCT sens.
+1.08 !H
+- <0,05 ng/ml
+<[Pseudo] 30/06/34>
+Hämolyse
+-
+
+<[Pseudo] 30/06/34>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+ikterisch
+-
+
+<[Pseudo] 30/06/34>
+Lipämie
+-
+
+<[Pseudo] 30/06/34>
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+177 !H
+- <14 pg/ml
+<[Pseudo] 30/06/34>
+Gerinnungsdiagnostik
+
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+74.5
+70 - 125 %
+<[Pseudo] 30/06/34>
+INR - ber.
+1.14
+- <1.2
+<[Pseudo] 30/06/34>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+aPTT
+29.5
+- <35 s
+<[Pseudo] 30/06/34>
+
+Weitere Laborwerte
+Parameter
+Wert
+Normb / Dimension
+Datum
+2019-nCoV
+negativ
+
+<[Pseudo] 30/06/34>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte bei o.g. Krankheitsbild. Es wurde eine i.v. Antibiose begonnen und der Patient am <[Pseudo] 30.06.> in der Hämodialyse in domo vorgestellt. Hier erfolgte die Dialyse -LRB- ca. 3h -RRB- . Am <[Pseudo] 01.07.> lehnt der Patient die Blutentnahme ab -LRB- mit Verweis auf eine angeblich fehlerhafte Dialyse am Vortag -RRB- , kann jedoch von einer Entlassung gegen ärztlichen Rat zunächst abgehalten werden. Die nephrologische Rücksprache ergibt, dass der in der ambulanten Dialyse verwendete Filter mit den hier angewendeten Dialyseapparaten nicht kompatibel ist. Ein anderer Filter wird durch den Patienten abgelehnt.
+
+Bereits in unserer ORG wurden Vegetationen im Bereich der mechanischen Klappe ausgeschlossen, eine transösophageale Echokardiographie wurde dennoch empfohlen. Das Ergebnis der asservierten Blutkulturen war zum Entlasszeitpunkt ausstehend und wird nun nachberichtet. Es zeigte sich kein Wachmstum von Keimen.
+
+Am <[Pseudo] 02/07/2034> lehnte der Patient eine Blutentnahme erneut ab. Es erfolgte eine angiologische Kontrolle, in der der Lokalbefund bereits etwas verbessert erschien. Der Patient lehnt jedoch eine weitere stationäre Behandlung inkl. i.v. Antibiose, weiterer angiologischen Abklärung sowie den weiteren Endokarditis-Ausschluss mittels TEE explizit und gegen ärztlichen Rat ab. Auch die weiteren Laborkontrollen werden abgelehnt. Es erfolgte eine ausführliche Aufklärung über die möglichen Konsequenzen. Wir verschriftlichten die Ablehnung der weiteren stationären Behandlung am B-DATE.
+
+Der Patient möchte sich im städtischen B-ORG in B-LOC zur Dialyse und dann im Verlauf zur weiteren Abklärung vorstellen. Wir empfehlen explizit die stationäre Aufnahme und den Wiederbeginn einer i.v. Antibiose bis zum definitiven Ausschluss einer Endokarditis -LRB- bei mechanischer Klappe -RRB- .
+
+Zur Verbesserung des konservativen Prozederes empfehlen wir Verbandentlastungsschuhe und regelmäßige Wundkontrollen. Zudem empfehlen wir weiterhin dringend eine angiologische Abklärung und die Fortführung der i.v. Antibiose bei V.a. Superinfektion bei pAVK IV.
+
+Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Zudem bitten wir bei Statin-Therapie um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Procedere/Termine:
+- Entlassung gegen ärztlichen Rat
+-UNK- Aus ärztlicher Sicht empfohlen: Fortführung i.v. Antibiose, weitere Abklärung zum Ausschluss endokarditischer Vegetationen mittels TEE, angiologische Abklärung ggf. Re-Intervention
+- Ein Termin zur Wiedervorstellung in der B-ORG I-ORG wurde für den <[Pseudo] 05/07/2034> um 10 Uhr zur Wundkontrolle vereinbart.
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Clindamycin oral 300 mg 1-1-1
+statt i.v. Antibiose bei Entlassung gegen ärztlichen Rat. Therapiedauer: Mind. 7 d, Re-Evaluation nach Infektwerten. Bei stationärer Aufnahme extern oder peridialysär: i.v. Antibiose mit Ceftriaxon und Vancomycin empfohlen
+
+Clexane 0,6ml 1-0-1 an Dialysetagen nur 1xtgl -LRB- unter Anti-Faktor Xa Kontrollen -RRB-
+ASS 100 1-0-0 bis <[Pseudo] 24/08/34> -LRB- 3 Monate -RRB-
+Clopidogrel 75mg 1-0-0 bis <[Pseudo] 24/05/35> -LRB- 12 Monate -RRB-
+Metoprolol 95mg 1-0-1
+Amiodaron 200mg 1-0-0
+Candesartan 16mg 1-0-1
+Amlodipin 10mg 1-0-0
+Clonidin ret. 250 0-0-1
+Atorvastatin 20mg 0-0-1
+Pantoprazol 40mg 1-0-0
+Renavit 1-0-0
+Fosrenol 1000mg 1-1-1
+Rocaltrol 0,25μg 1-0-0
+Dekristol 20.000 I.E 1x/Woche
+Veltassa 8,4g PSE Mo-Mi-Fr an Nicht-Dialysetagen
+Sevelamercarbonat 800mg 1-1-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

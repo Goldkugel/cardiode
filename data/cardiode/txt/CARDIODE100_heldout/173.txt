@@ -1,0 +1,139 @@
+Aufnahmedatum: <[Pseudo] 2479-09-02 >
+Geburtsdatum: <[Pseudo] 2102-01-23 >
+Alter: 377
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 23/01/2102> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Ad: Klinische und echokardiographische Reevaluation bzgl. Aortenklappenstenose am <[Pseudo] 20/11/2187> um 12 Uhr in unserer B-ORG Ambulanz
+- Ad operativer/ interventioneller Klappenersatz
+- Erfolgreiche PTCA/ Stentimplantation 1 x DES der LCX -LRB- B-OTHER v. <[Pseudo] 02/10/2187> -RRB-
+- Koronare 3-Gefäßerkrankung
+- Gutes Kurzzeitergebnis nach PCI der LAD
+- Keine LV Angiographie, da LV nicht sondierbar
+- mit leicht- bis mittelgradig eingeschränkter linksventrikulärer Pumpfunktion
+-UNK- Z.n. erfolgreiche Rekanalisation der LAD mittels PTCA/2fach DE-Stentimplantation bei subtotalem Verschluss -LRB- B-OTHER vom <[Pseudo] 27/08/2187> -RRB-
+-UNK- Z.n. akutem Myokardinfarkt -LRB- NSTEMI -RRB- am <[Pseudo] 27/08/2187>
+- Kombiniertes Aortenklappenvitium -LRB- PPG mind. 45mmHg -RRB- -LRB- B-OTHER vom <[Pseudo] 27/08/2187> -RRB-
+-UNK- Echokardiographie:
+-UNK- deutlich hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion
+-UNK- Aortenklappe trikuspid, deutlich verdickt und verkalkt mit verminderter Separation. Dopplersonographisch kombiniertes Aortenvitium höheren Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 1,0 cm², PPG 65 mmHg, MPG 40 mmHg -RRB-
+-UNK- Hinweis auf diastolische LV-Dysfunktion
+- Asthma bronchiale
+- OSAS
+- Bulbusplaques bds.
+- Struma nodosa
+- Z.n. Herpes simplex
+- Axiale Gleithernie
+- Reflux
+- Z. n. Vagotomie <[Pseudo] 2148>
+- Narbenhernie
+- Sigmadivertikel
+- Z.n. Synkope
+- Polymyalgia rheumatica
+- Neuropathia vestibularis
+- Benigne Prostatahyperplasie
+- Z.n. Soorösophagitis
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie
+Allergien: Keine bekannt
+
+
+Indikation für stationären Herzkatheter:
+- Überwachungspflicht nach PTCA von mehr als 8h sowie erhöhtem Risiko einer Nachblutung
+
+Anamnese:
+Die aktuelle Vorstellung des Patienten erfolgt zur geplanten Intervention der LCX und weiteren Evaluation des Aortenklappenvitiums. Der Patient berichtet über eine stabile Belastungsdyspnoe nach etwa 1 Etage Treppensteigen, welche jedoch nicht immer reproduzierbar wäre. Auf spezifisches Nachfragen werden typische AP-Beschwerden, Ödeme, Palpitationen, Schwindel oder Synkopen verneint. Aktuell kein Hinweis auf akuten Infekt.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 164 cm, 69 kg
+HF: 54/min, regelmäßig
+RR: 120/55 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: spindelförmiges 3/6 Systolikum p.m. 2./3. ICR re. parasternal
+Lunge: bds. frei
+Periphere Ödeme: keine
+
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Bradykarder Sinusrhythmus, Herzfrequenz 54/min, Linkstyp, PQ 150 ms, QRS 95 ms, QTc 491 ms. Zeiten im Normbereich. RS-Umschlag in V3/V4 regelrecht, ST-Streckensenkung -LRB- 0,1 mV -RRB- in V3-V5. T-Negativierung in II, III, aVF, V2-V6.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 02/10/2187> -RRB- :
+Befund folgt im endgültigen Brief.
+
+Ruhe-EKG nach Intervention:
+Normofrequenter Sinusrhythmus, Herzfrequenz 70/min, Linkstyp, PQ 178ms, QRS 154 ms Linksschenkelblock, QTc 458ms. Verspätete R-Progression in V5/V6.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2187>
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+62.3 !H
+- <14 pg/ml
+<[Pseudo] 03/10/87>
+
+
+
+
+
+Zusammenfassung:
+In der Herzkatheteruntersuchung zeigte sich die bekannte koronare 3-Gefäßerkrankung mit leicht- bis mittelgradig eingeschränkter linksventrikulärer Pumpfunktion. Wir haben eine erfolgreiche PTCA und DE-Stentimplantation der LCX durchgeführt. Es stellte sich ein gutes Kurzzeitergebnis nach PTCA/Stentimplantation der LCX dar.
+
+Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- . Postinterventionell zeigten sich keine signifikanten EKG-Veränderungen und kein signifikanter Troponin-Anstieg.
+
+Dem Patienten wurde ein Implantatausweis ausgehändigt. Er wurde über notwendige Verhaltensanweisungen informiert.
+
+Procedere:
+Wir empfehlen die kombinierte Thrombozytenaggregationshemmung mit ASS und Ticagrelor für mindestens 12 Monate nach NSTEMI. Anschließend ist eine dauerhafte Thrombozytenaggregationshemmung mit ASS 100 mg täglich ausreichend. Der Patient wurde über die Notwendigkeit einer lückenlosen Einnahme von ASS und Ticagrelor is zum unten genannten Datum ausführlich aufgeklärt.
+
+Wir empfehlen eine neue Klinische und echokardiographische Reevaluation bzgl. der Aortenklappenstenose über unsere kardiologische-Ambulanz am <[Pseudo] 20/11/2187> um 12 Uhr.
+
+Die notwendigen präoperativen Untersuchungen wurden während des stationären Aufenthaltes durchgeführt. Wir werden den Patienten in der Klinik für Herzchirurgie anmelden, der Termin wird dem Patienten schriftlich mitgeteilt. Bis zur OP raten wir zu körperlicher Schonung.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der unten aufgeführten medikamentösen Therapie. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Nächster Termin/Kontrolle:
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchungen in der Praxis des betreuenden B-SALUTE B-TITLE B-PER
+
+Therapieempfehlung:
+Oral:
+ASS 100 mg 1-0-0 dauerhaft!
+Ticagrelor 90 mg 1-0-1 Bis einschl. <[Pseudo] 26/08/2188>
+Candesartan 8 mg 1-0-1
+Metoprolol 47,5 mg 1-0-1
+Atorvastatin 20 mg 0-0-1 Ziel-LDL < 55mg/dl, Kontrolle: CK, Leber-/Pankeasenzyme
+Pantoprazol 20 mg 1-0-1
+Iodid 100 µg 1-0-0
+Melatonin 2 mg 0-0-0-1
+Tamsulosin 0,4mg 0-0-1
+
+Inhalativ:
+Budesonid 0,2 mg 1-0-1
+
+Bei Bedarf:
+Benperidol 2mg
+Novalgin 500mg
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 03/10/2187> in Ihre geschätzte ambulante Betreuung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die Überweisung und vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE B-PER I-PER B-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

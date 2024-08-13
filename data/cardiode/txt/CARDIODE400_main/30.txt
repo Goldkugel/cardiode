@@ -1,0 +1,954 @@
+Aufnahmedatum: <[Pseudo] 2039-03-15 >
+Geburtsdatum: <[Pseudo] 1986-03-29 >
+Alter: 52
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 29/03/1986> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+
+- Kardiale Dekompensation bei DCMP -LRB- ED <[Pseudo] 2035> -RRB-
+-UNK- Vorherige Dekompensationen: <[Pseudo] 2035> und <[Pseudo] 12/2038>
+-UNK- Formal Kriterien der postinfektiösen Myokarditis -LRB- DCMI -RRB- erfüllt
+-UNK- Höchstgradig eingeschränkte LV Pumpfunktion -LRB- LVEF 17% -RRB- sowie deutlich eingeschränkte RV-Funktion -LRB- RVEF 22% -RRB- -LRB- Kardio MRT vom <[Pseudo] 14/02/2039> -RRB-
+
+- Rechtsherzkatheteruntersuchung -LRB- HK-Nr. B-OTHER v. <[Pseudo] 16/02/2039> -RRB- :
+-UNK- Erhöhte Drücke im kleinen Kreislauf -LRB- 50/25/36 mmHg -RRB-
+-UNK- PCWP: 25 mmHg
+-UNK- ZVD: 14 mmHg
+-UNK- Gemischtvenöse Sättigung: 50%
+-UNK- Cardiac Index: 1,7 l/min/m²
+-UNK- Komplikationslose Entnahme multipler -LRB- 4x -RRB- RV-Biopsien: Bild mit DCMP vereinbar, formal ebenfalls Kriterien der DCMI erfüllt
+
+- Rezidivierender LV-Thrombus
+-UNK- -LRB- Re? -RRB- -Thrombus erneut im externen TTE v. <[Pseudo] 17/01/2039> -LRB- B-ORG I-ORG -RRB-
+-UNK- Wiederbeginn Marcumar am <[Pseudo] 17/01/2039>
+-UNK- Umstellung auf Edoxaban am <[Pseudo] 11/03/2039>
+-UNK- Z.n. Ventrikelthrombus <[Pseudo] 04/2036>
+-UNK- Z.n. Niereninfarkt bei Ventrikelthrombus
+-UNK- Marcumar-Therapie -LRB- anamnestisch ca. 6 Monate -RRB-
+-UNK- Zwischenzeitlich LV-Thrombus nicht weiter nachgewiesen -LRB- externes TTE + TEE v. <[Pseudo] 11/01/2039> B-ORG I-ORG - I-ORG I-ORG -RRB- .
+
+- Erfolgreiche Implantation eines ICD-Device -LRB- Boston Scientific Charisma EL D332 -RRB- am <[Pseudo] 10/03/2039>
+-UNK- Z.n. nsVTs bei bekannter DCMP
+
+- Manifeste Hyperthyreose nach KM-Applikation bei bek. Amiodaron-induzierter Typ II Hyperthyreose
+-UNK- Z.n. Amiodaron-Therapie bis <[Pseudo] 04/2038>
+-UNK- Z.n. Kontrastmittelapplikation am <[Pseudo] 07/01/2039> -LRB- CT-Thorax -RRB-
+-UNK- Decortin-Stoßtherapie mit 1 mg/kg KG v. <[Pseudo] 23/02/2039> bis <[Pseudo] 09/03/2039>
+-UNK- Reduktion nach u.a. Schema
+
+- Mittelgradige depressive Episode
+- Niereninsuffizienz Grad IIIa
+
+Kardiovaskuläre Risikofaktoren: Familienanamnese -LRB- Bruder Herzinfarkt -RRB-
+
+Allergien/Unverträglichkeiten: Entresto fraglich -LRB- ausgeprägte Hypotonie -RRB-
+
+Externer Zuweiser: Krankenhaus I-ORG
+
+Anamnese:
+Die Aufnahme des Patienten erfolgte als Übernahme aus dem B-ORG I-ORG bei dekompensierter Herzinsuffizienz bei DCMP. Die dortige stationäre Aufnahme erfolgte am <[Pseudo] 06/02/2039> bei erneut zunehmender Dyspnoe, Palpitationen, Müdigkeit und Abgeschlagenheit. Der Patient gibt einen seit mehreren Wochen bestehenden Husten mit weißem Auswurf an. Es traten einmalig Hämoptysen auf. Bei Übernahme auf Station AHFU kardiozirkulatorisch stabiler, in Ruhe beschwerdefreier Patient.
+
+Medikation bei Übernahme auf Station OTHER:
+Propranolol 20mg 1-1-1
+Ramipril 5mg 1-0-0
+Spironolacton 25mg 2-0-0
+Atorvastatin 20mg 0-0-1
+ACC 600mg 1-0-0
+Forxiga 10mg 1-0-0
+Mirtazapin 15mg 0-0-1
+Pantoprazol 40mg 1-0-1
+Torasemid 10mg -UNK- -1/4-1
+Thiamazol i.v. 40mg 1-1-1
+
+Körperlicher Untersuchungsbefund:
+AZ: reduziert
+EZ: gut
+HF: 75/min, regelmäßig
+RR: 129/77mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Abdomen: weich, DS im rechten Unterbauch, subkutane Verhärtungen durch Clexane-Spritzen, V.a. Aszites, Flankenklopfschmerz rechts
+Leber/Milz: nicht vergrößert
+Periphere Ödeme: keine, Pat. trägt Thrombosestrümpfe
+Pulsstatus: unauffällig
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Herzfrequenz 75/min, überdrehter Linkstyp, komplettes Blockbild -LRB- Linksschenkelblock vorbeschrieben -RRB- , AV-Block °1, PQ 247 ms, QRS 126 ms, QTc 496 ms, VES, konsekutive KETV.
+
+Ruhe-EKG B-DATE:
+Normofrequenter Sinusrhythmus, Herzfrequenz 64/min, überdrehter Linkstyp, AV-Block °1, PQ 245 ms, QRS 122 ms, QTc 457 ms, VES, konsekutive KETV, S-Persistenz in V6 im Sinne eines linksanterioren Hemiblocks.
+
+Ruhe-EKG <[Pseudo] 16/02/2039:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 66/min, überdrehter Linkstyp, PQ 258ms im Sinne eines AV-Block I°, QRS 122 ms, QTc 443ms, VES, konsekutive KETV, S-Persistenz in V6 im Sinne eines linksanterioren Hemiblocks, ausbleibende R-Progression mit R/S-Umschlag in V5/V6
+
+Ruhe-EKG vom <[Pseudo] 21/02/2039:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 78/min, überdrehter Linkstyp, PQ 251ms im Sinne eines AV-Block I°, QRS 129ms, QTc 442ms, vereinzelt VES, konsekutive KETV, ausbleibende R-Progression, S-Persistenz in V6 im Sinne eines linksanterioren Hemiblocks
+
+Ruhe-EKG vom <[Pseudo] 02/03/2039:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 80/min, überdrehter Linkstyp, PQ 248ms im Sinne eines AV-Block I° mit LAHB, QRS 125ms, QTcF 440 ms, Bigeminus mit polymorphen VES, konsekutive KETV, ausbleibende R-Progression, S-Persistenz in V6.
+
+Echokardiographie vom <[Pseudo] 10/02/2039:>
+Dilatierter linker Ventrikel mit hochgradig eingeschränkter systolischer Pumpfunktion mit diffuser Hypokinesie. Am Apex flottierender Thrombus ca. 2,3 cm x 1,5 cm. Verminderte longitudinale Funktion. Hinweise auf Compliancestörung. LA, RA und RV erweitert, gute RVFunktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Leichtgradige Mitral- und Trikuspidalklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist nicht adäquat bestimmbar.
+
+Oberbauchsonographie vom <[Pseudo] 10/02/2039:>
+Eingeschränkte Schallbedingungen bei Meteorismus.
+Die Leber misst im größten kraniokaudalen Durchmesser 15,4 cm. Der Leberrand ist stumpf. Die Echodichte ist unauffällig, die Struktur ist inhomogen. Raumforderungen sind nicht abzugrenzen, bei o.g. Schallbedingungen jedoch auch nicht auszuschließen. Die Lebervenen sind offen und nicht gestaut. Die Pfortader misst in der Pforte 10 mm und ist orthograd perfundiert. Die V. cava inferior misst 2,7 cm und ist atemvariabel. Die Gallenblase lässt sich postprandial teilweise kontrahiert darstellen. Soweit beurteilbar, sind keine Konkremente zu sehen. Die intrahepatischen Gallengänge sind nicht dilatiert. Der Ductus Choledochus ist normal weit. Die Milz misst 10,7 x 4,3 cm. Das Echomuster ist homogen. Die V. lienalis ist nicht erweitert. Das Pankreas ist bei Darmgasüberlagerung nicht einsehbar. Beide Nieren erscheinen in Form, Größe und Lage altersentsprechend. Ein Harnstau ist nicht zu sehen. Die abdominale Aorta kommt bei massivem Meteorismus nicht zur Darstellung. Die Harnblase stellt sich unmittelbar post mictionem mit ca. 143 ml Restharn dar. Die Prostata misst 2 x 4 cm -LRB- H x B -RRB- . Keine freie abdominelle Flüssigkeit.
+Beurteilung:
+- Zeichen eines Leberparenchymschadens
+- Restharn von ca. 143 ml
+- Kein Aszites
+
+Endokrinologisches Konsil vom <[Pseudo] 10/02/2039:>
+Diagnose: Manifeste Hyperthyreose bisher unkl. Genese
+
+Empfehlung: Therapie: Thiamazol 3x40 i.v., wenn Ihrerseits möglich Decortin 50mg einmal tgl. über drei Tage i.v. danach direkt absetzen. Beta-Blockade nach kardiologischer Maßgabe. Kontrolle fT3 und fT4 in 2-3 Tagen. Diagnostik: TRAK, TPO- und Tg-AK bestimmen, SD-Sonographie anfordern.
+
+Schilddrüsen-Sonographie vom <[Pseudo] 11/02/2039:>
+Schilddrüsenvolumen: Gesamtvolumen orientierend ca. 25 ml, damit etwas vergrößert. Schilddrüsenparenchym bds. homogen, echonormal. Perfusion bds. homogen und normoperfundiert. Strukturen schluckverschieblich Bds. keine Zysten, Knoten oder patholog. vergrößerten LKs darstellbar.
+Fazit: Struma diffusa, Szintigraphie im Verlauf empfohlen.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäß vom <[Pseudo] 14/02/2039:>
+Beidseits diskrete Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet.
+IMD rechts 0,06 cm, links 0,05 cm.
+Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar.
+Erstbefund in domo.
+
+Kardio-MRT vom <[Pseudo] 14/02/2039:>
+Dilatierter linker Ventrikel mit global höchstgradig eingeschränkter systolischer Funktion bei Hypokinesie
+aller Wandabschnitte und eingeschränkter longitudinaler Funktion. LA und RA deutlich dilatiert. RV dilatiert mit deutlich eingeschränkter systolischer Funktion. Nachweis einer flottierenden Raumforderung im Bereich des LV-Apex -LRB- ca. 16x45x15mm -RRB- . Soweit bei deutlicher Artefaktüberlagerung berteilbar, global leicht erhöhte T1-Relaxationszeiten. T2- Mapping artefaktbedingt nicht beurteilbar. Keine LGE-Sequenzen möglich bei vorherigem Untersuchungsabbruch.
+Nebenbefunde
+VCI dilatiert. Rechts betont unregelmäßige Nierenoberfläche.
+Zusammenfassung
+
+Abbruch der Untersuchung vor KM-Gabe bei ausgeprägter Dyspnoe auf expliziten Patientenwunsch.
+Dilatierter linker Ventrikel mit global höchstgradig eingeschränkter systolischer Funktion -LRB- LVEF 17% -RRB- .
+RV dilatiert mit deutlich eingeschränkter systolischer Funktion -LRB- RVEF 22% -RRB- .
+Nachweis eines a.e. Thrombus im Bereich des LV-Apex -LRB- eine weitere Gewebscharaktersierung z.B. mittels LGE war bei vorzeitigem Untersuchungsabbruch nicht möglich -RRB- .
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 15/02/2039:>
+Es liegen keine Voraufnahmen vor.
+Befund und Beurteilung:
+Bild einer globalen Cardiomegalie mit verbreitertem Herzschatten -LRB- CTR 18/29 -RRB- und verkleinertem Retrosternal- / Retrocardialraum. Schlankes oberes Mediastinum. Trachea nicht verlagert oder eingeengt.
+Etwas verschattete Hilusregionen sowie zentral betonte Lungengefäßzeichnung einzelnen Kerley-B-Linien als Zeichen einer mäßigen pulmonalvenösen Stauung. Geringe Ergussverschattung über dem linken Randwinkel. Kein relevanter Erguss rechts. Kein Nachweis flächiger Infiltrate. Kein Pneumothorax.
+Degenerative Veränderungen der BWS.
+
+Rechtsherzkatheteruntersuchung -LRB- HK-Nr. B-OTHER vom <[Pseudo] 16/02/2039> -RRB- :
+Rechtsherzkatheteruntersuchung + RV-Biopsie bei DCMP.
+Erhöhte Drücke im kleinen Kreislauf -LRB- 50/25/36 mmHg; PCWP 25 mmHg -RRB- ; erhöhter PVR -LRB- 264 dyn*s*cm^-5 -RRB- ; Gemischtvenöse Sättigung: 50%, Cardiac Index: 1,7 l/min/m². Komplikationslose Entnahme multipler -LRB- 4x -RRB- RV-Biopsien.
+Sonstige Diagnosen:
+DCMP ED B-DATE EF akt. 23%
+Ventrikelthrombus
+nsVT's, Versorgung mit Lifevest
+Hyperthyreose
+Chron. NIS
+CvRF: pos. FA
+Maßnahmen:
+
+- PE-Ausschluss wiederholen
+- Sichtung/Wertung RV-Biopsien
+
+Echokardiographie vom <[Pseudo] 17/02/2039:>
+Untersuchung am Bett auf Station B-ORG, deutlich reduzierte Schallbedingungen mit
+eingeschränkter Beurteilbarkeit. Kein Perikarderguss nachweisbar. Vena cava inferior gestaut und nicht atemvariabel.
+
+Pathologisch-anatomische Begutachtung mit kritischer Stellungnahme vom <[Pseudo] 17/02/2039:>
+Material:
+RV-Biopsate.
+Klinische Angaben:
+DCM. Z. n. Myokarditis.
+Makroskopie:
+Vier bis 0,1 cm mess. PEs. Färbung mit HE, PAS, AFOG, EvG, Kongo und Eisen.
+Mikroskopie:
+Histologisch erkennt man subendokardiales Arbeitsmyokard mit bis zu mäßiger Kaliberschwankung der Kardiomyozyten. Diese im Übrigen mit teils ausgeprägter Myofibrillenreduktion sowie mäßig größenvariablen, teils hyperchromatischen Zellkernen. Subendokardiale Bindegewebsfaservermehrung, teilweise auch mit Übergreifen auf die Kardiomyozyten und beginnender Einzelzellumscheidung. Keine signifikante Vermehrung von Entzündungszellen. Keine Granulome, keine mehrkernigen Riesenzellen, keine Eosinophilie. Intramurale Koronararterienäste ohne signifikante Lumenstenosierung. Keine pathologischen Eisenablagerungen. In der Kongofärbung keine eosinophilen Ablagerungen.
+Diagnose:
+Die makroskopische und histologische Begutachtung ergibt:
+Rechtsventrikuläres Arbeitsmyokard mit bis zu mäßiger muskulärer Hypertrophie, Myofibrillenreduktion sowie mäßiggradiger Gefüge-Dilatation.
+Kommentar:
+
+Kein Anhalt für eine Vaskulitis oder eine floride Myokarditis -LRB- bei klinisch angegebenem Z. n. Myokarditis -RRB- . Zur Frage einer möglichen -LRB- postinfektiösen -RRB- Myokarditis wird ergänzend eine Immunhistologie durchgeführt. Ein entsprechender Nachbericht folgt. Kein Anhalt für eine Speichererkrankung -LRB- Amyloid/Eisen -RRB- . Das vorliegende histomorphologische Bild ist grundsätzlich vereinbar mit einer klinisch vermuteten DCMP.
+
+NACHBERICHT vom <[Pseudo] 21/02/2039:>
+Bei den immunhistologischen Zusatzuntersuchungen finden sich pro mm2 fokal mehr als 14 CD68-positive Makrophagen bzw. CD3-positive Lymphozyten, sodass formal die Kriterien einer -LRB- postinfektiösen -RRB- Myokarditis -LRB- DCMI -RRB- erfüllt sind.
+
+6-Minuten-Gehtest vom <[Pseudo] 18/02/2039:>
+Ruhewerte:
+Blutdruck 102/78 mmHg, Herzfrequenz 62/min.
+Nach Gehtest:
+
+Blutdruck 139/112 mmHg, Herzfrequenz 92/min.
+
+Subjektive Bewertung gemäß Borg-Skala -LRB- 6-20 Punkte -RRB- :
+Beine 11, Atemnot 17, Herzdruck 10, Gesamt 13.
+Gehstrecke:
+
+365 m.
+
+-LRB- < 500 m eingeschränkt; <350 m deutlich eingeschränkt -RRB-
+
+Kommentar: eine kurze Pause 30 Sek. wegen Atemnot
+
+Spiroergometrie vom <[Pseudo] 21/02/2039:>
+Befund: Stufenförmige Belastung bis maximal 45 Watt, Abbruch wegen peripherer Ermüdung. Subjektive Erschöpfung -LRB- Borg-Skala -RRB- : 2/10.
+Globale Parameter: Maximale Sauerstoffaufnahme -LRB- VO2peak -RRB- 693 ml/min, entsprechend 28% des Solls oder 8,2 ml/ -LRB- min -UNK- kg -RRB- , somit hochgradig reduzierte Leistungsfähigkeit. Anaerobe Schwelle bei 27% des Soll VO2peak. Der respiratorische Quotient lag am Ende der Untersuchung bei 1,1; somit metabolische Ausbelastung.
+Kardiale Parameter: Herzfrequenzanstieg -LRB- EKG -RRB- von 86/min auf maximal 102/min. 61% vom Soll, somit Herzfrequenzreserve nicht t Im Ruhe-EKG Sinusrhythmus mit vorbekanntem LSB und konsekutiven Kammerendteilveränderungen. Unter Belastung intermittierend Bigeminus mit Pulsdefizit -LRB- radial und über Pulsoxymetrie ca. 50/min -RRB- . Sauerstoffpuls unter Belastung nicht aussagekräftig verwertbar. Max RR unter Belastung 122/83 mmHg.
+Pulmonale Parameter: Kompensatorische Hyperventilation in Ruhe und unter Belastung, normales Atemmuster mit angedeutet restriktiver Komponente. V´E/V´CO2 Slope bei 43. Atemäquivalente für O2 und CO2 in Ruhe erhöht mit fehlender Ökonomisierung unter Belastung. Somit noch Ineffizienz der Atmung. Atemreserve 65% -LRB- Sollwert: 28% -RRB- , somit nicht ausgeschöpft. Art. Sauerstoffsättigung in Ruhe 98%, unter maximaler Belastung 98%.
+
+Zusammenfassung: Hochgradig reduzierte kardiopulmonale Leistungsfähigkeit -LRB- VO2 Peak 8,2 ml/min/kg -RRB- bei kardialer Limitierung. Unter Belastung intermittierend Bigeminus mit Pulsdefizit -LRB- radial und über Pulsoxymetrie HF ca. 50/min -RRB- . Herzfrequenzreserve nicht ausgeschöpft, flaches Blutdruckprofil. Normales Atemmuster mit angedeutet restriktiver Komponente. Kein Hinweis auf pulmonale Limitierung.
+
+Lungenfunktionsprüfung vom <[Pseudo] 21/02/2039:>
+Kapilläre Blutgasanalyse:
+Raumluft:
+-UNK- -UNK- -UNK- -UNK- -UNK- -UNK- -UNK- -UNK- -UNK- -UNK-
+Spirometrie
+.
+
+VC leicht reduziert, V.a. Restriktion.
+
+
+Langzeit-EKG vom <[Pseudo] 22/02/2039:>
+Normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 57/min und 94/min,im Mittel 77/min. Eingeschränkte Herzfrequenzvariabilität. Vereinzelte supraventrikuläre Extrasystolen. Keine Pausen. Viele ventrikuläre Extrasystolen unterschiedlicher Morphologien, z. T. auch repetitiv mit weitem Kopplungsintervall und als Bigeminus. Einige Couplets. Einige Triplets -LRB- mit max. 180/min -RRB- . Formal Lown IV b. In Abhängigkeit der kardialen Grunderkrankung kann eine weitere Risikostratifizierung sinnvoll sein.
+
+Abdomensonographie vom <[Pseudo] 25/02/2039:>
+Eingeschränkte Schallbedingungen bei Meteorismus.
+Die Leber misst im größten kraniokaudalen Durchmesser 15,4 cm. Der Leberrand ist stumpf. Die Echodichte ist unauffällig, die Struktur ist inhomogen. Raumforderungen sind nicht abzugrenzen, bei o.g. Schallbedingungen jedoch auch nicht auszuschließen. Die Lebervenen sind offen und nicht gestaut. Die Pfortader misst in der Pforte 10 mm und ist orthograd perfundiert. Die V. cava inferior misst 2,7 cm und ist atemvariabel.
+Die Gallenblase lässt sich postprandial teilweise kontrahiert darstellen. Soweit beurteilbar, sind keine Konkremente zu sehen. Die intrahepatischen Gallengänge sind nicht dilatiert. Der Ductus Choledochus ist normal weit.Die Milz misst 10,7 x 4,3 cm. Das Echomuster ist homogen. Die V. lienalis ist nicht erweitert.
+Das Pankreas ist bei Darmgasüberlagerung nicht einsehbar.
+Beide Nieren erscheinen in Form, Größe und Lage altersentsprechend. Ein Harnstau ist nicht zu sehen.
+Die abdominale Aorta kommt bei massivem Meteorismus nicht zur Darstellung.
+Die Harnblase stellt sich unmittelbar post mictionem mit ca. 143 ml Restharn dar.
+Die Prostata misst 2 x 4 cm -LRB- H x B -RRB- .
+Keine freie abdominelle Flüssigkeit.
+Kein Nachweis eines Infektfokus im einsehbaren Untersuchungsgebiet.
+Beurteilung:
+-UNK- Zeichen eines Leberparenchymschadens
+-UNK- Restharn von ca. 143 ml
+-UNK- Kein Aszites
+-UNK- Kein Infektfokus abgrenzbar
+-UNK- Soweit beurteilbar, keine Raumforderungen nachweisbar
+
+CT-Schädel nativ vom <[Pseudo] 25/02/2039:>
+Befund:
+Es liegen keine Voruntersuchung des Neurokranium zum Vergleich vor.
+Regelrechte Abgrenzbarkeit von Kortex und Basalganglien. Kleines, Kortexisodense, rundliches Areal von ca. 2 mm Durchmesser in der vorderen Corona radiata rechts DD Cavernom -LRB- Serie 2 Bild 17 -RRB- . Keine perifokale Dichteminderung als Hinweis für einen Ödem. Infratentoriell bei üblicher Artefaktüberlagerung unauffällige Darstellung des Hirnparenchyms. Grenzwertig weite innere und äußere Liquorräume ohne Zeichen einer Liquorzirkulationsstörung. Makroangiopathie mit Wandsklerose. Soweit erfasst, Nasennebenhöhlen und Ohrnebenräume normal lufthaltig.
+Beurteilung:
+-UNK- Kleine, rundliche Kortexisodensität in der rechten Corona radiata, DD Cavernom.
+-UNK- Sonst altersentsprechender Befund.
+
+Echokardiographie vom <[Pseudo] 10/03/2039:>
+Bett-TTE auf Normalstation.
+Kein Perikarderguss. Vena Cava inferior nicht gestaut, atemvariabel.
+OP-Bericht: Implantation eines 1-Kammer-ICD vom <[Pseudo] 10/03/2039:>
+Diagnosen:
+Primärprophylaktische Indikation zur ICD Therapie bei DCM mit hochgradig eing. LV Funktion, NYHA III; SR, QRS Schmal, PH, Vorandensein eines LV Thrombus, Antikoagulation mittels NOAK. Leukozytose unter Prednisolontherapie PCT <0.05.
+
+ICD-Aggregat: Boston Scientific Charisma EL D332 SN: 278718
+Ventrikelelektrode: Boston Scientific Reliance SH 0673 64cm DF4 SN: 135508
+Messwerte:
+
+RV: RS: 0,3 V/0,5 ms
+Impedanz: 511 W
+Sensing: 11,0 mV
+Zugang: V. cephalica links
+
+DFT: - OP-Dauer: 41 min. DL-Zeit: 1,5 min Dosis: 0,5 Gy·cm² KM: 0 ml
+OP-Bericht:
+
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links. Der Zugang der Ventrikelelektrode erfolgte transvenös über die Vena cephalica links. Präparation der Vene im Sulcus deltoidopectoralis. Anschlingen, distale Ligatur und Inzision der Vene. Direktes Einführen der Sonde in die Vene und Vorschieben unter Bildwandlerkontrolle in die Spitze des rechten Ventrikels. Problemloses Platzieren der Sonde mit guten Messwerten. Danach Konnektion des Generators und Versenken in der Tasche. Schichtweiser Wundverschluss unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links subfaszial angelegt. Verband. Verzicht auf DFT-Testung bei High-Energy Gerät, primärprophylaktischer Indikation und typischer Sonden-/ sowie Aggregatlage.
+Procedere:
+
+1. Verbandswechsel 3-4 Tage postoperativ, Sandsack bis morgen früh, Wiederaufnahme der Antikoagulation -LRB- lt. Stationsteam sei nach RS Gerinnungsambulanz bei LV Thrombus die Aufnahme einer DOAC Therapie mit Edoxaban geplant -RRB- ab dem Morgen des ersten postoperativen Tages volltherapeutisch nach Ausschluss implantationsassoziierter Komplikationen, Monitorüberwachung bis zur Aggregatkontrolle, Rö-Thorax in 2 Ebenen, Echokontrolle zum PE-Ausschluss, Aggregatkontrolle morgen ohne VF-Induktion, WV zur Wundkontrolle in 10-12 Tagen -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- . Fahrungeeignet -LRB- gemäß DGK-Empfehlungen -RRB- für mindestens 2 Wochen als Privatkraftfahrer -LRB- Klasse I -RRB- , i.d.R. dauerhaft Fahrungeeignet als Berufskraftfahrer -LRB- Klasse II -RRB- .
+
+Schrittmacherabfrage vom <[Pseudo] 11/03/2039:>
+Regelrechte ICD-Funktion. Seit Implantation keine neuen Episoden im Speicher. Batteriestatus gut. Impedanz, Wahrnehmung und Reizschwelle regelrecht. Aktuell <0,1% ventrikuläres Pacing. Keine kurzen VV-Intervalle. Keine DFT-Testung, bei typischer Sonden- und Aggregatlage. Der ICD-Ausweis wurde ausgestellt und dem Pat. ausgehändigt. Die Informationsbroschüre -LRB- Lt. MPG -RRB- wurde dem Patient ebenfalls ausgehändigt und dieser über Verhaltensmaßnahmen aufgeklärt. Der Alarm wurde dem Patienten demonstriert.
+Es besteht eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 2 Wochen gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+Procedere:
+
+Wundkontrolle am 03. - 04. post-Op-Tag -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- Reizlose Aggregattasche. Wiedervorstellung zur nächsten ICD-Kontrolle am <[Pseudo] 15/04/2039> um 11:30 Uhr in unserer B-ORG Ambulanz empfohlen. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch einen niedergelassenen kardiologischen B-SALUTE in Intervallen von 6 Monaten durchführen zu lassen.
+Ihr ICD-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan-Modus -RRB- für die Verwendung im MRT entwickelt.
+Wichtig:
+
+Vor der MRT-Untersuchung sollte ihr ICD-System auf diesen SureScan-Modus programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung erfolgen, da dieser SureScan-Modus in dieser Zeit der Einheilungsphase nicht aktivierbar ist.
+Labor:
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 10/02/2039> und dem <[Pseudo] 12/03/2039>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+<NONE> !H
+4 - 10 /nl
+<[Pseudo] 12/03/39>
+Hb
+14.7
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.9
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.440
+0,38 - 0,52 l/l
+B-DATE
+MCV
+90
+83 - 97 fl
+B-DATE
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+33
+30 - 36 g/dl
+B-DATE
+RDW
+13.9
+12,9 - 18,7 %
+<[Pseudo] 12/03/39>
+hypochr.Erythroz.
+0.7
+0 - 2 %
+<[Pseudo] 12/03/39>
+Retikulozyten
+34.00 !H
+5 - 15 %o
+<[Pseudo] 25/02/39>
+Reti-Prod.Index
+3.4
+>2
+B-DATE
+Reti-Hb
+31.5
+28 - 35 pg
+<[Pseudo] 25/02/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Thrombozyten
+329
+150 - 440 /nl
+B-DATE
+Lympho -LRB- abs. -RRB-
+1.22
+1,0 - 4,8 /nl
+<[Pseudo] 25/02/39>
+Neutroph.G.-abs.
+12.41 !H
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.43
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.13
+- <0,5 /nl
+<[Pseudo] 25/02/39>
+Basoph.G. -LRB- abs -RRB-
+0.01
+- <0,2 /nl
+<[Pseudo] 25/02/39>
+Neutroph.G. -LRB- mech. -RRB-
+87.2 !H
+50 - 80 %
+<[Pseudo] 25/02/39>
+Lympho -LRB- mech. -RRB-
+8.6 !L
+25 - 40 %
+<[Pseudo] 25/02/39>
+Basoph.G.
+0.1
+- <1 %
+<[Pseudo] 25/02/39>
+Monozyten -LRB- mech. -RRB-
+3.0
+2 - 9 %
+<[Pseudo] 25/02/39>
+Eosinoph.G. -LRB- mech. -RRB-
+0.9 !L
+2 - 4 %
+<[Pseudo] 25/02/39>
+Elektrolyte & Nierenfunktionsparameter
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+132 !L
+135 - 146 mmol/l
+<[Pseudo] 12/03/39>
+Kalium -LRB- ISE -RRB-
+4.70
+3,4 - 4,8 mmol/l
+<[Pseudo] 12/03/39>
+Calcium
+2.24
+2,11 - 2,59 mmol/l
+<[Pseudo] 12/03/39>
+Phosphat
+1.49 !H
+0,84 - 1,45 mmol/l
+B-DATE
+Magnesium
+0.88
+0,75 - 1,05 mmol/l
+<[Pseudo] 25/02/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Chlorid -LRB- ISE -RRB-
+104
+98 - 111 mmol/L
+<[Pseudo] 25/02/39>
+Kreatinin
+1.08
+0,6 - 1,2 mg/dl
+<[Pseudo] 12/03/39>
+Harnstoff
+63 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+78.5
+>60 s.u.
+B-DATE
+MDRD
+73.43
+ml/min/1,73qm
+<[Pseudo] 25/02/39>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Ges.Eiweiss
+70.3
+60 - 80 g/l
+B-DATE
+Albumin quant.
+46.4
+30 - 50 g/l
+B-DATE
+Glucose
+91
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+25
+- <46 U/l
+B-DATE
+GPT/ALT
+67 !H
+- <50 U/l
+B-DATE
+AP
+48
+40 - 130 U/l
+B-DATE
+GGT
+42
+- <60 U/l
+B-DATE
+CHE
+9.78
+5,32 - 12,92 kU/l
+B-DATE
+Ges.Bili.
+0.60
+- <1.0 mg/dl
+B-DATE
+Dir.Bilirubin
+0.20
+- <0.3 mg/dl
+B-DATE
+Harnsäure
+5.2
+- <7 mg/dl
+<[Pseudo] 25/02/39>
+Triglyceride
+157 !H
+- <150 mg/dl
+<[Pseudo] 25/02/39>
+Cholesterin
+161.0
+- alt.abh. mg/dl
+<[Pseudo] 25/02/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+90
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+40 !L
+>40 mg/dl
+B-DATE
+p-Amylase
+45
+8 - 53 U/l
+B-DATE
+Lipase
+66 !H
+19 - 63 U/l
+<[Pseudo] 25/02/39>
+Eisen
+9.5 !L
+14 - 32 µmol/l
+<[Pseudo] 10/02/39>
+Ferritin
+146
+30 - 300 µg/l
+<[Pseudo] 25/02/39>
+Transferrin
+2.40
+2,0 - 3,6 g/l
+<[Pseudo] 25/02/39>
+TFSG
+16
+16 - 45 %
+<[Pseudo] 10/02/39>
+CRP
+4.6
+- <5 mg/l
+<[Pseudo] 12/03/39>
+PCT sens.
+<0.05
+- <0,05 ng/ml
+<[Pseudo] 10/03/39>
+Hämolyse
+-
+
+<[Pseudo] 12/03/39>
+ikterisch
+-
+
+<[Pseudo] 12/03/39>
+Lipämie
+-
+
+<[Pseudo] 12/03/39>
+Aktivitätsparameter & Elektrophorese
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+LDH
+192
+- <317 U/l
+B-DATE
+CK
+23
+- <190 U/l
+B-DATE
+hs-TroponinT
+37.6 !H
+- <14 pg/ml
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Troponin I
+1.90 !H
+- <0,04 µg/l
+B-DATE
+NT-BNP
+13444 !H
+- <125 ng/l
+<[Pseudo] 25/02/39>
+PSA
+0.40
+- <4 µg/l
+<[Pseudo] 25/02/39>
+Endokrinologie & Diabetologie
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.9
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+41
+20 - 42 mmol/mol
+<[Pseudo] 25/02/39>
+mittlere Glucose
+123 !H
+- <110 mg/dl
+<[Pseudo] 25/02/39>
+TSH
+<0.008 !L
+0,400 - 4,000 mU/l
+<[Pseudo] 10/03/39>
+FT3
+3.08
+2,0 - 4,2 ng/l
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+FT4
+<NONE> !H
+8 - 18 ng/l
+B-DATE
+Thyreogl.AK
+35
+- <60 IU/ml
+B-DATE
+TRAK -LRB- stim. -RRB-
+<0.1
+- <0,1 IU/l
+B-DATE
+Mikr.AK -LRB- TPO -RRB-
+<5
+- <60 IU/ml
+B-DATE
+PTH intakt
+4.4
+1,3 - 7,6 pmol/l
+<[Pseudo] 25/02/39>
+Gerinnungsdiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+73.6
+70 - 125 %
+<[Pseudo] 09/03/39>
+INR - ber.
+1.14
+- <1.2
+B-DATE
+aPTT
+19.0
+- <35 s
+<[Pseudo] 10/03/39>
+ATIII
+129.2 !H
+80 - 120 %
+<[Pseudo] 25/02/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Anti-Xa /LMWH
+1.42 !H
+0,3 - 1,1 U/ml
+<[Pseudo] 04/03/39>
+Prot.C Aktivitaet
+>120.0 !H
+60 - 120 %
+<[Pseudo] 25/02/39>
+Protein S -LRB- frei -RRB-
+111.1
+72 - 132 %
+<[Pseudo] 25/02/39>
+
+
+Spezielle Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Vitamin B12
+328
+160 - 670 pmol/l
+<[Pseudo] 25/02/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Folsäure
+17
+4,5 - 21 nmol/l
+<[Pseudo] 25/02/39>
+Urindiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+5.50 !L
+6,0 - 8,0
+<[Pseudo] 21/02/39>
+SpezGew/Tstr.
+1010
+1001 - 1035
+<[Pseudo] 21/02/39>
+Glucose/Tstr.
+>=1000
+- neg. mg/dl
+<[Pseudo] 21/02/39>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 21/02/39>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 21/02/39>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 21/02/39>
+Eiweiß/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 21/02/39>
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 21/02/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 21/02/39>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+0
+- <8 /µl
+B-DATE
+Leuko/µl
+3.0
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+positiv
+/µl
+B-DATE
+Sammelvol.
+0
+ml
+<[Pseudo] 25/02/39>
+U-Kreatinin
+Kein Material
+22 - 328 mg/dl
+<[Pseudo] 25/02/39>
+Infektiologie
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+anti-HAV IgM
+negativ
+qualitativ
+<[Pseudo] 25/02/39>
+anti-HAV IgG/IgM
+positiv
+qualitativ
+<[Pseudo] 25/02/39>
+HBsAg qual.
+negativ
+qualitativ
+<[Pseudo] 25/02/39>
+HBE AG-EIA
+negativ
+qualitativ
+<[Pseudo] 25/02/39>
+anti-HBc IgG/IgM
+negativ
+qualitativ
+<[Pseudo] 25/02/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+anti-HBe IgG/IgM
+negativ
+qualitativ
+<[Pseudo] 25/02/39>
+anti-HBs quant.
+92
+IU/l
+<[Pseudo] 25/02/39>
+anti-HCV IgG
+negativ
+qualitativ
+<[Pseudo] 25/02/39>
+anti-HIV1/2 + Ag
+negativ
+qualitativ
+<[Pseudo] 25/02/39>
+Blutgasanalyse
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH
+7.42
+7,37 - 7,45
+B-DATE
+pO2
+97
+mmHg
+B-DATE
+pCO2
+36.9
+35 - 45 mmHg
+<[Pseudo] 13/02/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-4.0 !L
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+22.0
+mmol/l
+B-DATE
+Laktat
+32.2 !H
+- <16 mg/dl
+<[Pseudo] 13/02/39>
+Zusammenfassung:
+
+
+
+
+
+Die stationäre Aufnahme erfolgte als Übernahme aus dem B-ORG I-ORG bei rezidivierenden kardialen Dekompensationen bei a.e. postmyokarditischer DCMP. Bei Übernahme auf unsere B-ORG zeigte sich ein kardiorespiratorisch stabiler und subjektiv beschwerdefreier Patient.
+Hyperthyreose:
+
+Bei bek. Amiodaron-induzierter Hyperthyreose Typ II werteten wir die bei Aufnahme laborchemisch manifeste Hyperthyreose als im Rahmen der KM-Gabe vom <[Pseudo] 07/01/2039> exazerbiert. Die extern begonnene Therapie mit Carbimazol stellten wir auf eine i.v. Thiamazoltherapie um. Zudem führten wir zunächst eine Decortin-Stoßtherapie mit 50mg täglich vom <[Pseudo] 16.02.> - <[Pseudo] 18.02.> durch. Zudem nahmen wir Propranolol hinzu. Bei persistierend manifester Hyperthyreose begannen wir eine erneute Kortisonstoßtherapie mit 80mg Decortin täglich vom <[Pseudo] 23/02/2039> bis zum B-DATE Konsekutiv folgte das Ausschleichen des Kortisons nach u.g. Schema. Hierunter waren die SD-Hormone regredient, jedoch bis zur Entlassung nicht normwertig.
+
+Wir bitten um Fortführung und Ausschleichen der Kortisontherapie über insgesamt ca. 20 Wochen nach u.g. Schema. Die Thiamazoltherapie konnte im Verlauf ausgeschlichen und auf Carbimazol oralisiert werden. Wir empfehlen die engmaschige Kontrolle der Schilddrüsenparameter im Verlauf sowie die Durchführung einer SD-Szintigraphie. Sollte sich keine Euthyreose einstellen lassen, sollte eine Thyreoidektomie evaluiert werden. Nach Herstellen der Euthyreose sollte die Beta-Blockade auf einen selektiven Beta-1-Rezeptor-Antagonisten, z.Bsp. Metoprolol, umgestellt werden.
+
+LVAD/HTX-Evaluation:
+Echokardiographisch und MR-tomographisch zeigte sich ein dilatierter linker Ventrikel mit hochgradig eingeschränkter systolischer Pumpfunktion und diffuser Hypokinesie sowie eine deutlich eingeschränkte RV-Funktion. Apikal zeigte sich echokardiographisch ein flottierender Thrombus mit einer Größe von ca. 2,4cm x1,5 cm. Eine Antikoagulation mit Marcumar -LRB- Ziel-INR 2,5-3 -RRB- wurde extern begonnen. Das Kardio-MRT musste bei Dyspnoe des Patienten vor der KM-Gabe abgebrochen werden.
+
+Im Rechtsherzkatheter fanden sich erhöhte Drücke im kleinen Kreislauf -LRB- 50/25/36 mmHg -RRB- , PCWP 25 mmHg und ein deutlicher reduzierter Cardiac index -LRB- 1,7l/min/m2 -RRB- . Eine Biopsieentnahme zeigte keinen Anhalt für eine Vaskulitis oder floride Myokarditis; das Bild zeigte sich grundsätzlich vereinbar mit einer DCMP. In der Immunhistochemischen Aufarbeitung wurden formal die Kriterien einer DCMI erfüllt. Postprozedural wurde echokardiographisch ein Perikarderguss ausgeschlossen.
+
+Wir komplettierten die Listungsuntersuchungen zur Versorgung mittels LVAD und perspektivisch HTX inkl. der Durchführung eines 6-Minuten-Gehtest, einer Lungenfunktionstestung und einer Spiroergometrie und führten eine Zahnextraktion über unsere MKG durch. Es folgte ein Herzchirurgisches Konsil. Hiernach ist eine LVAD Implantation prinzipiell im Verlauf indiziert, bei allerdings kardial kompensierter Situation aktuell nicht zwingend notwendig.
+
+Zur Kontrolle und Re-Evaluation einer LVAD-Versorgung und Transplantationslistung unter optimierter Herzinsuffizienz-Therapie haben wir einen Termin in unserer HTX-Ambulanz am <[Pseudo] 27/05/2039> vereinbart.
+
+Während des stationären Aufenthaltes war der Patient mit Clexane therapeutisch antikoaguliert. Nach ICD-Einbau erfolgte die Umstellung der Antikoagulation auf Edoxaban 60mg 1-0-0. Sollte im Rahmen der nächsten ambulanten Vorstellung die LVAD oder HTX-Versorgung gebahnt werden, empfehlen wir beim nächsten stationären Aufenthalt die Antikoagulation wieder auf Marcumar umzustellen.
+ICD-Versorgung:
+
+Nach Rücksprache mit unserer Rhythmologie sahen wir bei grenzwertiger QRS- Dauer die Indikation für den Einbau eines CRT-D im Rahmen des stationären Aufenthaltes nicht als gegeben. Bei non-sustained VT und höchstgradig eingeschränkter Pumpfunktion planten wir deshalb eine 1-Kammer ICD Versorgung. Am <[Pseudo] 10/03/2039> wurde o.g. Device erfolgreich und komplikationslos installiert. Postinterventionell zeigte sich in der Schrittmacherabfrage eine regelrechte Funktion. Im Röntgen-Thorax zeigten sich die Elektroden mit regelrechtem Sitz. Echokardiographisch der Ausschluss eines Perikardergusses.
+Allgemein:
+
+Wir passten die Herzinsuffizienzmedikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf.
+
+Des Weiteren empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien sowie regelmäßige Gewichtskontrollen.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten mit einem Entlassgewicht von 80 kg in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Procedere/Termine:
+- Fadenzug bei einem Zahnarzt am Montag den <[Pseudo] 14/03/2039>
+- Wund- und Laborkontrolle beim Hausarzt am <[Pseudo] 14/03/2039>
+- Kontrolle in unserer HTX-Ambulanz am <[Pseudo] 27/05/2039> um 10:30 Uhr
+- Engmaschige Kontrolle der Schilddrüsenparameter und Ambulante Durchführung einer Schilddrüsenszintigraphie; bei Therapieresistenz Evaluation einer Thyreoidektomie
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Edoxaban 60mg 1-0-0
+Propranolol 20mg 1-0-1
+Bitte Umstellen auf selektiven Betablocker nach Erreichen einer Euthyreose
+Entresto 24/26 2-0-1, neu
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und Dosiserhöhung bei Blutdrucktoleranz
+Spironolacton 50mg 1-0-1, erhöht
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Forxiga 10mg 1-0-0
+Torem 10mg 1-1-0
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Atorvastatin 40mg 0-0-1, erhöht
+Bitte regelmäßige Kontrollen von CK, Transaminasen und Lipiden und LDL-adaptierte Dosisanpassung nach aktuellen Leitlinien
+Pantozol 40mg 1-0-1
+Decortin 70mg 1-0-0
+Nach o.g. Schema, ab <[Pseudo] 14/03/2039> 60mg
+Carbimazol 10mg 1-0-0
+Bis Euthyreose, bitte regelmäßige Kontrollen des Blutbildes und der Transaminasen
+Kalinor retard 600mg 2-1-1
+Ideos Kapseln 500/400mg 1-0-1
+Irenat-Tropfen 30-30-30
+Bis Euthyreose
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+Mit freundlichen Grüßen
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

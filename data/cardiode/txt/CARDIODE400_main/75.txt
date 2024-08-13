@@ -1,0 +1,271 @@
+Aufnahmedatum: <[Pseudo] 2035-11-04 >
+Geburtsdatum: <[Pseudo] 1959-06-16 >
+Alter: 76
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 16/06/1959> wohnhaft in B-PLZ B-LOC I-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Erfolgreicher 2-Kammer-Schrittmacher-Aggregatwechsel -LRB- Medtronic Attesta DR -RRB- bei Batterieerschöpfung am <[Pseudo] 04/11/2035>
+- Z. n. 2-Kammer-Schrittmacherimplantation -LRB- DDD -RRB- <[Pseudo] 10/2023> bei Bradykardie-Tachykardie-Syndrom und paroxysmaler höhergradiger AV-Blockierung -LRB- 8:1-Überleitung -RRB- -LRB- Herzchirurgie I-ORG -RRB-
+- Kein Hinweis auf Thrombose im Bereich der V. jugularis interna links -LRB- <[Pseudo] 07/2024> -RRB-
+-UNK- Z. n. sonographisch V.a. Teilthrombose der proximalen linken V. jugularis interna -LRB- DD: Teilfluss durch SM-Kabel -RRB- , oberflächliche Weichteilinfektion des linken Halses -LRB- <[Pseudo] 06/2024> -RRB-
+- Koronare 3-Gefäßerkrankung mit noch guter LV Funktion -LRB- HK.- Nr.: B-OTHER -RRB-
+-UNK- Z. n. Rekanalisation der LAD mittels PTCA/2- fach Xience- Stentimplantation -LRB- <[Pseudo] 07/2023> -RRB-
+-UNK- Z. n. PTCA/DE-Stentimplantation der LCX sowie der LAD -LRB- <[Pseudo] 09/2022> -RRB-
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hyperlipoproteinämie
+Allergien: Keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme des Patienten erfolgt zum elektiven SM-Aggregatwechsel bei Batterieerschöpfung. Im Alltag besteht eine gute körperliche Belastbarkeit ohne signifikante AP-Beschwerden -LRB- NYHA I-II, CCS 0 -RRB- . Synkopen oder Palpitationen sowie Oedeme werden verneint.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 182 cm, Gewicht: 94 kg -RRB-
+HF: 62/min
+RR: 140/90 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig.
+HT: leise, rein, keine path. Geräusche
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse gut tastbar
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG :
+Normofrequenter Sinusrhythmus mit intermittierend atrialer Stimulation, 85/min, überdrehter Linkstyp. PQ 241 ms, QRS 103 ms, QTc 406 ms. S-Persistenz V6 -LRB- LAHB -RRB- , fehlendes R bis V3, zögerliche R-Progression bis V6. Präterminale T-Negativierung in aVL, sonst keine signifikanten Erregungsrückbldungsstörungen.
+
+Schrittmacher-Implantation vom <[Pseudo] 04/11/2035:>
+SM-Aggregat: Medtronic Attesta DR ATDR01 SN:
+Vorhofelektrode -LRB- belassen -RRB- : Medtronic, 4076, Typ: IS-1, bipolar SN: B-OTHER <[Pseudo] 18/11/2023>
+Ventrikelelektrode -LRB- belassen -RRB- :Medtronic, 4076, Typ: IS-1, bipolar SN: B-OTHER <[Pseudo] 18/11/2023>
+Explantat: Medtronic Sensia SEDR01 SN: B-OTHER <[Pseudo] 18/11/2023>
+
+Messwerte intraoperativ:
+RA: RS: VHF RV: RS: <0,1 V/0,5 ms
+Impedanz: 282 -UNK- Impedanz: 362 -UNK-
+Sensing: 0,5-0,9 mV Sensing: 19,1 mV
+
+OP-Dauer: 13 min. KM: 0 ml
+
+OP-Bericht:
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links im Bereich der alten Narbe. Freipräparieren und Herausluxieren des alten Aggregates. Durchmessen der alten RA- und RV-Sonde mit guten Messwerten. Danach Konnektion des neuen Generators und Versenken in der Tasche. Antibiotische Spülung. Schichtweiser Wundverschluß unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links subfaszial angelegt. Verband.
+
+Procedere: 1. Verbandswechsel 3-4 Tage postoperativ, Sandsack bis morgen früh, Aussetzen der Antikoagulation für 2 Tage, Monitorüberwachung 4 h postoperativ dann nach Maßgabe Stationsarzt, Aggregatkontrolle im OP erfolgt, Ausweis wird morgen vor Entlassung auf Station gebracht WV zur Wundkontrolle in 10-12 Tagen -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- .
+Nach DGK-Empfehlungen bei guter Wundheilung und regelrechter Aggregatfunktion keine Einschränkung der Fahreignung als Privatfahrer -LRB- Gruppe 1 -RRB- , bei Berufskraftfahrern -LRB- Gruppe 2 -RRB- i.d.R. Fahreignung wieder nach 1 Woche vorhanden -LRB- bei Synkopen in der Anamnese oder Schrittmacherabhängigkeit 4 Wochen -RRB- .
+
+Schrittmacher-Kontrolle:
+Regelrechte Aggregatfunktion. Batteriestatus gut -LRB- 2,78 V -RRB- . Messwerte gut. Keine neuen Episoden im Speicher. Aktuell 0% atriale- und 0% ventrikuläre Stimulation. Programmierung durchgeführt. Anpassung der Stimulationsparameter nach Ende der Einheilungsphase bei nächster Kontrolle. Der Patient wurde über Verhaltensmaßregeln aufgeklärt. Der Schrittmacher-Ausweis wurde ausgestellt und dem Patient ebenfalls ausgehändigt. Es besteht keine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+Procedere:
+Wundkontrolle in 3 - 4 Tagen beim Hausarzt empfohlen -LRB- Kein Fadenzug bei selbstauflösendem Nahtmaterial erforderlich -RRB- . Wiedervorstellung zur nächsten Schrittmacherkontrolluntersuchung am <[Pseudo] 15/12/2035> um 13:00 Uhr in unserer B-ORG Ambulanz empfohlen. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch einen niedergelassenen kardiologischen B-SALUTE in Intervallen von 6 Monaten durchführen zu lassen.
+Kommentar:
+Ihr Schrittmacher-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan- Modus -RRB- für die Verwendung im MRT entwickelt.
+
+Labor:
+Zusammenfassung:
+Am <[Pseudo] 04/11/2035> erfolgte der komplikationslose SM-Aggregatwechsel bei Batterieerschöpfung. Die im Anschluss kontrollierte Schrittmacherfunktion war regelrecht. Die Wunde zeigte sich bei Entlassung reizlos.
+
+Ein Termin zur nächsten SM-Kontrolluntersuchung in unserer B-ORG wurde bereits für den <[Pseudo] 15/12/2035> um 13:00 Uhr vereinbart.
+
+Dem Patienten wurde ein Implantatausweis ausgehändigt. Er wurde über notwendige Verhaltensanweisungen informiert. Über Verhaltensmaßregeln sowie eine Fahrungeeignetheit als Berufskraftfahrer für 1 Woche wurde der Patient aufgeklärt. Wir bitten um Wundkontrolle in 10-12 Tagen -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- .
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Medikation bei Entlassung:
+ASS 100 0-1-0
+Nebivolol 5 1-0-1
+Amlodipin 5 0- -UNK- -0
+Tamsulosin 0,4 0-0-1
+Atorvastatin 60 0-0-1
+Omeprazol 20 1-0-0
+Ezetimib 10 0-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 05/11/2035> in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gern zur Verfügung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit.
+
+
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin
+
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2035>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.97
+4 - 10 /nl
+B-DATE
+Hb
+15.0
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.9
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.440
+0,38 - 0,52 l/l
+B-DATE
+MCV
+90
+83 - 97 fl
+<[Pseudo] 02/11/35>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 02/11/35>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 02/11/35>
+RDW
+13.8
+12,9 - 18,7 %
+<[Pseudo] 02/11/35>
+hypochr.Erythroz.
+0.6
+0 - 2 %
+<[Pseudo] 02/11/35>
+Thrombozyten
+177
+150 - 440 /nl
+<[Pseudo] 02/11/35>
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+141
+135 - 146 mmol/l
+<[Pseudo] 02/11/35>
+Kalium -LRB- ISE -RRB-
+4.94
+3,4 - 5,0 mmol/l
+<[Pseudo] 02/11/35>
+Kreatinin
+1.15
+0,6 - 1,4 mg/dl
+<[Pseudo] 02/11/35>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+34
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+61.5
+>60 s.u.
+B-DATE
+MDRD
+69.29
+ml/min/1,73qm
+<[Pseudo] 02/11/35>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+44.1
+30 - 50 g/l
+<[Pseudo] 02/11/35>
+Glucose
+93
+65 - 110 mg/dl
+<[Pseudo] 02/11/35>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 02/11/35>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 02/11/35>
+ikterisch
+-
+
+<[Pseudo] 02/11/35>
+Lipämie
+-
+
+<[Pseudo] 02/11/35>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+TSH
+1.70
+0,400 - 4,000 mU/l
+<[Pseudo] 02/11/35>
+Gerinnungsdiagnostik
+
+
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+96.9
+70 - 125 %
+<[Pseudo] 02/11/35>
+INR - ber.
+1.03
+- <1.2
+<[Pseudo] 02/11/35>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+aPTT
+21.8
+- <35 s
+B-DATE

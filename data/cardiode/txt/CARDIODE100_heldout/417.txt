@@ -1,0 +1,644 @@
+Aufnahmedatum: <[Pseudo] 2469-09-17 >
+Geburtsdatum: <[Pseudo] 2046-11-29 >
+Alter: 422
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 29/11/2046> wohnhaft in B-PLZ B-LOC -LRB- B-LOC -RRB- , B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Aortendissektion Stanford B
+-UNK- Konservatives Procedere empfohlen
+- Akuter Myokardinfarkt -LRB- NSTEMI -RRB- am <[Pseudo] 11/06/2137>
+-UNK- Erfolgreiche PTCA/3-fach DE Stentimplantation bei komplettem LAD-Verschluss -LRB- HK B-OTHER vom <[Pseudo] 11/06/2137> -RRB-
+- Polymorphes Kammerflimmern mit 4-minütiger Reanimation und 1-maliger Defibrillation, ROSC nach 5 Minuten, keine Latenz am <[Pseudo] 14/06/2137>
+- Erneutes Polymorphes Kammerflimmern mit 3-minütiger Reanimation und 2-maliger Defibrillation und anschließendem ROSC am <[Pseudo] 16/06/2137>
+-UNK- Rippenserienfraktur nach Reanimation
+-UNK- Beginn Amiodaron, abgesetzt bei QT-Zeit Verlängerung
+-UNK- Antibiotische Therapie bei Infektwertanstieg nach REA mit Piperacillin/Tazobactam vom <[Pseudo] 18/06/2137> - <[Pseudo] 27/06/2137>
+- Erfolgreiche Implantation eines 2-Kammer ICDs -LRB- Firma Medtronic -RRB- am <[Pseudo] 28/06/2137>
+- ED Vorhofflimmern
+-UNK- CHADSVASc 5, HAS BLED 3
+-UNK- Beginn einer oralen Antikoagulation mit Apixaban
+- Kardiale Dekompensation a.e. im Rahmen der Aortendissektion und des NSTEMIs
+-UNK- Pleurapunktion v. <[Pseudo] 14/06/2137:> 1,5l blutig tingierter Erguss
+
+
+Diagnosen:
+- Z. n. Lungenarterienembolie <[Pseudo] 2119>
+- Polyneuropathie
+
+Kardiovaskuläre Risikofaktoren: arterielle Hypertonie, Hypercholesterinämie, Adipositas, Nikotinanamnese: unbekannt
+Allergien/Unverträglichkeiten: keine bekannt
+
+Anamnese:
+Die Aufnahme des Patienten erfolgte über die B-ORG. Der Patient wurde am <[Pseudo] 11/06/2137> bei bestehender AP-Symptomatik in das B-ORG I-ORG eingeliefert. Nach Initialversorgung wurde CT-angiographisch eine Aortendissektion I-ORG B festgestellt und der Patient zur weiteren Therapie in Notarztbegleitung in unsere I-ORG verlegt. In der B-ORG I-ORG zeigte sich eine Aortendissektion Typ Stanford B welche nach Maßgabe der Gefäßchirurgie konservativ behandelt wurde. Zudem zeigten sich ein NSTEMI sowie ein fraglich neudiagnostiziertes Vorhofflimmern.
+
+Medikation bei Aufnahme:
+Ramipril 10 mg 1-0-0
+HCT 25 mg -UNK- -0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: stabil
+EZ: gut
+HF: 70/min, unregelmäßig
+RR: 130/80mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Einflussstauung.
+Cor: reine, regelmäßige HT
+Pulmo: vesikuläres AG, basal beidseits abgeschwächt
+Abdomen: weich, kein DS, keine Resist. lebhafte DG
+Leber/Milz: nicht vergrößert palpabel
+Periphere Ödeme: keine
+Pulsstatus: o.p.B.
+Neurol. Status: orientierend o.p.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequentes Vorhofflimmern, Herzfrequenz 64min, Indifferenz-typ, QRS 100ms, PQ ms, QTc 489ms, unauffällige Erregungsausbreitung und -rückbildung.
+
+Herzkatheter-Untersuchung -LRB- B-OTHER vom <[Pseudo] 11/06/2137> -RRB- :
+Dringliche Herzkatheteruntersuchung bei NSTEMI:
+Erfolgreiche Rekanalisation der LAD mittels PTCA / 3-fach DE-Stentimplantation -LRB- 1x Promus / 2x Resolute Integrity -RRB- . Postinterventionell TIMI III-Fluss. Koronare 1-Gefäßerkrankung der LAD mit leicht- bis mittelgradig eingeschränkter linksventrikulärer Pumpfunktion und erhöhten enddiastolischen Drücken des linken Ventrikels.
+
+Transthorakale Echokardiographie vom <[Pseudo] 13/06/2137:>
+Normal großer, septal betont hypertrophierter linker Ventrikel mit leichtgradig verminderter systolischer Pumpfunktion bei Hypokinesie anterior und anteroseptal. Erhaltene longitudinale Funktion. Hinweis auf diastolische LV-Dysfunktion. LA leicht dilatiert, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens nicht einsehbar. Kein Perikarderguss nachweisbar. Vena cava inferior gestaut, atemvariabel. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Leichtgradige Mitral- Trikuspidalund Aortenklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist erhöht -LRB- ca. 45 mmHg -RRB- .
+
+CT-Angio thorakale Aorta nativ und mit Kontrastmittel vom <[Pseudo] 13/06/2137>
+BEFUND:
+Verlaufskontrolle. Vergleich mit CT Voruntersuchung vom B-DATE.
+Gefäße:
+Bekannte Dissektionsmembran mit großem Entry kurz distal des Abgangs der linken Arteria subclavia -LRB- Serie 402/38 -RRB- und Reentry am Abgang der Nierenarterien -LRB- Serie 402/200 -RRB- , konstant zur Voruntersuchung. Keine Dissektionsmembran in den supraaortalen Ästen.
+Linke Nierenarterie aus dem falschen Lumen -LRB- Serie 403/64 -RRB- .
+AMS und rechte Nierenarterie aus dem wahren Lumen. Truncus coeliacus und AMS ebenso aus dem wahren Lumen, knapp rechts medial der Membrane gelegen -LRB- Serie 402/199 -RRB- .
+Abgangsstenose der Arteria hepatica communis -LRB- Serie 402/188 -RRB- . Verdacht auf Speisung der infrarenalen Aorta und Beckenarterien aus dem falschen Lumen, bei Verdämmerung des Kontrastmittels nach peripher. Deutliches Kinking der Iliacalarterien. Arteria iliaca communis links bis 2,5 cm und rechts bis 1,5 cm erweitert. Truncus pulmonalis bis 3,5 cm erweitert. Keine zentrale Lungenarterienembolie.
+Kein Hämatom. Wandständige Teilthrombosierungen im falschen Lumen, tendenziell konstant.
+Hals / Thorax / Abdomen / Skelett:
+Struma-Knoten retroösophageal bis in den oberen Thorax eintauchend, Verlagerung und Kompression des mittleren Ösophagus. Trachea nicht wesentlich komprimiert. Vergrößerte Lymphknoten mediastinal -LRB- z.B. bis 19 mm KAD in Position 7 Serie 402/90 -RRB- .
+Pleuraerguss beidseits zunehmend und aktuell mit 8-9cm rechts und 6-7cm links punktionswürdig -LRB- Serie 402/107 -RRB- . Angrenzende Minderbelüftungen und Atelektase. Apikal betonte verdickte interlobuläre Septen und Mosaik-Perfusion. Ovaläre Verdichtung mit 8 mm im rechten Oberlappen und linksbasalen Unterlappen.
+Zustand nach Cholecystektomie. Kleine splenische Defekte, a.e. postischämisch. Kein Hinweis auf Perfusionsdefizit der parenchymatösen Bauchorgane. Nierenzysten beidseits, davon rechts am Oberpol eine mit kräfigem, KM-affinen, randständigem Enhancement -LRB- 12x9 mm, Serie 402/223, Bosniak III -RRB- . Fettig belegte Inguinalhernien beidseits. Verkalkte mesenteriale Lymphknoten. Keine Cholestase. Kein Harnstau. Keine freie Flüssigkeit. Keine freie Luft. Degenerative Skelettveränderungen.
+BEURTEILUNG:
+-UNK- Unveränderte Gefäßzustand gegenüber zur Voruntersuchung bei bekanntem Stanford-Type-B Dissektion.
+-UNK- Pleuraergüsse beidseits zunehmend und aktuell punktionswürdig -LRB- 9cm rechts, 7cm links -RRB- .
+-UNK- Konstante Bosniak III Zyste rechts am Nierenoberpol.
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 14/06/2137:>
+Zum intermodalen Vergleich liegt eine CT des Vortages vor.
+Befund / Beurteilung:
+Aufnahme im Liegen, links etwas angehoben.
+Soweit im intermodalen Vergleich beurteilbar tendenziell rückläufige Pleuraergüsse, rechts aktuell Auslaufen entlang der lateralen Thoraxwand. Am ehesten residuelle Minderbelüftungen beider Unterfelder, Infiltrate bei entsprechender Klinik / Laborkonstellation möglich. Keine abgrenzbare Pleuraablösung. Akzentuierte Gefäßzeichnung im Liegen.
+Trachea rotationsbedingt etwas nach rechts projiziert, nicht pelottiert. Aortensklerose.
+
+Gefäßchirurgisches Konsil vom <[Pseudo] 15/06/2137:>
+Diagnose:
+A. e. chronische Aortendissektion Stanford Typ B , ED <[Pseudo] 11/06/37>
+Befund:
+Bereits in der Primärdiagnostik chronisch anmutende Aortendissektion Stanford Typ B ohne Hinweis auf Malperfusion oder Ruptur. Auch in der kurzfristigen Verlaufskontrolle keine Befundänderung, Diameterstabilität und weiterhin kein Anhalt auf Malperfusion.
+Therapie:
+A. e. Chronische unkomplizierte Aortendissektion Stanford Typ B.
+Somit aktuell kein weiterer Handlungsbedarf aus gefäßchirurgischer Sicht.
+Grundsätzlich RR-Einstellung empfohlen sowie Therapie mittels ß-Blockern leitliniengerecht.
+Aufgrund der Erstdiagnose empfehlen wir eine CT-angiographische Verlaufskontrolle in 3 Monaten; grundsätzlich aufgrund der Komorbiditäten sowie des fortgeschrittenen Alters des Patienten ist auch bei Progress eine OP-Indikation mit äußerster Zurückhaltung zu stellen.
+Der Patient kann sich zur Verlaufskontrolle in 3 Monaten gerne über unserer Sprechstunde vorstellen, hierfür Terminvereinbarung unter B-PHONE - I-PHONE PHONE
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 15/06/2137:>
+Zum Vergleich dient ein Röntgen-Thorax vom B-DATE, sowie ein Angio-CT vom B-DATE.
+Befund und Beurteilung:
+Zustand nach Pleurapunktion rechts. Kein Pneumothorax. Tendenziell etwas progredienter auslaufender Pleuraerguss links. Kein relevanter Pleuraerguss rechts. Mediastinum im Liegen verbreitert. Trachea im Verlauf nicht eingeengt. Weiterhin Aspekte einer pulmonalvenösen Stauung. Streifige Transparenzminderung im rechten Unterfeld, am ehesten Dystelektase, DD Infiltrat möglich.
+
+Pleurapunktat vom <[Pseudo] 15/06/2137:>
+Diagnose:
+Zellarmes zytologisches Material -LRB- Pleurapunktat rechts -RRB- mit abgeschilferten Mesothelien. Geringe Vermehrung gemischter Entzündungszellen unter Einschluss einzelner neutrophiler Granulozyten als Hinweis auf eine gering aktive Entzündung. Außerdem periphere Blutbestandteile. Kein Nachweis maligner Zellen.
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 17/06/2137:>
+Mehrere Voruntersuchungen zum Vergleich vorliegend, zuletzt konventionelles Röntgen des Thorax vom B-DATE.
+Befund und Beurteilung:
+Liegendaufnahme. Fremdkörper-Überlagerung über das rechte Unterfeld.
+Zur Voruntersuchung leicht zunehmender, nach dorsal auslaufender Pleuraerguss links. Zunehmende Transparenzminderung auch des rechten Hemithorax, DD zunehmender, nach dorsal auslaufender Pleuraerguss. Soweit bei Liegendaufnahme beurteilbar, zunehmende Verbreiterung der Herzsilhouette. Darüber hinaus kein durchgreifender kardiopulmonaler Befundwandel.
+Soweit in Hartstrahltechnik beurteilbar kein Nachweis intermittierend aufgetretener Rippenfrakturen bei bekannter Rippenserienfraktur rechts.
+
+ICD-Implantation vom <[Pseudo] 27/06/2137>
+Diagnosen:
+Sekundärprophalyktische 2-Kammer-ICD Implantation bei wiederholtem Auftreten von Kammerflimmern. Sinusbradykardie unter Amiodarontherapie. KHK 1-GE der LAD mit Z.n. PCI am <[Pseudo] 11/06/2137> -LRB- hierunter Clopidogrel /Apixaban ~ Augustus Studie -RRB- . Z. n .Amiodaronaufsättigung. Parox. VHF.
+
+ICD-Aggregat: B-OTHER
+Vorhofelektrode: B-OTHER
+Ventrikelelektrode: B-OTHER
+
+Messwerte:
+RA: RS: 0,9 V/0,5 ms RV: RS: 0,5V/0,5 ms
+Impedanz: 426 -UNK- Impedanz: 523 -UNK-
+Sensing: 3,2 mV Sensing: 10,0 mV
+Zugang: V. cephalica links Zugang: V. cephalica links
+DFT: - OP-Dauer: 74 min. DL-Zeit: 9,0 min Dosis: 5,1 Gy·cm² KM: 0 ml
+
+OP-Bericht:
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links. Der Zugang der Ventrikelelektrode erfolgte transvenös über die Vena cephalica links. Präparation der Vene im Sulcus deltoidopectoralis. Anschlingen, distale Ligatur und Inzision der Vene. Wechsel auf Schleusen über J-Draht. Vorschieben der Ventrikelelektrode unter Bildwandlerkontrolle in den rechten Ventrikel. Bei ubiquitär Sensing 1-2.5 mV -LRB- hochbetagter Patient, dilatiertes rechtes Herz, Z.n. Amiodaronaufsättigung -RRB- gelingt die Platzierung erst nach ausgiebigem Mapping von basalem, anteriorem, hohem und apikalem Septum und einem Umplatzierungsversuch. Mittels selbst vorgebogenem Stylet -LRB- nach Mond et al. -RRB- kann schließlich eine Position am mittleren Septum mit guten Messwerten identifiziert werden. Schlussendlich Platzieren der Sonde mit guten Messwerten. Der Zugang der Vorhofelektrode erfolgte transvenös über die Vena cephalica links. Vorschieben der Vorhofelektrode unter Bildwandlerkontrolle in den rechten Vorhof. Bei degeneriertem Vorhof und dilatiertem rechtem Herzen erneut schwierige Sondenplatzierung. Unter einmaliger Umplatzierung und Mapping kann eine Position mit guten Messwerten identifiziert werden, im Verlauf nach Fixierung der Sonde plötzlich Spontandislokation, somit erneute Positionierung mit guten Messwerten. Danach Konnektion des Generators und Versenken in der Tasche. Schichtweiser Wundverschluss unter sorgfältiger und bei hohem ZVD /Z.n. DAPT bis vor wenigen Tagen sehr aufwändiger Blutstillung. Die Aggregattasche wurde pectoral links subfaszial angelegt. Verband. Verzicht auf DFT-Testung in Zusammenschau von typischer Aggregatposition, guten Messwerten und hochbetagtem Patienten.
+Transthorakale Echokardiographie vom <[Pseudo] 27/06/2137:>
+Kein Perikarderguss nachweisbar.
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 27/06/2137:>
+Voraufnahme vom <[Pseudo] 17/06/2137> zum Vergleich vorliegend.
+Befund und Beurteilung:
+Keine durchgreifende Befundänderung kardiopulmonal. Pleuraerguss links basal, idem. Kein relevanter Erguss rechts. Kein Pneumothorax im Liegen abgrenzbar. Keine pneumonischen Infiltrate. Bekannte Rippenserienfraktur rechts.
+ICD-Aggregat links mit Projektion der Elektrodenspitze auf der rechten Vorhof und Ventrikel. Keine Diskonnektion oder Materialbruch.
+
+Transthorakale Echokardiographie vom <[Pseudo] 28/06/2137:>
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+ICD-Kontrolle vom <[Pseudo] 28/06/2137:>
+Regelrechte ICD-Funktion. Seit Implantation keine neuen Episoden im Speicher. Batteriestatus gut -LRB- 3,08 V -RRB- . Impedanz, Wahrnehmung und Reizschwelle regelrecht. Aktuell 78,1% atriales und 4,5% ventrikuläres Pacing. Keine kurzen VV-Intervalle. Keine DFT-Testung, bei typischer Sonden- und Aggregatlage.
+Der ICD-Ausweis wurde ausgestellt und dem Pat. ausgehändigt. Die Informationsbroschüre -LRB- Lt. MPG -RRB- wurde dem Patienten ebenfalls ausgehändigt und dieser über Verhaltensmaßnahmen aufgeklärt. Der Alarm wurde dem Patienten demonstriert. Es besteht eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 3 Monate gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+Kommentar:
+Ihr ICD-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan-Modus -RRB- für die Verwendung im MRT entwickelt.
+Wichtig:
+Vor der MRT-Untersuchung sollte ihr ICD-System auf diesen SureScan-Modus programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung erfolgen, da dieser SureScan-Modus in dieser Zeit der Einheilungsphase nicht aktivierbar ist.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 29/06/2137:>
+Letzte Aufnahme vom B-DATE.
+Befund und Beurteilung:
+Lagewechsel von liegend zu stehend. Konstant einliegender Herzschrittmacher. Soweit bei Lagewechsel beurteilbar, etwas zunehmender Pleuraerguss links mit angrenzend dystelektatischem Lungenparenchym, kein relevanter Pleuraerguss rechts. Keine Infiltrate, kein Pneumothorax. Stauungskomponente bei bekannter Cardiomegalie. Prominenter Aortenknopf mit geringer Verlagerung der Trachea nach rechts, ohne Einengung dieser. Bekannte Rippenserienfraktur rechts.
+
+Volumenstatus vom <[Pseudo] 30/06/2137> -LRB- vor Entlassung -RRB- :
+Vena cava inferior 15 mm, atemvariabel. Rechts minimaler Randwinkelerguss, links geringer residueller Pleuraerguss -LRB- ca. 3 cm -RRB- nachweisbar.
+
+Ruhe-EKG bei Entlassung:
+Atriale Schrittmacherstimulation im Wechsel mit Sinusrhythmus, endogener Überleitung, Herzfrequenz 62/min, Linkslagetyp. PQ 292 ms, QRS 105 ms, QTc 483 ms. AV-Block I°. Regelrechte R-Progression, R/S Umschlag in V4/V5. T-Negativierungen in I, aVL, V-V6.
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte aus unserer B-ORG I-ORG bei Aortendissektion I-ORG B, NSTEMI und Erstdiagnose eines Vorhofflimmerns.
+
+In der Koronarangiographie zeigte sich eine koronare 3-Gefäßerkrankung mit leichtgradig eingeschränkter linksventrikulärer Pumpfunktion. Es erfolgte die Rekanalisation der verschlossenen LAD mittels PTCA und 3-fach Stentimplantation -LRB- DES -RRB- .
+
+Echokardiographisch bestätigte sich eine leichtgradig eingeschränkte systolische LV-Funktion ohne Hinweis auf höhergradige Klappenvitien.
+
+Am <[Pseudo] 13/06/2137> erfolgte eine CT-Verlaufskontrolle der Aortendissektion. Hier zeigte sich keine wesentliche Befundänderung. Nach Rücksprache mit der Gefäßchirurgie ergibt sich daraus aktuell keine dringende Versorgungsindikation.
+
+Im Verlauf des 3. postinterventionellen Tages trat plötzlich ein Kammerflimmern nach ventrikulärer Extrasystolie auf. Es erfolgte eine 4-minütige mechanische Reanimation sowie eine einmalige Defibrillation. Nachfolgend zunächst ein ventrikulärer Ersatzrhythmus, der in ein stabiles Vorhofflimmern konvertierte. Nach der Reanimation war der Patient wach und ansprechbar. Bei bekannter Dissektion ab Aortenbogen zeigten sich weder klinisch noch sonographisch Hinweise für eine Ausweitung der Dissektion nach proximal.
+
+Am B-DATE erfolgte eine Pleurapunktion rechtsseitig von 1,5l serösem, blutig tingiertem Erguss. Bei nach Reanimation festgestellten Rippenfrakturen initiierten wir eine Schmerztherapie.
+
+Bei polymorpher, ventrikulärer Tachykardie erfolgte die Einleitung einer Therapie mit niedrigdosiertem Amiodaron. Diese musste allerdings bei signifikanter QTc-Zeit-Verlängerung beendet werden.
+
+Am <[Pseudo] 16/06/2137> kam es zu einer erneuten Reanimation bei Kammerflimmern mit 2-maliger Defibrillation und anschließender Rückkehr des Spontankreislaufs. Es wurde daher die Indikation zur Implantation eines Defibrillators gestellt.
+
+Bei Infektwertanstieg nach Reanimation wurde eine empirische antibiotische Therapie mit Piperacillin/Tazobactam vom <[Pseudo] 18/06/2137> bis <[Pseudo] 27/06/2137> eingeleitet. Am <[Pseudo] 26.06.> konnte nach Abfall der Entzündungswerte die Implantation eines 2-Kammer-ICD erfolgen. Nach Absetzen der Antibiose zeigten sich die Infektwerte konstant, wir bitten um eine Verlaufskontrolle nach Entlassung.
+
+Postinterventionell konnten echokardiographisch ein Perikarderguss sowie konventionell-radiologisch ein Pneumothorax ausgeschlossen werden. Die im Anschluss kontrollierte ICD-Funktion war regelrecht. Bei Entlassung zeigte sich die Wunde reizlos. Wir bitten um einen Verbandswechsel in 3 - 4 Tagen und eine Wundkontrolle in 10-12 Tagen durch den Hausarzt. Ein Fadenzug ist bei selbstauflösendem Nahtmaterial nicht erforderlich. Bei Rötung, Schwellung, Fieber oder purulentem Sekret aus der Aggregattasche erbitten wir eine sofortige Wiedervorstellung in unserem Hause.
+
+Zur Wiedervorstellung zur nächsten ICD-Kontrolluntersuchung wurde ein Termin am <[Pseudo] 11/08/2137> um 12:30 Uhr in unserer B-ORG Ambulanz ausgemacht. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch einen niedergelassenen kardiologischen B-SALUTE in Intervallen von 6 Monaten durchführen zu lassen.
+
+Über Verhaltensmaßregeln sowie eine Fahrungeeignetheit als Privatkraftfahrer für mindestens 3 Monate und eine dauerhafte Fahrungeeignetheit als Berufskraftfahrer, wurde der Patient aufgeklärt. DEFI-Ausweis, Informationsbroschüre -LRB- Lt. MPG -RRB- , sowie Patienteninformation und Einverständniserklärung wurden dem Patienten ausgehändigt. Die Alarmfunktion wurde demonstriert.
+
+In einem erneuten gefäßchirurgischen Konsil wurde ein konservatives Procedere bezüglich der Aortendissektion festgelegt. Grundsätzlich sei aufgrund der Komorbiditäten sowie des fortgeschrittenen Alters des Patienten auch bei Progress eine OP-Indikation mit äußerster Zurückhaltung zu stellen.
+Aufgrund der Erstdiagnose wurde eine CT-angiographische Verlaufskontrolle in 3 Monaten empfohlen.
+Hierfür wurde bereits ein Termin am <[Pseudo] 15/09/2137> in unserer B-ORG Ambulanz ausgemacht. Die Uhrzeit sowie weitere Informationen werden dem Patienten postalisch mitgeteilt.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Therapie aus Clopidogrel und Apixaban für 12 Monate. Auf die Bedeutung einer lückenlosen Einnahme beider Präparate für diesen Zeitraum wurde explizit hingewiesen. Im Anschluss ist die alleinige Vollantikoagulation mit Apixaban ausreichend.
+
+Unter ausdosierter betablockierender Therapie traten keine erneuten Rhythmusereignisse auf, sodass von einer zwischenzeitig diskutierten Amiodaron-Aufsättigung Abstand genommen wurde.
+
+Im Verlauf nach ICD-Implantation kam es zu einer erneuten leichten Gewichtszunahme mit etwas zunehmendem Pleuraerguss links bei respiratorisch unter Raumluft asymptomatischem Patienten. Es erfolgte ein Volumenstatus, der eine nicht gestaute Vena cava inferior bei geringem residuellen Pleuraerguss links zeigte. Die orale diuretische Therapie wurde vor Entlassung leicht gesteigert, wir empfehlen engmaschige Kontrollen des Gewichts, der Nierenfunktion und der Elektrolyte mit ggf. Anpassung der diuretischen Therapie sowie eine Verlaufskontrolle des Pleuraergusses. Weiterhin soll bei Fortbestehen der Unterschenkelödeme eine Therapie mit Kompressionsstrümpfen initiiert werden.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien, sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 30/06/2137> mit einem Entlassgewicht von 95 kg in Ihre geschätzte ambulante Betreuung. Bei beschwerdefreiem Verlauf empfehlen wir kardiologische Kontrolluntersuchung in der B-ORG B-TITLE B-PER
+
+Nächster Termin/Prozedere:
+- Regelmäßige Kontrollen von Gewicht, Blutdruck, Elektrolyten und Retentionsparametern und ggf. eine Anpassung der medikamentösen Therapieeinstellung
+- Sofortige hausärztliche Vorstellung bei weiterer Gewichtszunahme, Ziel-Gewicht ca. 91 kg
+- Verlaufskontrolle der Aortendissektion in 3 Monaten am <[Pseudo] 15/09/2137> in unserer B-ORG I-ORG
+- Verbandswechsel in 3 - 4 Tagen und Wundkontrolle in 10-12 Tagen durch den Hausarzt empfohlen -LRB- Kein Fadenzug bei selbstauflösendem Nahtmaterial erforderlich -RRB-
+- Wiedervorstellung zur nächsten Schrittmacherkontrolluntersuchung in unserer Rhythmus-Ambulanz am <[Pseudo] 11/08/2137> um 12:30 Uhr
+- Poststationäre Verlaufskontrolle der Infektwerte
+- Strenge Blutdruckeinstellung mit Vermeidung von Blutdruckspitzen bei Aortendissektion
+
+Aktuelle Therapie:
+Apixaban 5 mg 1-0-1 neu
+Clopidogrel 75 mg 1-0-0 neu, bis <[Pseudo] 11/06/2138>
+Bisoprolol 5 mg 1-0-1 neu
+Candesartan 16 mg 1-0-1 neu
+Amlodipin 5 mg 1-0-1 neu
+Doxazosin 4 mg 1-0-1 neu
+Moxonidin 0,2 mg 1-0-1 neu
+Torasemid 10 mg 1- -UNK- -0 neu, bitte Dosis im Verlauf re-evaluieren
+Spironolacton 25 mg 1-0-0 neu
+Atorvastatin 20 mg 0-0-1 neu
+Pantoprazol 40mg 1-0-0 neu, bis <[Pseudo] 11/06/2138>
+Kalinor retard 600 mg 2-2-2 bitte engmaschige Kaliumkontrollen,
+hochnormale Werte anstreben
+Magnesium Dragees 108 mg 1-1-1 neu
+Fentanyl Pflaster 25 ug/h am <[Pseudo] 29/06/2137> für 3 Tage angebracht, am B-DATE.
+Auslassversuch oder Erneuerung
+Metamizol 1 g 1-1-1-1 neu, im Verlauf ausschleichen
+
+Abgesetzt: HCT, Ramipril
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen
+Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsärztin
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 11/06/2137> und dem <[Pseudo] 29/06/2137>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+10.44 !H
+4 - 10 /nl
+B-DATE
+Hb
+11.4 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.0 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.320 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+81 !L
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 29/06/37>
+MCHC
+36
+30 - 36 g/dl
+<[Pseudo] 29/06/37>
+RDW
+15.6
+12,9 - 18,7 %
+<[Pseudo] 29/06/37>
+hypochr.Erythroz.
+0.6
+0 - 2 %
+B-DATE
+Thrombozyten
+215
+150 - 440 /nl
+<[Pseudo] 29/06/37>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 29/06/37>
+Kalium -LRB- ISE -RRB-
+4.59
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.01 !L
+2,11 - 2,59 mmol/l
+B-DATE
+Ca./korr.
+2.10
+2,1 - 2,65 mmol/l
+B-DATE
+Phosphat
+0.81 !L
+0,84 - 1,45 mmol/l
+<[Pseudo] 14/06/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Magnesium
+0.98
+0,75 - 1,05 mmol/l
+<[Pseudo] 14/06/37>
+Kreatinin
+0.83
+0,6 - 1,7 mg/dl
+B-DATE
+Harnstoff
+18
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+77.5
+>60 s.u.
+B-DATE
+MDRD
+77.48
+ml/min/1,73qm
+<[Pseudo] 14/06/37>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Ges.Eiweiss
+60.2
+60 - 80 g/l
+B-DATE
+Albumin quant.
+38.2
+30 - 50 g/l
+B-DATE
+Glucose
+<NONE> !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+17
+- <46 U/l
+B-DATE
+GPT/ALT
+18
+- <50 U/l
+B-DATE
+GGT
+79 !H
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.30
+- <1.0 mg/dl
+B-DATE
+Dir.Bilirubin
+0.30 !H
+- <0.3 mg/dl
+B-DATE
+Harnsäure
+6.9
+- <7 mg/dl
+<[Pseudo] 14/06/37>
+Triglyceride
+77
+- <150 mg/dl
+<[Pseudo] 14/06/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+148.0
+- alt.abh. mg/dl
+<[Pseudo] 14/06/37>
+p-Amylase
+11
+8 - 53 U/l
+B-DATE
+Lipase
+18 !L
+19 - 63 U/l
+<[Pseudo] 14/06/37>
+Eisen
+4.3 !L
+14 - 32 µmol/l
+<[Pseudo] 14/06/37>
+CRP
+11.4 !H
+- <5 mg/l
+B-DATE
+PCT sens.
+<0.05
+- <0,05 ng/ml
+<[Pseudo] 23/06/37>
+Hämolyse
++
+
+<[Pseudo] 29/06/37>
+ikterisch
+-
+
+<[Pseudo] 29/06/37>
+Lipämie
+-
+
+<[Pseudo] 29/06/37>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+210
+- <342 U/l
+B-DATE
+CK
+66
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+CK-MB
+14
+-
+B-DATE
+hs-TroponinT
+38.1 !H
+- <14 pg/ml
+<[Pseudo] 28/06/37>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.27
+0,400 - 4,000 mU/l
+<[Pseudo] 11/06/37>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+76.8
+70 - 125 %
+<[Pseudo] 27/06/37>
+INR - ber.
+1.12
+- <1.2
+<[Pseudo] 27/06/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+20.1
+- <35 s
+B-DATE
+Fib. -LRB- Clauss -RRB-
+3.10
+1,8 - 3,5 g/l
+<[Pseudo] 11/06/37>
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+7.00
+6,0 - 8,0
+<[Pseudo] 28/06/37>
+SpezGew/Tstr.
+1019
+1001 - 1035
+<[Pseudo] 28/06/37>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+B-DATE
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 28/06/37>
+Ketone /Tstr.
+Spur
+- neg. mg/dl
+B-DATE
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+B-DATE
+Eiweiß/Tstr.
+30.00
+- neg. mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+1.0
+- <2,0 mg/dl
+B-DATE
+Nitrit /Tstr.
+negativ
+- neg.
+B-DATE
+Leuko /Tstr.
+Ca 15
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+53.0 !H
+- <8 /µl
+B-DATE
+Leuko/µl
+11.0 !H
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+B-DATE
+
+
+Medikamentenspiegel & Toxikologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Alkohol
+<0.01
+%o
+<[Pseudo] 11/06/37>
+
+
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.39
+7,37 - 7,45
+B-DATE
+pO2
+62
+mmHg
+B-DATE
+pCO2
+34.2 !L
+35 - 45 mmHg
+<[Pseudo] 22/06/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-4.1 !L
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+21.0
+mmol/l
+B-DATE
+Laktat
+3.4
+- <16 mg/dl
+B-DATE

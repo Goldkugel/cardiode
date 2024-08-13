@@ -1,0 +1,231 @@
+Aufnahmedatum: <[Pseudo] 2036-12-02 >
+Geburtsdatum: <[Pseudo] 2010-08-23 >
+Alter: 26
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 23/08/2010> wh. B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Diagnosen:
+- Screening-Untersuchung bei positiver Familienanamnese für DCM -LRB- Laminopathie -RRB-
+
+Aktuell:
+- Kein sicheren Anhalt für eine manifeste Kardiomyopathie
+
+
+Anamnese: Die Vorstellung von B-SALUTE B-PER erfolgt Screening-Untersuchung bei positiver Familienanamnese für DCMP. B-SALUTE B-PER ist kardiopulmonal beschwerdefrei. Regelmäßige sportliche Aktivitäten. Im Alltag bestehe eine gute Belastbarkeit -LRB- >5 Etagen Treppensteigen möglich -RRB- . Keine Angina Pectoris oder Belastungsdyspnoe. Palpitationen, Schwindel oder Synkopen werden verneint. Nykturie: 0-1 /Nacht. Gewichtkonstanz -LRB- 98kg -RRB- Aktuell kein Hinweis auf einen Infekt -LRB- kein Husten, Schnupfen, Heiserkeit, Brennen beim Wasserlassen -RRB- . Häusliche Blutdruckmessungen werden nicht durchgeführt.
+
+Kardiovaskuläre Risikofaktoren: pos. Familienanamnese für DCMP und SCD
+Allergien/Unverträglichkeiten: Pollen
+
+Körperlicher Untersuchungsbefund: 26 Patient in unauffälligem AZ und EZ. Blutdruck 120/80 mmHg. Herztöne rein, keine Nebengeräusche. Lunge: vesikuläres Atemgeräusch, keine Rasselgeräusche. Nierenlager nicht klopfschmerzhaft. Keine peripheren Ödeme.
+
+Ruhe-EKG: Bradykarder Sinusrhythmus, regelmäßig, 48/min, Steiltyp. PQ 162 msec, QRS 109 msec, QTc 361 msec. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 350 Watt über 00:32 min. Maximale Frequenz 172/min -LRB- 88% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 237 mmHg, diastolisch 90 mmHg. Abbruch wegen peripherer Ermüdung. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose. Kurzzeitiger Schwindel nach Belastungsende bei normotensiven Blutdruck. Rasche Verbesserung im Liegen.
+
+Beurteilender Abschnitt:
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. VES -LRB- 0 -RRB- . Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck. Keine höhergradigen Herzrhythmusstörungen unter Belastung.
+
+Echokardiographie:
+Grenzwertig großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale
+Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LVFunktion.
+LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Klappen sonographisch regelrecht, dopplersonographisch leichtgradige Mitralklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 20 mmHg -RRB- .
+Erstbefund in domo.
+
+Labor:
+
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2035>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+3.67 !L
+4 - 10 /nl
+B-DATE
+Hb
+16.7
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.3
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.480
+0,38 - 0,52 l/l
+B-DATE
+MCV
+92
+83 - 97 fl
+<[Pseudo] 02/12/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 02/12/36>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 02/12/36>
+RDW
+12.6 !L
+12,9 - 18,7 %
+<[Pseudo] 02/12/36>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+<[Pseudo] 02/12/36>
+Thrombozyten
+200
+150 - 440 /nl
+<[Pseudo] 02/12/36>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 02/12/36>
+Kalium -LRB- ISE -RRB-
+4.51
+3,4 - 4,6 mmol/l
+<[Pseudo] 02/12/36>
+Calcium
+2.37
+2,11 - 2,59 mmol/l
+<[Pseudo] 02/12/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+0.90
+0,6 - 1,2 mg/dl
+<[Pseudo] 02/12/36>
+Harnstoff
+26
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+117.5
+>60 s.u.
+<[Pseudo] 02/12/36>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+83
+65 - 110 mg/dl
+B-DATE
+Eisen
+17.3
+14 - 32 µmol/l
+<[Pseudo] 02/12/36>
+Ferritin
+103
+30 - 300 µg/l
+<[Pseudo] 02/12/36>
+Transferrin
+2.18
+2,0 - 3,6 g/l
+<[Pseudo] 02/12/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TFSG
+32
+16 - 45 %
+<[Pseudo] 02/12/36>
+Hämolyse
++
+
+<[Pseudo] 02/12/36>
+ikterisch
+-
+
+<[Pseudo] 02/12/36>
+Lipämie
+-
+
+<[Pseudo] 02/12/36>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+178
+- <316 U/l
+B-DATE
+CK
+97
+- <190 U/l
+<[Pseudo] 02/12/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+4.86
+- <14 pg/ml
+B-DATE
+NT-BNP
+<20
+- <125 ng/l
+B-DATE
+
+
+
+
+
+Zusammenfassung: Die Vorstellung von B-SALUTE B-PER erfolgt Screening-Untersuchung bei positiver Familienanamnese für DCMP. B-SALUTE B-PER ist kardiopulmonal beschwerdefrei.
+
+In der Ergometrie waren höhergradgige ventrikuläre Rhythmusstörungen unter einer maximalen Belastung von 350 Watt -LRB- 88% der Zielfrequenz -RRB- nicht induzierbar. Ferner ergab sich keine Hinweise auf eine Koronarinsuffizienz.
+
+Echokardiographisch fand sich weiterhin Nachweis einer guten biventrikuläre Pumpfunktion ohne Nachweis von reg. Wandbewegungsstörungen oder relevanten Klappenvitien. Das NT-proBNP war mit <20ng/l im Normbereich.
+
+In der Zusammenschau sehen wir keinen Anhalt für eine manifeste Kardiomyopathie. Trotz der unauffälligen Screening-Untersuchung empfehlen wir die kardiologische Verlaufskontrolle in 24 Monaten. Eine Terminvereinbarung kann unter Tel. B-PHONE erfolgen. Bei vorher auftretenden Problemen kann kurzfristig eine Terminvereinbarung in unserer Ambulanz oder in Notfällen über unsere B-ORG I-ORG unter B-PHONE erfolgen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Funktionsoberarzt Assistenzärztin

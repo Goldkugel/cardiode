@@ -1,0 +1,599 @@
+Aufnahmedatum: <[Pseudo] 2517-04-21 >
+Geburtsdatum: <[Pseudo] 2098-01-07 >
+Alter: 419
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 07/01/2098> wohnhaft in B-PLZ B-LOC B-LOC I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Instabile Angina pectoris bei
+- Koronare 3-Gefäßerkrankung mit guter linksventrikulärer Pumpfunktion
+- NSTEMI Typ II, periinterventionell -LRB- B-OTHER vom <[Pseudo] 05/02/2182> -RRB-
+- Erfolgreiche PTCA/1xDES Implantation distal des Stents in der medialen RCA.
+- Periinterventionell EKG Veränderungen -LRB- ST-Streckenhebungen -RRB- und Blutdruckabfall vor Stenting der RCA mit kurzzeitiger Katecholaminpflichtigkeit.
+- Gutes Ergebnis bei Z. n. PTCA/2x Stentimplantation der RCA -LRB- <[Pseudo] 11/2180> -RRB- . Status idem zur Voruntersuchung -LRB- damals neg. Stresstest -RRB- mit residuellen intermediären Stenosen der medialen LAD und der distalen LCX -LRB- PLA -RRB- , sowie eines kleinkalibrigen R. diagonalis 1. LVEDP erhöht -LRB- 17mmHg -RRB- .
+- ED Vorhofflimmern
+- CHA2DS2-VASc-Score: 5
+- HAS-BLED Score: 2
+- Antikoagulation mit Apixaban
+
+Diagnosen:
+- Z. n. Hypertensive Entgleisung im Rahmen einer bekannten koronaren 3-Gefäßerkrankung
+-UNK- Negativer Ischämienachweis bei global guter linksventrikulärer Pumpfunktion -LRB- Adenosin-Stress-MRT vom <[Pseudo] 27/02/2181> -RRB-
+- Z. n. PTCA/2xDES in RCA, 50-75%-ige Stenose der LAD, >75%-ige Stenose der LCX -LRB- HK-Nr.
+B-OTHER vom <[Pseudo] 23/11/2180> -RRB-
+-UNK- Koronarangiographisch gutes Ergebnis nach Stentimplantation der RCA, bekannte 50-75%ige Stenose der LAD sowie 75%ige Stenose der LCX mit guter systolischer Pumpfunktion -LRB- B-OTHER vom <[Pseudo] 16/01/2181> -RRB-
+-UNK- Negativer Ischämienachweis -LRB- dynamische Stress-Echokardiographie vom <[Pseudo] 24/11/2180> -RRB-
+- Z. n. Spinaliom der linken Lippe <[Pseudo] 2167>
+- Z. n. rezidivierender Phlebitis -LRB- <[Pseudo] 2173> re. Unterschenkel; B-YEAR, B-YEAR, <[Pseudo] 10/77> li. Bein -RRB-
+- Manifeste Osteoporose
+- Hypothyreose
+- Anpassungsstörung -LRB- F43.2 -RRB-
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie, pos. Familienanamnese -LRB- Schwester und Mutter mit Myokardinfarkt im Alter von 419 419 -RRB-
+
+Allergien:
+Penicillin
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG bei AP-Beschwerden. Seit einer Woche habe die Patientin ein -UNK- Unwohlsein -UNK- verspürt. Am Freitag sei es dann nachts aus der Ruhe heraus zu thorakalem Druckgefühl entlang des linken Rippenbogens gekommen. Die Beschwerden seien atem-/ bewegungs-/ belastungsunabhängig. Der Blutdruck sei bei 180/110 mmHg gewesen. Begleitend sei es zu starker Übelkeit ohne Erbrechen gekommen. Zudem hätten starke Dyspnoe und Palpitationen bestanden. Die Palpitationen würden seit Jahren sporadisch auftreten und maximal 1 Minute anhalten. Ansonsten bestehe eine gute körperliche Belastbarkeit im Alltag -LRB- 2 Etagen Treppensteigen problemlos -RRB- . Schwindel sowie stattgehabte Synkopen werden verneint. Die häuslichen Blutdruckmessungen ergäben Werte um 120/60 mmHg. Es bestehe Nykturie mit ca. 3-facher Miktion pro Nacht. Periphere Knöchelödeme -LRB- re>li -RRB- seien bei Gewichtskonstanz und chronisch venöser Insuffizienz bereits bekannt. Zuletzt sei Anfang B-MONTH eine kardiologische Abklärung erfolgt mit unauffälligem EKG und Echokardiographie.
+
+Medikation bei Aufnahme:
+ASS 100mg 1-0-0
+Metoprolol 47,5mg 1-0-1
+Candesartan 16mg 1-0-1/2
+Amlodipin 10mg 0-0-1
+Atorvastatin 20mg 0-0-1
+L-Thyroxin 75µg 1-0-0
+Risedronat natrium 35mg 1x/Woche -LRB- montags -RRB-
+HCT 25mg 1-0-0
+Nitrendipin 5mg/ml b. B. -LRB- RR> 160mmHg systolisch -RRB-
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe 164cm, Gewicht 67kg -RRB-
+HF: 87/min, regelmäßig
+RR: 108 / 54 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein und rhythmisch, keine pathologischen Geräusche
+Lunge: bds. VAGs, keine Rasselgeräusche
+Abdomen: weich, kein Druckschmerz, keine Resistenzen
+Leber: nicht vergrößert tastbar
+Periphere Ödeme: Knöchelödeme bds.
+Pulsstatus: Aa. radialis + dorsalis bds. tastbar
+Neurologischer Status: kein Hinweis auf fokalneurologisches Defizit, allseits orientierend
+sonstige Auffälligkeiten: keine
+
+
+
+
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2181> und dem B-DAY B-MONTH <[Pseudo] 2181>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.93
+4 - 10 /nl
+B-DATE
+Hb
+12.4
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.1
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.360
+0,36 - 0,47 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+B-DATE
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+35
+30 - 36 g/dl
+B-DATE
+RDW
+12.4 !L
+12,9 - 18,7 %
+B-DATE
+hypochr.Erythroz.
+0.1
+0 - 2 %
+B-DATE
+Thrombozyten
+251
+150 - 440 /nl
+<[Pseudo] 07/02/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+1.03
+1,0 - 4,8 /nl
+<[Pseudo] 05/02/82>
+Neutroph.G.-abs.
+9.15 !H
+1,8 - 7,7 /nl
+<[Pseudo] 05/02/82>
+Mono. -LRB- abs. -RRB-
+0.37
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.12
+- <0,5 /nl
+<[Pseudo] 05/02/82>
+Basoph.G. -LRB- abs -RRB-
+0.02
+- <0,2 /nl
+<[Pseudo] 05/02/82>
+Neutroph.G. -LRB- mech. -RRB-
+84.9 !H
+50 - 80 %
+<[Pseudo] 05/02/82>
+Lympho -LRB- mech. -RRB-
+9.6 !L
+25 - 40 %
+<[Pseudo] 05/02/82>
+Basoph.G.
+0.2
+- <1 %
+<[Pseudo] 05/02/82>
+Monozyten -LRB- mech. -RRB-
+3.4
+2 - 9 %
+<[Pseudo] 05/02/82>
+Eosinoph.G. -LRB- mech. -RRB-
+1.1 !L
+2 - 4 %
+<[Pseudo] 05/02/82>
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 07/02/82>
+Kalium -LRB- ISE -RRB-
+3.83
+3,4 - 5,0 mmol/l
+<[Pseudo] 07/02/82>
+Calcium
+2.22
+2,11 - 2,59 mmol/l
+B-DATE
+Phosphat
+0.93
+0,84 - 1,45 mmol/l
+B-DATE
+Magnesium
+0.82
+0,75 - 1,05 mmol/l
+<[Pseudo] 05/02/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+1.15
+0,5 - 1,4 mg/dl
+B-DATE
+Harnstoff
+34
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+43.8 !L
+>60 s.u.
+<[Pseudo] 07/02/82>
+MDRD
+42.66
+ml/min/1,73qm
+<[Pseudo] 05/02/82>
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+35.9
+30 - 50 g/l
+<[Pseudo] 05/02/82>
+Glucose
+87
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+48 !H
+- <37 U/l
+B-DATE
+GPT/ALT
+7
+- <35 U/l
+<[Pseudo] 04/02/82>
+Ges.Bili.
+0.5
+- <1.0 mg/dl
+B-DATE
+Triglyceride
+56
+- <150 mg/dl
+<[Pseudo] 05/02/82>
+Cholesterin
+109.0
+- alt.abh. mg/dl
+<[Pseudo] 05/02/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+61
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+52
+>50 mg/dl
+B-DATE
+Lipase
+38
+19 - 63 U/l
+<[Pseudo] 05/02/82>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 05/02/82>
+Hämolyse
+-
+
+<[Pseudo] 07/02/82>
+ikterisch
+-
+
+<[Pseudo] 07/02/82>
+Lipämie
+-
+
+<[Pseudo] 07/02/82>
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+202
+- <301 U/l
+B-DATE
+CK
+66
+- <170 U/l
+<[Pseudo] 07/02/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+103 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+3931 !H
+- <450 ng/l
+<[Pseudo] 05/02/82>
+
+Endokrinologie & Diabetologie
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.7
+- <6,1 %
+<[Pseudo] 05/02/82>
+HbA1c -LRB- IFCC -RRB-
+39
+20 - 42 mmol/mol
+<[Pseudo] 05/02/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+117 !H
+- <110 mg/dl
+<[Pseudo] 05/02/82>
+TSH
+1.27
+0,400 - 4,000 mU/l
+<[Pseudo] 05/02/82>
+
+Gerinnungsdiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+79.9
+70 - 125 %
+<[Pseudo] 06/02/82>
+INR - ber.
+1.11
+- <1.2
+<[Pseudo] 06/02/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+23.4
+- <35 s
+<[Pseudo] 06/02/82>
+
+Blutgasanalyse
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.34 !L
+7,37 - 7,45
+B-DATE
+pO2
+27
+mmHg
+B-DATE
+pCO2
+45.6 !H
+35 - 45 mmHg
+<[Pseudo] 05/02/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-1.9
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+22.0
+mmol/l
+B-DATE
+Laktat
+10.7
+- <16 mg/dl
+<[Pseudo] 05/02/82>
+
+
+Weitere Laborwerte
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Abnahmeart
+ven.
+
+<[Pseudo] 05/02/82>
+2019-nCoV
+negativ
+
+<[Pseudo] 04/02/82>
+Met-Hb
+0.3
+- <1,5 %
+<[Pseudo] 05/02/82>
+Kommentar
+Probenetikett zu tief aufgeklebt
+
+<[Pseudo] 05/02/82>
+art. Sauerstoffgehalt
+15.4
+ml/dl
+<[Pseudo] 05/02/82>
+Glucose
+104 !H
+65 - 100 mg/dl
+B-DATE
+Calcium
+1.24
+1,15 - 1,35 mmol/l
+<[Pseudo] 05/02/82>
+cSO2
+47.9
+%
+B-DATE
+Hämoglobin
+11.0 !L
+12 - 15 g/dl
+<[Pseudo] 05/02/82>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kalium
+3.63
+3,6 - 4,8 mmol/l
+<[Pseudo] 05/02/82>
+Bicarb. /akt.
+24.0
+mmol/l
+B-DATE
+hs-TroponinT
+18.9 !H
+- <14 pg/ml
+B-DATE
+CO-Hb
+0.3
+- <2,0 %
+<[Pseudo] 05/02/82>
+Schnelltest COVID 19
+negativ
+
+<[Pseudo] 04/02/82>
+Natrium
+136
+135 - 145 mmol/l
+<[Pseudo] 05/02/82>
+HKt ber.
+32
+%
+B-DATE
+Chlorid
+101
+95 - 105 mmol/L
+<[Pseudo] 05/02/82>
+
+
+
+
+
+Ruhe-EKG vom <[Pseudo] 05/02/2182:>
+Normofrequentes Vorhofflimmern, 84/min, Indifferenztyp. QRS 99msec., QTc 415msec. QTc-Zeit verlängert. Regelrechte R-Progression, R/S Umschlag in V3/V4. Unspezifische Knotung in III und aVL. T-Negativierung in III. ST-Senkung in II, aVF, V6 -LRB- <0,1mV -RRB- . Ansonsten keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 07/02/2182:>
+Normofrequenter Sinusrhythmus, regelmäßig, 70/min, Indifferenztyp. PQ 177 msec, QRS 100 msec., QTc 422 msec. Verzögerte R-Progression, R/S Umschlag in V3/V4. T-Negativierungen in III, aVF, V1, V3, V6.
+
+Ruhe-EKG vom <[Pseudo] 08/02/2182:>
+Normofrequenter Sinusrhythmus, regelmäßig, 69/min, Indifferenztyp. PQ 180 msec, QRS 97 msec., QTc 416 msec. Regelrechte R-Progression, R/S Umschlag in V3/V4. T-Negativierungen in III, aVF, V1.
+
+Virologischer Befund vom <[Pseudo] 04/02/2182> -LRB- Chest-Pain-Unit -RRB- :
+
+
+Nasenabstrich vom <[Pseudo] 05/02/2182:>
+Kultureller Befund:
+Kein Nachweis von Staphylococcus aureus
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB- .
+
+Rektalabstrich vom <[Pseudo] 05/02/2182:>
+Kultureller Befund:
+Kein Nachweis von Staphylococcus aureus
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB- .
+Kein Nachweis von Vancomycin-resistenten Enterokokken
+Kein Nachweis von multiresistenten gramnegativen Stäbchen.
+
+
+
+Psychologische Testdiagnostik vom <[Pseudo] 05/02/2182:>
+
+
+
+Herzkatheteruntersuchung -LRB- B-OTHER -RRB- vom <[Pseudo] 05/02/2182> Endbefund:
+Herzkatheteruntersuchung bei instabiler Angina pectoris
+Erfolgreiche PTCA/1xDES Implantation distal des Stents in der medialen RCA.
+Periinterventionell EKG Veränderungen -LRB- ST-Streckenhebungen -RRB- und Blutdruckabfall vor Stenting der RCA mit kurzzeitiger Katecholaminpflichtigkeit.
+Insgesamt koronare 3-Gefäßerkrankung mit guter linksventrikulärer Pumpfunktion, gutes Ergebnis bei Z. n. PTCA/2x Stentimplantation der RCA -LRB- <[Pseudo] 11/2180> -RRB- . Status idem zur Voruntersuchung -LRB- damals neg. Stresstest -RRB- mit residuellen intermediären Stenosen der medialen LAD und der distalen LCX -LRB- PLA -RRB- , sowie eines kleinkalibrigen R. diagonalis 1. LVEDP erhöht -LRB- 17mmHg -RRB- .
+Vordiagnosen:
+3-Gefäß-KHK. Z. n. PTCA/2xDES der medialen RCA -LRB- B-OTHER vom <[Pseudo] 23/11/2180> -RRB- . 50-75%-ige Stenose der LAD, >75%-ige Stenose der LCX.
+VHFli, Manifeste Osteoporose, Hypothyreose
+Allergien: Penicillin
+CVRF: arterielle Hypertonie, Hypercholesterinämie, Nikotinanamnese: nie.
+Maßnahmen:
+- Triple-Therapie für 1 Woche, nachfolgend NOAC+Clopidogrel für 12 Monate -LRB- anschließend NOAC Monotherapie -RRB- .
+- intensivmedizinische Überwachung und PE Ausschluss sowie Hb-Kontrollen
+- ad Ischämienachweis -LRB- LAD/LCX -RRB- bei Wiederauftreten von Beschwerden
+
+Nasenabstrich vom <[Pseudo] 05/02/2182> -LRB- B-ORG -RRB- :
+Kultureller Befund:
+Kein Nachweis von Staphylococcus aureus
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB- .
+
+Rektalabstrich vom <[Pseudo] 05/02/2182> -LRB- B-ORG -RRB- :
+Kultureller Befund:
+Kein Nachweis von Staphylococcus aureus
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB- .
+Kein Nachweis von Vancomycin-resistenten Enterokokken
+Kein Nachweis von multiresistenten gramnegativen Stäbchen.
+
+
+Echokardiographie vom <[Pseudo] 06/02/2182:>
+Bemerkungen: eingeschränkte Schallbedingungen
+Beurteilung:
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA noch normal groß, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Leichtgradige
+Mitralklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist nicht darstellbar.
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 21/11/2180:> jetzt VHF sonst keine wesentliche Befundänderung.
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG bei instabiler AP bei bekannter Koronarer-3-Gefäßerkrankung und erstdiagnostiziertem Vorhofflimmern. Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen bei erstmals dokumentiertem frequenzkontrolliertem Vorhofflimmern auf. Das hs-cTroponin betrug bei Aufnahme 20,5 pg/ml und war im Verlauf stabil 18,9 pg/ml -LRB- 3h-Wert -RRB- , somit kein Hinweis auf einen akuten Myokardinfarkt.
+
+Echokardiographisch zeigte sich ein normal großer, septal betont leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Relaxationsstörung des LV.
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 21/11/2180> zeigte sich keine wesentliche Befundänderung.
+
+In der am <[Pseudo] 05/02/2182> durchgeführten Herzkatheteruntersuchung ergab sich eine koronare 3-Gefäßerkrankung mit guter linksventrikulärer Pumpfunktion. Es zeigte sich ein gutes Ergebnis bei Z.n. PTCA/2x Stentimplantation der RCA -LRB- <[Pseudo] 11/2180> -RRB- . Insgesamt ergab sich ein Status idem zur Voruntersuchung -LRB- damals neg. Stresstest -RRB- mit residuellen intermediären Stenosen der medialen LAD und der distalen LCX -LRB- PLA -RRB- , sowie eines kleinkalibrigen R. diagonalis 1. Es wurde eine erfolgreiche PTCA/ 1x DES Implantation distal des Stents in der medialen RCA durchgeführt. Intraprozedural -LRB- vor Stenting -RRB- kam es zu EKG Veränderungen -LRB- ST-Streckenhebungen -RRB- und Blutdruckabfall, sodass die Patientin zur Überwachung auf die B-ORG verlegt wurde. Die Patientin zeigte sich anschließend durchgehend kardiorespiratorisch stabil, ein Perikarderguss wurde mehrfach ausgeschlossen. Der weitere postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich klinisch kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine Triple-Therapie mittels ASS 100 mg 1xtgl und Clopidogrel 75 mg 1xtgl. in Kombination mit einer oralen Antikoagulation mit Apixaban 5 mg 2xtgl für 1 Woche wie unten angegeben. Im Anschluss empfehlen wir eine Thrombozytenaggregationshemmung mit Clopidogrel 75 mg 1xtgl zusätzlich zu einer oralen Antikoagulation für 12 Monate. Anschließend ist eine dauerhafte Antikoagulation -LRB- bei Vorhofflimmern -RRB- indiziert. Über die Notwendigkeit einer lückenlosen Einnahme einer Thrombozytenaggregationshemmung zur Vermeidung eines In-Stent-Verschlusses wurde ausführlich aufgeklärt. Der Patientin wurde ein Implantatausweis ausgehändigt. Sie wurde über notwendige Verhaltensanweisungen informiert. Wir empfehlen insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Bei Wiederauftreten der Beschwerden empfehlen wir die Durchführung eines Ischämienachweis bzgl. der residuellen Stenosen von LAD und LCX.
+
+Bei neu diagnostiziertem Vorhofflimmern und einem CHA2DS2-VASc Score von 5 Pkt. initiierten wir eine Antikoagulation mittels niedermolekularen Heparins, welche im Verlauf auf eine orale Antikoagulation mit Apixaban umgestellt wurde. Wir bitten um Fortführung dieser. Bei einem HAS-BLED Score von 2 empfehlen wir engmaschige Kontrollen auf Blutungszeichen, sowie die Kontrolle der modifizierbaren Risikofaktoren.
+
+Bei psychologischen, behavioralen und sozialen Belastungsfaktoren erfolgte eine psychosomatische konsiliarische Mitbetreuung. Eine Vorstellung in unserer psychosomatischen I-ORG zwecks vertiefter psychosozialer Diagnostik und ggf. Therapieempfehlung -LRB- Terminvereinbarung unter B-PHONE I-PHONE I-PHONE I-PHONE -RRB- ist jederzeit möglich.
+
+Der Sozialdienst wurde kontaktiert und eine Anschlussheilbehandlung in die Wege geleitet.
+
+Medikation bei Entlassung:
+Apixaban 5mg 1-0-1 dauerhaft
+ASS 100mg 1-0-0 für insgesamt 7 Tage, bis einschl. <[Pseudo] 12/02/2182>
+Clopidogrel 75 mg 1-0-0 für 12 Monate, bis einschl. <[Pseudo] 06/02/2183>
+Metoprolol 47,5 mg 1-0-1
+Amlodipin 10 mg 0-0-1
+Candesartan 16 mg 1-0-1/2
+HCT 25 mg 1-0-0
+Atrovastatin 20 mg 0-0-1
+Pantoprazol 40 mg 1-0-1
+L-Thyroxin 75µg 1-0-0
+Kalium verla Btl. nach K-Spiegel
+
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 3 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen die Patientin heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärztin

@@ -1,0 +1,394 @@
+Aufnahmedatum: <[Pseudo] 2451-01-29 >
+Geburtsdatum: <[Pseudo] 2108-06-02 >
+Alter: 342
+
+über Ihren Patienten B-PER I-PER geboren am <[Pseudo] 02/06/2108> wh. B-PLZ B-LOC I-ADDR I-ADDR der sich am <[Pseudo] 24/01/2197> in unserer stationären Betreuung befand.
+
+
+Diagnosen:
+- ÖGD vom <[Pseudo] 24/01/2197:> Antrumgastritis, Bulbitis mit Ulkus -LRB- Forrest IIc -RRB- .
+-UNK- Blinde HP-Eradikationstherapie vom <[Pseudo] 24/01/2197> - dato
+-UNK- ÖGD vom <[Pseudo] 21/01/2197> -LRB- ORG -RRB- : aktive Blutung im Bulbus -LRB- DD Polyp DD organisiertes Koagel auf Ulcus -RRB-
+- Koronare Herzerkrankung ohne relevante Stenose bei allenfalls geringen Wandunregelmäßigkeiten -LRB- B-OTHER vom <[Pseudo] 02/01/2197> -RRB-
+- Kardiale Dekompensation
+-UNK- Forcierte diuretische Therapie mit Furosemid-Perfusor vom B-DATE - B-DATE
+-UNK- Erhöhung der oralen diuretischen Therapie
+-UNK- Bitte Fortsetzung der milden Negativbilanzierung
+-UNK- Pleuraerguss rechts
+-UNK- Bitte Verlaufskontrollen und ggf. Punktion
+- Nitritpositiver Harnwegsinfekt
+-UNK- Antibiotische Therapie mit Ceftriaxon vom B-DATE - B-DATE
+-UNK- Antibiotische Therapie mit Piperacillin/Tazobactam vom <[Pseudo] 15/01/2197> - dato
+- Myokardschaden a.e. im Rahmen der Dekompensation
+- A/c Nierenversagen, a. e. kardialer Genese, DD multifaktoriell bei Harnwegsinfekt und KM-Exposition
+-UNK- Langsame Besserung der Nierenfunktion im Verlauf
+-UNK- Bitte engmaschige Kontrollen bei erneuter KM-Exposition am <[Pseudo] 11/02/97>
+- CRT-D Implantation der Firma Medtronic am <[Pseudo] 12/01/2197> bei hochgradig eingeschränkter LV-Funktion
+- Dilatative Kardiomyopathie, EF ca. 26%
+-UNK- Anamnestisch letzter Herzkatheter ca. B-DATE
+- Coxarthrose
+-UNK- Z.n. Hüftgelenksprothesen beidseits <[Pseudo] 06/2189> und <[Pseudo] 05/2188>
+- HWS-Syndrom
+- Chronische Niereninsuffizienz, Stadium 2
+- Harninkontinenz
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Nikotinanamnese: nie.
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Allergien: Keine bekannt.
+
+Externer Zuweiser: ORG
+
+Anamnese:
+Die stationäre Übernahme des Patienten erfolgte aus dem B-ORG bei Hb-relevanter oberer GI-Blutung. Dort habe der Patient mehrmals Teerstühle gehabt, weshalb eine diagnostische ÖGD stattgefunden habe. Hier habe sich eine aktive Blutung am Bulbus duodeni gezeigt, welche zunächst unterspritzt worden sei. Hiernach habe sich der Patient nach Transfusion von kum. 3 EKs Hb stabil präsentiert. Die weitere Anamnese dürfen wir als bekannt voraussetzen und verweisen auf den Brief unserer B-SALUTE vom ORG.
+
+Bei Übernahme auf B-ORG ORG kardiozirkulatorisch stabiler Patient.
+
+Körperlicher Untersuchungsbefund:
+AZ: stabil
+EZ: gut
+HF: 70/min, regelmäßig
+RR: 120/70 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Zeichen der Einflussstauung.
+Cor: leise HT, soweit beurteilbar keine path. HG
+Pulmo: vesikuläres AG links, abgeschwächtes AG rechts
+Periphere Ödeme: aktuell keine
+Pulsstatus: A. radialis bds gut tastbar, A. dorsalis bds pedis schwach palpabel
+Neurol. Status: orientierend unauffällig.
+sonstige Auffälligkeiten: Pergamenthaut, reizlose Aggregattasche
+
+Ruhe-EKG:
+Durchgehende ventrikuläre SM-Stimulation mit konsekutiven Kammerendteilveränderungen. Herzfrequenz 73/min.
+
+ÖGD vom <[Pseudo] 24/01/2197:>
+Eingehen mit dem Gastroskope nach Rachenanästhesie bei wachem Patienten. Passage des OÖS. Tubuläer Ösophagus mit unauffälliger Schleimhaut. Z- Linie zirkulär erhalten bei 38cm aZR. Kardia in Inversion mit lockerem Schluss. Fundus und Corpus unauffällig. Antrum gröber gefeldert und diskret gerötet, unmittelbar präpylorisch zeigen sich multiple a.e. entzündlich bedingte SH-Erhabenheiten. Pylorus verzogen mit erschwerter Passage. Kurzer Bulbus mit bei ca. 4 Uhr erkennbarem Ulkus mit zentralem Hämatinbelag -LRB- Forrest IIc -RRB- , zentrale Einziehung. Ein Clipping erscheint in Nutzen-Risiko-Abwägung aufgrund der anatomischen Gegebenheiten und bei aktuell inaktiver Blutung nicht sinnvoll. Postbulbäres Duodenum mit regelrechter Mukosa. Kein Anhalt für aktive oder stattgehabte Blutung.
+Diagnose
+Antrumgastritis
+Bulbitis mit Ulkus -LRB- Forrest IIc -RRB-
+Biopsien
+keine
+Empfehlungen
+PPI Therapie hochdosiert, im Verlauf in doppelter Standarddosis weiter für 4-6 Wochen, blinde Helicobacter Eradikation oral, heute nüchtern, ab morgen vorsichtiger Kostaufbau, ambulante Kontroll-ÖGD -LRB- gerne auch extern -RRB- in 4-6 Wochen mit Biospienentnahme z.A. Malignität empfohlen.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2196>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+<NONE> !H
+4 - 10 /nl
+B-DATE
+Hb
+9.5 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+3.0 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.290 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+98 !H
+83 - 97 fl
+<[Pseudo] 24/01/97>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 24/01/97>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 24/01/97>
+RDW
+16.7
+12,9 - 18,7 %
+<[Pseudo] 24/01/97>
+hypochr.Erythroz.
+7.3 !H
+0 - 2 %
+<[Pseudo] 24/01/97>
+Thrombozyten
+451 !H
+150 - 440 /nl
+<[Pseudo] 24/01/97>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+146
+135 - 146 mmol/l
+<[Pseudo] 24/01/97>
+Kalium -LRB- ISE -RRB-
+4.67
+3,4 - 5,0 mmol/l
+<[Pseudo] 24/01/97>
+Calcium
+2.20
+2,11 - 2,59 mmol/l
+<[Pseudo] 24/01/97>
+Phosphat
+1.24
+0,84 - 1,45 mmol/l
+<[Pseudo] 24/01/97>
+Magnesium
+0.88
+0,75 - 1,05 mmol/l
+<[Pseudo] 24/01/97>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+2.53 !H
+0,6 - 1,7 mg/dl
+<[Pseudo] 24/01/97>
+Harnstoff
+<NONE> !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+21.8 !L
+>60 s.u.
+<[Pseudo] 24/01/97>
+MDRD
+21.21
+ml/min/1,73qm
+<[Pseudo] 24/01/97>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+31.4
+30 - 50 g/l
+<[Pseudo] 24/01/97>
+Glucose
+85
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+31
+- <46 U/l
+B-DATE
+Ges.Bili.
+0.90
+- <1.0 mg/dl
+B-DATE
+Triglyceride
+93
+- <150 mg/dl
+<[Pseudo] 24/01/97>
+Cholesterin
+95.0
+- alt.abh. mg/dl
+<[Pseudo] 24/01/97>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lipase
+69 !H
+19 - 63 U/l
+<[Pseudo] 24/01/97>
+CRP
+10.2 !H
+- <5 mg/l
+<[Pseudo] 24/01/97>
+Hämolyse
+-
+
+<[Pseudo] 24/01/97>
+ikterisch
+-
+
+<[Pseudo] 24/01/97>
+Lipämie
+-
+
+<[Pseudo] 24/01/97>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+312
+- <342 U/l
+<[Pseudo] 24/01/97>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+61.6 !H
+- <14 pg/ml
+<[Pseudo] 24/01/97>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+2.35
+0,400 - 4,000 mU/l
+<[Pseudo] 24/01/97>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+76.3
+70 - 125 %
+<[Pseudo] 24/01/97>
+INR - ber.
+1.13
+- <1.2
+<[Pseudo] 24/01/97>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+22.8
+- <35 s
+<[Pseudo] 24/01/97>
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.32 !L
+7,37 - 7,45
+B-DATE
+pO2
+35
+mmHg
+B-DATE
+pCO2
+54.7 !H
+35 - 45 mmHg
+<[Pseudo] 24/01/97>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+1.1
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+24.8
+mmol/l
+B-DATE
+Laktat
+9.1
+- <16 mg/dl
+<[Pseudo] 24/01/97>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Übernahme des Patienten erfolgte aus dem ORG bei Hb-relevanter oberer GI-Blutung mit Z.n. Unterspritzung der Blutungsquelle im Bulbus duodeni.
+
+Bei Übernahme auf B-ORG ORG kardiozirkulatorisch stabiler Patient. Das hs-TnT zeigte einen stabilen Verlauf, elektrokardiographisch ergab sich kein Anhalt für eine akute myokardiale Ischämie. Laborchemisch zeigten sich die Leukozyten unter Eskalation der Antibiose bereits in Ihrem Haus rückläufig.
+
+In der durchgeführten Ösophagogastroduodenoskopie zeigte sich eine Antrumgastritis und eine Bulbitis mit Ulkus -LRB- Forrest IIc -RRB- . Wir empfehlen eine hochdosierte PPI-Therapie wie unten angegeben, im Verlauf in doppelter Standarddosis weiterführen für 4-6 Wochen. Des Weiteren leiteten wir eine blinde Helicobacter Eradikation in nierenadaptierter Dosis oral ein. Wir bitten diese für mindestens 7 Tage -LRB- bis einschließlich dem <[Pseudo] 31/01/2197> -RRB- fortzuführen. Am <[Pseudo] 24/01/2197> bitten wir zunächst, dass der Patient nüchtern bleibt. Ab dem <[Pseudo] 25/01/2197> bitten wir um vorsichtigen Kostaufbau. Des Weiteren empfehlen wir eine ambulante Kontroll-ÖGD -LRB- gerne auch extern -RRB- in 4-6 Wochen mit Biospienentnahme z.A. Malignität. Des Weiteren bitten wir um die Durchführung einer HP-Diagnostik. In der weiteren Überwachung zeigte sich der Patient allzeit kardiorespiratorisch stabil.
+
+Sonographisch zeigte sich ein punktionswürdiger Pleuraerguss rechtsseitig. Wir bitten um die Evaluation der Durchführung einer Pleurapunktion.
+
+Wir bitten um Umsetzung des Therapievorschlags sowie des Prozederes wie bereits im letzten stationären Arztbrief vom <[Pseudo] 14/01/2197> -LRB- B-ORG I-ORG -RRB- beschrieben.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien.
+
+Wir verlegen den Patienten am <[Pseudo] 24/01/2197> beschwerdefrei zurück in Ihre stationäre Betreuung.
+
+Procedere:
+- Fortführen der AB
+- Blinde HP-Eradikation fortführen
+- Kontroll-ÖGD in 4-6 Wochen
+- HP-Diagnostik
+- Umsetzung Therapievorschlag wie im letzten stationären Arztbrief vom <[Pseudo] 14/01/2197>
+- Weitere renale Rekompensation
+- AHB
+
+Aktuelle Therapie:
+Intravenös:
+Piperacillin/Tazobactam 4,5 g 1-0-1
+Pantoprazol 80 mg 1-1-1 erhöht
+
+Oral:
+ASS 100 mg 1-0-0 aktuell pausiert
+Clarithromycin 250 mg 1-0-0 neu, bis einschließlich <[Pseudo] 31/01/2197>
+Amoxicillin 500 mg 1-0-1 neu, bis einschließlich <[Pseudo] 31/01/2197>
+Metoprolol 47,5 mg -UNK- -0-0
+Atorvastatin 20 mg 0-0-1
+Mg. Drg. 1-0-1
+Melperon 25 mg 0-0-1
+Torasemid 50 mg aktuell pausiert
+Amiodaron 200 mg aktuell pausiert
+Colecalciferol 20000 IE 1x/Woche -LRB- mittwochs -RRB-
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel. B-PHONE -RRB- .
+
+Wir bedanken uns für die Übernahme und stehen für Rückfragen jederzeit zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Stationsarzt
+
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

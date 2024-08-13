@@ -1,0 +1,463 @@
+Aufnahmedatum: <[Pseudo] 2479-02-20 >
+Geburtsdatum: <[Pseudo] 2045-02-25 >
+Alter: 433
+
+über Ihre Patientin B-SALUTE B-PER I-PER I-PER geboren am <[Pseudo] 25/02/2045> wohnhaft in B-PLZ B-LOC In den I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Akuter Myokardinfarkt -LRB- NSTEMI -RRB- am <[Pseudo] 08/05/2131>
+- Koronare 1-Gefäßerkrankung der LAD mit kollateralisiertem Verschluss des kleinen Ramus diagonalis 2a -LRB- B-OTHER vom <[Pseudo] 08/05/2131> -RRB-
+-UNK- Erfolgreiche PTCA/2-fach DE-Stentimplantation -LRB- Promus -RRB- der distal verschlossenen LAD. Abschließend TIMI II Fluss.
+-UNK- Global leichtgradig eingeschränkte linksventrikuläre Pumpfunktion bei V.a. mittventrikuläre Tako-Tsubo-Kardiomyopathie DD Pik-Ass-Zeichen bei apikaler HCM. Erhöhte enddiastolische Drücke des linken Ventrikels.
+-UNK- InterTAK Score: 61 -LRB- 58,6% Wahrscheinlichkeit f. Takotsubo Kardiomyopathie -RRB-
+-UNK- Gute systolische Pumpfunktion, Bild mit apikaler HCM vereinbar -LRB- Echokardiograhie v. <[Pseudo] 10/05/2131> -RRB-
+- Ad Kardio MRT bei DD Takotsubo CMP DD apikale HCM -RRB- wie unten beschrieben
+
+- Z.n. Perikardfensterung <[Pseudo] 2079> bei therapieresistentem Perikarderguss
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie
+Allergien: Keine bekannt.
+
+
+
+
+
+
+
+
+Anamnese:
+Die Aufnahme der Patientin erfolgte aus der CPU bei NSTEMI. B-SALUTE B-PER berichtet über ein plötzliches restrosternales Druckgefühl am Vorabend aus der Ruhe heraus. Sie habe zuvor keine AP Beschwerden, Dyspnoe, Palpitationen, Synkopen oder Ödeme in den vorherigen Wochen gehabt. Es bestehe emotionaler Stress aufgrund der aktuellen familiären Situation. Negative Familienanamnese hinsichtlich Kardiomyopathien. Kein Hinweis auf einen akuten Infekt -LRB- kein Husten, kein Schnupfen, keine Heiserkeit, kein Fieber, kein Brennen beim Wasserlassen -RRB- .
+
+Medikation bei Aufnahme:
+Amilorid 5/50 1-0-0
+Nebivolol 5mg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ gut -LRB- 61 kg, 161 cm -RRB-
+BMI 23,5 kg/m²
+HF: 55/min, regelmäßig
+RR: 146/80 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein
+Lunge: VAG bds.
+Periphere Ödeme: keine
+Pulsstatus: o.B.
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+
+Ruhe-EKG:
+Bradykarder Sinusrhythmus, Herzfrequenz 55/min, Linkstyp, PQ 155ms, QRS 127ms, QTc 493ms, T-Negativierungen in II, V2-V5
+
+Ruhe-EKG vom <[Pseudo] 10/05/31:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 67/min. , Linkstyp, PQ 165ms, QRS 98 ms, QTc 459ms, T-Negativierung in II, V3-V5
+
+Ruhe-EKG vom <[Pseudo] 11/05/31:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 64/min. , Linkstyp, PQ 177ms, QRS 113 ms, QTc 471ms, T-Negativierung in II,III,aVF, V2-V6
+
+Langzeit-EKG vom <[Pseudo] 11/05/2131:>
+Normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 52/min und 100/min, im Mittel 67/min. Eingeschränkte Herzfrequenzvariabilität. Einige supraventrikuläre Extrasystolen, z.T. auch repetitiv und als atriale Salven -LRB- längste über 5 Schläge, schnellste mit 155/min -RRB- . Keine Pausen. Häufige, überwiegend monomorph wirkende ventrikuläre Extrasystolen, z. T. auch repetitiv als Bigemini , vereinzelte Couplets. Lown IV a.
+
+Ruhe-EKG vom <[Pseudo] 12/05/2131>
+Normofrequenter Sinusrhythmus, Herzfrequenz 68/min., Linkstyp, PQ 166ms, QRS 99ms, QTc 450ms, T-Negativierung in V4-V6
+
+Ruhe-EKG vom <[Pseudo] 13/05/2131>
+Normofrequenter Sinusrhythmus, Herzfrequenz 63/min., Linkstyp, PQ 155ms, QRS 105ms, QTc 465ms, T-Negativierung in II,III,avF,V2-V6
+
+Farbduplexsonographie der Gefäße der rechten Leiste vom <[Pseudo] 08/05/2131:>
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+
+Leichte, oberflächliche Blutung a.e. aus dem Hämatom im Bereich der ehemaligen Einstichstelle.
+
+Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 08/05/2131> -RRB- :
+Herzkatheteruntersuchung bei NSTEMI:
+
+Erfolgreiche PTCA/2-fach DE-Stentimplantation -LRB- Promus -RRB- der distal verschlossenen LAD. Abschließend TIMI II Fluss. Koronare 1-Gefäßerkrankung der LAD mit kollateralisiertem Verschluss des kleinen Ramus diagonalis 2a. Global leichtgradig eingeschränkte linksventrikuläre Pumpfunktion bei V.a. mittventrikuläre Tako-Tsubo-Kardiomyopathie DD Pik-Ass-Zeichen bei apikaler HCM. Erhöhte enddiastolische Drücke des linken Ventrikels.
+
+Sonstige Diagnosen:
+Z.n. Perikardfensterung <[Pseudo] 2079> bei therapieresistentem Perikarderguss; CVRF: aHT.
+
+Maßnahmen:
+1 -RRB- Duale Thrombozytenaggregationshemmung für 12 Monate.
+2 -RRB- Herzinsuffizienztherapie, InterTAK-Scores berechnen.
+3 -RRB- Leisten-Sonographie morgen.
+4 -RRB- Kardio-MRT im Verlauf.
+
+Echokardiographie vom <[Pseudo] 10/05/2131:>
+Untersuchung am Bett. Reduzierte Schallbedingungen.
+Normal großer, apikal deutlich hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion bei Hypokinesie der hypertrophierten apikalen Wandsegmente sowie Hypokinesie inferolateral. Erhaltene longitudinale Funktion. Regelrechte diastolische LVFunktion.
+LA dilatiert, RA und RV normal groß, RV ebenfalls leicht hypertrophiert mit guter Funktion. Aortenwurzel normal weit. Aorta ascendens und Aortenbogen, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Aortenklappe trikuspid, leicht verdickt mit guter Separation und leichtgradiger, zentraler Insuffizienz. Mitralklappe ebenfalls leicht verdickt mit guter Separation und geringer Insuffizienz. Dopplersonographisch noch leichtgradige Trikuspidalklappeninsuffizienz.
+Pulmonalklappe sonographisch und dopplersonographisch regelrecht. Der systolische PA Keine Druck in Ruhe ist leicht erhöht -LRB- ca. 35-40 mmHg -RRB- .
+Insgesamt Bild vereinbar mit einer apikalen HCM. Erstbefund in domo.
+
+Belastungs-EKG vom <[Pseudo] 12/05/2131:>
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 75 Watt über 00:39 min. Maximale Frequenz 93/min -LRB- 75% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 146 mmHg, diastolisch 74 mmHg. Abbruch wegen peripherer Ermüdung. Keine Angina pectoris oder inadäquate Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Bei Nichterreichen der Ausbelastungsfrequenz eingeschränkte Beurteilbarkeit.
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Vereinzelt VES -LRB- 6 -RRB- . Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck.
+
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2130> und dem B-DAY B-MONTH <[Pseudo] 2130>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.13
+4 - 10 /nl
+B-DATE
+Hb
+10.9 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.6 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.310 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+87
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 13/05/31>
+MCHC
+35
+30 - 36 g/dl
+B-DATE
+RDW
+14.1
+12,9 - 18,7 %
+<[Pseudo] 13/05/31>
+hypochr.Erythroz.
+0.7
+0 - 2 %
+B-DATE
+Thrombozyten
+167
+150 - 440 /nl
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 13/05/31>
+Kalium -LRB- ISE -RRB-
+4.00
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.25
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+0.72
+0,5 - 1,4 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+36
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+76.1
+>60 s.u.
+B-DATE
+MDRD
+81.78
+ml/min/1,73qm
+<[Pseudo] 10/05/31>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+39.1
+30 - 50 g/l
+<[Pseudo] 10/05/31>
+Glucose
+83
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+146 !H
+- <37 U/l
+B-DATE
+GPT/ALT
+16
+- <35 U/l
+B-DATE
+AP
+69
+55 - 105 U/l
+B-DATE
+GGT
+11
+- <40 U/l
+B-DATE
+Ges.Bili.
+1.80 !H
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+4.0
+- <6 mg/dl
+<[Pseudo] 10/05/31>
+Triglyceride
+96
+- <150 mg/dl
+<[Pseudo] 10/05/31>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+128.0
+- alt.abh. mg/dl
+<[Pseudo] 10/05/31>
+LDL-Chol. -LRB- berechn. -RRB-
+56
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+53
+>50 mg/dl
+B-DATE
+p-Amylase
+12
+8 - 53 U/l
+B-DATE
+Lipase
+23
+19 - 63 U/l
+<[Pseudo] 07/05/31>
+CRP
+3.3
+- <5 mg/l
+<[Pseudo] 10/05/31>
+Hämolyse
+-
+
+<[Pseudo] 13/05/31>
+ikterisch
++
+
+<[Pseudo] 13/05/31>
+Lipämie
+-
+
+<[Pseudo] 13/05/31>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+442 !H
+- <301 U/l
+B-DATE
+CK
+209 !H
+- <170 U/l
+<[Pseudo] 10/05/31>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+CK-MB
+22
+-
+<[Pseudo] 07/05/31>
+hs-TroponinT
+852 !H
+- <14 pg/ml
+<[Pseudo] 13/05/31>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.1
+- <6,1 %
+<[Pseudo] 10/05/31>
+HbA1c -LRB- IFCC -RRB-
+32
+20 - 42 mmol/mol
+<[Pseudo] 10/05/31>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+100
+- <110 mg/dl
+<[Pseudo] 10/05/31>
+TSH
+2.07
+0,400 - 4,000 mU/l
+<[Pseudo] 10/05/31>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+105.3
+70 - 125 %
+<[Pseudo] 10/05/31>
+INR - ber.
+0.99
+- <1.2
+<[Pseudo] 10/05/31>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+21.4
+- <35 s
+B-DATE
+D-Dimer -LRB- neu -RRB-
+0.46
+- <0,5 mg/l
+B-DATE
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.42
+7,37 - 7,45
+B-DATE
+pO2
+20
+mmHg
+B-DATE
+pCO2
+43.7
+35 - 45 mmHg
+<[Pseudo] 08/05/31>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+2.8
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+25.7
+mmol/l
+<[Pseudo] 08/05/31>
+
+
+
+
+
+
+Zusammenfassung:
+Die Aufnahme der Patientin erfolgte bei akutem Myokardinfarkt -LRB- NSTEMI -RRB- . In der Koronarangiographie zeigte sich eine koronare 1-Gefäßerkrankung mit leichtgradig eingeschränkter linksventrikulärer Pumpfunktion. Es erfolgte die Rekanalisation der verschlossenen LAD und des RD2a mittels PTCA und 2-fach Stentimplantation -LRB- DES -RRB- . Des Weiteren ergab sich der V.a. eine mittventrikuläre Tako Tsubo Kardiomyopathie DD apikale HCM.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung mit ASS 100 mg 1x tägl. und Ticagrelor 90 mg 2x tägl. für 12 Monate. Im Anschluss ist eine alleinige Thrombozytenaggregationshemmung mit ASS 100 mg 1x tägl. ausreichend.
+Der Patient wurde über die Notwendigkeit einer lückenlosen Einnahme von ASS und Ticagrelor bis einschließlich <[Pseudo] 07/05/2132> ausführlich aufgeklärt.
+
+Echokardiographisch zeigte sich eine gute systolische Pumpfunktion bei apikaler Hypokinesie ohne relevante Vitien sowie das Bild verinbar mit einer apikalen HCM.
+Es erfolgte ein LZ EKG. Hierbei zeigte sich kein Hinweis auf höhergradige Herzrhythmusstörungen.
+
+Im Belastungs-EKG zeigte sich eine adäquate Belastbarkeit.
+
+Bei angiographischem V.a. Tako-Tsubo-Kardiomyopathie DD apikale HCM terminierten wir eine Kardio MRT Untersuchung wie unten beschrieben.
+
+Wir passten die Herzinsuffizienzmedikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Des Weiteren begannen wir zur Lipidsenkung und Plaquestabilisierung eine Therapie mit einem Statin. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen die Patientin kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Procedere/Termine:
+- Termin Kardio MRT am <[Pseudo] 04/10/2131> um 15:00 Uhr -LRB- Re-Evaluation CMP DD apikale HCM -RRB-
+-UNK- Befundbesprechung in unserer HIS-Ambulanz am <[Pseudo] 13/10/2131> um 09:00 Uhr
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100 mg 1-0-0 dauerhaft
+Ticagrelor 90 mg 1-0-1 bis mind. <[Pseudo] 07/05/2132>
+Pantoprazol 20 mg 1-0-0 bei DAPT
+
+Carvedilol 25 mg 1-0-1 neu
+Ramipril 5 mg 2-0-0 neu
+Atorvastatin 10 mg 0-0-1 neu
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Stationsarzt

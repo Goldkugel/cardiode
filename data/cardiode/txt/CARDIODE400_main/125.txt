@@ -1,0 +1,395 @@
+Aufnahmedatum: <[Pseudo] 2038-06-30 >
+Geburtsdatum: <[Pseudo] 1959-06-25 >
+Alter: 79
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 25/06/1959> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Primärprophylaktische CRT-D Implantation bei hochgradig eingeschränkter linksventrikulärer Pumpfunktion -LRB- DCMP -RRB- unter ausdosierter Herzinsuffizienztherapie und Linksschenkelblock
+
+Diagnosen:
+- Dilatative Kardiomyopathie mit leichtgradig eingeschränkter linksventrikulärer Pumpfunktion -LRB- B-OTHER vom <[Pseudo] 10/02/29> -RRB-
+-UNK- hochgradig eingeschränkte LV-Funktion -LRB- EF 25%, Echo in B-ORG I-ORG <[Pseudo] 06/2038> -RRB-
+- Koronare Herzerkrankung ohne höhergradige Stenosen -LRB- HK v. <[Pseudo] 19/02/23> -RRB-
+- Vorhofflattern mit 2:1 Überleitung
+-UNK- Initial erfolgreiche elektrische Kardioversion
+-UNK- Nach wenigen Stunden erneutes Vorhofflattern
+-UNK- Medikamentöse Kardioversion durch Amiodaron-Aufsättigung
+-UNK- Unter Amiodaron Sinusbradykardie bis minimal 38/min und QTc bis 540 ms
+- Leicht- bis mittelgradige Mitralklappeninsuffizienz
+- Mittelgradige zentrale Aortenklappeninsuffizienz
+- Z.n. Ausschluss einer Nierenarterienstenose beidseits -LRB- <[Pseudo] 10/2028> -RRB-
+- Anamnestisch Hypothyreose
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus Typ 2
+
+Allergien: anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte als Übernahme aus der B-ORG I-ORG zur primärprophylaktischen CRT-D Implantation bei hochgradig eingeschränkter linksventrikulärer Pumpfunktion -LRB- DCMP -RRB- unter ausdosierter Herzinsuffizienztherapie und Linksschenkelblock.
+Bei Aufnahme berichtet die Patientin über eine stark eingeschränkte körperliche Belastbarkeit im Alltag -LRB- < 1 Etage -RRB- , die vor allem durch eine Belastungsdyspnoe limitiert sei -LRB- NYHA III-IV -RRB- . Zudem bestünde gelegentlich ein thorakales Druckgefühl. Auf spezifische Nachfrage hin werden wiederkehrende Episoden von Palpitationen, einhergehend mit Schwindel angegeben. Stattgehabte Synkopen werden verneint. Nachtschlaf sei mit flachem Oberkörper möglich. Bei aktueller Gewichtskonstanz bestünden bekannte Unterschenkelödeme. Die häuslichen Blutdruckwerte lägen bei ca. 140/60 mmHg.
+
+Medikation bei Aufnahme:
+Apixaban 5 mg 1-0-1
+Carvedilol 12,5 mg 1-0-1
+Entresto 24/26 mg 1-0-1
+L-Thyroxin 86 µg 1-0-0
+Omeprazol 40 mg 1-0-0
+Pregabalin 100 mg 2-0-0
+Melatonin 2 mg 0-0-1
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: untergewichtig -LRB- Größe 169 cm, Gewicht 53 kg, BMI 18 kg/m² -RRB-
+HF: 68/min, regelmäßig
+RR: 130/75 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, Systolikum -LRB- Grad 2/6 -RRB- mit p.m. 5. ICR medioclaviculär links
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: diskreter Klopfschmerz der Nierenlager bds.
+
+Ruhe-EKG bei Aufnahme am <[Pseudo] 25/06/2038:>
+Normofrequenter Sinusrhythmus, regelmäßig, 68/min, überdrehter Linkslagetyp. PQ 148 ms, QRS 194 ms, QTc 527 ms. Kompletter Linksschenkelblock mit konsekutiven Kammerendteilveränderungen -LRB- vorbekannt -RRB- .
+OP-Bericht: Implantation eines CRT-D-Systems vom <[Pseudo] 26/06/2038:>
+Diagnosen:
+Primärprophylaktische CRT-D Implantation bei hochgradig eingeschränkter linksventrikulärer Pumpfunktion -LRB- DCMP -RRB- unter ausdosierter Herzinsuffizienztherapie und LSB -LRB- QRS um 180 ms -RRB- . Ferner symptomatische Sinusbradykardie unter bei Vorhofflattern benötigter antiarrhythmischer Medikation. NYHA III. Kachexie. DM Typ II.
+
+ICD-Aggregat: B-OTHER
+RA-Elektrode: B-OTHER
+RV-Elektrode: B-OTHER
+CS-Elektrode: B-OTHER
+CS-Katheter: Medtronic Attain Command 6250VIC, Attain Select II SureValve 6248VI-90, Medtronic Attain Hybrid GW GWR419688
+
+Intraoperative Messwerte:
+RS: -LRB- RA -RRB- 1,6 V/0,5 ms -LRB- RV -RRB- 0,4 V/ 0,5 ms -LRB- LV -RRB- 1,2 V/0,5 ms
+Impedanz: -LRB- RA -RRB- 533 W -LRB- RV -RRB- 380 W -LRB- LV -RRB- 640 W
+Sensing: -LRB- RA -RRB- 1,6 mV -LRB- RV -RRB- 8,9 mV -LRB- LV -RRB- 2,6 mV
+Zugang: V. subclavia links V. cephalica links V. subclavia links
+
+DFT: - OP-Dauer: 145 min. DL-Zeit: 21,7 min Dosis: 1,7 Gy·cm² KM: 30 ml
+
+OP-Bericht:
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links. Der Zugang der Ventrikelelektrode erfolgte transvenös über die Vena cephalica links. Präparation der Vene im Sulcus deltoidopectoralis. Anschlingen, distale Ligatur und Inzision der Vene. Wechsel auf Schleusen über J-Draht. Vorschieben der Ventrikelelektrode unter Bildwandlerkontrolle in die Spitze des rechten Ventrikels. Schwieriges Einbringen der Sonde in den RV bei steiler Herzachse und niedrigen Wahrnehmungswerten am basalen und apikalen Sept. Nach orientierendem Mapping schließlich Platzieren der Sonde apikal mit guten Messwerten. Der Zugang der CS- und Vorhofsonde erfolgte über die V. subclavia. Punktion unter Röntgenkontrolle. Venotomie. Erschwerte Platzierung des Sheath im CS bei Venenklappe, diese kann schlussendlich nur unter Zuhilfenahme eines 90° Innenkatheters passiert werden. Konsekutiv Venogramm des CS: Es zeigt sich ein einzelner degenerierter lateraler Ast, bei steilem Abgang und schmalem Kaliber nicht als Zielgefäß dienlich und ein anterolateraler Ast. Erschwerte Sondenplatzierung bei steilem Abgang des CS. Unter Zuhilfenahme von 90° Innenkatheter kann über einen violettem Hybriddraht schließlich eine L-förmige quadripolare CS-Elektrode im anterolateralen Ast platziert werden. Hier gute Messwerte, kein Zwerchfellzucken bei 10V, gutes Delay -LRB- RV - LV Delay 140 msec, deutliche QRS-Verschmälerung unter biventrikulärer Stimulation -RRB- . Erneute Venotomie. Vorschieben der Vorhofelektrode unter Bildwandlerkontrolle in den rechten Vorhof. Einmal Notwendigkeit zur Umplatzierung bei schmalem, elongiertem Vorhof. Danach Konnektion des Generators und Versenken in der bei ausgeprägter Kachexie submuskulär angelegten Tasche. Schichtweiser Wundverschluss unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links submuskulär angelegt. Verband. Verzicht auf DFT Testung bei guten Messwerten und typischer Position von Elektroden, submuskulär platziertem Device, schlanker Patientin und primärprophylaktischer Indikation. Postoperativ echokardiographisch kein Anhalt für einen relevanten Perikarderguss.
+
+CRT-D-Abfrage vom <[Pseudo] 27/06/2038:>
+Befund:
+Regelrechte CRT-D-Funktion. Seit Implantation keine neuen Episoden im Speicher. Batteriestatus gut -LRB- 2,73 V -RRB- . Impedanz, Wahrnehmung und Reizschwelle regelrecht. Aktuell 15,1 % atriales- und 96,8% biventrikuläres Pacing. Keine kurzen VV-Intervalle. Keine DFTTestung, bei typischer Sonden- und Aggregatlage. Der CRT-D-Ausweis wurde ausgestellt und der Pat. ausgehändigt. Die Informationsbroschüre -LRB- Lt. MPG -RRB- wurde der Patientin ebenfalls ausgehändigt und diese über Verhaltensmaßnahmen aufgeklärt. Der Alarm wurde der Patientin demonstriert. Es besteht eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 2 Wochen gemäß den aktuellen Leitlinien der ORG. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+Kommentar:
+Ihr CRT-D-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan-Modus -RRB- für die Verwendung im MRT entwickelt.
+Wichtig:
+Vor der MRT-Untersuchung sollte ihr CRT-D-System auf diesen SureScan-Modus programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung erfolgen, da dieser SureScan-Modus in dieser Zeit der Einheilungsphase nicht aktivierbar ist.
+
+Echokardiographie nach CRT-D-Implantation vom <[Pseudo] 27/06/2038:>
+Beurteilung Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Röntgen-Thorax nach CRT-D-Implantation vom <[Pseudo] 27/06/2038:>
+Befund und Beurteilung:
+Von links einliegender Schrittmacher mit Spitzenprojektion der Sonden den rechten Vorhof, rechten Ventrikel und linken Ventrikel. Randwinkel frei. Pleura allseits der Thoraxwand anliegend. Keine höhergradige Stauung. Keine Infiltrate. Physiologische Herz- und obere Mediastinalkontur. Trachea mittelständig und nicht eingeengt. Retrosternalraum weichteilüberlagert. Retrocardialraum nicht einsehbar bei nach dorsal ausladender Herzsilhouette. Fortgeschrittene Skelett-Degenerationen.
+
+EKG nach CRT-Implantation vom <[Pseudo] 28/06/2038:>
+Durchgängige ventrikuläre Schrittmacherstimulation mit konsekutiven Kammerendteilveränderungen, Sinusrhythmus, regelmäßig, Herzfrequenz 66/min, PQ 152 ms, QRS 152 ms, QTc 502 ms.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2038>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+3.41 !L
+4 - 10 /nl
+B-DATE
+Hb
+11.7 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.9 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.340 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+87
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 25/06/38>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 25/06/38>
+RDW
+14.0
+12,9 - 18,7 %
+<[Pseudo] 25/06/38>
+hypochr.Erythroz.
+0.3
+0 - 2 %
+<[Pseudo] 25/06/38>
+Thrombozyten
+147 !L
+150 - 440 /nl
+<[Pseudo] 25/06/38>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 25/06/38>
+Kalium -LRB- ISE -RRB-
+3.32 !L
+3,4 - 5,0 mmol/l
+<[Pseudo] 25/06/38>
+Calcium
+2.28
+2,11 - 2,59 mmol/l
+<[Pseudo] 25/06/38>
+Kreatinin
+0.89
+0,5 - 1,1 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+36
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+61.8
+>60 s.u.
+<[Pseudo] 25/06/38>
+MDRD
+66.11
+ml/min/1,73qm
+<[Pseudo] 25/06/38>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+42.1
+30 - 50 g/l
+<[Pseudo] 25/06/38>
+Glucose
+90
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+11
+- <35 U/l
+B-DATE
+GGT
+19
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.90
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+6.6 !H
+- <6 mg/dl
+<[Pseudo] 25/06/38>
+Triglyceride
+103
+- <150 mg/dl
+<[Pseudo] 25/06/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+178.0
+- alt.abh. mg/dl
+<[Pseudo] 25/06/38>
+LDL-Chol. -LRB- berechn. -RRB-
+114
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+43 !L
+>50 mg/dl
+B-DATE
+CRP
+4.8
+- <5 mg/l
+<[Pseudo] 25/06/38>
+Hämolyse
+-
+
+<[Pseudo] 25/06/38>
+ikterisch
+-
+
+<[Pseudo] 25/06/38>
+Lipämie
+-
+
+<[Pseudo] 25/06/38>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+252
+- <301 U/l
+B-DATE
+CK
+75
+- <170 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+16.1 !H
+- <14 pg/ml
+<[Pseudo] 25/06/38>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.0
+- <6,1 %
+<[Pseudo] 25/06/38>
+HbA1c -LRB- IFCC -RRB-
+31
+20 - 42 mmol/mol
+<[Pseudo] 25/06/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+97
+- <110 mg/dl
+<[Pseudo] 25/06/38>
+TSH
+0.560
+0,400 - 4,000 mU/l
+<[Pseudo] 25/06/38>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+69.6 !L
+70 - 125 %
+<[Pseudo] 25/06/38>
+INR - ber.
+1.16
+- <1.2
+<[Pseudo] 25/06/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+30.2
+- <35 s
+<[Pseudo] 25/06/38>
+
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte als Übernahme aus der B-ORG I-ORG zur primärprophylaktischen CRT-D Implantation bei hochgradig eingeschränkter linksventrikulärer Pumpfunktion -LRB- DCMP -RRB- unter ausdosierter Herzinsuffizienztherapie und Linksschenkelblock.
+
+Die initiale Vorstellung der Patientin erfolgte über den Hausarzt bei Belastungsdyspnoe und pectanginösen Beschwerden im Rahmen eines tachykarden Vorhofflatterns. Nach elektrischer und medikamentöser Konversion im B-ORG I-ORG entwickelte die Patientin eine ausgeprägte Sinusbradykardie, woraufhin die Patientin in unsere B-ORG zur geplanten CRT-D-Implantation aufgenommen wurde.
+
+Nach echokardiographischem Ausschluss von intrakardialen Thromben konnte die CRT-D-Implantation am <[Pseudo] 26/06/2038> komplikationslos durchgeführt werden. Echokardiographisch konnten postinterventionell ein Perikarderguss sowie konventionell radiologisch ein Pneumothorax ausgeschlossen werden. Die CRT-D-Aggregatkontrolle war regelrecht. Die Wunde zeigte sich bei Entlassung reizlos. Wir bitten um eine Wundkontrolle in 3-4 Tagen. Bei selbstauflösenden Fäden ist ein Fadenzug nicht notwendig.
+
+Des Weiteren wurde der Patient über eine Schonung und Vermeidung einer Elevation des linken Armes über 90° für 6 Wochen informiert. Bei Rötung, Schwellung, Fieber oder purulentem Sekret aus der Aggregattasche erbitten wir eine sofortige Wiedervorstellung in unserem Hause.
+
+Ein Termin zur Kontrolle in unserer Rhythmus-Ambulanz wurde bereits für den <[Pseudo] 12/08/2038> um 13:00 Uhr vereinbart. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch einen niedergelassenen kardiologischen B-SALUTE in Intervallen von 6 Monaten durchführen zu lassen.
+
+Über Verhaltensmaßregeln sowie eine Fahrungeeignetheit als Privatkraftfahrer für mindestens 2 Wochen und eine dauerhafte Fahrungeeignetheit als Berufskraftfahrer, wurde die Patientin aufgeklärt. DEFI-Ausweis, Informationsbroschüre -LRB- Lt. MPG -RRB- , sowie Patienteninformation und Einverständniserklärung wurden der Patientin ausgehändigt. Die Alarmfunktion wurde der Patientin demonstriert.
+
+Postoperativ kam es kurzzeitig zu grenzwertig hypotonen Blutdruckwerten. Nach der Infusion und oralen Zufuhr von Flüssigkeit stabilisierten sich die Blutdruckwerte wieder im normotonen Bereich. Wir sahen die Hypotonie am ehesten durch eine zu geringe Flüssigkeitsaufnahme am Vortag begründet.
+
+Zur langfristigen Optimierung der Herzinsuffizienztherapie und der antidiabetogenen Therapie empfehlen wir die Einnahme von Empagliflozin, wie unten angegeben. Bei Vorhofflattern in der Vergangenheit steigerten wir die medikamentöse Therapie des Betablockers, wir bitten im kurzfristigen Verlauf um eine Kontrolle der Blutdruckwerte.
+
+Wir empfehlen darüber hinaus die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß aktueller Leitlinien sowie die Fortführung der o. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin am <[Pseudo] 29/06/2038> in Ihre geschätzte ambulante Betreuung.
+
+
+Medikation bei Entlassung:
+Apixaban 5 mg 1-0-1
+Carvedilol 12,5 mg 2-0-1 Dosissteigerung
+Entresto 24/26 mg 1-0-1
+Empagliflozin 10 mg 1-0-0 neu!
+L-Thyroxin 86 µg 1-0-0
+Omeprazol 40 mg 1-0-0
+Pregabalin 100 mg 2-0-0
+Melatonin 2 mg 0-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Stationsärztin
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

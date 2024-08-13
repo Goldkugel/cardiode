@@ -1,0 +1,83 @@
+Aufnahmedatum: <[Pseudo] 2037-06-18 >
+Geburtsdatum: <[Pseudo] 2014-01-31 >
+Alter: 23
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 31/01/2014> wh. B-PLZ B-LOC I-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kein Anhalt für eine strukturelle oder funktionelle Herzerkrankung
+-UNK- Echokardiographisch noch gute linksventrikuläre Funktion -LRB- LVEF 50% -RRB-
+-UNK- Unauffälliges Belastungs-EKG bis zu 100 Watt -LRB- 89% Ziel-Hf -RRB-
+-UNK- Klinisch stabiler kardialer Verlauf
+-UNK- Langzeit-EKG: Sinusrhythmus als Grundrhythmus. Normale Herzfrequenzvariabilität. Keine Pausen. Eine ventrikuläre Extrasystole. Keine Herzrhythmusstörungen
+
+Diagnosen:
+- Intrinsisches Asthma bronchiale
+- Hypothyreose
+
+Kardiovaskuläre Risikofaktoren: kein Nikotinabusus, Familienanamnese -LRB- Mutter :HRST, -UNK- vergrößertes Herz -UNK- -RRB-
+Allergien: Amoxicillin, Penicillin
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Abklärung bei neu aufgetretener paroxsysmaler Tachykardie. Im Alltag bestehe eine gute Belastbarkeit -LRB- 6 Etagen Treppensteigen möglich -RRB- ; Es bestehen keine typischen pectanginösen Beschwerden bei Belastung oder in Ruhe. Es sei vor paar Wochen zum ersten Mal zu einer plötzlichen Episode von Herzrasen aus der Ruhe heraus gekommen vergesellschaftet mit Dyspnoe und thorakalem Druckgefühl für etwa 10-45 Minuten anhaltend, die danach langsam -UNK- ausschleiche -UNK- . Die Patientin ist in dieser Situation zum Hausarzt; es wurde ein unauffälliges Ruhe-EKG geschrieben. Palpitationen sowie stattgehabte Synkopen werden verneint. Gelegentlich orthostatischer Schwindel. Es bestehe keine Nykturie. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die hausärztlichen Blutdruckmessungen ergäben Werte um 90/70 mmHg. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Bisherige Medikation:
+Tromcardin 1-0-1
+L-Thyroxin 50mikrogr 1-0-0
+Pille
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 162 cm 57 kg
+HF: 87/min, regelmäßig
+RR: 100/70 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 87/min, Steiltyp. PQ 139ms, QRS 78ms, QTc 385ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 100 Watt über 01:51 min. Maximale Frequenz 177/min -LRB- 89% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 149 mmHg, diastolisch 89 mmHg. Abbruch wegen peripherer Ermüdung und Kurzatmigkeit beim Tragen von FFP-Maske. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+
+Beurteilender Abschnitt:
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Kein VES. Keine höhergradigen Herzrhythmusstörungen. Rascher Anstieg der Herzfrequenz und verzögerter Abfall. Diskreter Blutdruckabfall in der Erholungsphase.
+
+Langzeit-EKG:
+Tagsüber eher tachykarder, sonst normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 56/min und 136/min, im Mittel 86/min. Normale Herzfrequenzvariabilität. Keine Pausen. Eine ventrikuläre Extrasystole. -LRB- Lt. Patientenprotokoll wurde zweimal -UNK- Schwindel -UNK- und -UNK- beklemmendes Gefühl -UNK- angeben, hierunter Frequenzen um ca. 85/min und 100/min, keine Herzrhythmusstörungen -RRB- .
+
+Transthorakale Echokardiographie:
+Normal großer linker Ventrikel mit noch guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 20 mmHg -RRB- .
+Erstbefund in domo.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Abklärung bei neu aufgetretener paroxsysmaler Tachykardie. Subjektiv wird von einem aktuell klinisch stabilen kardialen Verlauf berichtet.
+
+Das Belastungs-EKG bis 100 Watt ergab, soweit bei Nichterreichen der Ausbelastung beurteilbar, weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradige Herzrhythmusstörungen.
+
+Echokardiographisch fand sich eine noch gute linksventrikuläre Pumpfunktion ohne relevante Klappenvitien -LRB- LVEF 50% -RRB- .
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher eine Fortführung der konservativen Therapie.
+
+Bei Beschwerdepersistenz/ -aggravierung oder Vorkommen einer Synkope empfehlen wir eine erneute Vorstellung mit weiterführender Diagnostik.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, I-ORG oder Ergometertraining, sowie weiterhin nichtmedikamentösen Maßnahmen -LRB- z.B. Reduktion des Salzkonsums, mediterrane Diät und Gewichtsreduktion -RRB- .
+
+In 12-24 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung gerne auch bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung von kardiologischer Seite -LRB- unverändert -RRB- :
+Tromcardin 1-0-1
+L-Thyroxin 50mikrogr 1-0-0
+Pille
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

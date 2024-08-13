@@ -1,0 +1,864 @@
+Aufnahmedatum: <[Pseudo] 2032-07-11 >
+Geburtsdatum: <[Pseudo] 2001-10-07 >
+Alter: 30
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 07/10/2001> wohnhaft in B-PLZ B-LOC, B-ADDR, die sich vom bis in unserer stationären Behandlung befand.
+Aktuell:
+
+- Reanimation bei Kammerflimmern ohne Latenz über 40 min bei a.e. Bradykardie-getriggertem primärem Rhythmusereignis und idiopathischer DCMP am <[Pseudo] 15/06/2032>
+-UNK- Initial Laienreanimation über 15 min
+-UNK- Therapeutische Hypothermie bei 33°C
+-UNK- Passagere SM Implantation mit Overpacing bei Bradykardie am <[Pseudo] 15/06/2032>
+-UNK- Intubation und maschinelle Beatmung vom B-DATE - <[Pseudo] 19/06/2032>
+-UNK- Aspirationspneumonie
+-UNK- Antibiotische Therapie mit Piperacillin/Tazobactam B-DATE
+
+- Erfolgreiche 2-Kammer ICD-Implantation am <[Pseudo] 05/07/2032>
+
+- Nachweis eines LV-Apexthrombus ca. 15x5x7mm im Kardio-MRT v. <[Pseudo] 03/07/2032>
+-UNK- Höchstgradig eingeschränkte systolische LV Funktion bei Dyskinesie des Apex und inferior apikal -UNK- LVEF 26% -UNK- .
+-UNK- Nachweis einer Infarktnarbe im Bereich des Apex auf die angrenzenden Wandabschnitte inferolateral mediobasal und anterolateral basal
+
+- Ausschluss Koronare Herzerkrankung -LRB- B-OTHER v. <[Pseudo] 04/07/2032> -RRB-
+
+- Myokardbiopsie v. B-DATE:
+-UNK- Befund prinzipiell mit einer DCMP vereinbar
+-UNK- Immunhistochemische Aufbarbeitung wird nachberichtet
+-UNK- Kardiotrope Viren: Ausstehend
+
+- Missed abortion am <[Pseudo] 20/06/32>
+-UNK- Kürettage am <[Pseudo] 25/06/32>
+-UNK- Regelmäßige ß-HCG-Kontrollen bis nicht weiter nachweisbar
+-UNK- Ambulante Vorstellung bei der betreuenden Gynäkologin nächste Woche empfohlen
+Diagnosen:
+
+- Kardiomyopathie DD postmyokarditisch
+-UNK- Zuletzt noch leichtgradig eingeschränkte LVEF TTE <[Pseudo] 05/2032>
+-UNK- Nach individueller Abwägung und Patientenwunsch: Empfehlung zur s-ICD-Implantation bei Z.n. Synkopen und arrythmogenem Substrat sowie ventrikulärer Vulnerabilität in der EPU
+
+- Monomorphe ventrikuläre Extrasystolie Lown IVb -LRB- 31417 VES/24 h -RRB-
+-UNK- Ursprung möglicherweise im apikalen LV -LRB- Negativer QRS-Komplex in II, III und aVF -RRB-
+-UNK- Leicht induzierbare polymorphe ventrikuläre Salven und nicht-anhaltende VTs, kein Nachweis eines Brugada-EKG -LRB- B-OTHER vom <[Pseudo] 29/10/2029> -RRB-
+-UNK- Empfehlung zur s-ICD-Implantation mit anschließender VES-/VT-Ablation
+
+- Implantation eines implantierbaren Loop Recorders -LRB- ILR -RRB- vom <[Pseudo] 04/11/2029> bei Z.n. Synkopen <[Pseudo] 03/2029> und <[Pseudo] 08/2029>
+-UNK- ILR-Explantation am <[Pseudo] 02/07/2032> vor Kardio-MRT
+
+- Z.n. Sectio caesarea am <[Pseudo] 06/06/2031> -LRB- unipara -RRB-
+-UNK- Schwangerschafts-assoziierte Hypothyreose
+
+Kardiovaskuläre Risikofaktoren: arterielle Hypertonie, ehemaliger Nikotinabusus -LRB- kumulativ ca. 1 py bis <[Pseudo] 2020> -RRB- , negative Familienanamnese bzgl. struktureller Herzerkrankungen/Synkopen/plötzlichem Herztod
+Allergien: Pollinosis, Tierhaar
+
+Externer Zuweiser: ORG I-ORG
+MRE: positiv
+Angehörige/Betreuer: Ehemann B-PHONE B-PHONE
+Anamnese:
+
+Die Patientin wurde von der B-ORG I-ORG zu uns auf Normalstation in ordentlichem AZ verlegt.
+Sie berichtet von seltenen, belastungsabhängigen Palpitationen. Außerdem sei sie bereits mehrfach synkopiert, zuletzt B-YEAR. Sie könne sich dann nicht an die Minuten nach dem Ereignis erinnern und sie träten ohne Auslöser auf. Schwindel und Nykturie werden verneint. Ihre Belastbarkeit sei bis vor der Reanimation gut gewesen.
+Die Aufnahme der Patientin erfolgte initial aus der B-ORG I-ORG nach erfolgreicher präklinischer Reanimation bei Kammerflimmern. Am Aufnahmetag plötzlicher beobachteter Kollaps. Initial erfolgte eine Laienreanimation bis zum Eintreffen des Notarztes nach ca. 15 Minuten. Als Initialrhythmus zeigte sich Kammerflimmern. Nach insgesamt 40 Minuten Reanimationsdauer konnte ein Spontankreislauf etabliert werden. Im Rahmen der Atemwegssicherung durch den Notarzt ergab sich Anhalt für eine Aspiration. Bei Eintreffen auf unserer B-ORG kreislaufstabile Patientin. Bei B-SALUTE B-PER ist eine Kardiomyopathie, a. e. postmyokarditisch bedingt, mit ventrikulärer Extrasystolie bekannt. Bei Schwangerschaft -LRB- aktuell 15. SSW -RRB- wurde eine sICD-Implantation mit anschliessender VES-Ablation verschoben. Von einer LifeVest-Versorgung wurde auf Wunsch der Patientin zunächst abgesehen.
+
+
+Medikation bei Aufnahme:
+Pantoprazol 40 mg 1-0-0
+Bisoprolol 2,5 mg 1-0-1
+Candesartan 4 mg 1-0-0
+Eplerenon 25 mg 2-0-0
+Kaliumchlorid 1000 mg 2-1-1
+L-Thyroxin 75 µg 1-0-0
+Magnesium verla 1-0-0
+
+Enoxaparin 40 mg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- 1,76m, 65kg, BMI 21 kg/m² -RRB-
+HF: 63/min, regelmäßig
+RR: 120/90
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: o.B.
+Neurol. Status: grob orientierend unauffällig
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme
+SR, 63/min, überdrehter Linkstyp. PQ 142ms, QRS 105ms, QTc 395 ms. Verzögerte R-Progression, R/S-Umschlag in V5/6. Keine ERBS. Im Rhythmusstreifen 4 polymorph VES.
+
+ILR Abfrage vom <[Pseudo] 16/06/2032:>
+Auffällige Reveal-Recorder-Kontrolle. Batteriestatus gut. Im Speicher fand sich am <[Pseudo] 15/06/2032> eine Kammerflimmer-Episode, a.e. Bradykardie-getriggert. Ferner 4 Bradykardie-Episoden sowie 31 Episoden mit ventrikulären Extrasystolen.
+
+Röntgen Thorax auf Intensiv a.p. vom <[Pseudo] 16/06/2032:>
+Keine Voraufnahmen zum Vergleich vorliegend.
+Befund und Beurteilung:
+Schrittmacher Elektrode über rechts jugulär mit Verlauf in Projektion durch das rechte Atrium nach links mit anschließendem Umformung nach cranial, möglicherweise rechtsventrikulär Ausflusstrakt / Truncus pulmonalis. Lagekorrektur empfohlen. Magensonde mit intragastraler Windung und anschließend ansteigend im Ösophagus, Recorder in Projektion auf das linke Mittelfeld, am ehesten extracorporal. Spitze auf mittlerer Oesophagus Höhe, Lagekorrektur empfohlen. Endotrachealtubus mit Spitze knapp 7 cm supracarinal.
+Kein relevanter Erguss oder Pneumothorax im Liegen. Keine entzündlichen Infiltrate den frei einsehbaren Lungenabschnitten. Keine höhergradigen Stauungszeichen. Herzsilhouette im Liegen deutlich verbreitert. Pralle Magenblase.
+Befundmitteilung an die B-SALUTE erfolgt.
+
+Echokardiographie vom <[Pseudo] 19/06/2032:>
+Dilatierter linker Ventrikel mit noch leichtgradig verminderter systolischer Pumpfunktion bei umschriebener Hypo- bis Akinesie apikal und Hypokinesie aller übrigen Wandabschnitte. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Der systolische PA-Druck ist bei fehlender Trikuspidalklappeninsuffizienz nicht ableitbar. Im direkten Bildvergleich zur Voruntersuchung vom <[Pseudo] 31/05/2032:> Zunahme des LV-Diameter. LV Pumpfunktion a. e. unverändert.
+
+Pathologisch-anatomische Begutachtung mit kritischer Stellungnahme vom <[Pseudo] 25/06/2032:>
+Material:
+Nachtastung.
+Klinische Angaben:
+Missed abortion.
+Makroskopie:
+Zusammengelegt 7,8 x 9,9 x 4,0 cm messende, bräunliche Gewebsfragmente unter Einschluss von fragmentiertem embryonalem Gewebe. Dieses geht separat zur anonymen Bestattung -LRB- Schmetterlingsgrab -RRB- .
+Mikroskopie:
+Unreife Chorionzotten mit regelrechten Verzweigungsmustern und Stromafibrose. Intervillös reichlich Fibrinabscheidungen. Kein embryonales Gewebe.
+Diagnose:
+Die makroskopische und histologische Begutachtung ergibt:
+Abortkürettage mit plazentarem Gewebe der Frühgravidität und regressiven Veränderungen.
+Kein Anhalt für Malignität.
+
+NACHBERICHT: <[Pseudo] 10/07/2032> - / ANT-ANT
+In der Zwischenzeit wurde das Material ergänzend aufgearbeitet. In den durchgeführten immunhistochemischen Färbungen finden sich fokal in 2 Partikeln herdförmig aggregierte CD3-positive T-Lymphozyten, welche teils unmittelbar um Myokardiozyten mit teils aufgelockert erscheinender Struktur herum lokalisiert sind. Fokal lassen sich hier bis zu 20 CD3-positive T-Lymphozyten pro Quadratmillimeter nachweisen. Weiterhin finden sich vereinzelt CD 68-positive Makrophagen -LRB- bis zu 13/Quadratmillimeter -RRB- .
+Zusammenfassend findet sich somit herdförmig aggregierte monozytäre -LRB- vorwiegend lymphozytäre -RRB- Entzündungszellinfiltrate mit begleitendem, jedoch nur gering abgrenzbarem Kardiomyozytenschaden, sodass am vorliegenden Material der in der Literatur genannte Schwellenwert für das Vorliegen einer Myokarditis überschritten wird.
+Eine abschließende Einordnung des Befundes muss in Zusammenschau mit den klinisch-serologischen, virologischen, funktionellen und anamnestischen Befunden erfolgen.
+Der Befund wurde vorab telefonisch durchgegeben.
+
+MRT Schädel nativ vom <[Pseudo] 26/06/2032:>
+MR-Angio intracranielle Gefäße arteriell nativ vom <[Pseudo] 26/06/2032:>
+MRT Gefäß-Rekonstruktion vom <[Pseudo] 26/06/2032:>
+MRT Multiplanare Rekonstruktion -LRB- en -RRB- vom <[Pseudo] 26/06/2032:>
+Computergestützte Nachverarbeitung von MR-Datensätzen vom <[Pseudo] 26/06/2032:>
+Befund:
+Keine Voraufnahmen vorliegend.
+Regelrechte Signalgebung von Großhirnhemisphären, Kleinhirnhemisphären und Marklager. In der ToF-Angiographie regelrechtes Flusssignal der basalen hirnversorgenden Gefäße ohne Nachweis einer höhergradigen Stenose oder eines akuten Verschlusses. Regelrechte Weite und Konfiguration der inneren und äußeren Liquorräume ohne Nachweis einer akuten Liquorzirkulationsstörung. Unauffällige Darstellung der Hypophyse. NNH und Ohrnebenräume frei belüftet.
+Beurteilung:
+Altersentsprechender Befund.
+
+Neurologisches Konsil vom <[Pseudo] 27/06/2032:>
+DIAGNOSEN:
+
+Z.n. Reanimation
+ANAMNESE:
+
+Vorstellung durch die B-SALUTE der I-ORG bei Z.n. I-PER mit der Frage nach fokal-neurolog. Defizit. Gestern cMRT sei ohne Nachweis eines path. Befundes gewesen. Anamnetisch leichte Konzentrationsstörungen, sonst nach Angabe der Pat. selbst schrittweise Besserung ohne Angabe relevanter Defizite.
+UNTERSUCHUNGSBEFUND:
+Wach, bewusstseinsklar, zur Zeit unscharf, zu Ort und Person und den Geschehnissen scharf Qualitäten orientiert. Kein Meningismus, kein Kalottenklopfschmerz. Keine Auffälligkeiten der Hirnnerven. Keine manifesten oder latenten Paresen. Muskeleigenreflexe seitengleich mittellebhaft auslösbar. Keine Pyramidenbahnzeichen. Sensibilität zu allen Qualitäten regelrecht. Keine Tonusauffälligkeiten. Zeigeversuche sicher und zügig. Eudiadochokinese. Stand und Gang nicht geprüft.
+BEURTEILUNG und EMPFEHLUNG:
+In der neurolog. Untersuchung ergibt sich kein Anhalt eines eindeutigen fokal-neurolog. Defizits, sondern lediglich eine auch durch Pat. selbst reflektierte leichte zeitliche Desorientierung und auch subjektiv empfundene leichte Konzentrationsstörung. Vor diesem Hintergrund sollte zur Abschätzung möglicher kognitiver Defizite nach Abschluss der Überwachungspflichtigkeit eine ergänzende neuropsycholg. Testung in der neurolog. Ambulanz erfolgen. Eine Terminabsprache kann gerne auch über unsere Neuropsychologen direkt unter B-PHONE I-PHONE erfolgen. RF jederzeit gerne!
+
+Kardio-MRT vom <[Pseudo] 28/06/2032:>
+Beurteilung:
+Abbruch der Untersuchung aufgrund von deutlichen Bildartefakten bei Implantable Loop Recorder
+Zusammenfassung:
+
+Abbruch der Untersuchung aufgrund von deutlichen Bildartefakten bei Implantable Loop Recorder
+
+OP-Bericht: Explantation eines implantierbaren Loop-Recorders -LRB- ILR -RRB- vom <[Pseudo] 02/07/2032:>
+Diagnose:
+ILR-Explantation vor Kardio-MRT Untersuchung und anschließend geplanter 2K-ICD Implantation. Reanimation bei Kammerflimmern über 40 min am <[Pseudo] 15/06/2032> a. e. bei primärem Rhythmusereignis. Unklare Kardiomyopathie DD postmyokarditisch mit aktuell hochgradig eingeschränkter LVEF. Monomorphe ventrikuläre Extrasystolie, leicht induzierbare polymorphe ventrikuläre Salven und nicht-anhaltende VTs, kein Nachweis eines Brugada-EKG -LRB- B-OTHER vom <[Pseudo] 29/10/2029> -RRB- . Z. n. ILR-Implantation <[Pseudo] 10/2029> aufgrund rezidivierender Synkopen.
+Explantat: B-OTHER <[Pseudo] 04/11/2029>
+OP-Dauer: 12min
+OP-Bericht:
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links im Bereich der alten Narbe. Freipräparieren und Herausluxieren des alten Aggregates. Entfernen des Aggregats. Schichtweiser Wundverschluss unter sorgfältiger Blutstillung. Verband.
+Procedere:
+Antikoagulation für 2 Tage aussetzen. Wundkontrolle in 10 Tagen. Kardio-MRT nach Maßgabe Station. Anschließend ad 2K-ICD Implantation -LRB- OP-Slot für Donnerstag bereits reserviert -RRB- .
+
+Indikation zur gynäkologischen Untersuchung vom <[Pseudo] 02/08/2032:>
+Z.n. Abortcurettage bei missed Abortion in der 15. SSW, jetzt HCG adäquat gefallen auf 136.
+Proc.: HCG- Kontrolle nach 1 Woche, dann tel. RS mit uns. Tel. RS auch bei Beschwerden.
+Präexistente Erkrankungen:
+ND: Z.n. Myokarditis <[Pseudo] 08/30> und <[Pseudo] 03/30>
+Voroperationen: Z.n. Ananalatresie/ Stenose mit erfolgter OP mit 2 Wochen, Z.n. Eventrecorder-Implatation
+
+Kardio-MRT vom <[Pseudo] 03/08/2032:>
+Beurteilung
+Bei ausgeprägter Arrhythmie eingeschränkte Bildqualität.
+Dilatierter linker Ventrikel mit global höchstgradig eingeschränkter systolischer Funktion bei Dyskinesie des Apex und inferior apikal, Akinesie lateral apikal, inferolateral und inferior basal sowie Hypokinesie der
+übrigen Wandabschnitte. Eingeschränkte longitudinale Funktion. LA, RA und RV normal groß mit visuell guter systolischer RV-Funktion. Nachweis eines linksventrikulären Apexthrombus -LRB- ca. 15x5x7mm messend -RRB- . Nachweis eines Infarkt-typischen Late Gadolinium Enhancements antero- und inferolateral basal, des Apex sowie septal, inferior und lateral apikal. Nachweis eines Infarkt-atypischen intramuralen Late Gadolinium Enhancements inferoseptal basal, anterior apikal und inferolateral mittventrikulär sowie eines epikardialen Late Gadolinium Enhancements anterolateral mittventrikulär.
+Global diffus erhöhte T1-Relaxationszeiten -LRB- T1 -UNK- 1,5 T = 1056 -UNK- 204 ms -RRB- . Soweit bei Artefaktüberlagerung beurteilbar regelrechte T2-Relaxationszeiten. Kein Nachweis eines myokardialen Ödems in den T2- Blackblood-Sequenzen.
+Zusammenfassung
+Dilatierter linker Ventrikel mit global höchstgradig eingeschränkter systolischer Funktion bei Dyskinesie des Apex und inferior apikal, Akinesie lateral apikal, inferolateral und inferior basal sowie Hypokinesie der
+übrigen Wandabschnitte -LRB- LVEF 26% -RRB- .
+Nachweis einer Infarktnarbe antero- und inferolateral basal, des Apex sowie septal, inferior und lateral
+apikal. Intramurales LGE inferoseptal basal, anterior apikal und inferolateral mittventrikulär. Das epimyokardile LGE anterolateral mittventrikulär ist a.e. inflammatorisch bedingt, differentialdiagnostisch ist dies durch die Reanimation erklärt.
+Nachweis eines linksventrikulären Apexthrombus -LRB- ca. 15x5x7mm messend -RRB- .
+MR-tomographisch ist der Befund a.e. mit einer inflammatorischen Kardiomyopathie vereinbar. Differentialdiagnostisch kommt bei transmuralem LGE auch eine vaskulitische Genese in Betracht. Im Vergleich zum Vorbefund von <[Pseudo] 10/2029> zeigt sich eine Abnahme der LVEF sowie eine Zunahme des LGE
+-LRB- jetzt transmural -RRB- .
+
+Ruhe-EKG <[Pseudo] 03/07/2032:>
+SR, 67/min, überdrehter Linkstyp. PQ 125ms, QRS 103ms, QTc 430 ms. Verzögerte R-Progression, R/S-Umschlag in V5/6. T-Negativierung in II, III, avF, V4-V6. Im Rhythmusstreifen 4 polymorph VES.
+
+Ruhe-EKG <[Pseudo] 04/07/2032:>
+SR, 63/min, überdrehter Linkstyp. PQ 145ms, QRS 105ms, QTc 415ms. Verzögerte R-Progression, R/S-Umschlag in V5/6. T-Negativierung in II,III,avF, V3-V6. Im Rhythmusstreifen 7 monomorphe VES -LRB- 4 als Bigeminus -RRB- .
+
+OP-Bericht: Implantation eines 2-Kammer-ICD vom <[Pseudo] 05/07/2032:>
+Diagnosen:
+Sekundärprophylaktische Indikation zur ICD Therapie bei VF sowie Bradykardei getriggerte VES als Auslösung. Mittelgradig eing. LV Funktion EF 40%, Sinusbradykardie, V.a. LQT Syndrom, Zustand nach Fehlgeburt 15. SW. LV Thrombus
+
+ICD-Aggregat: B-OTHER
+Vorhofelektrode: B-OTHER
+Ventrikelelektrode: B-OTHER
+Messwerte:
+
+RA: RS: 0,3V/0,5 ms RV: RS: 0,4V/0,5 ms
+Impedanz: 695W Impedanz: 589W
+Sensing: 3,9mV Sensing: >8,4mV
+Zugang: V. cephalica links Zugang: V. cephalica links
+
+DFT: - OP-Dauer: 66min. DL-Zeit: 3,3min Dosis: 0,3Gy·cm² KM: 0ml
+OP-Bericht:
+
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links. Der Zugang der Ventrikelelektrode erfolgte transvenös über die -LRB- kleinkalibrige -RRB- Vena subclavia links. Venotomie. Vorschieben der Ventrikelelektrode unter Bildwandlerkontrolle anteroseptal -LRB- Vermeiden einer strikt apikalen Lage bei Perforationsrisiko -RRB- . Problemloses Platzieren der Sonde mit guten Messwerten. Erneute Venotomie. Vorschieben der Vorhofelektrode unter Bildwandlerkontrolle in den rechten Vorhof. Gute Messwerte. Danach Konnektion des Generators und Versenken in der Tasche. Schichtweiser Wundverschluß unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links submuskulär angelegt. Verband.
+Procedere:
+Erster Verbandswechsel 3-4 Tage postoperativ, Sandsack bis morgen früh, Aussetzen der Antikoagulation für mindestens 4 Stunden Postoperativ -LRB- 21 Uhr -RRB- , dann Ausschluss PE, Pneu, Hämatothorax und signifikante Tascheneinblutung und Initiierung einer Antikoagulation mittels Heparin Perfusors OHNE BOLUS GABE mit Ziel aPTT 40 für 24 Stunden. Monitorüberwachung bis zur Aggregatkontrolle, Rö-Thorax in 2 Ebenen, Echokontrolle zum PE-Ausschluß, Aggregatkontrolle morgen ohne VF-Induktion, WV zur Wundkontrolle in 10-12 Tagen -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- . Fahrungeeignet -LRB- gemäß DGK-Empfehlungen -RRB- für mindestens 2 Wochen als Privatkraftfahrer -LRB- Klasse I -RRB- , i.d.R. dauerhaft Fahrungeeignet als Berufskraftfahrer -LRB- Klasse II -RRB- . ICD Testung mit Kammerflimmerninduktion wenn LV Thrombus nicht mehr nachweisbar
+
+Echo-TTE vom <[Pseudo] 05/07/2032:>
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Psychosomatisches Konsil vom <[Pseudo] 08/07/2032:>
+Vertraulich
+
+Ruhe-EKG <[Pseudo] 08/07/2032:>
+SR, 82/min, PQ 122ms, QRS 109ms, QTc 434ms. R/S-Umschlag in V4/5. Keine signifikanten Kammerendteilveränderungen. In Rythmusstreifen 12 monomorphe VES -LRB- 8 als Bigeminus -RRB- .
+
+Herzkatheter und RV Biopsie -LRB- HK Nr. B-DATE I-DATE I-DATE vom <[Pseudo] 04/07/2032> -RRB- :
+Invasive Diagnostik bei Z.n. CPR bei Kammerflimmern und nun hochgradig eingeschränkter LVEF.
+
+Unauffällige Koronarartetien.
+Normale Drücke im kleinen Kreislauf.
+Entnahme von RV-Biopsien. PE Ausschluss erfolgt.
+
+Nachweis von LV-Thrombus -LRB- Kardio-MRT von <[Pseudo] 04/07/2032> -RRB-
+Maßnahmen:
+
+Herzinsuffizienztherapie, Sekundärprophylaktische ICD-Implantation
+Biopsie-Befund sichten
+
+Myokardbiopsie vom <[Pseudo] 04/07/2032:>
+Material:
+PE -LRB- rechtsventrikulär -RRB- .
+Klinische Angaben:
+Z. n. CPR bei Kammerflimmern -LRB- <[Pseudo] 06/2032> -RRB- , jetzt reduzierte linksventrikuläre Funktion. Keine koronare Herzkrankheit.
+Makroskopie:
+5, jeweils max. 0,1 cm messende, bräunliche Gewebsfragmente. In toto.
+Mikroskopie:
+Histologisch erkennt man subendokardiales Arbeitsmyokard mit zum Teil nachweisbarer, deutlicher Kaliberschwankung der Kardiomyozyten, welche eine deutliche Myoibrillenreduktion und Größenschwankungen der hyperchromatischen und teils hirschgeweihartig verzweigten Zellkerne aufweisen. Subendokardiale, endo- und perimysiale, perivaskulär betonte Fibrose, fokal mit Übergreifen auf die Kardiomyozyten im Sinne von Einzellzellumscheidungen nebst einer Aktivierung des Kardiomesenchmys Einzelne, teils auch in kleineren Aggregaten arrangierte Entzündungszellen. Keine Granulome, keine mehrkernigen Riesenzellen, keine Eosinophilie. Keine pathologischen Eisen- bzw. kongo-positiven Ablagerungen in der Berliner-Blau- bzw. Kongorot-Färbung.
+Diagnose:
+Die makroskopische und histologische Begutachtung ergibt:
+Rechtsventrikuläres, subendokardiales Myokard mit gering- bis mäßiggradiger Hypertrophie der Kardiomyozyten, mäßiggradiger Myofirbillenreduktion sowie mäßiggradiger Gefügedilatation nebst einem aktiviert imponierenden Kardiomesenchym.
+Kommentar:
+Kein Anhalt für eine Vaskulitis. Kein Anhalt für eine Speichererkrankung -LRB- Amyloid/Eisen -RRB- .
+Das vorliegende histo-morphologische Bild ist, bei entsprechender klinischer Symptomatik prinzipiell vereinbar mit Veränderungen im Rahmen einer dilatativen Kardiomyopathie -LRB- DCMP -RRB- .
+Zur Quantifizierung und Charakterisierung des Entzündungszellinfiltrats sind immunhistochemische Untersuchungen eingeleitet.
+
+NACHBERICHT: <[Pseudo] 10/07/2032> - / ANT-ANT
+In der Zwischenzeit wurde das Material ergänzend aufgearbeitet. In den durchgeführten immunhistochemischen Färbungen finden sich fokal in 2 Partikeln herdförmig aggregierte CD3-positive T-Lymphozyten, welche teils unmittelbar um Myokardiozyten mit teils aufgelockert erscheinender Struktur herum lokalisiert sind. Fokal lassen sich hier bis zu 20 CD3-positive T-Lymphozyten pro Quadratmillimeter nachweisen. Weiterhin finden sich vereinzelt CD 68-positive Makrophagen -LRB- bis zu 13/Quadratmillimeter -RRB- .
+
+Zusammenfassend findet sich somit herdförmig aggregierte monozytäre -LRB- vorwiegend lymphozytäre -RRB- Entzündungszellinfiltrate mit begleitendem, jedoch nur gering abgrenzbarem Kardiomyozytenschaden, sodass am vorliegenden Material der in der Literatur genannte Schwellenwert für das Vorliegen einer Myokarditis überschritten wird.
+
+Eine abschließende Einordnung des Befundes muss in Zusammenschau mit den klinisch-serologischen, virologischen, funktionellen und anamnestischen Befunden erfolgen.
+Der Befund wurde vorab telefonisch durchgegeben.
+
+Echokardiographie vom <[Pseudo] 05/07/2032:>
+Untersuchung am Bett. Fokussierte Fragestellung.
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 05/07/2032:>
+BEFUND UND BEURTEILUNG:
+Thorakale Sitzendaufnahme. Seitengleiche Lungenbelüftung ohne Nachweis eines Infiltrates. Keine Pleuraergüsse. Kein Pneumothorax. Kein Stauungsaspekt. Hili regelrecht konfiguriert. Trachea mittelständig. Einliegender ICD. Aggregat projiziert sich linkspectoral. Geringes Weichteilemphysem um den Aggregat. Eine Elektrodenspitze projiziert sich auf den rechten Vorhof, eine zweite auf den rechten Ventrikel. Retrosternalraum nicht adäquat beurteilbar aufgrund von Überlagerung durch Fremdkörper und Weichteile. Retrocardialraum frei.
+
+Schrittmacherabfrage vom <[Pseudo] 08/07/2032:>
+Befund:
+Regelrechte ICD-Funktion. Seit Implantation keine neuen Episoden im Speicher. Batteriestatus gut -LRB- 3,05 V -RRB- . Impedanz, Wahrnehmung und Reizschwelle regelrecht. Aktuell 13,9% atrialesund <1% ventrikuläres Pacing. Keine kurzen VV-Intervalle. Geplante DFT-Testung mit Kammerflimmerninduktion sobald der LV Thrombus nicht mehr nachweisbar ist. Der ICD-Ausweis wurde ausgestellt und der Pat. ausgehändigt. Die Informationsbroschüre -LRB- Lt. MPG -RRB- wurde der Patientin ebenfalls ausgehändigt und diese über Verhaltensmaßnahmen aufgeklärt. Der Alarm wurde der Patientin demonstriert. Es besteht eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 3 Monate gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+Procedere:
+Wundkontrolle am 03. - 04. post-Op-Tag -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- Reizlose Aggregattasche. Wiedervorstellung zur nächsten ICD-Kontrolle am <[Pseudo] 12/08/2032> um 13:00 Uhr in unserer B-ORG I-ORG empfohlen. Bitte Planung DFT-Testung mit Kammerflimmerninduktion sobald der LV Thrombus nicht mehr nachweisbar ist. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch einen niedergelassenen kardiologischen B-SALUTE in
+Intervallen von 6 Monaten durchführen zu lassen.
+Kommentar:
+Ihr ICD-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan-Modus -RRB- für die Verwendung im MRT entwickelt.
+Wichtig:
+Vor der MRT-Untersuchung sollte ihr ICD-System auf diesen SureScan-Modus programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung erfolgen, da dieser SureScan-Modus in dieser Zeit der Einheilungsphase nicht aktivierbar ist.
+
+Langzeit-EKG vom <[Pseudo] 08/07/2032:>
+Normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 60/min und 128/min, im Mittel 78/min. Vereinzelte supraventrikuläre Extrasystolen. Keine Pausen. Viele, überwiegend monomorph wirkende ventrikuläre Extrasystolen, z. T. auch repetitiv mit weitem Kopplungsintervall und als Bigemini, häufige Couplets. Wenige Triplets. Lown IV b. Patientin ist ICD-Trägerin. Stationsarzt informiert.
+
+Orientierende Abdomensonographie vom <[Pseudo] 09/07/2032:>
+Die Leber misst im größten kraniokaudalen Durchmesser 14,1 cm. Der Leberrand ist spitz. Die Gallenblase lässt sich deutlich darstellen, die Wand ist zart. Es sind keine Konkremente nachzuweisen. Die intrahepatischen Gallengänge sind nicht dilatiert. Der Ductus Choledochus ist normal weit. Die Milz misst 9,3 x 3,4 cm. Das Echomuster ist homogen. Die V. lienalis ist nicht erweitert. Das Pankreas ist bei Darmgasüberlagerung nicht einsehbar. Beide Nieren erscheinen in Form, Größe und Lage altersentsprechend. Kein Harnstau. Kein H.a. Nephrolithiasis. Die Harnblase stellt sich gut gefüllt und unauffällig dar. Die Appendix kann nicht abgegrenzt werden. Keine freie Flüssigkeit im rechten Unterbauch. Keine freie abdominelle Flüssigkeit.
+Beurteilung:
+-UNK- In der orientierenden sonographischen Untersuchung kein Korrelat für UB-Schmerz
+-UNK- die Appendix kann nicht dargestellt werden.
+Labor:
+
+Zusammenfassung:
+Die Aufnahme von B-SALUTE B-PER erfolgte über den Notarzt nach erfolgreicher präklinischer Reanimation bei Kammerflimmern über kumulativ 40 min. aus dem B-ORG in B-LOC. Bei Übernahme kreislaufstabile Patientin, intubiert und beatmet.
+
+Bei B-SALUTE B-PER ist eine Kardiomyopathie, a.e. postmyokarditisch mit hoher ventrikulärer Extrasystolielast bekannt. Aufgrund einer aktuellen Schwangerschaft -LRB- aktuell 15. SSW -RRB- wurde eine sICD-Implantation mit anschließender VES-Ablation verschoben. Von einer LifeVest-Versorgung wurde auf Wunsch der Patientin abgesehen.
+
+Zur Neuroprotektion erfolgte eine interne therapeutische Hypothermie bei 33°C mittels invasiven Kühlkatheters. Zudem erfolgte angesichts einer stattgehabten Aspiration eine antibiotische Therapie mit Piperacillin/Tazobactam.
+
+Aufgrund einer Bradykardie mit massiver Extrasystolielast und darunter fehlendem Auswurf erfolgte eine passagere SM-Anlage mit Overpacing sowie eine Therapie mittels Metoprololperfusor. Im kurzfristigen Verlauf stabilisierte sich der Rhythmus. Eine Bradykardie trat nicht mehr auf, sodass wir niedrigdosiert eine orale Betablockade begannen. Hierunter verhielt sich die Herzfrequenz stabil. Durch Kaliumsubstitution konnte dieses hochnormal gehalten werden. Ein erneutes anhaltendes Rhythmusereignis trat nicht mehr auf. Echokardiographisch zeigte sich eine leichtgradig reduzierte LV- Funktion.
+
+B-SALUTE B-PER konnte am <[Pseudo] 20.06.> erfolgreich extubiert werden. Initial zeigte sich die Patientin noch deutlich verlangsamt mit ante- und retrograder Amnesie. Durch intensive Gesprächsführung und Aufklärung über das Geschehene konnte das Bewusstsein gebessert werden. Ein Anhalt für eine nachhaltige, auffällige Neurologie bestand nicht.
+
+Aufgrund der Schwangerschaft bei Aufnahme in der 15. Woche wurde engmaschigen Kontakt mit den B-SALUTE der Gynäkologie gehalten. Am <[Pseudo] 19.06.> zeigte sich sonographisch jedoch keine intakte Schwangerschaft mehr. Es wurde vorerst ein abwartendes Verhalten mit der Möglichkeit eines Spontanabortes geführt. Als es jedoch laborchemisch zu einem Infektwertanstieg und beginnender subfebriler Temperatur kam, wurde sich für eine Cürettage entschieden. Das Vorgehen wurde ausführlich mit der Patientin und den Angehörigen -LRB- Mutter, Ehemann -RRB- besprochen. Am <[Pseudo] 25.06.> erfolgte der Eingriff in Vollnarkose komplikationslos. Von gynäkologischer Seite wurde die wöchentliche Kontrolle von beta-HCG empfohlen, Zielwert ist 0.
+
+Die Übernahme auf unsere B-ORG Station erfolgte am B-DATE. Der weitere Aufenthalt gestaltete sich komplikationsarm. Ein neurologisches Konsil inklusive MRT Bildgebung des Kopfes ergab keinen Anhalt für ein fokal neurologisches Defizit post Reanimation.
+
+Bei Übernahme auf B-ORG I-ORG oligosymptomatische Patientin. Es erfolgte eine ILR Explantation zur Durchführung einer Kardio MRT Untersuchung bei unklarer Kardiomyopathie und stattgehabter Reanimation.
+
+In der Kardio MRT Untersuchung zeigte sich der Nachweis eines LV Apexthrombus, sodass wir eine Heparinperfusor gesteuerte Antikoagulation begannen.
+
+Nach oberärztlicher Maßgabe erfolgte eine invasive Abklärung mittels Koronarangiographie und RV Biopsie am B-DATE. Hierbei erfolgte der Ausschluss einer koronaren Herzerkrankung. In der pathologischen Aufarbeitung der RV-Biopsien zeigte sich ein DCMP-typischer Aspekt. Die Immunhistochemie ist ausstehend und wird nachberichtet.
+
+Ein Perikarderguss konnte sequenziell ausgeschlossen werden. Nach Ausschluss einer Koronaren Herzerkrankung erfolgte bei hochgradig eingeschränkter LV Funktion am <[Pseudo] 05/07/2032> die sekundärprophylaktische Implantation eines 2 Kammer ICDs. Erneut wurde ein Perikarderguss sowie ein Pneumothorax postinterventionell ausgeschlossen. In der Folge wurde Marcumar unter überlappender Heparintherapie eindosiert.
+
+Bei bestehender massiver Extrasystolielast empfehlen wir eine erneute EPU inkl. Ablation zu evaluieren. Aus unserer Sicht ist in einer Nutzen-Risiko-Abwägung der bestmögliche Zeitpunkt hierfür nach Regredienz des Apexthrombus. Wir haben eine echokardiographische Kontrolle hierfür zum u.a. Zeitpunkt terminiert. Sollte der Ventrikelthrombus nicht weiter nachweisbar sein, empfehlen wir die erneute EPU in Ablationsbereitschaft zu evaluieren -LRB- Schrittmacher-Auslesung -LRB- Extrasystolielast -RRB- , Symptomatik -RRB- . Ein Langzeit-EKG im stationären Kontext zeigte weiterhin einen hochgradig ablationswürdigen Befund.
+
+Es erfolgte eine Anbindung an die B-ORG in domo sowie die Planung einer Anschlussheilbehandlung. Eine ergänzende neuropsychologische Testung sollte im weiteren ambulanten Verlauf durchgeführt werden.
+
+Bei rechtsseitigem Unterbauchschmerz am <[Pseudo] 09/07/2032> wurde eine unauffällige Sonographie des Abdomens durchgeführt. Zudem erfolgte eine erneute gynäkologische Mitbeurteilung inkl. transvaginalem Ultraschall. In Gesamtschau erscheint auch bei unauffälligem Labor eine Appendizitis oder höhergradige Komplikation bei Z.n. Kürettage unwahrscheinlich. Wir empfehlen eine zeitnahe klinische Kontrolle beim Hausarzt und eine Vorstellung bei der betreuenden Gynäkologin Anfang nächster Woche. Wir halten eine Entlassung am B-DATE nach ausführlicher Aufklärung auf ausdrücklichen Patientenwunsch für vertretbar.
+
+Die Patientin wurde ausführlich in Anwesenheit des Ehemanns über die aktuelle Situation sowie die Folgen einer -LRB- geplanten -RRB- erneuten Schwangerschaft insbesondere unter bestehender Macumar- und Herzinsuffizienztherapie aufgeklärt. Wir empfehlen trotz nachvollziehbarem Kinderwunsch explizit keine weitere Schwangerschaft unter Marcumar-Therapie. In der Folge kann dann eine weitere Schwangerschaft unter Betreuung eines spezialisierten Zentrums und engmaschiger kardiologischer Anbindung evaluiert werden.
+
+Wir passten die Herzinsuffizienzmedikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Des Weiteren begannen wir zur Lipidsenkung und Plaquestabilisierung eine Therapie mit einem Statin. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER mit einem Entlassgewicht von 57 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Procedere/Termine:
+- Termin in der HIS-Ambulanz zur Kontrolle des Apexthrombus am <[Pseudo] 04/10/2032> 10 Uhr
+-UNK- Bei fehlendem Thrombusnachweis empfehlen wir im Verlauf eine EPU zu evaluieren
+-UNK- Bitte Planung DFT-Testung mit Kammerflimmerninduktion sobald der LV Thrombus nicht mehr nachweisbar ist
+
+- 2-K-ICD-Kontrolle am <[Pseudo] 12/08/2032> um 13:00 Uhr in der B-ORG I-ORG
+- Es besteht eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 3 Monate gemäß den aktuellen Leitlinien der B-ORG
+- Ambulante Gynäkologische Kontrolle nächste Woche inkl. beta-HCG-Kontrolle
+- Neuropsychologische Testung bei einem niedergelassenen Neurologen empfohlen
+- Anschlussheilbehandlung geplant, Beginn auf Wunsch der Patienten erst in zwei Wochen
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Marcumar nach INR Ziel 2-3
+Bisoprolol 5mg 1-0-1
+Entresto 24/26mg 1-0-1
+Eplerenon 50mg 1-0-0
+Forxiga 10mg 1-0-0
+Pantozol 40mg 1-0-0 bitte Re-Evaluation
+L-Thyroxin 75µg 1-0-0
+Novalgin 500mg 1-1-1
+Paracetamol 500mg bei Bedarf, bis 3x tgl.
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2031> und dem B-DAY B-MONTH <[Pseudo] 2031>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+10.85 !H
+4 - 10 /nl
+B-DATE
+Hb
+10.2 !L
+12 - 15 g/dl
+<[Pseudo] 10/07/32>
+Erythrozyten
+3.4 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.290 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+84
+83 - 97 fl
+B-DATE
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+35
+30 - 36 g/dl
+B-DATE
+RDW
+14.4
+12,9 - 18,7 %
+<[Pseudo] 10/07/32>
+hypochr.Erythroz.
+2.9 !H
+0 - 2 %
+<[Pseudo] 10/07/32>
+Thrombozyten
+247
+150 - 440 /nl
+<[Pseudo] 10/07/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+0.66 !L
+1,0 - 4,8 /nl
+B-DATE
+Neutroph.G.-abs.
+6.93
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.47
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.02
+- <0,5 /nl
+<[Pseudo] 18/06/32>
+Basoph.G. -LRB- abs -RRB-
+0
+- <0,2 /nl
+<[Pseudo] 18/06/32>
+Neutroph.G. -LRB- mech. -RRB-
+84.9 !H
+50 - 80 %
+<[Pseudo] 18/06/32>
+Lympho -LRB- mech. -RRB-
+8.1 !L
+25 - 40 %
+<[Pseudo] 18/06/32>
+Basoph.G.
+0
+- <1 %
+B-DATE
+Monozyten -LRB- mech. -RRB-
+5.8
+2 - 9 %
+<[Pseudo] 18/06/32>
+Eosinoph.G. -LRB- mech. -RRB-
+0.3 !L
+2 - 4 %
+<[Pseudo] 18/06/32>
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+137
+135 - 146 mmol/l
+<[Pseudo] 10/07/32>
+Kalium -LRB- ISE -RRB-
+4.11
+3,4 - 4,6 mmol/l
+<[Pseudo] 10/07/32>
+Calcium
+2.35
+2,11 - 2,59 mmol/l
+<[Pseudo] 10/07/32>
+Phosphat
+1.12
+0,84 - 1,45 mmol/l
+<[Pseudo] 25/06/32>
+Magnesium
+0.83
+0,75 - 1,05 mmol/l
+<[Pseudo] 25/06/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Chlorid -LRB- ISE -RRB-
+107
+98 - 111 mmol/L
+<[Pseudo] 15/06/32>
+Kreatinin
+0.57
+0,5 - 0,9 mg/dl
+<[Pseudo] 10/07/32>
+Harnstoff
+18
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+124.8
+>60 s.u.
+<[Pseudo] 10/07/32>
+MDRD
+139.01
+ml/min/1,73qm
+<[Pseudo] 02/07/32>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Ges.Eiweiss
+62.8
+60 - 80 g/l
+B-DATE
+Albumin quant.
+44.6
+30 - 50 g/l
+B-DATE
+Glucose
+87
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+27
+- <37 U/l
+B-DATE
+GPT/ALT
+28
+- <35 U/l
+B-DATE
+AP
+48 !L
+55 - 105 U/l
+B-DATE
+GGT
+24
+- <40 U/l
+B-DATE
+CHE
+7.46
+4,26 - 11,25 kU/l
+B-DATE
+Ges.Bili.
+0.40
+- <1.0 mg/dl
+B-DATE
+Dir.Bilirubin
+0.10
+- <0.3 mg/dl
+B-DATE
+Harnsäure
+3.7
+- <6 mg/dl
+<[Pseudo] 02/07/32>
+Triglyceride
+213 !H
+- <150 mg/dl
+<[Pseudo] 02/07/32>
+Cholesterin
+190.0
+- alt.abh. mg/dl
+<[Pseudo] 02/07/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+105
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+42 !L
+>50 mg/dl
+B-DATE
+Lipase
+<NONE> !H
+19 - 63 U/l
+<[Pseudo] 26/06/32>
+Eisen
+6.4 !L
+12 - 27 µmol/l
+<[Pseudo] 26/06/32>
+Ferritin
+159 !H
+20 - 120 µg/l
+<[Pseudo] 25/06/32>
+Transferrin
+1.95 !L
+2,0 - 3,6 g/l
+<[Pseudo] 25/06/32>
+TFSG
+17
+16 - 45 %
+<[Pseudo] 25/06/32>
+CRP
+5.2 !H
+- <5 mg/l
+<[Pseudo] 02/07/32>
+PCT sens.
+0.06 !H
+- <0,05 ng/ml
+<[Pseudo] 07/07/32>
+Laktat
+1.58
+0,9 - 1,6 mmol/l
+<[Pseudo] 15/06/32>
+Hämolyse
+-
+
+<[Pseudo] 10/07/32>
+ikterisch
+-
+
+<[Pseudo] 10/07/32>
+Lipämie
+-
+
+<[Pseudo] 10/07/32>
+
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+LDH
+262
+- <264 U/l
+B-DATE
+CK
+32
+- <170 U/l
+B-DATE
+CK-MB
+114
+-
+B-DATE
+hs-TroponinT
+618 !H
+- <14 pg/ml
+B-DATE
+hs-TroponinT
+23.3 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+505 !H
+- <125 ng/l
+<[Pseudo] 25/06/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+NSE
+40.6 !H
+- <17 µg/l
+B-DATE
+Gesamt-HCG
+13.9 !H
+- <6 mIE/ml
+<[Pseudo] 09/07/32>
+ANA-Ak
+negativ
+- <1:80 Titer
+<[Pseudo] 04/07/32>
+ds-DNA-ELISA
+6
+- <40,0 IU/ml
+<[Pseudo] 04/07/32>
+ANCA-IFT
+negativ
+- <1:10 Titer
+<[Pseudo] 04/07/32>
+Rheumafaktor
+8.1
+- <25 IU/ml
+<[Pseudo] 04/07/32>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.0
+- <6,1 %
+<[Pseudo] 02/07/32>
+HbA1c -LRB- IFCC -RRB-
+31
+20 - 42 mmol/mol
+<[Pseudo] 02/07/32>
+mittlere Glucose
+97
+- <110 mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+TSH
+0.900
+0,400 - 4,000 mU/l
+B-DATE
+FT3
+2.60
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+12.66
+8 - 18 ng/l
+B-DATE
+Gerinnungsdiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+30.9 !L
+70 - 125 %
+<[Pseudo] 10/07/32>
+INR - ber.
+2.08 !H
+- <1.2
+<[Pseudo] 10/07/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+aPTT
+55.7 !H
+- <35 s
+B-DATE
+D-Dimer -LRB- neu -RRB-
+0.70 !H
+- <0,5 mg/l
+B-DATE
+Urindiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+6.50
+6,0 - 8,0
+<[Pseudo] 28/06/32>
+SpezGew/Tstr.
+1012
+1001 - 1035
+<[Pseudo] 28/06/32>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 28/06/32>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 28/06/32>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 28/06/32>
+Erys /Tstr.
+Ca 10
+- 0 Ery /µl
+<[Pseudo] 28/06/32>
+Eiweiß/Tstr.
+Spur
+- neg. mg/dl
+<[Pseudo] 28/06/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 28/06/32>
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 28/06/32>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+8.0 !H
+- <8 /µl
+B-DATE
+Leuko/µl
+10.0 !H
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+9.00 !H
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+<[Pseudo] 28/06/32>
+Blutgasanalyse
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH
+7.41
+7,37 - 7,45
+B-DATE
+pO2
+59
+mmHg
+B-DATE
+pCO2
+39.3
+35 - 45 mmHg
+<[Pseudo] 01/07/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-0.2
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+24.2
+mmol/l
+B-DATE
+Laktat
+10.4
+- <16 mg/dl
+B-DATE

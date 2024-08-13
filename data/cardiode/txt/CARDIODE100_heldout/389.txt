@@ -1,0 +1,171 @@
+Aufnahmedatum: <[Pseudo] 2040-06-23 >
+Geburtsdatum: <[Pseudo] 2013-07-11 >
+Alter: 26
+
+über Ihre Patientin B-SALUTE B-PER I-PER I-PER geboren am <[Pseudo] 11/07/2013> wh. B-PLZ B-LOC B-ADDR I-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+
+Diagnosen:
+Aktuell: Hämodynamisch nicht relevanter Perikarderguss
+- Z.n. Unfalltrauma am <[Pseudo] 13.06.> mit
+- Hämodynamisch nicht relevantem Perikarderguss
+- Lungenkontusion rechts
+- Distorsion der Halswirbelsäule
+- Hygrom links hemisphär occipital
+- Risikofaktor positive Familienanamnese für dilatative Kardiomyopathie
+
+
+Allergien: Hausstaubmilben
+
+Anamnese:
+Die Vorstellung erfolgt bei Z.n. Unfalltrauma mit dem PKW am <[Pseudo] 13.06.> Damals Aufnahme in die B-ORG I-ORG in I-ORG über den Schockraum. Als Unfallfolge zeigte sich eine Lungenkontusion rechts, eine Distorsion der Halswirbelsäule, eine oberflächliche Schürfung präpatellar rechts, nebenbefundlich im CT ein Hygrom links hemisphär occipital sowie echokardiographisch ein hämodynamisch nicht relevanter Perikarderguss.
+Erkältung Mitte B-DATE, die sich lange hingezogen habe mit chronischer Sinusitis. Keine inadequate Belastungsdyspnoe. Keine pectanginösen Beschwerden. Gelegentliches Herzstechen in Ruhe, ca. 1 Minute andauernd. Gelegentlicher Schwindel bei Hypotonie, keine Synkopen. Im Sommer Schwellung der Beine.
+Die Patientin macht regelmäßig Sport und war im Alltag bis zu dem Unfall gut belastbar.
+
+
+
+Körperlicher Untersuchungsbefund:
+
+AZ: gut
+EZ: 168 cm, 64kg
+HF: 56/min, regelmäßig
+RR: 130/70 mmHg
+Keine Zyanose, Anämiezeichen oder Ikterus.
+HT: leise, rein, keine path. Geräusche
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse gut tastbar
+
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, regelmäßig, 56/min, Steil-Typ. PQ: 180ms, QRS:85 ms, QTc:380 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. ST-Hebungen in II, III und AVF sowie V6, präterm. T-Negativierungen in V1 und V2.
+
+
+Echokardiographie:
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale
+Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelgerechte diastolische
+Funktion. LA grenzwertig groß, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal
+weit. Aorta ascendens, soweit beurteilbar, normal weit. Zirkulärer Perikardergusslamelle,
+keine hämodynamische Relevanz. Vena cava inferior nicht gestaut.
+Aortenklappe trikuspid mit guter Separation. Diskreter Prolaps des vorderen Mitralsegels
+ohne begleitende Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch
+regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz
+nicht ableitbar.
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 04/01/2035:> Keine wesentliche Befundänderung.
+
+
+Zusammenfassende Beurteilung:
+Die ambulante Vorstellung erfolgte nach Unfalltrauma am <[Pseudo] 13.06.> zur Kontrolle eines hämodynamisch nicht relevanten Perikardergusses.
+Die Patientin war bereits <[Pseudo] 2034> in unserer B-ORG bei positiver Familienanamnese für dilatative Cardiomyopathie. Hier hatte sich ein regelrechter Befund gezeigt.
+Heute zeigte sich noch eine minimale Restergusslamelle ; ansonsten echokardiographisch unauffälliger Befund und laborchemisch kein Hinweis auf Infekt.
+Wir empfehlen die erneute Kontrolle des Perikardergusses in 6 Wochen; dies kann gerne auch beim niedergelassenen Kardiologen heimatnah erfolgen.
+
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2039>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.03
+4 - 10 /nl
+B-DATE
+Hb
+13.4
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.4
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.400
+0,36 - 0,47 l/l
+B-DATE
+MCV
+91
+83 - 97 fl
+<[Pseudo] 23/06/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 23/06/40>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 23/06/40>
+RDW
+13.1
+12,9 - 18,7 %
+<[Pseudo] 23/06/40>
+hypochr.Erythroz.
+0.5
+0 - 2 %
+<[Pseudo] 23/06/40>
+Thrombozyten
+256
+150 - 440 /nl
+<[Pseudo] 23/06/40>
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 23/06/40>
+Hämolyse
+-
+
+<[Pseudo] 23/06/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+ikterisch
+-
+
+<[Pseudo] 23/06/40>
+Lipämie
+-
+
+<[Pseudo] 23/06/40>
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+4.41
+- <14 pg/ml
+B-DATE
+
+
+
+
+
+
+
+Medikamente:
+Ibuprufen b. Bed.
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Fachärztin

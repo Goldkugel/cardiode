@@ -1,0 +1,109 @@
+Aufnahmedatum: <[Pseudo] 2032-01-11 >
+Geburtsdatum: <[Pseudo] 1966-01-06 >
+Alter: 66
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 06/01/1966> wh. B-PLZ B-LOC B-ADDR I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- MRT-Befundbesprechung -LRB- Kardio-MRT v. <[Pseudo] 28/12/31> -RRB-
+-UNK- Negativer Ischämienachweis
+-UNK- Grenzwertige linksventrikuläre systolische Funktion -LRB- LV-EF 51% -RRB- bei Hypokinesie inferior und inferolateral basal
+-UNK- Myokardfibrose antero- und inferoseptal basal
+
+Diagnosen:
+- Z.n. Myokardinfarkt -LRB- STEMI -RRB- am <[Pseudo] 07/07/2031>
+- Koronare 3-Gefäßerkrankung mit guter linksventrikulärer Pumpfunktion
+-UNK- Erfolgreiche Rekanalisation der RCA mittels PTCA/2-fach DE-Stentimplantation -LRB- B-OTHER vom <[Pseudo] 07/07/2031> -RRB-
+-UNK- Residuelle 50%ige Stenosen Hauptstamm, LAD, LCX
+-UNK- Noch gute systolische Pumpfunktion, Hypokinesie inferoseptal, inferolateral basal und inferior basal und medial -LRB- Echokardiographie vom <[Pseudo] 11/07/2031> -RRB-
+- Periphere Polyneuropathie bei bekanntem Diabetes mellitus Typ 2
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Ex- Nikotinabusus -LRB- bis <[Pseudo] 1989> sistiert, kumulativ 3 PY -RRB- , Diabetes mellitus Typ 2, familiäre Disposition -LRB- Mutter mit 66 66 Herzinfarkt -RRB-
+Allergien: Anamnestisch keine bekannt
+
+Anamnese:
+Die ambulante Vorstellung von B-SALUTE Wann erfolgt zur Besprechung des Kardio-MRT Befundes bei bekannter 50% Stenosen Hauptstamm, LAD, LCX.
+Im Alltag bestehe eine gute Belastbarkeit -LRB- 3-4 Etagen Treppensteigen möglich, NYHA I -RRB- . Keine Angina Pectoris oder Belastungsdyspnoe in den letzten Wochen. Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Keine peripheren Ödeme bei Gewichtkonstanz in den letzten Monaten. Nykturie: 1-2/Nacht. Die regelmäßig erhobenen häuslichen Blutdruckwerte lägen bei ca. 135-145/80-90 mmHg. Insgesamt bestehe ein verbesserter kardialer Verlauf.
+
+Aktuelle/Bisherige Medikation:
+ASS 100 mg 1-0-0 dauerhaft
+Ticagrelor 90 mg 1-0-1 bis einschließlich <[Pseudo] 06/07/2032>
+Pantozol 40 mg 1-0-0
+Bisoprolol 5 mg 1-0-1
+Carmalo -LRB- Candesartan/Amlodipin 5/8mg 1-0-1
+Candesartan 8mg 2-0-0
+Atorvastatin 80 mg 0-0-1 Ziel-LDL < 55 mg/dl
+Ezitimib 10mg 1-0-0
+Gabapentin 800 mg 1-1-1
+Jardiance 10mg 1-0-0
+Metformin 850 mg 1-0-1
+Victoza 1,2 1-0-0
+Lantus 12 IE 0-0-1
+Actrapid nach Schema
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 183 cm, 88 kg
+HF: 70/min
+RR: 125/80 mmHg
+Keine Zyanose, Anämiezeichen oder Ikterus. Kopf/Hals unauffällig. Schilddrüse o.p.B.
+HT: leise, rein, keine path. Geräusche
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Abdomen: weich, kein DS, keine Resistenzen, kein Klopfschmerz
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse gut tastbar
+Neurol. Status: orientierend o.p.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, regelmäßig, 72/min, Indufferenzyp. PQ: 169 ms, QRS: 101 ms, QTc: 401 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V2/V3. Keine S-Persistenz bis V6. Keine signifikanten Erregungsleitungsstörungen.
+
+Stress Kardio-MRT Befund vom <[Pseudo] 28/12/2031:>
+Negativer Ischämienachweis bei knapp nicht erreichter Zielfrequenz.
+Grenzwertige linksventrikuläre systolische Funktion -LRB- LVEF 51% -RRB- bei Hypokinesie inferior und inferolateral
+basal.
+Nachweis einer Infarktnarbe der Hinterwand.
+Myokardfibrose antero- und inferoseptal basal an der RV-Insertion.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgt zur Besprechung des Kardio-MRT Befundes vom B-DATE.
+Anamnestisch sowie in der klinischen Untersuchung zeigte sich ein stabiler kardialer Verlauf bei aus kardialer Sicht subjektiver Beschwerdefreiheit.
+
+Im Stress-Kardio-MRT ergab sich ein negativer Ischämienachweis mit Myokardfibrose antero- und inferoseptal basal. Zudem zeigte sich eine grenzwertige linksventrikuläre systolische Funktion bei Hypokinesie inferior und inferolateral basal.
+
+In Zusammenschau von Klinik und der apparativen Diagnostik gehen wir bezüglich der koronare 3-Gefäßerkrankung von einem stabilen kardialen Befund aus und empfehlen daher eine Fortführung der konservativen Therapie.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir empfehlen regelmäßige körperliche Aktivität 3 - 4x/ Woche, ca. 40-50 Minuten in Form von z.B. Walking/ B-ORG I-ORG Radfahren, Schwimmen, Tanzen, Ergometer-Training oder Crosstrainer.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100 mg 1-0-0 dauerhaft
+Ticagrelor 90 mg 1-0-1 bis einschließlich <[Pseudo] 06/07/2032>
+
+Bisoprolol 5 mg 1-0-1
+Caramlo -LRB- Candesartan / Amlodipin -RRB- 8/5mg 1-0-1
+Candesartan 8mg 2-0-0
+Atorvastatin 80 mg 0-0-1 Ziel-LDL < 55 mg/dl
+Ezitimib 10mg 1-0-0
+Gabapentin 800 mg 1-1-1
+Pantozol 40 mg 1-0-0
+Jardiance 10mg 1-0-0
+Metformin 850 mg 1-0-1
+Victoza 1,2 1-0-0
+Lantus 12 IE 0-0-1
+Actrapid nach Schema
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres im Besonderen empfohlen.
+
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

@@ -1,0 +1,98 @@
+Aufnahmedatum: <[Pseudo] 2516-10-04 >
+Geburtsdatum: <[Pseudo] 2063-10-10 >
+Alter: 452
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 10/10/2063> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Erfolgreiche PTCA/ 2xDE-Stentimplantation einer hochgradigen Stenose der LCX -LRB- B-OTHER v. <[Pseudo] 30/05/2145> -RRB-
+- Koronare 2-Gefäßerkrankung der LAD und LCX mit global guter linksventrikulärer Pumpfunktion
+-UNK- Residuelle höhergradige LAD-Stenose
+-UNK- Ad PCI der LAD am <[Pseudo] 07/07/2145> um 09:00 Uhr über die Tagesklinik
+-UNK- Perfusionsdefizit unter Adenosin anteroseptal mediobasal, myokardiale Fibrose der basalen Hinterwand und des inferobasalen Septums -LRB- Stress-Kardio-MRT <[Pseudo] 11/04/2145> -RRB-
+-UNK- Auffälliges Kardio-CT <[Pseudo] 09/2144>
+- Vaskuläre Demenz -LRB- anamnestisch -RRB-
+- Schilddrüsenknoten links, CT <[Pseudo] 09/2144>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, positive Familienanamnese -LRB- Bruder Myokardinfarkt mit 452 452 -RRB-
+Allergien: keine bekannt
+
+Indikation für stationären Herzkatheter:
+- PTCA und Stentimplantation mit postinterventioneller Überwachungspflicht von mehr als 8h sowie erhöhtem Risiko einer Nachblutung
+
+Anamnese:
+Die aktuelle Vorstellung der Patientin erfolgt zur Herzkatheteruntersuchung bei V.a. stenosierende koronare Herzerkrankung. Bei progredienter Belastungsdyspnoe im Laufe des letzten Jahres -LRB- aktuell NYHA II-III -RRB- bei jedoch keinen spezifischen thorakalen Beschwerden -LRB- CCS 0-I -RRB- erfolgte eine Kardio-CT-Untersuchung. Hier zeigte sich <[Pseudo] 09/2144> eine koronare 1-Gefäßerkrankung der LAD mit intermediären Stenosen. Am <[Pseudo] 11/04/2145> wurde eine Stress-Kardio-.MRT-Untersuchung durchgeführt, hier zeigte sich ein Perfusionsdefizit unter Belastung anteroseptal mediobasal. Im Alltag ansonsten keine Synkope, keine Palpitationen, keine signifikante Oedemneigung.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 164 cm, 70 kg
+HF: 58/min, regelmäßig
+RR: 170/80 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig.
+HT: rein, keine patholog. Geräusche
+Lunge: bds. frei
+Periphere Ödeme: keine
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Herzfrequenz 65/min, Indifferenztyp, PQ 138 ms, QRS 84 ms, QTc 395 ms. Zögerliche R-Progression über der Vorderwand, RS-Umschlag V4/V5. Q in III. Sonst keine signifikanten Erregungsrückbildungsstörungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 30/05/2145> -RRB- :
+Befund folgt im endgültigen Brief.
+
+Ruhe-EKG nach Intervention:
+Normofrequenter Sinusrhythmus, Herzfrequenz 71/min, Linkstyp, PQ 137 ms, QRS 86 ms, QTc 421 ms. Zögerliche R-Progression über der Vorderwand, RS-Umschlag V5/V6. Q in III und aVF. Sonst keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+Zusammenfassung:
+In der Herzkatheteruntersuchung zeigte sich eine koronare 2-Gefäßerkrankung der LAD und LCX mit guter linksventrikulärer Pumpfunktion. Wir haben eine erfolgreiche PTCA und 2xDE-Stentimplantation einer hochgradigen Stenose der LCX durchgeführt. Es besteht weiterhin eine residuelle höhergradige LAD-Stenose.
+
+Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- . Postinterventionell zeigten sich keine signifikanten EKG-Veränderungen und kein signifikanter Troponin-Anstieg. Der Patientin wurde ein Implantatausweis ausgehändigt. Sie wurde über notwendige Verhaltensanweisungen informiert.
+
+Procedere:
+Wir empfehlen die kombinierte Thrombozytenaggregationshemmung mit ASS und Clopidogrel für mindestens 6 Monate nach Intervention. Anschließend ist eine dauerhafte Thrombozytenaggregationshemmung mit ASS 100 mg täglich ausreichend. Die Patientin wurde über die Notwendigkeit einer lückenlosen Einnahme von ASS und Clopidogrel bis zum unten genannten Datum ausführlich aufgeklärt.
+
+Zur Durchführung einer PCI der LAD wurde ein Termin für den <[Pseudo] 07/07/2145> um 09:00 Uhr über die Tagesklinik vereinbart. Wir bitten den Patienten einen hausärztlichen Einweisungsschein, aktuelle Laborwerte, sowie einen aktuellen COVID-Test zur stationären Aufnahme mitzubringen. Die Patientin wurde für die geplante Intervention bereits ausführlich aufgeklärt und war zu dem Zeitpunkt aufklärungsfähig. Trotzdem ist abermals ein Gespräch mit der Tochter -LRB- anamn. Betreuerin -RRB- erfolgt -LRB- am <[Pseudo] 31/05/2145> persönlich und am <[Pseudo] 02/06/2145> telefonisch bei Nachbericht des Termins -RRB- , welche der Aufklärung und der geplanten PCI im vollen Umfang zustimmt und kein gesondertes Gespräch wünscht.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien sowie die Fortführung der unten aufgeführten medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Nächster Termin/Kontrolle:
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchungen in der Praxis des betreuenden B-SALUTE B-TITLE B-PER
+
+Therapieempfehlung:
+ASS 100 1-0-0, dauerhaft
+Clopidogrel 75 1-0-0, neu, bis einschließlich <[Pseudo] 29/11/2145>
+Enalapril 5 1-0-1
+Pantozol 40 1-0-0
+Rosuvastatin 5 0-0-1
+Vitagamma D3 2000 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin am <[Pseudo] 31/05/2145> in Ihre geschätzte ambulante Betreuung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die Überweisung und vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin
+
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2145>
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+41.2 !H
+- <14 pg/ml
+B-DATE

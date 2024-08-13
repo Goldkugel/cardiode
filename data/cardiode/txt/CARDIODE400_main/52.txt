@@ -1,0 +1,213 @@
+Aufnahmedatum: <[Pseudo] 2034-06-27 >
+Geburtsdatum: <[Pseudo] 1955-05-06 >
+Alter: 79
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 06/05/1955> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Kardiogener Schock
+-UNK- Differenzierte Katecholamintherapie
+-UNK- Dobutamin <[Pseudo] 26.06.> - <[Pseudo] 29/06/2034>
+-UNK- Noradrenalin <[Pseudo] 27.06.> - <[Pseudo] 30/06/2034>
+- Hämodynamisch hochgradige Mitralklappeninsuffizienz, angiographisch mittel- bis hochgradige Mitralklappeninsuffizienz, koronare Herzerkrankung ohne höhergradige Stenosen, global hochgradig eingeschränkte LV-Funktion, PA-Druck erhöht -LRB- 40/17/30 mmHg -RRB- ; v-Welle 35 mmHg, ZVD 15mmHg, LVEDP 15mmHg, SVO2 50%, Cardiac Index 1,7 l/min/m2 -LRB- HK-Nr. B-OTHER v. <[Pseudo] 15/06/2034> -RRB-
+-UNK- Während der Untersuchung Wechsel zwischen SR/TAA/SlowVT
+-UNK- Ad MitraClip nach Infektsanierung
+- Hydropische Dekompensation a.e. bei hochgradiger Mitralinsuffizienz und Vorhofflimmern
+- Rezidivierende TAA/slow VT/nsVTs/SM-Rhythmus
+-UNK- Therapie mit Amiodaron
+-UNK- Therapie mit Lidocain als Perfusor vom <[Pseudo] 30/06/2034> - <[Pseudo] 01/07/2034>
+-UNK- Therapie mit Mexiletin seit dem <[Pseudo] 01/07/2034>
+- V.a. Stauungspneumonie
+-UNK- Antibiotische Therapie mit TazoBac und Vancomycin vom <[Pseudo] 30/06/2034> - dato
+
+Diagnosen:
+- Dilatative Kardiomyopathie mit mittel - bis hochgradig eingeschränkter LV Funktion
+- Unauffällige Koronararterien -LRB- HK-NR. B-OTHER vom <[Pseudo] 22/04/2026> -RRB-
+- Z. n. 2-Kammer ICD Implantation -LRB- Boston Scientific am <[Pseudo] 29/04/2026> -RRB-
+- Z. n. rezidivierenden VTs sowie Tachyarrhythmia absoluta mit multiplen ICD Entladungen am <[Pseudo] 31/05/2026> -LRB- ORG I-ORG -RRB-
+- Z. n. erfolgreicher Elektrokardioversion bei VT am <[Pseudo] 21/04/2026>
+- Permanentes Vorhofflimmern
+- Struma diffusa ad nodosa, latente Hyperthyreose -LRB- TSH 0,32µu/l -RRB-
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie
+Allergien: keine bekannt
+Anamnese:
+
+Die Aufnahme der Patientin erfolgte von B-ORG I-ORG im kardiogenen Schock.
+
+Die initiale stationäre Aufnahme der Patientin in domo erfolgte am <[Pseudo] 14.06.> als Übernahme aus dem B-ORG I-ORG bei hochgradiger Mitralinsuffizienz und rezidivierender TAA DD langsamer VT. Die Patientin war dort am <[Pseudo] 07.06.> bei hydropischer Dekompensation -LRB- Beinödeme, Gewichtszunahme, progrediente Belastungsdyspnoe -RRB- aufgenommen worden. Zuvor war sie dort bereits mit gleicher Symptomatik bis zum <[Pseudo] 06.05.> stationär gewesen, eine minimalinvasive Versorgung der Mitralklappe war damals bereits geplant worden. Aus dem B-ORG war die Patientin bei wiederholten tachykarden Episoden DD ventrikulären Tachykardien bereits am <[Pseudo] 10.06.> in unserer B-ORG vorgestellt worden. Hier fanden sich bei regelrechter ICD-Funktion mehrere slow-VT-Episoden im Speicher und es wurde daraufhin eine Amiodaron-Aufsättigung begonnen und Spironolacton 25mg angesetzt. Bei Unwohlsein unter erneuter Tachykardie wurde am <[Pseudo] 12.06.> i.v. Amiodaron verabreicht und die Patientin zeigte sich daraufhin hypoton, woraufhin die Aufsättigung beendet wurde -LRB- kumulativ 3,4g -RRB- .
+
+Bei Übernahme auf B-ORG CCU kardiozirkulatorisch instabile Patientin.
+Körperlicher Untersuchungsbefund:
+
+AZ: gut
+EZ: schlank -LRB- 170cm, 50kg -RRB-
+HF: 75/min
+RR: 90/40 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.p.B.
+HT: leise, rein, keine sicher auskultierbaren path. Geräusche
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Abdomen: weich, kein DS, keine Resist.
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse gut tastbar
+Neurol. Status: orientierend o.p.B.
+sonstige Auffälligkeiten: keine
+Ruhe-EKG:
+
+Normofrequenter Schrittmacherrhythmus mit durchgehender atrioventrikulärer Stimulation, Herzfrequenz 70/min, überdrehter Linkstyp, PQ 180ms, QRS 235ms, QTc 534ms, mit konsekutiven KETV.
+
+Ernährungskonsil vom <[Pseudo] 27/06/2034:>
+CAVE: Refeeding Syndrom! Engmaschige Laborkontrolle, insbesondere Phosphat, Natrium, Magnesium und Kalium notwendig.
+Langsamer Beginn der parenteralen Ernährung notwendig nach folgendem Schema:
+VOR Beginn der parenteralen Ernährung je 1 A. Vitamin B1 Ratiopharm & 1 Amp. Vitamin B6 Hevert langsam -LRB- über 30min -RRB- iv für mind. 3 Tage.
+Dann weiter mit:
+Nutriflex omega spezial 625ml/740kcal, Laufzeit 20h
++ 2 A. Addel Trace -LRB- für 3 Tage, dann weiter mit 1 A. -RRB-
++ 1 A. Cernevit
++ 1 A. Frekavit wasserlöslich -LRB- für 3 Tage, dann weiter mit 1 A. -RRB-
++ 1 A. Natriumglycerophosphat -LRB- für mind. 3 Tage, bei Erreichen des mittleren Normwertes absetzten -RRB-
+Bei anhaltender Nahrungskarenz ist eine Steigerung der parenteralen Ernährung indiziert, z.B. auf Olimel 1500/1600kcal. Dazu bitte Wiedervorstellung in 3 Tagen.
+
+CT-Abdomen vom <[Pseudo] 29/06/2034:>
+CAVE vorläufiger Befund, endgültiger Befund folgt.
+CT Abdomen mit Kontrastmittel vom <[Pseudo] 29/06/2034:>
+Spektral-CT vom: <[Pseudo] 29/06/2034>
+CT Multiplanare Rekonstruktion -LRB- en -RRB- vom <[Pseudo] 29/06/2034:>
+Maximum-Intensitäts-Projektion -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 29/06/2034:>
+
+Keine entsprechenden Voruntersuchungen zum Vergleich vorliegend.
+Befund:
+
+-LRB- Miterfasster -RRB- Thorax:
+Deutliche Rechtsherzbelastung, Erweiterung der VCI -LRB- mit anschließender Stauung der Lebervenen -RRB- , Ausgedehnter Pleuraerguss rechts mit angrenzender Unterlappenatektase. Mosaiklunge. Herzschrittmacheraggregat teilerfasst mit Sonden im re. Vorhof und re. Ventrikel.
+Abdomen:
+
+Muskatnussleber, keine fokalen hepatischen Läsionen. Keine Cholestase. Milz und Pankreas homogen. Nierenzysten bds. kortikal, am linken Unterpol verkalkt, Nierenparenchym rechts homogen kontrastiert, links kleine, keilförmige KM-Aussparungen. Kein Harnstau.
+Kurzstreckiger Verschluss des Truncus coelicaus, a.e. durch Lig. arcuatum -LRB- Se 401/227 -RRB- , abhängige Gefäßabschnitte regelrecht. Keine freie Flüssigkeit, keine freie Luft. Koprostase; Dilatation des gasgefüllten Dickdarmrahmens; kein obstuktiver Ileus, soweit beurteilbar kein Nachweis einer obstruierenden Raumforderung. Keine suspekten Lymphknoten. Parauterine Zyste, a.e. ovariell -LRB- Se 501/220 -RRB- . Transurethral einliegender Blasenkatheter.
+
+Weichteilmantel/Skelett:
+Diffuse Imbibierung des abdominellen Weichteilmantels. Glutealmuskulatur links nicht scharf abgrenzbar mit umgebender, diffuser Dichtevermehrung -LRB- Se 501/292 -RRB- . Degenerative Veränderungen des Achsenskeletts.
+Beurteilung:
+
+- Kein Nachweis einer abdominellen Raumforderung, keine suspekten Lymphknoten.
+- Dickdarmpassagestörung; kein mechanischer Ileus.
+- Ausgedehnte Rechtsherzbelastungszeichen mit kavaler Einflussstauung.
+- Pleuraergüsse, rechts punktionswürdig, mit angrenzender Unerlappenatelektase.
+- Zeichen einer -LRB- Rhabdo- -RRB- myolyse, keine Zeichen von Crush-Nieren, links renal kleine Keilförmige KM-Aussparungen, a.e. -LRB- post- -RRB- ischämisch.
+- Kurzstreckiger Verschluss des Truncus coelicaus, a.e. durch Lig. arcuatum, abhängiges Gefäßbett regelrecht kontrastiert.
+
+Gefäßchirurgisches Konsil vom <[Pseudo] 29/06/2034:>
+Diagnose:
+Kurzstreckiger Verschluss des Truncus coeliacus, a.e. durch lig. Arcuatum ohne nachgeschaltetes Perfusionsdefizit.
+Befund:
+
+Nach Viszeralchirurgischer Kontrolle des Abdomens zeigte sich gemäß der telefonischen Auskunft ein weicher Bauch ohne Abwehspannung oder Resistenzen. Kein Akutes Abdomen.
+Im CT zeigt eine kurzstreckiger Verschluss des TC mit einer prombten Wiederauffüllung durch kollateralen über die offene und kräftig perfundierte AMS oder antegrade durch eine filiforme Perfusion.
+Weiterhin zeigen sich keine nachgeschalteten Perfusionsdefizite.
+Die chronischen intermittierenden, narungsunabhängigen Abdominalbeschwerden sind zudem nicht typisch für ein akutes geschehen oder eine Angina abdominalis.
+Therapie:
+
+Aktuell besteht bei fehlendem aktuem Abdomen, fehlender Perfusionsdezite und somit asymptomatischem kurzsteckigen Verschluss des TC kein gefäßchirurgischer Handlungsbedarf.
+Die Beschwerden und das altblutige Absetzen sollten im Verlauf endoskopisch abgeklärt werden.
+
+
+Allgemeinchirurgisches Konsil vom <[Pseudo] 29/06/2034:>
+Anamnese:
+B-DATE, 20:00
+Patientin aktuell bei kardialer Dekompensation auf ORG ORG. Aktuell katecholaminfrei, sauerstoffpflichtig, wach, orientiert. Ad Mitraclip am Freitag. Patientin gibt an keine Bauchschmerzen zu haben, einzige Auffälligkeit sei ein altbutiger peranaler Blutabgang, den sie aber schon eine Weile habe, zudem anamnestisch Hämorrhoiden. Heute bei leichtem Laktatanstieg CT Diagnostik durch die Kollegen. Bisher keine Koloskopie.
+Aktuell bereits wieder Laktat 14, CRP 21, L normwertig, Hb stabil, LDH/GOT normwertig.
+Befund:
+
+Bauch weich, dezenter diffuser Druckschmerz, keine Abwehrspannung.
+CT: Verschluss Tr. Coeliacus mit poststenotischer Dilatation bei milder fleckigkeit der leber. In RS B-PER a.e. chron. Stenose des Truncus bei Ligamentum arcuatum, akutes Geschehen nicht vollständig ausschließbar, aber regelrechte Kontrastierung des abhängigen Gefäßbettes. Angiographisch keine Handlungsmöglichkeit.
+Therapie:
+
+Zeitnah B-SALUTE der Gefäßchirugie involvieren.Aktuell kein viszeralchirurgischer Handlungsbedarf. Bei Infektwertanstieg, klinischer Verschlechterung, Laktatanstieg, Transaminasenanstieg o.ä. umgehend erneute RS und Re-Evaluation.
+
+ÖGD vom <[Pseudo] 01/07/2034:>
+Befund ÖGD:
+Eingehen mit dem Gerät bei wacher Patientin und glatte Passage über den OÖS.
+Gute Entfaltung des tubulären Ösophagus mit rosiger Schleimhaut. Areal ektoper
+Schleimhaut unterhalb des OÖS. Z-Linie bei 39 cm aZR zirkulär. Die Kardia
+schließt locker, keine Hernie. Unauffällige Mucosa im gesamten Magen. Der
+Pylorus ist eng, Passage unter sanftem Druck. Der Bulbus und das postbulbäre
+Duodenum stellt sich unauffällig dar.
+Rectoskopie:
+Massiv Entleerung von breigem, normalfarbigem Stuhl.
+Eingehen mit dem Gerät in das Rektum. Abbruch bei stuhlgefüllter Ampulle. Aktuell
+kein H.f. Frischblut.
+Diagnose
+Aktuell kein H.f. aktive obere- oder untere GI-Blutung.
+Biopsien
+Keine.
+Empfehlungen
+Nach Maßgabe ITS.
+Labor:
+
+Siehe ISH
+Zusammenfassung:
+
+Die stationäre Aufnahme der Patientin erfolgte am <[Pseudo] 14.06.> als Übernahme aus dem B-ORG I-ORG bei hochgradiger Mitralinsuffizienz und rezidivierender TAA DD langsamer VT.
+
+Bei Aufnahme am Abend des <[Pseudo] 14/06/2034> zeigte sich zunächst elektrokardiographisch a.e. eine slow-VT mit Herzfrequenzen von 130-140/min, im Verlauf zeigten sich dann spontan normofrequente -LRB- 70-80/min -RRB- Herzfrequenzen mit durchgehender ventrikulärer Schrittmacher-Stimulation.
+
+Am <[Pseudo] 15.06.> erfolgte eine ICD-Abfrage. Hier fanden sich bei regelrechter ICD-Funktion im Speicher 5 neue VT-1-Episoden, an den ehesten ventrikulären Tachykardien in der VT-1-Zone mit spontaner Terminierung und Reinitiierung entsprechend. Außerdem fanden sich 10 neue nsVT-Episoden, davon 2 mit EGM, ventrikuläre Salven, längste und schnellste über 12 Schläge -LRB- 360-380 ms -RRB- . Ferner fanden sich mehrere ATR-Episoden, passend zu dem bekannten Vorhofflimmern.
+
+Am gleichen Tag erfolgte zur invasiven Abklärung der Mitralklappeninsuffizienz eine Herzkatheteruntersuchung. Hier zeigte sich eine hämodynamisch hochgradige und angiographisch mittel- bis hochgradige Mitralklappeninsuffizienz, sowie eine koronare Herzerkrankung ohne höhergradige Stenosen bei global hochgradig eingeschränkter LV-Funktion. Ferner zeigte sich ein erhöhter PA-Druck -LRB- 40/17/30 mmHg -RRB- , eine v-Welle von 35 mmHg, ein ZVD von 15mmHg, eine LVEDP von 15mmHg, eine SVO2 von 50% und ein Cardiac Index von 1,7 l/min/m2. Während der Untersuchung zeigte sich ein Wechsel von Sinusrhythmus, Tachyarrhythmia absoluta und SlowVT.
+Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich kein Anhalt für Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstellen.
+
+Im Aufnahmelabor war eine Infektkonstellation aufgefallen -LRB- CRP 75,1 mg/l, Leukozyten 16,38/nl -RRB- . Es erfolgte eine Infektfokussuche. Sowohl ein Röntgen-Thorax als auch eine Oberbauch-Sonographie waren diesbezüglich unauffällig. Eine ebenso durchgeführte Urindiagnostik erbrachte keinen Hinweis auf einen Harnwegsinfekt. Die Infektparameter zeigten sich im Verlauf spontan rückläufig.
+
+Nach RS mit unseren B-SALUTE der Rhythmologie -LRB- B-SALUTE B-PER-RRB- ist der Ursprungsort der slowVT der hintere Papillarmuskel der Mitralklappe. Es ist somit zu erwarten, dass nach Versorgung der Mitralklappe auch ein stabilerer Rhythmus zu erwarten ist. Eine Ablation stellt aktuell keine Option dar.
+
+Am <[Pseudo] 17/06/2034> und auch am Morgen des <[Pseudo] 18/06/2034> zeigte sich wieder Paroxysmen zwischen Normofrequenz und slowVT DD TAA. Wir begannen daraufhin wieder mit der Amiodaron-Aufsättigung und setzten Digitoxin ab. Hierunter zeigte sich die Herzfrequenz am Folgetag verbessert im Bereich bis 120/min. In den folgenden Tagen konnte die Herzfrequenz noch weiter auf Werte um 100/min gesenkt werden.
+Zur Vorbereitung auf die MitraClip erfolgte am <[Pseudo] 21/06/2034> eine Farbduplexsonographie der Karotiden. Hier zeigten sich keine signifikanten Stenosen, sondern lediglich diskrete Plaquebildungen ohne hämodynamische Relevanz. Auch die Lunfenfunktionsprüfung zeigte keine höhergradige Obstruktion.
+
+Am <[Pseudo] 19/06/2034> zeigten sich bei B-SALUTE Tag einmalig Blutauflagerungen auf ihrem Stuhl. Im Labor zeigte sich ein stabiler Hb-Wert. Im Verlauf zeigte sich altblutiger Stuhlgang. In der ÖGD konnte keine akute Blutungsquelle nachgewiesen werden. Wir empfehlen regelmäßige Hb-Kontrollen und ggf. erneute RS mit dem Endoskopiedienst.
+
+Am <[Pseudo] 26/06/2034> fiel die Patientin mit pathologischen Vitalparametern im Sinne eines Schocks auf. Die umgehend eingeleitete Diagnostik zeigte dabei eine Mikrozirkulationsstörung -LRB- Laktatakummulation -RRB- . Es erfolgte die Übernahme auf unsere B-ORG IMC. Bei kardiogener Schockursache leiteten wir eine Katecholamintherapie mit Arterenol und Dobutamin ein. Dies führte zu einer Stabilisierung, sodass die Katecholamine im Verlauf ausgeschlichen werden konnten.
+
+Im Verlauf klagte die Patientin über abdominelle Beschwerden. Eine abdominelle CT-angiographische Diagnostik zeigte einen kurzstreckigen Verschluss des Truncus coelicaus, a.e. durch Lig. arcuatum, abhängiges Gefäßbett regelrecht kontrastiert. Nach allgemeinchirurgischer und gefäßchirurgischer Rücksprache ergibt sich keine akute Handlungsindikation. Wir empfehlen bei Auftreten von akuten Beschwerden die umgehende erneute allgemeinchirurgische Rücksprache.
+
+Weiterhin zeigte sich ein großer punktionswürdiger Pleuraerguss rechts. Bei respiratorisch stabiler Patientin verzichteten wir zunächst auf eine Pleurapunktion. Wir empfehlen eine sonographische Kontrolle im Verlauf.
+
+Im Verlauf zeigte sich laborchemisch eine Entzündungskonstellation. Röntgenologisch wurde der V.a. eine Stauungspneumonie gestellt. Bei Nachweis von gram-positiven Kokken in der peripheren Blutkultur begannen wir nach RS mit der Mikrobiologie eine Antibiose mit TazoBac und Vancomycin. Die initial bereits geplante MitraClip-Implantation wurde verschoben. Wir bitten um Fortführung der Antibiose und Planung des MitraClip nach Infektsanierung.
+
+Bei weiterhin nachweisbarem Wechsel zwischen slow-VT, Schrittmacherrhythmus und Eigenrhythmus begannen wir eine Therapie mit Lidocain als Perfusor. Am <[Pseudo] 01/07/2034> stellten wir die Therapie auf Mexiletine um. Darunter zeigte sich die Patientin bereits rhythmusstabiler. Wir bitten um Fortführung der Therapie und Rücksprache mit der Rhythmusgruppe bzgl. Formularen für die Kostenübernahmeanfrage der GKV.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß aktueller Leitlinien sowie die Fortführung der o. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir verlegen die Patientin am <[Pseudo] 02/07/2034> beschwerdefrei in Ihre stationäre Betreuung.
+Procedere:
+
+- Monitor weiter
+- AB weiter, regelmäßige Entzündungswertkontrollen
+- Sichtung MiBi
+- MitraClip nach Infektsanierung
+- Therapie weiter mit Mexiletin, RS Rhythmusgruppe -LRB- Kostenübernahme GKV -RRB-
+- Regelmäßige Hb-Kontrollen
+- Kostaufbau nach Ernährungskonsil
+- AHB
+Aktuelle Therapie:
+
+TazoBac 4,5 g i.v. 1-1-1
+Vancomycin nach Spiegel
+
+Amiodaron 200 mg 1-0-0
+Lactulose 40 ml 1-0-0
+Metoprolol 47,5 mg aktuell pausiert
+Mexiletine 200 mg 1-0-1
+Ramipril 5 mg aktuell pausiert
+Rivaroxaban 20 mg aktuell pausiert
+Spironolacton 25 mg aktuell pausiert
+Torasemid 5 mg aktuell pausiert
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel. B-PHONE -RRB- .
+
+Wir bedanken uns für die Übernahme und stehen für Rückfragen jederzeit zur Verfügung.
+Mit freundlichen Grüßen
+
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

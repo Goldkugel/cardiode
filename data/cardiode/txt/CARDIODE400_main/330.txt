@@ -1,0 +1,80 @@
+Aufnahmedatum: <[Pseudo] 2019-10-14 >
+Geburtsdatum: <[Pseudo] 1974-11-05 >
+Alter: 44
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 05/11/1974> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom <[Pseudo] 29/09/2019> bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung mit Hauptstammstenose, gute LV-Funktion
+- Z.n. 4 fach ACB-OP am -LRB- IMA, 3 fach ACVB -RRB- am <[Pseudo] 20/09/19>
+- Mitralklappenprolaps mit leichter Insuffizienz
+- CRF: pos. Familienanamnese, schwere Hypercholesterinämie und Hyperlipidämie
+- aktuell: gutes postoperatives Ergebnis; V.a. vertebragen-radikulären Thoraxschmerz
+
+Anamnese:
+Rückübernahme des cardiorespiratorisch stabilen und beschwerdefreien Ptienten aus der Herzchirurgie HD nach ACB-Operation. Aktuell keine pektanginösen Beschwerden, Dyspnoe, HRST. Kein Schwindel oder Synkopen.
+Die Schlafposition sei flach, keine Nykturie, keine Ödeme.
+Allergien: keine. Wesentliche Vorerkrankungen siehe Diagnosenliste. Die Vorgeschichte dürfen wir freundlicherweise als bekannt voraussetzen.
+
+Körperlicher Untersuchungsbefund:
+Guter Allgemein- und Ernährungszustand. Kopf- und Halsorgane unauffällig. Keine Ruhedyspnoe, keine Zyanose, keine obere Einfluss-Stauung, kein Strömungsgeräusch über den Carotiden auskultierbar. Herzschlagfolge regelmäßig, 80/min, reine Herztöne, kein pathologisches Geräusch auskultierbar. Pulmo frei. Abdomen weich, reizlos, keine pathologische Resistenz palpabel. Keine peripheren Ödeme, unauffälliger peripherer Pulsstatus, neurologischer Untersuchungsbefund grob orientierend unauffällig. Reizlose Narbenverhälnisse seternal, gerötete, leicht geschwollene Venenentnahmestelle linken Unterschenkel.
+
+Laborparameter:
+---------- Allgemeines Labor: jeweils letzter gemessener Wert zwischen <[Pseudo] 29/09/2019> und <[Pseudo] 30/09/2019> -----------
+Parameter Wert Normb/Dimension Parameter Wert Normb/Dimension Parameter Wert Normb/Dimension
+Natrium 134* 135-145 mmol/l Amylase Hb 13.8 13.-17. g/dl
+Kalium 4.42 3.5-5.0 mmol/l Lipase Ery 4.4 4.3-6.1 /pl
+Calcium 2.33 2.1-2.65 mmol/l CRP 26.9* <5 mg/l HKe 0.38 0.38-0.52 l/l
+Phosphat BKS 1h K.Mat. 3-8 mm MCV 87 83-97 fl
+Crea 1.00 -1.30 mg/dl INR-TPZ 1.0 <1.2 HbE 31 27-33 pg
+Harnst 34 -45 mg/dl Quick 107 70-125 % Thrombo 417 150-440 /nl
+Harnsre aPTT 21.3 -35 s Leuko 9.55 4.0-10.0 /nl
+CK 32 -171 U/l Fibrgen 6.00* 1.7-4.5 g/l Stabk.
+cTNT 0.46* -0.03 ug/l Gluc -LRB- nü -RRB- 108 65-110 mg/dl Segment.
+LDH 224 -248 U/L HbA1c Lympho
+GOT/AST 25 -35 U/l Trigl atyp.Lym
+GPT/ALT 70* -45 U/l Chol Mono
+
+Pathologisch: BKS 77 mm, GPT 70 -LRB- rückläufig -RRB- , CRP 26,6 fallend -LRB- 64 -RRB- .
+
+Ruhe-EKG:
+Regelmäßiger Sinusrhythmus, 90/min, Indifferenztyp, Q in II, III, aVF, zögerliche R-Progression über der Vorderwand bis V4, Zeiten im Normbereich, flache Endstrecken in III, sonst keine ERBS.
+
+Echokardiographie:
+Normal großer linker Ventrikel mit global guter Pumpfunktion ohne regionale Kontraktionsstörungen. LA, RA und RV normal groß. Vena cava inferior nicht gestaut. Kein Perikarderguss. Leichter Mitralklappenprolaps mit geringer Insuffizienz. Klappen sonographisch und dopplersonographisch unauffällig. Kein Perikarderguss.
+
+Belastungs-EKG:
+Stufenförmige, fahrradergometrische Belastung bis 100 Watt, Abbruch wegen peripherer Erschöpfung und Narbenschmerzen am Bein. Keine Angina pectoris, keine Dyspnoe, kein Schwindel, keine Herzrhythmusstörungen. Keine signifikanten Kammerendteilveränderungen. RR max 119/60, HF max 119/min. Unauffälliges Belastungs-EKG.
+
+Langzeit-EKG:
+SR, 60-104/min, keine Pausen, ein Couplet, formal Lown IVa.
+
+Lungenfunktion:
+Vom Patienten nicht gewünscht.
+
+Zusammenfassung:
+Es besteht derzeit ein gutes postoperatives Ergebnis nach o.g. ACB-Operation. Wir empfehlen nun die konsequente Fortführung der medikamentös konservativen Therapie. Das TnT ist postoperativ noch leicht erhöht aber beständig rückläufig. Die LV-Funktion ist gut. Eine AHB-Maßnahme ist dringlich zur weiteren Mobilisierung des Patienten notwendig und in die Wege geleitet. Nebenbefundlich bestehen vertebragen radikuläre Schmerzen, welche analgetisch behandelt wurden. Eine krankengymnastische und fachorthopädische Weiterbetreuung ist empfehlenswert. Bitte noch weitere Wundkontrollen
+
+Fachkardiologische Verlaufsuntersuchung in einem -UNK- Jahr empfohlen.
+
+Bei Auftreten von Komplikationen oder Problemen sind wir jederzeit gerne bereit, den Patienten unverzüglich wiederzusehen.
+
+Medikation bei Entlassung:
+ASS 100 0-1-0
+Beloc zok 1-0-0
+Delix 5 0-0-1
+Sortis 20 0-0-1
+Novalgin Tropfen 3 x 20, im Verlauf reduzieren
+fettarme Diät
+Endokarditisprophylaxe laut Merkblatt
+
+Selbstverständlich können wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir bedanken uns herzlich für die vertrauensvolle Zusammenarbeit und verbleiben
+
+mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE B-PER I-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Assistenzarzt

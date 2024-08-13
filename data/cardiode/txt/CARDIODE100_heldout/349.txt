@@ -1,0 +1,412 @@
+Aufnahmedatum: <[Pseudo] 2037-07-24 >
+Geburtsdatum: <[Pseudo] 1972-12-25 >
+Alter: 64
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 25/12/1972> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Koronare 1-Gefäßerkrankung der LAD mit global leicht- bis mittelgradig reduzierter linksventrikulärer Pumpfunktion -LRB- B-ORG v. <[Pseudo] 14/07/2037> -RRB-
+-UNK- Optimierung HIS Therapie
+-UNK- Bei erschwerter Punktion postinterventionell Radialisthrombose beidseits
+-UNK- Beginn orale Antikoagulation
+-UNK- Angiologische Verlaufskontrolle in 2 Wochen vereinbart
+-UNK- Echokardiographisch leichtgradig reduzierter systolischer Pumpfunktion bei Hypokinesie betont apikal, inferolateral und inferior mediobasal
+- Z.n. Pneumonie rechter Oberlappen -LRB- CT-Thorax vom <[Pseudo] 06/06/2037> -RRB-
+-UNK- Antibiotische Therapie mit Ampicillin/Sulbactam i.v. B-DATE - <[Pseudo] 09/06/2037>
+-UNK- Antibiotische Therapie mit Clindamycin p.o. B-DATE - <[Pseudo] 13/06/2037>
+- Epilepsie ED <[Pseudo] 2011>
+-UNK- Letzter Anfall <[Pseudo] 05/06/2036>
+- Z.n. Epidydimits rechts <[Pseudo] 2030> und <[Pseudo] 2019>
+- Z. n. chronischen Wundheilungsstörungen Unterschenkel links
+- Z. n. traumatischer Unterschenkelamputation rechts ca. <[Pseudo] 2003>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Nikotinkonsum -LRB- 20 packyears -RRB- , negative kardiovaskuläre Familienanamnese
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte elektiv zur Durchführung einer Koronarangiographie bei V.a. Koronare Herzerkrankung. Stationärer Aufenthalt <[Pseudo] 06/2037> bei Pneumonie des rechten Oberlappens. Hier zeigte sich in der Echokardiographie eine reduzierte Pumpfunktion und regionale WBST.
+Patient berichtet über gute körperliche Belastbarkeit im Alltag, keine inadäquate Belastungsdyspnoe, keine belastungsinduzierten pectanginösen Beschwerden. Zuvor keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen, kein Schwindel, keine stattgehabten Synkopen. Abendlich gelegentlich periphere Ödeme. Die häuslichen Blutdruckmessungen seien um ca. 140/90 mmHg.
+
+Medikation bei Aufnahme:
+ASS 100 mg 1-0-0
+Candesartan 8 mg 1-0-0
+HCT 12,5 mg 1-0-0
+Atorvastatin 20 mg 0-0-1
+Lamotrigin 150 mg 1-0-1
+Valproat long 1000 mg 1-0-0
+Valproat long 1300 mg 0-0-1
+
+Körperlicher Untersuchungsbefund:
+64 Patient in leicht reduziertem Allgemein- und gutem Ernährungszustand -LRB- Größe 186 cm, Gewicht 104 kg -RRB- . Keine Ruhedyspnoe. Keine Cyanose. Keine obere Einflussstauung. Kein Strömungsgeräusch über den Carotiden auskultierbar. Herzschlagfolge regelmäßig, reine Herztöne, kein pathol. Geräusch auskultierbar. Pulmo: Leises Expiratorisches Giemen, basal abgeschwächtes Atemgeräusch beidseits. Abdomen weich, reizlos, keine Resistenzen tastbar. Keine peripheren Ödeme. Orientierender neurologischer Untersuchungsbefund unauffällig. Unterschenkelamputatinsstelle rechts reizlos. Narbige Veränderungen linker Unterschenkel, anamnestisch ohne Veränderungen.
+
+Ruhe-EKG bei Aufnahme:
+Sinusrhythmus, regelmäßig HF = 107/min, Indifferenztyp. PQ 153 ms., QRS 102 ms., QTc 381 ms. Zeiten im Normbereich. Frühe R-Progression, R/S-Umschlag V1/V2. Keine signifikanten Kammerendteilveränderungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 14/07/2037> -RRB-
+Herzkatheteruntersuchung bei V.a. eine relevante koronare Herzerkrankung:
+Koronare 1-Gefäßerkrankung der LAD mit global leicht- bis mittelgradig reduzierter linksventrikulärer Pumpfunktion. Kein Interventionsbedarf. Erhöhte LVEDP -LRB- ca. 25 mmHg -RRB- .
+
+Angiologische Verlaufskontrolle nach Radialispunktion bds vom <[Pseudo] 15/07/2037:>
+Anamnese:
+Bei der heutigen Vorstellung subjektiv beschwerdefreier Patient. Auf spezifische Nachfrage keine Angabe von Schmerzen, Sensibilitätsstörungen, Parästhesien oder Kraftminderung im Bereich der Punktionsstelle bzw. der rechten Hand. Aufgrund von ausgeprägtem Kinking der Gefäße sei die Katheteruntersuchung über die rechte A. radialis abgebrochen und über die linke A. radialis fortgesetzt worden.
+
+Lokalbefund:
+Punktionsstellen reizlos, jeweils kleine Hämatome. Pulse über A. radialis bds. nicht sicher tastbar, A. ulnaris und A. brachialis kräftig palpabel.
+
+Farbduplexsonographie der Gefäße des rechten Unterarms:
+A. radialis im gesamten einsehbaren Verlauf am Unterarm thrombosiert.
+Kein Hinweis für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle am rechten Handgelenk. In der distalen A. ulnaris triphasische Flüsse bis 50 cm/s, in der A. brachialis triphasische Flüsse bis 60 cm/s.
+
+Farbduplexsonographie der Gefäße des linken Unterarms:
+A. radialis im distalen Drittel am Unterarm subtotal thrombosiert.
+Kein Hinweis für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle am rechten Handgelenk. In der distalen A. ulnaris triphasische Flüsse bis 50 cm/s, in der A. brachialis triphasische Flüsse bis 60 cm/s.
+
+- Radialisthrombose bds.
+- Einleitung einer Antikoagulation in mind. halb-therapeutischer Dosierung für 14 Tage
+- Angiologische Verlaufskontrolle in 14 Tagen -LRB- Termin wurde bereits in unserer Ambulanz vereinbart -RRB-
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2036>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.37
+4 - 10 /nl
+B-DATE
+Hb
+12.6 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+3.9 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.370 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+96
+83 - 97 fl
+<[Pseudo] 15/07/37>
+MCH
+32
+27 - 33 pg
+<[Pseudo] 15/07/37>
+MCHC
+34
+30 - 36 g/dl
+B-DATE
+RDW
+13.7
+12,9 - 18,7 %
+<[Pseudo] 15/07/37>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+B-DATE
+Thrombozyten
+252
+150 - 440 /nl
+B-DATE
+Lympho -LRB- abs. -RRB-
+2.93
+1,0 - 4,8 /nl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Neutroph.G.-abs.
+4.13
+1,8 - 7,7 /nl
+<[Pseudo] 15/07/37>
+Mono. -LRB- abs. -RRB-
+0.68
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.41
+- <0,5 /nl
+<[Pseudo] 15/07/37>
+Basoph.G. -LRB- abs -RRB-
+0.03
+- <0,2 /nl
+<[Pseudo] 15/07/37>
+Neutroph.G. -LRB- mech. -RRB-
+49.4 !L
+50 - 80 %
+<[Pseudo] 15/07/37>
+Lympho -LRB- mech. -RRB-
+35.0
+25 - 40 %
+<[Pseudo] 15/07/37>
+Basoph.G.
+0.3
+- <1 %
+<[Pseudo] 15/07/37>
+Monozyten -LRB- mech. -RRB-
+8.1
+2 - 9 %
+<[Pseudo] 15/07/37>
+Eosinoph.G. -LRB- mech. -RRB-
+4.9 !H
+2 - 4 %
+<[Pseudo] 15/07/37>
+BKS 1h
+21 !H
+- <20 mm
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+142
+135 - 146 mmol/l
+<[Pseudo] 15/07/37>
+Kalium -LRB- ISE -RRB-
+4.32
+3,4 - 5,0 mmol/l
+<[Pseudo] 15/07/37>
+Calcium
+2.39
+2,11 - 2,59 mmol/l
+<[Pseudo] 15/07/37>
+Kreatinin
+0.70
+0,6 - 1,3 mg/dl
+<[Pseudo] 15/07/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+38
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+99.7
+>60 s.u.
+<[Pseudo] 15/07/37>
+MDRD
+111.74
+ml/min/1,73qm
+<[Pseudo] 15/07/37>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+40.2
+30 - 50 g/l
+<[Pseudo] 15/07/37>
+Glucose
+80
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+10
+- <50 U/l
+B-DATE
+GGT
+14
+- <60 U/l
+<[Pseudo] 15/07/37>
+Ges.Bili.
+0.30
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+5.4
+- <7 mg/dl
+<[Pseudo] 15/07/37>
+Triglyceride
+159 !H
+- <150 mg/dl
+<[Pseudo] 15/07/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+164.0
+- alt.abh. mg/dl
+<[Pseudo] 15/07/37>
+LDL-Chol. -LRB- berechn. -RRB-
+82
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+50
+>40 mg/dl
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 15/07/37>
+Hämolyse
+-
+
+<[Pseudo] 15/07/37>
+ikterisch
+-
+
+<[Pseudo] 15/07/37>
+Lipämie
+-
+
+<[Pseudo] 15/07/37>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+150
+- <342 U/l
+B-DATE
+CK
+45
+- <190 U/l
+<[Pseudo] 15/07/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+13.2
+- <14 pg/ml
+B-DATE
+NT-BNP
+242 !H
+- <125 ng/l
+<[Pseudo] 15/07/37>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.6
+- <6,1 %
+<[Pseudo] 15/07/37>
+HbA1c -LRB- IFCC -RRB-
+38
+20 - 42 mmol/mol
+<[Pseudo] 15/07/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+114 !H
+- <110 mg/dl
+<[Pseudo] 15/07/37>
+TSH
+4.73 !H
+0,400 - 4,000 mU/l
+<[Pseudo] 15/07/37>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+99.4
+70 - 125 %
+<[Pseudo] 15/07/37>
+INR - ber.
+1.02
+- <1.2
+<[Pseudo] 15/07/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+25.4
+- <35 s
+<[Pseudo] 15/07/37>
+
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte elektiv zur Durchführung einer Koronarangiographie bei V.a. koronaren Herzerkrankung.
+
+In der durchgeführten Koronarangiographie zeigte sich eine Koronare 1-Gefäßerkrankung der LAD mit leicht - bis mittelgradig reduzierter linksventrikulärer Pumpfunktion. 50% ige distale LAD Stenose ohne Interventionsbedarf. Bei erschwerter Punktion aufgrund ausgeprägtem Kinking der Gefäße und postinterventionell nicht sicher palpabler Pulse erfolgte postinterventionell eine angiologische Kontrolle. Hier zeigte sich an den beiden Punktionsstellen jeweils eine Radialisthrombose bei klinisch gänazlich asymptomatischem Patienten. Wir empfehlen daher eine algologische Verlaufskontrolle in 2 Wochen -LRB- Termin bereits vereinbart -RRB- . Bis dahin empfehlen wir, unter Pausierung der Thrombozytenaggregationshemmung, die Einnahme einer oralen Antikoagulation wie unten angegeben.
+
+Es erfolgte die Anpassung der Herzinsuffizienstehrapie wie unten angegeben. Wir empfehlen im Verlauf regelmäßige Kontrollen von Puls und
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER mit einem Entlassgewicht von 104 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, auf Wunsch gerne in unserer B-ORG Ambulanz. Wir empfehlen den Termin hierzu zeitnah zur stationären Entlassung unter der Tel. B-PHONE I-PHONE zu vereinbaren.
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100 mg Pause
+Eliquis 5mg 1-0-1, neu bis zur angiologischen Kontrolle
+Candesartan 8 mg 1-0-1, gesteigert Kontrolle: Blutdruck, Elektrolyte, im Verlauf weiter
+steigern
+HCT 12,5 mg absetzen
+Atorvastatin 20 mg 0-0-1
+Lamotrigin 150 mg 1-0-1
+Valproat long 1000 mg 1-0-0
+Valproat long 1300 mg 0-0-1
+
+Wir empfehlen fettmodifizierte und an tierischen Fetten reduzierte, kalorienkontrollierte Mischkost.
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Stationsärztin
