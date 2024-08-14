@@ -1,0 +1,232 @@
+Aufnahmedatum: <[Pseudo] 2038-01-26 >
+Geburtsdatum: <[Pseudo] 1989-06-16 >
+Alter: 48
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 16/06/1989> wh. B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kardiologische Evaluation im Rahmen der Listungsuntersuchungen vor geplanter NTX
+-UNK- Echokardiographisch gute biventrikuläre Pumpfunktion
+-UNK- Unauffälliges Belastungs-EKG bis 125 Watt -LRB- 73 % Ziel-HF -RRB-
+-UNK- Lufu: Kein Hinweis auf relevante Obstruktion oder Restriktion
+-UNK- Klinisch stabiler Verlauf
+- Freigabe von kardiologischer Seite
+
+Diagnosen:
+- Terminale Niereninsuffizienz bei nephrot. Syndrom bei FSGS
+-UNK- NPE <[Pseudo] 2026> damals V.a. minimal change GN, International I-ORG I-ORG I-ORG -RRB-
+-UNK- <[Pseudo] 2033> letzte Nierenbiopsie mit Nachweis FSGS
+-UNK- Erneute Steroid + Ciclosporintherapie <[Pseudo] 2035>
+-UNK- Erstvorstellung Nierenzentrum B-DATE: Ende Steroidtherapie <[Pseudo] 2035> bei molekulargenetisch festgestellte WT1-Gen-Mutation, nephrot. Syndrom Typ 4
+-UNK- Z.n. PD-Katheter-Anlage bei terminaler Niereninsuffizienz bei FSGS am <[Pseudo] 11/08/2037>
+-UNK- Beginn der Peritonealdialyse ab <[Pseudo] 13/08/2037>
+-UNK- PD-Katheter-Revision bei Dysfunktion am <[Pseudo] 18/08/2037>
+- Renale Anämie
+- Sekundärer Hyperparathyreoidismus
+- Hyperurikämie, Gichtanfall <[Pseudo] 2035>
+- Vitamin D-Mangel
+- Z.n. Tonsillektomie
+- Z.n. Steroiddiabetes B-DATE-B-DATE
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, ehemaliger Nikotinabusus, karent seit B-YEAR kumulativ ca. 15 PY
+Allergien: Heuschnupfen
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur kardiologischen Abklärung vor Listung für eine Nierentransplantation. Im Alltag bestehe eine gute Belastbarkeit -LRB- 4 Etagen Treppensteigen möglich -RRB- ; Seit der Dialyse <[Pseudo] 08/2037> bestünden keine inadäquate Belastungsdyspnoe -LRB- NYHA I -RRB- sowie keine belastungsinduzierten pectanginösen Beschwerden. Der Patient berichtet über a.e. orthostatischen Schwindels nach körperlicher -UNK- Überbelastung -UNK- . Pectanginöse Beschwerden in Ruhe, Palpitationen, sowie stattgehabte Synkopen werden verneint. Es bestehe im Rahmen der Bauchfelldialyse eine Nykturie mit ca. 2-3-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 130/80 mmHg. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Aktuelle Medikation:
+Wirkstoff
+Fertigarzneimittel -LRB- Bsp. -RRB-
+Wirkstärke
+Dosierung
+Morg. Mittag Abend Nacht
+Amlodipin besilat
+Amlodipin besilat Heumann 5 mg Tabletten
+6,935 mg
+1
+0
+1
+0
+Stk.
+
+oder Amlodipin Fair-Med Healthcare 5 mg Tabletten * -RRB-
+Metoprolol succinat
+MetoHEXAL® Succ® 47,5 mg Retardtabletten
+47,5 mg
+1
+0
+1
+0
+Stk.
+Clonidin hydrochlorid
+Clonidin retard-ratiopharm® 250 Retardkaps.
+0,25 mg
+0
+0
+1
+0
+Stk.
+
+neu, nicht abrupt beenden
+Furosemid
+Lasix 500 mg Eurim Tabs Tabletten
+500 mg
+-UNK-
+-UNK-
+0
+0
+Stk.
+
+oder Furobeta® 500 Tabletten * -RRB-
+Calciumacetat
+Calciumacetat-Nefro® 500 mg, Filmtabletten
+500 mg
+2
+2
+2
+0
+Stk.
+Colecalciferol, ölige Lösungen
+Dekristol® 20.000 I.E. Weichkapseln
+20 mg
+
+
+
+
+
+
+
+
+1x wöchentlich
+PEG-Epoetin beta
+MIRCERA® 30 Mikrogramm/0,3 ml Injektionslösung in einer Fertigspritze
+30 µg
+
+
+
+
+
+
+
+
+ab <[Pseudo] 03.11.> alle 6 Wochen
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 166 cm, 83 kg
+HF: 70 /min, regelmäßig
+RR: 150/90 mmHg
+Keine Zyanose, keine Anämiezeichen, kein Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: bds. Belüftet, vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Sinusrhythmus, regelmäßig, 69/min, Indifferenz- bis Steiltyp. PQ 150 ms, QRS 98 ms, QTc 397 ms, Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V2/V3. Keine S-Persistenz. Keine signifikanten Kammerendteilveränderungen.
+
+Belastungs-EKG:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 125 Watt über 0:44 min. Maximale Frequenz 126/min -LRB- 73% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 191 mmHg, diastolisch 92 mmHg. Abbruch wegen peripherer Ermüdung. Keine Angina pectoris oder inadäquate Dyspnoe. Keine periphere Zyanose. Bei Nichterreichen der Ausbelastungsfrequenz eingeschränkte Beurteilbarkeit. Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Keine VES. Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck.
+
+Transthorakale Echokardiographie:
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA leicht dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Minimale Aorten- und leichte Mitralklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 25 mmHg -RRB- . Erstbefund in domo.
+
+Lungenfunktionsuntersuchung:
+Kein Hinweis auf eine relevante Obstruktion oder Restriktion.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgt zur kardiologischen Abklärung vor Listung für eine Nierentransplantation. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Das heute durchgeführte Belastungs-EKG bis 125 Watt ergab, soweit bei Nichterreichen der Ausbelastung beurteilbar -LRB- 73 % der Zielfrequenz -RRB- , weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradige Herzrhythmusstörungen.
+
+Echokardiographisch fand sich eine gute linksventrikuläre Pumpfunktion ohne relevante Klappenvitien.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher eine Fortführung der konservativen Therapie. Insbesondere ist die Listung im Rahme der heutigen Präsentation von kardialer Seite möglich.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten im Rahmen des Machbaren, sowie weiterhin die nichtmedikamentösen Maßnahmen -LRB- z.B Reduktion des Salzkonsums, Mediterrane Diät -RRB- .
+
+Therapieempfehlung von kardiologischer Seite:
+Wirkstoff
+Fertigarzneimittel -LRB- Bsp. -RRB-
+Wirkstärke
+Dosierung
+Morg. Mittag Abend Nacht
+Amlodipin besilat
+Amlodipin besilat Heumann 5 mg Tabletten
+6,935 mg
+1
+0
+1
+0
+Stk.
+
+oder Amlodipin Fair-Med Healthcare 5 mg Tabletten * -RRB-
+Metoprolol succinat
+MetoHEXAL® Succ® 47,5 mg Retardtabletten
+47,5 mg
+1
+0
+1
+0
+Stk.
+Clonidin hydrochlorid
+Clonidin retard-ratiopharm® 250 Retardkaps.
+0,25 mg
+0
+0
+1
+0
+Stk.
+
+neu, nicht abrupt beenden
+Furosemid
+Lasix 500 mg Eurim Tabs Tabletten
+500 mg
+-UNK-
+-UNK-
+0
+0
+Stk.
+
+oder Furobeta® 500 Tabletten * -RRB-
+Calciumacetat
+Calciumacetat-Nefro® 500 mg, Filmtabletten
+500 mg
+2
+2
+2
+0
+Stk.
+Colecalciferol, ölige Lösungen
+Dekristol® 20.000 I.E. Weichkapseln
+20 mg
+
+
+
+
+
+
+
+
+1x wöchentlich
+PEG-Epoetin beta
+MIRCERA® 30 Mikrogramm/0,3 ml Injektionslösung in einer Fertigspritze
+30 µg
+
+
+
+
+
+
+
+
+ab <[Pseudo] 03.11.> alle 6 Wochen
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen,
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

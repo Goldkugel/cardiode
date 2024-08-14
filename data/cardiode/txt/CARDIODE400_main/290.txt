@@ -1,0 +1,82 @@
+Aufnahmedatum: <[Pseudo] 2433-09-16 >
+Geburtsdatum: <[Pseudo] 2091-07-12 >
+Alter: 342
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 12/07/2091> wh. B-PLZ B-LOC -LRB- B-ADDR B-ADDR I-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+
+Aktuell:
+- Regelrechte kardiologische Verlaufskontrolle
+-UNK- Echokardiographisch gute linksventrikuläre Funktion
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Z.n. Aortenklappenersatz mit biologischer Prothese -LRB- Sorin Crown PRT, -UNK- 23 mm -RRB- mit zusätzlich 1-fach Koronarrevaskularisation LIMA ad LAD -LRB- <[Pseudo] 28/05/2171> -RRB- bei koronarer Dreigefäßerkrankung
+-UNK- Z.n. 1-fach Koronarrevaskularisation unter Verwendung der LIMA als in-situ-graft auf LAD -LRB- <[Pseudo] 28/05/2171> -RRB-
+-UNK- Gute linksventrikuläre Pumpfunktion -LRB- TTE <[Pseudo] 24/11/2171> -RRB-
+-UNK- 90%-ige Stenose der RCA -LRB- B-OTHER, <[Pseudo] 28/04/2171> -RRB-
+-UNK- 90%-ige Stenose der peripheren LAD -LRB- B-OTHER, <[Pseudo] 28/04/2171> -RRB-
+-UNK- 90%-ige Stenose am Abgang der LCX -LRB- B-OTHER, <[Pseudo] 28/04/2171> -RRB-
+-UNK- 75%-ige Stenose des RIM -LRB- B-OTHER, <[Pseudo] 28/04/2171> -RRB-
+-UNK- Z.n. hochgradiger Aortenklappenstenose
+- Z.n. hypertensiver Entgleisung -LRB- Vorstellung in der Thoraxklinik am <[Pseudo] 08/11/2171> -RRB-
+- Z.n. Synkope mit V.a. neurogene Ursache <[Pseudo] 2165>
+- Z.n. Mastektomie rechts bei Mamma-Carcinom ED <[Pseudo] 2143>
+- Zustand nach TBC <[Pseudo] 2115>
+- Hypothyreose
+- Hüft- und Kniegelenksarthrose, bei erhöhtem kardialen Risiko keine OP geplant
+
+CvRF: Arterielle Hypertonie, familiäre Disposition -LRB- Mutter mit 342 342 Herzinfarkt, Beide Brüder anamnestisch KHK Patienten mit Z.n. Bypass -RRB- .
+Allergien: Keine bekannt
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Verlaufskontrolle bei Zn. Aortenklappenersatz sowie bekannter koronarer Herzerkrankung. Im Alltag bestehe eine gute Belastbarkeit i. R. der durch die orthopädischen Beschwerden möglichen Belastung ohne inadäquate Belastungsdyspnoe. Bei Belastung sei es im letzten Monat ca. 2x zu einem Druckgefühl zwischen den Schulterblättern gekommen, welches sich nach wenigen Minuten rasch gebessert hätte. Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestehe Nykturie mit ca. 2-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 130/75 mmHg. Subjektiv bestehe seit der letzten Vorstellung ein stabiler und zufriedenstellender kardialer Verlauf.
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 168cm, 78kg
+HF: 73/min, regelmäßig
+RR: 130/70mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 73/min, Indifferenztyp. PQ 230ms, QRS 87ms, QTc 410ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Transthorakale Echokardiographie:
+Normal großer, septal leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA leicht dilatiert, RA und RV noch normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Biologische Klappenprothese in Aortenposition sonographisch und dopplersonographisch regelrecht. Mitralkappe leicht verdickt mit guter Separation und diskreter Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 30 mmHg -RRB- . Im Vergleich <[Pseudo] 13/09/2172:> keine wesentliche Befundänderung.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Verlaufsuntersuchung bei Zn. Aortenklappenersatz sowie bekannter koronarer Herzerkrankung. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Echokardiographisch fand sich eine gute linksventrikuläre Pumpfunktion ohne relevante Klappenvitien.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher eine Fortführung der konservativen Therapie.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, Tanzen oder Ergometertraining.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+
+
+Aktuelle Medikation -LRB- unverändert -RRB- :
+ASS 100mg 1-0-0
+Metoprolol 50mg 0-0-1
+Amlodipin 5mg 1-0-0
+HCT 25mg 1/2-0-0
+Atorvastatin 20mg 0-0-1
+Ezetimib 10mg 0-0-1
+L-Thyroxin 75ug 1-0-0
+Vit. D3 20.000IE 1x pro Woche
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

@@ -1,0 +1,209 @@
+Aufnahmedatum: <[Pseudo] 2033-05-19 >
+Geburtsdatum: <[Pseudo] 1956-01-25 >
+Alter: 77
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 25/01/1956> wohnhaft in B-PLZ B-LOC B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+Ad RE-BBA in 4 Wochen
+- Erfolgreiche PT A/ 3x DE-Ballon / 2xBM-Stentimplantation der A. fibularis ? superficialis links -LRB- B-OTHER v. <[Pseudo] 19/05/2033> -RRB-
+-UNK- 1 Gefäßabstrom am Unterschenkel mit guter Kollateralisierung des Fußes
+- pAVK Stadium IV links
+-UNK- Z.n. erfolgreiche Rotationsatherektomie / PTA der A. poplitea, Tractus tibiofibularis, sowie der prox. A. tibialis anterior und A. fibularis bei jeweils kurzstreckigen filiformen Stenosen -LRB- B-OTHER vom <[Pseudo] 08/04/2033> -RRB-
+-UNK- pAVK IV bds. mit reizlosen Stippchennekrosen und oberflächlichem Ulcus DI rechts nach partieller Amputation -LRB- B-ORG I-ORG -RRB-
+-UNK- Z.n. Ballon-PTA und Stent AFS rechts B-DATE, Endgliedamputation D5 rechts bei Nekrose <[Pseudo] 12/2031> mit Nachresektion am <[Pseudo] 28/02/2032>
+-UNK- Z. n. antegrader Ballon-PTA der prox. A. tib. anterior-Stenose bei 2-Gefäßabstrom A. tib. ant. und A. fibularis mit distalen Verschlüssen
+-UNK- Nekrose D5, Z. n. Nekrosektomie D5 am <[Pseudo] 04/12/2031>
+- Koronare 3-Gefäßerkrankung
+-UNK- Z.n. erfolgreicher PTCA/1-fach DE-Stentimplantation -LRB- Promus -RRB- des ACVB ad RCA bei subtotaler Stenose
+-UNK- Gutes Ergebnis nach PCI des ACVB ad R. marginalis am B-DATE -LRB- B-OTHER v. <[Pseudo] 11/05/2033> -RRB-
+-UNK- Ad Ischämienachweis bzgl. LAD und LCX -LRB- Seg. 15 -RRB-
+-UNK- Z.n. erfolgreicher Rekanalisation des ACVB ad R. marginalis mittels PTCA/ 5-fach DE-Stentimplantation -LRB- B-OTHER v. <[Pseudo] 22/03/2033> -RRB-
+-UNK- Verzicht auf LV-Angiographie zur Nephroprotektion
+-UNK- Hochgradige Stenose des Hauptstamms, der proximalen LCX und Verschluss von R. marginalis und medialer RCA
+-UNK- LIMA ad LAD offen -LRB- distal der Insertion ca. 50-75%ige LAD Stenose -RRB-
+-UNK- ACVB ad RCA mit hochgradigen Stenosen
+-UNK- ACVB ad R. marginlais distal verschlossen
+-UNK- Echokardiographisch leichtgradig eingeschränkte Pumpfunktion und inferiore Hypokinesie
+-UNK- Letzte HK-Untersuchung B-DATE: IMA offen, Venenbypass ad Marginalis offen, proximal ca. 50 %ige Stenose des Bypasses ad RCA
+-UNK- Echokardiographie vom <[Pseudo] 15/10/2031:> Gute rechts- und linksventrikuläre Pumpfunktion, leichte Aortenklappeninsuffizienz sowie leichtgrad. Mitral- und Trikuspidalklappeninsuffizienz, keine wesentliche Befundänderung zu <[Pseudo] 07/2031>
+-UNK- Z. n. ACB-OP B-DATE, Bypass auf LAD, ACVB auf Ramus marginalis und RCA
+- Chronische dialysepflichtige Niereninsuffizienz unklarer Genese
+-UNK- Dialysetage -LRB- Mo, Mi, Fr -RRB-
+-UNK- Z. n. COVID-19 Pneumonie mit respiratorischer Insuffizienz <[Pseudo] 10/2032>
+-UNK- Z. n. Infektkonstellation unklarer Genese a. e. im Rahmen einer Demers-Infektion
+-UNK- Demerskatheter mit Taurolock geblockt, Dialyse über Shaldon -LRB- Anlage am <[Pseudo] 17/11/2032> -RRB-
+-UNK- Antibiotische Therapie mit Meropenem vom B-DATE - B-DATE sowie vom DATE, Vancomycin vom B-DATE - B-DATE
+-UNK- VRE rektal und im Wundabstrich -LRB- Abstrich vom <[Pseudo] 18/11/2032> -RRB-
+-UNK- Antibiotische Therapie mit Linezolid vom DATE??
+-UNK- Z. n. hämorrhagischem Schock bei retroperitonealer Blutung in den M. iliopsoas, a.e. spontan unter Vollantikoagulation und dualer Plättchenhemmung
+-UNK- Intubation und maschinelle Beatmung -LRB- B-DATE - B-DATE -RRB-
+-UNK- Operative Extraktion von 2000ml Blut aus dem linken M. iliopsoas am
+-UNK- Z. n. Dislokation des Demers Katheters und Neuanlage am <[Pseudo] 26/01/2032>
+-UNK- Z. n. Umseldingern eines Sheldonkatheter auf einen Hemosplitkatheter in der VJI rechts am <[Pseudo] 20/11/2031>
+-UNK- Z. n. endovaskulärer Fistelanlage zwischen Arteria und Vena radialis dexter erfolgreich am <[Pseudo] 18/08/2032> -LRB- B-OTHER -RRB-
+-UNK- Sekundärer Hyperparathyreoidismus
+-UNK- Renale Anämie
+- Z. n. Hüft-TEP bds. bei Coxarthrose
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Diabetes mellitus Typ 2, Hyperlipidämie
+Allergien: ACE-Hemmer, fragl. Statin
+
+Indikation für stationären Katheter:
+- PTA/Rotablation und Stentimplantation einer hochgradigen Stenose mit postinterventioneller Überwachungspflicht von mehr als 12h sowie erhöhtem Risiko einer Nachblutung
+
+Anamnese:
+Die ausführliche Anamnese setzen wir freundlicherweise als bekannt voraus. Die Vorstellung erfolgte zur Becken-Bein-Angiographie in PTA-Bereitschaft bei V. a. Progression der peripheren arteriellen Verschlusskrankheit.
+
+Körperlicher Untersuchungsbefund <[Pseudo] 11/05/2033:>
+AZ: gut
+EZ: 170 cm, 81 kg
+HF: 64/min, regelmäßig
+RR: 120/70 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine patholog. Geräusche
+Lunge: bds. frei
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: Demerskatheter in situ
+
+
+
+
+
+Ruhe-EKG vom <[Pseudo] 11/05/2033:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 64/min, überdrehter Linkstyp, PQ 233 ms, QRS 153 ms, QTc 457 ms. Bekannter AV-Block I. Grades und kompletter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen.
+
+Becken-Bein-Angiographie -LRB- B-OTHER vom <[Pseudo] 19/05/2033> -RRB- :
+Befund folgt im endgültigen Brief.
+
+Angiologische Kontrolle nach BBA -LRB- Z.n. erfolgreicher Rotablation/ PTA/ 3 DE Ballon/ 2 BMS der AFS am <[Pseudo] 19/05/2033> -RRB- :
+A: Kontrolle nach Katheteruntersuchung. Patient beschwerdefrei.
+K: Punktionsstelle reizlos, keine relevante Hämatome. Leistenpulse kräftig palpabel. Kein relevanter Druckschmerz im Bereich der Punktionsstelle.
+
+Arterieller CW-Doppler -LRB- Verschlussdrücke in mmHg -RRB-
+Referenzdruck: A.brachialis re/li 180 mmHg
+Rechtes Bein
+
+Linkes Bein
+130
+A. dorsalis pedis
+160
+140
+A. tibialis posterior
+150
+0,75
+ABI
+0,83
+
+
+Farbduplexsonographie der Gefäße der linken Leiste:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstellen der rechten Leiste. Kein Anhalt für eine akute Einblutung.
+Weitere angiologischen Kontrolle in der Praxis Brado.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2033>
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kalium -LRB- ISE -RRB-
+<NONE> !H
+3,4 - 5,0 mmol/l
+B-DATE
+Kreatinin
+<NONE> !H
+0,6 - 1,4 mg/dl
+<[Pseudo] 19/05/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+<NONE> !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+7.5 !L
+>60 s.u.
+<[Pseudo] 19/05/33>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 19/05/33>
+ikterisch
+-
+
+<[Pseudo] 19/05/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lipämie
+-
+
+<[Pseudo] 19/05/33>
+
+
+
+
+
+Zusammenfassung:
+Es erfolgte die erfolgreiche PTA/3 DE-Ballon / 2xBM-Stentimplantation der A. a. fibularis? superficialis links.
+Die nachfolgend durchgeführte angiologische Kontrolluntersuchung ergab einen guten Kurzzeitbefund.
+Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- .
+
+Procedere:
+Kombinierte Thrombozytenaggregationshemmung aus angiologischer Sicht für 8 Wochen mit ASS und Clopidogrel nach Intervention. Bei Z.n. nach Stenting in der Koronarangiographie im letzten stationären Aufenthalt empfehlen wir die kombinierte Thrombozytenaggregationshemmung wie unten angegeben. Anschließend ist eine dauerhafte Thrombozytenaggregationshemmung mit ASS 100 mg täglich ausreichend.
+Der Patient wurde über die Notwendigkeit einer lückenlosen Einnahme von ASS und Clopidogrel bis zum unten genannten Datum ausführlich aufgeklärt.
+
+Wir empfehlen eine Re-intervention des Unterschenkels in 4 Wochen.
+
+Bei ausgeprägtem kardiovaskulärem Risikoprofil und pAVK empfehlen wir regelmäßige kardiologische Kontrolluntersuchungen sowie die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien.
+
+Nächster Termin/Kontrolle:
+Wir empfehlen regelmäßige angiologische Kontrolluntersuchungen in der Praxis der betreuenden B-SALUTE B-TITLE B-PER
+
+Therapieempfehlung:
+ASS 100 1-0-0, dauerhaft
+Clopidogrel 75 1-0-0, bis einschließlich <[Pseudo] 10/11/2033>
+Metoprolol 47,5 1-0-1
+Clonidin ret. 0-0-1
+Torem 100 1-0-0
+Atorvastatin 20 0-0-1
+Nexium 40 1-0-1
+Novonorm 0,5 0-1-0
+Mg 300 bei Bedarf bis zu 4x tägl.
+Renagel 800 1-1-1
+Dekristol 20.000 1x wöchentlich -LRB- samstags -RRB-
+Novalgin 500 bei Bedarf
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 20/05/2033> in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gern zur Verfügung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir bedanken uns für die Überweisung und die vertrauensvolle Zusammenarbeit.
+
+Mit freundlichen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

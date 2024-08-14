@@ -1,0 +1,85 @@
+Aufnahmedatum: <[Pseudo] 2039-01-04 >
+Geburtsdatum: <[Pseudo] 1976-06-28 >
+Alter: 62
+
+über Ihren Patienten B-SALUTE B-PER PER, geboren am <[Pseudo] 28/06/1976> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+
+Aktuell:
+- Kein Hinweis auf eine Progression der koronaren Herzerkrankung
+-UNK- Echokardiographisch gute biventrikuläre Funktion -LRB- LV EF: 58% -RRB-
+-UNK- Unauffälliges Belastungs-EKG bis zu 175 Watt -LRB- 93% Ziel-HF -RRB-
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Koronare 1-Gefäßerkrankung mit 25-50% Stenose der LAD -LRB- B-OTHER -RRB-
+- Leichtgradiges Aneurysma der Ao. ascendens -LRB- 44 mm -RRB- -LRB- TTE vom <[Pseudo] 26/06/2031> -RRB-
+- AV-Block I°
+- Chronische Bronchitis
+- Z. n. Unterschenkelfraktur <[Pseudo] 2028>
+- Degenerative Erkrankungen des Bewegungsapparates
+- Chronische Schmerzen bei Coxarthose rechts
+- Degenerative LWS-Veränderungen und Bandscheibenprotusionen HWS 3-7
+- Chronische Achillessehnenentzündung
+- Z. n. Depressionen mit Anpassungsstörung
+- Posttraumatische Belastungsstörung
+- Anamnestisch V.a. pathologische Glukosetoleranz
+
+Kardiovaskuläre Risikofaktoren: art. Hypertonie, familiäre Hypercholesterinämie, Ex-Nikotinkonsum -LRB- bis B-DATE, kumulativ 60 py -RRB- , familiäre Disposition -LRB- Vater MI mit 62 62 Bruder MI mit 62 62 -RRB- .
+Allergie: Gräserpollen, Roggenpollen, Katzenhaare
+
+Anamnese:
+Die Vorstellung von B-SALUTE B-PER erfolgte zur routinemäßigen Verlaufskontrolle bei koronarer Ein-Gefäßerkrankung. Der Patient berichtet von guter körperlicher Belastbarkeit im Alltag -LRB- 3-4 Etagen, NYHA I -RRB- ohne inadäquate Belastungsdyspnoe. Es bestehen keine typischen pectanginösen Beschwerden bei Belastung oder in Ruhe. Gelegentlich trete ein atypisches belastungsunabhängiges thorakales Stechen auf. Die bei der letzten Vorstellung beschriebene Müdigkeit habe sich gebessert. Auf spezifische Nachfrage keine Palpitationen, selten leichter Schwindel, aber keine stattgehabten Synkopen. Periphere Ödeme seien bei Gewichtskonstanz -LRB- 90 kg -RRB- nicht aufgefallen. Es bestehe Nykturie 2x/Nacht. Häusliche Blutdruckmessungen würden nicht erfolgen.
+
+Bisherige Medikation:
+ASS 100 mg 1-0-0
+Ramipril 2,5 mg 1-0-0
+Atorvastatin 20 mg 0-0-1
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 180 cm, 90 kg
+HF: 57/min, regelmäßig
+RR: 130/80 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Bradykarder Sinusrhythmus, 57/min, Indifferenztyp, PQ 210 ms, QRS 94 ms, QTc 379 ms. AV-Block I°. Keine signifikanten Kammerendteilveränderungen.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 175 Watt über 0:33 min. Maximale Frequenz 148/min -LRB- 93% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 204 mmHg, diastolisch 107 mmHg. Abbruch wegen peripherer Ermüdung und Dyspnoe bei FFP2-Maske. Keine Angina pectoris oder inadäquate Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Vereinzelt VES -LRB- 3 -RRB- . Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck.
+
+Echokardiographie:
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Systolischer PA-Druck bei fehlender Trikuspidalinsuffizienz nicht bestimmbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 24/06/2036:> Keine wesentliche Befundänderung. Eine Erweiterung der Aorta ascendens, bei verminderten Schallbedingungen von transthorakal, ist nicht eindeutig nachweisbar.
+
+Zusammenfassende Beurteilung:
+Die Vorstellung von B-SALUTE B-PER erfolgte zur routinemäßigen Verlaufskontrolle bei koronarer Herzerkrankung. Der Patient berichtet subjektiv von einem stabilen kardialen Verlauf.
+
+In der fahrradergometrischen Belastungsuntersuchung ergab sich kein Anhalt für eine belastungsinduzierte Myokardischämie oder Herzrhythmusstörungen. Echokardiographisch zeigte sich bei Befundkonstanz im Vergleich zur Voruntersuchung eine gute biventrikuläre Pumpfunktion ohne Anhalt für relevante Vitien.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher eine Fortführung der konservativen Therapie.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, I-ORG oder Ergometertraining, sowie weiterhin nichtmedikamentösen Maßnahmen -LRB- z.B. Reduktion des Salzkonsums, mediterrane Diät und Gewichtsreduktion -RRB- .
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kollegen. Bei Auftreten von Beschwerden sind wir jederzeit gerne bereit, den Pat. früher wiederzusehen, in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Aktelle Medikation:
+ASS 100 1-0-0
+Ramipril 2,5 1-0-0
+Atorvastatin 20 0-0-1 Ziel-LDL < 55 mg/dl
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärzte

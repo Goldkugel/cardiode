@@ -1,0 +1,105 @@
+Aufnahmedatum: <[Pseudo] 2036-06-11 >
+Geburtsdatum: <[Pseudo] 1967-10-24 >
+Alter: 68
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 24/10/1967> wh. B-PLZ B-LOC B-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Verlaufskontrolle nach transfemoraler Aortenklappenimplantation am <[Pseudo] 11/12/2035>
+-UNK- Regelrechte Position und Funktion der Klappenprothese
+-UNK- Kein Nachweis einer Randleckage
+-UNK- Echokardiographisch gute linksventrikuläre Funktion
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Erfolgreiche transfemorale Aortenklappenimplantation -LRB- Edwards, 20 mm -RRB- am <[Pseudo] 11/12/2035> bei kombiniertem Aortenklappenvitium mit führender hochgradiger Stenose -LRB- B-OTHER -RRB-
+-UNK- DAPT mit ASS und Clopidogrel für 4 Wochen
+- Fokaler Milchglasherd links apikal, a. e. postentzündlich, lepidisches Karzinom allerdings nicht auszuschließen -LRB- CT <[Pseudo] 10/12/2035> -RRB-
+-UNK- Verlaufskontrolle in 6 Monaten empfohlen, falls persistierend weitere Verlaufskontrolle nach 2 Jahren
+- Kombiniertes Aortenklappenvitium mit führend hochgradiger Stenosekomponente
+-UNK- Echokardiographisch AÖF -LRB- nach AVA VTI -RRB- 0,6 cm², PPG 54 mmHg. MPG 34 mmHg
+-UNK- TTE des <[Pseudo] 07/09/2035> -LRB- Herzchirurgie B-ORG -RRB- : AÖF 0,65 cm², PPG 75 mmHg, MPG 44 mmHg. Global gute biventrikuläre Funktion
+-UNK- Koronarangiographie des <[Pseudo] 05/09/2035> -LRB- Extern B-TITLE B-PER I-ORG Schwerpunktpraxis I-ORG I-ORG -RRB- : Ausschluss einer koronaren Herzkrankheit
+-UNK- Belastungs-EKG des <[Pseudo] 07/09/2035> -LRB- Herzchirurgie B-ORG -RRB- : Ab 75 W beginnende Angina Pectoris, einzelne SVES unter Belastung, keine Erregungsrückbildungsstörungen, HF: 65 auf 133/min, RR von 120/70 auf 170/80 mmHg
+-UNK- Klinisch symptomatisch durch CCS III, NYHA III sowie Schwindel.
+-UNK- Einschluss DEDICATE-Studie; TAVI-Arm
+- Hypercholesterinämie -LRB- ED -RRB-
+-UNK- Gesamtcholesterin 235 mg/dl, LDL 127 mg/dl, HDL 79/ mg/dl, Triglyceride 144 mg/dl
+-UNK- Heart-Score 2%
+-UNK- Ziel-LDL < 100 mg/dl
+- V.a. TIA Mediastromgebiet rechts <[Pseudo] 09/2024>
+-UNK- <[Pseudo] 11/2024> kein Hinweis auf kardiale Emboliequelle
+- Z. n. Cholezystektomie
+- Z. n. Appendektomie
+- Z. n. Sectio caesarea
+- Z. n. Hysterektomie
+
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, negative Nikotinanamnese, negative kardiovaskuläre Familienanamnese
+Allergien/Unverträglichkeiten: Novocain -LRB- Procain -RRB- , Penicillin -LRB- Exanthem, Dyspnoe -RRB-
+
+Anamnese:
+Die ambulante Vorstellung erfolgte zur routinemäßigen kardiologischen Verlaufskontrolle nach transfemoraler TAVI. Im Alltag bestünde eine gute Belastbarkeit ohne inadäquate Belastungsdyspnoe nach 2 Etagen Treppensteigen -LRB- NYHA II -RRB- . Es bestünden keine belastungsabhängigen und -unabhängigen typischen pectanginösen Beschwerden. Schwindel sei bekannt und gelegentlich vorhanden. Palpitationen sowie stattgehabte Synkopen werden auf gezielte Nachfrage verneint. Es bestünde eine Nykturie bei ca. zweimaliger Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 130/85 mmHg. Subjektiv bestünde seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Aktuelle Medikation:
+ASS 100 mg 1-0-0, dauerhaft
+Amlodipin 5 mg 1-0-0
+Candesartan/HCT 16/12,5 mg 1/2-0-1/2
+Torasemid 5 mg 1-0-0
+Rosuvastatin 10 mg 0-0-1
+Escitalopram 10 mg 1-0-0
+Kaliumchlorid 600 mg bei Bedarf
+Kaliumcitrat 5,4 g bei Bedarf
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 160 cm 72kg
+HF: 59/min, regelmäßig
+RR: 135/85 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kein fokal neurologisches Defizit
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+
+
+Ruhe-EKG:
+Bradykarder Sinusrhythmus, HF 59/min, indifferenz-typ. PQ 174ms, QRS 81ms, QTc 418ms. Regelrechte R-Progression, R/S Umschlag in V2/V3, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Transthorakale Echokardiographie:
+Normal großer, septal hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. LA erweitert, RA und RV normal groß, gute RVFunktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. TAVI -LRB- Edwards 20mm -RRB- in Aortenposition regelrecht mit hochnormalen Flussgeschwindigkeiten -LRB- MPG 29mmHg, PPG 15mmHg -RRB- .Dopplersonographisch leichtgradige Mitral- und Trikuspidalklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist in Ruhe im Normbereich -LRB- ca. 20-25mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 12/12/2035:> heute niedrigere Flussgeschwindigkeiten über der TAVI, sonst keine wesentliche Befundänderung.
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur routinemäßigen kardiologischen Verlaufskontrolle nach transfemoraler TAVI. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Echokardiographisch sahen wir eine gute linksventrikuläre Pumpfunktion ohne regionale Kontraktionsstörungen. Die VCI war nicht gestaut. TAVI -LRB- Edwards 20mm -RRB- in Aortenposition regelrecht mit hochnormalen Flussgeschwindigkeiten -LRB- MPG 29mmHg, PPG 15mmHg -RRB- . Es waren keine relevanten Klappenvitien feststellbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 12/12/2035:> heute niedrigere Flussgeschwindigkeiten über der TAVI, sonst keine wesentliche Befundänderung.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem guten Ergebnis nach TAVI aus und empfehlen die Fortführung der bestehenden medikamentösen Therapie.
+
+Wir empfehlen zudem die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien und nach Möglichkeit die regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten beispielsweise in Form von B-ORG I-ORG Radfahren, Schwimmen, Tanzen oder Ergometertraining.
+
+Zur Endokarditisprophylaxe empfehlen wir eine gute Mundhygiene und regelmäßige zahnärztliche Kontrollen. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen, sowie die regelmäßige hausärztliche Vorstellung. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin wiederzusehen - in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung:
+ASS 100 mg 1-0-0, dauerhaft
+Amlodipin 5 mg 1-0-0
+Candesartan/HCT 16/12,5 mg -UNK- -0- -UNK- -LRB- bitte regelm. Elektrolyt- und Kreatininkontrolle -RRB-
+Torasemid 5 mg 1-0-0
+Rosuvastatin 10 mg 0-0-1 Ziel LDL <100 mg/dl
+Escitalopram 10 mg 1-0-0
+Kaliumchlorid 600 mg bei Bedarf
+Kaliumcitrat 5,4 g bei Bedarf
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen,
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

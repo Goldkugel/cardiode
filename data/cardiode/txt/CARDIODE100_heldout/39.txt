@@ -1,0 +1,642 @@
+Aufnahmedatum: <[Pseudo] 2437-02-16 >
+Geburtsdatum: <[Pseudo] 2055-09-17 >
+Alter: 381
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 17/09/2055> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis DATE in unserer stationären Behandlung befand.
+
+Aktuell:
+- Akuter Myokardinfarkt -LRB- NSTEMI -RRB- am <[Pseudo] 13/03/2145>
+
+- Koronare 3-Gefäßerkrankung -LRB- B-OTHER vom <[Pseudo] 16/03/2145> -RRB-
+-UNK- Gutes Langzeitergebnis nach Stenting der RCA und einer hochgradigen Stenose der LCX
+-UNK- Erfolgreiche Intervention der LCX mittels PTCA/2fach DE-Stentimplantation mit Recoiling der LCX und nicht möglicher Passage des Stents
+-UNK- Z.n. Erfolgreiche PTCA und 3xDES-Stentimplantation der RCA -LRB- B-OTHER v. <[Pseudo] 20/06/2141> -RRB-
+
+- Urosepsis
+-UNK- Blutkultur peripher -LRB- <[Pseudo] 18/03/2144> -RRB- : Escherichia coli
+-UNK- Uri-Kult: Escherichia coli, Enterococcus faecalis
+-UNK- Antiinfektive Therapie antibiogrammgerecht mittels Piperacillin/Tazobactam <[Pseudo] 17/03/2145> bis dato
+
+- Paroxysmales Vorhofflimmern -LRB- ED -RRB-
+-UNK- Intermittierende supraventrikuläre Tachykardien -LRB- DD AVNRT/fokale atriale Tachykardie -RRB-
+-UNK- CHA2DS2VASc: 4
+-UNK- HAS-BLED: 2
+-UNK- Orale Antikoagulation mittels Xarelto
+
+Diagnosen:
+- Pankreaskopf-Ca, ED <[Pseudo] 11/2144>
+-UNK- ERC und Stentwechsel mit SEMS Einlage <[Pseudo] 07/02/2145>
+-UNK- CT-Abdomen vom <[Pseudo] 19/03/2145:> Progress des Pankreaskarzinoms
+- Niereninsuffizienz Stadium III
+- Vitamin B 12 Mangel, Vitamin D Mangel, Folsäure Mangel
+- Z.n. Sigmadivertikulitis <[Pseudo] 09/2140>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Nikotinanamnese: unbekannt.
+Allergien: Keine bekannt.
+
+Anamnese:
+Die initiale Vorstellung in der ORG erfolgte als Einweisung durch den betreuenden Kardiologen bei Z.n. NSTEMI mit notärztlicher Einweisung in das B-ORG I-ORG am B-DATE Dort konservatives Regime bei Multimorbidität und Entlassung am Folgetag. Am <[Pseudo] 16/03/2145> dann Vorstellung beim betreuenden Kardiologen und Überweisung zu uns.
+
+Die Anamnese ist bei Schwerhörigkeit des Patienten erschwert. Auf gezielte Nachfrage bestehen AP-Beschwerden bei moderater Belastung -LRB- CCS II -RRB- ausstrahlend in den linken Kiefer. Gute Belastbarkeit im Alltag mit Belastungsdyspnoe bei schwerer Belastung -LRB- NYHA II -RRB- . In letzter Zeit bestünde bei längerem Laufen vereinzelt Schwindel. Präsynkopen oder Synkopen werden verneint. Des Weiteren klagt der Patient über Aufstoßen und gelegentliche Regurgitation von Speiseresten. Aktuell bestünde keine Übelkeit. Keine Ödeme bei momentaner Gewichtskonstanz. Im Laufe des letzten Jahres, ungewollter Gewichtsverlust von 15kg, bei Pancreraskopf-Ca. Infektzeichen wie Husten, Fieber, Dysurie oder Diarrhoen werden verneint.
+
+Medikation bei Übernahme von B-ORG:
+Sterofundin 100ml/h
+Tazobac 4,5g i.v. 1-1-1
+
+ASS 100mg 1-0-0
+Clopidogrel 600mg am <[Pseudo] 18/03/2145>
+Clopidogrel 75mg 1-0-0 ab dem <[Pseudo] 19/03/2145>
+Xarelto 15mg 1-0-0
+Atorvastatin 40mg 0-0-1
+Bisoprolol 2,5mg 1-0-0
+Chinin 200mg 0-0-1
+Lercanidipin 10mg 1-0-0
+Irenat 30-30-30
+Pantoprazol 40mg 1-0-0
+Ramipril 10mg 1-0-0
+Thiamazol 40mg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: leicht red.
+EZ gut
+HF: 63/min, regelmäßig
+RR: 163/85 mmHg
+Keine Cyanose, Anämiezeichen,. Kopf/Hals unauffällig. Dezenter Sklerenikterus.
+HT: sehr leise, rhythmisch
+Lunge: VAG bds., keine RGs
+Periphere Ödeme: Keine
+Pulsstatus: periphere Pulse der oberen Extremitäten abgeschwächt, periphere Pulse der unteren Extremitäten nicht palpabel
+Neurol. Status: orientierend o.B.
+Abdomen: BD weich, leicht druckdolente Leber, Leberrand nicht palpabel, kein epigastraler DS, lebhafte DG in allen 4 Q, keine AS
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 16/03/2145> -RRB- :
+Herzkatheteruntersuchung bei NSTEMI
+Koronare 3-Gefäßerkrankung mit gutem Langzeitergebnis nach Stenting RCA und hochgradiger Stenose der medialen LCX. Erfolgreiche Intervention der LCX mittels PTCA/2fach DE-Stentimplantation mit Recoiling im Bereich der proximalen LCX; LV-angiographisch leicht- bis mittelgradig eingeschränkte LV-Funktion mit Hypokinesie betont diaphragmal und posterobasal. Erhöhter LVEDP -LRB- 22 mmHg -RRB- . Kein relevanter Gradient über der Aortenklappe.
+Sonstige relevante Vordiagnosen
+Koronare 3-Gefäßerkrankung
+- Erfolgreiche PTCA und 3xDES-Stentimplantation der RCA -LRB- B-DATE v. <[Pseudo] 20/06/2141> -RRB-
+Intermittierende supraventrikuläre Tachykardien -LRB- DD AVNRT/fokale atriale Tachykardie -RRB-
+Aortenklappensklerose ohne signifikante Stenosewirkung
+Pankreaskopf-Ca, ED <[Pseudo] 11/2144>
+- ERC und Stentwechsel mit SEMS Einlage <[Pseudo] 07/02/2145>
+Niereninsuffizienz Stadium III, Vitamin B 12 Mangel, Vitamin D Mangel, Folsäure Mangel, Z.n. Sigmadivertikulitis B-DATE CvRF: Arterielle Hypertonie, Hypercholesterinämie
+
+Maßnahmen:
+- Bei Recoiling des proximalen Stents: Troponinkontrolle und regelmäßige EKGs auf CCU. B-PER wurde informiert
+- DAPT für mindestens 12 Monate von kardiologischer Seite -LRB- Ticagrelor nach RS B-PER in CPU -LRB- 180 mg -RRB- erhalten -RRB-
+- Druckverband bis 2:30 Uhr -LRB- Verschluss mit Angio-Seal -RRB-
+- Einstellung RR
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Herzfrequenz 63/min, überdrehter Linkstyp, PQ 209 ms, QRS 91 ms, QTc 445 ms, AV-Block Grad 1, linksanteriorer Hemiblock, unauffällige Erregungsausbreitung und -rückbildung auch in V7-9.
+
+Ruhe-EKG vom <[Pseudo] 18/03/2145>
+Normofrequenter Sinusrhythmus, Herzfrequenz 66/min, überdrehter Linkstyp, PQ 206 ms, QRS 105 ms, QT/QTc 463/476 ms, keine regelrechte R-Progression, Ausbleiben des R/S-Umschlags, S-Persistenz in V6, AV-Block I°, linksanteriorer Hemiblock, vereinzelte VES, keine KETV
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 17/03/2145:>
+Keine Voraufnahmen zum Vergleich vorliegend.
+Befund und Beurteilung:
+Kein Pneumothorax im Liegen. Keine Pleuraergüsse. Keine flächigen pneumonischen Infiltrate. Keine höhergradigen Stauungszeichen. Herz- und Mediastinalsilhouette unauffällig. Trachea mittelständig, nicht eingeengt.
+
+Echokardiographie vom <[Pseudo] 17/03/2145:>
+Beurteilung Normal großer, nicht hypertrophierter linker Ventrikel mit leichtgradig eingeschränkter systolischer Pumpfunktion bei globaler Hypokinesie, betont inferoseptal und inferior. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA leicht dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, deutlich verdickt und verkalkt mit verminderter Separation. Dopplersonographisch kombiniertes Aortenvitium leichteren Schweregrades -LRB- AÖFKontinuitätsgleichung = 1,9 cm², PPG 23 mmHg, MPG 12 mmHg, leicht- bis mittelgradige Insuffizienz -RRB- . Mitralklappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PADruck in Ruhe ist normal -LRB- ca. 20 mmHg -RRB- . Erstbefund in domo.
+
+
+
+
+
+SD-Sonographie vom <[Pseudo] 17/03/2145:>
+Zusammenfassung
+Soweibeurteilbar: Gesamtvolumen ca. 10 ml. Schilddrüsenparenchym bds. homogen, echonormal. Perfusion bds. homogen und normoperfundiert. Strukturen schluckverschieblich Bds. keine Zysten, Knoten oder patholog. vergrößerten LKs darstellbar.
+Fazit: Normalbefund
+Hyperthyreose Abklärung mittels TRAK-AK, Tg-AK und TPO-Ak und CEA, Calcitonin, ggf. SD-Szintigraphie im Verlauf. Thyreostatische Therapie soll an SD-Werte angepasst werden. Verlaufskontrolle empfohlen, wenn Pat. nicht monitorpflichtig ist zur besseren Beurteilung möglich
+
+Leber, Milz- und Pankreassonographie vom <[Pseudo] 18/03/2145:>
+Eingeschränkte Schallbedingungen bei Schüttelfrost und Meteorismus.
+Die Leber misst im größten kraniokaudalen Durchmesser 14,7 cm. Der Leberrand ist stumpf. Die Echodichte ist unauffällig, die Struktur ist etwa inhomogen. Raumforderungen sind nicht abzugrenzen. Die Lebervenen sind offen perfundiert und nicht gestaut. Die Pfortader ist orthograd perfundiert.
+Die Gallenblase lässt sich deutlich darstellen. In der Gallenblase befindet sich Grieß. Es sind keine Konkremente nachzuweisen. Die intrahepatischen Gallengänge sind dilatiert -LRB- zentral 7 mm, peripher 3 mm, linksbetont -RRB- . Es sind multiple echoreiche Reflexe im Bereich der Gallengänge zu sehen, passend zu einer Aerobilie. Der Ductus choledochus misst in der Pforte 8 mm und ist somit diskret erweitert. Extrahepatisch ist keine Cholestase nachzuweisen. Die Milz misst 9,8 x 4,3 cm. Das Echomuster ist homogen. Die V. lienalis ist nicht erweitert.
+Das Pankreas ist bei Darmgasüberlagerung nur teilweise einzusehen, es lässt sich nicht adäquat beurteilen.
+Beurteilung:
+-UNK- Zeichen eines diskreten Leberparenchymschadens
+-UNK- Gallenblasengrieß
+-UNK- Zentrale und periphere intrahepatische Cholestase, linksbetont
+-UNK- Aerobilie
+
+CT: 4 Computerunterstützte Analysen -LRB- Einfach -RRB- vom <[Pseudo] 18/03/2145:>
+CT Thorax, Abdomen und Becken nativ und mit Kontrastmittel vom <[Pseudo] 18/03/2145:>
+Zum Vergleich liegt ein externes CT Abdomen vom <[Pseudo] 10/11/2144> vor.
+Befund:
+Thorax: Oberlappenbetontes, vorwiegend zentrilobuläres, geringer auch paraseptales Lungenemphysem. Deformierende Bronchopathie. Dystelektasen beidseits basal. Kein Nachweis eines suspekten Lungenrundherdes. Kleiner perifissurale Lymphknoten an der Fissura horizontalis -LRB- Serie 10, Bild 181 -RRB- . Kein Nachweis pathologisch vergrößerter Lymphknoten. Fortgeschrittene arteriosklerotische Veränderungen, einliegendes Koronarstentmaterial. Minimaler Perikardergusssaum. Struma.
+Abdomen: Deutlich größenzunehmendes Pankreaskopfkarzinom mit einer Ausdehnung von 6,1 x 3,1 cm -LRB- Serie 6, Bild 86 -RRB- , zuvor 2,7 x 2,3 cm. Dabei großflächige Infiltration der Pars descendens und horizontalis duodeni. Langstreckige Ummauerung der Arteria mesenterica superior, teils mehr als 180° -LRB- Serie 6, Bild 81 -RRB- . 360° Ummauerung langstreckig von zwei proximalen Ästen der AMS -LRB- 2. und 3. proximalster Viszeralast -RRB- -LRB- 7-232 bis 244 -RRB- . Es
+besteht kein Tumorkontakt zum Tubus coeliacus oder zur Leberarterie. Jedoch Tumorkontakt zur Pfortader auf Höhe des Konfluenz sowie zur proximalen VMS -LRB- Serie 13, Bild 37 -RRB- , dabei max. 180° Ummauerung. Rückläufige intrahepatische Cholestase bei zwischenzeitlich erfolgter Implantation eines Gallengangsstent, Aerobilie, der DHC ist weiterhin erweitert auf 19 mm und wandverdickt. Das nachgeschaltete Pankreasparenchym ist atroph mit aufgestautem Gang. In Anzahl vermehrte sowie prominente Lymphknoten mesenterial und retroperitoneal, exemplarisch paraaortal links mit 10 mm -LRB- Serie 9, Bild 159 -RRB- . Neu aufgetretene randständig kontrastmittelaufnehmende, metastasensuspekte Leberläsion im Lebersegment 7/8 mit 8 mm -LRB- Serie 9, Bild 122 -RRB- . Konstante leichte Wandverdickungen der Gallenblase. Nierenzysten beidseits. Leichte Panikulitis mesenterialis. Deutliche arteriosklerotische Veränderungen der abdominalen Aorta und der Iliakalarterien. Kein Nachweis peripankreatischer Flüssigkeitskollektionen. Von transurethral einliegender Harnblasenkatheter. Prostatavergrößerung.
+Skelett -LRB- soweit miterfasst -RRB- : Degenerative Veränderungen des Achsenskelettes altersentsprechendem Umfang. Kein Nachweis einer suspekten ossären Läsion.
+
+Beurteilung:
+-UNK- Zu <[Pseudo] 10/2144> deutlich progredientes, lokal fortgeschrittenes Pankreaskarzinom mit über 180° Ummauerung der AMS und Kontakt aber <180° Ummauerung der Pfortader und proximalen VMS. 360° Ummauerung langstreckig von zwei proximalen Ästen der AMS -LRB- 2. und 3. proximalster Viszeralast -RRB- .
+-UNK- Neu aufgetretene metastasensuspekte Leberläsion im Segment 7/8.
+-UNK- Rückläufige intrahepatische Cholestase bei zwischenzeitlich eingebrachtem Gallengangsstent.
+-UNK- Nachgeschaltete Pankreasatrophie, keine Zeichen einer floriden Pankreatitis.
+-UNK- Nebenbefunde wie oben beschrieben.
+
+Konsiliarbericht Viszeralchirurgie vom <[Pseudo] 21/03/2145:>
+Rücksprache mit TITLE B-TITLE B-PER -LRB- Pankreassprechstunde -RRB- . Siehe Zusammenfassung.
+
+Labor:
+
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2145> und dem B-DAY B-MONTH <[Pseudo] 2145>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+10.35 !H
+4 - 10 /nl
+B-DATE
+Hb
+10.9 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+3.7 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.320 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+<[Pseudo] 24/03/45>
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+34
+30 - 36 g/dl
+B-DATE
+RDW
+13.6
+12,9 - 18,7 %
+<[Pseudo] 24/03/45>
+hypochr.Erythroz.
+1.2
+0 - 2 %
+<[Pseudo] 24/03/45>
+Thrombozyten
+552 !H
+150 - 440 /nl
+<[Pseudo] 24/03/45>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+1.06
+1,0 - 4,8 /nl
+<[Pseudo] 16/03/45>
+Neutroph.G.-abs.
+3.98
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.51
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.15
+- <0,5 /nl
+<[Pseudo] 16/03/45>
+Basoph.G. -LRB- abs -RRB-
+0.02
+- <0,2 /nl
+<[Pseudo] 16/03/45>
+Neutroph.G. -LRB- mech. -RRB-
+68.1
+50 - 80 %
+<[Pseudo] 16/03/45>
+Lympho -LRB- mech. -RRB-
+18.1 !L
+25 - 40 %
+<[Pseudo] 16/03/45>
+Basoph.G.
+0.4
+- <1 %
+<[Pseudo] 16/03/45>
+Monozyten -LRB- mech. -RRB-
+8.8
+2 - 9 %
+<[Pseudo] 16/03/45>
+Eosinoph.G. -LRB- mech. -RRB-
+2.5
+2 - 4 %
+<[Pseudo] 16/03/45>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+133 !L
+135 - 146 mmol/l
+<[Pseudo] 24/03/45>
+Kalium -LRB- ISE -RRB-
+4.89
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.30
+2,11 - 2,59 mmol/l
+B-DATE
+Ca./korr.
+2.22
+2,1 - 2,65 mmol/l
+B-DATE
+Phosphat
+1.00
+0,84 - 1,45 mmol/l
+<[Pseudo] 16/03/45>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Magnesium
+0.57 !L
+0,75 - 1,05 mmol/l
+<[Pseudo] 17/03/45>
+Kreatinin
+0.92
+0,6 - 1,7 mg/dl
+B-DATE
+Harnstoff
+20
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+73.5
+>60 s.u.
+<[Pseudo] 24/03/45>
+MDRD
+89.17
+ml/min/1,73qm
+<[Pseudo] 19/03/45>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+29.4 !L
+30 - 50 g/l
+<[Pseudo] 19/03/45>
+Glucose
+142 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+66 !H
+- <46 U/l
+B-DATE
+GPT/ALT
+131 !H
+- <50 U/l
+B-DATE
+AP
+200 !H
+40 - 130 U/l
+B-DATE
+GGT
+182 !H
+- <60 U/l
+B-DATE
+CHE
+5.97
+5,32 - 12,92 kU/l
+<[Pseudo] 21/03/45>
+Ges.Bili.
+1.80 !H
+- <1.0 mg/dl
+B-DATE
+Dir.Bilirubin
+1.00 !H
+- <0.3 mg/dl
+B-DATE
+Harnsäure
+2.0
+- <7 mg/dl
+<[Pseudo] 19/03/45>
+Triglyceride
+105
+- <150 mg/dl
+<[Pseudo] 19/03/45>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+68.0
+- alt.abh. mg/dl
+<[Pseudo] 19/03/45>
+LDL-Chol. -LRB- berechn. -RRB-
+36
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+11 !L
+>40 mg/dl
+B-DATE
+p-Amylase
+101 !H
+8 - 53 U/l
+<[Pseudo] 21/03/45>
+Lipase
+131 !H
+19 - 63 U/l
+<[Pseudo] 21/03/45>
+CRP
+50.4 !H
+- <5 mg/l
+<[Pseudo] 24/03/45>
+PCT sens.
+<NONE> !H
+- <0,05 ng/ml
+<[Pseudo] 19/03/45>
+Hämolyse
+-
+
+<[Pseudo] 24/03/45>
+ikterisch
+-
+
+<[Pseudo] 24/03/45>
+Lipämie
+-
+
+<[Pseudo] 24/03/45>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+174
+- <342 U/l
+B-DATE
+CK
+49
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+85.1 !H
+- <14 pg/ml
+B-DATE
+CEA -LRB- neu -RRB-
+2.3
+- <2,5 µg/l
+<[Pseudo] 21/03/45>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+6.3 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+45 !H
+20 - 42 mmol/mol
+B-DATE
+mittlere Glucose
+134 !H
+- <110 mg/dl
+B-DATE
+TSH
+0.070 !L
+0,400 - 4,000 mU/l
+B-DATE
+FT3
+1.87 !L
+2,0 - 4,2 ng/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+FT4
+14.18
+8 - 18 ng/l
+B-DATE
+Thyreogl.AK
+14
+- <60 IU/ml
+B-DATE
+TRAK -LRB- stim. -RRB-
+<0.1
+- <0,1 IU/l
+B-DATE
+Mikr.AK -LRB- TPO -RRB-
+<5
+- <60 IU/ml
+B-DATE
+Calcitonin
+2.4
+- <8,4 pg/ml
+<[Pseudo] 21/03/45>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+70.2
+70 - 125 %
+<[Pseudo] 19/03/45>
+INR - ber.
+1.16
+- <1.2
+<[Pseudo] 19/03/45>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+33.0
+- <35 s
+<[Pseudo] 19/03/45>
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+7.00
+6,0 - 8,0
+<[Pseudo] 17/03/45>
+SpezGew/Tstr.
+1019
+1001 - 1035
+<[Pseudo] 17/03/45>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 17/03/45>
+Bili/Tstr.
+Schwach
+- neg.
+<[Pseudo] 17/03/45>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 17/03/45>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 17/03/45>
+Eiweiß/Tstr.
+30.00
+- neg. mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+4.0 !H
+- <2,0 mg/dl
+<[Pseudo] 17/03/45>
+Nitrit /Tstr.
+positiv
+- neg.
+<[Pseudo] 17/03/45>
+Leuko /Tstr.
+Ca 15
+- 0 Leuko /µl
+<[Pseudo] 17/03/45>
+Erys/µl
+6.0
+- <8 /µl
+B-DATE
+Leuko/µl
+7.0
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+2.00
+- <5 /µl
+<[Pseudo] 17/03/45>
+
+
+
+
+
+
+Zusammenfassung:
+Die Aufnahme des Patienten erfolgte bei akutem Myokardinfarkt -LRB- NSTEMI -RRB- . In der Koronarangiographie zeigte sich eine koronare 3-Gefäßerkrankung mit gutem Langzeitergebnis nach Stenting der RCA und hochgradiger Stenose der LCX. Es erfolgte die Intervention der LCX mittels PTCA und 2-fach Stentimplantation -LRB- DES -RRB- mit Recoiling der LCX und nicht möglicher Passage des Stents.
+
+Nach Intervention erfolgte die Aufnahme auf unsere Wachstation. Im Rahmen des stationären Aufenthaltes kam es in der Monitorüberwachung zur selbstterminierenden VHF-Episode, weshalb die Antikoagulation mit Xarelto begonnen wurde. Es erfolgte ein leitliniengerechtes Umloading auf Clopidogrel. Ticagrelor wurde abgesetzt.
+
+Bei Übernahme auf Normalstation zeigte sich ein kardiorespiratorisch stabiler und subjektiv beschwerdefreier Patient.
+
+Echokardiographisch zeigten sich ein normal großer, nicht hypertrophierter linker Ventrikel mit leichtgradig eingeschränkter systolischer Pumpfunktion bei globaler Hypokinesie, betont inferoseptal und inferior sowie ein kombiniertes Aortenvitium leichteren Schweregrades.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung mit ASS 100 mg 1x tägl. und Clopidogrel 75mg 1x tägl. sowie Xarelto 15mg 1xtäglich für 1 Monat. Danach Clopidogrel 75mg 1x täglich sowie Xarelto 15mg 1xtäglich bis einschließlich B-DATE Im Anschluss ist eine alleinige Antikoagulation mit Xarelto 20mg/Tag ausreichend.
+
+Es erfolgte der Nachweis einer Hyperthyreose im Labor. Die SD-Sonographie ergab keinen wegweisenden Befund. Eine Therapie mit Irenat wurde eingeleitet. Wir komplettierten die Schilddrüsendiagnostik. Hierbei zeigten sich die Antikörper unauffällig, wir bitten um weitere Abklärung der laborchemisch erhöhten Schilddrüsenwerte.
+
+Bei Fieber-Anstieg auf 38,4 erfolgte die Abnahme von Blut- und Urinkulturen sowie Initiierung einer antibiotischen Therapie mit Tazobac. Rö-Thorax sowie U-Status waren nicht wegweisend. Bei Anstieg der Infektwerte und erhöhtem PCT-Wert führten wir eine Oberbauchsonographie durch. Hierbei zeigte sich eine zentrale und periphere intrahepatische Cholestase, linksbetont, sowie ein diskreter Leberparenchymschaden. Zur Fokussuche sowie bei Verdacht auf Infekt des Stents bei Pankreaskarzinom führten wir
+zudem ein CT-Thorax/Abdomen durch. Hierbei zeigte sich eine Progredienz des bekannten Pankreaskarzinoms. Es zeigte sich kein sicherer Hinweis auf eine Pankreatitis. Klinisch zeigte sich keine Schmerzsymptomatik.
+
+In der peripheren Blutkultur wie auch im Uri-Kult zeigte sich Escherichia coli, in der Urinkultur zudem ein E. faecalis. Nach erneuter Rücksprache mit der Mikrobiologie und der Gastrologie führten wir die Antibiose antibiogrammgerecht mit Pip/Taz fort und gehen a.e. von einer Sepsis bei Harnwegsinfekt aus. Unter der Antibiose zeigten sich sowohl die Klinik als auch die laborchemischen Infektwerte deutlich rückläufig.
+
+Nach Rücksprache mit den B-SALUTE der Viszeralchirurgie -LRB- TITLE B-TITLE B-PER -RRB- ist die Operabilität des Pankreas-Ca bei Ummauerung der AMS nicht gegeben. Auch von einem Benefit durch eine Chemotherapie sei bei hohem Patientenalter nicht auszugehen. Wir empfehlen eine Anbindung an die bereits behandelnden B-SALUTE -LRB- ORG I-ORG -RRB- , ein Termin sei bereits für kommenden Montag vereinbart worden.
+
+Wir passten die Medikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf und ggf. eine weitere Anpassung der Therapie.
+
+Des Weiteren empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir verlegten den kardiorespiratorisch stabilen und beschwerdefreien Patienten zur weiteren antibiotischen Infekttherapie in das B-ORG I-ORG Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Therapieempfehlung von kardiologischer Seite:
+Xarelto 15mg 1-0-0 ab <[Pseudo] 18/03/2146> 20mg/d
+ASS 100mg 1-0-0 bis zum <[Pseudo] 16/04/2145>
+Clopidogrel 75mg 1-0-0 bis zum <[Pseudo] 17/03/2146>
+Bisoprolol 2,5 mg 1-0-0
+Bitte regelmäßige Kontrollen von Herzfrequenz und Blutdruck und ggf. Dosisanpassung im Verlauf
+Ramipril 10 mg 1-0-0
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Lercanidipin 10 mg 1-0-1
+Spironolacton 50mg 1-0-0
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Atorvastatin 40 mg 0-0-1
+Bitte regelmäßige Kontrollen von CK, Transaminasen und Lipiden und LDL-adaptierte Dosisanpassung nach aktuellen Leitlinien
+Pantoprazol 40mg 1-0-0
+Chinin 200mg 0-0-1
+Kalinor retard 600mg 2-2-2
+nach K+-Spiegel
+Kalium verla Beutel bei Bedarf
+nach K+-Spiegel
+Irenat Trp. 30-30-30
+Bis Euthyreose
+
+
+Piperacillin/Tazobactam 4,5mg 1-1-1 für insg. 10d. -LRB- bis <[Pseudo] 27/03/2145> -RRB-
+
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

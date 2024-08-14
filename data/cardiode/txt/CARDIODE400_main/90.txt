@@ -1,0 +1,390 @@
+Aufnahmedatum: <[Pseudo] 2489-10-08 >
+Geburtsdatum: <[Pseudo] 2045-04-24 >
+Alter: 444
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 24/04/2045> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Instabile Angina pectoris bei
+- Koronare 1-Gefäßerkrankung -LRB- HK vom <[Pseudo] 25/04/2130> B-OTHER -RRB- mit intermediärer Stenose der medialen LAD ohne Interventionsbedarf. Angiographisch gute LV-Funktion. Erhöhter LVEDP -LRB- 16 mmHg -RRB- .
+- Ausschluss akuter Myokardinfarkt
+
+Diagnosen:
+- Asympt. hochgr. Carotissiphonstenose rechts -LRB- Lt. MRT Befund, <[Pseudo] 09/07/2129> Radiol. Praxis I-ORG -RRB-
+- Z. n. konventioneller Thrombendarteriektomie und Patchplastik -LRB- Dacron, Hemagard, LOT-Nr. B-OTHER -RRB- der A. carotis interna und TEA der A. carotis communis und externa mit primärer Shuntinsertion in Intubationsnarkose am <[Pseudo] 12/09/2125> bei asymptomatischer, 80%iger Stenose der A. carotis interna links
+-UNK- Z. n. postoperativer Heiserkeit
+- Asymptomatische, hämodynamisch nicht relevante kalzif. Abgangsplaque der A. carotis interna, rechts
+- Degenerative WS- Beschwerden, Spinalkanalstenose
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie, kein Nikotinabusus
+
+Allergien:
+Ultracain anamnestisch Lippenschwellung beim Zahnarzt
+
+Anamnese:
+Die Aufnahme auf unsere Station erfolgte über unsere B-ORG als Einweisung durch die Hausärztin bei AP Beschwerden und Schwindel. Anamnestisch bestehe seit langem Schwindel bei bekannter hochgradiger Karotisstenose. Seit 3 Wochen nun ca. 4x starke Schwindelattacken -LRB- Drehschwindel -RRB- begleitet von starken Palpitationen und einem Engegefühl in der Brust stets aus der Ruhe heraus für ca. 30 Minuten anhaltend, hierbei habe sie mehrfach einen niedrigen Blutdruck um die 80 mmHg systolisch gemessen. Keine kardiale Vorgeschichte.
+
+Medikation bei Aufnahme:
+ASS 100 mg 1-0-0
+Ramipril 10 mg 1-0-0
+Amlodipin 5 mg 1-0-0
+Allopurinol I 100 mg 1-0-0
+Oxycodon 40 mg 1-0-1/2
+Bisoprolol /HCT 10/25 1-0-0
+Rosuvastatin 10 mg 1-0-0
+Macrogol 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+155 cm 65 kg
+HF: 62/min, regelmäßig
+RR: 146 / 80 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o. B.
+HT: rein, keine path. Geräusche
+Lunge: o.B.
+Abdomen: weich, kein DS, keine Resist
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: o. B.
+Neurologischer Status: orientierend o. B.
+sonstige Auffälligkeiten: keine
+
+Labor:
+Ruhe-EKG vom <[Pseudo] 22/05/2130:>
+Rhythmus: Sinusrhythmus, Herzfrequenz: 110/min, Lagetyp: Linkstyp, QRS-Komplex: normal, ST-Strecke: normal, T-Welle: normal.
+
+Ruhe-EKG vom <[Pseudo] 24/06/2130:>
+Bradykarder Sinusrhythmus, regelmäßig, 49/min, Links-typ. PQ 146msec, QRS 96msec., QTc 454 msec. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V2/V3. Präterminales T in V1,2. Ansonsten keine signifikanten Kammerendteilveränderungen.
+
+Langzeit-EKG vom B-DATE
+Bradykarder Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 41/min und 108/min, im Mittel 56/min. Normale Herzfrequenzvariabilität. Einige supraventrikuläre Extrasystolen, z.T. auch repetitiv und als atriale Salven -LRB- längste über 4 Schläge mit 118/min -RRB- . Keine Pausen. Einige polymorphe ventrikuläre Extrasystolen. Lown III a.
+
+Ruhe-EKG vom <[Pseudo] 25/06/2130:>
+Bradykarder Sinusrhythmus, regelmäßig, 51/min, Links-typ. PQ 131msec, QRS 969msec., QTc 404 msec. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Präterminales T in V2,3. Ansonsten keine signifikanten Kammerendteilveränderungen.
+
+Virologischer Befund vom <[Pseudo] 22/06/2130> -LRB- Chest-Pain-Unit -RRB- :
+
+
+Virologischer Befund vom <[Pseudo] 23/06/2130> -LRB- Chest-Pain-Unit -RRB- :
+
+
+Herzkatheteruntersuchung -LRB- HK-Nr. B-OTHER -RRB- vom <[Pseudo] 23/06/2130> Endbefund:
+Diagnosen:
+Herzkatheteruntersuchung bei V.a. relevante KHK. Koronare 1-Gefäßerkrankung mit intermediärer Stenose der medialen LAD ohne Interventionsbedarf. Angiographisch gute LV-Funktion. Erhöhter LVEDP -LRB- 16 mmHg -RRB- .
+Sonstige relevante Vordiagnosen:
+Asymptomatische hochgradige Carotissiphonstenose bds.; Z. n. konventioneller Thrombendarteriektomie und Patchplastik A. carotis interna und TEA der A. carotis communis und externa mit primärer Shuntinsertion am <[Pseudo] 12/09/2125> links
+CvRF: Arterielle Hypertonie, Hypercholesterinämie
+Allergien: Ultracain anamnestisch Lippenschwellung beim Zahnarzt
+Maßnahmen:
+- Konservativ bezüglich der Koronarien
+- Medikamentöse Einstellung des Blutdrucks
+- Anamnestisch V.a. VHF als Genese. Daher Empfehlung zu 3 LZ-EKG im ambulanten Bereich
+
+Angiologische Verlaufskontrolle nach Femoralispunktion rechts vom <[Pseudo] 24/06/2130:>
+Lokalbefund:
+Punktionsstelle reizlos, flächiges Hämatom im Bereich der Punktionsstelle. Leistenpuls palpabel, Füße bds. warm und rosig.
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Deutlich reduzierte Schallbedingungen mit eingeschränkter Beurteilbarkeit. Nachweis einer Flussbeschleunigung in der AFC -LRB- bis ca. 300cm/s -RRB- , in der AIE -LRB- ca. 200cm/s -RRB- mit Hinweis auf eine Stenosierung. Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden. Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+Procedere:
+- V.a. Stenosierung der AIC rechts, bei jedoch eher atypischer Claudicatio Symptomatik
+- Soweit einsehbar kein Hinweis auf ein Aneurysma spurium
+- Bei Claudication Symptomatik erweiterte angiologische Abklärung im Verlauf
+
+Echokardiographie vom <[Pseudo] 23.06.> B-DATE:
+Bemerkungen: Deutlich reduzierte Schallbedingungen, insbesondere von apikal.
+Beurteilung:
+Soweit beurteilbar normal großer, septal betont leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne sicher abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Hypermobiles Vorhofseptum. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 30mmHg -RRB- . Erstbefund in domo.
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme der Patientin erfolgte über die B-ORG bei o.g. Krankheitsbild. Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 10 pg/ml, im Verlauf stabil bei 8 pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig -RRB- . Das NT-pro-BNP fand sich altersadjustiert leicht erhöht. Einen akuten Myokardinfarkt konnten wir als Ursache der Symptomatik ausschließen. Bei suggestiver Beschwerdesymptomatik und kardiovaskulärem Risikoprofil erfolgte eine stationäre Aufnahme auf B-ORG I-ORG zur weiteren Diagnostik.
+
+In der am <[Pseudo] 23/06/2130> durchgeführten Herzkatheteruntersuchung zeigte sich eine koronare 1-Gefäßerkrankung mit intermediärer Stenose der medialen LAD ohne Interventionsbedarf und guter LV-Funktion. Bei erschwerter Punktion der Leiste erfolgte eine angiologische Kontrolle, soweit einsehbar ergab sich hier kein Hinweis auf ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle. In der Kontrolluntersuchung wurde der V.a. eine Stenosierung der AIC rechts bei jedoch eher atypischer Claudicatio Symptomatik gestellt. Wir empfehlen eine erweiterte ambulante angiologische Abklärung im Verlauf.
+
+Bzgl. der Koronarien empfehlen ein konservatives Procedere. Insbesondere sollte die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie erfolgen
+
+Echokardiographisch zeigte sich ein normal großer, septal betont leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion. Es ergab sich kein Hinweis auf höhergradige Klappenvitien.
+
+Bei Angabe von Palpitationen und V.a. auf Vorhofflimmern erfolgte eine Langzeit-EKG-Untersuchung, hier zeigte sich ein bradykarder Sinusrhythmus als Grundrhythmus mit Frequenzen im Mittel bei 56/min ohne Pausen. Es zeigten sich einige supraventrikuläre Extrasystolen -LRB- atriale Salven, längste über 4 Schläge mit 118/min -RRB- und einige polymorphe ventrikuläre Extrasystolen, entsprechend Lown III a. Höhergradige Herzrhythmusstörungen konnten ausgeschlossen werden. Wir empfehlen 2 weitere Langzeit-EKG-Messungen im ambulanten Bereich durchzuführen.
+
+Abschließend erachten wir eine neurologische ambulante Vorstellung bei anamnestischer Angabe von rez. Schwindel/ Schwindelattacken im Verlauf als sinnvoll.
+
+Medikation bei Entlassung:
+ASS 100 mg 1-0-0
+Ramipril 10 mg 1-0-0
+Amlodipin 5 mg 1-0-0
+Allopurinol I 100 mg 1-0-0
+Oxycodon 40 mg 1-0-1/2
+Bisoprolol /HCT 10/25 1-0-0
+Rosuvastatin 10 mg 1-0-0
+Macrogol 1-0-0
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der ORG
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir empfehlen eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen die Patientin heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärztin
+
+
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 22/06/2130> und dem <[Pseudo] 24/06/2130>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.73
+4 - 10 /nl
+B-DATE
+Hb
+12.5
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.0
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.370
+0,36 - 0,47 l/l
+B-DATE
+MCV
+92
+83 - 97 fl
+<[Pseudo] 24/06/30>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 24/06/30>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 24/06/30>
+RDW
+14.2
+12,9 - 18,7 %
+<[Pseudo] 24/06/30>
+hypochr.Erythroz.
+2.7 !H
+0 - 2 %
+<[Pseudo] 24/06/30>
+Thrombozyten
+283
+150 - 440 /nl
+<[Pseudo] 24/06/30>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+141
+135 - 146 mmol/l
+<[Pseudo] 24/06/30>
+Kalium -LRB- ISE -RRB-
+4.91
+3,4 - 5,0 mmol/l
+<[Pseudo] 24/06/30>
+Kreatinin
+0.97
+0,5 - 1,4 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+38
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+53.4 !L
+>60 s.u.
+<[Pseudo] 24/06/30>
+MDRD
+71.27
+ml/min/1,73qm
+<[Pseudo] 23/06/30>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+45.2
+30 - 50 g/l
+B-DATE
+Glucose
+125 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+15
+- <37 U/l
+B-DATE
+GPT/ALT
+9
+- <35 U/l
+B-DATE
+Ges.Bili.
+0.40
+- <1.0 mg/dl
+B-DATE
+Triglyceride
+118
+- <150 mg/dl
+B-DATE
+Cholesterin
+178.0
+- alt.abh. mg/dl
+<[Pseudo] 23/06/30>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+90
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+64
+>50 mg/dl
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 23/06/30>
+Hämolyse
+-
+
+<[Pseudo] 24/06/30>
+ikterisch
+-
+
+<[Pseudo] 24/06/30>
+Lipämie
+-
+
+<[Pseudo] 24/06/30>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+210
+- <301 U/l
+B-DATE
+CK
+65
+- <170 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+12.4
+- <14 pg/ml
+B-DATE
+NT-BNP
+587 !H
+- <450 ng/l
+<[Pseudo] 23/06/30>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.5
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+37
+20 - 42 mmol/mol
+<[Pseudo] 23/06/30>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+111 !H
+- <110 mg/dl
+B-DATE
+TSH
+2.46
+0,400 - 4,000 mU/l
+<[Pseudo] 23/06/30>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+110.9
+70 - 125 %
+<[Pseudo] 23/06/30>
+INR - ber.
+0.98
+- <1.2
+<[Pseudo] 23/06/30>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+22.2
+- <35 s
+B-DATE

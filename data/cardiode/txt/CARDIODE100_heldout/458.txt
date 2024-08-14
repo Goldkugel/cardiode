@@ -1,0 +1,107 @@
+Aufnahmedatum: <[Pseudo] 2480-12-14 >
+Geburtsdatum: <[Pseudo] 2043-12-08 >
+Alter: 437
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 08/12/2043> wh. B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Verlaufskontrolle nach transfemoraler Aortenklappenimplantation am <[Pseudo] 12/01/2127>
+-UNK- Regelrechte Position und Funktion der Klappenprothese
+-UNK- Leichtgradige Randleckage ohne relevante Stenosewirkung
+-UNK- Echokardiographisch noch gute linksventrikuläre Funktion -LRB- LV-EF 55% -RRB-
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Erfolgreiche transfemorale Aortenklappenimplantation -LRB- Edwards, 29mm -RRB- am <[Pseudo] 12/01/2127> bei kombiniertem Aortenklappenvitium mit führender hochgradiger Stenose -LRB- B-OTHER -RRB- , postinterventionell AI < I°
+- Koronare 3-Gefäßerkrankung mit hochgradigen Stenosen der proximalen LCX, LAD hochgradig stenosiert direkt nach Abgabe von RD2, gutes Langzeitergebnis nach PTCA/Stentimplantation der RCA mit leichtgradiger Stenose In-Stent bei global mittelgradig eingeschränkte linksventrikuläre Pumpfunktion
+-UNK- Hochgradige Aortenklappenstenose mit KÖF 0,6 cm2. PPG 45 mmHg. PE Ausschluss nach transseptaler Punktion erfolgte -LRB- B-OTHER vom <[Pseudo] 22/11/2126> -RRB-
+-UNK- Z. n. PTCA/2x DE-Stentimplantation der LCX bei schwer verkalkter, langstreckiger Läsion der LCX, distales Ende der LCX weiterhin hochgradig stenosiert -LRB- B-OTHER vom <[Pseudo] 25/11/2126> -RRB-
+- Erfolgreiche PTCA/1x DES Implantation der distalen LCX bei residueller Dissektion, gutes Kurzzeitergebnis nach PTCA/DES der medialen LCX. Erfolgreiche PTCA/2xDES der medialen LAD bei hochgradiger Stenose -LRB- B-OTHER vom <[Pseudo] 29/11/2126> -RRB-
+-UNK- Z. n. NSTEMI <[Pseudo] 12/2125> 6-fach DE-Stentimplantation der RCA -LRB- B-ORG I-ORG -RRB-
+-UNK- Z. n. Myokardinfarkt <[Pseudo] 2099>
+- Echokardiographie vom <[Pseudo] 21/07/2127>
+-UNK- Regelrechte Position und Funktion der Klappenprothese
+-UNK- Echokardiographisch noch gute linksventrikuläre Funktion -LRB- LV-EF 55% -RRB-
+-UNK- Leichtgradige Mitralklappeninsuffizienz
+- Leichtgradiges Aortenaneurysma der Aorta ascendens
+- Bronchialkarzinom, ED <[Pseudo] 04/2126>
+-UNK- Lokalisation: zentral links, initiales Tumorstadium: cT3 cN2 cM1a Stadium IVa V.a. PET-positive Rundherde bipulmonal, keine histologische Sicherung möglich
+-UNK- Palliative Radiatio
+-UNK- Lungenmetastasen und pleurale Verdichtung
+-UNK- Malignom bioptisch bisher nicht gesichert aufgrund der DAPT
+-UNK- CCT: Raumforderung 4,5 cm mit hochgradiger Stenosierung des Lingulabronchus mit geringer Minderbelüftung, keine weiteren pulmonale Rundherde, konstante mehrere narbige Konsolidierungen bds., keine mediastinale/hiläre Lymhadenopathie
+- Z. n. linksseitiger Hemikolektomie bei Sigmakarzinom <[Pseudo] 2122>
+- Glaukom bds.
+- Asbestose
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Diabetes mellitus, Hypercholesterinämie, Ex- Nikotinkonsum -LRB- kumulativ 37 PY -RRB-
+Allergien: Keine bekannt
+
+Anamnese:
+Die ambulante Vorstellung erfolgte zur kardiologischen Verlaufskontrolle bei Z.n. TAVI B-DATE. Im Alltag bestünde eine gute Belastbarkeit ohne inadäquate Belastungsdyspnoe nach 2-3 Etagen Treppensteigen -LRB- NYHA I -RRB- . Es bestünden keine belastungsabhängigen und -unabhängigen pectanginösen Beschwerden.
+Schwindel sei gelegentlich seit längerer Zeit vorbekannt. Palpitationen sowie stattgehabte Synkopen werden auf gezielte Nachfrage verneint. Es bestünde eine Nykturie bei ca. 2-3 Miktionen pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Häusliche Blutdruckmessungen erfolgen nicht. Aktuell keine Infektzeichen. Subjektiv bestünde seit der TAVI-Versorgung ein deutlich verbesserter kardialer Verlauf.
+
+Aktuelle Medikation:
+ASS 100 mg 1-0-0, dauerhaft
+Bisoprolol 2,5 mg 1-0-0
+Empagliflozin 10 mg 1-0-0
+Atorvastatin 40 mg 0-0-1
+Tamsulosin 0,4 mg 1-0-0
+Metformin 500 mg 1-0-1
+Vigantoletten 1000 I. E. 1-0-0
+Ferrosanol duodenal 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 182cm 82kg
+HF: 76 /min, regelmäßig
+RR: 120/70mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kein fokal neurologisches Defizit
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+Pulsstatus: o.p.B.
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, HF 76/min, steil-typ. PQ 189ms, QRS 108ms, QTc 419ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Transthorakale Echokardiographie:
+Noch normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion bei A-/Dyskinesie inferior mediobasal sowie dyskoordinierten Septumbewegungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA leicht dilatiert, RA und RV normal groß, gute RV-Funktion. Kein relevanter Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Klappenprothese in Aortenposition sonographisch regelrecht, dopplersonographisch noch
+leichtgradige Randleckage, keine relevante Stenosewirkung nachweisbar. Mitralkappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist nicht ableitbar.
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 13/01/2127:> keine wesentliche Befundänderung.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur kardiologischen Verlaufskontrolle bei Z.n. TAVI B-DATE.
+Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Echokardiographisch sahen wir eine noch gute linksventrikuläre Pumpfunktion bei A-/Dyskinesie inferior mediobasal sowie dyskoordinierten Septumbewegungen. Die Klappenprothese in Aortenposition zeigte sich sonographisch regelrecht, dopplersonographisch noch leichtgradige Randleckage ohne relevante Stenosewirkung. Bis auf eine leichtgradige Mitralklappeninsuffizienz zeigten sich die übrigen Klappen regelrecht. Die VCI war nicht gestaut. Im Vergleich zur Voruntersuchung vom <[Pseudo] 13/01/2127> sahen wir keine wesentliche Befundänderung.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem guten Ergebnis nach TAVI aus und empfehlen die Fortführung der konservativen Therapie.
+
+Wir empfehlen zudem die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien und nach Möglichkeit die regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten beispielsweise in Form von B-ORG I-ORG Radfahren, Schwimmen, Tanzen oder Ergometertraining.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen, sowie die regelmäßige hausärztliche Vorstellung. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen - in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung:
+ASS 100 mg 1-0-0 dauerhaft
+Bisoprolol 2,5 mg 1-0-0
+Empagliflozin 10 mg 1-0-0
+Atorvastatin 40 mg 0-0-1 Ziel-LDL <55 mg/dl
+Tamsulosin 0,4 mg 1-0-0
+Metformin 500 mg 1-0-1
+Vigantoletten 1000 I. E. 1-0-0
+Ferrosanol duodenal 1-0-0
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Zur Endokarditisprophylaxe empfehlen wir lebenslang eine gute Mundhygiene und regelmäßige zahnärztliche Kontrollen. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o. oder i.v. -RRB- oder bei Penicillinallergie mit Ampicillin und Clindamycin -LRB- 600 mg p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen.
+
+Wir danken für die Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen,
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

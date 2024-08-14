@@ -1,0 +1,265 @@
+Aufnahmedatum: <[Pseudo] 2039-08-26 >
+Geburtsdatum: <[Pseudo] 1986-01-29 >
+Alter: 53
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 29/01/1986> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Kardiale Dekompensation mit akutem Nierenversagen
+-UNK- Differenzierte Katecholamintherapie mit Dobutamin vom <[Pseudo] 26.08.> - dato
+-UNK- Kontinuierliche i.v. Furorese v. <[Pseudo] 20/08/39> - <[Pseudo] 29/08/39>
+-UNK- Ausgeprägte Hypotonie mit rezidivierenden Synkopen
+- Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 01/09/2039> -RRB- : Erhöhte Drücke im kleinen Kreislauf -LRB- 50/30/40 mmHg -RRB- , erhöhter PCWP -LRB- 30mmHg -RRB- , V-Welle deutlich erhöht ca. 40mmHg. Leicht erhöhter pulmonaler Gefäßwiderstand -LRB- 163 dyn.s.cm^-5 -RRB- . Gemischtvenöse Sättigung 48% und Cardiac Index 2,46l/min/m² reduziert. Rechtsherzkatheter unter Dobutamin-Perfusor 0,05mg/h -RRB- .
+
+- Bakteriämie mit E. coli bei Z.n. Polypektomie
+-UNK- Blutkulturen v. B-DATE: Nachweis v. multisensiblem E. coli
+-UNK- Antibiogrammgerechte Antibiose mit Tazobac v. <[Pseudo] 23.08.> bis einschließlich <[Pseudo] 30/08/2039>
+-UNK- BK v. <[Pseudo] 01.09.> -LRB- Antibiosefrei -RRB- : Staphylococcus haemolyticus und Enterococcus faecium
+-UNK- Antibiogrammgerechte Antibiose mit Tazobac vom <[Pseudo] 02/09/2039> - dato
+-UNK- Antibiogrammgerechte Antibiose mit Vancomycin vom <[Pseudo] 02/09/2039> - dato
+- V.a. Inflammatorisches teilthrombosiertes infrarenales AAA mit Durchmesser von 5,2 cm axial und coronar sowie 5,0 cm sagittal
+-UNK- Autoimmunologisches Screening
+-UNK- ANA: 1:320 -LRB- ICAP ANA1: AC 4-5 -RRB-
+-UNK- ANCA: 1:32 -LRB- Muster: pANCA -RRB-
+-UNK- Kryoglobuline: negativ
+-UNK- C3, C4: normwertig
+-UNK- Il-6: 545 pg/ml -LRB- Bei Bakteriämie -RRB-
+-UNK- Serumelektrophorese: unauffällig
+-UNK- Urinsediment: unauffällig
+-UNK- Rheumatologisches Konsil: A.e. kein inflammatorisches Aneurysma -LRB- B-TITLE B-PER -RRB-
+-UNK- Infektiologisches Screening:
+-UNK- Hepatitis: negativ
+-UNK- Lues-Screening: negativ
+-UNK- Aktuell konservatives Procedere, ad Verlaufskontrolle in 6 Monaten empfohlen
+
+- MRSA-Kontaktpatient am <[Pseudo] 20/08/2039>
+-UNK- Nasenabstrich v. B-DATE, <[Pseudo] 22/08/39> und <[Pseudo] 23/08/39:> negativ
+
+- Abtragung von 2 kleinen Polypen, je 1 im C. ascendens und 1 im C. transversum -LRB- Koloskopie v. <[Pseudo] 22/08/2039> -RRB-
+-UNK- Histopathologie: Am hier vorliegenden Material keine höhergradigen Epitheldysplasien, kein Karzinomnachweis
+
+- Z.n. Zahnextraktion durch Osteotomie, Modellierung des Alverolarkamms durch Alveolotimue, partielle Resektion des Alveolarkamms im Oberkiefer
+-UNK- Oberkiefer Zähne 16 -LRB- MAV+ -RRB- , 15, 14, 23, 24, 26, 27 -LRB- MAV + -RRB-
+-UNK- Unterkiefer Zähne 34, 33, 44, 45
+
+- Listungsevaluation:
+-UNK- Bekannte Koronare 3-Gefäßerkrankung -LRB- B-OTHER vom <[Pseudo] 17/08/2039> -RRB-
+-UNK- RCA bekannt verschlossen, kollateralisiert. über LCA
+-UNK- Hochgradige mittlere LAD Stenose, ohne sinnvollem Interventionsansatz bei Dyskinesie und Aneurysma der Vorderwand.
+-UNK- Lima ad RPLS offen
+-UNK- Leicht erhöhte Drücke im kleinen Kreislauf -LRB- 38/28/32 mmHg -RRB- , erhöhter PCWP ~28 mmHg, normaler PVR -LRB- 96 dyn*sek*cm-5 -RRB- , erhöhter ZVD ~20 mmHg, zentralvenöse Sättigung 51 %, Cardiac Index: 1,66 l/min/m²
+-UNK- Höchstgradig eingeschränkte LV-Funktion -LRB- Echokardiographie <[Pseudo] 06/2039> -RRB-
+-UNK- FEV 1 2,8 l/s , keine Obstruktion -LRB- Lungenfunktion vomB-DATE -RRB-
+-UNK- Hochgradig eingeschränkte kardiopulmonale Leistungsfähigkeit -LRB- Vo2max 7,2 ml/min/kg -RRB-
+
+Diagnosen:
+- Ischämische Kardiomyopathie
+- Z.n. kardialer Dekompensation <[Pseudo] 06/2039> mit Levosimendangabe Alb I-ORG Kliniken
+- Koronare 3-Gefäßerkrankung, HK- am <[Pseudo] 01/10/2037> -LRB- B-ORG I-ORG B-LOC -RRB-
+- RCA: proximal bekannte CTO, Kollateralen von der LCA zur peripheren RCA
+- RIVA: gutes LZ-Ergebnis nach Stent <[Pseudo] 2028> -LRB- Infarkt -RRB-
+- RCX: PTCA/DE-Stentimplantation einer prox. 90%RCX-Stenose
+- Kräftiger Posterolateralast, ostial ansatzlos verschlossen
+- Offene RIMA als Verlängerung zur LIMA auf dem RPLS
+- Z.n. Bypass-Operation <[Pseudo] 2028> -LRB- RBK B-LOC -RRB-
+- Z.n. Vorderwandinfarkt <[Pseudo] 01/2029>
+
+- Z.n. CRT-D Aufrüstung <[Pseudo] 05/08/2038> -LRB- B-OTHER -RRB- B-ORG I-ORG
+- Z.n. 1-Kammer-ICD-Implantation <[Pseudo] 2028> -LRB- B-OTHER -RRB-
+- Z.n. Reanimation <[Pseudo] 02/2039> ohne ICD Schockangabe a.e. bei Slow VTs
+- Adäquate Schockabgabe bei fast VTs am <[Pseudo] 05/06/2039> -LRB- B-LOC -RRB-
+- Z.n. fast VT -LRB- 221/min -RRB- am <[Pseudo] 29/09/2037> mit erfolgreicher ICD-Schockabgabe
+
+Kardiovaskuläre Risikofaktoren: Dyslipoproteinämie, sistierter Nikotinkonsum seit <[Pseudo] 02/2039> -LRB- kumulativ ca. 25 py, pathologische Glukosetoleranz, Seltener Alkoholkonsum
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+Anamnese:
+
+Die initiale stationäre Aufnahme erfolgte elektiv zur Herzkatheter Untersuchung bei bestehender Atemnot. Der Patient beklagt Belastungsdyspnoe. Auf gezielte Nachfrage: Keine Pektanginöse Beschwerden. Er hat eine ausgeprägte Belastungsdyspnoe -LRB- analog NYHA III -RRB- , Schwindel im Liegen, 3x Synkope in den letzten 2 Wochen , keine Palpitationen. Es bestehen aktuell nach Torasemid Einnahme keine periphere Ödeme bei Gewichtszunahme von 78 kg auf 85 kg in 1 Monat. Nykturie bestehe 1 x -mal pro Nacht bei einer Trinkmenge von 2 l/d. Die häuslich gemessenen Blutdruckwerte seien um 100/74 mmHg.
+
+Es bestehen kardiale Dekompensationen in der Vorgeschichte, kardialer Dekompensation <[Pseudo] 06/2039> mit Levosimendangabe I-ORG I-ORG Kliniken. In den letzten 6 Wochen und bei Aufnahme kein Anhalt für einen Infekt -LRB- keine Dysurie, kein Fieber, kein Husten, kein subjektives Krankheitsgefühl -RRB- .
+B-SALUTE B-PER versichert explizit, seit <[Pseudo] 02/2039> nicht weiter zu rauchen.
+Bei Übernahme auf Station ORG hypotoner, normofrequenter allerdings oligosymptomatischer Patient.
+
+Medikation bei Aufnahme:
+ASS 100 mg 0-1-0
+Amiodaron 200mg 1-0-0
+Entresto 24/26mg 1-0-1
+Eplerenon 25 mg 1-0-0
+Empagliflozin 10mg 1-0-0
+Torasemid 200 mg -UNK- -0-0
+Rosuvastatin 10 mg 0-0-1
+Körperlicher Untersuchungsbefund:
+
+AZ: gut
+EZ: gut -LRB- Größe 174 cm, Gewicht 86 kg, BMI: -RRB-
+HF: 70/min, regelmäßig
+RR: 90/70 mmHg
+Keine Zyanose, keine Anämiezeichen, Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, 2/6 mit P.m. über Erb
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: unauffällig
+Neurol. Status: unauffällig
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+Durchgehende atriale und ventrikuläre Schrittmacherstimulation mit konsekutiven Kammerendteilveränderungen. Herzfrequenz 70/min.
+
+Transthorakale Echokardiographie vom <[Pseudo] 30/08/2039:>
+Dilatierter linker Ventrikel mit hochgradig verminderter systolischer Pumpfunktion bei Akinesie des gesamten Apex, inferior, inferolateral sowie Hypokinesie der übrigen Wandabschnitte. Verminderte longitudinale Funktion. Hinweis auf diastolische LVDysfunktion. LA deutlich dilatiert, RA und RV leicht dilatiert, noch erhaltene RV-Funktion. V. cava inferior eingeschränkt atemvariabel. Im Vergleich zur Voruntersuchung vom <[Pseudo] 03/08/2039:> Zunahme des PA-Drucks, Zunahme der VCI.
+
+Pathologisch-anatomische Begutachtung mit kritischer Stellungnahme vom <[Pseudo] 30/08/2039:>
+Diagnose:
+Die makroskopische und histologische Begutachtung ergibt:
+1.-2. Jeweils Dickdarmmukosa -LRB- Colon ascendens bzw. Colon transversum -RRB- mit Anteilen eines oder mehrerer tubulärer Adenome mit geringgradigen Epitheldysplasien -LRB- low grade IEN -RRB- . Bei fragmentierter Materialübersendung kann am hier vorliegenden Material keine Aussage zur Vollständigkeit der lokalen Abtragung gemacht werden. Am hier vorliegenden Material keine höhergradigen Epitheldysplasien, kein Karzinomnachweis.
+
+Gefäßboard vom <[Pseudo] 31/08/2039:>
+Name
+Vorname
+Station
+Geb.-Datum
+Eingetragen durch
+Baumann
+B-PER
+HI-Wach
+<[Pseudo] 29/01/1986>
+Linden
+Wesentliche Diagnosen
+Indikation / Symptomatik
+Schwere Herzinsuffizienz, ad LVAD
+Aortananeurysma -LRB- inflammatorisch, DD infektiös -RRB-
+Bzgl AAA asymptomatisch
+FDS
+Wunddoku
+Angiographie
+MRT / CT
+
+
+
+<[Pseudo] 18/08/2039>
+Fragestellung an Gefäßboard
+Empfehlung des Gefäßboard
+Indikation zur LVAD-Versorgung besteht- Interdisz. Diskussion der Optionen -LRB- Diskussion gemeinsam mit B-TITLE I-TITLE B-PER / HCH -RRB-
+- Ad LVAD.
+- Konservativ bzgl. AAA, Kontrolle in 6 Monaten.
+
+Abdomensonographie vom <[Pseudo] 31/08/2039:>
+Die Leber misst im größten kraniokaudalen Durchmesser 15 cm. Der Leberrand ist spitz. Die Echodichte ist
+unauffällig, die Struktur ist homogen. Raumforderungen sind nicht abzugrenzen. Die Lebervenen sind bis auf 1,24
+cm verbreitert und damit a.e. gestaut. Sie sind offen perfundiert. Die Pfortader ist orthograd undulierend
+perfundiert. Doie V. cava ist bis 2,4 cm verbreitert, nicht atemvariabel.
+Die Gallenblase stellt sich post-prandial teilkontrahiert dar. DIe Gallenblasenwand ist verdickt, allerdings
+post-prandial nicht sicher beurteilbar. Soweit einsehbar sind keine Konkremente nachzuweisen. Die
+intrahepatischen Gallengänge sind nicht dilatiert. Der Ductus Choledochus ist normal weit.
+Die Milz misst 9,7 x 3,5 cm. Das Echomuster ist homogen. Die V. lienalis ist nicht erweitert.
+Das Pankreas ist bei Darmgasüberlagerung nicht einzusehen.
+Beide Nieren erscheinen in Form, Größe und Lage altersentsprechend.
+Keine freie abdominelle Flüssigkeit.
+Beurteilung:
+-UNK- verdickte Gallenblasenwand, sonographische Nüchtern-Verlaufskontrolle empfohlen
+-UNK- konstanter sonographischer OB-Befund zur Voruntersuchung vom <[Pseudo] 17/08/39>
+
+PSM Konsil vom <[Pseudo] 31/08/2039:>
+Psychosomatischer Folgekontakt, Vervollständigung zur HTx bzw. LVAD Evaluation: Gespräch über LVAD, Notwendigkeit, dass der Pat. die Driveline beachtet, auf Hygiene achten, sich bei Infekt rechtzeitig vorstellt. Hinsichtlich der Compliance gibt es keine Hinweise auf Probleme mit dem Pat., daher aus psychosomatischer Sicht keine Kontraindikation gegen ein LVAD. Bei Bedarf gerne Re-Konsil anmelden, sollte der Pat. Gesprächsbedarf haben.
+
+Konsiliarbericht Gefäßchirurgie vom <[Pseudo] 31/08/2039:>
+Diagnose:
+Asymptomatisches infrarenales AAA, max. Durchmesser 53 mm
+Befund:
+
+In CTA von B-DATE infrarenales AAA, max. Durchmesser 53 mm ohne Anzeichen einer Ruptur.
+Therapie:
+
+Leitliniengerecht sonographische Kontrollen in 3-6monatigen Abständen, bei Erreichen eines Durchmessers von 55 mm bitte Vorstellung in der B-ORG I-ORG zur Besprechung einer operativen Therapie, dann aufgrund der ausgeprägten Vorerkrankungen am ehesten endovaskuläre Therapie.
+
+Herzkatheteruntersuchung vom <[Pseudo] 01/09/2039> -LRB- B-OTHER -RRB- :
+Rechtsherzkatheteruntersuchung im Rahmen der HTX-Evaluation
+
+Erhöhte Drücke im kleinen Kreislauf -LRB- 50/30/40 mmHg -RRB- , erhöhter PCWP -LRB- 30mmHg -RRB- , V-Welle deutlich erhöht ca. 40mmHg. Leicht erhöhter pulmonaler Gefäßwiderstand -LRB- 163 dyn.s.cm^-5 -RRB- . Gemischtvenöse Sättigung 48% und Cardiac Index 2,46l/min/m² reduziert. Rechtsherzkatheter unter Dobutamin-Perfusor 0,05mg/h -RRB- .
+
+Sonstige relevante Diagnosen:
+Ischämische Kardiomyopathie und Z.n. Bypass-Operation <[Pseudo] 2028> -LRB- B-ORG -RRB-
+Z.n. Vorderwandinfarkt <[Pseudo] 01/2029>
+Z.n. CRT-D <[Pseudo] 05/08/2038>
+CVRF: Dyslipoproteinämie, Z. n. Nikotin
+
+Transösophageale Echokardiographie vom <[Pseudo] 05/09/2039:>
+Soweit beurteilbar bei deutlich reduzierten Schallbedingungen: Kein Nachweis auffälliger Strukturen an den Klappen und an der Elektrode. Kein Nachweis intrakardialer Thromben. Erhaltene Flussgeschwindigkeiten im linken Vorhofohr. Kein Nachweis eines persistierenden Foramen ovale. Thrombogener Aortenbogen Grad I, ansonsten Aorta ascendens, Bogen und descendens - soweit einsehbar - regelrecht. TEE-Erstbefund in domo.
+
+Schrittmacherabfrage vom <[Pseudo] 06/09/2039:>
+Regelrechte CRT-D-Kontrolluntersuchung. Messwerte stabil. Batteriestatus gut -LRB- 3,10V; Ladezeit
+9,1s bis 40J -RRB-
+Keine neuen Episoden seit der letzten Abfrage. AP 49%, bivP 99%. Regelrechtes
+Herzfrequenzhistogramm. Keine Umprogrammierung erforderlich.
+Wiedervorstellung zur nächsten CRTD-Kontrolluntersuchung nach Maßgabe Station Kardio-Intensiv.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 07/09/2039:>
+Bei einliegendem ZVK links eingeschränktes Schallfenster, Verlauf der ACI und ACE links nicht vollständig darstellbar.
+
+Beidseitig leichtgradige Plaquebildung im Bulbusbereich sowie an den Gefäßabgängen -LRB- r>l -RRB- , ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet.
+
+IMD rechts 0,08 cm, links 0,09 cm.
+Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar.
+NB: ZVK in linker V. jugularis interna.
+
+Im Vergleich zum Vorbefund des <[Pseudo] 23/08/2039:> Keine wesentliche Befundänderung
+Labor:
+
+
+Siehe ISH
+Zusammenfassung:
+
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur Evaluation einer Listung zur Herztransplantation bei hochgradig eingeschränkter Pumpfunktion aufgrund einer ischämischen Kardiomyopathie. Mit zuletzt mehrfachen kardialen Dekompensationen und deutlicher Belastungseinschränkung analog NYHA III.
+
+Wir initiierten die standardmäßigen Listungsuntersuchungen. In einer initialen hämodynamischen Aufarbeitung wurde in der Rechtsherzkatheteruntersuchung ein leicht erhöhter Druck im kleinen Kreislauf bei deutlich reduzierter zentralvenöser Sättigung und deutlich reduziertem Cardiac Index festgestellt. Die pulmonale Leistungsfähigkeit in der Spiroergometrie betrug 7,2ml/min/kg. Eine initiale Lungenfunktionstestung zeigte eine FFV1 von 2,8l/sec. Da der Patient ebenfalls vor 6 Monaten zu Rauchen aufgehört hatte und der Wunsch zur Transplantationslistung besteht, begannen wir mit der Umfelddiagnostik zur Listungsvorbereitung.
+
+Die weiteren Listungsuntersuchungen verblieben bis auf ein nebenbefundlich am ehesten inflammatorisches teilthrombosiertes infarenales Bauchaortenaneurysma -LRB- -UNK- 5,2 cmx 5,0cm -RRB- unauffällig. Bzgl. des Bauchaortenaneurysmas stellten wir ein gefäßchirurgisches Konsil. Bei V.a. inflammatorische Komponente initiierten wir o.g. Screening und baten zudem um rheumatologische Mitbeurteilung.
+
+Bei CT-graphischem Aspekt eines inflammatorischen AAA, jedoch nach rheumatologischer Einschätzung -LRB- OA B-TITLE B-PER -RRB- unwahrscheinlichem inflammatorischen Aspekt, wurde der Kasus sowohl mit unseren Angiologen und Gefäßchirurgen besprochen. Hiernach wurde auf ein konservatives Prozedere mit einer Verlaufskontrolle in 6 Monaten entschieden. Bei Erreichen eines Durchmessers von 55 mm bitten wir um Vorstellung in der B-ORG I-ORG zur Besprechung einer operativen Therapie, dann aufgrund der ausgeprägten Vorerkrankungen am ehesten endovaskuläre Therapie.
+
+Im Rahmen des stationären Aufenthaltes und unter den täglich durchgeführten Listungsuntersuchungen kam es zu einer kardialen Dekompensation des Patienten, der mit einer kontinuierlichen iv Furorese vom <[Pseudo] 20/08/2039> - B-DATE begegnet wurde. Nach rezidivierenden Synkopen wurde in oberärztlicher Rücksprache und auf ausdrücklichen Patientenwunsch zunächst auf eine Verlegung auf unsere B-ORG verzichtet. Der Patient wurde angehalten unter Monitorobservanz im Bett zu verbleiben -LRB- Sturzprophylaxe -RRB- .
+
+Am <[Pseudo] 26/08/2039> mussten durch die B-SALUTE der MKG 11 Zähne vor potentieller LVAD Implantation und HTX-Listung gezogen werden.
+
+Bei trotz kontinuierlicher i.v. Diurese nicht zu erreichender Rekompensation und Anurie, rezidiveren Synkopen bei hypotensiven Blutdruckwerten -LRB- bis zu systolisch 80 mmHg -RRB- sowie steigendem Laktat wurde der Patient am <[Pseudo] 26/08/2039> auf unsere ORG übernommen. Bei Übernahme auf Station ORG hypotoner, normofrequenter und oligosymptomatischer Patient.
+
+Bei steigenden Entzüdungswerten wurden Blutkulturen asserviert. Diese zeigten den Nachweis von E.coli. Eine erweiterte Fokussuche verblieb negativ, so dass wir die gramnegative Bakteriämie im Kontext der Koloskopie und Polypektomie sehen. Es wurde eine antibiogrammgerechte mit Tazobac vom <[Pseudo] 23/08/2039> - B-DATE Am <[Pseudo] 02/09/2039> fieberte der Patient auf und es wurden erneut Blutkulturen asserviert. In den am <[Pseudo] 01/09/2039> asservierten Blutkulturen kam es zum Wachstum von Staphylococcus haemolyticus und Enterococcus faecium, sodass erneut eine empirisch antibiotische Therapie mit Piperacillin/Tazobactam und Vancomycin gestartet wurde. Hierunter zeigten sich die Infektparameter rückläufig. Alle einliegenden Zugänge wurden gewechselt.
+
+Es erfolgte eine komplikationslose ultraschallgesteuerte Anlage eines 5L-ZVK in die V. jug. int. Rechts. Postinterventionell konnte ein Pneumothorax ausgeschlossen werden. Bei einer zentralvenösen Sättigung von 27,6 % starteten wir vor dem Hintergrund des steigenden Laktats eine differenzierte Katecholamintherapie mit Dobutamin.
+
+Unter Dobutamin- und intermittierenden Furosemidboli konnte eine suffiziente Rekompensation erreicht werden. Das Gewicht sowie auch die peripheren Ödeme zeigten sich deutlich rückläufig.
+
+Echokardiographisch zeigte sich ein dilatierter linker Ventrikel mit hochgradig verminderter systolischer Pumpfunktion bei Akinesie des gesamten Apex, inferior, inferolateral sowie Hypokinesie der übrigen Wandabschnitte. Im Vergleich zur Voruntersuchung vom <[Pseudo] 03/08/2039> zeigten sich eine Zunahme des PA-Drucks und eine Zunahme der VCI.
+
+Der Kasus wurde ausführlich in unserer interdisziplinären HTX-Konferenz besprochen. Hiernach erging die Maßgabe zur Durchführung eines RHK sowie die Planung eines LVAD für den B-DATE. Des Weiteren solle eine HTX-Listung in 3 Monaten nach LVAD-Implantation durchgeführt werden, sofern keine Kontraindikationen hierfür bestehen.
+
+Im Verlauf kam es erneut zu einem Laktatanstieg und Verschlechterung der zentralvenösen Sättigung unter Dobutamintherapie, sodass die Dobutamintherapie eskaliert und fortgeführt werden musste.
+
+Am <[Pseudo] 01/09/2039> veranlassten wir eine Rechtsherzkatheteruntersuchung unter unter Dobutamin-Perfusor 0,05mg/h. Hierbei zeigten sich erhöhte Drücke im kleinen Kreislauf -LRB- 50/30/40 mmHg -RRB- , erhöhter PCWP -LRB- 30mmHg -RRB- , V-Welle deutlich erhöht ca. 40mmHg. Des Weiteren zeigten sich eine gemischtvenöse Sättigung von 48% und ein reduzierter Cardiac Index von 2,46l/min/m².
+
+Parallel wurden die präoperativen Untersuchungen für die am <[Pseudo] 05/09/2039> geplante LVAD-Implantation komplettiert. Als Exit-Strategie wurde im Heart-Team beschlossen, dass bei erhöhtem Katecholaminbedarf und akuter Verschlechterung eine Impella-Implantation als Bridging-Therapie bis zur LVAD-Implantation sinnvoll wäre. Im Verlauf konnte jedoch bei guter zentralvenöser Sättigung die Dobutamintherapie deeskaliert werden. Nach RS mit unseren B-SALUTE der Herzchirurgie war initial ein möglicher Termin für eine LVAD-Implantation für den <[Pseudo] 05/09/2039> geplant, dieser musste jedoch bei weiterhin bestehender Bakteriämie ohne Infektfokus bis auf weiteres verschoben werden.
+Am <[Pseudo] 05/09/2039> kam es zu einem erneuten kardiogenem Schock mit respiratorischem Versagen. Es erfolgte eine Verlegung auf unsere B-ORG Intensivstation. Hier erfolgte eine antibiogrammgerechte Antibiose bei Pneumonie. In einer erneuten transösophagealen Echoakrdiographie zeigte sich kein Hinweis auf einen Infektfokus. Es erfolgte eine High-Flow Sauerstofftherapie. Die Infektwerte zeigten sich im weiteren Verlauf rückläufig.
+Nach Rücksprache mit der Herzchirurgie wurde eine LVAD Implantation für den <[Pseudo] 10/09/2039> geplant. Am <[Pseudo] 07/09/2039> erfolgte die Rückverlegung auf B-ORG
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien.
+
+Wir verlegen den Patienten am B-DATE beschwerdefrei in Ihre stationäre Betreuung.
+Procedere:
+
+Aktuelle Therapie:
+
+Siehe Copra
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel. B-PHONE -RRB- .
+
+Wir bedanken uns für die Übernahme und stehen für Rückfragen jederzeit zur Verfügung.
+Mit freundlichen Grüßen
+
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+B-TITLE I-TITLE B-PER I-PER
+Funktionsoberarzt
+
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

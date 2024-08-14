@@ -1,0 +1,416 @@
+Aufnahmedatum: <[Pseudo] 2038-04-08 >
+Geburtsdatum: <[Pseudo] 1957-07-30 >
+Alter: 80
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 30/07/1957> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Hypertensive Entgleisung
+-UNK- Optimierung der Blutdruckeinstellung
+- Akut auf chronisches Nierenversagen
+- Hämatom bei Z.n. ICD-Implantation am <[Pseudo] 24/03/2038>
+- Studienteilnahme: DZHK FAIR-HF 2
+
+Diagnosen:
+- Koronare 2-Gefäßerkrankung der LAD und RCA mit jeweils 25-50% Stenosen ohne Interventionsbedarf -LRB- B-OTHER vom <[Pseudo] 19/03/2038> -RRB-
+-UNK- Gutes LZ-Ergebnis nach PCI der LAD. Verzicht auf LV-Angio zur Nephroprotektion. Normale Drücke im kleinen Kreislauf -LRB- 20/6/12 mmHg -RRB- , Normaler PCWP und PVR. Gemischtvenöse Sättigung: 70%. Cardiac Index: 2,8 l/min/m²
+-UNK- Z. n. Herzkatheteruntersuchung bei V.a. Progress der KHK ohne Interventionsbedarf -LRB- extern -RRB- <[Pseudo] 10/2035>
+-UNK- Z. n. PTCA/De-Stent-Implantation der medialen LAD -LRB- extern -RRB- <[Pseudo] 02/2034>
+- Hochgradige Linksherzinsuffizienz, a. e. bei ischämischer Kardiomyopathie.
+-UNK- Echokardiographisch am <[Pseudo] 20/03/2038:> hochgradig eingeschränkte LV-Pumpfunktion bei diffuser Hypokinesie
+- 2-Kammer-ICD Implantation der Firma Boston Scientific am <[Pseudo] 24/03/2038> bei Z.n. Synkope, im LZ-EKG dokumentiertem, AVB I° AV-Block II° Typ Wenckebach und unter Herzinsuffizienztherapie hochgradig eingeschränkter LVFunktion
+- Akut auf chronisches Nierenversagen
+-UNK- Pausieren der nephrotoxischen Medikation. Bitte auf ausreichende Trinkmenge achten -LRB- max 1,5 - 2l/Tag -RRB-
+- AV-Block I°
+- Z. n. linkshemsphärischer TIA
+-UNK- Symptomatik: Passagere Aphasie und Hypästhesie des rechten Armes
+-UNK- ASS/Clopidogrel bis einschließlich <[Pseudo] 09/04/2038>
+- Chronische Niereninsuffizienz Stadium G3 bei diabetischer Nephropathie
+- Hyperurikämie
+- Lumbaler Bandscheibenvorfall
+- Z. n. Cholezystitis <[Pseudo] 2035>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, ehemaliger Nikotinabusus -LRB- kumulativ ca. 10 py -RRB- , nicht-insulinpflichtiger Diabetes mellitus Typ 2
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+Studienteilnahme: DZHK FAIR-HF 2 -LRB- Eisen -LRB- FCM -RRB- i.v. vs. Placebo -RRB- . Studienzentrale Tel. B-PHONE PHONE Bitte keine Dokumentation von Eisen-, Ferritin-, Transferrin- und Transferrinsättigung -LRB- TFSG -RRB- -Werten!
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei hypertensiver Entgleisung und Hämatom bei Z.n. ICD-Implantation am B-DATE.
+Der Patient berichtet über ein ausgeprägtes Hämatom nach ICD-Implantation am <[Pseudo] 24/03/2038> in domo. Auf spezifische Nachfrage Dyspnoe nur bei stärkerer Belastung -LRB- entsprechend NYHA II -RRB- . Keine belastungsinduzierten pectanginösen Beschwerden. Keine ICD-Entladung bemerkt. Aktuell kein Hinweis auf einen Infekt. Die häuslichen Blutdruckmessungen ergäben Werte um 140/70 mmHg. Periphere Ödeme seien bei Gewichtskonstanz in der letzten Zeit nicht aufgefallen. Die weitere Anamnese dürfen wir als bekannt voraussetzen und verweisen wir auf den Brief von unseren B-SALUTE in domo vom B-DATE.
+
+Medikation bei Aufnahme:
+Oral
+ASS 100 mg 1-0-0
+Clopidogrel 75 mg 1-0-0 bis einschließlich B-DATE!
+Ramipril 5 mg 0-0-1 Pause
+Bisoprolol 2,5 mg 1-0-1 neu, im Verlauf steigern!
+Torasemid 10 mg 1-0-0
+Amlodipin 5 mg 1-0-0
+Atorvastatin 10 mg 0-0-1
+Pantoprazol 20 mg 1-0-0
+Metformin 1000 mg 1-0-1 Pause
+Sitagliptin 25 mg 1-0-0 Pause
+Tamsulosin 0,4 mg 1-0-0
+Allopurinol 300 mg 0-1-0 Pause
+Dekristol 1000 I.E. 1-0-0
+Kalium Verla 1-1-0
+Magnesium Verla 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: adipös -LRB- Größe: 167 cm, Gewicht: 75 kg -RRB-
+HF: 71/min, regelmäßig
+RR: 131 / 82 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: ausgeprägtes Hämatom im Bereich der Aggregattasche
+
+Ruhe-EKG bei Aufnahme:
+Durchgehende atriale und ventrikuläre Schrittmacherstimulation mit konsekutiven Kammerendteilveränderungen. Herzfrequenz 46/min.
+
+Transthorakale Echokardiographie vom <[Pseudo] 04/04/2038:>
+Kein Perikarderguss nachweisbar. Vena Cava inferior nicht gestaut.
+
+Ruhe-EKG vom <[Pseudo] 08/04/2038:>
+Durchgehende atriale Schrittmacherstimulation, regelmäßig, Herzfrequenz 60/min, Linkslagetyp. PQ 330 ms, QRS 105 ms, QTc 409 ms. R-Verlust in V1-V3, R/S Umschlag in V3/V4. Präterminal negative T-Wellen in I, V4 - V6, ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 05/04/2038> und dem <[Pseudo] 08/04/2038>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.78
+4 - 10 /nl
+B-DATE
+Hb
+10.9 !L
+13 - 17 g/dl
+<[Pseudo] 08/04/38>
+Erythrozyten
+3.6 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.330 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+90
+83 - 97 fl
+<[Pseudo] 08/04/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 08/04/38>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 08/04/38>
+RDW
+14.0
+12,9 - 18,7 %
+<[Pseudo] 08/04/38>
+hypochr.Erythroz.
+1.0
+0 - 2 %
+<[Pseudo] 08/04/38>
+Thrombozyten
+345
+150 - 440 /nl
+<[Pseudo] 08/04/38>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 08/04/38>
+Kalium -LRB- ISE -RRB-
+4.58
+3,4 - 5,0 mmol/l
+<[Pseudo] 08/04/38>
+Calcium
+2.45
+2,11 - 2,59 mmol/l
+<[Pseudo] 08/04/38>
+Kreatinin
+2.20 !H
+0,6 - 1,4 mg/dl
+<[Pseudo] 08/04/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+46 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+27.3 !L
+>60 s.u.
+<[Pseudo] 08/04/38>
+MDRD
+33.12
+ml/min/1,73qm
+<[Pseudo] 05/04/38>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+42.7
+30 - 50 g/l
+<[Pseudo] 05/04/38>
+Glucose
+110
+65 - 110 mg/dl
+<[Pseudo] 05/04/38>
+GOT/AST
+18
+- <46 U/l
+B-DATE
+GPT/ALT
+15
+- <50 U/l
+B-DATE
+GGT
+62 !H
+- <60 U/l
+<[Pseudo] 05/04/38>
+Ges.Bili.
+0.40
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+5.8
+- <7 mg/dl
+<[Pseudo] 05/04/38>
+Triglyceride
+121
+- <150 mg/dl
+<[Pseudo] 05/04/38>
+Cholesterin
+125.0
+- alt.abh. mg/dl
+<[Pseudo] 07/04/38>
+LDL-Chol. -LRB- berechn. -RRB-
+72
+- <160 mg/dl
+<[Pseudo] 05/04/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HDL-Cholesterin
+34 !L
+>40 mg/dl
+B-DATE
+Eisen
+15.6
+14 - 32 µmol/l
+<[Pseudo] 07/04/38>
+Ferritin
+85
+30 - 300 µg/l
+<[Pseudo] 07/04/38>
+Transferrin
+2.03
+2,0 - 3,6 g/l
+<[Pseudo] 07/04/38>
+TFSG
+31
+16 - 45 %
+<[Pseudo] 07/04/38>
+CRP
+11.3 !H
+- <5 mg/l
+<[Pseudo] 05/04/38>
+Hämolyse
+-
+
+<[Pseudo] 08/04/38>
+ikterisch
+-
+
+<[Pseudo] 08/04/38>
+Lipämie
+-
+
+<[Pseudo] 08/04/38>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+299
+- <342 U/l
+B-DATE
+CK
+109
+- <190 U/l
+<[Pseudo] 05/04/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+32.7 !H
+- <14 pg/ml
+<[Pseudo] 05/04/38>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+7.2 !H
+- <6,1 %
+<[Pseudo] 05/04/38>
+HbA1c -LRB- IFCC -RRB-
+55 !H
+20 - 42 mmol/mol
+<[Pseudo] 05/04/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+160 !H
+- <110 mg/dl
+<[Pseudo] 05/04/38>
+TSH
+1.43
+0,400 - 4,000 mU/l
+<[Pseudo] 05/04/38>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+102.5
+70 - 125 %
+<[Pseudo] 05/04/38>
+INR - ber.
+1.00
+- <1.2
+<[Pseudo] 05/04/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+21.3
+- <35 s
+<[Pseudo] 05/04/38>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei hypertensiver Entgleisung und Hämatom bei Z.n. ICD-Implantation am B-DATE.
+
+Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Ein Perikarderguss konnte echokardiographisch ausgeschlossen werden. Der Hb-Wert betrug 11,3 mg/dl -LRB- Vorwert 13,3 mg/dl -RRB- . Laborchemisch zeigte sich keine manifest Entzündungskonstellation -LRB- CRP 9, Leukozyten minimal erhöht, afebriler Patient, klinisch kein Infektfokus -RRB- . Clopidogrel wurde gemäß RS OA PER abgesetzt.
+
+Es erfolgte zunächst eine konservative Therapie mittels Sandsack und täglichen klinischen Kontrollen. Der Hb-Wert zeigte sich im Verlauf stabil. Das Hämatom war deutlich regredient.
+
+Bei initial deutlich reduzierter GFR und erhöhtem S-Kreatinin wurde der Pat. bei V. a. acute on chronic Nierenversagen unter tägl. Gewichtskontrolle und entsprechend der LV-Funktion intravenös hydriert. Bestehende nephrotoxische Medikamente wurden pausiert bzw. dosisadaptiert. Hierunter ergaben sich leicht rückläufige Retentionsparameter bei stets guter Diurese. Wir bitten um regelmäßige Gewichtskontrollen und fortlaufende Kontrollen der Elektrolyte und Nierenretentionsparameter sowie ggf. fachärztliche nephrologische Anbindung.
+
+In 2 Wochen empfehlen wir eine ambulante kardiologische Vorstellung zur Durchführung einer Taschensonographie sowie Kontrolle der Nierenretentionsparameter, hierzu vereinbarten wir einen Termin am <[Pseudo] 22/04/2038> um 11:00 Uhr in unserer B-ORG I-ORG -LRB- Tel.: B-PHONE Ebene B-LOC, B-ORG I-ORG B-ORG I-ORG -RRB- . Wir bitten im Rahmen dieser Vorstellung um eine Re-Evaluation des Wiederbeginns der pausierten, nephrotoxischen Medikamente in Abhängigkeit der Nierenfunktionsparameter.
+
+Im stationären Aufenthalt beobachteten wir eine deutliche arterielle Hypertonie mit systolischen Blutdruckwerten von ca. 160-180 mmHg und diastolischen Werten von 80-90 mmHg. Aus diesem Grund eskalierten wir die antihypertensive Medikation des Patienten wir unten angegeben. Wir bitten um regelmäßige Kontrollen des Blutdrucks, der Elektrolyte und Nierenwerte. Wir bitten um Durchführung einer 24-RR-Messung im Verlauf und ggfs. weitere Anpassung der Therapie. Sollte die Blutdruckeinstellung weiterhin erschwert sein, so empfehlen wir eine Vorstellung in einer Hypertonie-Ambulanz.
+
+Am <[Pseudo] 07/04/2038> erfolgte der Einschluss in die B-ORG 2-Studie. Dies ist eine doppelt-verblindete randomisierte, placebo-kontrollierte Interventionsstudie, welche die Wirkung einer intravenösen Eisensubstitution -LRB- vs. i.v. Kochsalzlösung -RRB- bei Patienten mit einer symptomatischen Herzinsuffizienz auf die Lebensqualität, Krankenhaushospitalisierungs- und Mortalitätsrate untersucht.
+
+Um die Verblindung des Patienten und der Studienzentrumsmitglieder zu gewährleisten, bitten wir um einen Verzicht auf die Bestimmung von Eisen-, Ferritin-, Transferrin- und Transferrinsättigungs-werten, sofern nicht dringlich indiziert. Bei Bestimmung besagter Parameter bitten wir darum diese nicht dem Patienten mitzuteilen und nicht in weitergeleiteter Dokumentation -LRB- wie Arztbriefen -RRB- aufzuführen. Im Fall erhöhter Werte erfolgt bei weiteren Studienterminen eine Anpassung bzw. Pausierung der Studienmedikation, weitere Maßnahmen sind nicht notwendig.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 08/04/2038> in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Nächter Termin/Procedere:
+- Termin am <[Pseudo] 22/04/2038> um 11:00 Uhr in unserer kardiologischen Ambulanz
+
+Therapieempfehlung:
+Oral
+ASS 100 mg 1-0-0
+Bisoprolol 5 mg 1-0- -UNK- erhöht
+Candesartan 8 mg 1-0-0 neu
+Torasemid 10 mg 1-0-0
+Amlodipin 5 mg 1-0-1 erhöht
+Doxazosin 4 mg 1-0-0 neu
+Atorvastatin 10 mg 0-0-1
+Pantoprazol 20 mg 1-0-0
+Metformin 1000 mg 1-0-1 Pause
+Sitagliptin 25 mg 1-0-0 Pause
+Tamsulosin 0,4 mg 1-0-0
+Allopurinol 300 mg 0-1-0 Pause
+Dekristol 1000 I.E. 1-0-0
+Kalium Verla 1-1-0
+Magnesium Verla 1-0-0
+Clopidogrel 75 mg 1-0-0 abgesetzt
+Ramipril 5 mg 0-0-1 abgesetzt
+
+Studienmedikation FAIR HF neu, i.v.-Gabe erfolgt ausschließlich bei
+-LRB- Eisen i.v. vs. Placebo -RRB- Studienvisiten
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

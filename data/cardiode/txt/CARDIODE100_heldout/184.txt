@@ -1,0 +1,423 @@
+Aufnahmedatum: <[Pseudo] 2035-11-28 >
+Geburtsdatum: <[Pseudo] 1956-09-04 >
+Alter: 79
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 04/09/1956> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreiche, primärprophylaktische 1-Kammer-ICD Implantation der Firma Medtronic am <[Pseudo] 25/11/2035> bei hochgradig eingeschränkter LV-Funktion bei Ischämischer Kardiomyopathie
+-UNK- Patient wünscht keine CRT-Therapie bei RSB und LAHB
+Diagnosen:
+- Koronare 3-Gefäßerkrankung mit Verschluss der RCA, höhergradigen Stenosen der LAD, LCX und des Hauptstamms sowie global hochgradig eingeschränkter linksventrikulärer Pumpfunktion -LRB- B-OTHER v. <[Pseudo] 22/12/2031> -RRB-
+-UNK- V.a. ischämische dilatative Cardiomyopathie
+-UNK- Mitralklappeninsuffizienz I°
+-UNK- Z. n. 4-fach Koronarrevaskularisation mit Implantation eines in situ Bypasses der LIMA auf LAD sowie Anlage eines sequentiellen aortokoronaren Venenbypasses auf Ramus Diagonalis I, Ramus Marginalis II und RIVP -LRB- <[Pseudo] 01/2032> -RRB-
+-UNK- Z. n. Pleuraergüsse bei V.a. Dressler-Syndrom <[Pseudo] 01/2032> mit rezidivierenden Pleurapunktionen
+-UNK- Z. n. Perikardtamponade <[Pseudo] 01/2032>
+-UNK- Z. n. Wundehiszenz der Saphenektomie linker Unterschenkel <[Pseudo] 01/2032>
+- 50%-ige Stenose der Arteria carotis externa links
+- Hyperurikämie
+-UNK- Z. n. Gichtanfall rechtes OSG/Vorfuß <[Pseudo] 07/2034>
+- Chronische Niereninsuffizienz, Stadium G4 A1-2 -LRB- KDIGO -RRB- mit Proteinurie und Albuminurie;
+-UNK- V.a. diabetische Nephropathie mit prärenaler Komponente
+-UNK- Nierenzysten links
+- Substituierte Hypothyreose
+- Sekundärer Hyperparathyreoidismus
+- Z. n. Basalzellkarzinom -LRB- Tumordicke 2,3 mm -RRB- , Nasenflügel rechts <[Pseudo] 11/2033>
+- Aktinische Keratose, Dekollet -UNK- rechts
+- MRSA Kolonisation der Nase, Z. n. Eradikationstheraphie
+- Z. n. Katarakt-OP bds. <[Pseudo] 2030>
+- Z. n. Nikotinkonsum -LRB- 50 py -RRB-
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Typ 2 Diabetes -LRB- insulinpflichtig -RRB- , Hypercholesterinämie
+
+Allergien: anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur elektiven, primärprophylaktischen ICD-Implantation bei hochgradig eingeschränkter, linksventrikulärer Pumpfunktion.
+Der Patient gibt kardiales Wohlbefinden an. Es bestehe eine leicht eingeschränkte körperliche Belastbarkeit im Alltag -LRB- max. 2 Etagen Treppensteigen möglich -RRB- , limitiert durch Belastungsdyspnoe entsprechend NYHA II. Keine typischen pectanginösen Beschwerden. Auf spezifische Nachfrage hin werden subjektiv empfundene Palpitationen und stattgehabte Synkopen verneint. Nachtschlaf sei mit flachem Oberkörper möglich. Bei bestehender Gewichtskonstanz werden keine peripheren Ödeme angegeben. Die häuslichen Blutdruckwerte lägen bei ca. 135/75 mmHg. Insgesamt bestehe ein kardial stabiler Verlauf. Der Patient wünsche sich keine CRT-Therapie bei vorbestehendem RSB und LAH.
+
+Medikation bei Aufnahme:
+Oral
+ASS 100 mg 1-0-0
+Bisoprolol 2,5 mg 1-0-1
+Entresto 24 mg/26 mg 1-0-1
+Torasemid 20mg 1- -UNK- -0
+Sitagliptin 50 mg 1-0-1
+Atorvastatin 20 mg 0-0-1
+Allopurinol 150mg 0-0-1
+L-Thyroxin 100 µg 1-0-0
+Pantoprazol 40 mg 1-0-0
+Magnesium Verla 1-0-0
+bicaNorm 1-0-0
+Calcitriol 0,25 µg 1-0-0
+Dekristol 20 000 I.E. 1x wöchentlich sonntags
+Novalgin b. Bedarf
+
+Subkutan
+Insulin Basal 300 IE/3 ml 0-0-24 I.E.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 171cm, Gewicht: 80kg -RRB-
+HF: 76/min, regelmäßig
+RR: 130/80 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, basal betont grobblasige RGs
+Periphere Ödeme: minime prätibial und malleolar
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 25/11/2035:>
+Normofrequenter Sinusrhythmus, regelmäßig, 76/min, überdrehter Linkslagetyp. PQ 186 ms, QRS 161 ms, QTc 469 ms. Regelrechte R-Progression, S-Persistenz bis V6. Rechtsschenkelblock, linksanteriorer Hemiblock. Keine signifikanten Kammerendteilveränderungen.
+
+OP-Bericht: Implantation eines 1-Kammer-ICD vom <[Pseudo] 25/11/2035:>
+Diagnosen:
+Primärprophylaktische Indikation zur ICD Therapie, der Patient wünscht keine CRT Therapie bei RSB und LAHB, hochgradig eing. LV Funktion und ICM, NYHA II, SR, QRS 160msec.
+
+ICD-Aggregat: B-OTHER
+Ventrikelelektrode: B-OTHER
+
+Messwerte:
+RV: RS: 0,5 V/0,5 ms
+Impedanz: 483 -UNK-
+Sensing: 8,4 mV
+Zugang: V. subclavia links
+
+DFT: - OP-Dauer: 31 min. DL-Zeit: 3,3 min Dosis: 0,9 Gy·cm² KM: 0 ml
+
+OP-Bericht:
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links. Der Zugang der Ventrikelelektrode erfolgte transvenös über Punktion der Vena subclavia links. Venotomie. Vorschieben der Ventrikelelektrode unter Bildwandlerkontrolle anteroseptal. Mehrere Umplatzierungen erforderlich bei Narbe apikal apikal septal und basal. Schließlich Problemloses Platzieren der Sonde mit guten Messwerten. Danach Konnektion des Generators und Versenken in der Tasche. Schichtweiser Wundverschluß unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links subfaszial angelegt. Verband.
+
+ICD-Abfrage vom <[Pseudo] 26/11/2035:>
+Befund:
+Regelrechte ICD-Funktion. Seit Implantation keine neuen Episoden im Speicher. Batteriestatus gut -LRB- 2,99 V -RRB- . Impedanz, Wahrnehmung und Reizschwelle regelrecht. Aktuell 0% ventrikuläres Pacing. Keine kurzen VV-Intervalle. Keine DFT-Testung, bei typischer Sonden- und Aggregatlage. Der ICD-Ausweis wurde ausgestellt und dem Pat. ausgehändigt. Die Informationsbroschüre -LRB- Lt. MPG -RRB- wurde dem Patienten ebenfalls ausgehändigt und dieser über Verhaltensmaßnahmen aufgeklärt. Der Alarm wurde dem Patienten demonstriert. Es besteht eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 2 Wochen gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+
+Kommentar:
+Ihr ICD-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan-Modus -RRB- für die Verwendung im MRT entwickelt.
+
+Wichtig:
+Vor der MRT-Untersuchung sollte ihr ICD-System auf diesen SureScan-Modus programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung erfolgen, da dieser SureScan-Modus in dieser Zeit der Einheilungsphase nicht aktivierbar ist.
+
+Transthorakale Echokardiographie nach ICD-Implantation vom <[Pseudo] 26/11/2035:>
+Beurteilung Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 26/11/2035:>
+Vergleich zur Voruntersuchung vom B-DATE.
+Befund und Beurteilung:
+Zwischenzeitlich neu eingebrachter ICD von links pektoral mit Projektion der Elektroden Spitze auf den rechten Ventrikel. Zur Voruntersuchung neuer einfacher Bruch der 1., sowie mehrfacher Bruch der 3., B-DAY, B-DAY und B-DAY Sternalcerclage von kranial. Bei der 7. Und 8. Cerclage Migration einzelner Anteile entlang des Sternums nach kaudal. Kein Pneumothorax. Keine Pleuraergüsse. Keine Anzeichen einer pulmonalvenösen Stauung. Keine pneumonischen Infiltrate in den einsehbaren Lungenabschnitten. Trachea mittig, nicht eingeengt. Herzschatten nicht verbreitert mit einer CTR von 16/33.
+
+
+Ruhe-EKG nach ICD-Implantation vom <[Pseudo] 26/11/2035:>
+Normofrequenter Sinusrhythmus, regelmäßig, 85/min, überdrehter Linkslagetyp. PQ 176 ms, QRS 162 ms, QTc 472 ms. S-Persistenz bis V6. Kompletter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen, linksanteriorer Hemiblock. Ansonsten keine signifikanten Erregungsrückbildungsstörungen
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2035>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+9.24
+4 - 10 /nl
+B-DATE
+Hb
+13.9
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.4
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.430
+0,38 - 0,52 l/l
+B-DATE
+MCV
+98 !H
+83 - 97 fl
+<[Pseudo] 25/11/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 25/11/35>
+MCHC
+32
+30 - 36 g/dl
+<[Pseudo] 25/11/35>
+RDW
+15.6
+12,9 - 18,7 %
+<[Pseudo] 25/11/35>
+hypochr.Erythroz.
+3.4 !H
+0 - 2 %
+B-DATE
+Thrombozyten
+167
+150 - 440 /nl
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 25/11/35>
+Kalium -LRB- ISE -RRB-
+4.73
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.38
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+2.85 !H
+0,6 - 1,4 mg/dl
+<[Pseudo] 25/11/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+108 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+20.1 !L
+>60 s.u.
+B-DATE
+MDRD
+23.24
+ml/min/1,73qm
+<[Pseudo] 25/11/35>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+46.6
+30 - 50 g/l
+<[Pseudo] 25/11/35>
+Glucose
+123 !H
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+11
+- <50 U/l
+B-DATE
+GGT
+11
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.60
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+5.4
+- <7 mg/dl
+B-DATE
+Triglyceride
+115
+- <150 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+129.0
+- alt.abh. mg/dl
+<[Pseudo] 25/11/35>
+LDL-Chol. -LRB- berechn. -RRB-
+75
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+31 !L
+>40 mg/dl
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 25/11/35>
+Hämolyse
+-
+
+<[Pseudo] 25/11/35>
+ikterisch
+-
+
+<[Pseudo] 25/11/35>
+Lipämie
+-
+
+<[Pseudo] 25/11/35>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+211
+- <342 U/l
+B-DATE
+CK
+108
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+36.1 !H
+- <14 pg/ml
+<[Pseudo] 25/11/35>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+6.6 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+49 !H
+20 - 42 mmol/mol
+<[Pseudo] 25/11/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+143 !H
+- <110 mg/dl
+B-DATE
+TSH
+0.690
+0,400 - 4,000 mU/l
+<[Pseudo] 25/11/35>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+111.0
+70 - 125 %
+<[Pseudo] 25/11/35>
+INR - ber.
+0.98
+- <1.2
+<[Pseudo] 25/11/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+22.3
+- <35 s
+<[Pseudo] 25/11/35>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur elektiven, primärprophylaktischen ICD-Implantation bei hochgradig eingeschränkter, linksventrikulärer Pumpfunktion.
+
+Nach planmäßiger Vorbereitung konnte die Implantation eines 1-Kammer-ICD-Aggregates am <[Pseudo] 25/11/2035> komplikationslos durchgeführt werden. Echokardiographisch konnten postinterventionell ein Perikarderguss sowie konventionell-radiologisch ein Pneumothorax ausgeschlossen werden. Die ICD-Aggregatkontrolle war regelrecht. Die Wunde zeigte sich bei Entlassung reizlos. Wir bitten um Wundkontrolle in 3-4 Tagen -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- .
+
+Der ICD-Ausweis wurde ausgestellt und dem Pat. ausgehändigt. Die Informationsbroschüre -LRB- Lt. MPG -RRB- wurde dem Patienten ebenfalls ausgehändigt und dieser über Verhaltensmaßnahmen aufgeklärt. Der Alarm wurde dem Patienten demonstriert. Es besteht eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 2 Wochen gemäß den aktuellen Leitlinien der ORG. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich. Wir bitten um Wundkontrolle in 3-4 Tagen -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- . Des Weiteren wurde der Patient über eine Schonung und Vermeidung einer Elevation des linken Armes über 90° für 6 Wochen informiert. Bei Rötung, Schwellung, Fieber oder purulentem Sekret aus der Aggregattasche erbitten wir eine sofortige Wiedervorstellung in unserem Hause.
+
+Ein Termin zur nächsten ICD-Kontrolluntersuchung in unserer B-ORG wurde bereits für den <[Pseudo] 08/01/2036> um 10:00 Uhr vereinbart. Die weiteren Kontrollen danach empfehlen wir in der B-ORG B-TITLE B-PER in Intervallen von 6 Monaten durchführen zu lassen.
+
+Vor dem Hintergrund der eingeschränkten Nierenfunktion, sowie dem subjektiv asymptomatischen Patienten, verzichteten wir in diesem stationären Aufenthalt auf eine Anpassung der Herzinsuffizienztherapie. Wir bitten im Verlauf die Anpassung der Herzinsuffizienzmedikation in Abhängigkeit der Nierenfunktionsparameter in Erwägung zu ziehen.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir empfehlen regelmäßige kardiologische Kontrollen durch den betreuenden B-SALUTE B-SALUTE B-TITLE B-PER B-PER
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 26/11/2035> in Ihre geschätzte ambulante Betreuung.
+
+Nächster Termin/Prozedere
+- ICD-Kontrolltermin in unserer Rhythmus-Ambulanz am <[Pseudo] 08/01/2036> um 10:00 Uhr
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Oral
+ASS 100 mg 1-0-0
+Bisoprolol 2,5 mg 1-0-1
+Entresto 24 mg/26 mg 1-0-1
+Torasemid 20mg 1- -UNK- -0
+Sitagliptin 50 mg 1-0-1
+Atorvastatin 20 mg 0-0-1
+Allopurinol 150mg 0-0-1
+L-Thyroxin 100 µg 1-0-0
+Pantoprazol 40 mg 1-0-0
+Magnesium Verla 1-0-0
+bicaNorm 1-0-0
+Calcitriol 0,25 µg 1-0-0
+Dekristol 20 000 I.E. 1x wöchentlich sonntags
+Novalgin b. Bedarf
+
+Subkutan
+Insulin Basal 300 IE/3 ml 0-0-24 I.E.
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Stationsarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

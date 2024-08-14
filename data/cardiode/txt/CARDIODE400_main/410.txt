@@ -1,0 +1,531 @@
+Aufnahmedatum: <[Pseudo] 2506-01-20 >
+Geburtsdatum: <[Pseudo] 2130-11-18 >
+Alter: 375
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 18/11/2130> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreiche transfemorale Aortenklappenimplantation -LRB- Evolut R 29 mm, B-OTHER -RRB- am <[Pseudo] 30/01/2219> bei kombiniertem Aortenklappenvitium mit führender hochgradiger Stenose -LRB- KÖF-Kontinuitätsgleichung = 0,4 cm², PPG 77 mmHg, MPG 43 mmHg -RRB-
+-UNK- Echokardiographie vom <[Pseudo] 31/01/2219:>
+-UNK- Noch gute systolische Pumpfunktion -LRB- LV EF 55% -RRB-
+-UNK- Evolut Klappenprothese in Aortenposition sonographisch regelrecht, dopplersonographisch minimale Randleckage, keine relevante Stenosewirkung nachweisbar
+-UNK- Der systolische PA-Druck in Ruhe ist deutlich erhöht -LRB- ca. 70-75 mmHg -RRB-
+
+- Pulmologisches Konsil bezüglich erhöhtem PA-Druck
+-UNK- Aktuell kein Handlungsbedarf bei diesbezüglich oligosymptomatischer Patientin
+-UNK- Gegebenenfalls erneute pulmologische Evaluation im Verlauf
+
+Diagnosen:
+- Global mittelgradig reduzierte systolische Pumpfunktion, EF ca. 40% -LRB- ECHO extern <[Pseudo] 18/01/19> -RRB-
+- Persistierendes Vorhofflimmern
+-UNK- CHA2DS2-VASc-Score 8 Punkte
+-UNK- Antikoagulation mit Apixaban
+- KHK ohne höhergradige Stenosen
+- Cor pulmonale
+- Asthma bronchiale
+- Z.n. rechtshemisphärischer TIA <[Pseudo] 10/2213>
+- Chronisch venöse Insuffizienz
+- Z.n. Katarakt-OP
+- Z.n. disseminierter Schulddrüsenautonomie
+-UNK- Z.n. Radiojodtherapie mit 560 MBq I-131 -LRB- <[Pseudo] 08/2216> -RRB-
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie
+Allergien: Penicillin, Iod, Carbimazol, Heuschnupfen
+
+Anamnese:
+Die initiale Aufnahme auf unsere B-ORG I-ORG erfolgte elektiv als Verlegung aus der I-ORG I-ORG am B-DATE zur TAVI bei dekompensierter Aortenklappenstenose. Dort wurde die Indikation zur Intervention gestellt nach Behandlung einer progredienten Belastungsdyspnoe. Es wird eine eingeschränkte Belastbarkeit im Alltag beschrieben. Bei 1 Etagen Treppensteigen bestehe inadäquate Belastungsdyspnoe -LRB- NYHA -RRB- , jedoch keine belastungsinduzierten pectanginösen Beschwerden. Auch in Ruhe bestünden keine pectanginöse Beschwerden, jedoch komme es in liegender Position zur Dyspnoe. Palpitationen und Schwindel werden wie stattgehabte Synkopen verneint. Es bestehe keine Nykturie. Periphere Ödeme seien bei Gewichtskonstanz in der letzten Zeit nicht aufgefallen
+
+Medikation bei Aufnahme:
+Oral:
+Apixaban 5 mg 1-0-1 Pause
+Bisoprolol 5 mg 1-0-0
+Candesartan 16 mg 1-0-0,5 Pause
+Lercanidipin 10 mg 0,5-0-0,5
+Torasemid 10 mg 1-1-0
+Pravastatin 20 mg 0-0-1
+Pantoprazol 20 mg 1-0-0
+Amitriptylin 10 mg 0-0-1
+Macrogol 6,9 g 0-1-0 Bedarf
+Promethazin 20 mg/ml 0-0-1 Bedarf
+Inhalt.:
+Beclometason 100/6µg 1-2-0 Bedarf
+Salbutamol 100µg/Dosis bis 6xtgl. Bedarf
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+165 cm 70 kg
+HF: 86/min, regelmäßig
+RR: 120 / 70 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein, rhythmisch, Systolikum a.e. Aortenklappenstenose
+Lunge: abgeschwächtes vesikuläres AG, keine RG, sonorer Klopfschall
+Abdomen: weich, kein DS, keine Resist
+Leber/Milz: nicht vergrößert tastbar
+Periphere Ödeme: keine
+Pulsstatus: Aa. radiales et dorsalis pedis bds. tastbar
+Neurologischer Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+
+
+
+Ruhe-EKG vom <[Pseudo] 27/01/2219:>
+Arrhythmia absoluta bei VHF, 86/min, Links-typ., QRS 140 msec., QTc 473 msec. Verzögerte R-Progression, R/S Umschlag in V4/V5. Keine signifikanten Kammerendteilveränderungen. S-Persistenz bis V6. ST-Senkung in I, II, aVR, V2-V6, typisches Rechtsschenkelblockbild in V2
+
+Echokardiographie vom <[Pseudo] 27/01/2219:>
+Bemerkungen: Global deutlich eingeschränkte Schallbedingungen.
+Beurteilung: Normal großer, septal betont hypertrophierter linker Ventrikel mit leichtgradig eingeschränkter systolischer Pumpfunktion bei Hypokinesie der basalen Abschnitte mit reduzierte longitudinale Funktion. Hinweis auf Compliancestörung des LV. LA und RA deutlich dilatiert, RV noch normal groß, eingeschränkte RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe, deutlich verdickt und verkalkt mit verminderter Separation und eingeschränkte Beurteilbarkeit der Kuspidie. Dopplersonographisch kombiniertes Aortenvitium höheren Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 0,4 cm², PPG 77 mmHg, MPG 43 mmHg -RRB- . Mitralklappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist deutlich erhöht -LRB- ca. 70- 75 mmHg -RRB- . Im direkten Vergleich zum Vorbefund vom <[Pseudo] 23/10/2213:> Deutliche Zunahme der Aortenklappensklerose mit höhergradiger Stenose. Compliancestörung der LV. Eingeschränkte RV-Funktion. Zunahme des PA-Drucks. Im Vergleich zur Voruntersuchung vom DATUM: Keine wesentliche Befundänderung
+
+CT Herz nativ und mit Kontrastmittel -LRB- Kooperation -RRB- vom <[Pseudo] 27/01/2219:>
+Rechtfertigende Indikation: MAP
+CT Abdomen mit Kontrastmittel vom <[Pseudo] 27/01/2219>
+Rechtfertigende Indikation: MAP
+Spektral-CT vom <[Pseudo] 27/01/2219>
+Multiplanare Reformatierung -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 27/01/2219>
+Messungen und manuelle Platzierung von ROIs -LRB- CT -RRB- vom <[Pseudo] 27/01/2219>
+Maximum-Intensitäts-Projektion -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 27/01/2219>
+EKG-Triggerung -LRB- CT -RRB- vom <[Pseudo] 27/01/2219>
+Voruntersuchungen: Keine.
+Eingeschränkte Beurteilbarkeit bei Atemartefakten.
+BEFUND
+Gefäße
+Die Beurteilung der kritischen Gefäße im Hinblick auf die Machbarkeit des Eingriffs erfolgt durch die die Intervention planende Fachabteilung. Verkalkung der Aortenklappe. Koronar und Aortensklerose. Ektasie der infrarenalen Aorta bis 24 mm -LRB- 501 / 445 -RRB- .
+Thorax
+Bild eines Fassthorax. Kein Pneumothorax, keine Pleuraergüsse. Mosaikmuster, linksbetont. Kalkgranulom im rechten Oberlappen -LRB- 501 / 136 -RRB- . Keine zentrale Lungenarterienembolie. Vergrößerte mediastinale Lymphknoten, exemplarisch im oberen Mediastinum ventral mit 11 mm KAD -LRB- 501 / 113 -RRB- sowie in Position 7 mit 13 mm KAD -LRB- 501 / 141 -RRB- . Keine vergrößerten hilären oder axillären Lymphknoten. Inhomogene Darstellung der Schilddrüse mit 17 mm messenden Knoten neue dorsal des rechten Schilddrüsenlappen -LRB- 501 / 40 -RRB- , sonographische Korrelation empfohlen.
+Abdomen
+Verkalkungsstruktur im Milzhilus mit 11 mm, DD verkalktes und thrombosiertes Milzarterien-Aneurysma. Milzparenchym regelrecht. In arterieller Phase homogene Kontrastierung der Leber. Keine Cholestase. Gallenblase soweit beurteilbar reizlos. Noduläre Läsion der linken Nebenniere mit 16 X 13 mm -LRB- 501 / 306 20 -RRB- mit Adenom-typischen Dichtewerten in der virtuell nativen Sequenz. Linke Nebenniere verplumpt. Pankreasparenchym regelrecht lobuliert ohne Nachweis fokaler Suspizien. Kein Gangaufstau.
+Irreguläre Darstellung der rechten Nieren im Untergeschoss mit fraglicher Läsion von 46 mm -LRB- 501/412 -RRB- , DD vorgetäuscht durch Atemartefakt, sonographische Korrelation empfohlen.
+Linke Niere regelrecht. Imbibierung in der rechten Leiste, a.e. bei Z.n. Herzkatheter.
+Skelett
+Fortgeschrittene degenerative Skelettveränderungen. Osteopener Knochenaspekt.
+BEURTEILUNG
+-UNK- Die Beurteilung der kritischen Gefäße im Hinblick auf die Machbarkeit des Eingriffs erfolgt durch die die Intervention planende Fachabteilung.
+-UNK- Fragliche Raumforderung der rechten Niere am Unterpol, bei Atemartefakten nicht sicher zu beurteilen, sonographische Korrelation empfohlen.
+-UNK- Struma multinodosa, sonographische Korrelation empfohlen.
+-UNK- Geringe unspezifische mediastinale Lymphadenopathie.
+
+Herkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 30/01/2219> -RRB- :
+Interventionelle Klappenimplantation bei deutlich erhöhtem OP-Risiko für eine konventionelle Operation:
+Erfolgreiche transfemorale Implantation einer Aortenklappenbioprothese -LRB- Evolut R Klappe; 29 mm -RRB- unter Lokalanästhesie bei hochgradiger Aortenklappenstenose. Vorher einmalige Ballonvalvuloplastie der Aortenklappe mittels 22 mm Ballon unter rapid pacing. Nach Implantation Abnahme des Druckgradienten von 50mmHg auf 0mmHg.
+Postprocedural keine Aortenklappeninsuffizienz.
+Verschluss der A. femoralis rechts -LRB- 14F -RRB- mit dem Proglidesystem.
+
+Maßnahmen:
+nach SOP.
+
+Körperlicher Untersuchungsbefund -LRB- nach TAVI -RRB- :
+RR 160/92 mmHg, HF 75/min, kein fokalneurologisches Defizit, Leiste soweit bei anliegendem DV beurteilbar unauffällig. Abdomen weich, keine Resistenzen palpabel.
+
+Ruhe-EKG nach Implantation:
+83/min, VHF, üLT, QRS 152 ms, cQT 448 ms, linksanteriorer Hemiblock,
+
+Ruhe-EKG am <[Pseudo] 31/01/2219:>
+Arrythmie bei VHF, 76/min, überdrehter Linkstyp, QRS 151ms, QTc 453 msec. mangelnde R-Progression mit fehlendem R/S-Umschlag, S-Persistenz bis V6. Bifaszikuläres Blockbild.
+
+Ruhe-EKG am <[Pseudo] 01/02/2219:>
+Arrythmie bei VHF, 96/min, überdrehter Linkstyp, QRS 149ms, QTc 439 msec. mangelnde R-Progression mit fehlendem R/S-Umschlag, S-Persistenz bis V6. Bifaszikuläres Blockbild.
+
+Ruhe-EKG am <[Pseudo] 02/02/2219:>
+Absolute Arrythmie bei normofrequentem VHF, 96/min, überdrehter Linkstyp, QRS 149ms, QTc 439 msec. S-Persistenz bis V6. Bekanntes bifaszikuläres Blockbild mit konsekutiven Endstreckenveränderungen. Vereinzelt VES.
+
+Echokardiographie vom <[Pseudo] 31/01/2219:>
+Normal großer, septal betont hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion ohne abgrenzbare Hypokinesie. Hinweis auf Compliancestörung des LV. LA und RA deutlich dilatiert, RV grenzwertig groß, eingeschränkte RV-Funktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. EvolutKlappenprothese in Aortenposition sonographisch regelrecht, dopplersonographisch minimale Randleckage, keine relevante Stenosewirkung nachweisbar. Mitralklappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist deutlich erhöht -LRB- ca. 70-75 mmHg -RRB- . Erstbefund nach TAVI, regelrechte Klappenprothesenfunktion, weiterhin dtl. pulmonale Hypertonie.
+
+Angiologische Kontrolle nach TAVI vom <[Pseudo] 31/01/2219:>
+Anamnese: Kontrolle nach TAVI. Patientin beschwerdefrei.
+Lokalbefund: Punktionsstellen reizlos, kleines oberflächliches punktuelles Hämatom rechts in der Leiste sonst keine relevanten Hämatome. Leistenpulse kräftig palpabel. Kein relevanter Druckschmerz im Bereich der Punktionsstellen.
+Farbduplexsonographie der Gefäße der Leisten:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstellen der Leisten. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden. Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+Spirometrie vom <[Pseudo] 01/02/2219:>
+Folgt.
+
+Lungenfunktionsprüfung vom <[Pseudo] 01/02/2219:>
+Kapilläre Blutgasanalyse:
+Raumluft:
+82 27
+Spirometrie
+Eine Bodyplethysmographie ist nicht umsetzbar, daher nur Spirometrie erfolgt.
+Auch die Spirometrie ist allerdings nicht valide beurteilbar, da die Pat. die gegebenen Anweisungen nicht umsetzen kann.
+
+Pulmologisches Konsil vom <[Pseudo] 01/02/2219:>
+Ein sicherer Asthmanachweis liegt nicht vor, ob eine frühere Abklärung extern erfolgt ist nicht bekannt. Die aktuelle Lungenfunktion ist eher restriktiv, allerdings bei unzureichender Mitarbeit nicht valide beurteilbar. Prinzipiell ist aufgrund der Allergieanamnese ein Asthma möglich. Da die Pat. über einen positive Effekt durch die Fostereinnahme berichtet, kann dieses gerne probatorisch mit 1-0-1 regelmäßig genutzt werden. Zur Soorprophylaxe nach der Einnahme Mund ausspülen!
+
+Eine leichte PA-Druckerhöhung ist seit <[Pseudo] 2201> bekannt, <[Pseudo] 2201> auch invasiv bestätigt mit damals normwertigem PVR. Die aktuellen RHK-Werte sind noch nicht verfügbar, bei Vorliegen ggf. nochmalige Rücksprache. Prinzipiell ist eine kardiologische Komponente bei Compliance-Störung und langjährigem VHF zu vermuten, zusätzliche Faktoren sind noch unbekannt. Klinisch gibt die Pat. aber bereits eine sehr gute Besserung nach TAVI und forcierter Diurese an, so dass zunächst abgewartet werden kann. Auffällig ist aktuell allerdings eine schwere Hypoxämie mit Sauerstoffbedarf von 1l O2/min., diesbezüglich Verlaufskontrolle vor Entlassung zur Prüfung einer LTOT empfohlen. Falls die Hypoxämie bereits langjährig vorliegen sollte, kann auch diese eine Ursache für die PA-Druckerhöhung darstellen -LRB- keine Vorwerte vorliegend -RRB- .
+
+Langzeit-EKG vom <[Pseudo] 31/01/2219:>
+Absolute Arrhythmie bei Vorhofflimmern als Grundrhythmus mit ventrikulären Frequenzen zwischen 54/min und 131/min, im Mittel 84/min. Tagsüber zwei Pausen bis maximal 2,01 sec Dauer bei Bradyarrhythmia absoluta. Häufige polymorphe ventrikuläre Extrasystolen. Vereinzelte Couplets. Lown IV a.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2218> und dem B-DAY B-MONTH <[Pseudo] 2218>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.99
+4 - 10 /nl
+B-DATE
+Hb
+12.4
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.1
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.360
+0,36 - 0,47 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 01/02/19>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 01/02/19>
+RDW
+14.0
+12,9 - 18,7 %
+<[Pseudo] 01/02/19>
+hypochr.Erythroz.
+0.2
+0 - 2 %
+<[Pseudo] 01/02/19>
+Thrombozyten
+220
+150 - 440 /nl
+<[Pseudo] 01/02/19>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+141
+135 - 146 mmol/l
+<[Pseudo] 01/02/19>
+Kalium -LRB- ISE -RRB-
+3.71
+3,4 - 5,0 mmol/l
+<[Pseudo] 01/02/19>
+Calcium
+2.11
+2,11 - 2,59 mmol/l
+B-DATE
+Phosphat
+1.52 !H
+0,84 - 1,45 mmol/l
+<[Pseudo] 30/01/19>
+Magnesium
+0.90
+0,75 - 1,05 mmol/l
+<[Pseudo] 30/01/19>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Chlorid -LRB- ISE -RRB-
+105
+98 - 111 mmol/L
+<[Pseudo] 30/01/19>
+Kreatinin
+1.03
+0,5 - 1,4 mg/dl
+B-DATE
+Harnstoff
+66 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+48.7 !L
+>60 s.u.
+B-DATE
+MDRD
+53.49
+ml/min/1,73qm
+<[Pseudo] 30/01/19>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+38.2
+30 - 50 g/l
+<[Pseudo] 30/01/19>
+Glucose
+136 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+29
+- <37 U/l
+B-DATE
+GPT/ALT
+23
+- <35 U/l
+B-DATE
+AP
+93
+55 - 105 U/l
+B-DATE
+GGT
+105 !H
+- <40 U/l
+<[Pseudo] 30/01/19>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Ges.Bili.
+0.90
+- <1.0 mg/dl
+B-DATE
+CRP
+4.2
+- <5 mg/l
+B-DATE
+Hämolyse
+-
+
+<[Pseudo] 01/02/19>
+ikterisch
+-
+
+<[Pseudo] 01/02/19>
+Lipämie
+-
+
+<[Pseudo] 01/02/19>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+217
+- <301 U/l
+B-DATE
+CK
+39
+- <170 U/l
+<[Pseudo] 30/01/19>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+211 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+4490 !H
+- <450 ng/l
+<[Pseudo] 27/01/19>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.530
+0,400 - 4,000 mU/l
+<[Pseudo] 30/01/19>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+87.1
+70 - 125 %
+B-DATE
+INR - ber.
+1.07
+- <1.2
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+20.3
+- <35 s
+B-DATE
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.48 !H
+7,37 - 7,45
+B-DATE
+pO2
+82
+mmHg
+B-DATE
+pCO2
+27.4 !L
+35 - 45 mmHg
+<[Pseudo] 01/02/19>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-2.5 !L
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+22.4
+mmol/l
+B-DATE
+Laktat
+19.9 !H
+- <16 mg/dl
+B-DATE
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte als Verlegung aus der B-ORG I-ORG zur TAVI bei dekompensierter Aortenklappenstenose.
+
+In der am <[Pseudo] 24/01/2219> durchgeführten Echokardiographie ergab sich ein normal großer, septal betont hypertrophierter linker Ventrikel mit leichtgradig eingeschränkter systolischer Pumpfunktion bei Hypokinesie der basalen Abschnitte mit reduzierter longitudinaler Funktion. Es zeigte sich einen Hinweis auf Compliancestörung des LV. LA und RA waren deutlich dilatiert. Es ergab sich eine eingeschränkte RV-Funktion. Aortenwurzel normal weit. Die Aortenklappe war deutlich verdickt und verkalkt mit verminderter Separation und eingeschränkte Beurteilbarkeit der Kuspidie. Dopplersonographisch zeigte sich ein kombiniertes Aortenvitium höheren Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 0,4 cm², PPG 77 mmHg, MPG 43 mmHg -RRB- . Die Mitralklappe war verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Die übrigen Klappen waren sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck war in Ruhe deutlich erhöht -LRB- ca. 70-75 mmHg -RRB- . Es zeigte sich im direkten Vergleich zum Vorbefund vom <[Pseudo] 23/10/2213> eine deutliche Zunahme der Aortenklappensklerose mit höhergradiger Stenose, Compliancestörung der LV, eingeschränkte RV-Funktion und Zunahme des PA-Drucks.
+
+Die Patientin wurde ausführlich über die Möglichkeit eines transarteriellen Aortenklappenersatzes informiert. Aufgrund des hohen Patientenalters sowie der allgemeinen körperlichen Gebrechlichkeit besteht bei B-SALUTE B-PER ein deutlich erhöhtes Operationsrisiko. Zur Evaluierung der technischen Machbarkeit einer TAVI erfolgte die Durchführung einer kontrastmittelgestützten CT-Untersuchung.
+
+Nach Rücksprache mit unserem Klappen-Team unter der Leitung von B-TITLE I-TITLE B-PER wurde die technische Durchführbarkeit bestätigt.
+
+Es erfolgte eine ausführliche Aufklärung über den geplanten Eingriff inkl. expliziter Aufklärung über die bestehenden Risiken und Komplikationen, sowie eine anästhesiologische Aufklärung und Prämedikation.
+
+Bis zur Übernahme auf unsere B-ORG gestaltete sich ein komplikationsloser Verlauf.
+
+Die transfemorale Implantation einer Corevalve Evolut R-Bioprothese -LRB- 29 mm -RRB- am <[Pseudo] 30/01/2219> verlief komplikationslos. Der Verschluss der Leiste gestaltete sich ebenso problemlos. Bei Übernahme aus dem Herzkatheterlabor auf die kardiologische Wachstation spontan-atmende, beschwerdefreie Patientin. Es erfolgte eine periinterventionelle Antibiose mittels Cefuroxim. Bei bekannter Kontrastmittel-Allergie wurde präinterventionell 250 mg Cortison sowie 4 mg Tavegil verabreicht. Bei Übernahme klagte die Patientin über deutlichen Juckreiz am Stamm ohne Urtikaria.
+
+Der prophylaktisch angelegte passagere Schrittmacher konnte am <[Pseudo] 31/01/2219> entfernt werden, bis zu diesem Zeitpunkt zeigte sich die Pat. durchgehend rhythmusstabil.
+
+Postprozedural fand sich ein Linksschenkelblock -LRB- QRS 152ms, im Vor-EKG vor Intervention bereits bei 140ms -RRB- , die Pat. zeigte sich jedoch durchgehend rhythmusstabil, so dass der prophylaktisch angelegte passagere Schrittmacher am <[Pseudo] 31/01/2219> entfernt werden konnte.
+
+Am <[Pseudo] 31/01/2219> erfolgte die Übernahme von B-SALUTE B-PER auf unsere B-ORG Normalstation.
+
+Es wurde ein Implantatausweis ausgehändigt und ausführlich über notwendige Verhaltensmaßnahmen aufgeklärt.
+
+Eine angiologische Kontrolluntersuchung der Leiste zeigte keine Hinweise auf eine Fistel, akute Einblutung oder Aneurysma. Wir bitten um Entfernung des Nahtmaterials in der Leiste 10 Tage postoperativ.
+
+Echokardiographisch zeigte sich implantierte Klappenprothese in Lage und Funktion regelrecht. Weiterhin zeigte sich eine noch gute systolische Pumpfunktion ohne abgrenzbare Hypokinesie. Der systolische PA-Druck in Ruhe zeigte sich deutlich erhöht -LRB- ca. 70-75 mmHg -RRB- .
+
+Bezüglich der deutlichen Erhöhung des PA-Druckes in Ruhe erfolgte am <[Pseudo] 01/02/2219> eine pulmologische Abklärung. Eine Bodyplethysmographie war nicht umsetzbar, da die Patientin die gegebenen Anweisungen nicht umsetzten konnte. Daher erfolgte nur eine Spirometrie. Auch die Spirometrie ist allerdings nicht valide beurteilbar, da die Pat. die gegebenen Anweisungen nicht umsetzen konnte. In der Lungenfunktionsdiagnostik ergab sich bei vorbestehendem Verdacht auf Asthma Bronchiale eine eher restriktive Funktionsstörung. Prinzipiell ist aufgrund der Allergieanamnese ein Asthma möglich. Da die Pat. über einen positiven Effekt durch die Fostereinnahme berichtet, kann dieses gerne probatorisch mit 1-0-1 regelmäßig genutzt werden. Zur
+Soorprophylaxe empfehlen wir nach der Einnahme den Mund auszuspülen!
+
+Eine leichte PA-Druckerhöhung ist seit <[Pseudo] 2201> bekannt, <[Pseudo] 2201> wurde diese auch invasiv bestätigt mit damals normwertigem PVR. Prinzipiell ist eine kardiologische Komponente bei Compliance-Störung und langjährigem VHF zu vermuten, zusätzliche Faktoren sind noch unbekannt. Klinisch gibt die Pat. aber bereits eine sehr gute Besserung nach TAVI und forcierter Diurese an, so dass zunächst abgewartet werden kann. Es zeigte sich eine schwere Hypoxämie mit Sauerstoffbedarf. Da die Patientin diesbezüglich aber zum aktuellen Zeitpunkt oligosymptomatisch ist, sehen wir aktuell keine Notwendigkeit einer Heimsauerstofftherapie. Dies wurde mit der Patientin besprochen und sie darüber aufgeklärt. Sollte die Patienten diesbezüglich symptomatisch werden, empfehlen wir eine pulmologische Vorstellung mit gegebenenfalls erneuter Evaluation. Falls die die Hypoxämie bereits langjährig vorliegen sollte, kann auch diese eine Ursache für die PA-Druckerhöhung darstellen.
+
+Längere Pausen konnten sowohl in der Monitorüberwachung als auch in der Langzeit-EKG Untersuchung nicht registriert werden. Wir empfehlen die Durchführung einer weiteren Langzeit-EKG-Untersuchung im ambulanten Kontext im Verlauf.
+
+Eine AHB wurde empfohlen und eine Beratung durch den Sozialdienst eingeleitet.
+
+Bei Z.n. TAVI und Antikoagulationsindikation empfehlen wir die Fortführung der dauerhaften oralen Antikoagulation.
+
+Wir passten die Medikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparameter, sowie ggf. um eine Anpassung der Medikation im Verlauf. Zudem bitten wir um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Außerdem bitten wir um Beachtung der lebenslangen Endokarditisprophylaxe nach den Leitlininien der B-ORG I-ORG I-ORG Kardiologie. Dem Patienten wurde hierzu ein Merkblatt ausgehändigt. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o. oder i.v. -RRB- oder bei Penicillinallergie mit Clindamycin -LRB- 600 mg p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien.
+
+Wir bitten um eine Wiedervorstellung zur TAVI-Kontrolle zum u.a. Termin in unserer B-ORG I-ORG -LRB- Tel. B-PHONE -RRB- . Gern kann bei unauffälliger initialer Kontrolluntersuchung eine jährliche ambulante Verlaufskontrolle bei einem niedergelassenen Kardiologen oder einer niedergelassenen Kardiologin erfolgen.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin mit einem Entlassgewicht von 72,3 kg in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Procedere:
+- Kontroll-Termin in der B-ORG am <[Pseudo] 19/04/2219> um 10:30 Uhr
+- Fadenzug an Tag 10 nach TAVI-Implantation beim Hausarzt
+- Durchführung eines weiterem ambulanten Langzeit-EKGs im Verlauf
+- Gegebenenfalls erneute pulmologische Evaluation
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Apixaban 5 mg 1-0-1
+Dosisreduktion bei Gewicht < 60kg / Alter > 80 J / Kreatinin > 1,5 mg/dl -LRB- 2/3 Kriterien -RRB- oder GFR 15-30 ml/min
+Bisoprolol 5 mg 0,5-0-0,5
+Bitte regelmäßige Kontrollen von Herzfrequenz und Blutdruck und ggf. Dosisanpassung im Verlauf
+Candesartan 16 mg 1-0-0,5
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Eplerenon 25 mg 1-0-0
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Torasemid 10 mg 1-1-0
+Pravastatin 20 mg 0-0-1
+Bitte regelmäßige Kontrollen von CK, Transaminasen und Lipiden und bei Verträglichkeit LDL-adaptierte Dosisanpassung
+Pantoprazol 20 mg 1-0-0
+Amitriptylin 10 mg 0-0-1
+Macrogol 6,9 g 0-1-0 Bei Bedarf
+Promethazin 20 mg/ml 0-0-1 Bei Bedarf
+
+Inhalt.:
+Beclometason -LRB- Foster -RRB- 100/6µg 1-0-1 Dauerhaft
+Salbutamol 100µg/Dosis bis 6xtgl. Bei Bedarf
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der B-ORG I-ORG I-ORG I-ORG -LRB- http://leitlinien.dgk.org -RRB- .
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir bedanken uns für die Überweisung und die vertrauensvolle Zusammenarbeit.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

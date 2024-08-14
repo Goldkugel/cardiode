@@ -1,0 +1,442 @@
+Aufnahmedatum: <[Pseudo] 2035-03-06 >
+Geburtsdatum: <[Pseudo] 1963-09-12 >
+Alter: 71
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 12/09/1963> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis <[Pseudo] 02/03/2035> in unserer stationären Behandlung befand.
+
+Aktuell:
+- Vorhofflimmer-Rezidiv am <[Pseudo] 21/02/2035>
+- Koronare Herzerkrankung ohne höhergradige Stenosen bei guter linksventrikulärer Pumpfunktion und erhöhten linksventrikulären enddiastolischen Drücken -LRB- B-OTHER vom. <[Pseudo] 24/02/2035> -RRB-
+- Erfolgreiche Pulmonalvenenisolation in Cryo-Technik -LRB- B-OTHER vom <[Pseudo] 28/02/2035> -RRB-
+
+Diagnosen:
+- Paroxysmales Vorhofflimmern -LRB- ED <[Pseudo] 10/2032> -RRB-
+-UNK- EHRA: III
+-UNK- CHA2DS2-VASc: 6
+-UNK- HAS-BLED: 3
+-UNK- LA-Diameter: 42mm -LRB- Echo vom <[Pseudo] 22/02/2035> -RRB-
+-UNK- LV-Funktion gut -LRB- Echo vom <[Pseudo] 22/02/2035> -RRB-
+-UNK- Z.n. initial erfolgreicher elektrischer Kardioversion am <[Pseudo] 12/02/2035>
+-UNK- Letztes VHF-Rezidiv <[Pseudo] 01/2035>
+- Hörsturz mit vestibulärer Beteiligung <[Pseudo] 09/2025>
+-UNK- V.a. Ruptur rundes Fenster links
+- Rechtshirnige Ischämie bei zerebraler Mikroangiopathie <[Pseudo] 04/2021>
+- Migräne
+- Z.n. Hysterektomie <[Pseudo] 1988>
+- Z.n. mehrfachem Ileus mit operativer Sanierung -LRB- anamnestisch -RRB-
+
+Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, positive Familienanamnese -LRB- mütterlicherseits mehrere Familienmitglieder mit KHK vor dem 60. LJ -RRB-
+
+Anamnese:
+Die Aufnahme der Patientin erfolgte über die CPU bei symptomatischem Vorhofflimmer-Rezidiv. Vor ca. 1 Woche wurde die Patientin letztmalig in der CPU mit einem VHF-Rezidiv vorstellig, damals erfolgte eine erfolgreiche elektrische Kardioversion. Seither beschreibt sie mindestens 3 Rezidive, die bis auf die heutige Episode alle im Laufe der Zeit spontan sistierten. Im Rahmen des Vorhofflimmers verspüre die Patientin eine ausgeprägtere Belastungsdyspnoe, Palpitationen mit Herzrasen, Schwindel sowie einen dumpfen thorakalen Schmerz und Druckgefühl ohne Ausstrahlung. Die Patientin berichtet ferner über ein pelziges Gefühl der linken Gesichtshälfte und des linken Fußes. Der häuslich gemessene Blutdruck sei während des Vorhofflimmerns bei 180/130 mmHg.
+Seit B-MONTH <[Pseudo] 2033> bestehen auch in den VHF-freien Intervallen ein deutlicher Leistungseinbruch und eine Abnahme der körperlichen Belastbarkeit. Bei geringer Belastung -LRB- 6-10 Treppenstufen -RRB- bekomme sie Belastungsdyspnoe und pectangiöse Beschwerden im Sinne eines throrakalen Druckschmerzes. Nach einer Belastungspause sistieren die Beschwerden von selbst. Zudem haben die Beinödeme zugenommen. Der Nachtschlaf sei mit flachem Oberkörper möglich. Eine Nykturie -LRB- 2x pro Nacht -RRB- sei bekannt.
+
+Medikation bei Aufnahme:
+Xarelto 20mg 1-0-0
+Nebivolol 5mg 1-0-1
+Exforge -LRB- Amlodipin 5mg, Valsartan 160mg, HCT 12,5mg -RRB- 1-0-0
+Exforge -LRB- Amlodipin 5mg, Valsartan 160mg -RRB- 0-0-1
+Moxonidin 0,2 mg 0-0-1
+Simvastatin 20mg 0-0-1
+Pantoprazol 40mg 1-0-0
+Calcium 500mg 1-0-0
+Magnesium Verla Drag -UNK- es 1-0-0
+Dekristol 20000 I.E. 1xWoche freitags
+Alendronsäure 70mg 1xWoche dienstags
+Novalgin 500mg bei Bedarf
+Rizatriptan 10 mg bei Bedarf
+Nifedipin 20mg/ml 5 Tropfen bei RR >180
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 171cm, Gewicht: 65kg -RRB-
+HF:135 /min
+RR: 137/101mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.p.B.
+HT: leise, rein, keine path. Geräusche, arrhythmisch
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Abdomen: weich, kein DS, keine Resist.
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse gut tastbar
+Neurol. Status: orientierend o.p.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 21/02/2035:>
+Tachykardes Vorhofflimmern, Herzfrequenz: 132/min, Linkstyp, QRS 145ms. QTc 413ms. Kompletter Rechtsschenkelblock mit konsekutiven KETV.
+
+CT-Schädel nativ vom <[Pseudo] 21/02/2035:>
+Befund:
+Eine cCT vom <[Pseudo] 01/10/2025> sowie ein cMRT vom <[Pseudo] 08/11/2025> zum Vergleich vorliegend.
+Im Vgl. zur CT-VU gering zunehmende kleinfleckige, teils großflächige, konfluierende Dichteminderung im supratentoriellen Marklager frontal betont beidseits. Pallidumspitzenkalk beidseits. Ansonsten erhaltene Rinden-Mark-Differenzierbarkeit. Kein Nachweis einer akuten intrakraniellen Blutung. Regelrechte infratentoriell soweit bei üblichen Artefakten beurteilbar. Im Verlauf allenfalls geringfügig weitere äußere Liquorräume. Innere und äußere Liquorräume insgesamt altersentsprechend. Kein Liquoraufstau. Nasennebenhöhlen und Ohrnebenräume frei belüftet. Keine suspekten ossären Destruktionen.
+Beurteilung: Keine -LRB- sub- -RRB- akute ischämische Demarkierung, keine akute intrakranielle Blutung. Im Vergleich zur Voruntersuchung B-DATE geringe Zunahme der cerebralen Mikroangiopathie.
+
+Echokardiographie vom <[Pseudo] 22/02/2035:>
+Normal großer, anteroseptal basal betont hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion bei Hypokinesie anteroalteral medioapikal. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV noch normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Diskreter Mitralklappenprolaps ohne begleitende Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Systolischer PA-Druck bei fehlender Trikuspidalinsuffizienz nicht bestimmbar. Erstbefund in domo.
+
+Ruhe-EKG vom <[Pseudo] 23/02/2035:>
+Normofrequenter Sinusrhythmus, HF 62/min.AV-Block I° mit PQ 214ms. QRS 88ms. QTc 438ms. Regelrechte R-Progression. R/S-Umschlag in V3/V4. Keine signifikanten KETV.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 24/02/2035> -RRB- :
+Invasive Diagnostik bei V.a. koronare Herzerkrankung:
+Koronare Herzerkankung ohne höhergradige Stenosen bei guter linksventrikulärer Pumpfunktion. Linksventrikuläre enddiastolische Drücke erhöht.
+Diagnosen:
+- Paroxysmales Vorhoflimmern -LRB- ED <[Pseudo] 10/2032> -RRB-
+- Rechtshirnige Ischämie bei zerebraler Mikroangiopathie <[Pseudo] 04/2021>
+- Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, positive Familienanamnese
+
+Ruhe-EKG vom <[Pseudo] 25/02/2035:>
+Bradyarrhythmia absoluta bei Vorhofflimmern, Herzfrequenz: 45/min, Linkstyp, QRS 98ms. QTc 422ms. T-Abflachungen in V4-V6. Verzögerte R-Progression mit R/S-Umschlag in V5.
+
+Echokardiographie vom <[Pseudo] 28/02/2035:>
+TEE-Untersuchung in Kurznarkose -LRB- 2mg Dormicum, 0.05 Fentanyl, 1 Amp Vomex -RRB- komplikationslos durchgeführt Kein Nachweis intrakardialer Thromben, insbesondere LA/LAA frei, geringer Spontankontrast. Kein farbdopplersonographischer Nachweis eines PFO.
+
+Pulmonalvenesiolation -LRB- B-OTHER vom <[Pseudo] 28/02/2035> -RRB- :
+2-fache Punktion der V. femoralis dextra. Problemlose 1-fache transseptale Punktion. Einführen der FlexCath-Schleuse in das LA. Transnasales Einführen der Temperatursonde in den Ösophagus -LRB- FIAB -RRB- . Vorführen eines steuerbaren, diagnostischen 4-poligen Katheters in den CS. Angiographie der LSPV, RSPV, LIPV und RIPV jeweils nach Inflation des Cryoballons. Isolation der lateralen Pulmonalvenen -LRB- LSPV 1, LIPV 1 -RRB- . Isolation der septalen Pulmonalvenen -LRB- RSPV 1, RIPV 1 -RRB- . Minimale Temperaturen und
+-UNK- time to isolation -UNK- in LSPV -LRB- -42°C/ns -RRB- , LIPV -LRB- -40°C/ns -RRB- , RSPV -LRB- -45°C/ns -RRB- und RIPV -LRB- -41°C/ns -RRB- . Kein Hinweis auf Parese des N. phrenicus -LRB- Kontrolle durch kontinuierliche Phrenicusstimulation -RRB- . Postablationem Nachweis eines Entranceblocks aller PVs.
+Postinterventionell Ausschluss eines Perikardergusses durch Echokardiographie.
+Zusammenfassung: Pulmonalvenenisolation in Cryo-Technik.
+
+Echokardiographie vom <[Pseudo] 01/03/2035:>
+Untersuchung am Bett auf B-ORG. Reduzierte Schallbedingungen.
+Kein relevanter Perikarderguss nachweisbar. Vena cava inferior dilatiert und nur eingeschränkt atemvariabel.
+
+Farbduplexsonographie der Gefäße der rechten Leiste vom <[Pseudo] 01/03/2035:>
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden. Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+HNO-Konsil vom <[Pseudo] 02/03/2035>
+Anamnese: Vorstellung der Patientin mit seit 2,5 Wochen bestehendem starken Bienensummen-ähnlichem Tinnitus links bei bekannter Surditas links nach RF-Membranruptur und Abdichtungsop B-YEAR.
+Der Tinnitus störe die Patientin sehr. Schwindel habe die Patientin seit ihrem Schlaganfall immer mal wieder ungerichtet und diffus sowie von schwankendem Charakter, der Schwindel ist nicht verschlimmert.
+Eine Otalgie oder Otorrhoe ist nicht vorhanden. Z.n. Tympanoskopie links und Rundfensterabdichtung in ITN am B-DATE.
+Infusionstherapie nach Stennert unter Monitoring der kardiovaskulären Parameter
+Befund:
+Ohr: GG bds. frei, TF intakt, Paukenhöhle lufthaltig, Valsalva beidseits negativ
+TA: Normakusis rechts, left corner links
+Tympanometrie: Heute nicht möglich laut C. Betker aus der Funktionsdiagnostik.
+Frenzelbrille: Keine Spontan-, Provokations- oder Lagerungsnystagmen
+Diagnosen: Tubenventilationsstörung beidseits und Tinnitus links
+Beurteilung und Empfehlung:
+Bei der Patientin besteht der Verdacht auf Tubenventilationsstörung. Otriven Nasentropfen für 3-5Tage 5xtgl mit mind. 20xtgl Druckausgleich. Anschließend Nasonex NT 2-0-2 für 6 Wochen mit weiterhin Druckausgleichstraining bis zu 20xtgl.Gespräch über Cortisontherapie bei Tinnitus und zu erwartendes Outcome, Patientin steht dem aktuell ablehnend gegenüber, abwartendes Verhalten erwünscht.
+
+Ruhe-EKG bei Entlassung:
+Bradykarder Sinusrhythmus, HF 56/min. Linkslagetyp, AV-Block I° mit PQ 214ms. QRS 99ms. QTc 446ms. Verzögerte R-Progression. R/S-Umschlag in V4/V5. Keine signifikanten KETV.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 22/02/2035> und dem <[Pseudo] 01/03/2035>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.15
+4 - 10 /nl
+B-DATE
+Hb
+12.0
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.9 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.360
+0,36 - 0,47 l/l
+B-DATE
+MCV
+91
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 01/03/35>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 01/03/35>
+RDW
+13.6
+12,9 - 18,7 %
+<[Pseudo] 01/03/35>
+hypochr.Erythroz.
+0.4
+0 - 2 %
+<[Pseudo] 01/03/35>
+Thrombozyten
+212
+150 - 440 /nl
+<[Pseudo] 01/03/35>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 01/03/35>
+Kalium -LRB- ISE -RRB-
+4.94
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.40
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+0.96
+0,5 - 1,1 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+44
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+59.7 !L
+>60 s.u.
+<[Pseudo] 01/03/35>
+MDRD
+72.53
+ml/min/1,73qm
+<[Pseudo] 22/02/35>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+47.2
+30 - 50 g/l
+<[Pseudo] 22/02/35>
+Glucose
+130 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+16
+- <37 U/l
+B-DATE
+GPT/ALT
+11
+- <35 U/l
+B-DATE
+GGT
+14
+- <40 U/l
+B-DATE
+Ges.Bili.
+1.10 !H
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+5.3
+- <6 mg/dl
+<[Pseudo] 22/02/35>
+Triglyceride
+69
+- <150 mg/dl
+<[Pseudo] 22/02/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+184.0
+- alt.abh. mg/dl
+<[Pseudo] 22/02/35>
+LDL-Chol. -LRB- berechn. -RRB-
+71
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+<NONE>
+>50 mg/dl
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 26/02/35>
+Hämolyse
+-
+
+<[Pseudo] 01/03/35>
+ikterisch
+-
+
+<[Pseudo] 01/03/35>
+Lipämie
+-
+
+<[Pseudo] 01/03/35>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+228
+- <301 U/l
+B-DATE
+CK
+143
+- <170 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+57.0 !H
+- <14 pg/ml
+<[Pseudo] 25/02/35>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.7
+- <6,1 %
+<[Pseudo] 22/02/35>
+HbA1c -LRB- IFCC -RRB-
+39
+20 - 42 mmol/mol
+<[Pseudo] 22/02/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+117 !H
+- <110 mg/dl
+<[Pseudo] 22/02/35>
+TSH
+2.16
+0,400 - 4,000 mU/l
+<[Pseudo] 22/02/35>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+85.3
+70 - 125 %
+<[Pseudo] 26/02/35>
+INR - ber.
+1.08
+- <1.2
+<[Pseudo] 26/02/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+27.1
+- <35 s
+B-DATE
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte bei symptomatischem Vorhofflimmer-Rezidiv am B-DATE. Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 21 pg/ml, im Verlauf stabil bei 23 pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt, sondern a.e. im Rahmen der Tachyarrhythmia absoluta erhöht. Bei Aufnahme zeigte sich laborchemisch ein leicht erniedrigtes Kalium, welches durch die orale Substitution ausgeglichen werden konnte.
+
+Bei von der Patientin geäußertem pelzigem Gefühl der linken Gesichtshälfte und des linken Fußes erfolgte eine Mitbeurteilung durch die B-SALUTE der Neurologie. Diese sehen weder klinisch noch in der cCT Hinweise für eine akute cerebrale Ischämie oder eine intrakranielle Blutung.
+
+Bei nun in kurzer Folge aufgetretenen Vorhofflimmer-Rezidiven sahen wir bei hämodynamisch stabiler Patientin, keine Indikation für eine erneute elektrische Kardioversion. Es erfolgte eine Therapie mit 300mg Amiodaron i.v. und eine stationäre Aufnahme zur weiteren Behandlung. Hierunter konvertierte die Patientin in einen normofrequenten Sinusryhthmus, der auch in den folgenden Tagen stabil war.
+
+Echokardiographisch zeigte sich eine noch gute systolische Pumpfunktion bei einer neu beschriebenen Hypokinesie anterolateral medioapikal. Es fanden sich keine relevanten Klappenvitien. Bei anamnestisch typischen pectanginösen Beschwerden und Verschlechterung der Belastbarkeit sowie neuer Hypokinesie stellten wir die Indikation zur invasiven Abklärung.
+
+In der am <[Pseudo] 24/02/2035> durchgeführten Koronarangiographie zeigte sich eine koronare Herzerkrankung ohne höhergradige Stenosen bei guter linksventrikulärer Pumpfunktion. Peri-/Postinterventionell kam es wieder zum Rezidiv eines tachykarden Vorhofflimmerns. Wir behandelten dies zunächst mit 300mg Amiodaron i.v.
+
+Auch am Morgen des <[Pseudo] 25/02/2035> bestand weiterhin ein tachykardes Vorhofflimmern. Die Patientin erhielt erneut 300mg Amiodaron i.v. Gegen 14:00 Uhr zeigte sich am Monitor eine Postkonversionspause von etwa 5 Sekunden. Die Patientin berichtete hierunter über ein deutliches Schwindelgefühl. Es erfolgte nach RS SALUTE PER eine Verlegung auf die B-ORG ORG zur engmaschigen Überwachung. Dort zeigte sich die Patientin durchgehend asymptomatisch und rhythmusstabil. Es kam zu keiner erneuten Pause, weshalb die Patientin am <[Pseudo] 26/02/2035> auf Normalstation zurückverlegt wurde.
+
+Bei mehrfachen Vorhofflimmer-Rezidiven trotz elektrischer Kardioversion und Amiodarongabe wurde die Indikation zur Pulmonalvenenisolation gestellt. Nach echokardiographischem Ausschluss von intrakardialen Thromben konnte am <[Pseudo] 28/02/2035> eine komplikationslose Pulmonalvenenisolation in Cryo-Technik durchgeführt werden. Postinterventionell zeigte sich bis zur Entlassung ein bradykarder Sinusrhythmus.
+Ein Perikarderguss konnte nach der Intervention mehrfach ausgeschlossen werden. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich in der Farbduplexsonographie der Gefäße der rechten Leiste vom <[Pseudo] 01/03/2035> kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstellen.
+
+Wir empfehlen auch bei stabilem Sinusrhythmus die Fortführung der oralen Antikoagulation mit Xarelto für mindestens 3 Monate. Im Anschluss daran sollte eine Re-Evaluation nach CHA2DS2-VASc-Score und HAS-BLED-Score durch den niedergelassenen Kardiologen erfolgen. Wir bitten um die ambulante Durchführung eines Langzeit-EKGs in 8-12 Wochen zur Befundkontrolle. Nach Pulmonalvenenisolation empfehlen wir die Einnahme eines Protonenpumpen-inhibitors für 10 Tage wie unten aufgeführt. Über die Blanking-Periode von 3 Monaten wurde der Patient ausführlich aufgeklärt. Wir bitten um regelmäßige Kalium-Kontrollen.
+
+Bei persistierendem Tinnitus links bei bekannter Surditas links nach RF-Membranruptur und Abdichtungs-OP <[Pseudo] 2024> erfolgte am <[Pseudo] 01/03/2035> eine HNO-ärztliche Vorstellung der Patientin in domo. Dabei wurde eine Tubenventilationsstörung beidseits und ein Tinnitus links diagnostiziert und eine Therapieempfehlung -LRB- s.o. -RRB- ausgesprochen. Bezüglich einer Cortisontherapie zur Behandlung des Tinnitus steht die Patientin aktuell ablehnend gegenüber und spricht sich eher für ein abwartendes Procedere aus. Sie will die Beschwerden im ambulanten Setting weiter abklären lassen.
+
+Bei bekannter zerebraler Mikroangiopathie <[Pseudo] 04/2021> empfehlen wir zudem eine regelmäßige Farbduplexsonographie der Carotiden nach Leitlinie und in Rücksprache mit dem behandelnden Neurologen.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien, sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin am <[Pseudo] 02/03/2035> in Ihre geschätzte ambulante Betreuung.
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Xarelto 20mg 1-0-0
+Nebivolol 5mg 1-0-0, Dosis reduziert, bitte rglm HF-
+sowie RR-Kontrollen
+Exforge HCT -LRB- Amlodipin 5mg, Valsartan 160mg, HCT 12,5mg -RRB- 1-0-0
+Exforge -LRB- Amlodipin 5mg, Valsartan 160mg -RRB- 0-0-1
+Moxonidin 0,2 mg 0-0-1
+Simvastatin 20mg 0-0-1
+Pantoprazol 40mg 1-0-0
+Calcium 500mg 1-0-0
+Magnesium Verla Drag -UNK- es 1-0-0
+Dekristol 20000 I.E. 1x pro Woche, freitags
+Alendronsäure 70mg 1x pro Woche, dienstags
+Novalgin 500mg bei Bedarf
+Rizatriptan 10 mg bei Bedarf
+Nifedipin 20mg/ml 5 Tropfen bei RR >180
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus der selben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von Problemen oder Komplikationen kann jederzeit eine Wiedervorstellung erfolgen.
+-LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

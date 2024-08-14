@@ -1,0 +1,539 @@
+Aufnahmedatum: <[Pseudo] 2035-12-16 >
+Geburtsdatum: <[Pseudo] 1965-03-04 >
+Alter: 70
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 04/03/1965> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- V.a. pulmonal und cerebral metastasiertes Bronchial-Ca -LRB- DD Mamma-CA / CUP-Syndrom -RRB- -Akzidenteller Befund
+- Kein Anhalt für Primär-TU im GI-Trakt
+-UNK- Ad ambulante gyn. Vorstellung -LRB- Mamma-CA? -RRB-
+-UNK- Ad Thorax-Klinik zur Abklärung BC-Verdacht -LRB- B-DATE: 9:30 Uhr -RRB-
+- V.a. abgelaufener STEMI -LRB- persist. ST-Elevation bei Apexaneurysma -RRB-
+- Schwere 3-GE-KHK -LRB- bek. Verschluss prox. LAD u. prox. RCA -RRB-
+- Hochgradige Abgangsstenose RPLS -LRB- B-OTHER v. <[Pseudo] 28/11/2035> -RRB-
+-UNK- PTCA -LRB- kissing balloon -RRB- / 1DES-Implantation -LRB- Promus -RRB- ; DAPT für 12 Monate
+- Sekundärprophylaktische 1-Kammer-ICD-Implant. -LRB- Firma Abbott -RRB- am <[Pseudo] 03/12/2035>
+-UNK- ICD-Kontrolle am <[Pseudo] 10/01/2036> um 11:30 Uhr in unserer Kardiolog. Ambulanz
+- 95%- AIC-Stenose rechts
+- Ad BBA zur PTCA im Verlauf
+- Infrarenales Aortenaneurysma -LRB- 34 mm -RRB-
+- Hochgradige Abgangsstenose der rechten A. iliaca communis
+- Asymptomatische Cholecystolithiasis
+- Leichtgradige erosive Gastritis
+- 2 Colonpolypen -LRB- tub. villöses Adenom, low-grade IEN -RRB- - keine Polypektomie erfolgt
+- Sigmadivertikulose
+
+Diagnosen -LRB- Uniklinikum I-ORG <[Pseudo] 05/2035> -RRB- :
+- Schwere 3 Gefäße KHK
+-UNK- n. NSTEMI <[Pseudo] 03/2033> bei
+-UNK- Proximalem Verschluss der RCA -LRB- nur partiell disle -RRB-
+- Subtotale Stenose der proximalen LAD und filiforme distale LAD
+- RCX 75% proximal medial am Abgang des RMS
+- DES-Stent der proximalen RCX-Stenose in den RMS 1 hinein
+- Z. n. Dekompensierte Herzinsuffizienz
+-UNK- Hochgradige eingeschränkte LV Pumpfunktion -LRB- EF 12%, TTE B-DATE -RRB-
+-UNK- Eingeschränkte longitudinale RV Pumpfunktion
+-UNK- Zirkulärer Perikarderguss <[Pseudo] 03/2033>
+-UNK- Ausschluss Lungenarterienembolie <[Pseudo] 03/2033>
+- Latente Hyperthyreose
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie, ehemaliger Nikotinabusus -LRB- kumulativ 25 PY -RRB- , ehemals Diabetes mellitus Typ 2, pos. Familienanamnese -LRB- Mutter mit Myokardinfarkt im Alter von 70 70 und verstorben an Schlaganfall mit 70 70 -RRB-
+
+Allergien:
+Hausstaub
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über die B-ORG bei Kollapsneigung -LRB- Präsynkope -RRB- und V.a. Progress der bekannten KHK.
+
+Es wird eine leicht reduzierte Belastbarkeit im Alltag beschrieben. Bei drei Etagen Treppensteigen bestehe inadäquate Belastungsdyspnoe -LRB- NYHA I -RRB- , jedoch keine belastungsinduzierten pectanginösen Beschwerden. Auch in Ruhe bestünden weder pectanginöse Beschwerden noch Dyspnoe. Palpitationen treten unregelmäßig und selten ohne Auslöser vor allem nachmittags auf. Schwindel wird wie stattgehabte Synkopen verneint. Die häuslichen Blutdruckmessungen ergäben Werte um130/80 mmHg. Es bestehe Nykturie mit ca. zweifacher Miktion pro Nacht. Periphere Ödeme seien bei aktueller Gewichtsabnahme -LRB- -3 kg in den letzten 6 Monaten -RRB- noch nie aufgefallen.
+
+Medikation bei Aufnahme:
+ASS 100mg 1-0-0
+Metoprolol 95mg -UNK- -0-1/2
+Spironolacton 25mg 1-0-0
+Simvastatin 30mg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+
+AZ: leicht reduziert
+165 cm, 70 kg
+HF: 86/min, regelmäßig
+RR: 130 / 80 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o. B.
+HT: rein und leise, keine path. Geräusche
+Lunge: o. B.
+Abdomen: weich, kein DS, keine Resistenzen
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: o. B.
+Neurologischer Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+
+
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 27/11/2035> und dem <[Pseudo] 12/12/2035>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.50
+4 - 10 /nl
+B-DATE
+Hb
+10.4 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.2 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.300 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+94
+83 - 97 fl
+<[Pseudo] 12/12/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 12/12/35>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 12/12/35>
+RDW
+13.9
+12,9 - 18,7 %
+<[Pseudo] 12/12/35>
+hypochr.Erythroz.
+1.5
+0 - 2 %
+<[Pseudo] 12/12/35>
+Thrombozyten
+143 !L
+150 - 440 /nl
+<[Pseudo] 12/12/35>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 12/12/35>
+Kalium -LRB- ISE -RRB-
+3.60
+3,4 - 5,0 mmol/l
+<[Pseudo] 12/12/35>
+Calcium
+2.50
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+1.21 !H
+0,5 - 1,0 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+28
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+45.4 !L
+>60 s.u.
+<[Pseudo] 12/12/35>
+MDRD
+48.04
+ml/min/1,73qm
+<[Pseudo] 28/11/35>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+46.5
+30 - 50 g/l
+<[Pseudo] 28/11/35>
+Glucose
+141 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+32
+- <37 U/l
+B-DATE
+GPT/ALT
+17
+- <35 U/l
+B-DATE
+GGT
+16
+- <40 U/l
+<[Pseudo] 06/12/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Ges.Bili.
+0.40
+- <1.0 mg/dl
+B-DATE
+CRP
+19.9 !H
+- <5 mg/l
+<[Pseudo] 06/12/35>
+Hämolyse
+-
+
+<[Pseudo] 12/12/35>
+ikterisch
+-
+
+<[Pseudo] 12/12/35>
+Lipämie
+-
+
+<[Pseudo] 12/12/35>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+271
+- <301 U/l
+B-DATE
+CK
+166
+- <170 U/l
+B-DATE
+hs-TroponinT
+Kein Material
+- <14 pg/ml
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+152 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+20773 !H
+- <125 ng/l
+<[Pseudo] 28/11/35>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.130 !L
+0,400 - 4,000 mU/l
+<[Pseudo] 10/12/35>
+FT3
+2.76
+2,0 - 4,2 ng/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+FT4
+13.00
+8 - 18 ng/l
+<[Pseudo] 10/12/35>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+81.9
+70 - 125 %
+<[Pseudo] 10/12/35>
+INR - ber.
+1.10
+- <1.2
+<[Pseudo] 10/12/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+19.5
+- <35 s
+B-DATE
+
+
+
+
+
+Ruhe-EKG vom <[Pseudo] 28/11/2035:>
+Normofrequenter Sinusrhythmus, regelmäßig, 86 /min, Linkstyp. PQ 180 msec, QRS 100 msec., QTc msec. Zeiten im Normbereich. verzögerte R-Progression bei R-Verlust über V1-V3, R/S Umschlag in V3/V4. Verzögerter OUP in V3 und V4, T-Negativierung in I und aVL, signifikante ST-Streckenhebung in V3 von 1,5 mV
+
+Langzeit-EKG vom B-DATE.
+Normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 61/min und 92/min, im Mittel 74/min. Eingeschränkte Herzfrequenzvariabilität. Vereinzelte supraventrikuläre Extrasystolen, z.T. auch repetitiv. Keine Pausen. Häufige polymorphe ventrikuläre Extrasystolen, z. T. auch repetitiv mit weitem Kopplungsintervall. Zwei Couplets. Lown IV a.
+
+Ruhe-EKG vom <[Pseudo] 02/12/2035:>
+Normofrequenter Sinusrhythmus, regelmäßig, 75/min, Indifferenztyp. PQ 155 msec, QRS 98 msec. QTc 434 msec. Zeiten im Normbereich. Verzögerte R-Progression bei R-Verlust über V1-V3, R/S Umschlag in V3/V4. T-Negativierung in I und aVL.
+
+Ruhe-EKG vom <[Pseudo] 04/12/2035:>
+Normofrequenter Sinusrhythmus, regelmäßig, 76/min, Linkslagetyp. PQ 170 msec, QRS 95 msec. QTc 442 msec. Zeiten im Normbereich. Verzögerte R-Progression bei R-Verlust über V1-V3, R/S Umschlag in V3/V4. T-Negativierung in I und aVL.
+
+Virologischer Befund vom <[Pseudo] 27/11/2035> -LRB- Notfall-Ambulanz -RRB- :
+
+
+Virologischer Befund vom <[Pseudo] 28/11/2035> -LRB- Notfall-Ambulanz -RRB- :
+
+
+
+Echokardiographie vom <[Pseudo] 28/11/2035:>
+Bemerkungen: Reduzierte Schallbedingungen.
+Beurteilung:
+Normal großer, septal basal betont leicht hypertrophierter linker Ventrikel mit hochgradig verminderter systolischer Pumpfunktion bei ausgedehntem Apexaneurysma sowie Akinesie anterior, anteroseptal, septal und inferior. Kein Hinweis auf intracavitäre Thromben. Verminderte longitudinale Funktion. Diastolische Dysfunktion des LV. LA, RA und RV normal groß, noch gute RV-Funktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht bestimmbar. Erstbefund in domo.
+
+Kipptischuntersuchung vom <[Pseudo] 28/11/2035>
+Zusammenfassung:
+Zu Beginn physiol. HF von 81/min und RR von 114/68 mmHg. Nach dem Kippen gleichbleibende HF von 81/min. Abfall des syst. RR auf 87 mmHg, diast. RR fällt im Mittel auf 61 mmHg. Pat. berichtet von keinen Besonderheiten, wirkt aber im Verlauf desorientiert. Daher Abbruch nach 5 min Standzeit. Nach dem Rückkippen gleichbleibende HF von 80/min sowie Anstieg des RR auf 120/76 mmHg.
+Beurteilung:
+Hypoadrenerge orthostatische Hypotension. Therapie der Grunderkrankung, Flüssigkeitsstatus, Stützstrümpfe.
+
+Herzkatheteruntersuchung -LRB- B-OTHER -RRB- vom <[Pseudo] 28/11/2035> Endbefund:
+Diagnosen:
+Herzkatheteruntersuchung bei NSTEMI. Erfolgreiche PTCA/1-fach DE-Stentimplantation -LRB- Promus -RRB- einer hochgradigen Stenose des überstenteten Abgangs des RPLS. Schwerste koronare 3-Gefäßerkrankung mit bekannten, chronischen Verschlüssen der proximalen LAD -LRB- schwach kollateralisiert -RRB- und der proximalen, kleinen RCA. Verzicht auf Ventrikulographie zur Nephroprotektion. Hochgradige Stenose der A. iliaca communis rechts, kein Hinweis auf höhergradige Beckenarterienstenose links.
+Sonstige Diagnosen:
+KHK 3-GE mit biventr. hochgr. red. LVF, zuletzt 1x DES der LCX in dem RM1 bei NSTEMI -LRB- B-LOC, <[Pseudo] 03/2033> -RRB- , keine Vitalität der Vorderwand im MRT -LRB- extern -RRB- ; latente Hyperthyreose; akutes Nierenversagen;
+CVRF: aHT, HLP, Ex-Nikotin -LRB- 25 PY -RRB- , T2DM.
+Maßnahmen:
+- Duale Thrombozytenaggregationshemmung für 12 Monate.
+- Herzinsuffizienztherapie, Evaluation ICD-Implantation.
+- BBA mit PTA/Stent der AIC rechts im Verlauf.
+- Irenatschema für 10 Tage fortsetzen.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 29/11/2035:>
+Beidseits leicht- bis mittelgradige Plaquebildungen im ACC, Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet. IMD rechts >0,13 cm, links 0,13 cm. Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar. Erstbefund in domo.
+
+Neurologie - Konsiliarische Mitbeurteilung vom <[Pseudo] 29/11/2035:>
+Demenzabklärung einer seit 6 Monaten bestehender Beschwerden am Bett nicht möglich. cMRT empfohlen. Dann nach Abschluss des Akutaufenthalts Vorstellung in Gedächtnisambulanz -LRB- Psychiatrie -RRB- mit neuropsychologischer Testung und LP.
+
+Angiologische Untersuchung vom <[Pseudo] 30/11/2035:>
+Lokalbefund:
+Punktionsstelle reizlos, Leistenpulse palpabel
+Farbduplexsonographie der Gefäße der linken Leiste:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der linken Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden. Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+OP-Bericht: Implantation eines 1-Kammer-ICD vom <[Pseudo] 03/12/2035:>
+Diagnosen: Seit 2 Jahren bekannt hochgradig eingeschränkte LVEF bei ICMP, SR, QRS 93ms
+OP-Bericht:
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoideopectoralis links. Der Zugang der Ventrikelelektrode erfolgte transvenös über Punktion der Vena subclavia links. Venotomie. Vorschieben der Ventrikelelektrode unter Bildwandlerkontrolle. Deutlich erschwertes Einbringen der Sonde in den RV. Problemloses Platzieren der Sonde mit guten Messwerten. Danach Konnektion des Generators und Versenken in der Tasche. Schichtweiser Wundverschluß unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links subfaszial angelegt. Verband.
+Procedere:
+1. Verbandswechsel 3-4 Tage postoperativ, Sandsack bis morgen früh, Aussetzen der Antikoagulation für 2 Tage, Monitorüberwachung bis zur Aggregatkontrolle, Rö-Thorax in 2 Ebenen, Echokontrolle zum PE-Ausschluss, Aggregatkontrolle morgen ohne VF-Induktion, WV zur Wundkontrolle in 10-12 Tagen -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- . Fahrungeeignet -LRB- gemäß DGK-Empfehlungen -RRB- für mindestens 2 Wochen als Privatkraftfahrer -LRB- Klasse I -RRB- , i.d.R. dauerhaft Fahrungeeignet als Berufskraftfahrer -LRB- Klasse II -RRB- .
+
+Röntgen Thorax p.a. vom <[Pseudo] 03/12/2035:>
+Keine Voruntersuchungen vorliegend.
+Befund und Beurteilung:
+Suspekte rundliche Verschattung im medialen rechten Unterfeld mit ca. 4 cm Durchmesser, CT zur genaueren Abklärung empfohlen. Ansonsten keine Infiltrate, kein Pleuraerguss, kein Pneumothorax. Verbreiterter Herzschatten -LRB- HTQ: 17/29 -RRB- , keine höhergradigen Stauungszeichen. Aortensklerose. Trachea mittig, nicht eingeengt. Rechts pectoral einliegender ICD mit Projektion der Sondenspitze auf den rechten Ventrikel. Degenerative Skelettveränderungen. Weichteilmantel unauffällig.
+
+Echokardiographie vom <[Pseudo] 04/12/2035:>
+Bemerkungen: Untersuchung am Bett.
+Beurteilung: Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Elektrophysiologischer Befund vom <[Pseudo] 04/12/2035:>
+Befund:
+Regelrechte ICD-Funktion. Seit Implantation keine neuen Episoden im Speicher. Batteriestatus gut. Impedanz, Wahrnehmung und Reizschwelle regelrecht. Aktuell 0% ventrikuläres Pacing. Keine kurzen VV-Intervalle. Keine DFT-Testung, bei typischer Sonden- und Aggregatlage. Der ICD-Ausweis wurde ausgestellt und der Pat. ausgehändigt. Die Informationsbroschüre -LRB- Lt. MPG -RRB- wurde der Patientin ebenfalls ausgehändigt und diese über Verhaltensmaßnahmen aufgeklärt. Der Alarm wurde der Patientin demonstriert. Es besteht eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 3 Monate gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+Procedere:
+Wundkontrolle am 03. - 04. post-OP-Tag -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- Reizlose Aggregattasche. Wiedervorstellung zur nächsten ICD-Kontrolle am <[Pseudo] 10/01/2036> um 11:30 Uhr in unserer B-ORG Ambulanz empfohlen. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch einen niedergelassenen kardiologischen B-SALUTE in Intervallen von 6 Monaten durchführen zu lassen.
+
+CT-Thorax vom <[Pseudo] 04/12/2035:>
+Befund:
+Keine vergleichbaren Voruntersuchungen vorliegend. Große ca. 4x3,5 cm messende weichteildichte pulmonale Raumforderung rechts an dem Lungenhilus -LRB- Serie 503 / 196 -RRB- mit kleineren Satelliten direkt angrenzend -LRB- Serie 403/211 -RRB- . Konsolidierung rechts apical mit Bezug zur Pleura -LRB- 2x3,5cm Serie 403 / 109 -RRB- . Weitere peribronchiale weichteildichte Formation caudal davon ventralen Oberlappen -LRB- 1,5x4cm Serie 403/144 -RRB- mit angrenzender Traktionsatelektase. Fokale Verdichtung recht basal, unspezifisch. Geringes Pleuraerguss beidseits und max. 1 cm. Verkalkte mediastinale Lymphknoten in 4R -LRB- Serie 401/114 -RRB- . Keine pneumonischen Infiltrate. Suspekte hypodense Raumforderung im caudalen VI. Lebersegment -LRB- 2x3cm Serie 401/372 -RRB- ; ventral davon weitere kleine exophytische Läsion -LRB- 1x2cm Serie 401/360 -RRB- , am ehesten Zyste. Große Gallenblasenkonkremente -LRB- ca. 302 cm -LRB- Serie 401/349 -RRB- ; keine Zeichen von Cholestase. Gallenblasenwand reizlos, ohne Entzündungszeichen.
+Beurteilung:
+- Malignomverdächtige Raumforderung im rechten Unterlappen -LRB- S6,8,9 -RRB- mit kleiner Verkalkung, breitem Kontakt zum schrägen Lappenspalt und geringen nachgeschalteten Retentionsinfiltraten.
+- Volumengeminderte Konsolidierung im rechten Oberlappen S3 mit kurzstreckigem Verschluss des zuführenden Bronchus, eingelagerter Traktionsbronchiektase und breitem Kontakt zur Fissura minor, DD narbig, Malignität möglich.
+- Weitere Konsolidierung ventral im rechten Oberlappen S1/3 mit breitem Pleurakontakt, DD entzündlich, Malignität möglich.
+- 5mm messender Rundherd im Mittellappen.
+- Schmale Pleuraergüsse.
+- Teilerfasste hypodense Leberläsion in SV/VI weitere Abklärung mittels Leber-CT empfohlen.
+Nebenfund:
+- A. lusoria.
+
+Abdomensonographie vom <[Pseudo] 06/12/2035:>
+Massiv eingeschränkte Schallbedingungen bei Meteorismus. Die Leber ist von subcostal nicht einsehbar und kann nur teilweise von intercostal eingesehen werden. Das Segment VI kann nicht vollständig eingesehen werden. Die Leber misst im größten kraniokaudalen Durchmesser 12,2 cm. Der Leberrand ist abgerundet. Die Echodichte ist unauffällig, die Struktur ist sehr inhomogen. Die im CT-Thorax vom <[Pseudo] 04/12/2035> vorbeschriebene Raumforderung in Segment VI mit einer Größe von 2 x 3 cm kann in der heutigen Untersuchung bei o.g. eingeschränkten Untersuchungsbedingungen nicht dargestellt werden. Bei stark eingeschränkten Schallbedingungen können weitere Raumforderungen nicht ausgeschlossen werden. Die Lebervenen sind nicht gestaut und offen perfundiert. Die Pfortader ist orthograd perfundiert.
+Die Gallenblase lässt sich aufgrund von Meteorismus nur schemenhaft darstellen. Soweit beurteilbar finden sich intraluminal echoreiche Strukturen bis 1,7 cm teils mit dorsalem Schallschatten, V.a. Gallenblasensteine -LRB- vorbekannt -RRB- . Die intrahepatischen Gallengänge sind nicht dilatiert. Der Ductus choledochus ist nicht sicher abgrenzbar, a. e. nicht erweitert. Die Milz misst 9,4 x 3,1 cm. Das Echomuster ist homogen. Im Milzparenchym lassen sich zwei echoreiche Strukturen mit 0,2 cm und 0,3 cm ohne dorsalen Schallschatten abgrenzen, DD Bindegewebe. Die V. lienalis ist mit 4,2 mm nicht erweitert. Die Pankreas ist Darmgasüberlagerung nicht einzusehen. Beide Nieren erscheinen in Form, Größe und Lage altersentsprechend. In der linken Niere kommt eine echoleere rundliche Raumforderung mit 4,4 x 4,1 cm und dorsaler Schallverstärkung am Nierenoberpol zur Darstellung, V.a. Nierenzyste. In der rechten Niere zeigt sich intraparenchymal eine echoleere runde Struktur von 1 x 1,1 cm, V.a. Nierenzyste. Am Nierenunterpol kann eine weitere echoarme bis echoleere runde Struktur von 1,2 x 1,4 cm abgegrenzt werden, allerdings ohne sichere Darstellung in der zweiten Ebene, DD Nierenzyste, DD
+Darmanschnitt. Die abdominale Aorta kann bei Meteorismus lediglich suprarenal dargestellt werden, hier misst sie im Durchmesser bis 2,3 cm, soweit einsehbar sind keine Gefäßektasien nachweisbar. Eine paraaortale Raumforderung ist soweit beurteilbar nicht nachzuweisen, kann aber keinesfalls ausgeschlossen werden. Die Harnblase stellt sich unauffällig dar. Keine freie abdominelle Flüssigkeit.
+Beurteilung:
+Soweit bei massiv eingeschränkten Untersuchungsbedingungen beurteilbar:
+- Leberparenchymschaden
+- Zwei echoreiche bis 3 mm messende Strukturen in der Milz abgrenzbar, DD Bindegewebe
+- V.a. Nierenzysten bds. -LRB- die größte am Nierenoberpol links mit 4,4 x 4,1 cm -RRB-
+- V.a. Cholezystolithiasis
+- Die im CT vorbeschriebene Raumforderung in Lebersegment VI kann sonographisch aufgrund der Untersuchungsbedingungen nicht dargestellt werden
+
+ÖGD vom <[Pseudo] 09/12/2035:>
+Befund:
+Glatte Passage OÖS. Tubulärer Ösophagus regelrecht. Z-Linie bei 40cm aZR regelmäßig. Hiatusschluss suffizient. Magen mit vereinzelten Erosionen. Pylorus und auffällig. Bulbus und duodenum unauffällig.
+Diagnose: Erosive Gastritis, kein Primarius
+Biopsien: Keine unter Doppelter Thrombozytenhemmung
+Empfehlungen: PPI-Therapie.
+
+Koloskopie vom <[Pseudo] 09/12/2035:>
+Befund:
+Inspektion: Unauffällig.
+DRU: Keine Resistenzen.
+Deutliche Reststuhlverschmutzung mit konsekutiv eingeschränkter Beurteilbarkeit. Vorspiegeln bis zum Coecum. Dort ein ca. 5mm messender breitbasiger Polyp. Im C. ascendens zeigt sich ein ca. 1cm messender Polyp mit teils sehr unregelmäßiger und geröteter Oberfläche. Hier vorsichtige PE bei doppelter Thrombozytenhemmung. Im Sigma viele reizlose Divertikel.
+Diagnose:
+Polyp im C. ascendens von 1cm, möglicherweise nur entzündlich, Malignität makroskopisch aber nicht auszuschließen Polyp Coecum 5mm, Sigmadivertikulose
+Biopsien: PE1: Polyp C. ascendens
+Empfehlungen: Histologie werten.
+
+Neurologisches Konsil vom <[Pseudo] 09/12/2035:>
+Diagnosen: Kognitive
+Einschränkung ungeklärter Ursache
+Anamnese: Fremdanamnese durch Stationsärztin: Seit ca. 6 Monaten progrediente kognitive Einschränkung, jetzt neue Diagnose CUP. Sonst wohl keine neurologischen Symptome.
+Untersuchungsbefund: Patient nicht auf Station, daher keine Untersuchung
+Beurteilung und Empfehlung:
+Basierend auf der Anamnese DD Metastasen -LRB- oder Meningeose -RRB- DD Paraneoplasie DD Demenzerkrankung. Zunächst Bildgebung, vorzugsweise cMRT mit KM, wenn nicht möglich -LRB- wg Defi -RRB- zunächst CCT -LRB- mit KM -RRB- . Dann WV für evtl. Lumbalpunktion etc.
+
+
+CT-Abdomen Untersuchung vom <[Pseudo] 10/12/2035>
+Es liegt eine CT-Thorax vom <[Pseudo] 04/12/2035> vor. Keine Vergleichsaufnahmen des Abdomens vorliegend.
+Befund:
+Große kalkdichte Konkremente in der Gallenblase, Verdickung der Gallenblasenwand. Pankreas divisum sowie mehrere Fettinseln und punktförmige Verkalkungen im Pankreas -LRB- exemplarisch 501/146 -RRB- . Leberzyste in Segment V -LRB- 501 / 119 -RRB- sowie in Segment VI -LRB- 501/142 -RRB- , eine Zyste zwar mit angehobener Dichte von HE 26 -LRB- 591 / 142 -RRB- , jedoch in der spektralen Bildanalyse ohne Anhalt für Vaskularisation -LRB- 603/73 -RRB- . Fokale Milzverkalkung -LRB- 601 / 61 -RRB- . Nebennieren beidseits schlank. Mehrere zystische Läsionen an beiden, ansonsten regelrecht kontrastierten Nieren. Keine Harntransportstörung. Keine freie Flüssigkeit. Keine freie Luft abdominell. Ausgeprägte Vasosklerose mit gemischter Plaquebildung entlang der Aorta abdominalis mit mäßig gradigen Abgangsstenosen des Truncus coeliacus und der AMS sowie beider Nierenarterien. Aneurysma der infrarenalen Aorta mit 34 mm -LRB- 601/102 -RRB- . Hochgradige Abgangsstenose der rechten A. iliaca communis. Keine pathologisch vergrößerten Lymphknoten abdominell. Keine ossären Suspizien im miterfassten Achsskelett. Osteopene Knochenmatrix. Geringe degenerative Veränderungen.
+Beurteilung:
+- Kein Nachweis einer Metastasierung im Untersuchungsabschnitt.
+- Cholecystolithiasis mit Zeichen einer z.B. chronisch-entzündlichen Cholezystitis.
+- Ausgeprägte Vasosklerose mit infrarenalem Aortenaneurysma -LRB- 34 mm -RRB- und hochgradiger Abgangsstenose der rechten A. iliaca communis.
+
+Hämatologisches Konsil vom <[Pseudo] 11/12/2035:>
+- RS mit Radiologen ob es sich eher um ein Bronchialkarzinom oder um pulm. Metastasen handelt.
+- Falls V.a. BC, dann Vorstellung in der Thoraxklinik zur Festlegung des weiteren Procederes.
+- Falls Metastasen, dann Biopsie der hep. Metastasen zur Histologiegewinnung.
+
+CT-Schädel mit KM vom <[Pseudo] 11/12/2035:>
+Zum Vergleich liegen keine Vorbilder vor.
+Befund:
+Nachweis mehrerer inhomogen KM-affiner Raumforderungen, die größte rechts frontal angrenzend an das rechte Vorderhorn mit einer Ausdehnung von etwa 3,0 x 2,9 mal 2,2 cm -LRB- Serie 2/9 und Serie 6/61 -RRB- . Geringes perifokales Ödem. Daran rostral angrenzend eine weitere, zentral eingeschmolzene, randständig KM-affine Läsion von etwa 1,4 x 1,7 x 1,4 cm -LRB- Serie 2/10 und Serie 6/67 -RRB- . Etwas weiter cranial, ebenfalls angrenzend an das rechte Seitenventrikelvorderhorn eine weitere KM-affine Läsion von etwa 0,9 x 0,9 x 0,7 cm -LRB- Serie 2/15 und Serie 6/68 -RRB- . Pelottierung des rechten Vorderhorns sowie fokal reduzierte Abgrenzbarkeit der Sulci. Im Übrigen regelrechte Weite der inneren und äußeren Liquorräume. Der Interhemisphärenspalt ist mittelständig. Die übrige Markrindengrenze ist durchgängig abgrenzbar sowie ebenso die Basalganglien und Thalami beidseits. Bei typischen Aufhärtungsartefakten, unauffällige Darstellung von Kleinhirn und Hirnstamm.
+Beurteilung:
+- Nachweis von drei dringend Metastasen-suspekten Raumforderungen rechts frontal.
+
+Pathologisch-anatomische Begutachtung vom <[Pseudo] 11/12/2035:>
+Material:
+Biopsate -LRB- Colon ascendens -RRB-
+Klinische Angaben:
+Koloskopie zur Primariussuche bei V.a. Lungenmetastasen. Endoskopisch Polyp im Colon ascendens,
+möglicherweise nur entzündlich, sowie Polyp im Zökum und Sigmadivertikulose.
+Makroskopie:
+Mehrere Biopsate -LRB- HE, PAS -RRB-
+Diagnose:
+-LRB- Colon ascendens -RRB- Formationen eines tubulovillösen low-grade-Adenoms der Dickdarmschleimhaut neben unauffälligen Schleimhautfragmente, Resektionsrand nicht beurteilbar. Im vorliegenden Material keine schwergradige Epitheldysplasie, keine Malignität.
+
+
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme der Patientin erfolgte bei o.g. Beschwerden. Bei Troponinkinetik und ST-Hebungen in III -LRB- DD ST-Elevation bei echokardiographisch ausgedehntem Apexaneurysma und Akinesie anterior, anteroseptal, septal und inferior -RRB- wurde am <[Pseudo] 28/11/2035> eine Herzkatheteruntersuchung mit Nachweis einer schweren 3-GE-KHK bei bekanntem Verschluss der prox. LAD und prox. RCA sowie einer hochgradigen Abgangsstenose des RPLS durchgeführt, die mittels PTCA -LRB- kissing balloon -RRB- und einer 1DES-Implantation therapiert wurde. Zudem fand sich eine 95%ige AIC-Stenose re. -LRB- evtl. BBA mit PTA im Verlauf -RRB- .
+
+Zur Stentverschlussprophylaxe ist eine duale Thrombozytenaggregationshemmung mit ASS und Ticagrelor wie u.g. für insgesamt 12 Monate postinterventionell anzuraten, danach ist eine dauerhafte Thrombozytenaggregationshemmung mit ASS 100 mg/tägl. ausreichend. Über die Notwendigkeit einer lückenlosen Einnahme der Medikation u.a. zur Vermeidung eines In-Stent-Verschlusses wurde die Pat. ausführlich aufgeklärt, sie erhielt zudem einen Implantatausweis und entsprechende Verhaltensanweisungen. Medikamentös intensivierten wir die Herzinsuffizienztherapie mit einem Betablocker, ACE-Hemmer -LRB- Anpassung der Ramipril-Dosis bis zum Erreichen der tgl. max. Dosis von 2 x 5 mg anzuraten -RRB- und einem Statin. Eine Kontrolle der Elektrolyte, Retentionsparameter und Transaminasen im Verlauf sind anzuraten.
+
+Auf Grund eines a. e. KM- induzierten akut auf chronischen Nierenversagens erfolgte eine bilanzierte Volumensubstitution unter gleichzeitiger Diuretika- Therapie und eine vorübergehende Pausierung von Ramipril, Candesartan und Aldactone. Wir bitten um laborchemische Kontrollen der Nierenretentionsparameter, Kreatinin- und Elektrolytkontrollen mit ggf. weiterer Anpassung der Medikation sind anzuraten.
+
+Aufgrund der seit 2 Jahren bekannten deutlich eingeschränkten LVEF bei ischämischer Kardiomyopathie erfolgte am <[Pseudo] 03/12/2035> zudem eine komplikationslose sekundärprophylaktische ICD-Implantation. Die im Anschluss kontrollierte Schrittmacher-/ICD-Funktion war regelrecht, Fadenzug ist bei selbstauflösendem Nahtmaterial nicht erforderlich. Bei Rötung, Schwellung, Fieber oder purulentem Sekret aus der Aggregattasche ist eine umgehende Wiedervorstellung anzuraten. Zur nächsten Schrittmacherkontrolle wurde ein Termin am <[Pseudo] 10/01/2036> um 11:30 Uhr in unserer B-ORG Ambulanz vereinbart. Die weiteren Kontrollen können nach RS mit dem Hausarzt durch einen niedergelassenen kardiologischen B-SALUTE in Intervallen von 6 Monaten erfolgen. Die Patientin wurde über eine Schonung und Vermeidung einer Elevation des linken Armes über 90° für 6 Wochen informiert. Zudem empfehlen wir eine konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und die Fortführung der u.a. medikamentösen Therapie.
+
+Hinsichtlich der gelegentlichen -LRB- Präsynkopen- -RRB- / Kollapsneigung erfolgte am B-DATE ein Langzeit-EKG -LRB- Sinusrhythmus, Durchschnittsfreq. 74/min; keine Pausen; keine malignen Rhythmusstörungen -RRB- und eine Kipptischuntersuchung -LRB- Neigung zur hypoadrenergen orthostatischen Hypotension -RRB- .
+
+Bei initial geäußertem V.a auf eine eventuell beginnende dementielle Erkrankung erreichte die Pat. im Mini-Mental-Status eine Punktzahl von 25/30. Laut den B-SALUTE der Neurologie ist eine ambulante Vorstellung in der B-ORG -LRB- I-ORG -RRB- mit neuropsychologischer Testung und Liquor- Punktion im Anschluss an den stationären Aufenthalt möglich.
+
+Bei der konventionellen Röntgen-Thoraxaufnahme ergab sich der Verdacht auf eine suspekte pulmonale Raumforderung, der sich in der CT-Thorax bestätigte und als hochgradiger Vedacht auf ein -LRB- intrapulmonal -RRB- metastasiertes Bronchialkarzinom DD multiple Filiae bei unbekanntem Primär-TU -LRB- formal CUP-Syndrom -RRB- gewertet wurde. Vergrößerte, suspekte Lymphknoten waren im Untersuchungsgebiet nicht nachweisbar.
+
+Zur Primarius-Suche wurden eine Sonographie und eine CT des Abdomens -LRB- Leberparenchymschaden; Nierenzysten; Cholecystolithiasis; infrarenales Aortenaneurysma, 34 mm Durchmesser und hochgradige Abgangsstenose der rechten A. iliaca communis -RRB- durchgeführt, wobei sich kein Anhalt für ein NPL oder Filiae ergab. Eine am <[Pseudo] 09/12/2035> erfolgte Gastroskopie zeigte eine erosive Gastritis, die mittels einer konsequenten PPI-Therapie -LRB- z.B. Pantoprazol 40 mg 1-0-1 Tbl. tgl. für 3 Wochen, danach Dosisreduktion auf 1 x 40 mg oder 2 x 20 mg tgl. als Dauertherapie; Einnahme 20-30 min. vor den Mahlzeiten -RRB- behandelt werden sollte. Bei der Koloskopie zeigten sich neben einer Sigmadivertikulose zwei Polypen im Colon ascendens -LRB- 1 cm -RRB- und im Coecum -LRB- 5 mm -RRB- . Histologisch -LRB- Pe´s; keine Polypektomie wg. Antikoagulation erfolgt -RRB- handelte es sich um ein tubulovillöses Adenom mit low-grade Dysplasien. Insgesamt ergab sich bei der oben aufgeführten Diagnostik kein Anhalt für ein Malignom im GI-Trakt.
+
+Bei der ergänzend durchgeführten CCT fanden sich 3 dringend Metastasen-suspekte Raumforderungen rechts frontal, sodass es sich in Zusammenschau der oben aufgeführten Diagnostik mit großer Wahrscheinlichkeit um ein pulmonal und cerebral metastasiertes Bronchial-Ca handelt. Als DD kämen in Anbetracht des Metastasierungsmusters a.e. noch ein Mamma-Ca und ein malignes Melanom -LRB- klinisch kein Hinweis -RRB- in Frage. Für das Vorliegen eines Malignoms des GI-Traktes ergab sich kein Anhalt.
+
+Zur weiteren Diagnostik und ggf. Einleitung einer Therapie wurde ein Vorstellungstermin in der Thorax - Klinik für den <[Pseudo] 23/12/2035> um 09:30 Uhr vereinbart. Von kardiologischer Seite ist eine Bronchoskopie, ggf. Narkose bei erhöhtem Risiko aufgrund einer 3-Gefäß-KHK und hochgradig eingeschränkter Pumpfunktion möglich. Bei Z.n. Stentimplantation besteht aktuell eine duale Plättchenhemmung. Darüber hinaus ist eine ambulante gynäkologische Vorstellung anzuraten.
+
+Empfehlung:
+- Wundkontrolle nach Schrittmacherimplantation
+- Laborkontrolle -LRB- BB, Kreatinin, Elektrolyte, TSH, fT3, fT4, BZ -RRB-
+- Ambulante gynäkologische Vorstellung
+- Vorstellung in der Thorax-Klinik am <[Pseudo] 23/12/2035> um 09:30Uhr
+- Schrittmacherkontrolle am <[Pseudo] 10/01/2036> um 11:30 Uhr in unserer B-ORG Ambulanz
+
+Medikation bei Entlassung:
+ASS 100mg 1-0-0 dauerhaft
+Ticagrelor 90mg 1-0-1 für 12 Monate -LRB- bis <[Pseudo] 11/2036> -RRB-
+Metoprolol 95mg 0,5-0-0,5
+Ramipril 2,5mg 0,5-0-0
+Candesartan 8mg 1-0-1
+Spironolacton 25mg 1-0-0
+Atorvastatin 20mg 0-0-1
+Pantoprazol 40 mg 0-0-1
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der ORG
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 3 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen die Patientin heute in kardiorespiratorisch stabilem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärztin/-arzt

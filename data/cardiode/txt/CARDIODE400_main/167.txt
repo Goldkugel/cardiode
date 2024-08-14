@@ -1,0 +1,99 @@
+Aufnahmedatum: <[Pseudo] 2040-11-28 >
+Geburtsdatum: <[Pseudo] 2006-07-21 >
+Alter: 34
+
+über Ihre Patientin B-SALUTE B-PER B-PER I-PER geboren am <[Pseudo] 21/07/2006> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Hauptdiagnose:
+- Symptomatisches Vorhofflatterrezidiv
+-UNK- Spontankonversion in Sinusrhythmus am <[Pseudo] 28/11/2040>
+- Akuter Myokardinfarkt -LRB- NSTEMI -RRB- DD Typ II bei Vorhofflattern
+
+Diagnosen:
+- CTI-Ablation bei reverse typical Vorhofflattern am <[Pseudo] 14/04/2031>
+- Erworbenes Long QT-Syndrom nach einmaliger Amiodaron-Gabe
+- Z.n. CTI-Ablation bei typischem VH-Flattern <[Pseudo] 2027> in domo
+- Mitralklappenprolaps des anterioren Segels mit minimaler Mitralklappeninsuffizienz
+- Z.n. operativem VSD-Verschluss <[Pseudo] 2010>
+- Z.n. Strumaresektion <[Pseudo] 2029>
+- myotone Dystrophie Curschman Steinert
+- Hypothyreose
+- Linksschenkelblock
+
+Allergien:
+keine bekannt
+
+Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus, Adipositas, Nikotinanamnese: früher,
+Packyears: 4.
+
+Externer Zuweiser: CPU
+
+Anamnese:
+Die Aufnahme des Patienten erfolgte über unsere B-ORG I-ORG I-ORG bei -UNK- .
+Die Vorstellung erfolgte als Verbringung durch den Notarzt bei V.a. Vorhofflattern. Anamnestisch
+bestanden seit gestern Abend Dyspnoe sowie retrosternaler Druck aus der Ruhe heraus, ständig
+vorhanden und nicht belastungsabhängig, begleitend Palpitationen und Schwindel, heute etwas gebessert.
+Auf spezifische Nachfrage ansonsten im Alltag gute körperliche Belastbarkeit, keine typische Angina
+pectoris, keine Belastungsdyspnoe. Keine Ödeme. Keine Synkope seit letztem Jahr. Kein Hinweis auf
+einen akuten Infekt. Häusliche Blutdruckwerte würden nicht erhoben.
+Keine Antikoagulation eingenommen, nüchtern seit heute 17 Uhr.
+Bei Übernahme auf B-ORG CCU kardiozirkulatorisch stabiler, beschwerdefreier Patient.
+
+Körperlicher Untersuchungsbefund:
+AZ: stabil
+EZ: adipös
+HF: 149/min, regelmäßig
+RR: 128/91mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Abdomen: weich, kein DS, keine Resist.
+Leber/Milz: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: o.B.
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG :
+Tachykardes Vorhofflattern, Herzfrequenz 164/min, Linkstyp, PQ ms, QRS 168 ms, QTc 520 ms, Linksschenkelblock mit konsekutiven KETV.
+
+Echokardiographie vom DATE:
+Befund folgt.
+
+Labor:
+Siehe ISH
+
+Zusammenfassung:
+Elektrokardiographisch zeigte sich ein Vorhofflattern mit vorbekanntem LSB. Das hs-cTroponin betrug bei Aufnahme 99 pg/ml, somit akuter Nicht-ST-Hebungsinfarkt, was wir im Rahmen der Tachykardie werten. Bei nicht vorbestehender Antikoagulation, jedoch erhöhtem Thromboembolierisiko, verzichteten wir, bei einer hämodynamisch stabilen Patientin, auf eine elektrische Kardioversion. Auf die Gabe von Metoprolol tartat zur Frequenzkontrolle kam es zu einer spontanen Konversion in einen normofrequenten Sinusrhythmus.
+
+In der CPU wurde eine Antikoagulation mit Clexane 9000 IE initiiert. Diese wurde am <[Pseudo] 29/11/2040> auf Lixiana umgestellt
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir verlegen die Patientin am <[Pseudo] 29/11/2040> beschwerdefrei in Ihre stationäre Betreuung.
+
+Procedere:
+- Monitor weiter
+- Echo
+- RS-Rhythmusgruppe bzgl. CTI/ weiterem rhythm. Prozedere
+- Evaluation antiarrh. Therapie bei LSB+AVB I im SR
+- Eventrecorder auslesen
+
+Aktuelle Therapie:
+Lixiana 60mg 1-0-0, neu
+L-Thyrox 88ug 1-0-0
+Metformin 500mg 1-0-0
+Metoprolol 47,5mg -UNK- -0-0, neu
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel. B-PHONE -RRB- .
+
+Wir bedanken uns für die Übernahme und stehen für Rückfragen jederzeit zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER TITLE. B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin
+
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

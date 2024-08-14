@@ -1,0 +1,423 @@
+Aufnahmedatum: <[Pseudo] 2033-08-15 >
+Geburtsdatum: <[Pseudo] 1960-10-13 >
+Alter: 72
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 13/10/1960> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- RV-Sondenrevision der Firma Medtronic am <[Pseudo] 11/08/2033> bei RV-Dysfunktion mit Exitblock bei Z.n. 2-K-Schrittmacher Neuimplantation am <[Pseudo] 23/07/2033>
+
+Diagnosen:
+- Z. n. 2-Kammer-Schrittmacher Implantation der Firma Medtronic am <[Pseudo] 14/07/2033> bei rezidivierenden Postkonversionspausen bis 6 Sekunden
+-UNK- Weiterer Anstieg der RV-Reizschwelle -LRB- 5,5 V / 1 ms bipolar und 5 V / 1 ms unipolar -RRB- mit V.a. Exitblock am <[Pseudo] 25/07/2033>
+- Z. n. linkshemisphärischer TIA
+-UNK- passagere Hemiparese rechts -LRB- ABCD2 Score: 6 -RRB-
+- ED Paroxysmales Vorhofflimmern am <[Pseudo] 14/07/2033> mit symptomatischen Konversionspausen bis 6 Sekunden
+-UNK- EHRA: I
+-UNK- CHA2DS2-VASc: 5
+-UNK- HAS-BLED: 3
+-UNK- LV-Funktion: gut -LRB- TTE vom <[Pseudo] 14/07/2033> -RRB-
+- Essentieller Tremor DD Tremor-dom. M. Parkinson
+- Leichte zerebrale Mikroangiopathie -LRB- <[Pseudo] 04/24> -RRB-
+- Lungenarterienembolie <[Pseudo] 2006> bei Heterozygote Prothrombinmutation 4G- Homozygotie im PAI-Gen
+-UNK- Marcumartherapie bis <[Pseudo] 2015>
+- Hypothyreose
+- Lippen-Kiefer-Gaumenspalte
+- Einseitig Schrumpfniere -LRB- aktuell GFR 57ml/min -RRB-
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie
+Allergien: anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur RV-Sondenrevision bei Anstieg der RV-Reizschwelle und Exit-Block -LRB- Reizschwelle bipolar 6,25V/1,0ms und unipolar 7,5V/1,0ms -RRB- .
+B-SALUTE B-PER berichtet über aktuell etwa 3-4x / Woche auftretende Episoden mit Palpitationen, welche spontan nach etwa einer Minute sistieren würden. Ähnliche Episoden mit einhergehendem Schwindelgefühl, Synkopen und Schwächegefühl seien von vor der Schrittmacherimplantation am <[Pseudo] 14/07/2033> bekannt.
+Darüber hinaus gibt B-SALUTE B-PER kardiales Wohlbefinden an. Es bestehe eine gute körperliche Belastbarkeit im Alltag -LRB- subjektiv keine Einschränkungen -RRB- , ohne inadäquate Belastungsdyspnoe -LRB- NYHA I -RRB- und ohne typische pectanginöse Beschwerden. Auf spezifische Nachfrage hin werden Schwindel und stattgehabte Synkopen seit SM-Implantation verneint. Nachtschlaf sei mit flachem Oberkörper möglich. Bei bestehender Gewichtskonstanz werden minime periphere Ödeme angegeben. Die häuslichen Blutdruckwerte lägen bei ca. 130/75mmHg. Aktuell bestehe trockener Husten ohne Auswurf, jedoch ohne Fieber. Keine aggregatbezogenen Beschwerden
+
+Medikation bei Aufnahme:
+Apixaban 5 mg 1-0-1
+Candesartan 16 mg 1-0-0
+Bisoprolol 5 mg 1-0-1
+L-Thyroxin 100µg /125 µg 1-0-0 im Wechsel
+Pramipexol 1,05 mg 1-0-0
+L-Dopa/Benserazid 50 mg/12,5 mg 1-1-1
+Medyn forte 0-0-1
+Cefasel 200 nutri
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 170 cm, Gewicht: 80 kg -RRB-
+HF: 61/min, regelmäßig
+RR: 162/82 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: minime prätibial und malleolar
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: reizlose Aggregattasche
+
+Ruhe-EKG vom <[Pseudo] 08/08/2033:>
+Durchgehende atriale Schrittmacherstimulation. 61/min, Indifferenzlagetyp. PQ 191 ms, QRS 84 ms, QTc 411 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Erregungsrückbildungsstörungen.
+
+SM-Kontrolle vom <[Pseudo] 08/08/2033:>
+Befund / Zusammenfassung:
+Auffällige Schrittmacher-Kontrolluntersuchung. Batteriestatus gut -LRB- Laufzeit: 6 Jahre -RRB- . Weiterer Anstieg der RV-Reizschwelle auf aktuell bipolar 6,25V/1,0ms, unipolar Exitblock bei 7,5V71,0ms -LRB- VU: 5,5 V / 1 ms bipolar und 5 V / 1 ms unipolar, PHD 4,5V71,0ms, intraoperativ 0,6V/0,5ms -RRB- -RRB- mit V.a. Exitblock. Abfall der RV-Wahrnehmung auf aktuell 2,8-4,0mV sowohl uni- als auch bipolar. Impedanz der RV-Elektrose stabil. RA-Wahrnehmung bei aktuell Sinusarrest nicht messbar, RA-Reizschwelle und Impedanz stabil.
+Im Speicher fanden sich 4 Vorhofflimmer-Episoden, die Längste davon über 31: 17 h, max. ventrikuläre Frequenz 190/min. Die Patientin war darunter asymptomatisch und ist mit Apixaban vollantikoaguliert. AP: 96 % und VP: 0,2 %. Unauffälliges Frequenzhistogramm. Keine Änderung der Parameter bei bereits max. Programmierung der RV-Amplitude erfolgt. Nach RS B-PER: Stationäre Aufnahme zur RV-Sondenrevision. Blutentnahme bei zuletzt noch leicht erhöhtem CRP noch ausstehend. Klinisch kein Hinweis auf Entzündung im Bereich der Aggregattasche.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 09/08/2033:>
+Zum Vergleich liegen zwei Voruntersuchungen vor, zuletzt eine Projektionsradiographie des Thorax vom B-DATE.
+Befund und Beurteilung:
+Kein Pneumothorax. Keine pneumonischen Infiltrate. Kein Pleuraerguss. Keine pulmonale Stauung. Trachea mittig und nicht stenosiert. Gering verbreiterte Herzsilhouette. Oberes Mediastinum nicht verbreitert. Retrosternal- und Retrokardialraum frei. Herzschrittmacher idem mit Aggregat links pektoral und Elektrodenlage im rechten Vorhof und am Boden des rechten Ventrikels. Keine Diskonnektion und kein Bruch der Schrittmacherelektroden.
+
+Spirometrie vom <[Pseudo] 10/08/2033:>
+der peripheren Atemwege.
+
+
+CT-Schädel nativ vom <[Pseudo] 10/08/2033:>
+Befund:
+Eine cCT vom <[Pseudo] 13/07/2033> Vergleich vorliegend.
+Mittelständiger Interhemisphärenspalt. Altersentsprechende Weite der inneren und äußeren Liquorräume. Kein Liquoraufstau.
+Flächige Hypodensitäten des supratentoriellen Marklagers mit Betonung periventrikulär beidseits. Ansonsten erhaltene Differenzierbarkeit des Cortexbandes, Basalganglien und Thalami. Keine frische intrakranielle Blutung. Regelrechte Dichte infratentoriell soweit bei üblichen Artefakten.
+Randständige Schleimhautschwellung der rechten Wabe des Sinus sphenoidalis sowie einzelner Ethmoidalzellen. Übrige miterfasste NNH und Ohrnebenräume frei belüftet. Geringe basale Vasosklerose.
+Beurteilung:
+-UNK- Keine Ischämiefrühzeichen. Keine frische intrakranielle Blutung.
+-UNK- Fortgeschrittene Mikroangiopathie.
+
+OP/Chirurgie vom <[Pseudo] 11/08/2033:>
+Operation:
+Austausch der RV-Elektrode
+Aggregat: Wie bisher,
+RV-Elektrode: B-OTHER
+RA-Elektrode: Wie bisher,
+Intraoperative Messungen:
+RV: R Welle: 14,80 mV, Slew rate: 3,40 V/s, Reizschwelle: 0,50 V/0,5 msec, Impedanz: 1053 Ω
+RA: P Welle: 3,90 mV, Slew rate: 1,00 V/s, Reizschwelle: 0,70 V/0,5 msec, Impedanz: 449 Ω
+Explant. RV-Elektrode: Medtronic,
+Die Operation wurde in lokale Betäubung durchgeführt. Eröffnen der SM-Tasche. mechanisches Entfernen der alten RV-Elektrode. Implantation einer neuen RV-Elektrode. Der Zugang der Ventrikelelektrode erfolgte transvenös über die V. subclavia links. Anschliessen der RV-Elektrode an das SM-Aggregat. Wundverschluss.
+
+Röntgen Thorax auf Intensiv a.p. vom <[Pseudo] 11/08/2033:>
+Zum Vergleich liegt zuletzt die Voraufnahme vom <[Pseudo] 09/08/2033> vor.
+Befund und Beurteilung:
+Liegendaufnahme
+Weitgehend unveränderte Elektrodenspitzenprojektionen des Zwei-Kammer-Schrittmachers. Keine durchgreifende kardiopulmonale Befundänderung. Kein Hinweis auf Pneumothorax im Liegen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 12/08/2033:>
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+SM-Abfrage vom <[Pseudo] 12/08/2033:>
+Befund / Zusammenfassung:
+Regelrechte Aggregatfunktion. Batteriestatus gut -LRB- 2,80 V -RRB- . Messwerte gut. Insgesamt 18 neue AHE Episoden bei bekannten Vorhofflimmern im Speicher. Aktuell 65,9% atriale- und 7,8% ventrikuläre Stimulation. Programmierung durchgeführt. Anpassung der Stimulationsparameter nach Ende der Einheilungsphase bei nächster Kontrolle. Die Patientin wurde über Verhaltensmaßregeln aufgeklärt. Die Informationsbroschüre -LRB- lt. MPG -RRB- wurde ausgehändigt. Der Schrittmacher-Ausweis wurde ausgestellt und der Patientin ebenfalls ausgehändigt. Es besteht keine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- gemäß den aktuellen Leitlinien der ORG. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+
+Kommentar:
+Ihr Schrittmacher-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan-Modus -RRB- für die Verwendung im MRT entwickelt.
+
+Wichtig:
+Vor der MRT-Untersuchung sollte ihr Schrittmacher-System auf diesen SureScan-Modus
+programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet
+werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung erfolgen, da dieser
+SureScan-Modus in dieser Zeit der Einheilungsphase nicht aktivierbar ist.
+
+Ruhe-EKG vom <[Pseudo] 15/08/2033:>
+Durchgehende atriale Schrittmacherstimulation, normofrequenter Sinusrhythmus, regelmäßig, Herzfrequenz 61/min, Linkslagetyp. PQ 189 ms, QRS 90 ms, QTc 426 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Präterminalnegative T-Welle in III, ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2033> und dem B-DAY B-MONTH <[Pseudo] 2033>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.05
+4 - 10 /nl
+B-DATE
+Hb
+12.7
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.1
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.390
+0,36 - 0,47 l/l
+B-DATE
+MCV
+94
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 11/08/33>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 11/08/33>
+RDW
+12.2 !L
+12,9 - 18,7 %
+<[Pseudo] 11/08/33>
+hypochr.Erythroz.
+0.7
+0 - 2 %
+<[Pseudo] 11/08/33>
+Thrombozyten
+233
+150 - 440 /nl
+<[Pseudo] 11/08/33>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 11/08/33>
+Kalium -LRB- ISE -RRB-
+4.07
+3,4 - 5,0 mmol/l
+<[Pseudo] 11/08/33>
+Calcium
+2.26
+2,11 - 2,59 mmol/l
+<[Pseudo] 11/08/33>
+Kreatinin
+1.02
+0,5 - 1,1 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+34
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+55.1 !L
+>60 s.u.
+<[Pseudo] 11/08/33>
+MDRD
+60.57
+ml/min/1,73qm
+<[Pseudo] 08/08/33>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+44.3
+30 - 50 g/l
+<[Pseudo] 08/08/33>
+Glucose
+119 !H
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+20
+- <35 U/l
+B-DATE
+GGT
+24
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.40
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+5.6
+- <6 mg/dl
+<[Pseudo] 08/08/33>
+Triglyceride
+116
+- <150 mg/dl
+<[Pseudo] 08/08/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+176.0
+- alt.abh. mg/dl
+<[Pseudo] 08/08/33>
+LDL-Chol. -LRB- berechn. -RRB-
+107
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+46 !L
+>50 mg/dl
+B-DATE
+CRP
+7.6 !H
+- <5 mg/l
+<[Pseudo] 08/08/33>
+Hämolyse
++
+
+<[Pseudo] 11/08/33>
+ikterisch
+-
+
+<[Pseudo] 11/08/33>
+Lipämie
+-
+
+<[Pseudo] 11/08/33>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+260
+- <301 U/l
+B-DATE
+CK
+79
+- <170 U/l
+<[Pseudo] 08/08/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+8.81
+- <14 pg/ml
+<[Pseudo] 08/08/33>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.8
+- <6,1 %
+<[Pseudo] 08/08/33>
+HbA1c -LRB- IFCC -RRB-
+40
+20 - 42 mmol/mol
+<[Pseudo] 08/08/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+120 !H
+- <110 mg/dl
+<[Pseudo] 08/08/33>
+TSH
+0.500
+0,400 - 4,000 mU/l
+<[Pseudo] 08/08/33>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+97.4
+70 - 125 %
+<[Pseudo] 11/08/33>
+INR - ber.
+1.02
+- <1.2
+<[Pseudo] 11/08/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+21.6
+- <35 s
+<[Pseudo] 11/08/33>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur RV-Sondenrevision bei Anstieg der RV-Reizschwelle und Exit-Block -LRB- Reizschwelle bipolar 6,25V/1,0ms und unipolar 7,5V/1,0ms -RRB- .
+
+Es erfolgte eine ausführliche Aufklärung der Patientin über die Risiken des geplanten Eingriffs, sowie eine Prämedikation. Die Lungenfunktionsprüfung erbrachte keinen Hinweis auf eine höhergradige Obstruktion.
+
+Nach planmäßiger Vorbereitung konnte die RV-Sondenrevision des 2-Kammer-Schrittmachers am <[Pseudo] 11/08/2033> in unserer Herzchirurgie komplikationslos durchgeführt werden. Echokardiographisch konnten postinterventionell ein Perikarderguss sowie konventionell-radiologisch ein Pneumothorax ausgeschlossen werden. Die im Anschluss kontrollierte Schrittmacherfunktion war regelrecht. Die Wunde zeigte sich bei Entlassung reizlos. Wir bitten um Wundkontrolle in 3-4 Tagen -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- .
+
+Die Patientin wurde über Verhaltensmaßregeln aufgeklärt. Die Informationsbroschüre -LRB- lt. MPG -RRB- wurde ausgehändigt. Der Schrittmacher-Ausweis wurde ausgestellt und der Patientin ebenfalls ausgehändigt. Es besteht keine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- gemäß den aktuellen Leitlinien der ORG. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich. Des Weiteren wurde die Patientin über eine Schonung und Vermeidung einer Elevation des linken Armes über 90° für 6 Wochen informiert. Bei Rötung, Schwellung, Fieber oder purulentem Sekret aus der Aggregattasche erbitten wir eine sofortige Wiedervorstellung in unserem Hause.
+
+Ein Termin zur nächsten Schrittmacher-Kontrolluntersuchung in unserer B-ORG wurde bereits für den <[Pseudo] 23/09/2033> um 11:00 Uhr vereinbart. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch einen niedergelassenen kardiologischen B-SALUTE in Intervallen von 6 Monaten durchführen zu lassen.
+
+Bei häufigen hypertensiven Episoden während des stationären Aufenthaltes steigerten wir die antihypertensive Therapie wie unten angegeben. Wir bitten um regelmäßige Blutdruck-, Herzfrequenz-, Nierenwert- und Elektrolytkontrollen und ggf. Anpassung der Medikation.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin am <[Pseudo] 15/08/2033> in Ihre geschätzte ambulante Betreuung.
+
+Nächster Termin/Prozedere
+- Schrittmacher-Kontrolltermin in unserer Rhythmus-Ambulanz am <[Pseudo] 23/09/2033> um 10:00 Uhr
+
+Therapieempfehlung:
+Apixaban 5 mg 1-0-1
+Candesartan 32 mg 1-0-0 erhöht
+Bisoprolol 5 mg 1-0-1
+Lercanidipin 10 mg 1-0-0 neu
+L-Thyroxin 100µg /125 µg 1-0-0 im Wechsel
+Pramipexol 1,05 mg 1-0-0
+L-Dopa/Benserazid 50 mg/12,5 mg 1-1-1
+Medyn forte 0-0-1
+Cefasel 200 nutri
+Novalgin 1 g bis zu max. 4x tgl. bei Bedarf
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsarzt

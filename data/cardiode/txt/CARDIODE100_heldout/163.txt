@@ -1,0 +1,260 @@
+Aufnahmedatum: <[Pseudo] 2031-09-12 >
+Geburtsdatum: <[Pseudo] 1951-01-09 >
+Alter: 80
+
+über Ihre Patientin B-SALUTE B-PER B-PER geboren am <[Pseudo] 09/01/1951> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Ad interventioneller Klappenersatz - Termin folgt
+- Koronare Herzerkrankung ohne höhergradige Stenosen -LRB- B-OTHER v. <[Pseudo] 12/09/2031> -RRB-
+- Noch mittelgradiger Aortenklappenstenose
+- Leicht erhöhte Drücke im kleinen Kreislauf -LRB- PAP 38/14/25mmHg -RRB- , PCWP 15mmHg, ZVD 8 mmHg, LVEDP 15mmHg erhöht, leicht erhöhte PVR 236 dyn*sec*cm -UNK- 5, CI 2,59l/min/m2
+- Hochgradige Aortenklappenstenose -LRB- PPG 36 mmHg, MPG 18 mmHg, KÖF 0,7 cm², Echo extern <[Pseudo] 30/03/2031> B-ORG I-ORG -RRB-
+- Koronare Herzerkrankung ohne höhergradige Stenosen mit guter LV-Funktion -LRB- B-OTHER vom <[Pseudo] 24/08/2030> -RRB-
+- Z.n. zentraler LAE beidseits -LRB- CTA vom <[Pseudo] 23/08/2030> -RRB-
+-UNK- Antikoagulation mittels Heparinperfusor -LRB- DATE -RRB-
+- Z.n. 3-Etagen-Thrombose links der distalen V. femoralis superficialis, einer V. poplitea und Vv. tibiales posteriores, sowie der V. parva -LRB- Sonographie vom <[Pseudo] 24/08/2030> -RRB-
+- Z.n. NSTEMI DD Typ 2 Infarkt im Rahmen der LAE
+- Z. n. Tbc in der Kindheit
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Adipositas Grad I -LRB- BMI 34,9 kg/m² -RRB- .
+Allergien: Nitrofurantoin, ACE-Hemmer -LRB- Husten -RRB- , Xarelto-Unverträglichkeit
+
+Indikation für stationären Herzkatheter:
+- Leistenpunktion unter intensivierter Antikoagulation mit erhöhtem Risiko einer Nachblutung
+- TAVI-CT zur Planung TAVI am Folgetag
+
+Anamnese:
+Die aktuelle Vorstellung der Patientin erfolgt zur Links-/Rechtsherzkatheteruntersuchung bei hochgradiger Aortenklappenstenose. Diese war im B-MONTH durch die B-SALUTE im B-ORG I-ORG erstmalig diagnostiziert worden. Die Patientin beschreibt seit einigen Monaten eine progrediente Belastungsdyspnoe, aktuell entsprechend NYHA II. Pektanginöse Beschwerden werden verneint -LRB- CCS 0 -RRB- . Die Patientin schont sich jedoch aufgrund der ihr mitgeteilten Diagnose. Kein Schwindel, einmalig synkopales Ereignis <[Pseudo] 2029> bei starker Hitze. Aufgrund der aktuellen Corona-Pandemie hatte die Patientin den Termin zur invasiven Diagnostik aufgeschoben, hat nun aber ihre zweite Impfung erhalten. Aktuell kein Hinweis für Infekt.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 160 cm, 81 kg
+HF: 60/min, regelmäßig
+RR: 140/85 mmHg
+Temperatur 36,2° Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig.
+HT: rein, keine patholog. Geräusche
+Lunge: bds. frei
+Periphere Ödeme: keine
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vm <[Pseudo] 11/09/2031:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 84/min, Linkstyp, PQ 176 ms, QRS 91 ms, QTc 399 ms. RS-Umschlag in V4/V5. T-Negativierung in aVL.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 12/09/2031> -RRB- :
+Befund folgt im endgültigen Brief.
+
+TAVI-CT vom <[Pseudo] 13/09/2031:>
+Gefäße / Herzhöhlen:
+Aortenklappensklerose und Coronarsklerose artefaktbedingt eingeschränkt beurteilbar; keine höhergradige Klappensklerose abgrenzbar.
+Kein Nachweis einer Lungenarterienembolie soweit beurteilbar. Weiterhin nach zentraler LAE <[Pseudo] 07/2030> prominentes rechtes Herz -LRB- R/L-Ventrikel Quotient > 1 -RRB- , Pulmonalarterien kräftig.
+Leichte Ektasie der Aorta ascendens -LRB- Querdurchmesser 3,8 cm -RRB- , leichte Vasosklerose. Keine höhergradigen Stenosen der viszeralen, aortalen Gefäßabgänge. Iliacalachse beidseits mäßig elongiert. Diffuse Imbibierung des Fettgewebes in der Leistenregion rechts ohne umschriebenes Hämatom.
+Thorax:
+Kein Pleura- oder Perikarderguss. Zentrilobulär im rechten Unterlappen leichte, bronchiolitische Infiltrate -LRB- Serie 504 / 137 -RRB- .
+Abdomen:
+Prominenter linker Leberlappen und Lob. caudatus im Verhältnis zu schmächtigem rechten Leberlappen als mögliches Zirrhosezeichen. Keine fokalen Läsionen von Leber, Milz oder Pankreas. Nebennieren homogen kontrastiert, Nebennieren schlank. Keine Cholestase, kein Harnstau, kein Aszites. Vereinzelte, verkalkte Lymphknoten im Unterbauch.
+Skelett:
+Degenerative Skelettveränderungen. Lumbal links konvexe Skoliose.
+Beurteilung:
+-UNK- Die Beurteilung der Machbarkeit des Eingriffes obliegt der behandelnden Fachabteilung.
+-UNK- Zeichen einer Rechtsherzbelastung.
+-UNK- Leichte bronchiolitische Infiltrate im rechten Unterlappen.
+Labor:
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 11/09/2031> und dem <[Pseudo] 12/09/2031>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.98
+4 - 10 /nl
+B-DATE
+Hb
+14.6
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.8
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.450
+0,36 - 0,47 l/l
+B-DATE
+MCV
+95
+83 - 97 fl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 11/09/31>
+MCHC
+32
+30 - 36 g/dl
+<[Pseudo] 11/09/31>
+RDW
+13.2
+12,9 - 18,7 %
+<[Pseudo] 11/09/31>
+hypochr.Erythroz.
+1.6
+0 - 2 %
+<[Pseudo] 11/09/31>
+Thrombozyten
+227
+150 - 440 /nl
+<[Pseudo] 11/09/31>
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+142
+135 - 146 mmol/l
+<[Pseudo] 11/09/31>
+Kalium -LRB- ISE -RRB-
+4.86
+3,4 - 5,0 mmol/l
+<[Pseudo] 11/09/31>
+Kreatinin
+0.82
+0,5 - 1,1 mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+34
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+67.8
+>60 s.u.
+<[Pseudo] 11/09/31>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 11/09/31>
+ikterisch
+-
+
+<[Pseudo] 11/09/31>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Lipämie
+-
+
+<[Pseudo] 11/09/31>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+TSH
+1.87
+0,400 - 4,000 mU/l
+<[Pseudo] 11/09/31>
+Gerinnungsdiagnostik
+
+
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+76.8
+70 - 125 %
+<[Pseudo] 12/09/31>
+INR - ber.
+1.12
+- <1.2
+<[Pseudo] 12/09/31>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+aPTT
+24.0
+- <35 s
+<[Pseudo] 12/09/31>
+Zusammenfassung:
+
+
+
+
+
+Die aktuelle Vorstellung der Patientin erfolgte zur Links-/Rechtsherzkatheteruntersuchung bei hochgradiger Aortenklappenstenose. In der Herzkatheteruntersuchung zeigte sich eine koronare Herzerkrankung ohne höhergradige Stenosen. Es zeigte sich eine noch mittelgradige Aortenklappenstenose. Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- .
+
+Anhand der erhobenen Befunde führten wir zur Evaluation der technischen Machbarkeit eines transfemoralen Aortenklappenersatzes ein CT durch. Es zeigte sich CT-Morphologisch bei prinzipiell technischer Machbarkeit der TAVI eine sehr geringe Kalklast in der Aortenklappe, so dass wir angesichts der wenig ausgeprägten Symptomatik und bei noch mittelgradiger Aortenklappenstenose zunächst für ein konservatives Procedere beschlossen haben.
+
+Wir empfehlen bezüglich der Koronargefäße ein konservatives Procedere. Bezüglich der Aortenklappe empfehlen wir zunächst ein konservatives Procedere, mit regelmäßigen echokardiographischen Verlaufskontrollen beim betreuenden Kollegen. Falls im Verlauf progredienter AKS bzw. zunehmender Symptomatik - ad TAVI.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der unten aufgeführten medikamentösen Therapie.
+
+Nächster Termin/Kontrolle:
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchungen, welche gerne auch bei einem niedergelassenen B-SALUTE durchgeführt werden können.
+Therapieempfehlung:
+
+Marcumar weiter, nach INR
+Clexane 0,8 1-0-1, bei INR > 2,0 bitte absetzen
+Candesartan 4 mg 1-0-1
+Pravastatin 20 0-0-1
+Pantozol 20 1-0-0
+Mg Verla 2-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin am <[Pseudo] 13/09/2031> in Ihre geschätzte ambulante Betreuung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die Überweisung und vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER I-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

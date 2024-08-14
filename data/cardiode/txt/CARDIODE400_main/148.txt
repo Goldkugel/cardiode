@@ -1,0 +1,130 @@
+Aufnahmedatum: <[Pseudo] 2483-10-26 >
+Geburtsdatum: <[Pseudo] 2113-11-01 >
+Alter: 369
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 01/11/2113> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreiche endovaskuläre Trikuspidalklappenrekonstruktion mittels 2-fach Pascal -LRB- Ace -RRB- Implantation im Bereich der antero-septalen Kommissur bei hochgradiger Trikuspidalklappeninsuffizienz.
+-UNK- Hierunter Reduktion der Trikuspidalklappeninsuffizienz von IV° auf II°. Bei Prolaps/Indentination -LRB- ant.-sept. im Bereich des 1. Pascal -RRB- keine weitere Reduktion möglich. Postinterventionell MPG 1,5mmHg.
+-UNK- Z.n. globaler kardiale Dekompensation bei hochgradiger Trikuspidalklappen Insuffizienz -LRB- PA sys 57mmHg -RRB-
+- Transthorakale/transösophageale Echokardiographie vom <[Pseudo] 28/12/2201:>
+-UNK- Gute systolische LV-Pumpfunktion
+-UNK- Hinweis auf eine diastolische LV-Dysfunktion -LRB- HFpEF -RRB-
+-UNK- Hochgradige Trikuspidalklappeninsuffizienz bei Anulusdilatation
+-UNK- Minimale Aortenklappen Insuffizienz
+-UNK- Leichtgradige Mitralklappen Insuffizienz
+-UNK- leichtgradige Pulmonalklappen Insuffizienz
+-UNK- deutliche PA-Druck Erhöhung -LRB- ca. 65-70mmHg -RRB- .
+-UNK- Thrombogene Flussgeschwindigkeiten im linken Vorhofohr
+-UNK- Leichte Ektasie der Aorta ascendens -LRB- max. 36mm -RRB-
+-UNK- thrombogener Aortenbogen Grad II
+- Koronarangiographisch Ausschluss einer KHK, Koronarsklerose ohne sign. Stenosen am <[Pseudo] 09/11/2201> -LRB- B-ORG I-ORG I-ORG -RRB-
+-UNK- Angiographisch pulmonale Hypertonie, DD postkapillär -LRB- 72/23/39mmHg -RRB-
+
+Diagnosen:
+- Z. n. kardialer Dekompensation bei hochgradiger pulmonaler Hypertonie bei HFpEF
+- pAVK
+-UNK- Z. n. PTA <[Pseudo] 06/2201>
+- Vorhofflimmern
+-UNK- CHADSVASc Score 8 Punkte -LRB- <[Pseudo] 12/2201> -RRB-
+-UNK- HAS-BLED Score 2 Punkte -LRB- <[Pseudo] 12/2201> -RRB-
+-UNK- Antikoagulation mit Edoxaban
+- Z. n. Covid-19 Infektion -LRB- <[Pseudo] 06/2201> -RRB-
+- Gonarthrose
+- Z. n. vaginaler Hysterektomie bei Myomen
+- Z. n. novalgininduzierter Agranulozytose
+- Z. n. akutem Nierenversagen
+- Z. n. Schlaganfall -LRB- anamnestisch -RRB-
+
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie, Nikotin: noch nie, Familienanamnese blande
+
+Allergien:
+Novalgin -LRB- Agranulozytose -RRB-
+
+Anamnese:
+Die Aufnahme auf unsere Station erfolgte elektiv zum interventionellen Trikuspidalklappen Clipping
+
+Es wird eine eingeschränkte körperliche Belastbarkeit im Alltag beschrieben. Beim Gehen am Rollator träte nach ca. 10 Metern inadäquate Belastungsdyspnoe -LRB- NYHA III -RRB- , jedoch keine belastungsinduzierten pectanginösen Beschwerden. In Ruhe bestünden weder pectanginöse Beschwerden noch Dyspnoe. Palpitationen und Schwindel werden wie stattgehabte Synkopen verneint. Die häuslichen Blutdruckmessungen ergäben Werte um140/80 mmHg. Es bestehe Nykturie mit ca. 4-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtsabnahme -LRB- -7kg/ 6 Monaten -RRB- bekannt - nach Rekompensation.
+Bei Übernahme auf die B-ORG Wachstation kardiorespiratorisch stabile Patientin. Aktuell Übelkeit nach Narkose sowie Schmerzen im Bereich des Leistendruckverbandes.
+
+Medikation bei Aufnahme:
+Edoxaban 30mg 1-0-0
+Spironolacton 25mg 1-0-0 jeden 2. Tag
+Torasemid 20mg 2,5-0-0
+Oxycodon comp. 5mg/2,5mg 1-0-1
+Zopiclon 7,5mg 0-0-0-1
+Xipamid 10mg Pause
+Movicol Pulver 1-1-0
+Candesartan 8mg 1-0-0
+Fenistil 1mg 1-1-1
+
+Körperlicher Untersuchungsbefund:
+AZ: eingeschränkt
+160 cm 73 kg
+HF: xx/min, unregelmäßig
+RR: xxx / xx mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: leises Systolikum mit p.m. 4 ICR rechts parasternal
+Lunge: o.B.
+Abdomen: weich, kein DS, keine Resist. Tastbare Rektusdiastase
+Leber: nicht vergrößert
+Periphere Ödeme: bei bds. Gewickelten Beinen nicht beurteilbar
+Pulsstatus: o.B.
+Neurologischer Status: orientierend o.B.
+sonstige Auffälligkeiten: Presbyakusis
+
+Ruhe-EKG vom <[Pseudo] 28/12/2201:>
+Vorhofflimmern, 87/min, Steiltyp. QRS 84msec., QTc 384msec. Zeiten im Normbereich. Frühe R-Progression, R/S Umschlag in V2/V3. T-Negativierung in III, aVR, aVF, V1, V3. ST-Senkung in in III, aVF, V4, V5, V6. Unspezifische Knotung in II, aVF, V1, V5, V6. Keine signifikanten Kammerendteilveränderungen.
+
+Herzkatheteruntersuchung B-OTHER vom <[Pseudo] 30/12/2201:>
+Befund folgt.
+
+EKG nach Intervention vom <[Pseudo] 30/12/2201:>
+Normofrequ. VHF, 83/min, QRS 79ms, QTc 388ms. Keine signifi. KETV.
+
+Echokardiographie vom <[Pseudo] 02/01/2202:>
+Angemeldet
+
+Labor:
+Siehe ISH
+
+Zusammenfassung:
+Die Aufnahme der Patientin erfolgte zur Trikuspidal-Clip-Implantation. Am <[Pseudo] 30/12/2201> erfolgte die erfolgreiche Implantation eines 2-fachen Trikuspidal-Clips -LRB- Pascal Ace -RRB- . Es erfolgte eine periinterventionelle Antibiose mit Cefuroxim. Postinterventionell zeigte sich bei Prolaps/Intendtination eine residuelle Trikspidalklappeninsuffizienz II°.
+
+Der weitere postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich kein klinisch Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle beider Leisten.
+
+Zur Endokarditisprophylaxe empfehlen wir eine gute Mundhygiene und regelmäßige zahnärztliche Kontrollen. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o. oder i.v. -RRB- oder bei Penicillinallergie mit Clindamycin -LRB- 600 mg p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir verlegten die kardiorespiratorisch stabile Patientin am <[Pseudo] 30/12/2201> in Ihre geschätzte stationäre Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Procedere:
+- Monitor weiter
+- Echo am Montag -LRB- a -RRB-
+- Termin HIS-Ambulanz in 4 Wochen
+
+Aktuelle Therapie:
+Heparinperfusor 25.000IE/ml Laufrate 0,9 ml bis <[Pseudo] 29.12.> 06 Uhr
+Cefuroxim 1,5 g i.v. um 02:00 Uhr
+
+Edoxaban 30mg 1-0-0 Wiederbeginn ab <[Pseudo] 31/12/01>
+Spironolacton 25mg 1-0-0 jeden 2. Tag
+Torasemid 20mg 2,5-0,5-0
+Atorvastatin 10 mg 0-0-1
+Oxycodon comp. 5mg/2,5mg 1-0-1
+Zopiclon 7,5mg 0-0-0-1
+Xipamid 10mg Pause
+Movicol Pulver 1-1-0
+Candesartan 8mg 1-0-0
+Fenistil 1mg 1-1-1
+
+Wir danken für die unkomplizierte Übernahme und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

@@ -1,0 +1,346 @@
+Aufnahmedatum: <[Pseudo] 2031-12-20 >
+Geburtsdatum: <[Pseudo] 1960-12-25 >
+Alter: 70
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 25/12/1960> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreiche Aufrüstung auf ein CRT-D-System am <[Pseudo] 11/12/2031>
+-UNK- Postinterventionell mögliche kleinste, 5 mm messende pleurale Ablösung links in Röntgen-Thorax
+-UNK- Patient entwichen, ohne die Befunde der Kontrolluntersuchungen abzuwarten
+-UNK- Nach telefonischer Kontaktierung poststationäre Verlaufskontrolle am <[Pseudo] 13/12/2031:> Stabiler Befund im Röntgen-Thorax, auszuschließende postoperative Komplikation bei Punktion der Vena cephalica sowie asymptomatischem Patienten
+-UNK- Konservatives Prozedere mit Empfehlung zur unmittelbaren Wiedervorstellung bei Beschwerden
+
+Diagnosen:
+- Dilatative Kardiomyopathie mit hochgradig eingeschränkter LV-Funktion mit deutlicher Hypertrabekularisierung -LRB- MRT extern <[Pseudo] 05/2024> -RRB-
+-UNK- Versuch einer CRT-D-Implantation -LRB- Medtronic -RRB- mit frustraner Coronariussondenanlage bei dilatativer Kardiomyopathie am <[Pseudo] 01/08/2025>
+- Z. n. Nicht-ST-Hebungsinfarkt -LRB- NSTEMI -RRB- Typ 2 bei akuter kardialer Dekompensation bei bekannter dilatativer Kardiomyopathie und akutem chronischen Nierenversagen <[Pseudo] 11/2030>
+-UNK- im Wesentlichen koronare 1-Gefäßerkankung der LCX -LRB- 50% mediale Stenose -RRB- mit hochgradig eingeschränkter Pumpfunktion. Erhöhter PAP -LRB- 55/25/38 mmHg -RRB- PCPW 25 mmHg, erhöhter PVR -LRB- 234 dyn*s*cm-5 -RRB- , Cardiac index 2,32 l/min/m² ; SvO2 59%, normaler SVR -LRB- 969 dyn*s*cm^-5 -RRB- -LRB- HK-Nr. B-OTHER vom <[Pseudo] 09/12/2030> -RRB-
+- Z.n. Supraventrikuläre Tachykardie DD Vorhofflattern -LRB- ED <[Pseudo] 11/2030> -RRB-
+-UNK- CHADSVASc 3, HAS BLED 1
+-UNK- elektrische Kardioversion am <[Pseudo] 08/12/2030> und <[Pseudo] 22/12/2030>
+-UNK- Amiodaronaufsättigung zur Frequenz- und Rhythmuskontrolle
+- Z.n. einmaliger nicht-rhythmogener nächtlicher Synkope unter Hypotension <[Pseudo] 10/2031>
+- Amiodaron-induzierte Hyperthyreose Typ 1
+-UNK- Schilddrüsensonographie B-DATE: GV 26 ml mit mehreren echokomplexen Knoten
+-UNK- CEA/Calcitonin: normwertig, TRAK: normwertig
+-UNK- Aktuell latente Hyperthyreose
+-UNK- Weiterhin totale Thyreoidektomie empfohlen
+- Benigner paroxysmaler Lagerungsschwindel
+- Z.n. Harnwegsinfekt <[Pseudo] 10/2031>
+- Z.n. Knie-TEP rechts und links
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, ehemaliger Nikotinkonsum -LRB- ca. 40 PY -RRB- , Diabetes mellitus Typ 2, pos. Familienanamnese -LRB- DCMP bei Zwillingsbruder -RRB-
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+Anamnese:
+
+Die stationäre Aufnahme des Patienten erfolgte zur CRT-D-Aufrüstung oder alternativ zur HIS-Pacing-Aufrüstung bei DCMP mit hochgradig eingeschränkter Pumpfunktion und hohem Pacinganteil -LRB- 99,9 % ventrikuläres Pacing -RRB- . Eine versuchte CRT-D-Aufrüstung war <[Pseudo] 2025> bei frustraner Coronariussondenanlage nicht erfolgreich gewesen. Es bestehe eine mäßige körperliche Belastbarkeit im Alltag mit Belastungsdyspnoe -LRB- NYHA II -RRB- , jedoch ohne typische pectanginöse Beschwerden. Auf spezifische Nachfrage hin werden Palpitationen verneint. Keine erneuten Synkopen seit der bekannten nicht-rhythmogenen nächtlichen Synkope unter Hypotension am <B-DATE.
+
+Medikation bei Aufnahme:
+Apixaban 5 mg 1-0-1
+Amiodaron 200 mg 1-0-0
+Bisoprolol 5 mg 1-0-1
+Entresto 49/51 mg 1-0-1
+Eplerenon 50 mg 1-0-0
+Metformin 500 mg 1-0-1
+Jardiance 10 mg 1-0-0
+Atorvastatin 20 mg 0-0-1
+Pantoprazol 40 mg 1-0-0
+Tamsulosin 0,4 mg 1-0-0
+Torasemid 10 mg 2,5-1,5-0
+Kaliumchlorid 600 mg 1-1-1, unter Laborkontrolle
+Ferrosanol duodenal 1-0-1
+Körperliche Untersuchung:
+
+AZ: gut
+EZ: gut
+HF: 70/min, regelmäßig
+RR: 110/75 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+
+Aufrüstung auf CRT-D-System vom <[Pseudo] 11/12/2031:>
+Diagnosen: Z.n. erfolgloser CRT-Implantation <[Pseudo] 2025> mit weiterhin Indikation und hohem Pacinganteil bei DCMP mit hochgradig eingeschränkter LVEF, SR, Versuch der CRT-Anlage von rechts -LRB- bei verschlossener V. subclavia links -RRB- bzw. HIS-Pacing -LRB- Option <[Pseudo] 2025> nicht gegeben -RRB- . Nachlassende Batteriespannung des alten Gerätes.
+ICD-Aggregat: B-OTHER
+RA-Elektrode -LRB- belassen -RRB- : B-OTHER <[Pseudo] 01/08/2025>
+RV-Elektrode -LRB- belassen -RRB- : B-OTHER <[Pseudo] 01/08/2025>
+CS-Elektrode: B-OTHER
+CS-Katheter: B-OTHER,
+PTFE GuideWire, Attain Select II 90°,
+Explantat: B-OTHER <[Pseudo] 01/08/2025>
+Intraoperative Messwerte:
+RS: -LRB- RA -RRB- 0,7V/ 0,5 ms -LRB- RV -RRB- 0,5V/ 0,5 ms -LRB- LV -RRB- 1,7V/0,5 ms
+Impedanz: -LRB- RA -RRB- 443 -UNK- -LRB- RV -RRB- 435 -UNK- -LRB- LV -RRB- 571 -UNK-
+Sensing: -LRB- RA -RRB- 3,5mV -LRB- RV -RRB- 2,5mV -LRB- LV -RRB- 6,5mV
+Zugang: V. subclavia links V. subclavia links V. cephalica links
+
+DFT: - OP-Dauer: 152min. DL-Zeit: 33,3min Dosis: 36,2Gy·cm² KM: 82ml
+OP-Bericht:
+
+Phlebographie links und rechts mit Verschluss der V. subclavia links. Daher Zugang von rechts. Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis rechts. Der Zugang der Ventrikelelektrode erfolgte transvenös über die Vena cephalica links. Präparation der Vene im Sulcus deltoidopectoralis. Anschlingen, distale Ligatur und Inzision der Vene. Wechsel auf Schleusen über J-Draht. Venotomie. Vorschieben des CS-Sheath bis in den RA. Deutlich erschwertes Auffinden des siphonartigem CS-Abgang mit proximaler Klappe. Es gelingt die Sondierung einer inferioren Vene. Hier kein sinnvolle Reizschwelle. Daher Versuch der Sondierung des Hauptastes. Hierbei Sondierung der Marshalvene. Letztlich gelingt die Sondierung des Hauptastes und Platzierung des Sheath im CS Venogramm des CS. Danach Sondierung der lateralen Zielvene mit guten Messwerte. Schlitzen der CS-Schleuse mit weiterhin identischer Sondenlage.
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links. Freipräpration und Herausluxation des alten Aggregates. Antibiotische Spülung der Tasche. Durchmessen der alten RA- und RV-Sonde mit guten Messwerten. Subcutane Tunnelung von rechts nach links nach lokaler Betäubung. Danach Konnektion der Sonden an den neuen Generator und Versenken in der Tasche. Schichtweiser Wundverschluß unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links subfaszial angelegt. Verband. Verzicht auf DFT Testung bei guten Messwerten und typischer Position von Elektroden und Device.
+
+Röntgen-Thorax nach CRT-D Aufrüstung vom <[Pseudo] 11/12/2031:>
+Jetzt Schrittmacheraggregat in pektoraler Tasche links mit Projektion der Elektroden auf den rechten Vorhof, Ventrikel und Sinus coronarius. Links apical kleinste, 5 mm messende pleurale Ablösung möglich, rechts kein Pneumothorax.
+Herzsilhouette verbreitert, CTR = 21/34. Keine höhergradigen Stauungszeichen. In den einsehbaren Abschnitten kein Nachweis entzündlicher Infiltrate. Kein Erguss. Zwerchfellbuckel rechts.
+
+Transthorakale Echokardiographie nach CRT-D Aufrüstung vom <[Pseudo] 12/12/2031:>
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+CRT-D-Abfrage nach CRT-D Aufrüstung vom <[Pseudo] 12/12/2031:>
+Regelrechte CRT-D-Funktion. Seit Implantation keine neuen Episoden im Speicher. Batteriestatus gut -LRB- 3,08 V -RRB- . Anstieg der LV-Reizschwelle von intraoperativ 1,7V/0,5ms auf 2,75V/1,0ms. Hohe LV-Reizschwelle auch in jeglichen anderen Stimulationskonfigurationen. Weitere Messwerte gut. Aktuell 11,9% atriales- und 99,9% biventrikuläres Pacing. Keine kurzen VV-Intervalle. Keine DFT-Testung, bei typischer Sonden- und Aggregatlage. Bei erschwerter LV-Sondenplatzierung wird die erhöhte LV-Reizschwelle nach RS Operateur akzeptiert. Anpassung der LV-Stimulationsparameter erfolgt. Der CRT-D-Ausweis wurde ausgestellt und dem Pat. ausgehändigt. Die Informationsbroschüre -LRB- Lt. MPG -RRB- wurde dem Patienten ebenfalls ausgehändigt und dieser über Verhaltensmaßnahmen aufgeklärt. Der Alarm wurde dem Patienten demonstriert. Es besteht eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 2 Wochen gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+
+Ruhe-EKG nach CRT-D Aufrüstung vom <[Pseudo] 12/12/2031:>
+Durchgehende atriale und ventrikuläre Schrittmacherstimulation, regelmäßig, Herzfrequenz 70/min. PQ 156 ms, QRS 193 ms, QTc 519 ms.
+
+Röntgen-Thorax-Kontrolle vom <[Pseudo] 13/12/2031> -LRB- poststationär -RRB- :
+Verdichtungslinie links apical mit 5 mm Saumbreite, geringe Pleuraablösung nicht auszuschließen. Fremdmaterial idem. Darüber hinaus keine durchgreifende kardiopulmonale Befundänderung.
+Labor:
+
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2031>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+9.78
+4 - 10 /nl
+B-DATE
+Hb
+13.9
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.0
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.440
+0,38 - 0,52 l/l
+B-DATE
+MCV
+89
+83 - 97 fl
+<[Pseudo] 04/12/31>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+28
+27 - 33 pg
+<[Pseudo] 04/12/31>
+MCHC
+31
+30 - 36 g/dl
+<[Pseudo] 04/12/31>
+RDW
+18.4
+12,9 - 18,7 %
+<[Pseudo] 04/12/31>
+hypochr.Erythroz.
+2.4 !H
+0 - 2 %
+<[Pseudo] 04/12/31>
+Thrombozyten
+255
+150 - 440 /nl
+<[Pseudo] 04/12/31>
+Elektrolyte & Nierenfunktionsparameter
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+143
+135 - 146 mmol/l
+<[Pseudo] 04/12/31>
+Kalium -LRB- ISE -RRB-
+4.49
+3,4 - 5,0 mmol/l
+<[Pseudo] 04/12/31>
+Kreatinin
+1.48 !H
+0,6 - 1,3 mg/dl
+<[Pseudo] 04/12/31>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+67 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+47.3 !L
+>60 s.u.
+<[Pseudo] 04/12/31>
+MDRD
+50.15
+ml/min/1,73qm
+<[Pseudo] 04/12/31>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+48.4
+30 - 50 g/l
+<[Pseudo] 04/12/31>
+Glucose
+138 !H
+65 - 110 mg/dl
+<[Pseudo] 04/12/31>
+CRP
+14.4 !H
+- <5 mg/l
+<[Pseudo] 04/12/31>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 04/12/31>
+ikterisch
+-
+
+<[Pseudo] 04/12/31>
+Lipämie
+-
+
+<[Pseudo] 04/12/31>
+Endokrinologie & Diabetologie
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+TSH
+0.060 !L
+0,400 - 4,000 mU/l
+<[Pseudo] 04/12/31>
+FT3
+3.41
+2,0 - 4,2 ng/l
+<[Pseudo] 04/12/31>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+FT4
+17.67
+8 - 18 ng/l
+<[Pseudo] 04/12/31>
+Gerinnungsdiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+124.5
+70 - 125 %
+<[Pseudo] 04/12/31>
+INR - ber.
+0.94
+- <1.2
+<[Pseudo] 04/12/31>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+aPTT
+21.3
+- <35 s
+<[Pseudo] 04/12/31>
+Zusammenfassung:
+
+
+
+
+Die stationäre Aufnahme des Patienten erfolgte zur CRT-D-Aufrüstung bei DCMP mit hochgradig eingeschränkter Pumpfunktion und hohem Pacinganteil.
+
+Die Implantation des CRT-D-Systems konnte am <[Pseudo] 11/12/2031> komplikationslos durchgeführt werden. Postinterventionell konnten echokardiographisch ein Perikarderguss ausgeschlossen werden. Die im Anschluss kontrollierte CRT-D Funktion war regelrecht. Bei Entlassung zeigte sich die Wunde reizlos. Wir bitten um einen Verbandswechsel in 3 - 4 Tagen und eine Wundkontrolle in 10-12 Tagen durch den Hausarzt. Ein Fadenzug ist bei selbstauflösendem Nahtmaterial nicht erforderlich. Bei Rötung, Schwellung, Fieber oder purulentem Sekret aus der Aggregattasche erbitten wir eine sofortige Wiedervorstellung in unserem Hause.
+
+Zur Wiedervorstellung zur nächsten Schrittmacherkontrolluntersuchung wurde ein Termin für den <[Pseudo] 29/01/2032> um 10:00 Uhr in unserer B-ORG Ambulanz vereinbart. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch einen niedergelassenen kardiologischen B-SALUTE in Intervallen von 6 Monaten durchführen zu lassen.
+
+Die Antikoagulation mit Apixaban wurde am Folgetag des Eingriffs wiederaufgenommen.
+
+Über Verhaltensmaßregeln sowie eine Fahrungeeignetheit als Privatkraftfahrer für mindestens
+2 Wochen und eine dauerhafte Fahrungeeignetheit als Berufskraftfahrer, wurde der Patient aufgeklärt. DEFI-Ausweis, Informationsbroschüre -LRB- Lt. MPG -RRB- , sowie Patienteninformation und Einverständniserklärung wurden dem Patienten ausgehändigt. Die Alarmfunktion wurde demonstriert.
+
+Das CRT-D-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan-Modus -RRB- für die Verwendung im MRT entwickelt.
+
+Wichtig: Vor der MRT-Untersuchung sollte das CRT-D-System auf diesen SureScan-Modus programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung erfolgen, da dieser SureScan-Modus in dieser Zeit der Einheilungsphase nicht aktivierbar ist.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien, sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Der Patient verließ am <[Pseudo] 12/12/2031> die Station, ohne die Befunde der Kontrolluntersuchungen und das Entlassungsgespräch abzuwarten und ohne jemandem Bescheid zu geben. Erst danach wurde der Röntgen-Befund übermittelt, welcher links apikal eine mögliche kleinste, 5 mm messende pleurale Ablösung zeigte. Der Befund wurde dem Patienten telefonisch mitgeteilt mit der Empfehlung, sich am Folgetag für eine Verlaufskontrolle erneut vorzustellen. Es wurde mit dem Patienten vereinbart, dass er sich am <[Pseudo] 13/12/2031> um 8 Uhr in der B-ORG für eine Röntgen-Thorax-Kontrolle vorstellt. Er wurde darüber aufgeklärt, dass er sich bei Auftreten von thorakalen Beschwerden oder Dyspnoe unverzüglich in unserer B-ORG vorstellen sollte.
+
+Die poststationäre Röntgen-Thorax-Kontrolle vom <[Pseudo] 13/12/2031> zeigte Befundkonstanz bezüglich der nicht auszuschließenden Pleuraablösung vom 5 mm. Bei stabilem Befund, auszuschließender postoperativer Komplikation bei Punktion der Vena cephalica sowie asymptomatischen Patienten wurde ein konservatives Vorgehen empfohlen. Der Patient wurde erneut darüber aufgeklärt, dass bei Beschwerden eine Wiedervorstellung in unserer B-ORG jederzeit möglich und erwünscht ist.
+
+Bei beschwerdefreiem Verlauf empfehlen wir regelmäßige kardiologische Kontrolluntersuchung in der Praxis bei B-TITLE B-PER
+
+Nächster Termin/Procedere:
+- Verbandswechsel in 3 - 4 Tagen und Wundkontrolle in 10-12 Tagen durch den Hausarzt empfohlen -LRB- Kein Fadenzug bei selbstauflösendem Nahtmaterial erforderlich -RRB-
+- Wiedervorstellung zur nächsten CRT-D-Kontrolluntersuchung in unserer ORG am <[Pseudo] 29/01/2032> um 10 Uhr
+
+Therapieempfehlung von kardiologischer Seite:
+Apixaban 5 mg 1-0-1
+Amiodaron 200 mg 1-0-0
+Bisoprolol 5 mg 1-0-1
+Entresto 49/51 mg 1-0-1
+Eplerenon 50 mg 1-0-0
+Metformin 500 mg 1-0-1
+Jardiance 10 mg 1-0-0
+Atorvastatin 20 mg 0-0-1 Ziel-LDL < 55 mg/dl
+Pantoprazol 40 mg 1-0-0
+Tamsulosin 0,4 mg 1-0-0
+Torasemid 10 mg 2,5-1,5-0
+Kaliumchlorid 600 mg 1-1-1, unter Laborkontrolle
+Ferrosanol duodenal 1-0-1
+Irenat 20 Tropfen 1-1-1 neu, für 10 Tage, bis <[Pseudo] 21/12/2031>
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+Mit freundlichen Grüßen
+
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsärztin
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

@@ -1,0 +1,603 @@
+Aufnahmedatum: <[Pseudo] 2039-04-05 >
+Geburtsdatum: <[Pseudo] 1969-06-17 >
+Alter: 69
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 17/06/1969> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Entlassung gegen ärztlichen Rat
+
+Diagnosen:
+- Hypertensives Lungenödem
+-UNK- Intubation und maschinelle Beatmung B-DATE - B-DATE
+-UNK- Ausschuss Nierenartienstenose am Mo. via Nierenzentrum
+-UNK- Metanephrine im Sammelurin negativ
+
+- Stauungspneumonie
+-UNK- Antibiotische Therapie mit Ampicillin/Sulbactam <[Pseudo] 28/03/2039> - <[Pseudo] 02/04/2039>
+-UNK- Azythromycin v. B-DATE <[Pseudo] 03/04/39>
+-UNK- Oralisierung auf Augmentan ab B-DATE
+-UNK- Fortführung bis <[Pseudo] 07/04/2039> empfohlen
+
+- NSTEMI am <[Pseudo] 28/03/2039> -LRB- B-OTHER vom <[Pseudo] 28/03/2039> -RRB-
+-UNK- Koronare 2-Gefäßerkrankung von LAD und LCX mit mittelgradig eingeschränkter linksventrikulärer Pumpfunktion
+-UNK- PTCA/3x DE-Stentimplantation von LAD/R. diagonalis 2 als Bifurkationsstenting mit final kiss-Manöver
+-UNK- Residuell 50-75%-ige Stenose des R. marginalis; R. diagonalis 1 langstreckig hochgradig stenosiert, kleinkalibrig und ohne sinnvollen Interventionsansatz
+
+- Akut auf chronisches Nierenversagen im Rahmen der KM-Exposition
+-UNK- Engmaschige nephrologische Anbindung empfohlen
+
+- Chronisches Nierenversagen, a.e. multifaktorieller Genese -LRB- Stadium 3a -RRB-
+
+- V.a. sekundäre Hypertonie
+-UNK- Metanephrine im Sammelurin: 2,77 µmol/24h -LRB- Normgrenze: 1,9 µmol/24h -RRB-
+-UNK- Ausschluss einer Nierenarterienstenose -LRB- <[Pseudo] 03/04/39> ORG -RRB-
+-UNK- OSAS-Screening im ambulanten Kontext empfohlen
+-UNK- Verlaufskontrolle bzgl. der Metanephrine im Urin B-MONTH <[Pseudo] 2038> empfohlen
+
+- Z.n. Lobärpneumonie Ober- und Unterlappen re. am <[Pseudo] 28/09/2037>
+-UNK- Respiratorische Globalinsuffizienz
+-UNK- NIV-Therapie am <[Pseudo] 28/09/2037>
+-UNK- Intubation und maschinelle Beatmung
+-UNK- Ventilation in Bauchlage B-DATE - B-DATE
+- Lungenemphysem
+- Lungenrundherd Unterlappen li.
+-UNK- Anamnestisch 2-malig verlaufskontrolliert im Abstand von 3 Monaten. Kein Progress in diesem Zeitraum, keine Indikation zur weiteren Abklärung
+- Z.n. Basalzellkarzinom im Bereich des Nasenrückens
+
+CvRF: Arterielle Hypertonie
+Allergien: Keine bekannt
+Externer Zuweiser: Notarzt
+
+Anamnese:
+Die Aufnahme von B-SALUTE B-PER erfolgte als Verbringung durch den Notarzt bei hypertensivem Lungenödem. Dem Rettungsdienst berichtete B-SALUTE B-PER seit ca. 3h unter Dyspnoe zu leiden. Unter Raumluft zeigte sich eine SpO2 von 68%. Der Blutdruck lag syst. >200mmHg. Angesichts fehlenden Aufsättigens unter 15l O2/min über die Maske und GCS von 3 Punkten erfolgte durch den Notarzt die Intubation mit anschließender maschineller Beatmung. Hierbei ließ sich viel schaumiges Sekret absaugen, Hinweise auf eine Aspiration ergaben sich nicht. Bei Übernahme intubiert/beatmet und hypertensiv.
+
+Körperlicher -LRB- initialer -RRB- Untersuchungsbefund:
+AZ: intubiert/beatmet
+EZ: adipös
+HF: 99/min, regelmäßig
+RR: 163/100mmHg
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, exspiratorisches Giemen re., grobblasige RG
+Periphere Ödeme: keine
+Pulsstatus: o.B.
+Neurol. Status:
+- Pupillen: eng/isokor
+- Kornealreflex: erloschen
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+SR, 99/min, Indifferenztyp. PQ 183ms, QRS 125ms, QTc 426ms. Regelrechte R-Progression, R/S-Umschlag in V3/4, S-Persistenz bis V6. Keine ERBS.
+
+Ruhe-EKG vom <[Pseudo] 02/04/2039:>
+Sinusrhythmus, Herzfrequenz 68/min, Linkslagetype. PR Intervall 165ms, QRS etwa 120ms, QTc 444ms. R/S-Umschlag in V3/V4. S-Persistenz in V6. T-Negativierung in I, aVL.
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 28/03/2039:>
+Zum Vergleich liegt zuletzt die CT-Voraufnahme vom <[Pseudo] 10/05/2038> vor. Ausgedehnte zentrale Infiltrate beidseits, insbesondere rechts. Vermehrte Lungengefäßzeichnung. Verwaschenen Hili. Insgesamt gut mit Lungenödem vereinbar, DD begleitende Infiltrate möglich. Kein Pleuraerguss. Kein Pneumothorax. Trachea mittig und nicht eingeengt. Unauffällige Mediastinalsilhouette.
+
+Echokardiographie vom <[Pseudo] 28/03/2039:>
+Normal großer, septal betont hypertrophierter linker Ventrikel mit mittelgradig reduzierter systolischer Pumpfunktion bei Hypokinesie anterolateral, inferolateral und inferior -LRB- anterior nicht einsehbar -RRB- . Reduzierte longitudinale LV-Funktion. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior leicht dilatiert und eingeschränkt atemvariabel.
+Aortenklappe trikuspid, verdickt mit erhaltener Separation. Mitralklappe ebenfalls verdickt mit guter Separation. Mitralanulusverkalkung. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist noch normal -LRB- ca. 35 mmHg -RRB- .
+Erstbefund in domo.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 28/03/2039> -RRB- :
+Vorläufig: Koronare 2-Gefäßerkrankung von LAD und LCX mit mittelgradig eingeschränkter linksventrikulärer Pumpfunktion. PTCA/3x DE-Stentimplantation von LAD/R. diagonalis 2 als Bifurkationsstenting mit final kiss-Manöver. Residuell 50-75%-ige Stenose des R. marginalis; R. diagonalis 1 langstreckig hochgradig stenosiert, kleinkalibrig und ohne sinnvollen Interventionsansatz
+
+Ruhe EKG vom <[Pseudo] 30/03/2039:>
+SR, 87/min, Indifferenztyp. PQ 172ms, QRS 117ms, QTc 445ms. Regelrechte R-Progression, R/S-Umschlag in V3/4, S-Persistenz bis V6. T Negativierung in aVL.
+
+Echo-TTE vom <[Pseudo] 02/04/2039:>
+Grenzwertig großer, septal betont hypertrophierter linker Ventrikel mit mittelgradig reduzierter systolischer Pumpfunktion bei Hypokinesie anterolateral, inferolateral, anteroseptal, inferior basal und anterior. Reduzierte longitudinale LV-Funktion. LA dilatiert, RA und RV normal groß, noch gute RV-Funktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior normal weit und atemvariabel. Aortenklappe trikuspid, verkalkt und verdickt mit erhaltener Separation. Mitralklappe ebenfalls verdickt mit guter Separation. Mitralanulusverkalkung. Leichtgradige Aortenklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist nicht ableitbar. Im Vergleich zur Voruntersuchung v. <[Pseudo] 28/03/2039:> bzgl. Pumpfunktion und Hypokinesien soweit beurteilbar i.W. Befundkonstanz, heute PA-Druck nicht ableitbar bei fehlender Trikuspidalklappeninsuffizienz, VCI heute nicht gestaut und atemvariabel.
+
+Langzeit-EKG vom <[Pseudo] 03/04/2039:>
+Aufzeichnungsdauer lediglich über 2 h 54 min, somit als Langzeit-EKG nicht verwertbar. Soweit beurteilbar: Normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 55/min und 94/min,im Mittel 76/min. Eingeschränkte Herzfrequenzvariabilität. 2 supraventrikuläre Extrasystolen. Keine Pausen. Wenige polymorphe ventrikuläre Extrasystolen. Lown III a.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2038> und dem B-DAY B-MONTH <[Pseudo] 2038>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+11.10 !H
+4 - 10 /nl
+B-DATE
+Hb
+13.5
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.4
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.380
+0,38 - 0,52 l/l
+B-DATE
+MCV
+87
+83 - 97 fl
+<[Pseudo] 03/04/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 03/04/39>
+MCHC
+36
+30 - 36 g/dl
+<[Pseudo] 03/04/39>
+RDW
+13.4
+12,9 - 18,7 %
+<[Pseudo] 03/04/39>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+<[Pseudo] 03/04/39>
+Thrombozyten
+268
+150 - 440 /nl
+<[Pseudo] 03/04/39>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 03/04/39>
+Kalium -LRB- ISE -RRB-
+3.75
+3,4 - 5,0 mmol/l
+<[Pseudo] 03/04/39>
+Calcium
+2.27
+2,11 - 2,59 mmol/l
+B-DATE
+Ca./korr.
+1.98 !L
+2,1 - 2,65 mmol/l
+B-DATE
+Phosphat
+<NONE> !H
+0,84 - 1,45 mmol/l
+B-DATE
+Magnesium
+0.95
+0,75 - 1,05 mmol/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Chlorid -LRB- ISE -RRB-
+110
+98 - 111 mmol/L
+<[Pseudo] 28/03/39>
+Kreatinin
+2.20 !H
+0,6 - 1,3 mg/dl
+B-DATE
+Harnstoff
+90 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+29.5 !L
+>60 s.u.
+<[Pseudo] 03/04/39>
+MDRD
+49.83
+ml/min/1,73qm
+<[Pseudo] 01/04/39>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+42.4
+30 - 50 g/l
+<[Pseudo] 01/04/39>
+Glucose
+105
+65 - 110 mg/dl
+<[Pseudo] 03/04/39>
+GOT/AST
+27
+- <46 U/l
+B-DATE
+GPT/ALT
+16
+- <50 U/l
+B-DATE
+AP
+88
+40 - 130 U/l
+B-DATE
+GGT
+18
+- <60 U/l
+<[Pseudo] 01/04/39>
+Ges.Bili.
+0.5
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+8.4 !H
+- <7 mg/dl
+<[Pseudo] 01/04/39>
+Triglyceride
+136
+- <150 mg/dl
+<[Pseudo] 01/04/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+227.0
+- alt.abh. mg/dl
+<[Pseudo] 01/04/39>
+LDL-Chol. -LRB- berechn. -RRB-
+154
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+46
+>40 mg/dl
+<[Pseudo] 01/04/39>
+CRP
+19.9 !H
+- <5 mg/l
+<[Pseudo] 02/04/39>
+PCT sens.
+0.20 !H
+- <0,05 ng/ml
+<[Pseudo] 03/04/39>
+Hämolyse
+-
+
+<[Pseudo] 03/04/39>
+ikterisch
+-
+
+<[Pseudo] 03/04/39>
+Lipämie
+-
+
+<[Pseudo] 03/04/39>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+309
+- <342 U/l
+B-DATE
+CK
+126
+- <190 U/l
+<[Pseudo] 01/04/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+59.3 !H
+- <14 pg/ml
+B-DATE
+hs-TroponinT
+250 !H
+- <14 pg/ml
+<[Pseudo] 03/04/39>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.9
+- <6,1 %
+<[Pseudo] 01/04/39>
+HbA1c -LRB- IFCC -RRB-
+41
+20 - 42 mmol/mol
+<[Pseudo] 01/04/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+123 !H
+- <110 mg/dl
+<[Pseudo] 01/04/39>
+TSH
+0.650
+0,400 - 4,000 mU/l
+<[Pseudo] 01/04/39>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+105.0
+70 - 125 %
+<[Pseudo] 01/04/39>
+INR - ber.
+1.00
+- <1.2
+<[Pseudo] 01/04/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+20.5
+- <35 s
+<[Pseudo] 01/04/39>
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+6.50
+6,0 - 8,0
+<[Pseudo] 01/04/39>
+SpezGew/Tstr.
+1019
+1001 - 1035
+<[Pseudo] 01/04/39>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 01/04/39>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 01/04/39>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 01/04/39>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 01/04/39>
+Eiweiß/Tstr.
+Spur
+- neg. mg/dl
+<[Pseudo] 01/04/39>
+Urobil /Tstr.
+1.0
+- <2,0 mg/dl
+<[Pseudo] 01/04/39>
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 01/04/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+<[Pseudo] 01/04/39>
+Erys/µl
+1.0
+- <8 /µl
+B-DATE
+Leuko/µl
+18.0 !H
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+3.00
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+<[Pseudo] 01/04/39>
+Sammelvol.
+1300
+ml
+B-DATE
+Metanephrin/U
+0.57
+µmol/l
+B-DATE
+Normetanephrin/U
+2.13
+µmol/l
+B-DATE
+Normetan./24 h
+2.77 !H
+0,57 - 1,90 µmol/24 h
+B-DATE
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.49 !H
+7,37 - 7,45
+B-DATE
+pO2
+69
+mmHg
+B-DATE
+pCO2
+30.2 !L
+35 - 45 mmHg
+<[Pseudo] 31/03/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-0.3
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+24.2
+mmol/l
+B-DATE
+Laktat
+5.6
+- <16 mg/dl
+<[Pseudo] 31/03/39>
+
+
+Weitere Laborwerte
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+3-Metho.Tyr/d
+0.39 !L
+0,62 - 2,6 µmol/24h
+B-DATE
+3-MethoxyTyr.
+0.30
+µmol/l
+<[Pseudo] 02/04/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Sammeldauer
+24
+h
+B-DATE
+Metanephrin/24 h
+0.74
+0,37 - 1,50 µmol/24 h
+B-DATE
+
+
+
+
+
+Zusammenfassung:
+Die Aufnahme von B-SALUTE B-PER erfolgte als Verbringung durch den Notarzt bei hypertensivem Lungenödem. Bei Übernahme war B-SALUTE B-PER intubiert/beatmet und weiterhin hypertensiv. Wir begannen eine antihypertensive Therapie sowie bei V.a. Stauungspneumonie eine antibiotische Therapie mit Ampicillin/Sulbactam.
+
+Bei NSTEMI erfolgte die dringliche Koronarangiographie. Dabei zeigte sich eine koronare 2-Gefäßerkrankung von LAD und LCX. Es erfolgte die PTCA/3x DE-Stentimplantation von LAD und R. diagonalis 2 als Bifurkationsstenting mit final kiss-Manöver. Bzgl. einer residuellen 50-75%-igen Stenose des R. marginalis empfehlen wir einen bildgebenden Ischämienachweis. Der R. diagonalis 1 zeigte sich langstreckig hochgradig stenosiert, kleinkalibrig und ohne sinnvollen Interventionsansatz. Insgesamt gestaltete sich der postinterventionelle Verlauf komplikationslos.
+
+Am <[Pseudo] 29/03/2039> erfolgten die komplikationslose Extubation und Verlegung auf unsere IMC-Station. Hier konnte eine weitere sukzessive Reduktion der Sauerstofftherapie unter Negativbilanz erzielt werden. Bei Pneumonie erfolgte die Fortführung der von den B-SALUTE bereits begonnenen Unacid Therapie wie oben beschrieben.
+
+Am <[Pseudo] 31/03/2039> erfolgte die Übernahme des kardiorespiratorisch stabilen und beschwerdefreien Patienten auf unsere B-ORG Normalstation. Es erfolgte die Fortführung der Observanz am Monitor.
+
+In der postinterventionellen ausführlichen Echokardiographie bestätigte sich eine mittelgradig eingeschränkte LV-Funktion ohne signifikante Vitien. Wir begannen eine leitliniengerechte Herzinsuffizienztherapie und bitten um Ausbau im Verlauf.
+
+Bei V.a. sekundäre Hypertonie wurde eine erweiterte Abklärung durchgeführt, welche bzgl. einer Nierenarterienstenose unauffällig blieb. In der Analytik des 24h-Sammelurins zeigten sich isoliert erhöhte Normetanephrine -LRB- 2,8 µmol/24 -RRB- , bei normwertigen Metanephrinen. Nach endokrinologischer Rücksprache -LRB- TITLE PER -RRB- empfehlen wir eine Verlaufskontrolle 8 Wochen nach der initialen Diagnostik im B-MONTH <[Pseudo] 2038> durchzuführen. Zudem empfehlen wir zur Komplettierung der Diagnostik eine Polygraphie im ambulanten Kontext zum Ausschluss schlafassoziierter Atemregulationsstörungen.
+
+Nach Kontrastmittelexposition entwickelte B-SALUTE B-PER ein akut auf chronisches Nierenversagen, das auch nephrologisch mitbeurteilt wurde. Hiernach besteht a.e. ein chronisches Nierenversagen multifaktorieller Genese -LRB- Stadium 3a -RRB- . Wir pausierten die nephrotoxische Medikation. Der Patient verweigerte trotz akutem Nierenversagen explizit die notwendige stationäre Behandlung auch nach ausführlicher Aufklärung über Folgen und Komplikationen -LRB- inkl. Todesfolge -RRB- . Wir verschriftlichten dies am B-DATE. Hiernach erfolgte die Entlassung gegen ärztlichen Rat.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung mit ASS und Ticagrelor für 12 Monate nach Stentimplantation. Auf die Bedeutung einer lückenlosen Einnahme beider Präparate für diesen Zeitraum wurde explizit hingewiesen. Anschließend empfehlen wir ASS dauerhaft fortzuführen.
+
+Zudem empfehlen wir die Durchführung eines weiteren Langzeit-EKGs in den nächsten 3 Monaten sowie eine kardiologische Kontrolle in 3 Monaten mit Durchführung eines bildgebenden Ischämienachweises.
+
+Wir passten die Medikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Des Weiteren begannen / intensivierten wir zur Lipidsenkung und Plaquestabilisierung eine Therapie mit einem Statin. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf und ggf. eine weitere Anpassung der Therapie.
+Des Weiteren empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir besprachen dem Patienten nochmals die dringende Indikation zur Rauchkarenz. Ebenfalls ist eine Anbindung an die B-ORG für Prävention I-ORG I-ORG der I-ORG I-ORG ausdrücklich empfehlenswert -LRB- Tel.: B-PHONE I-PHONE -RRB- .
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+
+Prozedere / Termine:
+- Ambulante Kardiologische Anbindung mit einer Kontrolle in 3 Monaten sowie erneuter Durchführung eines Langzeit-EKGs und Durchführung eines bildgebenden Ischämienachweises bzgl. der residuellen R. marginalis Stenose.
+-UNK- Terminvereinbarung unter B-PHONE auch in unserer B-ORG I-ORG möglich
+- Rauchentwöhnung und optimale Einstellung der kardiovaskulären Risikofaktoren
+- Tägliche Gewichtskontrollen und Anpassung der Diuretika-Dosierung an den Gewichtsverlauf. Zeitnahe Vorstellung beim Hausarzt bei Gewichtszunahme > 2kg empfohlen.
+- Ambulante Polygraphie zum Ausschluss schlafassoziierter Atemregulationsstörungen als Ursache der sekundären Hypertonie
+- Laborchemische Kontrolle der Metanephrine im Sammelurin in 8 Wochen, bei weiterhin erhöhten Werten endokrinologische Vorstellung empfohlen
+- Zeitnahe hausärztliche Kontrolle der Retentionsparameter und Wiederbeginn der pausierten Medikation
+
+Therapieempfehlung v. kardiologischer Seite:
+ASS 100 mg 1-0-0 dauerhaft
+Ticagrelor 90mg 1-0-1 bis zum <[Pseudo] 27/03/2040>
+Pantozol 20 mg 1-0-1 solange DAPT
+Carvedilol 6,25 mg 1-0-1
+Bitte regelmäßige Kontrollen von Herzfrequenz und Blutdruck und ggf. Dosisanpassung im Verlauf
+Ramipril 2,5 mg 1-0-0 -LRB- aktuell pausiert -RRB-
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Spironolacton 25 mg 1-0-0 -LRB- aktuell pausiert -RRB-
+Forxiga 10 mg 1-0-0 -LRB- aktuell pausiert -RRB-
+Lercanidipin 10mg 1-0-0 -LRB- solange o.g. Medikation pausiert, danach Re-Eval. -RRB-
+Torasemid 10 mg 2-0-0
+Kalinor retard 600 mg 1-0-1
+Atorvastatin 40 mg 0-0-1 Ziel LDL < 55 mg/dl
+Bitte regelmäßige Kontrollen von CK, Transaminasen und Lipiden und LDL-adaptierte Dosisanpassung nach aktuellen Leitlinien
+
+Amoxicillin/Clavulansäre 875/125mg 1-0-1 bis zum <[Pseudo] 07/04/2039> bei Stauungspneumonie
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden jenseits des 60. Lebensjahres sowie bei KHK- und/oder Herzinsuffizienz im Besonderen empfohlen. Neuere Daten unterstützen eine zeitnahe Grippeimpfung nach Myokardinfarkt -LRB- IAMI-Studie, Circulation <[Pseudo] 2038> -RRB-
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- . Wiedervorstellung zur stationären Aufnahme und renalen Rekompensation jederzeit möglich.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

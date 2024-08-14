@@ -1,0 +1,196 @@
+Aufnahmedatum: <[Pseudo] 2035-06-27 >
+Geburtsdatum: <[Pseudo] 1961-10-08 >
+Alter: 73
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 08/10/1961> wohnhaft in B-PLZ B-LOC, I-ADDR I-ADDR, der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Erfolgreiche PTCA sowie 2-fache DE-Stentimplantation -LRB- Supraflex cruz -RRB- der LAD und des R. diagonalis 2 in Culotte Technik mit Final Kiss PTCA -LRB- B-OTHER v. <[Pseudo] 27/06/2035> -RRB-
+-UNK- Gutes Ergenis nach PCI des Hauptstamms sowie der LCX
+- Koronare 3-Gefäßerkrankung mit hochgradiger LAD/RD1-Bifurkationsstenose, hochgradiger LCX-Stenose und hochgradiger peripherer RCA-Stenose -LRB- B-OTHER vom <[Pseudo] 09/05/2035> -RRB-
+-UNK- Z.n. erfolgreicher PTCA/ 2xDES-Implantation der LCX -LRB- B-OTHER vom <[Pseudo] 13/05/2035> -RRB-
+-UNK- Periprozedural a. e. iatrogene Hauptstammdissektion und PTCA/1xDES des Hauptstammes -LRB- DD vorbestehend, B-OTHER vom <[Pseudo] 09/05/2035> -RRB-
+-UNK- Mittelgradig eingeschränkte linksventrikuläre Pumpfunktion.
+- Z. n. 2-Kammer-Schrittmacher Implantation bei anamnestisch symptomatischer Bradykardie in B-LOC, VDD-Modus bei intermittierendem, bradykardem VHF -LRB- B-OTHER -RRB-
+-UNK- Abfrage vom B-DATE: Regelrechte Funktion
+- Vorhofflimmern
+-UNK- Antikoagulation mit Eliquis
+- Z. n. CoViD-19-Infektion <[Pseudo] 11/2034>
+- Nierenzellkarzinom -LRB- anamnestisch -RRB-
+-UNK- Z. n. Resektion ca. <[Pseudo] 2031>
+-UNK- Hepatische und pulmonale Metastasierung
+-UNK- Systemtherapie mit Everolimus seit <[Pseudo] 10/2034>
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Nikotinkonsum -LRB- kum. 30py. Seit 40 Jahren sistiert. -RRB- , Diabetes mellitus Typ 2.
+Allergien/Unverträglichkeiten: keine bekannt
+
+Indikation für stationären Herzkatheter:
+- PTCA und Stentimplantation mit postinterventioneller Überwachungspflicht von mehr als 8h sowie erhöhtem Risiko einer Nachblutung
+
+Anamnese:
+Die aktuelle Vorstellung des Patienten erfolgt zur geplanten Intervention der residuellen LAD/RD1-Bifurkationsstenose. Seit dem letzten stationären Aufenthalt wurde bei einem bekannten metastasierenden Nierenzellkarzinom eine Niere entfernt. Der Patient berichtet von einer Belastungsdyspnoe -LRB- 2 Etagen Treppensteigen möglich, NYHA II -RRB- . Eine Ruhedyspnoe wird verneint. Bei dem Patienten bestehen belastungsabhängige retrosternale AP-Beschwerden, welche in Ruhe sistieren. Auf spezifisches Nachfragen werden Ödeme, Palpitationen, Schwindel oder Synkopen verneint. Bei einer Infektkonstellation vor 12 Tagen und einer Temperatur von 37,3° erfolgte eine 12-tägige Antibiose bis vor 2 Tagen. Aktuell liegt keine Infektkonstellation vor.
+
+Körperlicher Untersuchungsbefund:
+AZ: reduziert
+EZ: 186 cm, 86 kg
+HF: 63/min, regelmäßig
+RR: 136/ 72 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig.
+HT: rein, keine patholog. Geräusche
+Lunge: bds. frei
+Periphere Ödeme: keine
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 14/05/2035:>
+VHF, Ventrikuläre SM-Stimulation mit konsekutiven Kammerendteilveränderungen, ca. 65/min, überdrehter Linkstyp. QRS 187 ms, QTc 465 ms.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 27/06/2035> -RRB- :
+Geplante Intervention. Erfolgreiche PTCA sowie 2-fache DE-Stentimplantation -LRB- Supraflex cruz -RRB- der LAD und des R. diagonalis 2 in Culotte Technik mit Fiunal Kiss PTCA.
+Gutes Ergenis nach PCI des Hauptstamms sowie der LCX.
+
+Procedere:
+Tripple Therapie -LRB- DAPT + NOAK -RRB- nach SOP
+
+Ruhe-EKG nach Intervention:
+VHF, Ventrikuläre SM-Stimulation mit konsekutiven Kammerendteilveränderungen, ca. 49/min, überdrehter Linkstyp. QRS 196 ms, QTc 476 ms.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2034>
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+347 !H
+- <14 pg/ml
+<[Pseudo] 28/06/35>
+
+
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+7.00
+6,0 - 8,0
+<[Pseudo] 28/06/35>
+SpezGew/Tstr.
+1010
+1001 - 1035
+<[Pseudo] 28/06/35>
+Glucose/Tstr.
+250.0
+- neg. mg/dl
+<[Pseudo] 28/06/35>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 28/06/35>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 28/06/35>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 28/06/35>
+Eiweiß/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 28/06/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 28/06/35>
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 28/06/35>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+0
+- <8 /µl
+B-DATE
+Leuko/µl
+3.0
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+<[Pseudo] 28/06/35>
+
+
+
+
+
+Zusammenfassung:
+In der Herzkatheteruntersuchung zeigte sich eine koronare 3-Gefäßerkrankung. Wir haben eine erfolgreiche PTCA sowie 2-fache DE-Stentimplantation -LRB- Supraflex cruz -RRB- der LAD und des R. diagonalis 2 in Culotte Technik mit Final Kiss PTCA durchgeführt. Es stellet sich ein gutes Ergebnis nach PCI des Hauptstamms sowie der LCX dar. Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- . Postinterventionell zeigten sich keine signifikanten EKG-Veränderungen und kein signifikanter Troponin-Anstieg.
+
+Dem Patienten wurde ein Implantatausweis ausgehändigt. Er wurde über notwendige Verhaltensanweisungen informiert.
+
+Der Patientin berichtete im Verlauf des stationären Aufenthaltes über ein Brennen beim Wasserlassen und eine Schwellung im Bereich Penisvorhaut. Es liegt keine Rötung vor. Beim Wasserlassen ist anamnestisch keine Blutbeimengung zu sehen. Ein U-Status wurde erhoben der sich nachfolgend als unauffällig darstellte. Wir empfehlen eine weitere Abklärung durch einen Urologen.
+
+Procedere:
+Zur Stentverschlussprophylaxe empfehlen wir bei bestehender Antikoagulationsindikation eine Triple-Therapie mit dualer Thrombozytenaggregationshemmung -LRB- zusätzlich zur dauerhaften Antikoagulation -RRB- mit ASS und Clopidogrel für insgesamt 4 Wochen -LRB- bei erhöhtem Blutungsrisiko -RRB- . Anschließend ist eine singuläre Thrombozytenaggregationshemmung -LRB- zusätzlich zur Antikoagulation -RRB- mit Clopidogrel bis 6 Monate nach Stentimplantation erforderlich. Hiernach ist die alleinige Antikoagulation ausreichend. Auf die Bedeutung einer lückenlosen Einnahme der Präparate für o.g. Zeiträume wurde explizit hingewiesen.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der unten aufgeführten medikamentösen Therapie. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Nächster Termin/Kontrolle:
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchungen, welche gerne auch bei einem niedergelassenen B-SALUTE durchgeführt werden können. Falls gewünscht kann hierfür auch ein Termin in unserer B-ORG I-ORG -LRB- Tel.: B-PHONE -RRB- vereinbart werden.
+
+Therapieempfehlung:
+Eliquis 5 mg 1-0-1
+Clopidogrel 75 mg 1-0-0, bis <[Pseudo] 02/01/2036>
+ASS 100 mg 1-0-0 bis <[Pseudo] 28/07/2035>
+Ramipril 2,5 mg 1-0-0
+Bitte regelmäßige Kontrollen von Blutdruck, Elektrolyten und Nierenretentionsparametern und ggf. Dosisanpassung im Verlauf
+Atorvastatin 20 mg 0-0-1
+Bitte regelmäßige Kontrollen von CK, Transaminasen und Lipiden und LDL-adaptierte Dosisanpassung nach aktuellen Leitlinien
+Lasix 40 mg 1-0-0
+Metformin/ Sitagliptin 1000/50 mg 1-0-1
+Pantozol 40 mg 1-0-0
+Tresipa Insulin nach Plan
+Glyclazid 30 mg 1-0-0
+L-Thyroxin 50 μg 1-0-0
+Dekristol
+Vit B12 1xwöchentlich
+Everolimus 10 mg 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 28/06/2035> in Ihre geschätzte ambulante Betreuung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die Überweisung und vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

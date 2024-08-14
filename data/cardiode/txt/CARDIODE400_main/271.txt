@@ -1,0 +1,105 @@
+Aufnahmedatum: <[Pseudo] 2032-04-26 >
+Geburtsdatum: <[Pseudo] 1960-10-15 >
+Alter: 71
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 15/10/1960> wh. B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kardiologische Verlaufskontrolle bei bekannter koronarer Gefäßerkrankung
+-UNK- Echokardiographisch weiterhin gute linksventrikuläre Funktion
+-UNK- Unauffälliges Belastungs-EKG bis zu 100 Watt -LRB- 58% Ziel-Hf -RRB-
+- Anpassung der antihypertensiven Therapie bei zuletzt eher niedrigem RR-Profil
+und darunter Schwindelepisoden
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung mit guter linksventrikulärer Pumpfunktion
+-UNK- Z. n. PCI und 4-fach DE-Stent -LRB- Xience -RRB- von 2 hochgradigen Stenosen der proximalen RCA undPCI- und 1-fach DE-Stent -LRB- Xience -RRB- der distalen RCA am <[Pseudo] 03/11/2025>
+-UNK- Z. n. PCI der LCX <[Pseudo] 2016>
+-UNK- Unauffällige pharmakologische Stress-Echokardiographie -LRB- <[Pseudo] 02/10/2031> -RRB-
+-UNK- Kardio-MRT vom <[Pseudo] 15/10/2031:> Negativer Ischämienachweis, gute LV-Funktion
+- Z.n. hypertensiver Entgleisung bei unzureichend eingestelltem arteriellem Hypertonus <[Pseudo] 10/2031>
+-UNK- LZ-RR v. B-DATE: Im Mittel noch normotensives RR Verhalten, grenzwertig aufgehobene zirkadiane Rhythmik
+-UNK- Ausschluss Nierenarterienstenose -LRB- FDS v. <[Pseudo] 15/10/2031> -RRB-
+-UNK- Nebenbefundlich zystische RF der Nieren, sonographische Kontrolle empfohlen
+- Leichtgradige bis mittelgradige Halsgefäßatherosklerose ca. 20-40%-ige ACI-Stenose rechts
+- Nebenbefundlich Psoriasis
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus, Nikotinanamnese: früher, gelegentlich.
+Allergien/Unverträglichkeiten: Pollen
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Verlaufskontrolle bei zuletzt hypertensiver Entgleisung <[Pseudo] 10/2031> und anschließender stationärer Blutdruckeinstellung. Im Alltag bestehe eine mäßige Belastbarkeit, v.a. limitiert durch eine generelle körperliche Schwäche, ohne allerdings inadäquater Belastungsdyspnoe. Es bestehen keine typischen pectanginösen Beschwerden bei Belastung oder in Ruhe. Keine Palpitationen. Das vorbeschriebene pulsierende Druckgefühl im Kopf sei seit 4 Wochen verbessert und fast nicht mehr vorhanden. Gelegentlich Schwindel a.e. orthostatisch sowie nach längerer Belastung. Es wird zudem von einem präsynkopialen Ereignis nach schnellem Aufstehen berichtet, stattgehabte Synkopen werden verneint. Es bestehe Nykturie mit ca. 2-3-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 100/60 mmHg. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf, die körperliche Schwäche sei allerdings seit der stationären RR-Einstellung leicht zunehmend.
+
+Bisherige Medikation:
+ASS 100 mg 1-0-0
+Candesartan comp. 32mg/12,5mg 1-0-0
+Carvedilol 25 mg 1-0-1
+Eplerenon 25mg 1-0-0
+Lercanidipin 10mg 1-0-1
+Rosuzet 20mg/10mg 1-0-0
+Tamsulosin 0,4 mg 0-0-1
+Tromcardin 0-2-0
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 180cm, 85kg
+HF: 70/min, regelmäßig
+RR: 90/60mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 64/min, Linkstyp. PQ 172ms, QRS 92ms, QTc 393ms. Verzögerte R-Progression, R/S Umschlag in V4/V5, S-Persistenz bis V6. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 100 Watt über 01:47 min. Maximale Frequenz 87/min -LRB- 58% der Zielfrequenz -RRB- . Abbruch wegen peripherer Ermüdung. Keine Angina pectoris oder inadäquate Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Bei Nichterreichen der Ausbelastungsfrequenz eingeschränkte Beurteilbarkeit.
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Vereinzelt VES -LRB- 5 -RRB- . Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck.
+
+Transthorakale Echokardiographie:
+Normal großer, septal betont hypertrophierter linker Ventrikel mit guter Pumpfunktion ohne sicher abgrenzbare regionale Kontraktionsstörungen. Relaxationsstörung des LV. LA grenzwertig weit. RA und RV normal groß. Gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aorten- und Mitralklappe leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalinsuffizienz nicht sicher bestimmbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 15/10/2031:> Keine wesentliche Befundänderung.
+
+
+
+SAS-Screening:
+
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Verlaufsuntersuchung bei zuletzt hypertensiver Entgleisung <[Pseudo] 10/2031> und anschließender stationärer Blutdruckeinstellung. Subjektiv wird von einem klinisch stabilen kardialen Verlauf mit allerdings gelegentlichen Schwindelepisoden sowie genereller körperlicher Schwäche berichtet.
+
+Das Belastungs-EKG bis 100 Watt ergab, soweit bei Nichterreichen der Ausbelastung beurteilbar, weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradige Herzrhythmusstörungen. Echokardiographisch fand sich weiterhin eine gute linksventrikuläre Pumpfunktion ohne relevante Klappenvitien.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde sowie den Ergebnissen der vor 6 Monaten durchgeführten Stress-Kardio-MRT, welche keinen Anhalt für eine relevante Ischämie lieferte, gehen wir von einem stabilen kardialen Befund aus und empfehlen eine Fortführung der konservativen Therapie.
+
+Bei generell niedrigem Blutdruckprofil während unseres heutigen Ambulanzbesuchs, der in der Belastungsuntersuchung auffälligen chronotropen Inkompetenz sowie der vom Pat. beschriebenen Symptomatik haben wir die antihypertensive Therapie wie unten aufgeführt angepasst. Wir bitten weiterhin um engmaschige Blutdruckkontrollen und ggf. weiterer Anpassung der Medikation -LRB- z.B. weitere Reduktion/Halbierung der Dosierung von Lercanidipin bei Persistenz der hypotensiven Blutdruckwerte -RRB- .
+
+Das durchgeführte Schlafapnoe-Screening hatte eine nur milde nächtliche Schlafapnoe gezeigt ohne unmittelbarer Empfehlung zu einer weiterführenden Abklärung. Wir empfehlen das generelle Einhalten einer guten Schlafhygiene, den abendlichen Verzicht auf Alkoholkonsum sowie - sofern möglich - das Vermeiden der Rückenlage beim Schlafen. Ggf. kann eine HNO-ärztliche Vorstellung erfolgen.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, Tanzen oder Ergometertraining.
+
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchungen, gerne auch in einer niedergelassenen kardiologischen Praxis. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Aktuelle Medikation:
+ASS 100 mg 1-0-0
+Candesartan comp. 32mg/12,5mg 1-0-0
+Carvedilol 12,5 mg 1-0-1 reduziert, bitte regelmäßige Puls- und RR-Kontrolle
+Eplerenon 25mg 1-0-0
+Lercanidipin 10mg 1-0-1
+Rosuzet 20mg/10mg 1-0-0
+Tamsulosin 0,4 mg 0-0-1
+Tromcardin 0-2-0
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

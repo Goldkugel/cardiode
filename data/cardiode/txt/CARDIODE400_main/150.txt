@@ -1,0 +1,57 @@
+Aufnahmedatum: <[Pseudo] 2034-06-04 >
+Geburtsdatum: <[Pseudo] 2012-10-17 >
+Alter: 21
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 17/10/2012> wh. B-PLZ B-LOC I-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell: Gutes Ergebnis nach Rekanalisation bei 4-Etagen-TVT, bei persistierender Beschwerden Phlebographie zum Ausschluss Nussknacker-Syndrom und Beckenvenensyndrom empfohlen
+
+Diagnosen:
+- Postthrombotisches Syndrom bei Z.n. aszendierender 4-Etagen-Thrombose a. e. bei Z.n. Außenbandruptur linkes Sprunggelenk und konsekutiver körperlicher Schonung; May-Thurner
+-UNK- Becken-Bein-Angiographie -LRB- B-OTHER, vom <[Pseudo] 30/04/2034> -RRB- in Narkose.
+-UNK- Rekanalisation V -UNK- C links und PTA/1xBM-Stentimplantation sowie PTA VIE+VFC bei post-thrombotischen Veränderungen + 2xBM-Stent
+- Unauffällige Thrombophilie-Diagnostik -LRB- B-DATE, B-ORG I-ORG I-ORG -RRB-
+- Z.n. Lungenembolie -LRB- rechte Pulmonalarterie, mehrere Segmente des rechten Unterlappen -RRB- mit Infarktpneumonie rechter Unterlappen -LRB- CT-Thorax v. B-DATE, B-ORG I-ORG I-ORG -RRB-
+- Follikelzysten bds.
+-UNK- Ad gynäkologische Anbindung
+- Steatosis hepatis
+-UNK- Empfehlung zur Lebensstiländerung/Gewichtsreduktion
+- Chronische Schmerzstörung mit somatischen und psychischen Faktoren -LRB- ICD-10: F45.41 -RRB-
+-UNK- Empfehlung zur Rehabilitation mit o.g. Schwerpunkt
+- Z.n. abszedierendem Pilonidalsinus und Excision in toto -LRB- <[Pseudo] 28/10/2030> B-ORG I-ORG -RRB-
+
+
+Kardiovaskuläre Risikofaktoren:
+Adipositas Grad II -LRB- BMI 34 kg/m² -RRB-
+
+Allergien:
+Ibuprofen, Diclofenac -LRB- Exanthem -RRB-
+
+Anamnese:
+Die Vorstellung der Patientin erfolgte zur 1-Monatskontrolle nach oben genannter Intervention. B-SALUTE B-PER berichtet über progrediente Beschwerden, es treten häufig ziehende/stechende Schmerzen im Bereich der linken Leiste/des linken Beckens auf, insbesondere beim Duschen -LRB- Fuß verfärbt sich auch lila -RRB- und vermehrt auch gegen Abend mit Spitzen in der Nacht. B-SALUTE B-PER ist hierdurch stark eingeschränkt. Kompressionsstrümpfe werden täglich getragen, Gehtraining soweit wie möglich. Keine Besserung der Schmerzen durch bestimmte Maßnahmen möglich. Auf spezifische Nachfrage keine typische Wadenclaudicatio, keine relevanten Ödeme unter Kompressionstherapie. Am Montag sei bzgl der chronischen Schmerzen eine Vorstellung beim niedergelassenen Schmerztherapeuten geplant.
+
+Körperlicher Untersuchungsbefund:
+Leichter Druckschmerz in der linken Leiste, Berührungsempfindlichkeit im Bereich der Leiste des Abdomens, Abdomen weich, kein Peritonismus, am linken Bein keine Überwärmung, keine Rötung, keine trophischen Störungen. Keine ausgeprägte venöse Gefäßzeichnung. Umfang Oberschenkel links 63cm, rechts 56cm, Unterschenkel links 39cm, rechts 38cm.
+
+Frabduplexsonographie
+Stent in der Vena iliaca communis links sowie in der Vena iliaca externa und Vena femoralis communis offen und perfundiert darstellbar.
+
+Zusammenfassende Beurteilung:
+Die Vorstellung der Patientin erfolgte zur Kontrolle nach oben genannter Intervention. Es zeigt sich klinisch und farbduplexsonographisch ein gutes Ergebnis nach Rekanalisation und Stentimplantation bei 4-Etagen-TVT. Allerdings berichtet B-SALUTE B-PER weiterhin über eine Beschwerdeprogredienz bezüglich der Schmerzen in der Leiste mit Ausstrahlung in das linke Bein und den Unterbauch. Eine ausführliche Abklärung somatischer Ursachen war im Rahmen des letzten stationären Aufenthaltes ohne richtungsweisende Befunde erfolgt. Wir empfehlen daher eine diagnostische Phlebographie zum Ausschluss eines Nußknackersyndroms und zum Ausschluss eines Beckenvenensyndroms. Zur Stentverschlussprophylaxe sollte die lückenlose Einnahme einer Thrombozytenaggregationshemmung wie unten angegeben weitergeführt werden. Ein Termin zur Phlebographie wurde mit B-SALUTE B-PER für den <[Pseudo] 11/06/34> vereinbart.
+
+Medikation bei Entlassung:
+Clexane 100 mg 1-0-1
+Clopidogrel 75 mg 1-0-0
+Novalgin 500 mg 2-2-2-2
+Pantozol 40 mg 1-0-0
+
+
+
+Mit freundlichen Grüßen
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

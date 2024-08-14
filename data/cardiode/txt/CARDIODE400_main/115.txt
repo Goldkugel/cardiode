@@ -1,0 +1,407 @@
+Aufnahmedatum: <[Pseudo] 2035-10-09 >
+Geburtsdatum: <[Pseudo] 1963-09-05 >
+Alter: 72
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 05/09/1963> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+
+Aktuell:
+- Kardiale Dekompensation bei koronarer 3-Gefäßerkrankung und hochgradiger Aortenklappenstenose -LRB- KÖF 0,6 cm² -RRB-
+-UNK- Koronare 3-Gefäßerkrankung mit hochgradig eingeschränkter linksventrikulärer Pumpfunktion -LRB- B-OTHER v. <[Pseudo] 06/10/2035> -RRB-
+-UNK- Hochgradige Bifurkationsstenose der LAD/RD und distale LAD sowie der RCA
+-UNK- Hochgradige Aortenklappenstenose -LRB- KÖF 0,6cm2 -RRB-
+-UNK- Deutlich erhöhter PA-Druck ca. 90mmHg
+-UNK- Erhöhter LVEDP ca. 37mmHg
+-UNK- Mittel bis hochgradig eingeschränkte Pumpfunktion mit hochgradiger Aortenklappenstenose KÖF 0,5 cm² PPG 87 mmHg, MPG 58 mmHg -LRB- Echokardiographie v. <[Pseudo] 07/10/2035> -RRB-
+-UNK- Ad 3-fach AVB OP -LRB- 8, 10, 4b -RRB- und AKE Operation
+
+- V.a. M. Meulengracht DD im Rahmen der kardialen Stauung
+-UNK- HBV und HCV Virologie extern negativ
+
+- Deutliche Pleuraergüsse bds. -LRB- rechts >5 cm, links 3 cm -RRB-
+-UNK- Punktion von Seiten des Patienten am B-DATE und <[Pseudo] 09/10/2035> abgelehnt
+-UNK- Vorsichtige Negativbilanz mittels i.v. Furorese
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie
+Allergien: keine bekannt
+
+Anamnese:
+Die aktuelle Vorstellung des Patienten erfolgt zur Herzkatheteruntersuchung bei hochgradiger Aortenklappenstenose. Im B-MONTH diesen Jahres kam es zu einer Episode mit deutlicher Leistungseinschränkung, im Rahmen einer ambulanten Vorstellung zeigten sich Pleuraergüsse bds. sowie deutliche Oedeme der Unterschenkel. Im Rahmen einer kardiologischen Vorstellung zeigte sich bei hochgradig eingeschränkter LV-Pumpfunktion -LRB- Erstdiagnose -RRB- eine hochgradige Aortenklappenstenose. Nach erfolgter Rekompensation mittels Torem besteht aktuell Dyspnoe im Sinne von NYHA III, signifikante AP-Beschwerden bestehen kaum -LRB- CCS I -RRB- . Synkopen oder Palpitationen werden verneint.
+
+Medikation bei Aufnahme:
+ASS 100 1-0-0, dauerhaft
+Torem 5 1-0-0
+Atorvastatin 20 0-0-1
+
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 184 cm, 94 kg
+BMI: 27,7 kg/m²
+HF: 100/min, regelmäßig
+RR: 160/90 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig.
+HT: 4/6 Systolikum über dem Erb -UNK- schen Punkt, Fortleitung in die Carotiden
+Lunge: bds. frei
+Periphere Ödeme: bds.
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: deutlicher Haut- und Sklerenikterus
+
+Ruhe-EKG bei Aufnahme:
+Tachykarder Sinusrhythmus, Herzfrequenz 114/min, Steiltyp, PQ 153 ms, QRS 98 ms, QTc 411 ms. Regelrechte R-Progression über der Vorderwand, RS-Umschlag V4/V5, pröäterminale T-Negativierungen in V5, V6.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 06/10/2035> vorläufiger Befund -RRB- :
+V.a. relevante KHK sowie echokardiographisch hochgradige Aortenklappenstenose.
+Koronare 3-Gefäßerkrankung mit hochgradig eingeschränkter linksventrikulärer Pumpfunktion. Hochgradige Bifurkationsstenose der LAD/RD 2 sowie periphere LAD. Hochgradige Stenose der peripheren RCA. Hämodynamisch hochgradige Aortenklappenstenose -LRB- KÖF 0,7 cm2 -RRB- .
+Deutlich erhöhte Drücke im kleinen Kreislauf -LRB- 91/30/60 mmHg -RRB- ; erhöhter PCWP -LRB- 47 mmHg -RRB- , erhöhter PVR -LRB- 183 dyn*sec*cm^-5 -RRB- , SvO2 66%, CI 2,57 l/min/cm², erhöhter LVEDP -LRB- 35 mmHg -RRB- , normaler SVR -LRB- 1344 dyn*sec*cm^-5 -RRB- .
+Sonstige relevante Diagnosen:
+- Echokardiographisch hochgradige Aortenklappenstenose mit beginnender
+kardialer Dekompensation
+- Hochgradig eingeschränkte Pumpfunktion -LRB- EF 30 % -RRB-
+- Exzentrische Mitralklappeninsuffizienz I. Grades
+CvRF: Arterielle Hypertonie
+
+Maßnahmen:
+- Vorstellung in HK-Konferenz am <[Pseudo] 11/10/2035> -LRB- ausstehend -RRB-
+
+
+Lungenfunktionsprüfung vom <[Pseudo] 07/10/2035:>
+Kapilläre Blutgasanalyse:
+Spirometrie:
+bei deutlich reduzierter VC.
+
+Die spez. FEV1 liegt bei 19,1 ml/kgKG, damit besteht bei Beurteilung rein anhand der spez. FEV1 ein erhöhtes Op/ITN-Risiko.
+
+Echokardiographie vom <[Pseudo] 07/10/2035:>
+Normal großer, konzentrisch hypertrophierter linker Ventrikel mit mittel- bis hochgradig reduzierter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte. Deutlich reduzierte longitudinale Funktion. Diastolische Dysfunktion des LV. LA deutlich dilatiert, RA und RV normal groß, reduzierte RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior gestaut. Aortenklappe trikuspid, deutlich verdickt und verkalkt mit verminderter Separation. Dopplersonographisch kombiniertes Aortenvitium höheren Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 0,5 cm², PPG 87 mmHg, MPG 58 mmHg -RRB- . Mitralklappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Übrige Klappen sonographisch und dopplersonographisch
+systolische PA-Druck in Ruhe ist deutlich erhöht -LRB- ca. 70 mmHg -RRB- . Erstbefund in domo.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 07/10/2035:>
+Beidseits leichtgradige echodichte Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet.
+IMD rechts 0,09 cm, links 0,09 cm.
+Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar.
+Erstbefund in domo.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 08/10/2035:>
+Keine Voraufnahmen zum Vergleich vorliegend.
+Befund und Beurteilung:
+Basale Pleuraergüsse beidseits mit angrenzenden Dystelektasen. Verbreiterter Herzschatten mit einer CTR von 18 zu 30. Stauungskomponente. Kein Nachweis pneumonischer Infiltrate. Kein Pneumothorax. Trachea mittig, nicht eingeengt. Rechtskonvexe Skoliose und Hyperkyphose der BWS. Degenerative Skelettveränderungen. Aortenelongation.
+
+Leber-/Milzsonographie vom <[Pseudo] 11/10/2035:>
+Die Leber misst im größten kraniokaudalen Durchmesser 15,4 cm. Der Leberrand ist spitz. Die Echogenität ist unauffällig, die Struktur ist homogen. Raumforderungen sind nicht abzugrenzen, können bei eingeschränkten Schallbedingungen bei Luftüberlagerung von subkostal jedoch nicht sicher ausgeschlossen werden. Die Lebervenen sind gestaut, es zeigt sich ein Pendelfluss. Die Pfortader ist orthograd undulierend perfundiert. Die V. cava inferior ist prall und eingeschränkt atemvariabel mit einem Durchmesser von 2,4 cm. Deutliche Pleuraergüsse re>links mit einer Saumbreite von rechts 2,67cm, links 2,36 cm. Die Gallenblase lässt sich deutlich darstellen. Es lassen sich zwei Konkremente nachweisen mit einer Größe von 0,6x0,5cm und 0,6x0,8 cm. Die intrahepatischen Gallengänge sind nicht dilatiert. Der Ductus Choledochus ist normal weit.
+Die Milz misst 11,3 x 3,7 cm. Das Echomuster ist homogen. Die V. lienalis ist nicht erweitert. Nebenbefundlich zeigt sich eine bekannte verkalkte Zyste der linken Niere, die anamnestisch bereits bekannt ist. Keine freie Flüssigkeit perisplenisch/perihepatisch.
+Beurteilung:
+- Cholezystolithiasis
+- kardiale Stauung mit gestaute Lebervenen mit Pendelfluss und praller Vena cava inferior
+- Pleuraergüsse beidseits
+- verkalkte Nierenzyste am Oberpol der linken Niere
+
+
+Ruhe-EKG vom <[Pseudo] 11/10/35:>
+Sinusrhythmus, Herzfrequenz 89/min, Indifferenztyp, PQ 159 ms, QRS 102 ms, QTc 427 ms. R/S-Umschlag V4/V5. Bekannte präterminale T-Negativierungen in V5, V6.
+
+
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 08/10/2035> und dem <[Pseudo] 11/10/2035>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.25
+4 - 10 /nl
+B-DATE
+Hb
+16.7
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.5
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.490
+0,38 - 0,52 l/l
+B-DATE
+MCV
+89
+83 - 97 fl
+<[Pseudo] 11/10/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 11/10/35>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 11/10/35>
+RDW
+15.3
+12,9 - 18,7 %
+<[Pseudo] 11/10/35>
+hypochr.Erythroz.
+0.8
+0 - 2 %
+<[Pseudo] 11/10/35>
+Thrombozyten
+140 !L
+150 - 440 /nl
+<[Pseudo] 11/10/35>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+142
+135 - 146 mmol/l
+<[Pseudo] 11/10/35>
+Kalium -LRB- ISE -RRB-
+3.78
+3,4 - 5,0 mmol/l
+<[Pseudo] 11/10/35>
+Calcium
+2.19
+2,11 - 2,59 mmol/l
+<[Pseudo] 11/10/35>
+Kreatinin
+0.88
+0,6 - 1,4 mg/dl
+<[Pseudo] 11/10/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+30
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+85.8
+>60 s.u.
+B-DATE
+MDRD
+80.69
+ml/min/1,73qm
+<[Pseudo] 08/10/35>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+43.1
+30 - 50 g/l
+<[Pseudo] 08/10/35>
+Glucose
+122 !H
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+19
+- <50 U/l
+B-DATE
+GGT
+37
+- <60 U/l
+B-DATE
+Ges.Bili.
+<NONE> !H
+- <1.0 mg/dl
+B-DATE
+Dir.Bilirubin
+0.80 !H
+- <0.3 mg/dl
+B-DATE
+Harnsäure
+8.4 !H
+- <7 mg/dl
+B-DATE
+Triglyceride
+73
+- <150 mg/dl
+<[Pseudo] 08/10/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+94.0
+- alt.abh. mg/dl
+<[Pseudo] 08/10/35>
+LDL-Chol. -LRB- berechn. -RRB-
+51
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+28 !L
+>40 mg/dl
+B-DATE
+Haptoglobin
+0.16 !L
+0,3 - 2,0 g/l
+<[Pseudo] 09/10/35>
+CRP
+13.2 !H
+- <5 mg/l
+<[Pseudo] 11/10/35>
+Hämolyse
+-
+
+<[Pseudo] 11/10/35>
+ikterisch
++
+
+<[Pseudo] 11/10/35>
+Lipämie
+-
+
+<[Pseudo] 11/10/35>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+300
+- <342 U/l
+B-DATE
+CK
+74
+- <190 U/l
+<[Pseudo] 08/10/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+65.8 !H
+- <14 pg/ml
+<[Pseudo] 08/10/35>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.7
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+39
+20 - 42 mmol/mol
+<[Pseudo] 08/10/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+117 !H
+- <110 mg/dl
+<[Pseudo] 08/10/35>
+TSH
+2.64
+0,400 - 4,000 mU/l
+<[Pseudo] 08/10/35>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+55.4 !L
+70 - 125 %
+<[Pseudo] 09/10/35>
+INR - ber.
+1.31 !H
+- <1.2
+<[Pseudo] 09/10/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+24.6
+- <35 s
+<[Pseudo] 09/10/35>
+
+
+
+
+
+
+
+Zusammenfassung:
+In der Herzkatheteruntersuchung elektiven Herzkatheteruntersuchung zeigte sich eine koronare 3-Gefäßerkrankung mit hochgradig eingeschränkter linksventrikulärer Pumpfunktion. Es stellte sich eine hochgradige Bifurkationsstenose der LAD/RD und distale LAD sowie der RCA dar. Es zeigte sich eine hochgradige Aortenklappenstenose. Wir empfehlen daher die Durchführung eines Aortenklappenersatzes. Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- .
+
+
+Wir besprachen den Bypass pflichtigen Befund in der Herzkatheterkonferenz vom B-DATE. Hiernach hierbei wurde eine 3-fach AVB Operation -LRB- 8, 10, 4b -RRB- und Aortenklappenersatz OP incl. Biopsie bei echokardiographischem DD Speichererkrankung vereinbart und der Patient am <[Pseudo] 11/10/2035> in der Herzchirurgie angemeldet.
+
+Zur weiteren Negativbilanz vor OP und ggf. Pleurapunktion vor OP verlegten wir den Patienten am <[Pseudo] 11/10/2035> ins B-ORG I-ORG I-ORG zur stationären Observanz
+
+Wir verlegten den Patienten kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte stationäre Betreuung. Wir danken für die freundliche Übernahme. Für Rückfragen stehen wir jederzeit gerne zur Verfügung.
+
+Procedere:
+- Stationäre Observanz bei hochgradig eingeschränkter LVEF, hochgradiger Aortenklappenstenose und bypasspflichtigem Koronarbefund
+- Ggf. Pleurapunktion linksseitig -LRB- wenn von Seiten den Patienten gewünscht -RRB- und erneute LuFu nach Punktion
+- Weitere Negativbilanz
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100 mg 1-0-0
+Ramipirl 2,5 mg 1-0-0 neu
+Metoprolol 23,75 mg 1-0-1 neu
+Atorvastatin 20 mg 0-0-1 neu
+
+i.v.:
+Fuorsemid -UNK- mg -UNK- 40-40-0 nach Bilanz
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Stationsarzt

@@ -1,0 +1,454 @@
+Aufnahmedatum: <[Pseudo] 2034-07-29 >
+Geburtsdatum: <[Pseudo] 2007-05-30 >
+Alter: 27
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 30/05/2007> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+
+Diagnosen:
+- Periphere Lungenarterienembolie -LRB- rechter Unterlappen, Segment 9 -RRB- , ED <[Pseudo] 18/07/2034>
+- 2 zervikale Raumforderungen, a.e. Hämangiome
+
+Kardiovaskuläre Risikofaktoren: keine bekannt
+Allergien/Unverträglichkeiten: keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte bei progredienter Dyspnoe bei rezent diagnostizierter Lungenarterienembolie.
+Die Diagnose der Lungenarterienembolie erfolgte am B-DATE, bei jedoch Symptombeginn bereits am <[Pseudo] 02/21> während eines Urlaubs in Frankreich. Am <[Pseudo] 06/21> erfolgte auf ausdrücklichen Patientenwunsch die Entlassung zur ambulanten Weiterbetreuung.
+Die aktuelle Wiedervorstellung erfolgte bei progredienter Dyspnoe und neu aufgetretenem Husten mit weißlichem Auswurf. Zudem bestehe seit dem Beginn der Beschwerden ein Drehschwindel.
+Der Patient berichtet über eine aktuell schlechte körperliche Belastbarkeit, mit Belastungsdyspnoe entsprechend NYHA III-IV. Belastungsinduzierte pectanginöse Beschwerden werden verneint, es bestehe eine puntkuelles Stechen parasternal links -LRB- ICR 5-6 -RRB- in Ruhe. Stattgehabten Synkopen werden verneint. Keine peripheren Ödeme.
+
+Medikation bei Aufnahme:
+Rivaroxaban 15 mg 1-0-1
+
+Körperlicher Untersuchungsbefund:
+27 Patient in gutem Allgemein- und normalem Ernährungszustand -LRB- Größe 190 cm, Gewicht 100 kg -RRB- . Kopf- und Halsorgane unauffällig. Keine Ruhedyspnoe. Keine Cyanose. Keine obere Einflussstauung. Herzschlagfolge rhythmisch, reine Herztöne, kein pathol. Geräusch auskultierbar. Pulmo: Normale vesikuläres Atemgeräusch beidseits. Sonorer Klopfschall, Lungengrenzen waren normal und atemverschieblich. Der Patient erlitt eine Schwindelattacke während der Auskultation der Lunge.
+Abdomen weich, reizlos, keine Resistenzen tastbar. Keine peripheren Ödeme. Die Pulse der A. radialis und A. dorsalis pedis sind beidseits gut palpabel. Neurologischer Untersuchungsbefund: Orientierend unauffällig.
+
+Ruhe-EKG bei Aufnahme am <[Pseudo] 20/07/2034:>
+Sinusbradykardie mit Sinusarrhythmie, Herzfrequenz 42/min, Indifferenztyp. PQ 191 ms, QRS 106 ms, QTc 370 ms. R/S-Umschlag V3-V4. Regelrechte R-Progression. Keine S-Persistenz. Erhöhte ST-Streckenabgänge in II, III, aVF, V4-V6. Zeltförmige T-Welle in I, II, aVR, aVF, V2-V5. Keine relevanten Erregungsrückbildungsstörungen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 20/07/2034:>
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LVFunktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalinsuffizienz nicht ableitbar. Erstbefund in domo.
+
+Abdomensonographie vom <[Pseudo] 21/07/2034:>
+Erschwerte Untersuchungsbedingungen bei nur begrenzter Möglichkeit der Atemmitarbeit bei LAE.
+Die Leber misst im größten kraniokaudalen Durchmesser 14,6 cm. Der Leberrand ist spitz. Die Echodichte ist unauffällig, die Struktur ist inhomogen. Es finden sich im rechten Leberlappen unscharf begrenzte, teils landkartenartige, großflächige echoreiche Areale, a.e. lokalen Mehrverfettungen entsprechend -LRB- siehe Bild, Bilddemonstration an OA B-TITLE B-PER erfolgt -RRB- . Weitere Raumforderungen sind nicht abzugrenzen, können aber aufgrund der Inhomogenität und der o.g. erschwerten Untersuchungsbedingungen nicht ausgeschlossen werden. Die Lebervenen sind nicht gestaut. Die Lebervenen sind offen und triphasisch perfundiert. Die Pfortader ist in der Leberpforte nicht erweitert und orthograd undulierend perfundiert, Vmax. 21,1 cm/s.
+Die Gallenblase lässt sich postprandial teilkontrahiert darstellen. Es sind soweit beurteilbar keine Konkremente nachzuweisen. Die intrahepatischen Gallengänge sind nicht dilatiert. Der Ductus Choledochus kommt nicht zur Darstellung, a.e. nicht erweitert. Die Milz misst 10,7 x 3,8 cm. Das Echomuster ist homogen. Die V. lienalis ist mit 6,3 mm nicht erweitert.
+Das Pankreas ist bei Darmgasüberlagerung nur schemenhaft einzusehen und schwer abgrenzbar. Soweit beurteilbar, a.e. echoreiches Parenchym. Der Pankreasschwanz und Pankreaskopf sind nicht einsehbar. Der Pankreasgang ist nicht einsehbar.
+Beide Nieren erscheinen in Form, Größe und Lage altersentsprechend. Kein Harnstau.
+Die abdominale Aorta stellt sich teilweise dar, und misst suprarenal 1,8 cm im Durchmesser. Keine Gefäßektasien nachweisbar. Eine paraaortale Raumforderung ist soweit beurteilbar nicht nachzuweisen. Die V. cava misst 1,2 cm und zeigt sich atemvariabel. Die Harnblase stellt sich unauffällig dar.
+Keine freie abdominelle Flüssigkeit.
+Beurteilung:
+-UNK- V.a. diffuse Mehrverfettungen im rechten Leberlappen
+
+Angiologische Vorstellung bei V.a. Thrombose vom <[Pseudo] 21/07/2034:>
+Fragestellung:
+TVT Ausschluss bei peripherer Lungenembolie
+Anamnese:
+Die Diagnose der LAE erfolgte am B-DATE, Symptombeginn bereits am <[Pseudo] 02/21> während eines Urlaubs in Frankreich -LRB- 1 Stunde Flugzeit am <[Pseudo] 13/07/2034> -RRB- . Am B-DATE dann neben der Luftnot für ein Tag Schmerzen im linken Unterschenkel. Keine Vorerkrankungen, kein Nikotinabusus, keine Medikamente.
+Lokalbefund:
+Kein Wadendruckschmerz, keine Schwellung des linken oder rechten Unterschenkels, keine Umfangsdifferenz, keine zyanotische Glanzhaut, Überwärmung, Meyer, Homan, Payr negativ.
+Farbduplexsonographie der tiefen Venen der unteren Extremität bds.:
+Atemvariables, regelrechtes venöses Flussprofil in der V. iliaca externa. Im einsehbaren Verlauf distale V. iliaca externa, V. femoralis communis, V. femoralis superficialis und V. popliteae komprimierbar ohne sicherer Hinweise auf intraluminales thrombotisches Material. Bei eingeschränkten Schallbedingungen am Unterschenkel tiefe Unterschenkelvenen soweit beurteilbar komprimierbar oder mit antegrad provozierbarem Flussnachweis ohne sichere Hinweise für intraluminales thrombotisches Material.
+→ Derzeit keine sicheren Hinweise für eine TVT bds.
+Zusammenfassung/ Empfohlenes Procedere:
+- Thrombophilie Screening bei a.e. unprovozierter Lungenembolie -LRB- nur 1 Stunde Flugzeit -RRB-
+- Empfehlung einer Antikoagulation in therapeutischer Dosierung für mindestens 6 Monate -LRB- unter regelmäßiger Kontrolle der Nierenfunktion sowie des Blutbilds -RRB- , nach 6 Monaten Reevaluation in unserer Gerinnungsambulanz.
+- Bei Auftreten von erneuten Beschwerden / Beschwerdeprogredienz bitten wir um eine kurzfristige Wiedervorstellung in unserer B-ORG I-ORG -LRB- telefonische Rücksprache unter B-PHONE -RRB- -LRB- in Notfällen Vorstellung über die B-ORG I-ORG I-ORG Tel. B-PHONE -RRB- .
+- Wir empfehlen regelmäßige hausärztliche Kontrollen sowie eine Aktualisierung der geschlechts- und altersspezifischen gesetzlichen onkologischen Früherkennungsuntersuchungen.
+
+Ruhe-EKG vom <[Pseudo] 21/07/2034:>
+Sinusbradykardie mit Sinusarrhythmie, Herzfrequenz 42/min, Indifferenztyp. PQ 191 ms, QRS 106 ms, QTc 370 ms. R/S-Umschlag V3-V4. Regelrechte R-Progression. Keine S-Persistenz. Zeltförmige T-Welle in I, II, aVR, aVF, V2-V5. Keine relevanten Erregungsrückbildungsstörungen.
+
+Belastungs-EKG vom <[Pseudo] 21/07/2034:>
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 150 Watt über 00:24 min. Maximale Frequenz 126/min -LRB- 65% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 163 mmHg, diastolisch 76 mmHg. Abbruch wegen peripherer Kurzatmigkeit beim Tragen von FFP2-Maske. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Eingeschränkte Beurteilbarkeit bei Nichterreichen der Ausbelastungsfrequenz bei Z.n. LAE und diskreter Ruhedyspnoe. Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Keine VES. Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck.
+
+Langzeit-EKG vom B-DATE
+Bradykarder Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 32/min und 116/min -LRB- Belastungs-EKG -RRB- , im Mittel 57/min. Normale Herzfrequenzvariabilität. Vereinzelte supraventrikuläre Extrasystolen, z.T. auch repetitiv. Nachts vereinzelte Pausen bis maximal 2,16 sec Dauer, postextrasystolisch und bei Sinusbradyarrhythmie. Eine ventrikuläre Extrasystole.
+
+
+
+
+
+
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2033> und dem B-DAY B-MONTH <[Pseudo] 2033>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.93
+4 - 10 /nl
+B-DATE
+Hb
+15.6
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.6
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.450
+0,38 - 0,52 l/l
+B-DATE
+MCV
+82 !L
+83 - 97 fl
+<[Pseudo] 22/07/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+28
+27 - 33 pg
+<[Pseudo] 22/07/34>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 22/07/34>
+RDW
+12.9
+12,9 - 18,7 %
+<[Pseudo] 22/07/34>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+<[Pseudo] 22/07/34>
+Thrombozyten
+208
+150 - 440 /nl
+<[Pseudo] 22/07/34>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 22/07/34>
+Kalium -LRB- ISE -RRB-
+3.91
+3,4 - 4,6 mmol/l
+<[Pseudo] 22/07/34>
+Kreatinin
+1.03
+0,6 - 1,2 mg/dl
+<[Pseudo] 22/07/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+18
+- <45 mg/dl
+<[Pseudo] 22/07/34>
+GFR, CKD-EPI
+99.1
+>60 s.u.
+<[Pseudo] 22/07/34>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+84
+65 - 110 mg/dl
+<[Pseudo] 22/07/34>
+GOT/AST
+28
+- <46 U/l
+B-DATE
+GPT/ALT
+41
+- <50 U/l
+B-DATE
+Harnsäure
+5.9
+- <7 mg/dl
+<[Pseudo] 22/07/34>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 22/07/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+PCT sens.
+0.07 !H
+- <0,05 ng/ml
+<[Pseudo] 20/07/34>
+Hämolyse
+-
+
+<[Pseudo] 22/07/34>
+ikterisch
+-
+
+<[Pseudo] 22/07/34>
+Lipämie
+-
+
+<[Pseudo] 22/07/34>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+179
+- <316 U/l
+B-DATE
+CK
+69
+- <190 U/l
+<[Pseudo] 20/07/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+6.27
+- <14 pg/ml
+B-DATE
+NT-BNP
+47
+- <125 ng/l
+<[Pseudo] 20/07/34>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+2.67
+0,400 - 4,000 mU/l
+<[Pseudo] 20/07/34>
+FT3
+3.41
+2,0 - 4,2 ng/l
+<[Pseudo] 20/07/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+FT4
+12.07
+8 - 18 ng/l
+<[Pseudo] 20/07/34>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+65.8 !L
+70 - 125 %
+<[Pseudo] 22/07/34>
+INR - ber.
+1.20 !H
+- <1.2
+<[Pseudo] 22/07/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+30.4
+- <35 s
+<[Pseudo] 22/07/34>
+Fib. -LRB- Clauss -RRB-
+2.12
+1,8 - 3,5 g/l
+<[Pseudo] 22/07/34>
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.49 !H
+7,37 - 7,45
+<[Pseudo] 20/07/34>
+pO2
+103
+mmHg
+B-DATE
+pCO2
+27.5 !L
+35 - 45 mmHg
+<[Pseudo] 20/07/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-1.0
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+23.6
+mmol/l
+B-DATE
+Laktat
+11.9
+- <16 mg/dl
+<[Pseudo] 20/07/34>
+
+
+Weitere Laborwerte
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Abnahmeart
+kap.
+
+<[Pseudo] 20/07/34>
+Bicarb. /akt.
+20.6
+mmol/l
+<[Pseudo] 20/07/34>
+HKt ber.
+48
+%
+B-DATE
+Natrium
+138
+135 - 145 mmol/l
+<[Pseudo] 20/07/34>
+hs-TroponinT
+4.92
+- <14 pg/ml
+<[Pseudo] 20/07/34>
+Schnelltest COVID 19
+negativ
+
+<[Pseudo] 20/07/34>
+Chlorid
+106 !H
+95 - 105 mmol/L
+<[Pseudo] 20/07/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+86
+65 - 100 mg/dl
+<[Pseudo] 20/07/34>
+Calcium
+<NONE>
+1,15 - 1,35 mmol/l
+<[Pseudo] 20/07/34>
+cSO2
+98.3
+%
+<[Pseudo] 20/07/34>
+Hämoglobin
+16.4
+13 - 17 g/dl
+<[Pseudo] 20/07/34>
+Kalium
+4.48
+3,6 - 4,8 mmol/l
+<[Pseudo] 20/07/34>
+CO-Hb
+0.3
+- <2,0 %
+<[Pseudo] 20/07/34>
+2019-nCoV
+negativ
+
+<[Pseudo] 20/07/34>
+
+
+
+
+
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte am <[Pseudo] 20/07/2034> über unsere ORG bei progredienter Dyspnoe im Rahmen einer stattgehabten LAE.
+
+Seit der Aufnahme war die Patientin im Wesentlichen oligosymptomatisch sowie kardiorespiratorisch stabil. Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin zeigte sich im Verlauf stabil um 6 pg/ml, somit kein Hinweis für einen akuten Nicht-ST Hebungsinfarkt. Laborchemisch zeigte sich keine Entzündungskonstellation. Das NT-pro-BNP fand normwertig bei 47 ng/l.
+
+Echokardiographisch zeigten sich bei guter linksventrikulärer Pumpfunktion keine Zeichen der Rechtsherzbelastung. Zudem konnten relevante Klappenvitien ausgeschlossen werden.
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Bei nächtlichen Bradykardien wurde eine Langzeit-EKG Untersuchung durchgeführt, hierbei zeigte sich ein bradykarder Sinusrhythmus, mit einer Pause von 2,1s. Im Belastungs-EKG zeigte sich eine regelrechte chronotrope Kompetenz.
+
+In der Abdomensonographie konnten wurden keine Raumforderungen als mögliche Ursache der stattgehabten LAE gesehen. Zudem konnte eine TVT der unteren Extremitäten sonographisch ausgeschlossen werden. Wir empfehlen nach abgeschlossener antikoagulatorischer Therapie die ambulante Durchführung einer Thrombophiliediagnostik.
+
+Der weitere Verlauf gestaltete sich komplikationslos, B-SALUTE B-PER war durchgehend kardiorespiratorisch stabil und zu keinem Zeitpunkt sauerstoffpflichtig. Wir empfehlen die weitere Einnahme der oralen Antikoagulation nach dem untenstehenden Schema. Nach 6 Monaten empfehlen wir die ambulante Reevaluation der Notwendigkeit der Antikoagulation.
+
+Wir entlassen B-SALUTE B-PER mit einem Entlassgewicht von 100 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einem niedergelassenen Kardiologen. Zudem empfehlen wir regelmäßige hausärztliche Kontrollen.
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Rivaroxaban 15 mg 1-0-1 bis zum <[Pseudo] 08/08/2034>
+Rivaroxaban 20 mg 1-0-0 ab dem <[Pseudo] 09/08/2034> für zunächst 6 Monate bis einschl. <[Pseudo] 09/02/2034>
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE univ. B-PER I-PER
+Ärztlicher Direktor Oberarzt Stationsarzt

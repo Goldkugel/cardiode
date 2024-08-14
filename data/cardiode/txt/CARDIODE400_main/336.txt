@@ -1,0 +1,88 @@
+Aufnahmedatum: <[Pseudo] 2472-03-05 >
+Geburtsdatum: <[Pseudo] 2095-05-27 >
+Alter: 376
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 27/05/2095> wh. B-PLZ B-LOC, B-ADDR, die sich am in unserer Ambulanz vorstellte.
+Aktuell:
+
+- Diskrete zentrale Obstruktion in der Lungenfunktionsprüfung mit positiver Lyse
+- Probatorischer Beginn einer antiobstruktiven Medikation
+Diagnosen:
+
+- Koronare 1-Gefäßerkrankung der LAD ohne höhergradige Stenosen -LRB- HK <[Pseudo] 01/79> I-ORG -RRB-
+- Noch gute linksventrikuläre Pumpfunktion -LRB- LV-EF 55% -RRB- , erhöhter LVEDP
+- RHK B-DATE -LRB- B-LOC -RRB- : PA 30/10/18 mmHg, PC 10mmHg, PVR 1,5 WU -UNK- 116dyn.s.cm-5 -UNK-
+- Mittelgradige Aortenklappenstenose -LRB- HK 11/20 B-LOC: KÖF 1,3cm² -RRB-
+- Katarakt bds.
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Dyslipoproteinämie
+Allergien: Exanthem auf Antibiotikum -LRB- Name nicht erinnerlich -RRB-
+Anamnese:
+
+Vorstellung zur Lungenfunktionsprüfung auf Empfehlung der kardiol. Ambulanz im Rahmen der Dyspnoeabklärung. B-SALUTE B-PER berichtet über eine langsam-progrediente Belastungsdyspnoe mit Beginn vor ca. 2 Jahren, kein akuter Auslöser erinnerlich. Aktuell seien 1-2 Etagen ohne Pause möglich. Keine Ruhedyspnoe, keine nächtliche Dyspnoe. Rezidivierend Schmerzen der linken Brust ohne Ausstrahlung unabhängig von Belastung, keine typische Angina pectoris. Morgens sei sie verschleimt -LRB- hell, keine Hämoptysen -RRB- mit Hustenreiz, nicht mehr im Tagesverlauf. Kein Fieber oder Nachtschweiß, Gewichtskonstanz. Leichtes Knöchelödem nur links. Keine früheren Thromboembolien, die Mutter sei mit knapp 376 376 an Lungenembolie verstorben. Kein früheres Asthma, kein familiäres Asthma, kein Nikotinkonsum, keine NNH-Entzündungen. Früher Sodbrennen, seit langer Zeit aber nicht mehr. Flache Liegeposition, 2x Nykturie. Der Blutdruck sei in Eigenmessungen stabil um 130-140/90 mmHg, der Puls nur bei Arztbesuchen erhöht. SA: verwitwet, 3 Kinder, 1 Fehlgeburt.
+
+Bisherige Medikation:
+ASS 100 mg 0-1-0
+Lercanidipin 10 mg 1-0-0
+Hygroton 25 mg 1-0-0
+Torasemid 2,5 mg 1-0-0
+Atorvastatin 10 mg 0-0-1
+
+Körperlicher Untersuchungsbefund:
+84-jähr. Pat. in noch gutem Allgemeinzustand, Größe 168cm, Gewicht 83kg. Keine Ruhedyspnoe oder Zyanose. Herzschlagfolge tachykard, RR 130/95 mmHg. Herztöne rein, 3/6 Systol. p.m. 2. ICR links. Lunge mit vesikulärem AG, keine NG, kein Giemen bei forcierter Exspiration -LRB- nach Lyse -RRB- . Diskrete Umfangdifferenz li>re der Knöchel.
+Ruhe-EKG:
+
+Tachykarder Sinusrhythmus, HF 117/min, Indifferenz-Typ. PQ 191ms, QRS 87ms, QT 300ms. Regelrechte R-Progression, R/S Umschlag in V2/V3, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 26/11/2179:>
+Soweit beurteilbar: Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, noch normal weit -LRB- 34 mm -RRB- . Kein Perikarderguss nachweisbar. Vena cava inferior nicht darstellbar. Aortenklappe trikuspid, verdickt mit eingeschränkter Separation. Mittelgradige Aortenstenose -LRB- PPG 39 mmHg, MPG 20 mmHG, AÖF 1,3 cm² -RRB- . Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist nicht bestimmbar. Erstbefund in domo.
+
+Kapilläre BGA:
+Normoxie, Normokapnie, ausgeglichener Säure-Basen-Haushalt.
+
+Lungenfunktion mit Diffusionsmessung:
+Keine periphere Obstruktion, diskrete zentrale Obstruktion mit Normalisierung nach Lyse, keine Überblähung. Keine Restriktion. Transferfaktor diskret reduziert, Transferkoeffizient normal. Werte siehe Anhang.
+
+Röntgen Thorax:
+Emphysemaspekt. Leichte Stauung. Herzgröße im grenzwertigen Normbereich mit einem CTR von 15/30. Prominenter Aortenknopf. Aortensklerose. Retrosternal- und Retrokardialraum frei einsehbar. Keine flächigen Infiltrate. Kein relevanter Pleuraerguss. Kein Pneumothorax. Degenerative Veränderungen der miterfassten Wirbelsäule mit Hyperkyphose.
+Zusammenfassung:
+
+
+
+
+B-SALUTE B-PER stellte sich zur Durchführung einer Lungenfunktion im Rahmen der Dyspnoeabklärung vor. Es sind keine Lungenerkrankungen vorbekannt. In der erfolgten Lungenfunktion zeigte sich bis auf eine diskrete zentrale Obstruktion eine normale Atemmechanik. In Zusammenschau mit dem Röntgen Thorax sowie des klinischen Beschwerdebildes mit morgendlicher Verschleimung besprachen wir die zunächst probatorische Nutzung von Salbutamol wie unten angegeben. Sollte sich hierunter ein positiver Effekt im Alltag zeigen, empfehlen wir die Umstellung auf eine langwirksame ICS+LABA-Kombination -LRB- z.B. Foster 100/6 Nexthaler 1-0-1, nach Einnahme Mund ausspülen zur Soorprophylaxe -RRB- .
+
+Nebenbefundlich auffällig ist eine Tachykardieneigung -LRB- heute HF 117/min., in der kardiol. Ambulanz 110/min -RRB- , welche laut Pat. nur bei Arztbesuchen auftrete. Wir bitten um eine häusliche Dokumentation der Herzfrequenz im Rahmen der Blutdruckmessungen -LRB- insbesondere unter Nutzung der antiobstruktiven Medikation -RRB- oder alternativ um die Durchführung eines Langzeit-EKGs, je nach Werten ggf. Beginn einer bradykardisierenden Medikation empfohlen.
+
+Bezüglich der vorbekannten Aortenstenose ist nach Rücksprache OA B-TITLE B-PER in Zusammenschau der aktuellen Echokardiographie sowie des <[Pseudo] 01/79> in B-LOC erfolgtem Katheter zunächst ein konservatives Vorgehen empfohlen. Bezüglich der aktuellen Medikation kann unter der Annahme einer relevanten diastolischen Komponente Spironolacton 25 ergänzt werden, sofern Nierenwerte und Kalium gut sind -LRB- ggf. aufgrund des Alters zunächst nur jeden zweiten Tag beginnen und hierunter Nierenverträglichkeit kontrollieren -RRB- .
+
+Lungenembolien als mögliche Ursache der Belastungsdyspnoe sind zum aktuellen Zeitpunkt nicht sicher ausgeschlossen, es finden sich hierfür echokardiographisch sowie in der BGA jedoch keine Hinweise. Ggf. kann aufgrund der diskreten Umfangsdifferenz der beiden Knöchel ein Thromboseausschluß links ergänzt werden.
+
+Die Patientin wird sich zu regelmäßigen kardiologischen Folgekontrollen bei Ihnen vorstellen. Für Rückfragen stehen wir gerne zur Verfügung.
+
+
+Therapieempfehlung -LRB- von pneumologischer Seite -RRB- :
+Salbutamol DA 2Hübe-2Hübe-2Hübe neu, für 2-4 Wochen
+
+falls positiver klinischer Effekt unter Salbutamol Umstellung empfohlen auf:
+Foster 100/6 1-0-1 nach Einnahme Mund ausspülen
+Salbutamol DA 1-2 Hübe bei Bed., bis max. 4x 2 Hübe/d
+
+Übrige aktuelle Medikation nach haus-/fachärztlicher Massgabe:
+ASS 100 mg 1-0-0
+Lercanidipin 10 mg 1-0-0
+Chlortalidon -LRB- Hygroton® -RRB- 25 mg 1-0-0
+Atorvastatin 10 mg 0-0-1 -LRB- Bitte LDL, CK und Transaminasen kontrollieren -RRB-
+Novaminsulfon bei Bedarf
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+
+Wir danken für die Zusammenarbeit und verbleiben
+
+mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Fachärztin

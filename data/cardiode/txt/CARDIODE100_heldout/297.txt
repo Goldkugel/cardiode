@@ -1,0 +1,225 @@
+Aufnahmedatum: <[Pseudo] 2036-04-12 >
+Geburtsdatum: <[Pseudo] 1956-05-20 >
+Alter: 79
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 20/05/1956> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Erfolgreiche 3-fach DE-PTA der langstreckig schwer veränderten A. femoralis superficialis rechts -LRB- B-OTHER v. <[Pseudo] 12/04/2036> -RRB-
+- pAVK II b nach Fontaine
+-UNK- Ab proximaler AFS rechts hochgradige Stenose mit kurzzeitigen Verschlüssen
+-UNK- Ab mittlerer AFS mehrere, hintereinander geschaltete, hochgradige Stenosen links
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie
+
+Indikation für verlängerten stationären Katheter:
+- PTA mit postinterventioneller Überwachungspflicht von mehr als 10h bei Thrombuslast sowie erhöhtem Risiko einer Nachblutung
+- Leistenpunktion bei intensivierter Antikoagulation.
+- Postinterventionelles Aneurisma sp.
+
+Anamnese:
+Die ausführliche Anamnese setzen wir freundlicherweise als bekannt voraus. Die aktuelle Vorstellung der Patientin erfolgt über die B-ORG B-TITLE B-PER B-PER zur Becken-Bein-Angiographie in PTA-Bereitschaft der AFS rechts. Die Patientin klagt über Schmerzen in den Beinen fokusiert auf die Gelenke in Ruhe und progredient unter Belastung. Taubheitsgefühl im Liegen in den Zehen und Fingern, Besserung bei Bewegung. Eine typische Claudicatio intermittens mit einer max. Gehstrecke wird verneint.
+
+Körperlicher Untersuchungsbefund -LRB- extern -RRB- :
+AZ: gut
+EZ: 155 cm, 62 kg
+HF: 51/min, regelmäßig
+RR: 188/88 mmHg
+Unauffälliger Hautturgor
+
+Pulsstatus: Rekapillarisierung o.B.
+
+sonstige Auffälligkeiten: keine Ulcera, Extremität warm
+
+Ruhe-EKG -LRB- extern -RRB- :
+Normofrequenter Sinusrhythmus, Herzfrequenz 46/min, QTc 410 ms, regelrechte PQ-Zeit, unauffällige Erregungsausbreitung und -rückbildung.
+
+Becken-Bein-Angiographie -LRB- BBA B-OTHER vom <[Pseudo] 12/04/2036> -RRB- :
+Invasive angiolgische Untersuchung bei pAVK im Stadium II b n. Fontaine rechts:
+Erfolgreiche 3-fach DE-PTA der langstreckig schwer veränderten A. femoralis superficialis rechts.
+Procedere:
+a -RRB- Kontrollen B-TITLE B-PER B-PER
+b -RRB- engmaschige klinische Kontrolle der Leiste
+c -RRB- OAK + Clopidogrel für 8 Wochen, bitte noch Clopidogrel 300mg loaden.
+
+Angiologische Untersuchung vom <[Pseudo] 13/04/2036> -LRB- 1 -RRB- :
+Anamnese:
+Kontrolle nach BBA, 3-fach DE-Ballon-PTA . Patientin berichtet über Schwellung im Bereich der Punktionsstelle nach Abnahme des Druckverbandes, welche sich jetzt gebessert habe.
+
+Lokalbefund:
+Punktionsstelle reizlos, Hämatom um die Punktionsstelle. Leistenpuls kräftig palpabel.
+
+Farbduplexsonographie der Gefäße der linken Leiste:
+Nachweis einer großen, recht oberflächlichen, perfundierten Aneurysma spurium Höhle mit typischem Pendelfluss und langem Hals -LRB- hier auch noch kleine aneurysmatische Aussackung -RRB- . Derzeit kein Hinweis auf AV-Fistel oder eine TVT im Bereich der Punktionsstelle der linken Leiste.
+
+Arterieller CW-Doppler -LRB- Verschlussdrücke in mmHg -RRB-
+
+Referenzdruck: A.brachialis re/li 180/170 mmHg
+Rechtes Bein
+
+Linkes Bein
+170
+A. dorsalis pedis
+140
+190
+A. tibialis posterior
+130
+1,1
+ABI
+0,8
+
+
+Procedere:
+- Manuelle Kompression für 20 Minuten -LRB- eingezeichnete Lokalisation -RRB- unter adäquater Analgesie
+- Anlage eines Druckverbandes für 4 Std
+- Antikoagulation pausieren, wenn vertretbar
+- Regelmäßige klinische Kontrollen -LRB- DMS -RRB-
+- Heute Nachmittag erneute angiologische Kontrolle
+
+Angiologische Untersuchung vom <[Pseudo] 13/04/2036> -LRB- 2 -RRB- :
+Anamnese:
+Kontrolle nach BBA und Nachweis eines Aneurysma spurium mit 2 Höhlen ausgehend von der linken AFC heute, sowie erneuter Kompression und Druckverband.
+
+Lokalbefund:
+Punktionsstelle reizlos, Hämatom um die Punktionsstelle. Leistenpuls kräftig palpabel. Druckschmerz im Bereich der Punktionsstelle.
+
+Farbduplexsonographie der Gefäße der linken Leiste:
+Nachweis einer großen, recht oberflächlichen, nun nicht mehr perfundierten Aneurysma spurium Höhle, kleine gefäßnahe Höhle noch mit pulsatilem Fluss ausgehend von der AFC nachweisbar, Hals bei deutlich reduzierten Schallbedingungen nicht darstellbar.
+
+Procedere:
+- Manuelle Kompression für 20 Minuten -LRB- eingezeichnete Lokalisation -RRB- unter adäquater Analgesie
+- Anlage eines Druckverbandes für 4 Std
+- Antikoagulation pausieren, wenn vertretbar
+- Regelmäßige klinische Kontrollen -LRB- DMS -RRB-
+- Morgen erneute angiologische Kontrolle
+
+Angiologische Untersuchung vom <[Pseudo] 14/04/2036> -LRB- 1 -RRB- :
+Anamnese:
+Kontrolle nach erneuter Anlage eines Druckverbandes. Weiterhin Druckschmerz im Bereich der Punktionsstelle.
+
+Lokalbefund:
+Punktionsstelle reizlos, Hämatom um die Punktionsstelle. Leistenpuls kräftig palpabel.
+
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Nachweis einer großen, oberflächlich gelegenen nicht mehr perfundierten Aneurysma spurium Höhle, weiterhin kleinere dorsal gelegene Aneurysmahöhle mit pulsatilem Fluss von der AFC ausgehend mit schmalem Hals. Es erfolgte eine Thrombininjektion mit 150 IE Thrombin, daraufhin keine Perfusion der kleinen Aneurysmahöhle mehr nachweisbar. Es erfolgte eine Anlage eines Druckverbandes.
+
+Procedere:
+-erneute angiologische Kontrolle in 4 Stunden -LRB- 14 Uhr -RRB-
+-Antikoagulation pausieren, wenn vertretbar
+
+Angiologische Untersuchung vom <[Pseudo] 14/04/2036> -LRB- 2 -RRB- :
+Anamnese:
+Kontrolle nach Thrombininjektion. Schmerzen rückläufig.
+
+Lokalbefund:
+Punktionsstelle reizlos, Hämatom um die Punktionsstelle. Leistenpuls kräftig palpabel.
+
+
+Farbduplexsonographie der Gefäße der linken Leiste:
+Kein Nachweis eines Aneurysma spuriums mehr nach Thrombininjektion. AFC offen und perfundiert darstellbar. Kein Hinweis AV-Fistel oder eine TVT im Bereich der Punktionsstelle der linken Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2035>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.78
+4 - 10 /nl
+B-DATE
+Hb
+8.9 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.5 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.270 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+79 !L
+83 - 97 fl
+<[Pseudo] 13/04/36>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+26 !L
+27 - 33 pg
+<[Pseudo] 13/04/36>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 13/04/36>
+RDW
+18.5
+12,9 - 18,7 %
+<[Pseudo] 13/04/36>
+hypochr.Erythroz.
+5.0 !H
+0 - 2 %
+<[Pseudo] 13/04/36>
+Thrombozyten
+189
+150 - 440 /nl
+<[Pseudo] 13/04/36>
+
+
+
+
+
+
+
+
+Zusammenfassung:
+Es erfolgte die erfolgreiche 3-fach DE-PTA der langstreckig schwer veränderten A. femoralis superficialis rechts. Im postinterventionellen Verlauf kam es zur Ausbildung eines Aneurysma spuriums, welches unter mehrfach angelegten Druckverbänden und Thrombininjektion nicht mehr nachweisbar war, so dass die Patientin entlassen werden konnte. Der Patientin wurde ein Implantatausweis ausgehändigt. Sie wurde über notwendige Verhaltensanweisungen informiert.
+
+Procedere:
+Kombinierte medikamentöse Therapie mit Xarelto und Clopidogrel für 8 Wochen nach Intervention. Anschließend ist eine dauerhafte Xarelto Therapie täglich ausreichend.
+Die Patientin wurde über die Notwendigkeit einer lückenlosen Einnahme von Xarelto und Clopidogrel bis zum unten genannten Datum ausführlich aufgeklärt.
+Bei ausgeprägtem kardiovaskulärem Risikoprofil und pAVK empfehlen wir regelmäßige kardiologische Kontrolluntersuchungen sowie die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien.
+Zudem raten wir zu einem regelmäßigen Gehtraining -LRB- bei pAVK Stadium I und II, Kontraindiziert bei pAVK III und IV -RRB- .
+
+Nächster Termin/Kontrolle:
+Wir empfehlen regelmäßige angiologische Kontrolluntersuchungen in der Praxis der betreuenden B-SALUTE B-TITLE B-PER B-PER
+
+Therapieempfehlung:
+Xarelto 20 1-0-0
+Clopidopgrel 75 1-0-0, neu, bis <[Pseudo] 07/06/2036>
+Ramipril 5 0-0- -UNK-
+Metohexal 47,5 1-0-1
+Palexia 50 1-0-0
+Omeprazol 20 0-0-1 jeden 2. Tag
+Novaminsulfon 500 1-1-1-1
+Vigantol 1000 1-0-0
+Eferox Jod 75/150 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreienPatientin am <[Pseudo] 14/04/2036> in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gern zur Verfügung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir bedanken uns für die Überweisung und die vertrauensvolle Zusammenarbeit.
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

@@ -1,0 +1,107 @@
+Aufnahmedatum: <[Pseudo] 2037-07-05 >
+Geburtsdatum: <[Pseudo] 1972-08-03 >
+Alter: 64
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 03/08/1972> wh. B-PLZ B-LOC B-ADDR I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Befundbesprechung der Stress-Kardio MRT- Untersuchung vom <[Pseudo] 21/06/2037>
+-UNK- Negativer Ischämienachweis
+-UNK- Grenzwertige systolische LV-Funktion -LRB- EF 52% -RRB-
+-UNK- Zystische Raumforderng linke Niere
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung mit noch guter LV-Pumpfunktion
+-UNK- Chronisch verschlossene, kollateralisierte RCA - aktuell ohne Interventionsbedarf -LRB- B-OTHER v. <[Pseudo] 18/02/33> -RRB-
+-UNK- Z. n. PTCA/DES des R. marginalis -LRB- B-OTHER vom <[Pseudo] 07/04/2028> -RRB-
+-UNK- Z. n. PTCA/BMS der subtotal verschlossenen LCX bei NSTEMI <[Pseudo] 2022>
+-UNK- Z. n. Hinterwandinfarkt <[Pseudo] 2013> und <[Pseudo] 2009>
+- Z. n. mechanischem Aortenklappenersatz -LRB- SJM -RRB- am <[Pseudo] 23/02/2033> bei Z.n. kombiniertem Aortenvitium mit führender hochgradiger Stenose -LRB- KÖF 0,7 cm², PPG 48 mmHg -RRB- und leichtgradiger Insuffizienz
+- Kombiniertes Mitralklappenvitium mit leichtgradiger Insuffizienz und noch leicht- bis -LRB- mittel -RRB- gradiger Stenose -LRB- Echo <[Pseudo] 08/2035> -RRB-
+- COPD Stadium II
+- Z.n. Pneumonie <[Pseudo] 05/2035>
+- Z. n. mediastinalem B-Zell-Lymphom mit Z. n. Radiochemotherapie <[Pseudo] 2010>
+- Z. n. autologer Stammzelltransplantation bei Rezidiv <[Pseudo] 2011>
+- Z. n. Hepatitis B
+- Schilddrüsenknoten bei Euthyreose
+
+Kardiovaskuläre Risikofaktoren: Dyslipoproteinämie, positive Familienanamnese -LRB- Vater Myokardinfarkt, Schlaganfall mit ca. 64 64 -RRB- , Z. n. Nikotinabusus -LRB- 30 PY bis <[Pseudo] 2027> -RRB-
+Allergien/Unverträglichkeiten: Hausstaub, Ramipril -LRB- Schwindel -RRB-
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur Befundbesprechung der Stress-Kardio-MRT-Untersuchung vom B-DATE. Im Alltag bestehe eine gute Belastbarkeit mit tagesabhängigen Schwankungen -LRB- 3-4 Etagen Treppensteigen möglich -RRB- ; bei >4 Etagen Treppensteigen bestehe inadäquate Belastungsdyspnoe -LRB- NYHA II -RRB- . Gelegentlich bestünde bei sehr starker Belastung ein thorakales Engegefühl für wenige Minuten anhaltend, allerdings keine aktuellen AP-Beschwerden in Ruhe. Keine Palpitationen. Gelegentlich Schwindel. Keine stattgehabten Synkopen. Es bestehe Nykturie mit ca. 2-facher Miktion pro Nacht. Diskrete periphere Ödeme würden teilweise auffallen. Gewollte Gewichtsabnahme -LRB- -5kg in den letzten 6 Monaten -RRB- . Die seltenen häuslichen Blutdruckmessungen ergäben Werte um 100/70 mmHg.
+
+
+Bisherige Medikation:
+Marcumar Ziel-INR 2,5-3
+Nebivolol 5mg 0-0-1
+Torasemid 5mg 1-0- -LRB- 1 -RRB-
+Atorvastatin 40mg 0-0-1
+Esomeprazol 40mg 1-0-0
+Foster 100/6 2-0-2
+Spiriva 18 1-0-0
+Salbutamol bei Bedarf
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 171cm 76 kg
+HF: 78/min, regelmäßig
+RR: 110/70 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: minimale US-Ödeme
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 78/min, Linkstyp. PQ 167ms, QRS 98ms, QTc 401ms. Regelrechte R-Progression, R/S Umschlag in V4/V5, diskrete S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Kardio-Stress-MRT:
+Normal großer, septal basal betont hypertophierter linker Ventrikel mit grenzwertiger systolischer Funktion -LRB- EF 52 % -RRB- bei Akinesie inferior basal und inferoseptal basal sowie Hypokinesie inferior medial. Reduzierte longitudinale Funktion -LRB- GLS- 11,9% -RRB- .
+LA leichtgradig dilatiert, RA normal groß. RV normal groß mit visuell normaler systolischer Funktion und
+reduzierter longitudinaler Funktion. Pharmakologische Belastung mit Dobutamin und 0,25 mg Atropin bis zu einer maximalen Herzfrequenz von 139/min. Fehlende Kontraktilitätszunahme der bereits unter Ruhebedingungen akinetischen Wandabschnitte, sonst gute Kontraktilitätszunahme. Keine neu induzierbaren Wandbewegungsstörungen. Nachweis eines Perfusionsdefektes inferior basal und inferoseptal basal, zudem Nachweis einer Perfusionsverzögerung inferior medioapikal.
+Nachweis eines Infarkt-typischen Late Gadolinium Enhancements inferior mediobasal sowie inferoseptal basal. Nachweis eines Infarkt-atypischen Late Gadolinium Enhancements anteroseptal basal an der RV-Insertion. Geringes perikardiales Late Gadolinium Enhancement bei Z.n. Perikardotomie. Regelrechte globale T1 Relaxationszeit -LRB- T1 -UNK- 3 T=ca. 1240 -UNK- 139 ms -RRB- .
+
+Nebenbefunde
+Zystische Raumforderung der linken Niere. Geringe Pleuraergüsse beidseits.
+
+Zusammenfassung
+Eingeschränkte Beurteilbarkeit um die mechanische Aortenklappe bei Artefakten.
+- Kein Nachweis neuer belastungsinduzierter Wandbewegungsstörungen in der Dobutamin-
+Stressuntersuchung. Das Perfusionsdefizit überschreitet das Narbenareal bei bekannt verschlossener RCA nur gering.
+- Nachweis einer Infarkt-atypischen Fibrose anteroseptal basal an der RV-Insertion.
+- Normal großer, septal basal betont hypertophierter linker Ventrikel mit grenzwertiger systolischer Funktion -LRB- EF 52 % -RRB- bei Akinesie inferior basal und inferoseptal basal sowie Hypokinesie inferior medial.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgt zur Befundbesprechung der Stress-Kardio MRT- Untersuchung vom B-DATE. Subjektiv wird von einem klinisch konstanten kardialen Verlauf berichtet.
+
+Im Kardio-Stress-MRT bot sich kein Nachweis neuer belastungsinduzierter Wandbewegungsstörungen. Es zeigte sich weiterhin ein normal großer, septal basal betont hypertophierter linker Ventrikel mit einer grenzwertigen systolischen Funktion -LRB- EF 52 % -RRB- bei vorbekannter Akinesie inferior basal und inferoseptal basal sowie Hypokinesie inferior medial
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und sehen aktuell keine Indikation für eine erneute Intervention und empfehlen daher eine Fortführung der konservativen Therapie. Zur Linderung der beschriebenen Symptomatik empfehlen wir den Beginn einer anti-angipektinösen Therapie.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, I-ORG oder Ergometertraining, sowie weiterhin nichtmedikamentösen Maßnahmen -LRB- z.B. Reduktion des Salzkonsums, mediterrane Diät und Gewichtsreduktion -RRB- .
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung gerne auch bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung von kardiologischer Seite -LRB- unverändert -RRB- :
+Marcumar Ziel-INR 2,5-3
+Nebivolol 5mg 0-0-1
+ISMN 10mg 1-0-1 -LRB- bitte regelmäßige Blutdruckmessungen! -RRB-
+Corvaton retard 2mg 1-0-1 -LRB- bitte regelmäßige Blutdruckmessungen! -RRB-
+Torasemid 5mg 1-0- -LRB- 1 -RRB-
+Atorvastatin 40mg 0-0-1
+Esomeprazol 40mg 1-0-0
+Foster 100/6 2-0-2
+Spiriva 18 1-0-0
+Salbutamol bei Bedarf
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

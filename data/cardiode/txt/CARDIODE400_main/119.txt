@@ -1,0 +1,613 @@
+Aufnahmedatum: <[Pseudo] 2502-01-04 >
+Geburtsdatum: <[Pseudo] 2092-09-01 >
+Alter: 409
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 01/09/2092> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Erfolgreiche transfemorale Aortenklappenimplantation -LRB- Edwards Sapien 3 -RRB- am <[Pseudo] 02/10/2175> bei kombiniertem Aortenklappenvitium mit führender hochgradiger Stenose -LRB- B-OTHER -RRB-
+-UNK- 2-Kammer-Schrittmacher-Implantation -LRB- SJM Endurity -RRB- am <[Pseudo] 03/10/2175> bei postinterventionellem AV-Block III°
+-UNK- Kombiniertes Aortenklappenvitium mit führender hochgradiger Stenose und leichtgradiger Insuffizienz -LRB- KÖF 0,9 cm², PPG 60 mmHg -RRB-
+
+- Koronare 2-Gefäßerkrankung der LAD und LCX
+-UNK- Fehlender Flußnachweis der proximalen LAD, Z.n. Stent der proximalen LAD DATE, Auffüllung via eines 2,1 x 1,3 cm großen Aneurysmas über einen kurzen Stent
+
+- Nitrit positiver Harnwegsinfekt mit akut auf chronischem Nierenversagen
+-UNK- Rekompensation mittels Negativbilanz
+-UNK- Antibiotische Therapie mittels Piperacillin/Tazobactam v. <[Pseudo] 04/10/2175> bis dato
+
+- Z. n. Pneumonie bds.
+-UNK- Antibiotische Therapie mit Unacid -LRB- B-DATE - <[Pseudo] 01/10/2175> -RRB-
+-UNK- COVID 19 negativ
+
+- Asymptomatische intermittierend isolierende AV-Blockierung unter Betablocker
+- Chronische Niereninsuffizienz Stadium III
+- COPD
+- pAVK Stadium IV bds. -LRB- ED <[Pseudo] 2166> -RRB-
+- Diabetisches Fußsyndrom links mit plantarem Ulcus und Infekt linker Fuß
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie´, Diabetes mellitus Typ II, Nikotinabusus
+Allergien: keine bekannt.
+
+Anamnese:
+Die Aufnahme des Patienten erfolgt zur geplanten transfemoralen Aortenklappenimplantation bei kombiniertem Aortenklappenvitium mit führender hochgradiger Stenose. Im Rahmen einer Pneumonie erfolgte eine Aufnahme in das B-ORG I-ORG hier erfolgt die weitere Diagnostik, im Rahmen dessen zeigte sich die hochgradige Aortenklappenstenose. Im Alltag besteht eine Belastungsdyspnoe -LRB- NYHA II -RRB- , AP-Beschwerden sowie Synkopen werden verneint. Die ausführliche Vorgeschichte dürfen wir freundlicherweise als bekannt voraussetzen.
+Bei Übernahme auf die CCU c/r stabiler Pat., wach und oligosymptomatisch.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ gut
+HF: 80/min, regelmäßig
+RR: 164/57 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: 3/6 Systolikum über ICR 2 re
+Lunge: o.B.
+Periphere Ödeme: bds US Ödeme
+Pulsstatus: o.B.
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+
+CT Herz nativ und mit Kontrastmittel -LRB- Kooperation -RRB- vom <[Pseudo] 01/10/2175:>
+CT Abdomen mit Kontrastmittel vom <[Pseudo] 01/10/2175:>
+Spektral-CT vom: <[Pseudo] 01/10/2175>
+EKG-Monitoring vom <[Pseudo] 01/10/2175:>
+CT Multiplanare Rekonstruktion -LRB- en -RRB- vom <[Pseudo] 01/10/2175:>
+Voruntersuchungen
+Keine
+BEFUND
+Gefäße
+Die Beurteilung der kritischen Gefäße im Hinblick auf die Machbarkeit des Eingriffs erfolgt durch die die Intervention planende Fachabteilung.
+Mittelgradige Stenose der Arteria subclavia links -LRB- 501-51 -RRB- .
+Koronarsklerose. Aortenklappensklerose. Aortensklerose.
+Atherosklerose der Iliacalarterien beidseits.
+Keine höhergradige Stenose der Aorta und miterfassten Aortenäste.
+Ektasie der infrarenalen Aorta auf 2,8 cm -LRB- 501-492 -RRB- .
+Thorax
+Plaqueartige, teils verkalkte pleurale Verdickungen, ex basal rechts -LRB- 501-289 -RRB- sowie dorsobasal links -LRB- 501-278 -RRB- .
+Peribronchiale herdförmiger Konsolidierungen im Oberlappen links mit 2 cm im S1 ventral -LRB- 504-25 -RRB- und 1,9 cm in S2 paramediastinal -LRB- 504-52 -RRB- .
+Mehrere winzige bipulmonale, überwiegend subpleurale Noduli, ex. In Ober- und Unterlappen links -LRB- 504-80 -RRB- , a.e. unspezifisch.
+Prominente mediastinale Lymphknoten bis max. 10 mm KAD -LRB- 501-65 -RRB- .
+Struma mit retrosternalem Anteil.
+Abdomen
+Retroaortaler Verlauf der linken Nierenvene.
+Vereinzelte reizlose Colondivertikel.
+Heterogene vergrößerte Prostata.
+Skelett
+Altersentsprechende degenerative Skelettveränderungen.
+
+BEURTEILUNG
+-UNK- Die Beurteilung der kritischen Gefäße im Hinblick auf die Machbarkeit des Eingriffs erfolgt durch die die Intervention planende Fachabteilung.
+-UNK- Vasosklerose ohne höhergradige Stenose der Aorta und miterfassten Aortenäste.
+-UNK- Ektasie der infrarenalen Aorta auf 2,8 cm.
+-UNK- Tafelbergartiger teilverkalkter Pleuraplaque diaphragmal rechts und umschriebene Pleuraverdickung dorsal am linken Unterlappen, Korrelation mit der Berufsanamnese -LRB- Asbestexposition? -RRB- .
+-UNK- Herdförmige Konsolidierungen im Oberlappen links, kurzfristige Verlaufskontrolle zur Differenzierung zwischen entzündlichen und neoplastischen Veränderungen empfohlen.
+
+
+Echokardiographie vom <[Pseudo] 01/10/2175:>
+Grenzwertig großer, septal betont hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Diastolische Dysfunktion des LV. LA dilatiert, RA und RV normal groß, gute RVFunktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, deutlich verdickt mit verminderter Separation. Dopplersonographisch kombiniertes Aortenvitium höheren Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 0,7 cm², PPG 78 mmHg, MPG 40 mmHg -RRB- . Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht bestimmbar. Erstbefund in domo.
+
+Aortenklappenimplantation -LRB- B-OTHER -RRB- vom <[Pseudo] 02/10/2175:>
+Interventionelle Klappenimplantation bei deutlich erhöhtem OP-Risiko für eine konventionelle Operation:
+Erfolgreiche transfemorale Implantation einer Aortenklappenbioprothese -LRB- Edwards Sapien 3 Klappe; 26 mm -RRB- unter Lokalanästhesie bei hochgradiger Aortenklappenstenose.
+Postprocedural keine Aortenklappeninsuffizienz.
+Verschluss der A. femoralis rechts -LRB- 14F -RRB- mit dem Proglidesystem.
+
+Maßnahmen:
+nach SOP.
+
+Ruhe-EKG nach Implantation:
+AV Block III, mit Schrittmacherstimulation Frequenzen von 60/min mit kons. Kammerendteilveränderungen
+
+OP-Bericht: Implantation eines 2-Kammer-SM vom <[Pseudo] 03/10/2175:>
+Begründung: AV-Block III. Grades ohne Ersatzrhythmus unter passageren Schrittmacher bei Z.n. TAVI, gute LVEF, SR
+
+Aggregathersteller: Abbott -LRB- SJM -RRB- B-OTHER
+RA-Elektrode: Abbott -LRB- SJM -RRB- B-OTHER
+RV-Elektrode: Abbott -LRB- SJM -RRB- B-OTHER
+
+Messwerte:
+RA: RS: V/0,5 ms RV: RS: V/0,5 ms
+Impedanz: -UNK- Impedanz: -UNK-
+Sensing: mV Sensing: mV
+Zugang: V. cephalica links Zugang: V. subclavia links
+
+OP-Dauer: 38 min. DL-Zeit: 3,4min. Dosis: 0,6Gy·cm² KM: 10ml
+
+Operation:
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links. Der Zugang der Ventrikelelektrode erfolgte transvenös über Punktion der Vena subclavia links. -LRB- Vena cephalica zu klein -RRB- . Phlebographie. Venotomie. Vorschieben der Ventrikelelektrode unter Bildwandlerkontrolle in die Spitze des rechten Ventrikels. Problemloses Platzieren der Sonde mit guten Messwerten. Erneute Venotomie. Vorschieben der Vorhofelektrode unter Bildwandlerkontrolle in den rechten Vorhof. Gute Messwerte. Danach Konnektion des Generators und Versenken in der Tasche. Schichtweiser Wundverschluss unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links subfaszial angelegt. Verband. Zug des passageren SM unter Durchleuchtung.
+
+Procedere:
+1. Verbandswechsel 3-4 Tage postoperativ, Sandsack bis morgen Mittag, Aussetzen der Antikoagulation für 2 Tage, postoperative Aggregatkontrolle morgen, Monitor bis zur Aggregatkontrolle, Rö-Thorax in 2 Ebenen in Exspiration, Echokontrolle zum PE-Ausschluss, WV zur Wundkontrolle in 10-12 Tagen -LRB- kein Fadenzug bei selbstauflösendem Nahtmaterial -RRB- .
+Nach ORG bei guter Wundheilung und regelrechter Aggregatfunktion keine Einschränkung der Fahreignung als Privatfahrer -LRB- Gruppe 1 -RRB- , bei Berufskraftfahrern -LRB- Gruppe 2 -RRB- i.d.R. Fahreignung wieder nach 1 Woche vorhanden -LRB- bei Synkopen in der Anamnese oder Schrittmacherabhängigkeit 4 Wochen -RRB- .
+
+Echokardiographie vom <[Pseudo] 03/10/2175:>
+Eingeschränkte Schallbedingungen, Untersuchung auf CCU
+Beurteilung: Normal großer, septal betont hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV noch normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Klappenprothese in Aortenposition sonographisch regelrecht, dopplersonographisch keine Insuffizienz sowie keine relevante Stenosewirkung nachweisbar. Mitralkappe leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht ableitbar.
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 01/10/2175:> Z. n. TAVI mit regelrechter Lage und Funktion. Ansonsten keine wesentliche Befundänderung.
+
+Angiologische Verlaufskontrolle nach TAVI vom <[Pseudo] 03/10/2175:>
+Anamnese:
+Kontrolle nach TAVI. Patient beschwerdefrei. Kein Druckschmerz im Bereich der Punktionsstellen.
+Lokalbefund:
+Punktionsstellen reizlos, keine relevanten Hämatome. Leistenpulse kräftig palpabel. Leichter Druckschmerz.
+Farbduplexsonographie der Gefäße der Leisten:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstellen der Leisten. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 03/10/2175:>
+Im intermodalen Vergleich dient eine CT HWK B-DATE
+Befund und Beurteilung:
+Liegendaufnahme. Erste postoperative Bildgebung.
+Von links einliegender Schrittmacher mit Sondenspitze in Projektion auf den rechten Vorhof und rechten Ventrikel. Einliegender Aortenklappenersatz.
+In Zusammenschau mit der CT Th bekanntermaßen akzentuierte paracardiale Fettschwiele links. Kein relevanter Erguss. Geringer Stauungsaspekt. Keine flächigen Konsolidierungen. Im Liegen kein Nachweis einer relevanten Pleuraablösung.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 04/10/2175:>
+Letzte Vergleichsaufnahme vom <[Pseudo] 03/10/2175>
+BEFUND UND BEURTEILUNG :
+Positionswechsel vom Liegen zum Sitzen. Geringer Randwinkelerguss rechts mit basalen Dystelektasen. Kein Pleuraerguss links. Umverteilung der paracardial Fettschwiele links. Keine höhergradigen pulmonalvenösen Stauungszeichen. Keine infiltrattypischen Verschattungen in den frei einsehbaren Lungenarealen. Kein Pneumothorax. Einliegendes Fremdmaterial in situ, idem.
+
+Elektrophysiologischer Befund vom <[Pseudo] 06/10/2175:>
+Befund / Zusammenfassung:
+Regelrechte Aggregatfunktion. Batteriestatus gut -LRB- 2,99V -RRB- . Messwerte gut. Eine neue als AMS klassifizierte Episode am <[Pseudo] 03/10/2175> im Speicher. Nach Durchsicht des EGM handelt es sich hierbei a.e. um einen intraoperativen Artefakt. Aktuell <1% atriale- und 99,98% ventrikuläre Stimulation. Programmierung durchgeführt. Anpassung der Stimulationsparameter nach Ende der Einheilungsphase bei nächster Kontrolle.
+Der Patient wurde über Verhaltensmaßregeln aufgeklärt. Die Informationsbroschüre -LRB- lt. MPG -RRB- wurde ausgehändigt. Der Schrittmacher-Ausweis wurde ausgestellt und dem Patienten ebenfalls ausgehändigt.
+Es besteht keine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+Procedere:
+Wundkontrolle in 3 - 4 Tagen beim Hausarzt empfohlen -LRB- Kein Fadenzug bei selbstauflösendem Nahtmaterial erforderlich -RRB- . Wiedervorstellung zur nächsten Schrittmacherkontrolluntersuchung am <[Pseudo] 19/11/2175> um 10:00 Uhr in unserer B-ORG Ambulanz empfohlen. Die weiteren Kontrollen danach empfehlen wir nach Rücksprache mit dem Hausarzt durch einen niedergelassenen kardiologischen B-SALUTE in Intervallen von 6 Monaten durchführen zu lassen.
+Kommentar:
+Ihr Schrittmacher-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan- Modus -RRB- für die Verwendung im MRT entwickelt.
+Wichtig:
+Vor der MRT-Untersuchung sollte ihr Schrittmacher-System auf diesen SureScan-Modus programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung erfolgen, da dieser SureScan-Modus in dieser Zeit der Einheilungsphase nicht aktivierbar ist.
+Labor:
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 01/10/2175> und dem <[Pseudo] 07/10/2175>
+Blutbild
+Parameter
+
+Wert
+
+Normb / Dimension
+Datum
+Leukozyten
+8.41
+4 - 10 /nl
+B-DATE
+Hb
+9.3 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+3.0 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.280 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+93
+83 - 97 fl
+<[Pseudo] 07/10/75>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 07/10/75>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 07/10/75>
+RDW
+13.4
+12,9 - 18,7 %
+<[Pseudo] 07/10/75>
+hypochr.Erythroz.
+3.8 !H
+0 - 2 %
+<[Pseudo] 07/10/75>
+Thrombozyten
+224
+150 - 440 /nl
+<[Pseudo] 07/10/75>
+Elektrolyte & Nierenfunktionsparameter
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+145
+135 - 146 mmol/l
+<[Pseudo] 07/10/75>
+Kalium -LRB- ISE -RRB-
+4.44
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.26
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+1.82 !H
+0,6 - 1,7 mg/dl
+B-DATE
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+Harnstoff
+53 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+33.6 !L
+>60 s.u.
+B-DATE
+MDRD
+34.36
+ml/min/1,73qm
+<[Pseudo] 04/10/75>
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+Albumin quant.
+38.1
+30 - 50 g/l
+<[Pseudo] 04/10/75>
+Glucose
+108
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+34
+- <46 U/l
+B-DATE
+GPT/ALT
+23
+- <50 U/l
+B-DATE
+GGT
+66 !H
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.40
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+10.9 !H
+- <7 mg/dl
+B-DATE
+Triglyceride
+121
+- <150 mg/dl
+<[Pseudo] 04/10/75>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+Cholesterin
+96.0
+- alt.abh. mg/dl
+<[Pseudo] 04/10/75>
+LDL-Chol. -LRB- berechn. -RRB-
+51
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+21 !L
+>40 mg/dl
+B-DATE
+CRP
+88.5 !H
+- <5 mg/l
+B-DATE
+PCT sens.
+0.23 !H
+- <0,05 ng/ml
+<[Pseudo] 04/10/75>
+Hämolyse
+-
+
+<[Pseudo] 07/10/75>
+ikterisch
+-
+
+<[Pseudo] 07/10/75>
+Lipämie
+-
+
+<[Pseudo] 07/10/75>
+Aktivitätsparameter & Elektrophorese
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+LDH
+415 !H
+- <342 U/l
+B-DATE
+CK
+<NONE> !H
+- <190 U/l
+B-DATE
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+hs-TroponinT
+190 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+762 !H
+- <450 ng/l
+<[Pseudo] 01/10/75>
+Endokrinologie & Diabetologie
+
+
+Parameter
+Wert
+
+Normb / Dimension
+Datum
+HbA1c
+6.0
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+42
+20 - 42 mmol/mol
+<[Pseudo] 04/10/75>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+mittlere Glucose
+126 !H
+- <110 mg/dl
+B-DATE
+TSH
+0.540
+0,400 - 4,000 mU/l
+<[Pseudo] 04/10/75>
+Gerinnungsdiagnostik
+Parameter
+
+
+Wert
+
+Normb / Dimension
+Datum
+Quick
+87.1
+70 - 125 %
+<[Pseudo] 04/10/75>
+INR - ber.
+1.07
+- <1.2
+<[Pseudo] 04/10/75>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+aPTT
+23.4
+- <35 s
+B-DATE
+Urindiagnostik
+Parameter
+
+
+Wert
+
+Normb / Dimension
+Datum
+pH/Tstr.
+5.00 !L
+6,0 - 8,0
+<[Pseudo] 05/10/75>
+SpezGew/Tstr.
+1013
+1001 - 1035
+<[Pseudo] 05/10/75>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 05/10/75>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 05/10/75>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 05/10/75>
+Erys /Tstr.
+Ca 80
+- 0 Ery /µl
+<[Pseudo] 05/10/75>
+Eiweiß/Tstr.
+30.00
+- neg. mg/dl
+B-DATE
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 05/10/75>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 05/10/75>
+Leuko /Tstr.
+Ca 15
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+26.0 !H
+- <8 /µl
+B-DATE
+Leuko/µl
+55.0 !H
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+2.00
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+B-DATE
+Krist./µl
+47
+/µl
+B-DATE
+Blutgasanalyse
+Parameter
+
+
+Wert
+
+Normb / Dimension
+Datum
+pH
+7.38
+7,37 - 7,45
+B-DATE
+pO2
+64
+mmHg
+B-DATE
+pCO2
+41.2
+35 - 45 mmHg
+<[Pseudo] 04/10/75>
+Parameter
+Wert
+
+
+Normb / Dimension
+Datum
+BE/Std.
+-1.3
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+23.3
+mmol/l
+B-DATE
+Laktat
+9.0
+- <16 mg/dl
+<[Pseudo] 04/10/75>
+Zusammenfassung:
+
+
+
+
+
+
+Die Übernahme des Patienten erfolgte zur elektiven transfemoralen Aortenklappenimplantation bei kombiniertem Aortenklappenvitium mit führender hochgradiger Stenose. Die transfemorale Implantation einer Edwards-Sapien 3-Bioprothese am <[Pseudo] 02/10/2175> verlief komplikationslos. Der Verschluss der Leiste gestaltete sich ebenso problemlos.
+Bei Übernahme aus dem Herzkatheterlabor auf die kardiologische Wachstation spontan-atmende, spontan-atmender, beschwerdefreier Patient. Es erfolgte eine periinterventionelle Antibiose mittels Cefuroxim.
+Postinterventionell zeigte sich ein AV-Block III° mit intermittierender Schrittmacherabhängigkeit. Wir entscheiden uns daher zur Implantation eines 2-Kammer-Schrittmachers, der komplikationslose Eingriff erfolgte am <[Pseudo] 03/10/2174> in Lokalanästhesie. Ein Perikarderguss konnte postoperativ ausgeschlossen werden. Bezüglich des Weiteren Procederes verweisen wir auf den OP-Bericht der Implanteure.
+
+In der am Folgetag durchgeführten Echokardiographie zeigte sich die Aortenklappenprothese in Lage und Funktion regelrecht, in der Farbduplexsonographie der Leistengefäße ergab sich kein Hinweis auf ein Aneurysma spurium, eine AV-Fistel oder eine TVT im Bereich der Punktionsstellen beider Leisten.
+
+Bei Z. n. TAVI empfehlen wir die duale Thrombozytenaggregationshemmung aus ASS 100 mg tägl. in Kombination mit Clopidogrel 75 mg tägl. für 4 Wochen. Auf die Bedeutung einer lückenlosen Einnahme beider Präparate für diesen Zeitraum wurde explizit hingewiesen. Anschließend ist eine dauerhafte Thrombozytenaggregationshemmung aus ASS 100 mg tägl. erforderlich. Dem Patienten wurde ein Implantatausweis ausgehändigt. Er wurde über notwendige Verhaltensanweisungen informiert.
+
+
+Bei Übernahme auf internistische Normalstation Dyspnoeischer Patient mit 2 Liter Sauerstoffbedarf über die Nasenbrille. Grob neurologisch unauffällig.
+
+Bei erhöhtem CRP und PCT fand sich zunächst ein nitrit positiver Harnwegsinfekt und eine bereits prä TAVI bestehende Pneumonie als Ursache der Infektwerte, weshalb wir eine Antibiose mit Piperacillin/Tazobactam begannen und den DK entfernten. Hierrunter und unter negativbilanz kam es zu einer deutlichen Verbesserung der Retentions- und Infektwerte.
+
+Eine Schrittmacherabfrage zeigte sich unauffällig. Dem Patienten wurde ein Schrittmacherausweis ausgestellt und o.g. Termin vereinbart.
+
+Wir bitten um Entfernung des Nahtmaterials in der Leiste 10 Tage postoperativ.
+
+
+Außerdem bitten wir um Beachtung der lebenslangen Endokarditisprophylaxe nach den Leitlininien der B-ORG I-ORG I-ORG Kardiologie. Dem Patienten wurde hierzu ein Merkblatt ausgehändigt. Zur Endokarditisprophylaxe empfehlen wir eine gute Mundhygiene und regelmäßige zahnärztliche Kontrollen. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o.
+oder i.v. -RRB- oder bei Penicillinallergie mit Clindamycin -LRB- 600 mg p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen.
+
+Wir bitten um eine Wiedervorstellung zur TAVI-Kontrolle in sechs Monaten in unserer B-ORG I-ORG -LRB- Tel. B-PHONE -RRB- , der Termin hierfür wurde bereits für den <[Pseudo] 29/03/2176> um 08:30 Uhr in unserer B-ORG Ambulanz vereinbart. Bei unauffälligem Kontrolltermin kann dann eine jährliche ambulante Verlaufskontrolle erfolgen.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir verlegten den Patienten kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte stationäre Betreuung. Wir danken für die freundliche Übernahme. Für Rückfragen stehen wir jederzeit gerne zur Verfügung.
+Proc./Termine:
+
+- Fadenzug an Tag 10 post TAVI
+- Termin kardiologische Ambulanz wie oben angegeben
+- Termin Schrittmacherkontrolle am <[Pseudo] 19/11/2175> um 10:00 Uhr
+- Weitere vorstichtige Negativbilanz
+- Piperacillin/Tazobactam weiter und ggf. Umstellung nach Infektwerten
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100 mg 1-0-0
+Clopidogrel 75 mg 1-0-0
+Pantozol 20 mg 1-0-0
+
+Candesartan 8 2-0-2
+Torem 10 mg aktuell pausiert
+
+Nebilet 5 mg 1-0-1 gesteigert
+
+Moxonidin 0,3 1-0-1
+Fluvastatin 80 mg 0-0-1
+Pregabalin 25 mg aktuell pausiert
+Magnesium Drg. 1-0-1
+i.v.:
+
+Fuorsemid -UNK- mg -UNK- 40-20-0
+Piperacillin/Tazobactam 1-0-1
+s.c.:
+
+Clexane 0,4 0-0-1
+
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der B-ORG I-ORG I-ORG I-ORG -LRB- http://leitlinien.dgk.org -RRB- .
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir bedanken uns für die Überweisung und die vertrauensvolle Zusammenarbeit.
+Mit freundlichen kollegialen Grüßen
+
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Stationsarzt

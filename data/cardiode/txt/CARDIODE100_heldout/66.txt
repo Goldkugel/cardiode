@@ -1,0 +1,317 @@
+Aufnahmedatum: <[Pseudo] 2036-01-20 >
+Geburtsdatum: <[Pseudo] 1962-02-27 >
+Alter: 73
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 27/02/1962> wohnhaft in B-PLZ B-LOC I-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreiche Pulmonalvenenisolation in Cryo-Technik -LRB- B-OTHER vom <[Pseudo] 14/01/2036> -RRB-
+
+Diagnosen:
+- Paroxysmales Vorhofflimmern -LRB- ED <[Pseudo] 05/2035> -RRB-
+-UNK- EHRA: IIb
+-UNK- CHA2DS2-VASc: 5 Punkte
+-UNK- HAS-BLED: 3 Punkte
+-UNK- LA-Diameter: 62 mm -LRB- Echo vom <[Pseudo] 13/01/2036> -RRB-
+-UNK- LV-Funktion 30% -LRB- Echo vom <[Pseudo] 13/01/2036> -RRB-
+-UNK- Z.n. initial erfolgreicher elektrischer Kardioversion am <[Pseudo] 09/09/2035> -LRB- B-LOC -RRB-
+- Vorhofflattern -LRB- ED <[Pseudo] 10/2035> -RRB-
+- Koronare 3-Gefäßerkrankung
+-UNK- Erfolgreiche Rekanalisation der chronisch verschlossenen LAD mittels PTCA und 4-fach DE-Stentimplantation -LRB- B-OTHER v. <[Pseudo] 02/02/2029> -RRB-
+-UNK- Negativer Ischämienachweis -LRB- Kardio-MRT vom <[Pseudo] 02/02/2034> -RRB-
+- Leicht- bis mittelgradige Mitralklappen- & Trikuspidalklappeninsuffizienz -LRB- TTE <[Pseudo] 13/01/2036>
+- Leicht- bis mittelgradige Halsgefäßatherosklerose ohne relevante Stenose <[Pseudo] 11/2033>
+- Höhergradige Abgangsstenose des Truncus coeliacus -LRB- CT <[Pseudo] 05/2035> -RRB-
+- Z.n. Divertikulitis <[Pseudo] 05/2035>
+- Nierenzysten li., V.a. komplizierte Nierenzyste re.
+- Mehrere kleine Pseudozysten im Pankreas, am ehesten Autoimmunpankreatitis
+- M. Parkinson
+
+Kardiovaskuläre Risikofaktoren: Hypercholesterinämie, art. Hypertonie, Diabetes mellitus Typ II
+Allergien: anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur elektiven Pulmonalvenenisolation bei persistierendem Vorhofflimmern. Der Patient berichtet über Dyspnoe und Palpitationen bei Belastung. Es bestehe eine reduzierte körperliche Belastbarkeit im Alltag -LRB- 1 Etage Treppensteigen -RRB- ohne typische pectanginöse Beschwerden. Auf spezifische Nachfrage hin werden Schwindel und stattgehabte Synkopen verneint. Nachtschlaf sei mit flachem Oberkörper möglich. Bei bestehender Gewichtskonstanz finden sich bds. Knöchel- und Tibialödeme. Die häuslichen Blutdruckwerte lägen bei ca. 140/90 mmHg.
+
+Medikation bei Aufnahme:
+Apixaban 2,5 mg 1-0-1
+Metoprolol HCT comp. 77,81 / 12,5 mg 1-0-1
+Torasemid 10 mg 1-0-0
+Rosuvastatin 20 mg 0-0-0-1
+Metformin 500 mg 1-0-1
+Kalium Verla 780 mg 1-0-0
+Allopurinol 300 mg 0-1-0
+Tamsulosin 0,4 mg 1-0-0
+Ropinirol 4 mg 1-1-1
+Levodopa Benserazid 100/25 mg 1-0-1
+Levodopa Carbidopa 100/25 mg 1-2-2-1
+Clozapin 25 mg 0-0-0-1
+Clozapin 100 mg 0-0-0-1
+Pantoprazol 20 mg 1-0-0
+Nitro-Spray 0,4 mg bei Bedarf
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- 170 cm, 86 kg -RRB-
+HF: 90/min, regelmäßig
+RR: 120/60mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: bds. Knöchel- & Tibialödeme
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits gut tastbar
+Neurol. Status: grob orientierend unauffällig
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 13/01/2036:>
+Normofrequentes Vorhofflimmern, 91/min, Linkslagetyp. QRS 95ms, QTc 428ms. Verzögerte R-Progression, R/S Umschlag in V4/V5. Keine signifikanten Kammerendteilveränderungen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 13/01/2036:>
+Beurteilung: Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit global leicht bis mittelgradig eingeschränkter LV-Funktion und Hypokinesie aller Wandsegmente. Eingeschränkte longitudinale Funktion. Kein Hinweis auf eine relevante diastolische Funktionsstörung. Biatriale Dilatation, RV beginnend erweitert, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Leichtgradige zentrale Mitralklappeninsuffizienz, leichtgradige zentrale Trikuspidalklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist erhöht -LRB- ca. 50 mmHg -RRB- .
+Im Vergleich zur Voruntersuchung B-DATE: nun leicht- mittelgradig eingeschränkte LV Funktion.
+
+Transösophageale Echokardiographie vom <[Pseudo] 13/01/2036:>
+Beurteilung: Kein Nachweis intrakardialer Thromben. Verminderte Flussgeschwindigkeiten im linken Vorhofohr. Kein Hinweis auf ein Persistierendes Foramen ovale. Thrombogener Aortenbogen Grad I. Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit global leicht bismittelgradig eingeschränkter LV-Funktion und Hypokinesie aller Wandsegmente. Eingeschränkte longitudinale Funktion. Kein Hinweis auf eine relevante diastolische Funktionsstörung. Biatriale Dilatation, RV beginnend erweitert, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Leichtgradige zentrale Mitralklappeninsuffizienz, leichtgradige zentrale Trikuspidalklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist erhöht -LRB- ca. 50 mmHg -RRB- . Rechte untere Pulmonalvene nicht sicher darstellbar, übrige Pulmonalvenen münden regelrecht in den LA ein.
+
+Pulmonalvenenisolation -LRB- EPU-Nr. B-DATE I-DATE I-DATE vom <[Pseudo] 14/01/2036> -RRB- :
+2-fache Punktion der V. femoralis dextra. Vorführen eines steuerbaren, diagnostischen 4-poligen Katheters in den CS. Problemlose 1-fache transseptale Punktion. Einführen der FlexCath-Schleuse in das LA. Transnasales Einführen der Temperatursonde in den Ösophagus -LRB- FIAB -RRB- . Angiographie der LSPV, RSPV, LIPV und RIPV jeweils nach Inflation des Cryoballons. Isolation der lateralen Pulmonalvenen -LRB- LSPV 2, LIPV 1 -RRB- . Isolation der septalen Pulmonalvenen -LRB- RSPV 1, RIPV 1 -RRB- . Minimale Temperaturen und -UNK- time to isolation -UNK- in LSPV -LRB- -47°C/ns -RRB- , LIPV -LRB- -48°C/ns -RRB- , RSPV -LRB- -46°C/ns -RRB- und RIPV -LRB- -41°C/ns -RRB- . Kein Hinweis auf Parese des N. phrenicus -LRB- Kontrolle durch kontinuierliche Phrenicusstimulation -RRB- . Postablationem Nachweis eines Entranceblocks aller PVs. Im Anschluß elektr. CV in tiefer Propofol-Sedierung -LRB- 120J biphasisch -RRB- . Postinterventionell Ausschluss eines Perikardergusses durch Echokardiographie.
+Zusammenfassung: Pulmonalvenenisolation in Cryo-Technik.
+
+Echokardiographie nach PVI vom <[Pseudo] 15/01/2036:>
+Kein Perikarderguss nachweisbar.
+
+EKG nach PVI vom <[Pseudo] 15/01/2036:>
+Normofrequenter Sinusrhythmus, regelmäßig, 68/min, Linkslagetyp. PQ 195ms, QRS 101ms, QTc 441ms. Regelrechte R-Progression, R/S Umschlag in V4/V5. Keine signifikanten Kammerendteilveränderungen.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 13/01/2036> und dem <[Pseudo] 14/01/2036>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+<[Pseudo] 08/24> !H
+4 - 10 /nl
+B-DATE
+Hb
+10.8 !L
+13 - 17 g/dl
+<[Pseudo] 14/01/36>
+Erythrozyten
+3.7 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.320 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+86
+83 - 97 fl
+<[Pseudo] 14/01/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 14/01/36>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 14/01/36>
+RDW
+16.9
+12,9 - 18,7 %
+<[Pseudo] 14/01/36>
+hypochr.Erythroz.
+2.9 !H
+0 - 2 %
+<[Pseudo] 14/01/36>
+Thrombozyten
+207
+150 - 440 /nl
+<[Pseudo] 14/01/36>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 14/01/36>
+Kalium -LRB- ISE -RRB-
+4.07
+3,4 - 5,0 mmol/l
+<[Pseudo] 14/01/36>
+Calcium
+2.24
+2,11 - 2,59 mmol/l
+<[Pseudo] 14/01/36>
+Kreatinin
+0.98
+0,6 - 1,4 mg/dl
+<[Pseudo] 14/01/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+67 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+76.2
+>60 s.u.
+<[Pseudo] 14/01/36>
+MDRD
+83.08
+ml/min/1,73qm
+<[Pseudo] 13/01/36>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+44.2
+30 - 50 g/l
+<[Pseudo] 13/01/36>
+Glucose
+126 !H
+65 - 110 mg/dl
+<[Pseudo] 13/01/36>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 14/01/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 14/01/36>
+ikterisch
+-
+
+<[Pseudo] 14/01/36>
+Lipämie
+-
+
+<[Pseudo] 14/01/36>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+3.11
+0,400 - 4,000 mU/l
+<[Pseudo] 13/01/36>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+70.2
+70 - 125 %
+<[Pseudo] 13/01/36>
+INR - ber.
+1.16
+- <1.2
+<[Pseudo] 13/01/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+25.3
+- <35 s
+<[Pseudo] 13/01/36>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme des Patienten erfolgte zur elektiven Pulmonalvenenisolation bei persistierendem Vorhofflimmern.
+Nach echokardiographischem Ausschluss von intrakardialen Thromben konnte am <[Pseudo] 14/01/2036> eine komplikationslose Pulmonalvenenisolation in Cryo-Technik durchgeführt werden.
+Ein Perikarderguss konnte nach der Intervention mehrfach ausgeschlossen werden. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich kein Anhalt für Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstellen.
+
+Wir empfehlen auch bei stabilem Sinusrhythmus die Fortführung der oralen Antikoagulation mit Eliquis für mindestens 3 Monate. Wir erhöhten bei erholter Nierenfunktion, sowie Alter <80 Jahren und Gewicht von 80 Kg die Dosis auf 2x täglich 5mg. In drei Monaten sollte eine Re-Evaluation nach CHA2DS2-VASc-Score und HAS-BLED-Score durch den niedergelassenen Kardiologen erfolgen. Wir bitten um die Durchführung eines Langzeit-EKGs zur Befundkontrolle. Nach Pulmonalvenenisolation empfehlen wir die Einnahme eines Protonenpumpen-inhibitors für 10 Tage wie unten aufgeführt. Über die Blanking-Periode von 3 Monaten wurde der Patient ausführlich aufgeklärt. Wir empfehlen zunächst ein Fortführung der Betablocker-Therapie.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien, sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 16/01/2036> in Ihre geschätzte ambulante Betreuung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 3 Monaten in der B-ORG B-TITLE B-PER
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Apixaban 5 mg 1-0-1 Dosis erhöht, bitte Kontrolle der
+Nierenfunktionsparameter im Verlauf
+Metoprolol HCT comp. 77,81 / 12,5 mg 1-0-1
+Torasemid 10 mg 1-0-0
+Rosuvastatin 20 mg 0-0-0-1
+Metformin 500 mg 1-0-1
+Kalium Verla 780 mg 1-0-0
+Allopurinol 300 mg 0-1-0
+Tamsulosin 0,4 mg 1-0-0
+Ropinirol 4 mg 1-1-1
+Levodopa Benserazid 100/25 mg 1-0-1
+Levodopa Carbidopa 100/25 mg 1-2-2-1
+Clozapin 25 mg 0-0-0-1
+Clozapin 100 mg 0-0-0-1
+Pantoprazol 40mg 1-0-0 neu, Dosis erhöht, bis zum <[Pseudo] 25/01/2036>
+Nitro-Spray 0,4 mg bei Bedarf
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+
+
+
+
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

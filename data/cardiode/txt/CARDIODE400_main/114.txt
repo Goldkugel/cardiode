@@ -1,0 +1,70 @@
+Aufnahmedatum: <[Pseudo] 2037-11-26 >
+Geburtsdatum: <[Pseudo] 1980-04-04 >
+Alter: 57
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 04/04/1980> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Behandlung befand.
+
+Diagnosen:
+- Koronare Herzerkrankung ohne höhergradige Stenosen -LRB- B-OTHER v. <[Pseudo] 26/11/2037> -RRB-
+-UNK- Noch gute LV-Funktion
+- V.a. stenosierende koronare Herzerkrankung
+- Myokardszintigraphie: Grenzgradige belastungsinduzierte Perfusionsminderung der apikalen Vorderwand wie bei einer LAD-Stenose
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, positive Familienanamnese -LRB- Vater -RRB-
+Allergien: keine bekannt
+
+Anamnese:
+Die aktuelle Vorstellung des Patienten erfolgt zur Herzkatheteruntersuchung bei V.a. koronare Herzerkrankung. Seit 3-4 Monaten besteht bei starker Belastung ein thorakales Druckgefühl, welches auch bei starker psychischer Belastung auftritt -LRB- CCS II -RRB- . Signifikante Belastungsdyspnoe besteht nicht -LRB- NYHA I -RRB- . Im Rahmen einer ambulanten kardiologischen Vorstellung wurde eine Myokardszintigraphie empfohlen, hier zeigte sich eine grenzgradige belastungsinduzierte Perfusionsminderung der apikalen Vorderwand wie bei einer LAD-Stenose. Zudem zeigte sich ein erhöhtes LDL-Chol. Aufgrund der Gesamtkonstellation wurde die Indikation zur invasiven Abklärung gestellt.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 160 cm, 70 kg
+HF: 104/min, regelmäßig
+RR: 170/90 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein, keine patholog. Geräusche
+Lunge: bds. frei
+Periphere Ödeme: keine
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Herzfrequenz 92/min, Rechtstyp, PQ 138 ms, QRS 88 ms, QTc 393 ms. Frühes R in V2, S-Persistenz bis V6. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 26/11/2037> -RRB- :
+Befund folgt im endgültigen Brief.
+
+Zusammenfassung:
+In der Herzkatheteruntersuchung zeigte sich eine koronare Herzerkrankung ohne höhergradige Stenosen bei noch guter LV-Funktion. Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- .
+Dem Patienten wurde ein Implantatausweis ausgehändigt. Er wurde über notwendige Verhaltensanweisungen informiert.
+
+Procedere:
+Wir empfehlen bezüglich der Koronargefäße ein konservatives Procedere. Wir empfehlen die Fortführung der Thrombozytenaggregationshemmung mit ASS, der lipidsenkenden Therapie. Wir bitten um weitere Verlaufskontrolle des LDL-Cholesterins sowie CK und Transaminasen.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der unten aufgeführten medikamentösen Therapie. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Nächster Termin/Kontrolle:
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchungen, welche gerne auch bei einem niedergelassenen B-SALUTE durchgeführt werden können. Falls gewünscht kann hierfür auch ein Termin in unserer B-ORG I-ORG -LRB- Tel.: B-PHONE -RRB- vereinbart werden.
+
+Therapieempfehlung:
+ASS 100 1-0-0, dauerhaft
+Ramipril 5 -UNK- -0- -UNK-
+Rosuvastatin 10 0-0-1
+Pantozol 20 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 26/11/2037> in Ihre geschätzte ambulante Betreuung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die Überweisung und vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

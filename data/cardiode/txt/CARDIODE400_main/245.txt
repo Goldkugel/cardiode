@@ -1,0 +1,81 @@
+Aufnahmedatum: <[Pseudo] 2033-05-31 >
+Geburtsdatum: <[Pseudo] 1980-05-25 >
+Alter: 53
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 25/05/1980> wh. B-PLZ B-LOC B-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Regelrechte kardiologische Verlaufskontrolle bei Z. n. PFO-Verschluss am <[Pseudo] 06/07/2032>
+-UNK- Schirmchen-Occluder soweit von transthorakal beurteilbar regelrecht
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Z.n. PFO-Verschluss mittels Schirmchen-Device -LRB- 23/25 Occlutech -RRB- -LRB- B-OTHER -RRB- am <[Pseudo] 06/07/2032>
+-UNK- Z.n. persistierendem Foramen ovale mit Vorhofseptumaneurysma
+- Leichtgradige Mitralklappeninsuffizienz
+- Leichtgradige Trikuspidalklappeninsuffizienz.
+- Z.n. bihemisphärischen punktförmigen Ischämien, am ehesten bei paradoxen Embolien bei PFO und Thrombophilie, ED <[Pseudo] 27/04/2032>
+-UNK- Dysarthrie
+-UNK- Feinmotorikstörung der linken Hand und Gangunsicherheit
+- Faktor V-Leiden-Mutation
+- Plane bifurkationsbetonte echoreiche Arteriosklerose der Carotiden ohne hämodynamisch relevante Stenosen -LRB- FDS <[Pseudo] 04/2032> -RRB-
+- Asthma bronchiale
+- Z.n. Hemithyreodektomie links
+- Innenohrschwerhörigkeit bds. mit Hörgeräten versorgt
+- Rezidivierende depressive Störung
+
+Kardiovaskuläre Risikofaktoren: arterielle Hypertonie, Hypercholesterinämie
+Allergien: Fragliche Nickelallergie, fragliche Penicillinallergie
+Anamnese:
+Die ambulante Vorstellung erfolgt zur kardiologischen Verlaufskontrolle bei Zustand nach PFO-Verschluss am B-DATE Im Alltag bestehe eine gute Belastbarkeit. Die Patientin treibe regelmäßig Sport ohne inadäquate Belastungsdyspnoe. Es bestehen keine typischen pectanginösen Beschwerden bei Belastung oder in Ruhe. Gelegentlich trete in Ruhe ein stechender thorakaler Schmerz auf, der durch Bewegung in der Schulter bzw. auch durch Druck provoziert werden könne. Eine orthopädische Abklärung mit Bildgebung der Schulter sei bereits initiiert. Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestehe keine relevante Nykturie. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Keine häuslichen Blutdruckmessungen. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Bisherige Medikation:
+ASS 100 mg 1-0-0
+Candesartan 8 mg 1-0-0
+Atorvastatin 40 mg 0-0-1
+Eszitalopram 10 mg 1-0-0
+Symbicort DA 160/4,5µg 1-0-0
+Salbutamol DA bei Bedarf
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 178cm, 85kg
+HF: 63/min, regelmäßig
+RR: 125/70 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 63/min, Indifferenztyp. PQ 132ms, QRS 79ms, QTc 405ms. Regelrechte R-Progression, R/S Umschlag in V2/V3, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Transthorakale Echokardiographie:
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LV Funktion. Schirmchen -LRB- 23/25 Occlutech -RRB- in loco typico und soweit von transthorakal beurteilbar ohne pathologischen Befund. LA, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, mit guter Separation und leichtgradiger zentraler Insuffizienz. Leichtgradige Mitral- und leichtgradige Trikuspidalklappeninsuffizienz. Im Vgl zur Voruntersuchung: Keine wesentl. Befundänderung.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur kardiologischen Verlaufskontrolle bei Zustand nach PFO-Verschluss am B-DATE. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Echokardiographisch fand sich eine gute linksventrikuläre Pumpfunktion ohne relevante Klappenvitien. Das Schirmchen zeigte sich soweit von transthorakal beurteilbar regelrecht.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem weiterhin guten Ergebnis nach PFO-Verschluss aus und empfehlen daher eine Fortführung der konservativen Therapie.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie.
+
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchungen bei B-SALUTE B-TITLE B-PER Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+Aktuelle Medikation -LRB- unverändert -RRB- :
+ASS 100 mg 1-0-0
+Candesartan 8 mg 1-0-0
+Atorvastatin 40 mg 0-0-1
+Eszitalopram 10 mg 1-0-0
+Symbicort DA160/4,5µg 1-0-0
+Salbutamol DA bei Bedarf
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

@@ -1,0 +1,451 @@
+Aufnahmedatum: <[Pseudo] 2039-10-19 >
+Geburtsdatum: <[Pseudo] 1960-05-01 >
+Alter: 79
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 01/05/1960> wh. B-PLZ B-LOC I-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Anämie unklarer Genese
+-UNK- Hb-Abfall von 7 stabil 6,7 g/dl nach Koro am <[Pseudo] 27/09/2039> und PTA am <[Pseudo] 08/10/2039>
+-UNK- Transfusion von 2 EKs am <[Pseudo] 16/10/2039> -LRB- Hb-Anstieg auf 8,3 g/dl -RRB-
+-UNK- Aktueller Hb vom <[Pseudo] 19/10/2039> bei 9,5 g/dl
+- Myokardschaden, a. e. im Rahmen der chronischen Niereninsuffizienz DD bei Anämie
+-UNK- Ad zeitnahe Kontrolle des Troponins beim niedergelassenen Kardiologen
+- V.a. Claudicatio spinalis bei intermittierenden Hypästhesien in beiden Beinen
+-UNK- Kein akuter neurochirurgischer Handlungsbedarf
+- Akut auf chronisches Nierenversagen
+-UNK- GFR aktuell: 26,9
+-UNK- Ad Kontrolle der Nierenretentionsparameter im Verlauf beim Hausarzt
+-UNK- Wir bitten um engmaschige GFR-Kontrollen durch den Hausarzt
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung mit hochgradiger Endhaupstamm- LAD-Stenose
+-UNK- Erfolgreiche PTCA und 1-fach DE-Stentinimplantation -LRB- Promus -RRB- des Endhauptstamms + LAD Abgang, sowie PTCA und 2-fach DE-Stentimplantation des LCX-Abgangs mit Crush und anschließender kissing-balloon-Technik unter intravaskulärer sonographischer Kontrolle -LRB- B-OTHER v. <[Pseudo] 28/09/2039> -RRB-
+- 50 %ige Endhauptstammstenose mit 50 %iger LAD Abgangsstenose, hochgradiger Abgangsstenose bei der Rami Intermedi I und 75%ige LCX Abgangsstenose. Hochgradig langstreckige Stenosierung des Ramus diagonalis. Subtotal eines kleinen Maginal astes. LVEDP normal, mittelgradige Aortenklappenstenose -LRB- KÖF1,2-1,3 cm² -RRB- . SVO2 61%, Cardiac Index 1,3 -LRB- B-OTHER v. <[Pseudo] 27/09/2039> -RRB-
+- Paroxsmales Vorhofflimmern -LRB- ED <[Pseudo] 2038> -RRB- und intermittierende Bradyarrythmia absoluta -LRB- HF bis 38/min -RRB-
+-UNK- EHRA: II
+-UNK- CHADSVASc: 4
+-UNK- HAS BLED: 3
+-UNK- LA-Diameter: 52 mm -LRB- TTE vom <[Pseudo] 25/09/2039> -RRB-
+-UNK- LV-Funktion: gut -LRB- TTE vom <[Pseudo] 25/09/2039> -RRB-
+-UNK- Keine Pausen > 5s im Langzeit-EKG v. <[Pseudo] 02/10/2039>
+- pAVK im Stadium II nach Fontaine vom Mehretagentyp links
+-UNK- Erfolgreiche Rotationsatherektomie/PTA der A. iliaca externa, A. femoralis superficialis und A. poplitea, 2xBM-Stentimplantation der langstreckig hochgradig verkalkten A. fem. sup. links -LRB- B-OTHER v. <[Pseudo] 25/10/2038> -RRB-
+-UNK- Aneurysmata der A. iliaca communis und A. femoralis communis links
+-UNK- Z. n. Rekanalisation der A. femoralis superficialis rechts bei langstreckigem abgangsnahem Verschluss mittels Reentry-Device, PTA und 4-fach Stentimplantation -LRB- 1xBMS -LRB- Life -RRB- , 3xDES -LRB- Zilver PTX -RRB- -RRB- -LRB- B-OTHER vom <[Pseudo] 25/03/2030> -RRB-
+-UNK- Z. n. Misago-Stentimplantation der A. iliaca externa links, sowie PTA/ Supera-Stentimplantation der distalen A. femoralis superficialis links; Nachdilatation bei Restdissektion mittels DE-Ballon -LRB- BBA# B-OTHER vom <[Pseudo] 18/03/2030> -RRB- .
+-UNK- Z. n. PTA und Stentimplantation der distalen AFS links, sowie PTA einer Abgangsstenose
+- pAVK Stadium IIb rechts
+-UNK- PTA/1-fach BM-Stentimplantation der A. fem. Com. Und A. fem. Superficilialis rechts am <[Pseudo] 08/10/2039>
+-UNK- PTA der beiden profundae femoris
+-UNK- ABI links 0,4
+- Z. n. Akut exazerbierte COPD
+-UNK- Kortisonstoßtherapie v. <[Pseudo] 24/09/2039> bis <[Pseudo] 29/09/2039>
+-UNK- Empirische Antibiose mit Ceftriaxon v. <[Pseudo] 24/09/2039> <[Pseudo] 29/09/2039>
+- Z. n. Akut auf chronisches Nierenversagen a.e. KM-induziert
+- Latente Hypothyreose
+- OSAS mit Heim-CPAP Versorgung
+- Geringgradige ACI-Abgangsstenose links
+- Polymyalgia rheumatica -LRB- anamnestisch -RRB-
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, sistierter Nikotinabusus -LRB- kumulativ ca. 30 PY -RRB- , pos. Familienanamnese -LRB- Vater mit Myokardinfarkt im Alter von ca. 79 Jahren, Schlaganfall mit ca. 79 79 Bruder mit KHK und Stenteinlage im Alter von ca. 79 79 -RRB-
+
+Allergien: Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG bei V.a. Nachblutung aus der Punktionsstelle unter Triple-Therapie -LRB- ASS 100mg, Clopidogrel 75mg, Xarelto 2,5mg -RRB- bei Z.n. PTCA am <[Pseudo] 28/09/2039> und Becken-Bein-Angiographie am <[Pseudo] 08/10/2039> mit Stent-Implantation.
+Bei Aufnahme berichtet der Patient über ein intermittierend auftretendes Taubheitsgefühl von beiden Leisten ausgehend, in die Skrotalregion, über die lateralen Oberschenkel bis in die Füße ziehend. Die Beschwerden bestünden seit der letzten Entlassung von B-ORG I-ORG am letzten Dienstag -LRB- <[Pseudo] 09/10/2039> -RRB- . Das Taubheitsgefühl besteht v.a. beim Laufen, ist aber im linken Bein auch in Ruhe leicht vorhanden. Zusätzlich berichtet der Patient von Parästhesien in Form von einem Kribbelgefühl in beiden Beinen. Schmerzen bestünden allerdings keine.
+Ferner berichtet B-SALUTE B-PER über eine leicht eingeschränkte körperliche Belastbarkeit im Alltag -LRB- 2 Etagen -RRB- beschrieben, limitiert vor allem durch eine inadäquate Belastungsdyspnoe -LRB- NYHA II -RRB- . Auf spezifische Nachfrage hin werden belastungsinduzierte pectanginösen Beschwerden oder stattgehabte Synkopen verneint. Darüber hinaus berichtet B-SALUTE B-PER über gelegentlich auftretende Palpitationen, die selbstlimitierend seien. Die häuslichen Blutdruckmessungen seien bei ca. 140/70mmHg. Bei aktueller Gewichtskonstanz werden keine peripheren Ödeme angegeben bei leichter Nykturie -LRB- 1-2x/Nacht -RRB- . Klinische Zeichen eines Infekts bestünden keine.
+
+Medikation bei Aufnahme:
+ASS 100mg 1-0-0, bis zum <[Pseudo] 28/10/2039> danach absetzen
+Clopidogrel 75mg 1-0-0, bis zum <[Pseudo] 27/09/2040> danach absetzen
+Xarelto 2,5mg 1-0-1, bis zum <[Pseudo] 28/10/2039> danach absetzen
+Xarelto 15mg 1-0-0, ab dem <[Pseudo] 28/10/2039> dauerhaft
+Bei GFR > 50ml/min bitte Dosisanpassung auf 20mg/d ab dem <[Pseudo] 28/09/2040>
+
+Candesartan 8mg 1-0-0
+Torem 10mg 1-0-0
+Kalinor retard 600mg 2-1-1
+Atorvastatin 80mg 0-0-1
+Pantozol 40mg 1-0-0
+Spiolto 2,5µg 2-0-0
+Vianti nach fachärztlicher Maßgabe
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+gut -LRB- 185 cm und 92 kg -RRB-
+HF: 66/min, unregelmäßig
+RR: xxx / xx mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein, keine path. Geräusche
+Lunge: o.B.
+Abdomen: weich, kein DS, keine Resist
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: schwer zu tasten, bekannte pAVK
+Neurologischer Status: Hypästhesie in beiden Beinen von der Leiste in die Füße ziehend beim Laufen. In Ruhe leichtes Taubheitsgefühl im linken Bein. Dieses ist auch deutlich kühler. Keine Kraftminderung in den Beinen nachweisbar.
+sonstige Auffälligkeiten: Hämatom in der linken Leiste bis in die Skrotalregion ziehend.
+
+Neurochirurgisches Konsil vom <[Pseudo] 15/10/2039:>
+Aufgrund fehlender fokal-neurologischer Defizite und relevanter vegetativer Störungen aktuell kein notfallmäßiger neurochirurgischer Handlungsbedarf. Die geschilderte Symptomatik ist u.U. mit einer Claudicatio spinalis vereinbart -LRB- DD intermittens bei bekannter pAVK -RRB- .
+Prozedere:
+- Konservatives Procedere mit Physiotherapie und bedarfsgerechter Analgesie mittels Ibuprofen 3 x 600 mg / Tag und Metamizol 1000 mg bei Bedarf bis max. 4 x / 24 h, begleitend Pantoprazol 40 mg 1-0-0; bitte ggf. hausärztlicherseits anpassen
+- bei fehlender Besserung innerhalb von 2-3 Wochen bitte ambulante MRT der LWS ergänzen und bei pathologischem Befund anschließend Wiedervorstellung mit den Bildern in unserer B-ORG I-ORG -LRB- Terminvereinbarung B-PHONE -RRB-
+- bei Auftreten neuer fokal-neurologischer Defizite oder Blasen-/Mastdarmfunktionsstörungen bitte zeitnahe Wiedervorstellung in unserer Notfallambulanz
+
+Angiologische Verlaufskontrolle nach Femoralispunktion links am <[Pseudo] 15/10/2039:>
+Anamnese:
+Kontrolle nach BBA vom B-DATE. Patient mit anamn. Zunahme des oberflächlichen Hämatoms und Druckschmerz in der punktierten Leiste sowie passageren kompletten Taubheitsgefühl in beiden Leisten bzw. kompletten Beckenbereich.
+Lokalbefund:
+Punktionsstelle reizlos, oberflächliches Hämatom auslaufend zum Mons pubis und in die untere Flanke, kein tiefes Hämatom DD Schwellung tastbar. Leistenpuls kräftig palpabel.
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der linken Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+Ruhe-EKG vom <[Pseudo] 15/10/2039>
+Absolute Arrhythmie bei Vorhofflimmern, 66/min, Steiltyp. QRS 108msec., QTc 399msec. Verzögerte R-Progression, R/S Umschlag in V4/V5, S-Persistenz bis in V6. Unspezifische Knotung in II, III, aVF, V1-3. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 16/10/2039>
+Absolute Arrhythmie bei Vorhofflimmern, 72/min, Steiltyp. QRS 122msec., QTc 396 ms. Verzögerte R-Progression, R/S Umschlag in V5/V6, S-Persistenz bis in V6. Unspezifische Knotung in II, III,, aVF, V1-3. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 18/10/2039>
+Absolute Arrhythmie bei Vorhofflimmern, 76/min, Steiltyp. QRS 113 msec., QTc 413 msec. Verzögerte R-Progression, R/S Umschlag in V5/V6, S-Persistenz bis in V6. Unspezifische Knotung in II, III, aVR, aVF, V1-3. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 19/10/2039>
+Absolute Arrhythmie bei Vorhofflimmern, 68/min, Steiltyp. QRS 124 msec., QTc 397 msec. Verzögerte R-Progression, R/S Umschlag in V4/V5, S-Persistenz bis in V6. Unspezifische Knotung in II, III, aVR, aVL, aVF, V1-3. Keine signifikanten Kammerendteilveränderungen. Eine VES
+
+
+Transthorakale Echokardiographie vom <[Pseudo] 19/10/2039:>
+Normal großer, konzentrisch deutlich hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Kein Hinweis auf eine relevante diastolische Funktionsstörung des LV. LA dilatiert, RA dilatiert, RV noch normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenwurzel normal weit. Aortenklappe trikuspid, deutlich verdickt und verkalkt mit verminderter Separation. Dopplersonographisch kombiniertes Aortenvitium mittleren Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 1,3 cm², PPG 40 mmHg, MPG 21 mmHg -RRB- . Mitralklappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung insbesondere am Ansatz des anterioren Segels. Leichtgradige Trikuspidalklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist im Normbereich -LRB- 25mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 19/10/2039:> Keine wesentliche Befundänderung.
+
+Virologischer Befund vom <[Pseudo] 15/10/2039> -LRB- CPU -RRB- :
+
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2039> und dem B-DAY B-MONTH <[Pseudo] 2039>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.87
+4 - 10 /nl
+B-DATE
+Hb
+9.5 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+2.9 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.280 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+95
+83 - 97 fl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 18/10/39>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 18/10/39>
+RDW
+18.6
+12,9 - 18,7 %
+<[Pseudo] 18/10/39>
+hypochr.Erythroz.
+3.0 !H
+0 - 2 %
+<[Pseudo] 18/10/39>
+Thrombozyten
+314
+150 - 440 /nl
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+134 !L
+135 - 146 mmol/l
+<[Pseudo] 18/10/39>
+Kalium -LRB- ISE -RRB-
+4.23
+3,4 - 5,0 mmol/l
+<[Pseudo] 18/10/39>
+Kreatinin
+2.29 !H
+0,6 - 1,4 mg/dl
+<[Pseudo] 18/10/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+55 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+26.2 !L
+>60 s.u.
+B-DATE
+MDRD
+34.96
+ml/min/1,73qm
+<[Pseudo] 16/10/39>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+39.4
+30 - 50 g/l
+<[Pseudo] 16/10/39>
+Glucose
+111 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+35
+- <46 U/l
+B-DATE
+GPT/ALT
+20
+- <50 U/l
+B-DATE
+Ges.Bili.
+1.00 !H
+- <1.0 mg/dl
+<[Pseudo] 16/10/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+CRP
+22.1 !H
+- <5 mg/l
+<[Pseudo] 16/10/39>
+PCT sens.
+0.11 !H
+- <0,05 ng/ml
+<[Pseudo] 15/10/39>
+Hämolyse
+-
+
+<[Pseudo] 18/10/39>
+ikterisch
++
+
+<[Pseudo] 18/10/39>
+Lipämie
+-
+
+<[Pseudo] 18/10/39>
+
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+LDH
+232
+- <342 U/l
+B-DATE
+CK
+170
+- <190 U/l
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+196 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+8943 !H
+- <450 ng/l
+<[Pseudo] 15/10/39>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+TSH
+<NONE> !H
+0,400 - 4,000 mU/l
+<[Pseudo] 18/10/39>
+FT3
+2.28
+2,0 - 4,2 ng/l
+<[Pseudo] 15/10/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+FT4
+9.36
+8 - 18 ng/l
+<[Pseudo] 15/10/39>
+Gerinnungsdiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+82.8
+70 - 125 %
+<[Pseudo] 16/10/39>
+INR - ber.
+1.09
+- <1.2
+<[Pseudo] 16/10/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+aPTT
+23.3
+- <35 s
+<[Pseudo] 16/10/39>
+Blutgasanalyse
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH
+7.38
+7,37 - 7,45
+B-DATE
+pO2
+23
+mmHg
+B-DATE
+pCO2
+33.0 !L
+35 - 45 mmHg
+<[Pseudo] 15/10/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-5.6 !L
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+19.1
+mmol/l
+B-DATE
+Laktat
+<NONE> !H
+- <16 mg/dl
+B-DATE
+
+
+
+
+
+
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG -LRB- CPU -RRB- bei V.a. Nachblutung aus der Punktionsstelle unter Triple-Therapie -LRB- ASS 100mg, Clopidogrel 75mg, Xarelto 2,5mg -RRB- bei Z. n. PTCA am <[Pseudo] 28/09/2039> und Becken-Bein-Angiographie am <[Pseudo] 08/10/2039> mit Stent-Implantation.
+
+In der CPU war der Patient im Wesentlichen oligosymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 103 pg/ml, im Verlauf 118 pg/ml bei kardialer Beschwerdefreiheit.
+
+Laborchemisch zeigte sich eine milde Entzündungskonstellation -LRB- CRP 26,4 mg/l, Leukozyten normwertig , PCT bei 0,11 ng/ml, afebril, klinsich kein Infektfokus -RRB- . Das NT-pro-BNP fand sich altersadjustiert erhöht bei 8943 jedoch deutlich fallend im Vergleich zum Vorwert vor 3 Wochen von 23300 ng/l. Es zeigte sich eine latente Hypothyreose. Wir bitten um eine ambulante laborchemische Verlaufskontrolle der Schilddrüsenwerte mit ggf. Einleitung einer medikamentösen Therapie durch den Hausarzt.
+
+In der angiologischen Kontrolle zeigte sich kein Hinweis auf ein Aneurysma spurium, eine AV Fistel oder TVT im Bereich der Punktionsstelle der linken Leiste. Weiterhin zeigte sich kein Anhalt für eine akute Einblutung. Bei einem Hb-Abfall von 7,7 g/l -LRB- am <[Pseudo] 09/10/2039> -RRB- auf 6,7 g/dl erfolgte die Gabe von 2 Eks am <[Pseudo] 16/10/2039> worunter sich der Hb im weiteren stationären Verlauf auf 9,5 g/dl stabilisierte. Eine weitergehende Abklärung einer möglichen Blutungsquelle blieb unauffällig, insbesondere ergab sich kein Anhalt auf eine GI-Blutung bei unauffälligem iFOBT. In Zusammenschau besteht aktuell kein Hinweis auf eine Blutung.
+
+Bei unklaren Parästhesien in den Leisten und in den Beinen erfolgte ein neurochirurigsches Konsil. Hier stellte sich der V.a. Claudicatio spinalis ohne neurochirurgischen Handlungsbedarf. Noch in der B-ORG I-ORG I-ORG sistierten die Beschwerden von alleine. In den weiteren klinischen Kontrollen zeigten sich keine fokal-neurologische Defizite. Insbesondere bestanden keine vegetativen Störungen. Wir empfehlen weitergehend ein konservatives Prozedere mit Physiotherapie und bedarfsgerechter Analgese. Bei wiederkehrenden Beschwerden bitten wir um die Re-Evaluation einer ambulanten MRT-Durchführung des LWS und ggf. Wiedervorstellung mit den Bildern in unserer B-ORG Ambulanz. Ein Termin kann unter der B-PHONE vereinbart werden. Bei Auftreten neuer fokal-neurologischer Defizite oder Blasen-/Mastdarmfunktionsstörungen bitten wir um die zeitnahe Wiedervorstellung in unserer Notfallambulanz.
+
+Im stationären Verlauf zeigte sich das Troponin erhöht undulierend. Zur weiteren Diagnostik erfolgte die Durchführung einer Echokardiographie am B-DATE. Hierbei konnte kein Anhalt für regionale Kontraktionsstörungen nachgewiesen werden. Insgesamt konnte keine wesentlich Befundänderung zum Echobefund vom <[Pseudo] 25/09/2039> gezeigt werden. Beim Fehlen von AP-Beschwerden, infarkttypischen Ischämiezeichen im EKG und bei letztmalig durchgeführter Herzkatheteruntersuchung am <[Pseudo] 28/09/2039> sahen wir von einer weitergehenden invasiven Abklärung ab. Die erhöhten Troponin-Werte werteten wir a.e. im Rahmen der bekannten Niereninsuffizienz und der kardialen Grunderkrankung.
+
+Auf Wunsch des Patienten empfehlen wir eine ambulante Weiterbehandlung und Beobachtung der Laborwerte im Verlauf. Hierfür bitten wir um eine zeitnahe Kontrolle des Troponins beim niedergelassenen Kardiologen, sowie eine Kontrolle der Nierenretentionsparameter im Verlauf und ggf. Anpassung der medikamentösen Therapie im Verlauf. Wir bitten um engmaschige GFR-Kontrollen durch den Hausarzt
+
+Zur Stentverschlussprophylaxe und Antikoagulation verweisen wir freundlicherweise auf den Arztbrief des letzten stationären Aufenthalts vom <[Pseudo] 23/09/2039> bis <[Pseudo] 09/10/2039> in domo. Über die Notwendigkeit einer lückenlosen Einnahme einer Thrombozytenaggregationshemmung zur Vermeidung eines In-Stent-Verschlusses wurde ausführlich aufgeklärt. Dem Patienten wurde ein Implantatausweis ausgehändigt. Er wurde über notwendige Verhaltensanweisungen informiert.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+ASS 100mg 1-0-0, bis zum <[Pseudo] 28/10/2039> danach absetzen
+Clopidogrel 75mg 1-0-0, bis zum <[Pseudo] 27/09/2040> danach absetzen
+Xarelto 2,5mg 1-0-1, bis zum <[Pseudo] 28/10/2039> danach absetzen
+Xarelto 15mg 1-0-0, ab dem <[Pseudo] 28/10/2039> dauerhaft
+Bei GFR > 50ml/min bitte Dosisanpassung auf 20mg/d ab dem <[Pseudo] 28/09/2040>
+
+Candesartan 8mg 1-0-0
+Torem 10mg 1-0-0, bitte Re-Evaluation im Verlauf
+Kalinor retard 600mg 2-1-1, nach Kalium, bitte ggf. Dosisanpassung
+Atorvastatin 80mg 0-0-1
+Pantozol 40mg 1-0-0
+Spiolto 2,5µg 2-0-0
+Vianti nach fachärztlicher Maßgabe
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen den Patienten heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

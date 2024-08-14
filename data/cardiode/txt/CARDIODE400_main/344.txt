@@ -1,0 +1,112 @@
+Aufnahmedatum: <[Pseudo] 2033-03-24 >
+Geburtsdatum: <[Pseudo] 1969-09-06 >
+Alter: 63
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 06/09/1969> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+
+Aktuell:
+- Negativer Ischämienachweis im Stress-Kardio-MRT vom <[Pseudo] 10/03/2033>
+-UNK- Gute systolische LV-Funktion -LRB- EF 60% -RRB-
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung mit global guter linksventrikulärer Pumpfunktion -LRB- B-OTHER vom <[Pseudo] 20/10/2032> -RRB-
+-UNK- Gute LV-Funktion
+-UNK- 50-75%ige RD1 Stenose
+-UNK- 50%ige RM Stenose
+- Koronare Herzerkrankung mit Z.n. PTCA/Stent -LRB- vor ca 6 Jahren -RRB-
+- Ausschluss Lungenarterienembolie -LRB- CT+KM <[Pseudo] 09/10/2032> KH I-ORG -RRB-
+- Ausschluss Myokardinfarkt -LRB- B-ORG -RRB-
+- Gute LVF, konzentrische LV-Hypertrophie, Relaxationsstörung -LRB- TTE <[Pseudo] 06/10/2032> B-ORG -RRB-
+- BWK 6-8 Fraktur
+- COPD
+- Lungenemphysem -LRB- Kombinierte restriktiv obstruktive Ventilationsstörung -RRB-
+- Hypothyreose
+- Nabelhernien OP <[Pseudo] 02/2027>
+- Leistenhernien OP <[Pseudo] 06/2030>
+
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hyperlipidämie, Adipositas, Nikotinanamnese -LRB- py 40 -RRB-
+Allergien: keine bekannt
+
+Anamnese:
+Die ambulante Vorstellung erfolgte zur Befundbesprechung nach bildgebendem Ischämienachweis bezüglich der RD1 Stenose und RM Stenose bei bekannter koronarer Herzerkrankung. Im Alltag bestünde eine reduzierte Belastbarkeit ohne inadäquate Belastungsdyspnoe nach 2 Etagen Treppensteigen -LRB- NYHA II-III -RRB- . Es bestünden keine belastungsabhängigen und -unabhängigen pectanginösen Beschwerden. Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestünde keine Nykturie bei ca. einmaliger Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz vorbekannt und aktuell persistent. Die Kompressionstherapie wird aktuell adäquat durchgeführt. Die häuslichen Blutdruckmessungen ergäben Werte um 110/70 mmHg. Subjektiv bestünde seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Aktuelle Medikation:
+ASS 100 mg 1-0-0 dauerhaft
+Candesartan 32 mg -UNK- -0-0
+Bisoprolol 5 mg 1 -0-0
+Torasemid 10 mg 1-0-0
+Atorvastatin 60 mg 0-0-1
+Ezetimib 10 mg 0-0-1
+L-Thyroxin 75 µg 1-0-0
+Fomoterol 12,5 µg 1-0-1
+Spiriva/Resp 2,5 1-0-0
+Berodual 0,021/0,05 mg b. Bedarf
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 182cm 82kg
+HF: 57/min, regelmäßig
+RR: 125/80 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+
+
+Ruhe-EKG:
+Bradykarder Sinusrhythmus, HF 57/min, überdrehter-linkstyp. PQ 147 ms, QRS 120 ms, QTc 380 ms. Regelrechte R-Progression, R/S Umschlag in V4/V5, S-Persistenz bis in Ableitung V6. Linksanteriorer Hemiblock. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Pharmakologisches Stress-Kardio-MRT:
+Beurteilung:
+Normal großer, septal betont hypertrophierter linker Ventrikel mit global guter systolischer Funktion und
+eingeschränkter longitudinaler Funktion. LA und RA normal groß. Normal großer, hypertrophiert und leicht hypertrabekularisierter rechter Ventrikel mit guter systolischer Funktion.
+Kein Nachweis eines Perfusionsdefizits in der Regadenoson-Stressuntersuchung -LRB- 400 microgramm -RRB- .
+Nachweis eines infarkt-atypischen Late Gadolinium Enhancements inferolateral basal sowie inferoseptal und anteroseptal mittventrikulär. Grenzwertige T1-Relaxationszeiten -LRB- T1 -UNK- 3T 1252 +- 113 msec -RRB- .
+Nebenbefunde
+Degenerative Wirbelsäulenveränderungen. Dilatierter Truncus pulmonalis -LRB- 31 mm -RRB- .
+Zusammenfassung:
+- Negativer Ischämienachweis.
+- Normal großer, septal betont hypertrophierter linker Ventrikel mit global guter systolischer Funktion -LRB- LV EF 61% -RRB- .
+- Nachweis einer unspezifischen Myokardfibrose inferolateral basal sowie inferoseptal mittventrikulär.
+Zudem Nachweis eines infarkt-atypischen LGE anteroseptal mittventrikulär.
+- Bei LV-Hypertrophie mit eingeschränkter longitudinaler Funktion und grenzwertigen T1-Relaxationszeiten kann eine MR-Verlaufskontrolle diskutiert werden.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Befundbesprechung nach bildgebendem Ischämienachweis bezüglich der 50-75%ige RD1 Stenose und 50%ige RM Stenose bei bekannter koronarer Herzerkrankung. In der durchgeführten Stress-MRT-Untersuchung zeigte sich ein negatives Ergebnis. Subjektiv wird weiterhin von einem klinisch reduzierten kardialen Verlauf berichtet. Die Beschwerden scheinen jedoch primär respiratorisch bedingt. Der Patient sei aktuell in Pneumologischer Behandlung und strebt weiterhin eine Nikotinkarenz an.
+
+Bei diagnostizierter LV-Hypertrophie mit eingeschränkter longitudinaler Funktion und grenzwertigen T1-Relaxationszeiten in der durchgeführten MR-Untersuchung empfehlen wir die MR-Verlaufskontrolle in 12 Monaten.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher die Fortführung der bestehenden medikamentösen Therapie.
+
+Wir empfehlen zudem die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien und nach Möglichkeit die regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten beispielsweise in Form von B-ORG I-ORG Radfahren, Schwimmen, Tanzen oder Ergometertraining.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen, sowie die regelmäßige hausärztliche Vorstellung. Bei Auftreten von Beschwerden oder Komplikationen sind wir gerne bereit, den Patienten/die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung:
+ASS 100 mg 1-0-0, dauerhaft
+Candesartan 32 mg -UNK- -0-0
+Bisoprolol 5 mg 1 -0-0
+Torasemid 10 mg 1-0-0
+Atorvastatin 60 mg 0-0-1 Ziel-LDL < 55 mg/dl
+Ezetimib 10 mg 0-0-1
+L-Thyroxin 75 µg 1-0-0
+Fomoterol 12,5 1-0-1
+Spiriva/Resp 2,5 1-0-0
+Berodual 0,021/0,05 mg b. Bedarf
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen,
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

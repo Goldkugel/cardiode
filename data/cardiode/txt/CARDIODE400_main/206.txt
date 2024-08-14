@@ -1,0 +1,411 @@
+Aufnahmedatum: <[Pseudo] 2036-11-19 >
+Geburtsdatum: <[Pseudo] 1984-09-08 >
+Alter: 52
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 08/09/1984> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Typisches Vorhofflattern -LRB- ED <[Pseudo] 01/11/2036> -RRB-
+-UNK- CHA2DS2-VASc-Score: 3 Punkte
+-UNK- HAS-BLED-Score: 1 Punkt
+-UNK- LA Diameter: 49 mm -LRB- TEE vom <[Pseudo] 02/11/2036> -RRB-
+-UNK- LV-Funktion leichtgradig eingeschränkt -LRB- TEE vom <[Pseudo] 02/11/2036> -RRB-
+-UNK- Demaskiert nach Adenosingabe am <[Pseudo] 02/11/2036>
+-UNK- Z. n. erfolgreicher elektrischer Kardioversion -LRB- 1x200 J, biphasisch, synchron -RRB- am <[Pseudo] 02/11/2036> in domo
+- Akuter Myokardschaden a. e. im Rahmen des Vorhofflatterns
+-UNK- Herzkatheteruntersuchung -LRB- B-OTHER -RRB- vom <[Pseudo] 04/11/2036>
+-UNK- Status idem zum Vorbefund B-DATE. Bypässe -LRB- LIMA ad LAD, ACVB ad DI -RRB- offen. Verzicht auf LV-Angio
+-UNK- Termin am <[Pseudo] 26/01/2037> um 8:00 Uhr in unserer B-ORG Ambulanz zur echokardiographischen Verlaufskontrolle.
+- Psychosoziale Belastungssituation
+-UNK- Termin am <[Pseudo] 24/11/2036> um 12:30 in unserer psychosomatischen Ambulanz.
+Diagnosen:
+- Schwere koronare 3-Gefäßerkrankung mit Hauptstammstenose bei leichtgradig reduzierter linksventrikulärer Pumpfunktion -LRB- EF 50% -RRB-
+-UNK- Kein Anhalt für einen relevanten Progress der koronaren Herzerkrankung -LRB- <[Pseudo] 28/01/2036> -RRB-
+-UNK- Negatives Belastungs-EKG bei Belastung bis 225 Watt -LRB- 97% Ziel-HF -RRB-
+-UNK- 70 %-ige RCA-Stenose in Segment 2 -LRB- Herzkatheterbefund, <[Pseudo] 03/05/2027> -RRB-
+-UNK- Negativer Dobutamin-Stresstest -LRB- Kardio-MRT vom <[Pseudo] 17/03/2033> -RRB-
+-UNK- 2-fach Koronarrevaskularisation unter Verwendung der LIMA als in-situ-graft auf LAD, Anlage eines aortokoronaren Venenbypasses auf D1 -LRB- <[Pseudo] 03/05/2027> B-LOC -RRB-
+-UNK- Z. n. subakutem Myokardinfarkt -LRB- NSTEMI -RRB- am <[Pseudo] 02/05/2027>
+-UNK- Z. n. Herzstillstand mit erfolgreicher kurzer Reanimation bei Bradykardie bis Asystolie -LRB- <[Pseudo] 02/05/2027> B-ORG -RRB-
+
+Diagnosen:
+- AV-Block I°
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie, ehemaliger Nikotinabusus -LRB- karent seit B-DATE, kumulativ ca. 25 PY -RRB- , Adipositas II° -LRB- BMI 39,02 kg/m² -RRB-
+
+Allergien:
+Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte am <[Pseudo] 02/11/2036> als Übernahme von unserer B-ORG bei symptomatischer Schmalkomplextachykardie mit unspezifischem Unruhegefühl.
+
+Gestern Abend sei es aus der Ruhe heraus zu einem unspezifischen Unruhegefühl gekommen ohne typische pectanginösen Beschwerden oder Dyspnoe. Auch Palpitationen oder Herzrasen seien nicht aufgefallen. Im Allgemeinen beschreibt der Patient eine gute körperliche Belastbarkeit im Alltag. Mehr als 3 Etagen Treppen steigen seien möglich ohne Dyspnoe oder pectanginöse Beschwerden. Auch in Ruhe bestünden weder pectanginöse Beschwerden, noch Dyspnoe. Palpitationen und Schwindel werden wie stattgehabte Synkopen verneint. Die häuslichen Blutdruckmessungen ergäben Werte um 120/80 mmHg. Es bestehe weder eine Nykturie, noch seien periphere Ödeme bei bestehender Gewichtskonstanz aufgefallen. B-SALUTE B-PER berichtet über eine erhöhte psychosoziale Belastung im Alltag.
+
+Medikation bei Aufnahme:
+Oral:
+ASS 100 mg 1-0-0
+Metoprolol 95 mg 1-0-1
+Ramipril 5 mg 1-0-1
+Rosuvastatin 40 mg 0-0-1
+Ezetimib 10 mg 0-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: adipös -LRB- 186 cm, 135 kg, BMI: 39,02 kg/m² -RRB-
+HF: 77/min, regelmäßig
+RR: 120 / 80 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o. B.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres Atemgeräusch bds., keine Rasselgeräusche
+Abdomen: DG über allen 4 Quadranten, weich, kein DS, keine Resistenzen, kein Peritonismus
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis bds. gut tastbar
+Neurologischer Status: orientierend o. B.
+sonstige Auffälligkeiten: Sternotomienarbe
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2036> und dem B-DAY B-MONTH <[Pseudo] 2036>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.96
+4 - 10 /nl
+B-DATE
+Hb
+15.7
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.4
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.470
+0,38 - 0,52 l/l
+B-DATE
+MCV
+87
+83 - 97 fl
+<[Pseudo] 05/11/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 05/11/36>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 05/11/36>
+RDW
+14.0
+12,9 - 18,7 %
+<[Pseudo] 05/11/36>
+hypochr.Erythroz.
+0.2
+0 - 2 %
+<[Pseudo] 05/11/36>
+Thrombozyten
+299
+150 - 440 /nl
+<[Pseudo] 05/11/36>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 05/11/36>
+Kalium -LRB- ISE -RRB-
+4.26
+3,4 - 4,8 mmol/l
+<[Pseudo] 05/11/36>
+Kreatinin
+0.95
+0,6 - 1,2 mg/dl
+<[Pseudo] 05/11/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+24
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+91.7
+>60 s.u.
+<[Pseudo] 05/11/36>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+124 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+26
+- <46 U/l
+B-DATE
+GPT/ALT
+27
+- <50 U/l
+B-DATE
+CRP
+5.4 !H
+- <5 mg/l
+<[Pseudo] 01/11/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 05/11/36>
+ikterisch
+-
+
+<[Pseudo] 05/11/36>
+Lipämie
+-
+
+<[Pseudo] 05/11/36>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+337 !H
+- <317 U/l
+B-DATE
+CK
+132
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+21.2 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+2785 !H
+- <125 ng/l
+<[Pseudo] 01/11/36>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.86
+0,400 - 4,000 mU/l
+<[Pseudo] 01/11/36>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+105.3
+70 - 125 %
+<[Pseudo] 01/11/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+INR - ber.
+0.99
+- <1.2
+<[Pseudo] 01/11/36>
+
+
+Weitere Laborwerte
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+2019-nCoV
+negativ
+
+<[Pseudo] 02/11/36>
+hs-TroponinT
+110 !H
+- <14 pg/ml
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Schnelltest COVID 19
+negativ
+
+<[Pseudo] 01/11/36>
+
+
+
+
+
+Ruhe-EKG vom <[Pseudo] 02/11/2036>
+Normofrequenter Sinusrhythmus, regelmäßig, 77/min, Indifferenztyp. PQ 210 msec, QRS 97 msec., QTc 409 msec. AV-Block I°. Verzögerte R-Progression, R/S Umschlag in V4/V5. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Belastungs-EKG vom <[Pseudo] 03/11/2036>
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 200 Watt über 02:03 min. Maximale Frequenz 152/min -LRB- 90 % der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 232 mmHg, diastolisch 95 mmHg. Abbruch wegen Dyspnoe bei Tragen eines Mund-Nasen-Schutzes, die sich in Ruhe schnell sistierte. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Unter maximaler Belastung zeigten sich T-Welle-Negativierung bei vorbestehender flache T-Wellen in III und aVF. Durchgehend Sinusrhythmus. Einige VES -LRB- 228 -RRB- als Bigeminus. Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck. Keine höhergradigen Herzrhythmusstörungen unter Belastung.
+
+Ruhe-EKG vom <[Pseudo] 05/11/2036>
+Normofrequenter Sinusrhythmus, regelmäßig, 60/min, Steillagetyp. PQ 236 msec, QRS 99 msec., QTc 416 msec. AV-Block I°. Regelrechte R-Progression, R/S Umschlag in V3/V4. S-Persistenz bis V6. T-Negativierung in III. Ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+
+
+
+
+Virologischer Befund vom <[Pseudo] 01/11/2036> -LRB- Chest-Pain-Unit -RRB- :
+
+
+Virologischer Befund vom <[Pseudo] 02/11/2036> -LRB- Chest-Pain-Unit -RRB- :
+
+
+Echokardiographie vom <[Pseudo] 02/11/2036:>
+Bemerkungen:
+Deutlich reduzierte Schallbedingungen, apikale Anlotungen trotz Atemmanövern kaum darstellbar.
+Beurteilung:
+Noch normal großer, septal betont hypertrophierter linker Ventrikel mit leichtgradig reduzierter systolischer Pumpfunktion bei flachen Septumbewegungen und Hypokinesie inferior. Kein Hinweis auf relevante diastolische Dysfunktion des LV. LA dilatiert. RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior grenzwertig groß, jedoch gut atemvariabel. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist nicht ableitbar.
+Im Vergleich zum Vorbefund vom <[Pseudo] 28/01/2036:> keine wesentliche Befundänderung.
+
+Transösophageale Echokardiografie vom <[Pseudo] 02/11/2036:>
+Bemerkungen:
+3D-TEE-Untersuchung unter Lokalanästhesie und 4 mg Midazolam i. v. komplikationslos durchgeführt.
+Beurteilung:
+Kein Nachweis intrakardialer Thromben. Erhaltene Flussgeschwindigkeiten im linken Vorhofohr. Farbdopplersonographisch kein persistierendes Foramen ovale nachweisbar. Aorta ascendens, Bogen und descendens - soweit einsehbar - thrombogener Grad I. Noch normal großer, septal betont hypertrophierter linker Ventrikel mit leichtgradig reduzierter systolischer Pumpfunktion bei flachen Septumbewegungen und Hypokinesie inferior. Kein Hinweis auf relevante diastolische Dysfunktion des LV. LA dilatiert. RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior grenzwertig groß, jedoch gut atemvariabel. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist nicht ableitbar. TEE Erstbefund in domo.
+
+
+
+Elektrophysiologischer Kurzbefund - HCR vom <[Pseudo] 02/11/2036:>
+Befund:
+Erfolgreiche elektrische Kardioversion bei Vorhofflimmern -LRB- 1x200 J, biphasisch, synchron -RRB- . Nachfolgend Sinusrhythmus.
+Blutdruck vor und nach Kardioversion:
+RR prä CV 142/98 mmHg
+RR post CV 148/101 mmHg
+Medikamente während Kardioversion:
+Midazolam 1mg/ml - 1 ml/ Etomidat 2 mg/ml - 7 ml um 10:25 Uhr
+Sonstige Bemerkungen:
+SaO2 vor und nach CV 98-100%, Präoxygenierung mit 8 l/min O2 über Insufflationsmaske.
+Procedere:
+Bettruhe 4h und Monitoring, Antikoagulation für mindestens 4 Wochen mit DOAC fortsetzen, danach gemäß CHA2DS2VASc-Score. Über ein Fahrverbot für 24 Stunden nach Kardioversion wurde aufgeklärt.
+
+Psychologische Testdiagnostik vom <[Pseudo] 03/11/2036:>
+
+
+
+Herzkatheteruntersuchung -LRB- B-OTHER -RRB- vom <[Pseudo] 04/11/2036> Endbefund:
+Herzkatheteruntersuchung bei V.a. Progress der koronaren Herzerkrankung.
+Schwere koronare 3-Gefäßerkrankung mit Verschluss von LAD und R. diagonalis sowie höhergradigen Stenosen von R. marginalis und RCA, diese allerdings idem zum Vorbefund. Bypässe -LRB- LIMA ad LAD, ACVB ad R. diagonalis -RRB- offen. Verzicht auf linksventrikuläre Angiographie zur Nephroprotektion.
+Z. n. Bypass-OP B-YEAR, Z. n. NSTEMI und Reanimation B-YEAR, VHFla
+CVRF: Adipositas, Ex-Nikotinkonsum, Art. Hypertonie.
+Maßnahmen:
+1 -RRB- Druckverband für 6 Stunden -LRB- bis 16 Uhr -RRB-
+2 -RRB- zunächst konservatives Procedere bezüglich der Koronarien
+3 -RRB- Stress-Test bezüglich RCA und R. marginalis
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte am <[Pseudo] 02/11/2036> als Übernahme von unserer B-ORG bei symptomatischer Schmalkomplextachykardie mit unspezifischem Unruhegefühl.
+
+In der B-ORG I-ORG war der Patient im Wesentlichen oligosymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Im EKG zeigte sich eine regelmäßige Schmalkomplextachykardie, die sich nach Adenosingabe als Vorhofflattern desmaskierte. Das hs-cTroponin betrug bei Aufnahme 117 pg/ml, im Verlauf stabil 110 pg/ml, somit bei fehlenden AP-Beschwerden und keine Dyspnoesymptomatik a. e. als akuter Myokardschaden im Rahmen des Vorhofflatterns zu werten DD Progress KHK bei residuellen
+Stenosen.
+
+Laborchemisch zeigte sich eine Entzündungskonstellation -LRB- CRP 5, Leukozyten 12 -RRB- ohne klinischen Hinweis auf Infektfokus. Das NT-pro-BNP fand sich altersadjustiert erhöht im Rahmen des Vorhofflaterns. Unter intravenöser Elektrolytsubstitution- und Betablockade konnte keine ausreichende Frequenz- und Rhythmuskontrolle erreicht werden, sodass nach echokardiographischem Thrombenausschluss -LRB- TEE -RRB- eine elektrische Kardioversion in den Sinusrhythmus erfolgte. Insgesamt fand sich die anschließende Überwachung unauffällig mit abschließend erneut dokumentiertem Sinusrhythmus.
+
+Bei laborchemisch formalen NSTEMI sowie letzte invasiver Diagnostik vor 10 Jahren und einem Stresstest zuletzt vor 4 Jahren konnte ein Progress der KHK aktuell nicht sicher ausgeschlossen werden. Es erfolgte daher eine stationäre Aufnahme zur weiteren Abklärung. Eine invasive Abklärung wurde am <[Pseudo] 02/11/2036> nach ausführlicher Aufklärung seitens des Patienten ausdrücklich abgelehnt. Nach einem erneuten Gespräch erfolgte am <[Pseudo] 03/11/2036> die Indikationsstellung zur weitergehenden invasiven Abklärung bei V.a. Progress der bekannten koronaren Herzerkrankung.
+
+In der am <[Pseudo] 04/11/2036> durchgeführten Herzkatheteruntersuchung ergab sich ein Status idem zum Vorbefund B-DATE. Die Bypässe -LRB- LIMA ad LAD, ACVB ad DI -RRB- zeigten sich offen. Bezüglich der RCA empfehlen wir die Durchführung eines Stress-Tests im ambulanten Setting, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich klinisch kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Bei neudiagnostiziertem Vorhofflattern und einem CHA2DS2-VASc Score von 3 Pkt. empfehlen wir die Fortführung der bereits initiierten oralen Antikoagulation mittels Rivaroxaban. Im Falle eines Vorhofflatterrezidivs kann gerne eine Terminvereinbarung in der Rhythmusambulanz zur Beratung bzgl. eine Ablation erfolgen -LRB- Tel: B-PHONE -RRB-
+
+Bei psychosozialer Belastungssituation ausgelöst durch die Reanimation vor über 10 Jahren veranlassten wir ein psychosomatisches Konsil. Begleitend erscheint im Verlauf eine psychosomatische Anbindung zum Erwerb von Biofeedback- und Entspannungsverfahren empfehlenswert, um einer Verunsicherung- und Angstneigung gegenzusteuern. Wir vereinbarten für B-SALUTE B-PER einen Termin am <[Pseudo] 24/11/2036> um 12:30 in unserer psychosomatischen Ambulanz. Wir bitten um das Mitbringen eines Überweisungsscheins.
+
+Gerne erinnern wir an dieser Stelle noch einmal an den Termin am <[Pseudo] 26/01/2037> um 8:00 Uhr in unserer B-ORG Ambulanz zur echokardiographischen Verlaufskontrolle bei einer bekannten 3-Gefäß-KHK.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+Oral:
+Xarelto 20 mg 1-0-0 Neu!
+Metoprolol 95 mg 1-0-1
+Ramipril 5 mg 1-0-1
+Rosuvastatin 40 mg 0-0-1
+Ezetimib 10 mg 0-0-1
+ASS 100 mg 1-0-0 Abgesetzt!
+
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 3 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen den Patienten heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

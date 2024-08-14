@@ -1,0 +1,106 @@
+Aufnahmedatum: <[Pseudo] 2469-05-18 >
+Geburtsdatum: <[Pseudo] 2048-10-28 >
+Alter: 420
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 28/10/2048> wh. B-PLZ B-LOC B-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Verlaufskontrolle nach transfemoraler Aortenklappenimplantation am <[Pseudo] 23/07/2140>
+-UNK- Regelrechte Position und Funktion der Klappenprothese
+-UNK- Leichtgradige Randleckage
+-UNK- Kein Nachweis einer Stenosewirkung
+-UNK- Echokardiographisch gute linksventrikuläre Funktion -LRB- LVEF 57% -RRB-
+-UNK- Abnahme des PA-Drucks -LRB- <[Pseudo] 01/2141> -RRB-
+-UNK- Klinisch stabiler kardialer Verlauf
+Diagnosen:
+- Erfolgreiche transfemorale Aortenklappenimplantation -LRB- Evolute 26R -RRB- am <[Pseudo] 23/07/2140> bei kombiniertem Aortenklappenvitium mit führender hochgradiger Stenose -LRB- B-OTHER -RRB-
+-UNK- Z.n. Hochgradige Aortenklappenstenose -LRB- B-OTHER v. <[Pseudo] 15/07/2140> -RRB-
+-UNK- Z.n. echokardiographisch hochgradig kombiniertes Aortenvitium mit überwiegender Stenose -LRB- PPG aktuell 68 mmHg, MPF 40 mmHg, KÖF 0,9 cm² -RRB- und leichtgradiger Aorteninsuffizienz -LRB- Echokardiographie vom <[Pseudo] 12/07/2140> -RRB-
+-UNK- Postinterventionelles A. spurium mit Regredienz nach Druckverbandanlage
+- Koronare 1-Gefäßerkrankung bei 50%iger LAD Stenose -LRB- B-OTHER v. <[Pseudo] 15/07/2140> -RRB-
+- Leichtgradige Mitral- sowie Trikuspidalklappeninsuffizienz
+- Paroxsymales Vorhofflimmern
+-UNK- CHA2-DS2-VASc Score 4
+-UNK- HAS BLED Score 2
+-UNK- Eliquis-Therapie -LRB- ED <[Pseudo] 2137> -RRB-
+- COPD
+- Z.n. chronischer Niereninsuffizienz
+- Restless Legs Syndrom
+- Z.n. Pertrochantärer Femurfraktur links vom <[Pseudo] 10/07/2140> -LRB- Typ III Evans-Jensen -RRB-
+-UNK- Geschlossene Reposition und interne Fixation mit PFN-A am <[Pseudo] 11/07/2140>
+-UNK- -LRB- Implantate: Fa. DePuy Synthes, PFN-A, Gr.11 mm / 130°/ L: 240 mm, PFN-A-Klinge Gr. 115 mm, Bolzen L:36 mm Stardrive -RRB-
+-UNK- Z. n. PFN-A-Implantation rechts <[Pseudo] 09/2138>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Ex-Nikotinabusus -LRB- karent seit B-DATE, kumulativ ca. 30 py -RRB-
+Allergien: keine bekannt
+
+Anamnese:
+Die ambulante Vorstellung erfolgte zur routinemäßigen kardiologischen Verlaufskontrolle bei Zustand nach TAVI B-DATE. Die Patientin war ambulant neurologisch sowie HNO-ärztlich vorstellig, dort war keine weitere Ursache für Synkopen gefunden worden. Seit der TAVI-Implantation war keine Synkope mehr aufgetreten.
+Im Alltag bestünde eine gute Belastbarkeit ohne inadäquate Belastungsdyspnoe nach 1 Etagen Treppensteigen -LRB- NYHA I -RRB- . Es bestünden keine belastungsabhängigen und -unabhängigen pectanginösen Beschwerden. Palpitationen, Schwindel werden verneint. Es bestünde Nykturie bei ca. zweimaliger Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 100/60 mmHg. Subjektiv bestünde seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Aktuelle Medikation:
+Apixaban 2,5 mg 1-0-1 -LRB- Dosisreduktion bei Alter und Körpergewicht -RRB-
+Valsartan 80mg -UNK- -0- -UNK- gesteigert
+Spironolacton 25 mg 1-0-0
+Torasemid 5 mg 1-1-0
+Atorvastatin 10 mg 0-0-1
+Pantozol 20 mg 1-0-0
+Calcium-Sandoz D Osteo 500 mg/400 I.E. 1-1-0
+L-Thyroxin 50 µg -UNK- -0-0
+L-Thyroxin 100 µg -UNK- -0-0
+Mirtazapin 15 mg 0-0-0-1 -UNK-
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 158 cm 47 kg
+HF: 79 /min, regelmäßig
+RR: 110/70mmHg
+Keine Zyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, HF 79/min, Indifferenz-typ. PQ 181 ms, QRS 84 ms, QTc 384 ms. Regelrechte R-Progression, R/S Umschlag in V2/V3, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Transthorakale Echokardiographie:
+Normal großer, septal betont hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV noch normal groß, gute RVFunktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Evolut Klappenprothese in Aortenposition sonographisch regelrecht, dopplersonographisch leichtgradige Randleckage, keine relevante Stenosewirkung nachweisbar. Mitralkappe leicht verdickt mit guter Separation und leichtgradiger Insuffizienz. Übrige Klappen sonographisch regelrecht. Leichtgradige Trikuspidalinsuffizienz. Der systolische PA-Druck in Ruhe ist leicht erhöht -LRB- ca. 40 mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 23/07/2140:> Abnahme des systolischen PA-Drucks, sonst keine wesentliche Befundänderung.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur routinemäßigen kardiologischen Verlaufskontrolle bei Zustand nach TAVI B-DATE. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Echokardiographisch sahen wir eine gute linksventrikuläre Pumpfunktion ohne regionale Kontraktionsstörungen. Die VCI war nicht gestaut. Die Evolut Klappenprothese war in Aortenposition sonographisch regelrecht, dopplersonographisch zeigte sich eine leichtgradige Randleckage. Es war keine relevante Stenosewirkung nachweisbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 23/07/2140> zeigte sich eine Abnahme des systolischen PA-Drucks, ansonsten ergab sich keine wesentliche Befundänderung.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem guten Ergebnis nach TAVI aus und empfehlen daher die Fortführung der bestehenden medikamentösen Therapie.
+
+Wir empfehlen zudem die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien und nach Möglichkeit die regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen, sowie die regelmäßige hausärztliche Vorstellung. Bei Auftreten von Beschwerden oder Komplikationen sind wir gerne bereit, die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung:
+Apixaban 2,5 mg 1-0-1 -LRB- Dosisreduktion bei Alter und Körpergewicht -RRB-
+Valsartan 80mg -UNK- -0- -UNK-
+Spironolacton 25 mg 1-0-0
+Torasemid 5 mg 1-1-0
+Atorvastatin 10 mg 0-0-1 Ziel LDL <55 mg/dl , Kontrollen LDL, CK,
+Transaminasen
+Pantozol 20 mg 1-0-0
+Calcium-Sandoz D Osteo 500 mg/400 I.E. 1-1-0
+L-Thyroxin 50 µg -UNK- -0-0
+L-Thyroxin 100 µg -UNK- -0-0
+Mirtazapin 15 mg 0-0-0-1 -UNK-
+
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Zur Endokarditisprophylaxe empfehlen wir eine gute Mundhygiene und regelmäßige zahnärztliche Kontrollen. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen
+
+Wir danken für die Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen,
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

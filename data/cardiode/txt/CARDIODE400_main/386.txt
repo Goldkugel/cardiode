@@ -1,0 +1,108 @@
+Aufnahmedatum: <[Pseudo] 2037-01-16 >
+Geburtsdatum: <[Pseudo] 1988-09-28 >
+Alter: 48
+
+über Ihren Patienten B-SALUTE B-PER B-PER geboren am <[Pseudo] 28/09/1988> wh. B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell: stabiler kardialer Verlauf bei Z.n. Aortenklappenrekonstruktion nach David mit Hemashield-Prothese und Ersatz der Aorta ascendens und des Aortenbogens mit -UNK- Frozen-Elephant-Trunk -UNK- -LRB- <[Pseudo] 10/01/2037> -RRB- bei Z.n.
+
+Diagnosen:
+
+- Z.n. Aortendissektion Stanford Typ A -LRB- <[Pseudo] 11/01/2036> -RRB-
+-UNK- Restdissektion am proximalen linken ACC-Segment sowie am Tr. Brachiocephalicus -LRB- CT-Angiographie postoperativ vom <[Pseudo] 12/01/2036> -RRB-
+-UNK- vorbeschriebener Verschluss der rechten AIE bei Kollaps des wahren Lumens, Rekontrastierung auf Leistenhöhe über Kollateralen -LRB- CT-Angiographie vom <[Pseudo] 11/01/2037> -RRB-
+-UNK- in auswärtigen angiologischen Untersuchung wieder rekanalisierte A. iliaca externa rechts -LRB- <[Pseudo] 07/36> UMM -RRB-
+-UNK- CT-Angiographie -LRB- auswärts -RRB- vom B-DATE: auf Höhe des Zwerchfelldurchtritts zeigt sich eine Disskektionsmembran in der Aorta descendes: die linke Nierenarterie geht aus dem falschen Lumen ab, ist jedoch gut perfundiert, aus dem wahrem Lumen gehen A. mesenterica sup., Truncus coeliacus, re Nierenaterie ab.
+-UNK- Ad Verlaufskontrolle in der Gefäßsprechstunde der Gefäßchirurgie am <[Pseudo] 02/02/2037> um 11 Uhr
+
+Weitere Diagnosen:
+COPD
+Z. n. Nabelhernien-Operation ~ <[Pseudo] 2029>
+Z. n. Appendizitis
+Z. n. mehrfachen perinalen Abszess-Spaltungen
+Osteochondrose LWK 5 / SWK 1
+
+CvRF: art. Hypertonus, Adipositas per magna -LRB- BMI 46,3 kg/m2 -RRB-
+
+Allergie: Amlodipin -LRB- Urtikaria -RRB-
+Anamnese:
+Die ambulante Vorstellung erfolgte zur Verlaufskontrolle nach o.g. chirurgischer Intervention.
+Ab B-MONTH Leistungsminderung, insbesondere Muskelkraft fehle, Belastungsdyspnoe bei Bergangehen, bei leichter Anstrengung. Keine typ. Angina pectoris. Eine Abklärung ist in der Zwischenzeit bereits am B-ORG I-ORG durchgeführt worden, die unauffällig war.
+
+Brennende Schmerzen im rechten Bein in Ruhe, nicht unter Belastung, keine trophischen Störungen.
+Unter aktueller Medikation Blutdruckwerte zwischen 130-140 mmHg.
+
+Aktuelle Medikation:
+ASS 100 mg 1-0-0
+Ramipril/HCT 20/12,5 1-0-1
+Metoprolol 95 mg 1-0-1
+Moxonidin 0,4 mg 1-0-1
+Nepresol 25 mg -UNK- -0- -UNK-
+Pantoprazol 40 mg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+178 cm 120 kg
+HF: 61/min, regelmäßig
+RR: 130/70 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus
+HT: Diastolikum 2 ICR, rhythmisch, keine path. Geräusche, kein Pulsdefizit
+Lunge: bds. vesikuläres Atemgeräusch, keine pathologischen Nebengeräusche
+Periphere Ödeme: diskrete Beinödeme
+Pulsstatus: rechte A. tib. post und A. dorsalis pedis tastbar
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+
+EKG:
+Normofrequenter Sinusrhythmus, regelmäßig, Hf: 61/min, IT -Typ. PQ 184 ms, QRS ms, QTc 416 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V/V. Keine signifikanten Kammerendteilveränderungen. Unauffälliger Erregungsablauf.
+
+Echokardiographie:
+Leicht vergrößerter, septal betont leicht hypertrophierter linker Ventrikel mit guter systolischer
+Pumpfunktion ohne regionale Wandbewegungsstörungen. Erhaltene longitudinale Funktion.
+Regelrechte diastolische Funktion. LA leicht dilatiert, RA und RV normal groß, gute RV-Funktion.
+Aortenwurzel normal weit. Aorta ascendens-Ersatz, soweit beurteilbar, normal weit.
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Aortenklappe trikuspid, sonographisch und dopplersonographisch minimale zentrale Insuffizienz und leichtgradige exzentrische laterale Insuffizienz. Mitralkappe leicht
+verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Übrige
+Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in
+Ruhe ist nicht ableitbar.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Verlaufskontrolle nach Aortendissektion Stanford A und o.g. chirurgischer Intervention.
+
+In der heute durchgeführten Echokardiographie zeigt sich die Aortenklappenprothese sonographisch und dopplersonographisch regelrecht mit einer leichtgradigen zentralen Insuffizienz und V.a. Randleckage.
+
+Bzgl. der weiterhin bestehenden Dissektion der Aorta descendens bitten wir um weitere engmaschige Kontrollen in der Gefäßchirurgie. Ein Termin hierfür wurde in der Gefäßsprechstunde für den <[Pseudo] 02/02/2037> um 12:00 Uhr vereinbart. Wir bitten die CD mit der letzten CT-Angiographie mitzubringen.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Ferner empfehlen wir eine Gewichtsreduktion sowie regelmäßige körperliche Aktivität 3 - 4x/ Woche, ca. 40-50 Minuten.
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100 1-0-0
+Ramipril/HCT 20/12,5 1-0-1
+Metoprolol 95 mg 1-0-1
+Moxonidin 0,4 mg 1-0-1
+Nepresol 25 mg -UNK- -0- -UNK-
+Pantoprazol 40 mg 1-0-0
+
+Alternativ können wirkstoff- und wirkungsgleiche Arzneimittel verordnet werden. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung in unserer B-ORG I-ORG nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- . Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen.
+
+Bei Auftreten von Beschwerden sind wir jederzeit gerne bereit, den Pat. wiederzusehen -LRB- elektiv über unsere B-ORG I-ORG unter B-PHONE in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE -RRB- .
+
+Wir bedanken uns für die Überweisung und die vertrauensvolle Zusammenarbeit.
+
+Mit freundlichen kollegialen Grüßen,
+
+
+
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Fachärztin

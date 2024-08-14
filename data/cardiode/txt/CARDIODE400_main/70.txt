@@ -1,0 +1,557 @@
+Aufnahmedatum: <[Pseudo] 2033-11-30 >
+Geburtsdatum: <[Pseudo] 1960-06-18 >
+Alter: 73
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 18/06/1960> wh. B-PLZ B-LOC B-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Kardiale Dekompensation
+-UNK- Hypoxämie -LRB- PaO2 unter 5 Liter O2 55 mmHg -RRB-
+-UNK- V.a. hypertensives Lungenödem
+- Ausschluss Lungenarterienembolie -LRB- Angio-CT vom <[Pseudo] 19/11/2033> -RRB-
+- Akut auf chronisches Nierenversagen
+-UNK- Chronische Niereninsuffizienz Stadium G5 A2
+-UNK- Z. n. akut auf chron. Nierenversagen <[Pseudo] 04/2030>
+-UNK- Konsiliarische Behandlung durch Nephrologie
+-UNK- Ad weitere Verlaufskontrollen
+- Chronisch obstruktive Lungenerkrankung
+-UNK- Initiierung inhal. Dauertherapie mit Spiolto
+-UNK- Bedarfstherapie mit Salbutamol
+-UNK- Ad ambulante Verlaufskontrolle
+- Metabolische Azidose unklarer Genese
+- Negatives Stress-Echokardiogramm am <[Pseudo] 29/11/2033>
+- Mitralklappenstenose -LRB- auch unter HF-Anstieg bis 100/min -RRB- mit MÖF 1,5-1,6cm2 als noch
+leichtgradig einzustufen
+
+
+
+Diagnosen:
+- Z. n. Aortenklappenersatz mit biologischer Prothese und 1-fach Koronarrevaskularisation unter Anlage eines in situ LIMA-Bypasses auf die LAD am <[Pseudo] 26/05/2030>
+-UNK- Z. n. Sternumrevision, Cerclagen-Entfernung, VAC-Schwamm-Anlage am <[Pseudo] 15/07/2030>
+-UNK- Z. n. VAC-Schwamm-Therapie mit Wundauffrischungen B-DATE - B-DATE
+-UNK- Z. n. Sternumreverdrahtung mit einseitiger Robiszec-Verdrahtung, Pectoralisplastik, Pleuradrainage rechts nach
+-UNK- Z. n. Drahtentfernung im unteren Sternumdrittel am <[Pseudo] 03/03/2031>
+- Diabetes Mellitus Typ 2, ED <[Pseudo] 2010>
+-UNK- Diabetische Nephropathie
+- Plaques im Bulbusbereich der Carotiden beidseits
+- Z. n. Harnwegsinfekt <[Pseudo] 04/2030>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Nikotinabusus -LRB- kumulativ ca. 20 PJ -RRB- , Adipositas Grad I -LRB- BMI 33,2 kg/m² -RRB- , Diabetes mellitus Typ 2, pos. Familienanamnese -LRB- Mutter Myokardinfarkt, Sohn stationär auf B-ORG in Warten auf Herztransplantation -RRB- .
+
+Allergien: Anamnestisch keine bekannt.
+
+Anamnese:
+Die Aufnahme auf unsere Station erfolgte als Übernahme von unserer B-ORG B-ORG bei kardialer Dekompensation mit ausgeprägter Dyspnoe und Hypoxämie.
+Initial stellte sich Fr. B-PER nach Verbringung mit dem Notarzt in unserer B-ORG I-ORG I-ORG vor. Belastungsdyspnoe bestehe seit 4 Wochen bei <1 Etagen Treppensteigen -LRB- NYHA III -RRB- , heute jedoch schlimmer als sonst. Es bestehe immer mal wieder ein atypisches thorakales Druckgefühl, auch in Ruhe, ohne Ausstrahlung. Vor 2 Wochen einmalig Synkope im Bad mit sofortiger Wiedererlangung des Bewusstseins. Im Alltag ansonsten kein Schwindel. Palpitationen werden ebenfalls verneint. Die häuslichen Blutdruckmessungen ergäben Werte um 145/70 mmHg. Es bestehe Nykturie mit ca. 1- bis 2-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtszunahme -LRB- +4 kg in den letzten 4 Wochen, durchschnittliches Gewicht bei 80kg -RRB- in der letzten Zeit wie bereits bekannt aufgefallen. Keine B-Symptomatik. Stuhlgang und Miktion seien unauffällig, eine Koloskopie sei bisher nicht erfolgt.
+
+Medikation bei Aufnahme:
+Furosemid-Perfusor 4,2 ml/h regelmäßige Kaliumkontrollen
+ASS 100 mg 1-0-0
+Candesartan 16 mg 1-0-1 Pause bei eingeschränkter Nierenfunktion
+Bisoprolol 5 mg 1-0-1
+Amlodipin 5 mg 1-0-1
+Doxazosin 4 mg 1-0-1
+Atorvastatin 40 mg 0-0-1
+Ezetimib 10 mg 0-0-1
+Pantoprazol 40 mg 1-0-0
+Kalinor retard 600 mg 1-0-1
+Tioblis 10/40 mg 0-0-1
+Torasemid 10 mg 1-0-0 Pause während Lasix i. v.
+Atrovent/Sultanol inh 1-1-1
+Clexane 0,4 0-0-1 Thromboseprophylaxe
+
+Lantus und Actrapid nach Plan
+
+Körperlicher Untersuchungsbefund:
+73 Patientin in reduziertem AZ und adipösem EZ -LRB- Gewicht 85 kg, Größe 160 cm, BMI 33,2 kg/m² -RRB- , wach und allseits orientiert, freundlich und adäquat im Kontakt. Herz/Gefäße: Reizlose Narbe bei Z.n. Sternotomie. Herzaktion rhythmisch, Herztöne leise, keine Strömungsgeräusche über den Karotiden. Lunge: vesikuläres Atemgeräusch über allen Lungenfeldern, keine Rasselgeräusche, sonorer Klopfschall. Rechts basal exspiratorisches Giemen. Abdomen: Darmgeräusche über allen 4 Quadranten, Bauchdecke weich, keine Abwehrspannung, kein Druckschmerz, keine Resistenzen, Leber und Milz nicht vergrößert, Nierenlager nicht klopfschmerzhaft. Pulsstatus, Extremitäten: Beinödeme bds., Pulse der Aa. radiales anteriores und Aa. dorsales pedes bds. seitengleich erschwert tastbar.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 19/11/2033> und dem <[Pseudo] 30/11/2033>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.63
+4 - 10 /nl
+B-DATE
+Hb
+9.8 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.5 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.320 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+91
+83 - 97 fl
+B-DATE
+MCH
+28
+27 - 33 pg
+B-DATE
+MCHC
+31
+30 - 36 g/dl
+B-DATE
+RDW
+15.6
+12,9 - 18,7 %
+<[Pseudo] 30/11/33>
+hypochr.Erythroz.
+8.8 !H
+0 - 2 %
+B-DATE
+Thrombozyten
+167
+150 - 440 /nl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+1.11
+1,0 - 4,8 /nl
+<[Pseudo] 20/11/33>
+Neutroph.G.-abs.
+6.16
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.54
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.10
+- <0,5 /nl
+<[Pseudo] 20/11/33>
+Basoph.G. -LRB- abs -RRB-
+0.02
+- <0,2 /nl
+<[Pseudo] 20/11/33>
+Neutroph.G. -LRB- mech. -RRB-
+76.9
+50 - 80 %
+<[Pseudo] 20/11/33>
+Lympho -LRB- mech. -RRB-
+13.9 !L
+25 - 40 %
+<[Pseudo] 20/11/33>
+Basoph.G.
+0.2
+- <1 %
+B-DATE
+Monozyten -LRB- mech. -RRB-
+6.7
+2 - 9 %
+<[Pseudo] 20/11/33>
+Eosinoph.G. -LRB- mech. -RRB-
+1.3 !L
+2 - 4 %
+<[Pseudo] 20/11/33>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 29/11/33>
+Kalium -LRB- ISE -RRB-
+4.00
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.23
+2,11 - 2,59 mmol/l
+B-DATE
+Phosphat
+1.69 !H
+0,84 - 1,45 mmol/l
+<[Pseudo] 26/11/33>
+Magnesium
+0.89
+0,75 - 1,05 mmol/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Chlorid -LRB- ISE -RRB-
+104
+98 - 111 mmol/L
+<[Pseudo] 26/11/33>
+Kreatinin
+3.32 !H
+0,5 - 1,1 mg/dl
+B-DATE
+Harnstoff
+<NONE> !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+13.1 !L
+>60 s.u.
+<[Pseudo] 29/11/33>
+MDRD
+12.46
+ml/min/1,73qm
+<[Pseudo] 27/11/33>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+42.8
+30 - 50 g/l
+<[Pseudo] 27/11/33>
+Glucose
+175 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+13
+- <37 U/l
+B-DATE
+GPT/ALT
+9
+- <35 U/l
+B-DATE
+Ges.Bili.
+0.40
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+9.8 !H
+- <6 mg/dl
+<[Pseudo] 29/11/33>
+Triglyceride
+104
+- <150 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+165.0
+- alt.abh. mg/dl
+B-DATE
+Lipase
+50
+19 - 63 U/l
+B-DATE
+CRP
+2.6
+- <5 mg/l
+<[Pseudo] 26/11/33>
+Hämolyse
+-
+
+<[Pseudo] 29/11/33>
+ikterisch
+-
+
+<[Pseudo] 29/11/33>
+Lipämie
+-
+
+<[Pseudo] 29/11/33>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+295
+- <301 U/l
+B-DATE
+CK
+65
+- <170 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+77.6 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+<NONE> !H
+- <450 ng/l
+<[Pseudo] 22/11/33>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.910
+0,400 - 4,000 mU/l
+<[Pseudo] 20/11/33>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+81.1
+70 - 125 %
+<[Pseudo] 20/11/33>
+INR - ber.
+1.10
+- <1.2
+<[Pseudo] 20/11/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+22.3
+- <35 s
+B-DATE
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.34 !L
+7,37 - 7,45
+B-DATE
+pO2
+86
+mmHg
+B-DATE
+pCO2
+44.5
+35 - 45 mmHg
+<[Pseudo] 29/11/33>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-2.0
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+22.7
+mmol/l
+B-DATE
+Laktat
+9.8
+- <16 mg/dl
+B-DATE
+
+
+
+
+
+
+
+Ruhe-EKG -LRB- CCU -RRB- :
+SR, 73/min, SISIISIII, PQ 154ms, QRS 102ms, QTc 380ms. S-Persistenz bis V6. Soweit beurteilbar keine signif. Kammerendteilveränderungen.
+Ruhe-EKG vom <[Pseudo] 20/11/2033:>
+Normofrequenter Sinusrhythmus, 66/min, Indifferenztyp. PQ 146ms, QRS 104ms, QTc 435ms. Zögerliche R-Progression, R/S Umschlag in V4/V5, keine S-Persistenz. Knotung in aVL. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 22/11/2033:>
+Normofrequenter Sinusrhythmus, 65/min, Linkstyp. PQ 143ms, QRS 108ms, QTc 452ms. Regelrechte R-Progression, R/S Umschlag in V4/V5, S-Persistenz bis V6. T-Negativierung in I, III, aVF. Knotung in aVL.
+
+Ruhe-EKG vom <[Pseudo] 23/11/2033:>
+Normofrequenter Sinusrhythmus, 63/min. Steillage. PQ 153ms. QRS 111ms, QTc 431ms. Verzögerte R-Progression V1-V3. R/S-Umschlag V3/V4. S-Persistenz bis V6. Knotung in aVL. Keine signifikanten Kammerendteilveränderungen. Flache T-Wellen in sämtlichen Ableitungen.
+
+Ruhe-EKG vom <[Pseudo] 26/11/2033:>
+Normofrequenter Sinusrhythmus, 67/min. Linkstyp. PQ 154ms. QRS 112ms, QTc 452ms. Regelrechte R-Progression. R/S-Umschlag V3/V4. S-Persistenz bis V6. Knotung in aVL. Keine signifikanten Kammerendteilveränderungen.
+
+Virologischer Befund vom <[Pseudo] 19/11/2033> -LRB- Chest-Pain-Unit -RRB- :
+
+
+CT Thorax mit Kontrastmittel vom <[Pseudo] 19/11/2033:>
+Strukturierter Befund:
+Letzte Voruntersuchung: <[Pseudo] 21/06/2034>
+Lungenarterienembolie: Nein
+Emboluslast -LRB- proximalster Embolus -RRB- :
+Rechts Pulmonalhauptarterie: -
+Rechts Oberlappen: -
+Rechts Unterlappen: -
+Rechts Mittellappen: -
+Links Pulmonalhauptarterie: -
+Links Oberlappen: -
+Links Unterlappen: -
+Deskription: Keine Lungenarterienembolie.
+Biomarker: RV/LV-Quotient: ≥1 -UNK-
+
+Angaben zu anderen Befunden
+Herz und Aorta:
+Keine Pathologie der Thorakalaorta. Cardiomegalie.
+Thorax:
+Stauungsszeichen mit Verdickung der interlobären Septen sowie Milchglastrübungen und etwas Mosaikmuster der Lunge. Geringer Erguss bds. Mediastinale Lymphadenopathie, zur VU zunehmend, a. e. stauungsbedingt, formal pathologische Vergrößerung. Koronarsklerose. Z.n. Aortenklappenersatz. Moderate Aortensklerose.
+Miterfasstes Abdomen:
+Verplumpten Nebennieren
+Skelett:
+Unveränderte Drahtcerclagen im Sternum. Einzelner Draht mit kraniokaudalem Verlauf rechts parasternal, die Rippenknorpel umschlingend. Bei Zustand nach Osteomyelitis verschmälertes Sternum mit verminderter Knochensubstanz sowie narbig verändertem Weichteilmantel. Kein angrenzender Verhalt. Degenerative Skelettveränderungen in altersentsprechendem Umfang.
+
+Beurteilung:
+Lungenarterienembolie: Nein
+CT-Kriterien Rechtsherzbelastung: Ja -LRB- RV/LV-Quotient ≥1 -RRB-
+Deskription: Keine Lungenarterienembolie.
+Kleine längliche KM-Aussparung im linken Herzohr a. e. Muskelstrang, a. e. Füllungsphänomen. Bei multiplen kardialen Vorerkrankungen zur Voruntersuchung zunehmende Zeichen einer akuten kardialen Dekompensation mit interstitiellem und alveolärem Lungenödem sowie schmalen Pleuraergüssen. Ebenso zunehmende mediastinale Lymphadenopathie a. e. Stauungsbedingt mit formal pathologischer Lymphknotenvergrößerung.
+
+Echokardiographie vom <[Pseudo] 20/11/2033:>
+Normal großer, septal betont hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion bei flachen Septumbewegungen. Erhaltene longitudinale Funktion. Mittelschwere diastolische LV-Dysfunktion. LA deutlich dilatiert, RA und RV dilatiert, reduzierte RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior erweitert, atemvariabel. Biologische Klappenprothese in Aortenposition sonographisch und dopplersonographisch regelrecht. Mitralklappe verdickt mit eingeschränkter Separation sowie Flussbeschleunigung einer leicht-mittelgradigen Stenose entsprechend, sowie leichtgradige Insuffizienz. Mitralanulusverkalkung. Dopplersonographisch leichtgradige Pulmonalklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist leicht erhöht -LRB- ca. 35 mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 26/06/2033:> Weiterhin deutliche Zeichen der Rechtsherzbelastung nachweisbar, leicht rückläufig im Vergleich zum Vorbefund. Heute PI und PA-Druck ableitbar. Ansonsten weitestgehend Befundkonstanz.
+
+Lungenfunktionsprüfung vom <[Pseudo] 20/11/2033:>
+Kapilläre Blutgasanalyse: nicht durchgeführt
+
+Spirometrie:
+Keine Obstruktion
+VC hochgradig reduziert, Restriktion.
+Spez.FEV1: 12 ml/kgKG
+Die spez. FEV1 liegt bei 12 ml/kgKG, damit besteht bei Beurteilung rein anhand der spez. FEV1 ein deutlich erhöhtes OP/ITN-Risiko.
+
+Nasenabstrich vom <[Pseudo] 21/11/2033> -LRB- B-ORG -RRB-
+Kultureller Befund:
+Kein Nachweis von Staphylococcus aureus
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB-
+
+Virologischer Befund vom <[Pseudo] 23/11/2033:>
+
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 24/11/2033:>
+Eine CT vom <[Pseudo] 19/11/2033> und eine Projektionsradiografie vom <[Pseudo] 27/06/2033> zum Vergleich.
+
+Befund und Beurteilung:
+Eingeschränkte Beurteilbarkeit der Lungenspitzen beidseits. Keine größere pleurale Ablösung. Pleuraerguss rechts mit angrenzenden Belüftungsstörungen, Infiltrate können hier maskiert sein. Stauungskomponente. Trachea mittig, nicht eingeengt. Verbreiterte Herzsilhouette, CTR 16 / 29. Retrosternalraum nicht frei einsehbar, DD bei Cardiomegalie. Retrocardialraum frei. Degenerative Skelettveränderungen. Unveränderte Drahtcerclagen im Sternum, bekanntermaßen einzelner Draht mit kraniokaudalem Verlauf rechts parasternal.
+
+Lungenfunktionsprüfung vom <[Pseudo] 27/11/2033:>
+Kapilläre Blutgasanalyse: nicht durchgeführt
+
+Spirometrie:
+Vitalkapazität -LRB- VC -RRB- mittelgradig vermindert
+Keine Obstruktion der kleinen Atemwege
+
+Kommentar:
+Zur dezidierten Beurteilung einer Restriktion ist die Durchführung einer Bodyplethysmographie empfohlen. Insgesamt Zunahme der Vitalkapazität im Vergleich zur Voruntersuchung vom B-DATE.
+
+Lungenfunktionsprüfung vom <[Pseudo] 29/11/2033:>
+Kapilläre Blutgasanalyse:
+Raumluft: Schwere Hypoxie, Normokapnie, normaler Säure-Basen-Status.
+Unter 1L O2/min: Normoxie.
+Spirometrie und Bodyplethysmographie:
+Mäßige Obstruktion der großen Atemwege.
+Mäßige Obstruktion der kleinen Atemwege.
+Keine Restriktion.
+Mäßige Überblähung.
+Bronchospasmolyse -LRB- mit Salbutamol -RRB- : negativ.
+CO-Diffusionskapazität: hochgradig eingeschränkt.
+CO-Transferkoeffizient: hochgradig eingeschränkt.
+
+Dobutamin Stress-Echokardiographie vom <[Pseudo] 29/11/2033:>
+Bemerkungen: insb. apikal stark eingeschränkte Schallbedingungen
+
+Beurteilung:
+Pharmakologische Belastung mit Dobutamin 50 μg/kg/min -LRB- kein Atropin bei vorbek. Glaukom -RRB- komplikationslos durchgeführt. Abbruch wegen Erreichen der maximalen pharmakologischen Stimulation. Herzfrequenzanstieg von 60/min bis 99/min -LRB- 67% der max. erwarteten Herzfrequenz -RRB- , Blutdruckanstieg von 129/70 mmHg bis 156/54 mmHg -LRB- DP = 13260 -RRB- .
+Das gleichzeitig aufgezeichnete Belastungs-EKG ist unauffällig. Gute Zunahme der Kontraktilität aller Wandsegmente des linken Ventrikels. Systolischer PA-Druck in Ruhe ca. 30- 35 mmHg, Zunahme unter Belastung bis 45-50 mmHg.
+Zusammenfassung: Ausbelastungs-HF nicht erreicht. Soweit negatives Stress-Echokardiogramm, negatives Belastungs-EKG, negative Klinik. Normales PA-Druck-Verhalten unter Belastung.
+Mitralklappenstenose -LRB- auch unter HF-Anstieg bis 100/min -RRB- mit MÖF 1,5-1,6cm2 als noch
+leichtgradig einzustufen.
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme des Patienten erfolgte als Übernahme von unserer B-ORG B-ORG bei kardialer Dekompensation mit ausgeprägter Dyspnoe und Hypoxämie.
+
+Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 56 pg/ml, im Verlauf stabil bei 56 pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. Eine Lungenarterienembolie konnte CT-angiologisch ausgeschlossen werden. Nebenbefundlich fanden sich eine Stauung und geringe Pleuraergüsse bds. sowie im linken Vorhofohr DD musculi pectinati DD Thrombus. Bei eingeschränkter Nierenfunktion erfolgte eine Hydrierung mittels Sterofundin, zuvor und nach der CT, zudem Gabe von 40 mg Lasix i. v.
+
+Die von unseren B-SALUTE begonnene Negativbilanzierung und Rekompensation mittels Furosemid-Perfusor führten wir fort, in Rücksprache mit dem Nierenzentrum mit einer Laufraten von 4,2ml/h. Hierunter konnte eine gute Ausscheidung und eine Gewichtsreduktion von insgesamt 5kg erzielt werden. Im Verlauf wurde die diuretische Therapie auf Torasemid oralisiert. Wir bitten um regl. klinische Kontrollen sowie Kontrollen der Elektrolyte und ggf. Anpassung im Verlauf.
+
+Echokardiographisch zeigte sich eine gute linksventrikuläre systolische Pumpfunktion und eine mittelschwere diastolische Dysfunktion. Die RV-Funktion war reduziert und deutliche Zeichen einer Rechtsherzbelastung waren nachweisbar. Zudem zeigte sich eine leicht-mittelgradige Mitralklappenstenose sowie eine leichtgradige Insuffizienz. In der am <[Pseudo] 29/11/2033> durchgeführten Stress-Echokardiographie zeigte sich ein soweit negatives Stress-Echokardiogramm, ein negatives Belastungs-EKG und eine negative Klinik. Mitralklappenstenose -LRB- auch unter HF-Anstieg bis 100/min -RRB- mit MÖF 1,5-1,6cm2 als noch leichtgradig einzustufen. Wir bitten um echokardiographische Verlaufskontrollen.
+
+In der Lungenfunktionsanalyse vom <[Pseudo] 20/11/2033> fand sich eine hochgradige Restriktion. Zur Beurteilung der Restriktion wurde nach Rekompensation am <[Pseudo] 30/11/2033> eine Bodyplethysmographie durchgeführt, in der eine Restriktion ausgeschlossen werden konnte. Es zeigte sich eine mäßige Obstruktion der großen und kleinen Atemwege sowie eine mäßige Überblähung, a.e. im Rahmen einer chronisch obstruktiven Lungenerkrankung bei anamnestisch langjährigem inhalativen Nikotinkonsum. Wir initiierten eine inhalative antiobstruktive Dauertherapie mit Spiolto. Bei Bedarf sollte eine Therapie mit Salbutamol erfolgen. Zudem empfehlen wir regelmäßige Atemtherapie und eine regelmäßige körperliche Aktivität.
+Wir bitten um regl. ambulante Kontrollen beim niedergelassenen Pulmologen und ggf. der Anpassung der antiobstruktiven Therapie.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+ASS 100 mg 1-0-0
+Candesartan 16 mg 1-0-1 Pause bei eingeschränkter Nierenfunktion
+Bisoprolol 5 mg 1-0-1
+Amlodipin 5 mg 1-0-1
+Doxazosin 4 mg 1-0-1
+Torasemid 25 mg 1-1-0
+Atorvastatin 40 mg 0-0-1
+Ezetimib 10 mg 0-0-1
+Pantoprazol 40 mg 1-0-0
+
+
+Inhal.:
+Spiolto Respimat 2,5µg/2,5µg pro Hub 2-0-0, neu
+Salbutamol bB., neu
+
+Lantus und Actrapid nach Plan
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der ORG
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+In 6 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen die Patientin heute in stabilem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER / B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärztinnen

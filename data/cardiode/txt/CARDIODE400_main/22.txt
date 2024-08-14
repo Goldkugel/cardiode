@@ -1,0 +1,121 @@
+Aufnahmedatum: <[Pseudo] 2032-09-26 >
+Geburtsdatum: <[Pseudo] 1959-03-21 >
+Alter: 73
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 21/03/1959> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+Ad Angiologische Kontrolluntersuchung am <[Pseudo] 03/10/32>
+- AV-Fistel zwischen AFS und VFS rechts
+- Aneruysma der AFS rechts
+-UNK- Injektion von 200IE Thrombin am <[Pseudo] 26/09/2032>
+Diagnosen:
+- Z.n.erfolgreicher cavotrikuspidaler Isthmusablation bei typischem Vorhofflattern -LRB- B-OTHER vom <[Pseudo] 10/09/2032> -RRB-
+- Inzisionales DD isthmusabhängiges Vorhofflattern
+- Paroxysmales Vorhofflimmern ED <[Pseudo] 03/2032>
+-UNK- CHA2DS2-VASc-Score 3
+-UNK- Has-Bled 2
+-UNK- EHRA IIb
+-UNK- Gute LV-Funktion, LA-Diameter 37 mm -LRB- Echo v. <[Pseudo] 20/04/2031> extern -RRB-
+-UNK- Z. n. elektrischer Kardioversion am <[Pseudo] 05/2031> <[Pseudo] 03/2032> und <[Pseudo] 12/2030>
+- V.a. atriale Tachykardie <[Pseudo] 03/2031> DD Vorhofflattern
+- Nachweis einer koronaren Eingefäßerkrankung
+-UNK- 50-75% Stenose der medialen RCA -LRB- Koronar-CT vom <[Pseudo] 25/04/2031> -RRB-
+- Leichtgradige Mitralklalppeninsuffizienz -LRB- Echo <[Pseudo] 03/2032> -RRB-
+- Mittelgradige Trkiuspidalinsuffizienz bei Anulusdilatation
+- ASD-Verschluss mit Mitral Cleft <[Pseudo] 2009> -LRB- Herzchirurgie B-ORG I-ORG -RRB-
+- Osteoporose
+- Z.n. Hüft-TEP
+- Z.n. Zosterneuralgie
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Nikotinabusus, karent seit DATE, kumulativ ca. 20 py,
+Allergien: Pflaster
+
+Anamnese:
+Die Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG nach der Injektion von 200IE Thrombin bei aufgefallener AV-Fistel zwischen der AFS und VFS nach EPU Anfang des Monats. Es bestehe eine gute körperliche Belastbarkeit im Alltag -LRB- 3 Etagen -RRB- , ohne inadäquate Belastungsdyspnoe und ohne weitere typische pectanginöse Beschwerden. Auf spezifische Nachfrage hin werden Palpitationen, sowie stattgehabte Synkopen verneint. Keine Infektzeichen.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 163 cm, Gewicht: 51kg -RRB-
+HF:90 /min
+RR: 120/90mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig.
+HT: leise, rein, keine path. Geräusche
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse gut tastbar
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Angiologische Untersuchung vom <[Pseudo] 26/09/2032>
+Kontrolle bei AV-Fistel:
+Pulse tastbar. Patientin berichtet über Schmerzen im Bereich des Hämatoms des medialen rechten Oberschenkels. Keine Schmerzen im Bereich der Punktionsstelle. Keine Claudicatio. Keine Dyspnoe.
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Weiterhin kleine AV Fistel nach der Bifurkation zw. AFS und VFS mit diskret arteriell überlagerten Fluss im Bereich der Fistel. Normaler venöser atemmodulierter Fluss in der VFC und VIE. Nachweis eines großen überwiegend perfundierten Aneurysmas 5 cm distal der Bifurkation ausgehend von der AFS nach ventral mit kurzem Hals und nachweisbaren Pendelfluss. Kein Nachweis einer TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung.
+Procedere:
+- Es erfolgte nach Aufklärung und auf Patientenwunsch eine Injektion von 200 IE Thrombin, nachfolgend Höhle thrombosiert, regelrechte triphasische Perfusion der Gefäßachse, Anlage eines Druckverbandes
+- DV für 4h belassen, FDS-Kontrolle heute 14:30 Uhr
+- Konservatives Procedere bezüglich der AV-Fistel
+Angiologische Untersuchung vom <[Pseudo] 26/09/2032>
+Farbduplexsonographie der Gefäße der rechten Leiste -LRB- Kontrolle nach Thrombininjektion -LRB- 200 I.E. -RRB- bei aus der AFS ausgehendem Aneurysma spurium:
+Keine Hiinweis auf Perfusion in die Aneurysma Höhle, jedoch noch perfundierter Aneurysmahals. Zudem weiterhin Nachweis eine kleine AV-Fistel zw. AFS und VFS. Kein Hinweis auf eine TVT im Bereich der Punktionsstelle in der rechten Leiste.
+Es erfolgte eine erneute manuelle Kompression mit anschließend Kompressionsverband.
+Prozedere:
+- Druckverband für 4 Stunde, danach Bettruhe
+- Morgen bitte Wiedervorstellung.
+- Bis zur Kontrolle keine Antikoagulation!!!
+
+Angiologische Untersuchung vom <[Pseudo] 27/09/2032>
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Weiterhin kleine AV Fistel nach der Bifurkation zw. AFS und VFS mit diskret arteriell überlagerten Fluss im Bereich der Fistel. Normaler venöser atemmodulierter Fluss in der VFC und VIE.
+Das Aneurysma spurium ist überwiegend thrombosiert mit kleiner perfundierter Resthöhle ganz proximal der AFS mit kurzem Aneurysmahals. Nach Kompression kein Fluss mehr nachweisbar. Eliquis zuletzt am <[Pseudo] 26/09/2032> morgens eingenommen.
+Es erfolgte eine erneute ultraschallgestütze Kompression über 20 Minuten. Danach noch geringe Perfusion der Aneurysmahöhle. Ein Druckverband wurde angelegt.
+Procedere:
+-UNK- Druckverband für 4 Stunden
+-UNK- Blutdruckeinstellung -LRB- heute Morgen anamnestisch 160/90 mmHg -RRB-
+-UNK- Verlaufskontrolle in 4 Stunden, ggf. erneute Thrombininjektion unter erhöhtem Risiko
+
+Angiologische Untersuchung vom <[Pseudo] 27/09/2032>
+Farbduplexsonographie der rechten Leiste:
+Nach wie vor kurzer perfundierter Stichkanal mit minimaler Restperfusion der fast vollständig verschlossenen Aneurysmahöhle. Bei nur noch kminimal perfuniderter Höhle, die direkt oberhalb der AFS liegt, ungeeignet für erneute Thrombininjektion -LRB- Gefahr des Übertritts von Thrombin in die AFS -RRB- .
+Procedere:
+-UNK- zunächst konservative Therapie mit Pausieren der Antikoagulation bis Samstag Abend.
+-UNK- Körperliche Schonung -LRB- keine langen Spaziergänge, kein Tragen schwerer Lasten, kein Sport -RRB- .
+-UNK- Angiologische Verlaufskontrolle am <[Pseudo] 03/10/2032> in der B-ORG I-ORG
+
+Zusammenfassung:
+Die stationäre Aufnahme der Patientin erfolgte über unsere B-ORG I-ORG bei postinterventioneller AV-Fistel.
+Am <[Pseudo] 26/09/2032> konnte nach Injektion von 200 IE Thrombin die Aneurysmahöhle thrombosiert mit regelrechten triphasischer Perfusion der Gefäßachse dargestellt werden. Eine Kontrolluntersuchung am gleichen Nachmittag zeigte weiterhin einen perfundierten Aneurysmahals.
+In der am darauffolgenden Tag durchgeführten angiologischen Kontrolluntersuchung zeigte sich weiterhin die vorbekannte AV-Fistel, das Aneurysma idem. Es erfolgte eine erneute Druckverbandanlage und Kontrolle am Nachmittag. Hierbei zeigte sich nach wie vor ein kurzer perfundierter Stichkanal mit minimaler Restperfusion der fast vollständig verschlossenen Aneurysmahöhle; insg. zeigte sich der Befund ungeeignet für eine erneute Thrombininjektion bei Gefahr des Übertritts von Thrombin in die AFS, sodass wir uns für ein konservatives Vorgehen entschieden.
+
+Wir bitten das Eliquis noch bis Samstagabend zu pausieren und empfehlen eine angiologische Verlaufskontrolle in unserer B-ORG I-ORG am B-DATE Bis zu diesem Zeitpunkt bitten wir um körperliche Schonung. Wir bitten B-SALUTE B-PER auf lange Spaziergänge, das Tragen von schweren Lasten sowie Sport zu verzichten.
+
+Bei während des stationären Aufenthaltes aufgefallenen hypertensiven Blutdruckwerten empfehlen wir eine Eskalation der Blutdruckmedikation. Die Patientin möchte keine Medikamentenumstellung während des stationären Aufenthaltes, sondern möchte dies mit Ihrer Hausärztin besprechen. Wir bitten um regelmäßige Kontrolle des Blutdrucks sowie der Nierenretentionsparameter nach Medikamentenumstellung.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Therapieempfehlung v. kardiologischer Seite:
+Eliquis 5mg 1-0-1 PAUSE bis einschließlich <[Pseudo] 28/09/32>
+Ramipril 5mg 1-0-1
+Lercanidipin 10mg 1-0-0
+Rosuhexal 10mg 0-0-1
+Alendronsäure basics 70mg 1/Woche
+Calcium 600mg Tbl 1-0-0
+Gabapentin 300mg 1-1-1
+Kalinor-retard 600mg 1-0-0
+Omeprazol 20mg 1-0-0
+Vigantoletten 1000 I.E. 1-0-0
+Bayotensin akut 5mg/ml 1ml Lsg bei RR>180/90
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen die kardiorespiratorisch stabile und beschwerdefreie Patientin am <[Pseudo] 27/09/2032> in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit.
+
+Mit freundlichen Grüßen
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-PER I-PER Ärztlicher Direktor Oberarzt Assistenzärztin

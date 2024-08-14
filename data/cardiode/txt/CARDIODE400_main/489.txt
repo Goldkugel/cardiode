@@ -1,0 +1,64 @@
+Aufnahmedatum: <[Pseudo] 2032-08-13 >
+Geburtsdatum: <[Pseudo] 1967-07-07 >
+Alter: 65
+
+über Ihre Patientin B-PER I-PER geboren am <[Pseudo] 07/07/1967> die sich am DATE <[Pseudo] 09/2031> um 12:24 Uhr in unserer B-ORG I-ORG I-ORG vorstellte.
+Hauptdiagnose:
+Symptomatiches Herzklopfen
+Ausschluss akute Myokardinfarkt
+Ausschluss akute Myokarditis
+Sars-Cov-2 Schnelltest negativ/PCR Ausstehend
+Allergien: keine
+Anamnese:
+Selbstvorstellung bei Einweisung durch Hausarzt bei Verdacht auf Myokarditis. Seit B-MONTH und nach
+Corona Impfung bestehe subjektive Extrasystolengefühl ohne AP oder Dyspnoe Symptomatik. Heute Troponinmessung durch Hausarzt. Bei positiver trop Einweisung an ORG. Kein Hinweis auf eine akute Infektion. Keine Synkope oder Schwindel.
+vor einige Tagen extern Echo durch B-TITLE B-PER keine Auffäligkeiten
+Vitalparameter bei Aufnahme: 154/82 mmHg, 70 /min, 36,2 o c.
+EKG:
+Rhythmus: Sinusarrhythmie, Herzfrequenz: 70/min, Lagetyp: Indifferenztyp, QRS-Komplex: normal, STStrecke: normal, T-Welle: normal.
+
+-B-PER -LRB- W, 65 -RRB- B-OTHER
+Untersuchungsbefund:
+Bewußtsein: klar, Herztöne: normal, Herzzusatztöne: keine, Pulmo auskultatorisch: vesikuläres Atmen, Abdomen: unauffällig, Cyanosezeichen: Nein.
+Labor bei Aufnahme:
+B-DATE 12:56 Natrium 139 mmol/l 135 - 146
+B-DATE 12:56 Kalium 4,09 mmol/l
+B-DATE 12:56 Kreatinin 0,85 mg/dl 0,5 B-DATE 12:56 Harnstoff 40 mg/dl
+B-DATE 12:56 Glucose 104 mg/dl 65 - 1 10
+B-DATE 12:56 C-reaktives Protein -LRB- CRP -RRB- 4,6 mg/l
+B-DATE 12:56 Laktatdehydrogenase -LRB- LDH -RRB- 188<301
+B-DATE 12:56 GOT 22< 37
+B-DATE 12:56 23 Uli
+B-DATE 12:56 Leukozyten 6,92 /nl 4 - 10
+B-DATE 12:56 Erythrozyten 4,8 4 - 5,2
+B-DATE 12:56 Hämoglobin -LRB- Hb -RRB- 13,3 g/dl 12 - 15
+B-DATE 12:56 Hämatokrit 0,400 0,36 - 0,47
+B-DATE 12:56 Thrombozyten 242 /nl 150 - 440
+B-DATE 12:56 Quick 94,9 70 - 125
+B-DATE 12:56 INR I , 04 < 1.2
+B-DATE 12:56 Thyreoidea stimulierendes Hormon -LRB- TSH -RRB- 0,740 ml-J/l 0,400 - 4,000
+B-DATE 12:56 Trijodthyronin -LRB- T3 -RRB- , freies 2,99 ng/l- 4,2
+B-DATE 12:56 Thyroxin -LRB- T4 -RRB- , freies 17,21 ng/l 8 - 18
+B-DATE 12:56 NTBNP 150 ng/l - < 125
+HSTNT im Verlauf:
+
+B-DATE 12:54 Troponin T -LRB- T NT -RRB- , high sensitive im Plasma 17,4 pg/ml
+B-DATE 13:53 Troponin T -LRB- T NT -RRB- , high sensitive im Plasma 17,5 pg/ml
+B-DATE 16:31 Troponin T -LRB- T NT -RRB- , high sensitive im Plasma 14,8 pg/ml < 14
+Medikation in der ORG:
+Epikrise:
+Die Vorstellung erfolgte bei o.g. Krankheitsbild. Seit der Aufnahme war die Patientin im Wesentlichen oligosymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 17,4 pg/ml, im Verlauf stabil 14,8pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig -RRB- . Das NT-pro-BNP fand sich altersadjustiert im Normbereich.
+Es könnte bei normaler Echokardiographie und unauffälige Troponin und Nt-ProBNP eine akute
+Myokarditis sowie akute Herzinfarkt aussgeschlossen werden. Bzgl. der Extrasystolen könnte im Rahmen der stationären Aufenthalt keine extrasystolen detektiert werden. Wir empfehlen zur weiteren
+Objektivierung der Extrasystolen ein LZ-EKG und Symptom-Rythmuskorrelation. Eine Dissektion der
+Seite 2
+-B-PER -LRB- W, 65 -RRB- B-OTHER
+Größengefäße oder LAE ist bei Beshcwerdefreiheit und unauffälige Laborparametern unwahrscheinlich. Wir entlassen die Patientin kardiorespiratporisch stabil und klinisch beschwerdefrei nach Hause. Bei erneutem Auftreten von Beschwerden ist natürlich jederzeit eine Wiedervorstellung in unserer B-ORG I-ORG I-ORG möglich.
+Procedere:
+-LZ-EKG zur weiteren Objektivierung der Extrasystolen und Symptom-Rythmus Korrelation
+Mit freundlichen und kollegialen Grüßen
+B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor
+B-TITLE I-TITLE B-PER I-PER I-PER I-PER
+Oberarzt B-ORG I-ORG I-ORG Assistenzarzt
+Seite 3

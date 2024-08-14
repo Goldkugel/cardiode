@@ -1,0 +1,441 @@
+Aufnahmedatum: <[Pseudo] 2032-05-29 >
+Geburtsdatum: <[Pseudo] 1981-11-28 >
+Alter: 50
+
+über Ihren Patienten B-SALUTE B-PER I-PER I-PER geboren am <[Pseudo] 28/11/1981> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Koronare Herzerkrankung ohne höhergradige Stenosen bei global guter linksventrikulärer Pumpfunktion.
+-UNK- LVEDP erhöht
+-UNK- Im Rückzug Gradient 20 mmHg in LVOT DD HOCM -LRB- B-OTHER vom <[Pseudo] 18/05/2032> -RRB-
+
+- Erfolgreiche Ablation einer anteroseptalen Leitungsbahn bei concealed WPW-Syndrom mit leicht induzierbarer AV-Reentry-Tachykardie -LRB- B-OTHER v. <[Pseudo] 22/05/2032> -RRB-
+-UNK- Keine ventrikulären Tachykardien induzierbar
+-UNK- Komplikationslose Entnahme multipler RV-Biopsien:
+-UNK- Kein Anhalt auf Vaskulitis oder Speichererkrankung, keine HCM-typischen Veränderungen
+-UNK- Nachweis vermehrter reifer Adipozyten in einem Biopsiepartikel DD ARVC
+
+- Kardio-MRT v. <[Pseudo] 19/05/2032:>
+-UNK- Normal großer, septal betont leicht hypertrophierter -LRB- max. 13mm -RRB- linker Ventrikel mit guter systolischer Pumpfunktion -LRB- LVEF 61% -RRB-
+-UNK- Normal großer, apikal vermehrt trabekularisierter rechter Ventrikel mit global leicht reduzierter Pumpfunktion -LRB- RVEF 48% -RRB-
+-UNK- Kein Nachweis eines Late Gadolinium Enhancements
+-UNK- Kein Nachweis einer Flussbeschleunigung im LVOT, kein Nachweis eines SAM-Phänomens in Ruhe
+
+- Depression
+- V. cava inferior Anomalie mit anamnestisch Z. n. Thorakotomie im Jugendalter in B-LOC
+
+CvRF: positive Familienanamnese für Koronare Herzerkrankung
+Allergien: Keine bekannt
+
+Anamnese:
+Die Aufnahme des Patienten erfolgte aus dem B-ORG I-ORG bei Ventrikulärer Tachykardie. Dort war der Patient initial mit Palpitationen vorstellig gewesen. Diese kenne er bereits aus der Vergangenheit. Insgesamt waren ca. 4 dieser Ereignisse in den letzten Jahren passiert, hierbei habe er einen schnellen Puls bemerkt und dieser habe sich dann wieder beruhigt. AP Beschwerden und Dyspnoe seien bisher nie aufgetreten. Auf spezifische Nachfrage keine typische Angina pectoris, keine Belastungsdyspnoe Keine Ödeme. Kein Schwindel, bisher auf explizite und mehrfache Nachfrage keine Synkope. Kein Hinweis auf einen akuten Infekt -LRB- kein Husten, kein Schnupfen, keine Heiserkeit, kein Fieber, kein Brennen beim Wasserlassen -RRB- . 2x COVID-19 geimpft. Bei Übernahme auf unsere B-ORG präsentiert sich der Patient wach, spontan atmend und beschwerdefrei.
+
+Körperlicher Untersuchungsbefund:
+AZ: stabil
+EZ: gut
+HF: 85/min, regelmäßig
+RR: 140/90 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: Thorakotomienarbe
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Herzfrequenz 90/min, S1/S2/S3-typ, PQ 163 ms, QRS 90 ms, QTc 404 ms, Zeiten im Normbereich, unauffällige Erregungsausbreitung und -rückbildung.
+
+Ruhe-EKG am <[Pseudo] 20/05/2032:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 78/min, überdrehter Rechtstyp. PQ 161 ms, QRS 90 ms, QTc 409 ms, Zeiten im Normbereich. Fehlender R/S Umschlag, S-Persistenz bis V6. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG am <[Pseudo] 23/05/2032:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 61/min, überdrehter Rechtstyp. PQ 147 ms, QRS 90 ms, QTc 429 ms, Zeiten im Normbereich. R/S Umschlag V3/V4, S-Persistenz bis V6. Keine signifikanten Kammerendteilveränderungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 18/05/2032> -RRB- :
+Invasive Diagnostik nach Kardioversion einer VT mit LSB Morphologie und NSTEMI
+KHK ohne höhergradige Stenosen, gute LV-Funktion mit erhöhtem LVEDP. Sehr verzögerte Abfluß des KM aus den Koronarien. Im Rückzug 20mmHG Gradient im LVOT
+Maßnahmen:
+- Ad K-MRT DD HOCM DD ARVC
+- ICD Evaluation
+- Echo in domo
+
+Transthorakale Echokardiographie vom <[Pseudo] 19/05/2032:>
+Normal großer, septal betonter linker Ventrikel mit guter systolischer Pumpfunktion ohne - soweit einsehbar- regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel noch normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht ableitbar. Erstbefund in domo.
+
+Kardio-MRT Befund vom <[Pseudo] 19/05/2032:>
+Beurteilung
+Normal großer, septal betont leicht hypertrophierter -LRB- max. 13mm -RRB- linker Ventrikel mit global guter systolischer Funktion und normaler longitudinaler Funktion. Keine regionalen Wandbewegungsstörungen.
+Normal großer, apikal vermehrt trabekularisierter rechter Ventrikel mit global leicht reduzierter Pumpfunktion und longitudinal erhaltener Funktion. Vorhöfe normal groß, Vorhofseptum verdickt. Kein Nachweis einer Flussbeschleunigung oder eines SAM-Phänomens in Ruhe. Kein Nachweis eines Late Gadolinium Enhancements. Soweit bei Artefaktüberlagerung beurteilbar normale T1-Relaxationszeiten -LRB- T1 -UNK- 3T 1240ms -RRB- . Normale T2- Relaxationszeiten.
+Zusammenfassung
+- Normal großer, septal betont leicht hypertrophierter -LRB- max. 13mm -RRB- linker Ventrikel mit guter systolischer
+Pumpfunktion -LRB- LVEF 61% -RRB- .
+- Normal großer, apikal vermehrt trabekularisierter rechter Ventrikel mit global leicht reduzierter
+Pumpfunktion -LRB- RVEF 48% -RRB- .
+- Kein Nachweis eines Late Gadolinium Enhancements.
+
+EPU -LRB- B-OTHER vom <[Pseudo] 23/05/2032> -RRB- :
+3-fache Punktion der V. femoralis dextra. Einbringen von 3 diagnostischen, 4-poligen Standardkathetern in HRA, RV-Apex und HIS-Position. Mittels inkrementaler Ventrikelstimulation Ausschluss einer akzessorischen Leitungsbahn. Bei schneller atrialer Stimulation knapp unterhalb des Wenckebachpunkts Nachweis einer sustained slow pathway conduction. Mittels programmierter Vorhofstimulation Nachweis eines umschriebenen AH-Jumps mit Induktion einer SVT -LRB- ZL 360ms, VA 42 ms -RRB- . Während laufender SVT AV- und VA-Dissoziation. Einbringen eines Standardablationskatheters in das RA. Wiederholte RF-Energieabgaben postero- und mittseptal. Bei instabiler Katheterposition und persistierender Induzierbarkeit unter 0,5mg Atropin iv Einbringen einer langen Schleuse. Postablationem auch unter Alupentstimulation keine AVNRT mehr induzierbar, keine SP-Leitung mehr nachweisbar. Postprozedural Ausschluss eines Perikardergusses mittels Echokardiographie.
+Zusammenfassung: Erfolgreiche Slow-Pathway-Ablation bei induzierbarer typischer AV-nodaler Reentry-Tachykardie.
+Proc: DV 6h, Echo zum PE-Auschluss morgen wiederholen, ASS 100 1x1 für 3 Monate.
+DL-Zeit: 7 min. Dosis: Gycm2,8 Energieabgabe: 11 min.
+2x 5F JSN, 1x 5F CRD-2, 1x 7F Osypka Cerablate easy Classic TC 45/4mm, 1x SRO Schleuse
+
+Transthorakale Echokardiographie vom <[Pseudo] 23/05/2032:>
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2031> und dem B-DAY B-MONTH <[Pseudo] 2031>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.25
+4 - 10 /nl
+B-DATE
+Hb
+13.3
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.5
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.380
+0,38 - 0,52 l/l
+B-DATE
+MCV
+84
+83 - 97 fl
+<[Pseudo] 23/05/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 23/05/32>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 23/05/32>
+RDW
+13.0
+12,9 - 18,7 %
+<[Pseudo] 23/05/32>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+<[Pseudo] 23/05/32>
+Thrombozyten
+204
+150 - 440 /nl
+<[Pseudo] 23/05/32>
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 23/05/32>
+Kalium -LRB- ISE -RRB-
+4.10
+3,4 - 4,8 mmol/l
+<[Pseudo] 23/05/32>
+Calcium
+2.11
+2,11 - 2,59 mmol/l
+<[Pseudo] 23/05/32>
+Magnesium
+<NONE> !H
+0,75 - 1,05 mmol/l
+<[Pseudo] 18/05/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+0.86
+0,6 - 1,2 mg/dl
+B-DATE
+Harnstoff
+27
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+101.1
+>60 s.u.
+<[Pseudo] 23/05/32>
+MDRD
+87.99
+ml/min/1,73qm
+B-DATE
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+40.7
+30 - 50 g/l
+B-DATE
+Glucose
+97
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+51 !H
+- <46 U/l
+B-DATE
+GPT/ALT
+40
+- <50 U/l
+B-DATE
+GGT
+16
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.7
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+6.3
+- <7 mg/dl
+B-DATE
+Triglyceride
+207 !H
+- <150 mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+226.0
+- alt.abh. mg/dl
+B-DATE
+LDL-Chol. -LRB- berechn. -RRB-
+143
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+42
+>40 mg/dl
+B-DATE
+CRP
+2.7
+- <5 mg/l
+<[Pseudo] 20/05/32>
+Hämolyse
+-
+
+<[Pseudo] 23/05/32>
+ikterisch
+-
+
+<[Pseudo] 23/05/32>
+Lipämie
+-
+
+<[Pseudo] 23/05/32>
+
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+LDH
+186
+- <317 U/l
+B-DATE
+CK
+120
+- <190 U/l
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+557 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+<20
+- <125 ng/l
+<[Pseudo] 18/05/32>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.4
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+36
+20 - 42 mmol/mol
+B-DATE
+mittlere Glucose
+108
+- <110 mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+TSH
+0.470
+0,400 - 4,000 mU/l
+B-DATE
+FT3
+3.34
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+11.56
+8 - 18 ng/l
+B-DATE
+Gerinnungsdiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+124.5
+70 - 125 %
+B-DATE
+INR - ber.
+0.94
+- <1.2
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+aPTT
+22.1
+- <35 s
+B-DATE
+Blutgasanalyse
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH
+7.45
+7,37 - 7,45
+B-DATE
+pO2
+60
+mmHg
+B-DATE
+pCO2
+32.8 !L
+35 - 45 mmHg
+<[Pseudo] 19/05/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-1.0
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+23.5
+mmol/l
+B-DATE
+
+
+
+
+
+Zusammenfassung:
+Die Aufnahme des Patienten erfolgte aus dem B-ORG I-ORG bei mutmaßlicher Ventrikulärer Tachykardie.
+
+Bei einem signifikanten Troponinanstieg sowie elektrokardiographischem Hinweis auf ein Hauptstammäquivalent -LRB- EKG vom B-ORG I-ORG -RRB- entschieden wir uns zur Durchführung einer Herzkatheteruntersuchung. Hierbei zeigte sich eine koronare Herzerkrankung ohne höhergradige Stenosen bei global guter linksventrikulärer Pumpfunktion. Der LVEDP war erhöht und im Rückzug zeigte sich ein Gradient von 20 mmHg in LVOT. Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere ergab sich klinisch kein Hinweis für eine Radialisthrombose.
+
+Am <[Pseudo] 19/05/2032> erfolgte die Übernahme des kardiorespiratorisch stabilen und beschwerdefreien Patienten auf unsere B-ORG Echokardiographisch ergab sich kein Verdacht auf eine HOCM bei fehlendem Gradienten im LVOT unter Valsalva bei guter systolischer Pumpfunktion und ohne deutlich hypertrophiert imponierende Wandbereiche. Zur weiteren diagnostischen Aufarbeitung wurde ein Kardio-MRT nach Kardiomyopathie-Protokoll durchgeführt. Hier konnte ebenfalls kein sicherer Anhalt für eine Kardiomyopathie festgestellt werden. Weiterhin zeigte sich eine gute linksventrikuläre Pumpfunktion ohne Zeichen einer Obstruktion des LVOTs. Es zeigte sich in keinem Segment ein Nachweis eines Late Gadolinium Enhancements. Zudem wurde normale T1-Relaxationszeiten und normale T2-Relaxationszeiten beobachtet. Der rechte Ventrikel zeigte sich hypertrabekularisiert mit leichtgradig reduzierter Pumpfunktion, möglicherweise hinweisgebened auf eine primär rechtskardiale Erkrankung.
+
+Es erfolgte eine erneue Vidierung des Original-EKGs mit Professor XXXXXXXXX. Es wurde der hochgradige V.a. eine aberrant übergeleitete supraventrikuläre Tachykardie gestellt. Wir führten deshalb am <[Pseudo] 23/05/2032> eine komplikationslose elektrophysiologische Untersuchung durch, in der erfolgreich eine Ablation eines anteroseptalen Leitungsbündels bei concealed WPW-Syndrom durchgeführt wurde. Es zeigte sich in der elektrophysiologischen Untersuchung ebenfalls eine leicht induzierbare AV-Reentry-Tachykardie mit identischem Bild i. Vgl. zum Anfalls-EKG aus dem B-ORG Zudem waren keine ventrikulären Tachykardien induzierbar. Es erfolgte eine multiple RV-Biopsieentnahme. Der postinterventionelle Verlauf gestaltete sich komplikationslos. Am Folgetag wurde ein Perikarderguss echokardiographisch ausgeschlossen.
+
+In der histopathologischen Aufarbeitung der RV-Biopsie konnte eine Vaskulitis und eine Speichererkrankung ausgeschlossen werden, typische Zeichen einer hypertrophen Kardiomyopathie waren nicht präsent. Es fand sich in einem Biopsiepartikel jedoch eine deutlich erhöhte Zahl Adipozyten, die in Gesamtschau und in Kenntnis des MRT-Befundes bei hypertrabekularisiertem RV und dort leichtgradig eingeschränkter Pumpfunktion differenzialdiagnostisch an eine ARVC denken lassen. Wir haben deshalb u.a. ambulanten Termin zur Anbindung an unsere Spezialambulanz für Kardiomyopathie vereinbart.
+
+Da die ausgelöste Supraventrikuläre Tachykardie elektrokardioagraphisch identisch zum Anfalls-EKG imponierte, sehen wir in Rücksprache mit OA B-PER zum aktuellen Zeitpunkt keine Indikation für eine sekundärprophylaktische Defibrillator-Implantation. Dies sollte in Kenntnis der Ergebnisse der weiteren differenzialdiagnostischen Aufarbeitung im Verlauf re-evaluiert werden.
+
+Am Entlasstag erfolgte erratisch die Abnahme von Troponin, das sich passend zur stattgehabten Ablation noch erhöht zeigte. Wir haben bei asymptomatischem, elektrokardiographisch unauffälligem Patienten keinen Anhalt für eine alternative Ursache des Troponins.
+
+Wir passten die Medikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Zudem bitten wir bei Statin-Therapie um eine Kontrolle des CK-Wertes, der Transaminasen und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER I-PER mit einem Entlassgewicht von 91 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Procedere/Termine:
+- Anbindung an unsere B-ORG -LRB- Termin: ; Ebene B-LOC in der ORG; Tel.: B-PHONE -RRB- zur weiteren differenzialdiagnostischen Aufarbeitung bei V.a. ARVC
+- Durchführung eines 24h Langzeit-EKGs im Verlauf
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100 mg 1-0-0 bei KHK
+Bisoprolol 2,5 mg 1-0-1
+Atorvastatin 10 mg 0-0-1 bei KHK, Ziel LDL < 70 mg/dl
+Bitte regelmäßige Kontrollen von CK, Transaminasen und Lipiden und bei Verträglichkeit LDL-adaptierte Dosisanpassung
+Venlafaxin 75 mg 0-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden jenseits des 60. Lebensjahres sowie bei KHK- und/oder Herzinsuffizienz im Besonderen empfohlen.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

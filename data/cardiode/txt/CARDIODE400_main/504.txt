@@ -1,0 +1,352 @@
+Aufnahmedatum: <[Pseudo] 2035-07-26 >
+Geburtsdatum: <[Pseudo] 1983-03-14 >
+Alter: 52
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 14/03/1983> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Bekannte koronare 2-Gefäßerkrankung -LRB- HK vom <[Pseudo] 25/07/2035> # B-OTHER -RRB- mit:
+-UNK- Global noch gute Pumpfunktion
+-UNK- Noch normale LVEDP ca. 14 mmHg.
+-UNK- Ca. 25% Endhauptstamm und 50% proximal LAD Stenose ohne aktuelle Interventionsbedarf. -LRB- RFR ca. 0,95 -RRB-
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung
+-UNK- OTHER: kein Interventionsbedarf
+-UNK- Z. n. PCI-RIVA -LRB- DES -RRB- B-DATE
+-UNK- Z. n. DES bei 80% RCA-Stenose B-DATE
+-UNK- Z. n. 2x DES dist. RCX, RPLS 75%, DES-Implantation; RCA medial 50-75%, <[Pseudo] 2029>
+- Symptomatische ventrikuläre Extrasystolie
+-UNK- unauffällige elektrophysiologische Untersuchung am <[Pseudo] 05/02/2031>
+-UNK- Normale systolische LV-EF 60%
+-UNK- Verschluss der A. carotis
+- Kleines Retroperitonealhämatom im Bereich des M. psoas li bei Z. n. Coro <[Pseudo] 05/34>
+- kein Anhalt für Divertikulitis oder Darmperforation
+- V.a. Harnstau li
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie, ehemaliger Nikotinabusus -LRB- 10 PJ -RRB- , pos. Familienanamnese -LRB- Vater mit Schlaganfall 52 52 Mutter Tod durch Myokardinfarkt 74 52 Bruder 2 KHK -RRB-
+
+Allergien:
+Statinunverträglichkeit -LRB- Muskelschmerzen -RRB- , ACE-Hemmer
+
+Allgemein:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über die B-ORG I-ORG I-ORG als Verbringung durch den Notarzt bei thorakalen Beschwerden und Dyspnoe.
+Anamnestisch bestanden seit ein paar Tagen AP-Beschwerden, Nitro sensibel. Gestern ergab sich Progredienz bei leichtester Belastung ähnlich zu den letzten Interventionen. Es wurde keinen Schwindel weder Synkope oder Palpitationen angegeben. Aktuell bestand keinen Hinweis auf einen akuten Infekt.
+Es wird bei generell sportlicher Belastungsfähigkeit eine seit einer Woche reduzierte körperliche Belastbarkeit im Alltag beschrieben. Inadäquate Belastungsdyspnoe wird nicht beschrieben, jedoch bestünden seit ca. 2 Tagen belastungsinduzierte pectanginöse Beschwerden. Diese besseren sich bei der Einnahme von Nitro nicht. Ferner beschreibt der Patient Palpitationen und Herzrasen, diese bestünden jedoch schon seit dem Myokardinfarkt vor 5 Jahren. Gelegentlich bestünden beim Lagewechsel auch Schwindel. Stattgehabte Synkopen werden verneint. Die häuslichen Blutdruckmessungen ergäben Werte um 135/ 90 mmHg. Periphere Ödeme seien bei Gewichtskonstanz in der letzten Zeit nicht aufgefallen.
+
+Medikation bei Aufnahme:
+ASS 100mg 1-0-0
+Brilique 60mg 1-0-1
+Metoprolol 50mg 1-0-0
+Amlodipin 5mg 1-0-0
+Ranexa 500mg 1-0-1
+Candesartan 16mg 0-0-1
+Rosuvastatin 10mg 0-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- 178 cm, 78 kg -RRB-
+HF: 73/min, regelmäßig
+RR: 131 / 87 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o. B.
+HT: rein, keine path. Geräusche. Keine Fortleitungen.
+Lunge: vesikuläres Atemgeräusch über allen Lungenfeldern
+Abdomen: weich, DS tief im lateralen linken OB, keine Resistenzen
+Leber: nicht vergrößert palpabel, Milz evtl. vergrößert palpabel
+Periphere Ödeme: keine
+Pulsstatus: Pulse allseits gut tastbar
+Neurologischer Status: orientierend o. B.
+sonstige Auffälligkeiten: keine
+
+Labor:
+
+EKG bei Aufnahme:
+Rhythmus: Sinusrhythmus, Herzfrequenz: 73/min, Lagetyp: Indifferenztyp, QRS-Komplex: normal, ST-Strecke: normal, T-Welle: normal.
+
+Ruhe-EKG vom <[Pseudo] 24/07/2035:>
+Normofrequenter Sinusrhythmus bei 61/min, Steiltyp. PQ 162 msec, QRS 89 msec., QTc 389 msec. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V2/V3. Keine signifikanten Kammerendteilveränderungen. P-Mitrale in II, III, aVF, V2-V5. Konkave ST-Strecke in II,III, aVF, V4-V6
+
+Ruhe-EKG vom <[Pseudo] 25/07/2035:>
+Normofrequenter Sinusrhythmus bei 68/min, Steiltyp. PQ 157 msec, QRS 84 msec., QTc 394 msec. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V2/V3. Keine signifikanten Kammerendteilveränderungen. P-Mitrale in II, III, aVF, V2-V5. Konkave ST-Strecke in II,III, aVF, V4-V6
+
+Virologischer Befund vom <[Pseudo] 23/07/2035> -LRB- OTHER -RRB- :
+
+
+Echokardiographie vom <[Pseudo] 24/07/2035:>
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion bei umschriebener Hypokinesie inferomedio-basal. Erhaltene longitudinale Funktion. Regelgerechte diastolische Funktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit.
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 25-30 mmHg -RRB- . Erstbefund in domo.
+
+Herzkatheteruntersuchung -LRB- B-OTHER -RRB- vom <[Pseudo] 25/07/2035> vorläufiger Befund:
+Indikation: AP-Beschwerden, Verdacht auf Progress
+Befund: Bekannte koronare 2-Gefäßerkrankung mit global noch gute Pumpfunktion. Noch normale LVEDP ca. 14 mmHg. Ca. 25% Endhauptstamm und 50% proximal LAD Stenose ohne aktuelle Interventionsbedarf. -LRB- RFR ca. 0,95 -RRB-
+Procedere: Konservativ
+
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über die B-ORG I-ORG I-ORG bei instabiler Angina Pectoris.
+
+In der B-ORG I-ORG I-ORG war der Patient seit der Aufnahme im Wesentlichen asymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 6,1 pg/ml, im Verlauf
+stabil 6,7 pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. Laborchemisch zeigte sich
+keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig -RRB- . Das NT-pro-BNP fand sich im
+Normbereich.
+
+In der am <[Pseudo] 24/07/2035> durchgeführten Echokardiographie zeigte sich ein normal großer, septal betont leicht hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion bei umschriebener Hypokinesie inferormedio-basal. Es ergab sich eine erhaltene longitudinale Funktion mit regelgerechter diastolischer Funktion. Die Aortenklappe war trikuspid mit guter Separation. Die übrigen Klappen waren sonographisch und dopplersonographisch regelrecht.
+Wir stellten die Indikation zu weitergehender invasiver Abklärung bei neu Hypokinesie inferormedio-basal echokardiographisch im Vergleich zu einem Extern- Befund vom B-DATE
+
+In der am <[Pseudo] 25/07/2035> durchgeführten Herzkatheteruntersuchung ergab sich die bekannte koronare 2-Gefäßerkrankung mit global noch gute Pumpfunktion. Es ergab sich noch normale LVEDP ca. 14 mmHg. Es zeigte sich ca. 25% Endhauptstamm und 50% proximal LAD Stenose ohne aktuelle Interventionsbedarf. -LRB- RFR ca. 0,95 -RRB-
+Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich klinisch kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Wir optimierten die antianginösen Therapie wie unter angegeben. Wir bitten um weitere Anpassung in Verlauf.p
+
+Wir bitten um eine Schönung über 2 Wochen, wo der Patient sich langsam belasten kann.
+
+Bei unklarer Dyspnoe bitten wir um eine ambulante pulmologische Vorstellung.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+ASS 100mg 1-0-0
+Ticagrelor 60mg 1-0-1
+Metoprolol 50mg 1-0-0,5, erhöht
+Amlodipin 5mg 1-0-0
+Ranexa 500mg 1-0-1
+Candesartan 16mg 0-0-1
+Rosuvastatin 10mg 0-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 6 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen den Patienten heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE B-PER I-PER I-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärztin
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 23/07/2035> und dem <[Pseudo] 26/07/2035>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+9.49
+4 - 10 /nl
+B-DATE
+Hb
+13.7
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.7
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.400
+0,38 - 0,52 l/l
+B-DATE
+MCV
+85
+83 - 97 fl
+<[Pseudo] 26/07/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 26/07/35>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 26/07/35>
+RDW
+13.3
+12,9 - 18,7 %
+<[Pseudo] 26/07/35>
+hypochr.Erythroz.
+0.2
+0 - 2 %
+B-DATE
+Thrombozyten
+202
+150 - 440 /nl
+<[Pseudo] 26/07/35>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 26/07/35>
+Kalium -LRB- ISE -RRB-
+4.05
+3,4 - 4,8 mmol/l
+<[Pseudo] 26/07/35>
+Kreatinin
+0.81
+0,6 - 1,2 mg/dl
+<[Pseudo] 26/07/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+39
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+102.2
+>60 s.u.
+<[Pseudo] 26/07/35>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+116 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+27
+- <46 U/l
+B-DATE
+GPT/ALT
+25
+- <50 U/l
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 23/07/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+PCT sens.
+<0.05
+- <0,05 ng/ml
+<[Pseudo] 25/07/35>
+Hämolyse
+-
+
+<[Pseudo] 26/07/35>
+ikterisch
+-
+
+<[Pseudo] 26/07/35>
+Lipämie
+-
+
+<[Pseudo] 26/07/35>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+189
+- <317 U/l
+B-DATE
+CK
+214 !H
+- <190 U/l
+<[Pseudo] 23/07/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+10.5
+- <14 pg/ml
+B-DATE
+NT-BNP
+110
+- <125 ng/l
+<[Pseudo] 23/07/35>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.960
+0,400 - 4,000 mU/l
+<[Pseudo] 23/07/35>
+FT3
+3.72
+2,0 - 4,2 ng/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+FT4
+10.56
+8 - 18 ng/l
+<[Pseudo] 23/07/35>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+91.8
+70 - 125 %
+<[Pseudo] 23/07/35>
+INR - ber.
+1.05
+- <1.2
+<[Pseudo] 23/07/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+D-Dimer -LRB- neu -RRB-
+0.45
+- <0,5 mg/l
+B-DATE

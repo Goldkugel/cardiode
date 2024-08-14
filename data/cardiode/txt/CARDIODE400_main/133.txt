@@ -1,0 +1,340 @@
+Aufnahmedatum: <[Pseudo] 2517-03-30 >
+Geburtsdatum: <[Pseudo] 2095-11-21 >
+Alter: 421
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 21/11/2095> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+Ad Ischämienachweis bezüglich der RCA
+- Erfolgreiche PTCA/3fach DE-Stentimplantation der LAD -LRB- B-OTHER vom <[Pseudo] 02/11/2180> -RRB-
+-UNK- 50%ige RCA-Stenose, höhergradige sehr periphere LCX-Stenose -LRB- Seg.15 -RRB-
+-UNK- Koronare 3-Gefäßerkrankung mit guter linksventrikulärer Pumpfunktion
+- Paroxysmales Vorhofflimmern -LRB- ED <[Pseudo] 01/11/2180> -RRB-
+-UNK- CHA2DS2-VASc-Score: 4
+-UNK- Orale Antikoagulation: Xarelto
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie
+Allergien/Unverträglichkeiten: V.a. Kontrastmittelallergie
+
+Anamnese:
+Die Vorstellung erfolgte als Verbringung durch den Notarzt bei ACS und hypertensiver Entgleisung.
+Anamnestisch bestanden seit ca 1 Woche eine progrediente Belastungsdyspnoe aktuell NYHA III begleitet von thorakalen Beschweren CCS III. Diese werden als thorakaler Druck mit Brennen im Hals bei kleinster Belastung beschrieben. Weiterhin Schwindel während dieser Anfälle. Keine Ödeme, keine Synkope. Keine Palpitationen. Kein Hinweis auf einen akuten Infekt. Häusliche Blutdruckwerte seien in den letzten Tagen wechselhaft jedoch meist normwertig gewesen.
+
+Medikation bei Aufnahme:
+ASS 100 mg 1-0-0
+Metoprolol 47,5 mg 1/2-0-1/2
+Valsartan/Amlodipin 160/5 mg 1-0-0
+Valsartan/Amlodipin/HCT 160/5/12,5 mg 1-0-0
+Simvastatin 20 mg 1-0-0
+
+
+Körperlicher Untersuchungsbefund auf Station:
+AZ: gut
+EZ: gut
+HF:70/min, regelmäßig
+RR: 130/70 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+
+
+
+
+Ruhe-EKG bei Aufnahme:
+Rhythmus: Sinusrhythmus, Herzfrequenz: 71/min, Lagetyp: überdrehter Linkstyp, QRS-Komplex:
+linksanteriorer Hemiblock, ST-Strecke: normal, T-Welle: T Negativierung -LRB- Abl: I, aVL -RRB- .
+
+EKG vom <[Pseudo] 01/11/2180:>
+VHF, HF 105/min, überdrehter Linkstyp, QRS 128ms, QTc 417ms, R/S-Umschlag verspätet bei zögerlicher R-Progression in V5/V6 mit S-Persistenz bis V6. T-Negativierung in aVL, V1-V2
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 02/11/2180> -RRB-
+Herzkathteteruntersuchung bei instabiler Angina pectoris:
+
+Erfolgreiche PTCA / 3-fach DE-Stentimplantation -LRB- Promus -RRB- der hochgradig, langstreckig stenosierten LAD.
+Koronare 3-Gefäßerkrankung mit residuell höhergradiger peripherer Stenose der LCX und 50%-iger Stenose der RCA. Global gute linksventrikuläre Pumpfunktion mit normalen enddiastolischen Drücken des linken Ventrikels.
+
+Akute Kreislaufreaktion mit V.a. Kontrastmittel-Allergie
+
+Weitere Diagnosen:
+Paroxysmales Vorhofflimmern, CHA2DS2-VASc-Score: 4 Punkte.
+CvRF: aHT, HLP. Allergien: initial keine, neu: KONTRASTMITTEL
+
+Maßnahmen:
+1 -RRB- Triple-Antikoagulation für 1 Woche, dann Xarelto + Clopidogrel für 12 Monate
+2 -RRB- Ad Ischämienachweis bzgl. der RCA -LRB- ambulant -RRB-
+3 -RRB- Optimale Einstellung der kardiovaskulären Risikofaktoren.
+
+Echokardiographie vom <[Pseudo] 02/11/2180:>
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Grenzwertig weite Aortenwurzel. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Mitralklappe mit minimaler zentraler Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei lediglich minimalem Trikuspidalklappenreflux nicht valide ableitbar.
+
+EKG vom <[Pseudo] 02/11/2180:>
+Sinusrhythmus, HF 51/min, überdrehter Linkstyp, PQ verlängert 229ms, QRS 125ms, QTc 474ms, R/S-Umschlag verspätet beizögerlicher R-Progression in V5/V6 mit S-Persistenz bis V6, AV-Block I
+
+EKG vom <[Pseudo] 02/11/2180> postinterventionell:
+VHF, HF 51/min, überdrehter Linkstyp, QRS 130ms, QTc 445ms, R/S-Umschlag verspätet bei zögerlicher R-Progression in V5/V6 mit S-Persistenz bis V6. T-Negativierung in aVL.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 01/11/2180> und dem <[Pseudo] 03/11/2180>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+9.05
+4 - 10 /nl
+B-DATE
+Hb
+14.2
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.6
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.400
+0,36 - 0,47 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 01/11/80>
+MCHC
+36
+30 - 36 g/dl
+<[Pseudo] 01/11/80>
+RDW
+13.2
+12,9 - 18,7 %
+<[Pseudo] 01/11/80>
+hypochr.Erythroz.
+0
+0 - 2 %
+B-DATE
+Thrombozyten
+230
+150 - 440 /nl
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+132 !L
+135 - 146 mmol/l
+<[Pseudo] 01/11/80>
+Kalium -LRB- ISE -RRB-
+3.74
+3,4 - 5,0 mmol/l
+B-DATE
+Kreatinin
+0.57
+0,5 - 1,4 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+21
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+85.4
+>60 s.u.
+<[Pseudo] 01/11/80>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+123 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+30
+- <37 U/l
+B-DATE
+GPT/ALT
+16
+- <35 U/l
+B-DATE
+Triglyceride
+72
+- <150 mg/dl
+B-DATE
+Cholesterin
+174.0
+- alt.abh. mg/dl
+<[Pseudo] 01/11/80>
+LDL-Chol. -LRB- berechn. -RRB-
+100
+- <160 mg/dl
+<[Pseudo] 01/11/80>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HDL-Cholesterin
+60
+>50 mg/dl
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 01/11/80>
+Hämolyse
++
+
+<[Pseudo] 01/11/80>
+ikterisch
+-
+
+<[Pseudo] 01/11/80>
+Lipämie
+-
+
+<[Pseudo] 01/11/80>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+280
+- <301 U/l
+B-DATE
+CK
+104
+- <170 U/l
+<[Pseudo] 01/11/80>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+25.2 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+553 !H
+- <450 ng/l
+<[Pseudo] 01/11/80>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.720
+0,400 - 4,000 mU/l
+<[Pseudo] 01/11/80>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+69.6 !L
+70 - 125 %
+<[Pseudo] 01/11/80>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+INR - ber.
+1.17
+- <1.2
+<[Pseudo] 01/11/80>
+
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte über unsere B-ORG I-ORG bei thorakalen Beschwerden und Belastungsdyspnoe.
+
+In der Herzkatheteruntersuchung zeigte sich eine koronare 3-Gefäßerkrankung mit guter linksventrikulärer Pumpfunktion. Wir führten die erfolgreiche PTCA/3DE-Stentimplantation der LAD durch. Zudem zeigte sich eine 50%ige RCA-Stenose. Es zeigte sich zudem bei periinternventioneller akuter Kreislaufreaktion der Verdacht auf eine Kontrastmittelallergie.
+
+Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Echokardiographisch zeigte sich ein normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen und ohne Anhalt für hochgradige Vitien.
+
+Elektrokardiographisch zeigte sich am Abend des <[Pseudo] 01.11.> auf Station die Erstdiagnose eines tachykarden Vorhofflimmerns, welches selbst limitierte. Wir empfehlen eine Langzeit-EKG-Untersuchung im Verlauf sowie bei einem CHA2-DS2-VAScScore von 4 die Einleitung einer Antikoagulation.
+
+Wir empfehlen die kombinierte Thrombozytenaggregationshemmung als Triple-Therapie für 1 Woche mit ASS, Clopidogrel und Xarelto, danach kann ASS abgesetzt werden und die Antikoagulation mit Clopidogrel und Xarelto für mindestens 12 Monate nach Intervention fortgeführt werden. Anschließend ist eine dauerhafte Thrombozytenaggregationshemmung mit Xarelto einmal täglich ausreichend. Die Patientin wurde über die Notwendigkeit einer lückenlosen Einnahme von ASS, Xarelto und Clopidogrel bis zum unten genannten Datum ausführlich aufgeklärt.
+
+Bezüglich der RCA empfehlen wir einen Ischämienachweis bspw. mittels Stressechokardiographie, welcher gerne auch bei einem niedergelassenen B-SALUTE durchgeführt werden kann, zudem empfehlen wir regelmäßige kardiologische Kontrollen, gerne auch im niedergelassenen Bereich.
+
+Wir passten die Medikation gemäß aktuellen Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Des Weiteren empfehlen wir zur Lipidsenkung und Plaquestabilisierung eine Umstellung der Therapie auf Atorvastatin. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100 mg 1-0-0 bis zum <[Pseudo] 09/11/2180>
+Clopidogrel 75mg 1-0-0 bis zum <[Pseudo] 02/11/2181>
+Xarelto 15mg 1-0-0 bis zum <[Pseudo] 02/11/2181> dann Xarelto 20mg dauerhaft
+Metoprolol 47,5 mg 1-0-1/2 gesteigert, ggf. Im Verlauf weiter steigern Bitte regelmäßige Kontrolle von Herzfrequenz und Blutdruck und ggf. Anpassung der Dosis im Verlauf
+Valsartan/Amlodipin 160/5 mg 1-0-0
+Valsartan/Amlodipin/HCT 160/5/12,5 mg 1-0-0
+Simvastatin abgesetzt
+Atorvastatin 20mg 0-0-1 Neu Bitte regelmäßige Kontrolle der CK sowie Transaminasen und LDL Zielwerte nach akutellen Leitlinien
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach Haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

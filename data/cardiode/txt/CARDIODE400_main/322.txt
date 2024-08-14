@@ -1,0 +1,534 @@
+Aufnahmedatum: <[Pseudo] 2040-09-23 >
+Geburtsdatum: <[Pseudo] 1966-08-27 >
+Alter: 74
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 27/08/1966> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell
+- Akuter Myokardinfarkt -LRB- NSTEMI -RRB- am <[Pseudo] 14/09/2040>
+- Koronare 3-Gefäßerkrankung mit global guter linksventrikulärer Pumpfunktion
+-UNK- Koronare 2 Gefäßerkrankungen. Hochgradige In-Stent Restenose der proximalen LAD. Gutes Ergebnis nach PCI der LCX 2020. Mittelgradig reduzierte LV Funktion. PTCA/1xDES -LRB- Xience -RRB- der prox. LAD. -LRB- B-OTHER vom <[Pseudo] 14/09/2040> -RRB-
+-UNK- Gute Wirkung von ASS und Ticagrelor am <[Pseudo] 17/09/2040>
+-UNK- Z. n. erfolgreichem Bifurkationsstenting der LAD/RD1 -LRB- 2x DE-Direktstenting LAD + 1x PTCA/DES RD1 -RRB- in TAP-Technik <[Pseudo] 10/38>
+-UNK- Z. n. erfolgreicher PCI/1xDE-Stentimplantation der LCX -LRB- B-OTHER v. <[Pseudo] 22/12/2038> -RRB-
+
+Diagnose:
+- Halsgefäß-Atherosklerose ohne relevante Stenosen -LRB- MR-Angiographie vom <[Pseudo] 02/04/2037> -RRB-
+- Kinking der linken A. carotis interna
+- Anamnest. Z. n. zweimaligem Apoplex/TIA -LRB- DATE, <[Pseudo] 2016> -RRB-
+- Refluxösophagitis
+- Z. n. gynäkologischer Total-Op. <[Pseudo] 2015>
+- Z. n. Cholezystektomie und Sigmaresektion bei Divertikulose <[Pseudo] 2029>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Z. n. Nikotinkonsum -LRB- 15 PY -RRB- , Familienanamnese für Apoplex und Infarkte
+
+Allergien: Novalgin !
+Anamnese:
+Die Aufnahme der Patientin auf unsere Station erfolgte als Übernahme von unserer B-ORG I-ORG bei Z. n. NSTEMI mit Intervention zur weiteren Behandlung und Überwachung. Die initiale Aufnahme der Patientin erfolgte durch den Notarzt mit V.a. ACS und V. a intermitt Kammerersatzrhythmus. B-SALUTE B-PER hatte den Notarzt verständigt bei plötzlich aufgetretener Übelkeit, epigastrischen Schmerzen sowie linksthorakalem Druckgefühl mit Ausstrahlung in den Rücken. Danach sei sie massiv Kaltschweißig und präsynkopal gewesen. Seit 2 Wochen progrediente Belastungsdyspnoe. Vom Notarzt ASS, Heparin sowie Arterenol-Perfusor erhalten bei initialer Hypotonie um 80 mmHg systolisch, im Notarzt-EKG zweimalig bradykarde Episode mit HF um 31/min mit breitem QRS-Komplex
+Bei der Übernahme zeigte sich die Patientin wach, adäquat, beschwerdefrei und kardiorespiratorisch stabil.
+
+Medikation bei Aufnahme:
+ASS 100 mg 1-0-0 dauerhaft
+Ticagrelor 90 mg 1-0-1 für 12 Monate
+Pantozol 20 mg 1-0-0 bei DAPT
+Amlodipin 5 mg 1-0-1 gesteigert
+Candesartan 8 mg 1-0-1 gesteigert
+Bisoprolol 2,5 mg 1-0-0 neu
+Atorvastatin 20mg 0-0-1 neu
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 163 cm, 58 kg
+HF: 45/min, regelmäßig
+RR: 125/89 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein, keine patholog. Geräusche
+Lunge: bds. frei
+Periphere Ödeme: keine
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: kühle Extremitäten
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2039> und dem B-DAY B-MONTH <[Pseudo] 2039>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.90
+4 - 10 /nl
+B-DATE
+Hb
+13.0
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.2
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.400
+0,36 - 0,47 l/l
+B-DATE
+MCV
+95
+83 - 97 fl
+B-DATE
+MCH
+31
+27 - 33 pg
+B-DATE
+MCHC
+33
+30 - 36 g/dl
+B-DATE
+RDW
+13.7
+12,9 - 18,7 %
+<[Pseudo] 19/09/40>
+hypochr.Erythroz.
+2.7 !H
+0 - 2 %
+<[Pseudo] 19/09/40>
+Thrombozyten
+320
+150 - 440 /nl
+<[Pseudo] 19/09/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+1.58
+1,0 - 4,8 /nl
+<[Pseudo] 14/09/40>
+Neutroph.G.-abs.
+6.02
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.36
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.07
+- <0,5 /nl
+<[Pseudo] 14/09/40>
+Basoph.G. -LRB- abs -RRB-
+0.02
+- <0,2 /nl
+<[Pseudo] 14/09/40>
+Neutroph.G. -LRB- mech. -RRB-
+74.3
+50 - 80 %
+<[Pseudo] 14/09/40>
+Lympho -LRB- mech. -RRB-
+19.5 !L
+25 - 40 %
+<[Pseudo] 14/09/40>
+Basoph.G.
+0.3
+- <1 %
+<[Pseudo] 14/09/40>
+Monozyten -LRB- mech. -RRB-
+4.4
+2 - 9 %
+<[Pseudo] 14/09/40>
+Eosinoph.G. -LRB- mech. -RRB-
+0.9 !L
+2 - 4 %
+<[Pseudo] 14/09/40>
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 19/09/40>
+Kalium -LRB- ISE -RRB-
+3.81
+3,4 - 5,0 mmol/l
+<[Pseudo] 19/09/40>
+Calcium
+2.07 !L
+2,11 - 2,59 mmol/l
+B-DATE
+Ca./korr.
+2.06 !L
+2,1 - 2,65 mmol/l
+B-DATE
+Phosphat
+0.99
+0,84 - 1,45 mmol/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Magnesium
+0.65 !L
+0,75 - 1,05 mmol/l
+<[Pseudo] 14/09/40>
+Kreatinin
+0.71
+0,5 - 1,1 mg/dl
+B-DATE
+Harnstoff
+32
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+84.2
+>60 s.u.
+<[Pseudo] 19/09/40>
+MDRD
+104.02
+ml/min/1,73qm
+<[Pseudo] 14/09/40>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+40.4
+30 - 50 g/l
+<[Pseudo] 14/09/40>
+Glucose
+98
+65 - 110 mg/dl
+<[Pseudo] 14/09/40>
+GOT/AST
+31
+- <37 U/l
+<[Pseudo] 14/09/40>
+Ges.Bili.
+0.5
+- <1.0 mg/dl
+B-DATE
+Triglyceride
+47
+- <150 mg/dl
+<[Pseudo] 14/09/40>
+Cholesterin
+178.0
+- alt.abh. mg/dl
+<[Pseudo] 14/09/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lipase
+23
+19 - 63 U/l
+<[Pseudo] 14/09/40>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 14/09/40>
+Hämolyse
+-
+
+<[Pseudo] 19/09/40>
+ikterisch
+-
+
+<[Pseudo] 19/09/40>
+Lipämie
+-
+
+<[Pseudo] 19/09/40>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+210
+- <301 U/l
+B-DATE
+hs-TroponinT
+171 !H
+- <14 pg/ml
+<[Pseudo] 19/09/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+394
+- <450 ng/l
+<[Pseudo] 14/09/40>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+2.25
+0,400 - 4,000 mU/l
+<[Pseudo] 14/09/40>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+69.6 !L
+70 - 125 %
+<[Pseudo] 14/09/40>
+INR - ber.
+1.16
+- <1.2
+<[Pseudo] 14/09/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+<NONE> !H
+- <35 s
+B-DATE
+ASS
+3
+Ohm
+<[Pseudo] 17/09/40>
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.42
+7,37 - 7,45
+B-DATE
+pO2
+80
+mmHg
+B-DATE
+pCO2
+32.9 !L
+35 - 45 mmHg
+<[Pseudo] 14/09/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-3.1 !L
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+21.9
+mmol/l
+B-DATE
+Laktat
+9.7
+- <16 mg/dl
+<[Pseudo] 14/09/40>
+
+
+Weitere Laborwerte
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HKt ber.
+37
+%
+<[Pseudo] 14/09/40>
+Bicarb. /akt.
+20.7
+mmol/l
+<[Pseudo] 14/09/40>
+Schnelltest COVID 19
+negativ
+
+<[Pseudo] 14/09/40>
+2019-nCoV
+negativ
+
+<[Pseudo] 14/09/40>
+Ticagrelor
+0
+Ohm
+<[Pseudo] 17/09/40>
+Met-Hb
+0
+- <1,5 %
+<[Pseudo] 14/09/40>
+Natrium
+134 !L
+135 - 145 mmol/l
+<[Pseudo] 14/09/40>
+Calcium
+1.15
+1,15 - 1,35 mmol/l
+<[Pseudo] 14/09/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Abnahmeart
+art.
+
+<[Pseudo] 14/09/40>
+Chlorid
+103
+95 - 105 mmol/L
+<[Pseudo] 14/09/40>
+CO-Hb
+0.5
+- <2,0 %
+<[Pseudo] 14/09/40>
+Glucose
+83
+65 - 100 mg/dl
+<[Pseudo] 14/09/40>
+Hämoglobin
+12.6
+12 - 15 g/dl
+<[Pseudo] 14/09/40>
+Kalium
+4.03
+3,6 - 4,8 mmol/l
+<[Pseudo] 14/09/40>
+cSO2
+95.5
+%
+<[Pseudo] 14/09/40>
+
+
+
+
+
+Ruhe EKG v. <[Pseudo] 15/09/2040:>
+normofrequenter Sinusrhyhtmus HF: 66 S/min, ÜLT Typ PQ: 167 ms QRS: 91ms, QTc 466ms, biphasisches T in V2, T Negativierung in V4-V5
+
+Ruhe-EKG vom <[Pseudo] 18/09/2040>
+Sinusbradykardie, 57/min, überdrehter Linkstyp. PQ 187 msec, QRS 98 msec., QTc 495msec. Verlängerte QT-Zeit. Regelrechte R-Progression, R/S Umschlag in V4/V5, S-Persistenz bis V6. Q-Zacke in aVR, aVL. Linksanteriorer Hemiblock. T-Negativierung in I, II, III, aVF, V2-V6.
+
+Virologischer Befund vom <[Pseudo] 14/09/2040> -LRB- ORG -RRB- :
+
+Nasenabstrich vom <[Pseudo] 14/09/2040> -LRB- B-ORG -RRB- :
+Kultureller Befund:
+Kein Nachweis von Staphylococcus aureus
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB- .
+
+Rektalabstrich vom <[Pseudo] 14/09/2040> -LRB- B-ORG -RRB- :
+Kultureller Befund:
+Kein Nachweis von Staphylococcus aureus
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB- .
+Kein Nachweis von Vancomycin-resistenten Enterokokken
+Kein Nachweis von multiresistenten gramnegativen Stäbchen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER -RRB- vom <[Pseudo] 14/09/2040> Endbefund:
+Herzkatheteruntersuchung bei NSTEMI:
+Erfolgreiche PTCA/1-fach DE-Stentimplantation -LRB- Xience -RRB- einer hochgradigen proximalen in-Stent-Restenose der LAD. Koronare 2-Gefäßerkrankung von LAD und LCX mit gutem Ergebnis nach PCI der LCX 2020. Global mittelgradig eingeschränkte linksventrikuläre Pumpfunktion. Erhöhte enddiastolische Drücke des linken Ventrikels.
+Sonstige Diagnosen:
+KHK 2-GE, zuletzt Bifurkationsstenting LAD/RD1 B-DATE, Z. n. 1x DES der LCX -LRB- HK B-OTHER -RRB- ; Kinking der linken ACI; Z. n. 2x Apoplex/TIA -LRB- DATE, <[Pseudo] 2016> -RRB- ; Refluxösophagitis
+CVRF: aHT, Ex-Raucherin -LRB- 15 PY -RRB- , pos. FA
+Allergien: Novalgin.
+Maßnahmen:
+1 -RRB- Duale Thrombozytenaggregationshemmung für 12 Monate. Dauerhafte Statintherapie empfehlen!
+2 -RRB- Herzinsuffizienztherapie.
+
+Echokardiographie vom <[Pseudo] 16/09/2040:>
+Bemerkungen: Eingeschränkte Schallbedingungen
+Beurteilung: Normal großer, septal betont leicht hypertrophierter linker Ventrikel global mittelgradig eingeschränkter LV-Funktion bei Hypokinesie des Apex und der angrenzenden Wandabschnitte. Erhaltene longitudinale Funktion. Kein Hinweis auf signifikante diastolische Dysfunktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Aortenklappe leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht bestimmbar. Erstbefund in domo.
+
+Lungenfunktionsprüfung vom <[Pseudo] 16/09/2040:>
+Kapillare Blutgasanalyse: nicht durchgeführt
+Spirometrie:
+Vitalkapazität -LRB- VC -RRB- leichtgradig vermindert.
+Keine Obstruktion der kleinen Atemwege.
+Spez.FEV1: 27 ml/kgKG
+Die spez. FEV1 liegt bei 27 ml/kgKG, damit besteht bei Beurteilung rein anhand der spez. FEV1 kein erhöhtes Op/ITN-Risiko.
+
+Zusammenfassende Beurteilung:
+Die Aufnahme der Patientin auf unsere Station erfolgte als Übernahme von unserer B-ORG Überwachungsstation bei Z. n. NSTEMI mit Intervention zur weiteren Behandlung und Überwachung. Die initiale Aufnahme der Patientin erfolgte vom Notarzt bei Präsynkope und atypischen AP-Beschwerden mit Hypotonie und Bradykardie DD intermittierendem LSB DD Kammerersatzrhythmus.
+
+
+Bei typischen Beschwerden und NSTEMI erfolgte eine Koronarangiographie. Hier zeigte sich eine koronare 2-Gefäßerkrankung mit hochgradiger In-Stent Restenose der proximalen LAD und gutem Ergebnis nach PCI der LCX 2020. Zudem zeigte sich eine mittelgradig reduzierte LV-Funktion. Es erfolgte eine PTCA/1xDES -LRB- Xience -RRB- der prox. LAD. Insgesamt gestaltete sich der postinterventionelle Verlauf komplikationslos. Bei einer In-Stent Restenose erfolgte die Durchführung einer Resistenztestung, die eine gute Wirkung von ASS und Ticagrelor zeigte.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung mit ASS 100 mg 1x tägl. und Ticagrelor 90 mg 2x tägl. für 12 Monate. Im Anschluss ist eine alleinige Thrombozytenaggregationshemmung mit ASS 100 mg 1x tägl. ausreichend.
+Der Patient wurde über die Notwendigkeit einer lückenlosen Einnahme von ASS und Ticagrelor bis einschließlich <[Pseudo] 14/09/2041> ausführlich aufgeklärt.
+
+Echokardiographisch zeigte sich ein normal großer, septal betont leicht hypertrophierter linker Ventrikel mit global mittelgradig eingeschränkter LV-Funktion bei Hypokinesie des Apex und der angrenzenden Wandabschnitte. Die Herzklappen zeigten sich sonographisch und dopplersonographisch regelrecht.
+
+Es erfolgte eine Anpassung der Herzinsuffizienztherapie wie unten angegeben. Wir bitten um regelmäßige Blutdruck-, Herzfrequenz-, Nierenwert- und Elektrolytkontrollen und ggf. weitere Optimierung dieser Therapie im Verlauf. Wir bitten um eine Steigerung der Candesartan und Bisoprolol zur maximalen evidenzbasierten Dosis.
+
+Des Weiteren begannen wir zur Lipidsenkung und Plaquestabilisierung eine Therapie mit einem Statin. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Eine Anschlussheilbehandlung wurde eingeleitet.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+ASS 100 mg 1-0-0 dauerhaft
+Ticagrelor 90 mg 1-0-1 für 12 Monate
+Bisoprolol 2,5 mg 1-0-0 neu
+Candesartan 8 mg 1-0-1 gesteigert
+Amlodipin 5 mg 1-0-1 gesteigert
+Torasemid 5 mg 1-0-0 neu
+Atorvastatin 20mg 0-0-1 neu
+Pantozol 20 mg 1-0-0 bei DAPT
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 3 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen die Patientin heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

@@ -1,0 +1,394 @@
+Aufnahmedatum: <[Pseudo] 2032-05-17 >
+Geburtsdatum: <[Pseudo] 1975-03-04 >
+Alter: 57
+
+über Ihren Patienten B-SALUTE B-TITLE B-PER B-PER I-PER geboren am <[Pseudo] 04/03/1975> wh. B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Diagnosen:
+- Dilatative Kardiomyopathie, mittelgradig eingeschränkte linksventrikuläre Ejektionsfraktion -LRB- EF 37% -RRB- -LRB- TTE v. <[Pseudo] 17/05/2032> -RRB-
+- Ausschluss KHK, EF 45%, Koronarangiographie am <[Pseudo] 05/01/2032> -LRB- KH I-ORG -RRB-
+- Kardio-MRT -LRB- <[Pseudo] 12/01/2032> KH I-ORG -RRB- : Bild einer CMP mit leichtgradig reduzierter LV E und RV EF, kein Hinweis auf akute/abgelaufene Myokarditis
+- Vermehrte ventrikuläre Extrasystolen
+Kardiovaskuläre Risikofaktoren: Nikotin: nie, Cousine väterlicherseits mit am ehesten SCD mit 40J Allergien/Unverträglichkeiten: Keine bekannt
+
+Aktuell:
+- Herzinsuffizienz Stadium NYHA I
+- Mittelgradig eingeschränkte linksventrikuläre Ejektionsfraktion -LRB- EF 37% -RRB- -LRB- TTE v. <[Pseudo] 17/05/2032> -RRB-
+- Optimierung der Herzinsuffizienz Therapie
+- Empfehlung zum jährlichen LZ-EKG
+
+Anamnese:
+Die Erstvorstellung erfolgte bei neu diagnostizierter DCM -LRB- <[Pseudo] 12/2031> -RRB- . Im Alltag bestehe keine Einschränkung der Belastbarkeit, NYHA I, keine AP Beschwerden, kein Schwindel, keine Synkope, glg. Palpitationen, keine peripheren Ödeme. Keine Nykturie. Trinkmenge 2 Liter/Tag. Blutdruckwerte werden regelmäßig erhoben 125/75mmHg. Gewichtskonstanz -LRB- 78 kg -RRB- . Aktuell kein klinischer Hinweis auf Infekt -LRB- Kein Husten, kein Fieber, kein Brennen beim Wasserlassen -RRB- . Insgesamt bestehe ein leicht verbesserter kardialer Verlauf.
+
+Spezielle Krankheitsanamnese:
+Erstdiagnose: <[Pseudo] 2030>
+Letzte Koronarangiographie -LRB- <[Pseudo] 05/01/2032> KH I-ORG -RRB- : Ausschluss KHK, EF 45%.
+Kardio-MRT -LRB- <[Pseudo] 12/01/2032> KH I-ORG -RRB- : Bild einer CMP mit leichtgradig reduzierter LV E und RV EF, kein Hinweis auf akute/abgelaufene Myokarditis.
+Myokardbiopsie: Nicht durchgeführt.
+Langzeit-EKG -LRB- <[Pseudo] 16/01/2032> -RRB- : gehäufte polytope VES, Lown IVa
+Familienanamnese: Cousine väterlicherseits mit am ehesten SCD mit 40J
+Molekulargenetik: heute veranlasst.
+
+Körperlicher Untersuchungsbefund:
+57-jäh. Pat., 172cm, 78kg, in gutem Allgemeinzustand. Klares Bewusstsein. Herztöne unauffällig, keine pathologischen Geräusche. Vesikuläres Atemgeräusch, keine Nebengeräusche. Keine Ödeme. Keine Zyanose. Periphere Pulse gut tastbar.
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, regelmäßig, 55/min, Steiltyp. PQ: 149ms, QRS: 108ms, QTc: 390ms. Verzögerte R-Progression, R/S Umschlag in V5/V6. S-Persistenz bis V6. Keine Kammerendteilveränderungen.
+
+6-Minuten-Gehtest:
+Ruhewerte:
+Blutdruck 109/62 mmHg, Herzfrequenz 54/min.
+
+Nach Gehtest:
+Blutdruck 120/72 mmHg, Herzfrequenz 56/min.
+
+Subjektive Bewertung gemäß Borg-Skala -LRB- 6-20 Punkte -RRB- :
+Beine 7, Atemnot 7, Herzdruck 6, Gesamt 7.
+
+Gehstrecke:
+530 m.
+
+-LRB- < 500 m eingeschränkt; <350 m deutlich eingeschränkt -RRB-
+
+
+
+
+Echokardiographie:
+Grenzwertig großer, septal betont leicht hypertrophierter linker Ventrikel mit mittelgradig verminderter systolischer Pumpfunktion bei Hypo-/Akinesie inferior, inferolateral sowie Hypokinesie der übrigen Wandabschnitte -LRB- LV-EF 37% -RRB- . Verminderte longitudinale Funktion.
+Relaxationsstörung des LV. LA leicht dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Aortenklappe trikuspid, leicht verdickt mit guter Separation und geringer Insuffizienz. Keine relevante Mitralklappeninsuffizienz nachweisbar. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Systolischer PA-Druck bei fehlender Trikuspidalinsuffizienz nicht bestimmbar.
+Erstbefund in domo.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2031>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+4.75
+4 - 10 /nl
+B-DATE
+Hb
+14.1
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.5
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.410
+0,38 - 0,52 l/l
+B-DATE
+MCV
+91
+83 - 97 fl
+<[Pseudo] 17/05/32>
+MCH
+31
+27 - 33 pg
+<[Pseudo] 17/05/32>
+MCHC
+34
+30 - 36 g/dl
+B-DATE
+RDW
+12.7 !L
+12,9 - 18,7 %
+<[Pseudo] 17/05/32>
+hypochr.Erythroz.
+0.4
+0 - 2 %
+<[Pseudo] 17/05/32>
+Thrombozyten
+168
+150 - 440 /nl
+<[Pseudo] 17/05/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+1.78
+1,0 - 4,8 /nl
+<[Pseudo] 17/05/32>
+Neutroph.G.-abs.
+2.52
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.32
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.02
+- <0,5 /nl
+<[Pseudo] 17/05/32>
+Basoph.G. -LRB- abs -RRB-
+0.03
+- <0,2 /nl
+<[Pseudo] 17/05/32>
+Neutroph.G. -LRB- mech. -RRB-
+53.0
+50 - 80 %
+<[Pseudo] 17/05/32>
+Lympho -LRB- mech. -RRB-
+37.4
+25 - 40 %
+<[Pseudo] 17/05/32>
+Basoph.G.
+0.7
+- <1 %
+<[Pseudo] 17/05/32>
+Monozyten -LRB- mech. -RRB-
+6.8
+2 - 9 %
+<[Pseudo] 17/05/32>
+Eosinoph.G. -LRB- mech. -RRB-
+0.5 !L
+2 - 4 %
+<[Pseudo] 17/05/32>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 17/05/32>
+Kalium -LRB- ISE -RRB-
+4.14
+3,4 - 4,8 mmol/l
+<[Pseudo] 17/05/32>
+Calcium
+2.30
+2,11 - 2,59 mmol/l
+<[Pseudo] 17/05/32>
+Kreatinin
+0.80
+0,6 - 1,2 mg/dl
+B-DATE
+Harnstoff
+27
+- <45 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cystatin C
+0.70
+0,5 - 0,96 mg/l
+B-DATE
+GFR, CKD-EPI
+99.2
+>60 s.u.
+B-DATE
+GFR -LRB- Cystatin C -RRB-
+111.60
+90 - 150 ml/min/1,73qm
+B-DATE
+MDRD
+109.87
+ml/min/1,73qm
+<[Pseudo] 17/05/32>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+45.3
+30 - 50 g/l
+<[Pseudo] 17/05/32>
+Glucose
+111 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+22
+- <46 U/l
+B-DATE
+GPT/ALT
+31
+- <50 U/l
+B-DATE
+AP
+65
+40 - 130 U/l
+B-DATE
+GGT
+54
+- <60 U/l
+<[Pseudo] 17/05/32>
+Ges.Bili.
+0.7
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+6.5
+- <7 mg/dl
+<[Pseudo] 17/05/32>
+Triglyceride
+116
+- <150 mg/dl
+<[Pseudo] 17/05/32>
+Cholesterin
+194.0
+- alt.abh. mg/dl
+<[Pseudo] 17/05/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+89
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+82
+>40 mg/dl
+B-DATE
+Eisen
+17.9
+14 - 32 µmol/l
+<[Pseudo] 17/05/32>
+Ferritin
+149
+30 - 300 µg/l
+<[Pseudo] 17/05/32>
+Transferrin
+2.89
+2,0 - 3,6 g/l
+<[Pseudo] 17/05/32>
+TFSG
+25
+16 - 45 %
+<[Pseudo] 17/05/32>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 17/05/32>
+Hämolyse
+-
+
+<[Pseudo] 17/05/32>
+ikterisch
+-
+
+<[Pseudo] 17/05/32>
+Lipämie
+-
+
+<[Pseudo] 17/05/32>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+183
+- <317 U/l
+B-DATE
+CK
+106
+- <190 U/l
+<[Pseudo] 17/05/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+13
+- <14 pg/ml
+B-DATE
+NT-BNP
+222 !H
+- <125 ng/l
+<[Pseudo] 17/05/32>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.7
+- <6,1 %
+<[Pseudo] 17/05/32>
+HbA1c -LRB- IFCC -RRB-
+39
+20 - 42 mmol/mol
+<[Pseudo] 17/05/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+117 !H
+- <110 mg/dl
+<[Pseudo] 17/05/32>
+TSH
+1.54
+0,400 - 4,000 mU/l
+<[Pseudo] 17/05/32>
+
+
+
+
+
+Zusammenfassung:
+Die Vorstellung von B-SALUTE B-TITLE B-PER erfolgt als Erstvorstellung bei DCMP. B-SALUTE B-TITLE B-PER berichtet über eine subjektiv stabile Belastbarkeit und kardiale Beschwerdefreiheit.
+
+Echokardiographisch zeigte sich eine mittelgradig eingeschränkte LV-Pumpfunktion. Das NT-proBNP war mit 222ng/l -LRB- Vorwert extern 291 ng/l -RRB- im altersadjustierten Normbereich. Wir empfehlen bei mittelgradig eingeschränkter LV Funktion die Optimierung der Herzinsuffizienztehrapie mittels Spironolacton. Bei einer Bradykardie sehen wir aktuell von einer Betablockertherapie ab. Zur weiteren Risikostratifizierung empfehlen wir das jährliche Durchführen von LZ-EKG.
+
+Hinsichtlich der Weiterführung einer sportlichen Betätigung empfehlen wir ein Ausdauertraining mit gleichmäßiger Kraftanstrengung und die Vermeidung plötzlicher Maximalbelastungen und von Sportarten mit plötzlicher Kraftanstrengung.
+
+Wir bitten um eine Wiedervorstellung in unserer Ambulanz in 12 Monaten, eine Terminvereinbarung ist unter Tel. B-PHONE möglich. Bei vorher auftretenden Problemen kann kurzfristig eine Terminvereinbarung in unserer Ambulanz oder in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE erfolgen.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Da die dilatative Kardiomyopathie häufig genetisch bedingt ist, haben wir zu einer kardiologischen Untersuchung der erstgradigen Verwandten geraten. Diese könnte in unserer B-ORG durchgeführt werden -LRB- Termine: B-PHONE -RRB- . Wir veranlassten heute eine genetische Testung bei dem Patienten und berichten im Verlauf über den Befund.
+
+Medikation:
+Ramipril 5 1-0-1
+Spironolacton 25 1-0-0, erneut beginnen, unter Kontrolle der Elektrolyten
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Mit freundlichen Grüßen
+
+
+
+
+B-TITLE I-TITLE B-PER I-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Fachärztin

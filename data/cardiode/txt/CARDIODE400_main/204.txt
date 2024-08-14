@@ -1,0 +1,479 @@
+Aufnahmedatum: <[Pseudo] 2428-09-09 >
+Geburtsdatum: <[Pseudo] 2100-11-14 >
+Alter: 327
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 14/11/2100> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Koronare 2-Gefäßerkrankung -LRB- B-OTHER vom <[Pseudo] 15/11/2185> -RRB- mit/bei:
+Subtotale mediale RCA Stenose. PTCA mit Hochdruckballon, 2xDES -LRB- Synagy -RRB- , 75% mediale LAD Stenose.
+- Ad elektive PTCA der LAD am <[Pseudo] 28/12/2185> um 9:30 Uhr in der Tagesklinik
+- Z. n. Koronarsklerose -LRB- Thorax-CT <[Pseudo] 2182> -RRB-
+- Z. n. negative Myokardszintigraphie <[Pseudo] 2182>
+- Z. n. Koronare Herzerkrankung ohne höhergradige Stenosierungen, gute LV-Funktion -LRB- Herzkatheter vom <[Pseudo] 24/08/2167> -RRB-
+- Akut auf chronisches Nierenversagen
+-UNK- Ausgiebiges periinterventionelles Spülen der Niere
+-UNK- Krea bei Entlassung: 2,07 mg/dl -LRB- <[Pseudo] 20/11/2185> -RRB-
+-UNK- Ad Verlaufskontrolle der Nierenretentionsparameter am <[Pseudo] 22/11/2185> beim Hausarzt
+- Urosepsis
+-UNK- U-Kultur vom <[Pseudo] 17/11/2185:>
+-UNK- K1 >= 10 hoch 5 KBE/ml Escherichia coli
+-UNK- K2 10 hoch 3 KBE/ml Enterococcus faecalis
+-UNK- Blutkultur vom <[Pseudo] 17/11/2185:> Escherichia coli
+-UNK- Einleitung einer empirischen Antibiose
+-UNK- Cefotaxim 3xtäglich 2 g intravenös vom B-DATE - <[Pseudo] 18/11/2185>
+-UNK- Piperacillin/Tazobactam 4,5g i. v. 2xtäglich vom B-DATE - <[Pseudo] 20/11/2185>
+-UNK- Oralisierung auf Cefuroxim 250 mg 1-0-0 vom B-DATE - <[Pseudo] 24/11/2185>
+Diagnosen:
+- Stress-Inkontinenz Grad I
+- Dranginkontinenz
+- Nicht näher bezeichnete Harninkontinenz
+- LWS-Syndrom
+- Osteoporose
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, ehemaliger Nikotinabusus -LRB- karent seit DATE, kumulativ ca. 20py -RRB-
+
+Allergien:
+Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte elektiv am <[Pseudo] 15/11/2185> zur weitergehenden invasiven Abklärung bei V.a. Progress der bekannten koronaren Herzerkrankung.
+
+Die Patientin beschreibt eine eingeschränkte körperliche Belastbarkeit im Alltag -LRB- <1 Etage -RRB- , limitiert vor allem durch eine inadäquate Belastungsdyspnoe -LRB- NYHA III -RRB- und typischen pectanginösen Beschwerden, die sensibel auf die Gabe von Nitro seien. In Ruhe bestünden weder pectanginöse Beschwerden, noch Dyspnoe. Palpitationen und Schwindel werden wie stattgehabte Synkopen verneint. Die häuslichen Blutdruckmessungen seien bei Werte um 135/85 mmHg. Es bestehe Nykturie mit ca. 3-4-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtsabnahme -LRB- -13 kg seit <[Pseudo] 04/2185> -RRB- in der letzten Zeit nicht aufgefallen. B-SALUTE B-PER erklärt sich die Gewichtsabnahme durch einen verminderten Appetit. Fieber und Nachtschweiß werden verneint.
+
+Medikation bei Aufnahme:
+Oral:
+ASS 100 mg 1-0-0
+Bisoprolol 5 mg 0-0- -UNK-
+Irbesartan 150 mg -UNK- -0-1
+HCT 12,5 mg -UNK- -0-1
+Lercanidipin 20 mg 0-0- -UNK-
+Torasemid 10 mg -UNK- -0-0
+Moxonidin 0,3 mg 1-0-1
+Omeprazol 20 mg 1-0-1
+Calcimagon D3 1-0-0
+Metamizol 500 mg/ml b. B.
+Glyceroltrinitrat 0,4 mg b. B.
+
+Inhalativ:
+Umeclidinium 55 µg 1-0-0
+Vilanterol 22 µg 1-0-0
+
+Pflaster:
+Buprenorphin 0,005 mg/h
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: übergewichtig -LRB- 167 cm, 80 kg -RRB-
+HF: 96/min, regelmäßig
+RR: 130 / 80 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o. B.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres Atemgeräusch bds., keine Rasselgeräusche
+Abdomen: DG über allen 4 Quadranten, weich, keine Resistenzen, kein Peritonismus, Druckschmerz epigastrisch und im linken Oberbauch
+Leber: nicht vergrößert tastbar
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis bds. gut tastbar
+Neurologischer Status: orientierend o. B.
+sonstige Auffälligkeiten: Narben bei Z. n. offener Cholezystektomie und Appendektomie
+
+
+Labor:
+Ruhe-EKG vom <[Pseudo] 16/11/2185:>
+Normofrequenter Sinusrhythmus, regelmäßig, 96/min, Sagittaltyp. AV-Block Grad I. PQ 213msec, QRS 120msec., QTc 431msec. Gestörte R-Progression, ausbleibender R/S-Umschlag. S-Persistenz bis V6. Inkompletter Rechtsschenkelblock.
+
+Ruhe-EKG vom <[Pseudo] 20/11/2185:>
+Normofrequenter Sinusrhythmus, regelmäßig, 63/min, Linkstyp. AV-Block Grad I. PQ 230 msec, QRS 130 msec. QTc 431msec. Gestörte R-Progression, S-Persistenz bis V6. Kompletter Rechtsschenkelblock -LRB- vorbekannt -RRB- .
+
+
+
+
+Virologischer Befund vom <[Pseudo] 15/11/2185:>
+
+
+Herzkatheteruntersuchung -LRB- B-OTHER -RRB- vom <[Pseudo] 15/11/2185> Endbefund:
+Herzkatheteruntersuchung bei V.a. eine relevante koronare Herzerkrankung.
+Koronare 2-Gefäßerkrankung der RCA und LAD. Verzicht auf LV-Angiographie zur Nephroprotektion.
+Subtotale mediale RCA-Stenose. PTCA mit Hochdruckballon, 2x DES -LRB- Synergy -RRB- der medialen RCA. Residuelle 75%-ige mediale LAD Stenose
+Sonstige Diagnosen:
+- chronische Niereninsuffizienz
+CvRF: aHT, Z. n. Nikotinabusus -LRB- karent seit DATE, kumulativ ca. 20 PY -RRB-
+
+Maßnahmen:
+- Druckverband bis 21:00 Uhr
+- Hydrierung
+- DAPT für 6 Monate
+- ad elektive PTCA der LAD in 4-6 Wochen
+- Optimierung anithypertensive Therapie
+
+Transthorakale Echokardiographie vom <[Pseudo] 16/11/2185:>
+Bemerkungen: Reduzierte Schallbedingungen ubiquitär.
+Beurteilung:
+Normal großer, septal betont hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Wandbewegungsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior leicht erweitert, noch atemvariabel. Aortenklappe trikuspid, verdickt mit guter Separation und minimaler Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender TI nicht valide ableitbar.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 17/11/2185:>
+Letzte Aufnahme vom B-DATE.
+Befund und Beurteilung:
+Kein Pleuraerguss. Kein Pneumothorax. Fleckinfiltrat im rechten Unterfeld DD entzündlich. Keine pulmonalvenöse Stauung. Herz nicht vergrößert. Konstante Darstellung der Hili. Aortensklerose. Trachea nicht beengt. Miterfasste Wirbelsäule altersentsprechend.
+
+Blutkultur peripher vom <[Pseudo] 17/11/2185:>
+Mikroskopie:
+BK-Medium aerob gramnegative Stäbchen
+BK-Medium Lytic gramnegative Stäbchen
+Kultureller Befund:
+K1 aerobes Medium Escherichia coli
+K2 Lytic Medium Escherichia coli
+
+
+Mittelstrahlurin vom <[Pseudo] 18/11/2185:>
+Kultureller Befund:
+K1 >= 10 hoch 5 KBE/ml Escherichia coli
+K2 10 hoch 3 KBE/ml Enterococcus faecalis
+
+
+Nieren-/Harnblasensonographie vom <[Pseudo] 20/11/2185:>
+Beide Nieren nur schemenhaft bei Meteorismus einsehbar. Soweit beurteilbar erscheinen sie beide in Form, Größe und Lage altersentsprechend. Im Mittelgeschoss der linken Niere runde 1,6 x 1,1 cm große echoarme Raumforderung mit a. e. dorsaler Schallverstärkung, a. e. vorbekannter Nierenzyste entsprechend -LRB- in VU von <[Pseudo] 2167> 1 cm große Zyste vorbeschrieben -RRB- . Kein Anhalt für Harnstau. Die Harnblase stellt sich prä mictionem gefüllt unauffällig dar. Post mictionem kein Anhalt für signifikante
+Restharnmenge.
+Beurteilung:
+- Kein Harnstau
+- Kein Harnverhalt, keine signifikante Restharnmenge
+- V.a. Nierenzyste links -LRB- vorbekannt aus VU von <[Pseudo] 2167> -RRB-
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte elektiv am <[Pseudo] 15/11/2185> zur weitergehenden invasiven Abklärung bei V.a. Progress der bekannten koronaren Herzerkrankung.
+
+In der am <[Pseudo] 15/11/2185> durchgeführten Herzkatheteruntersuchung ergab sich eine koronare 2-Gefäßerkrankung mit subtotaler medialer RCA Stenose. Eine erfolgreiche PTCA mit Hochdruckballon/ 2xDES -LRB- Synagy -RRB- wurde durchgeführt. Residuell zeigte sich eine 75% mediale LAD Stenose. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich klinisch kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+Echokardiographisch zeigte sich ein normal großer, septal betont hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Wandbewegungsstörungen. Relaxationsstörung des LV. Die Aortenklappe war trikuspid, verdickt mit guter Separation und minimaler Insuffizienz. Ansonsten ergab sich kein Anhalt für Klappenvitien.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung wie unten mit ASS und Clopidogrel wie angegeben für insgesamt 6 Monate postinterventionell. Anschließend ist eine dauerhafte Thrombozytenaggregationshemmung mit ASS 100 mg/tägl. ausreichend. Über die Notwendigkeit einer lückenlosen Einnahme einer Thrombozytenaggregationshemmung zur Vermeidung eines In-Stent-Verschlusses wurde ausführlich aufgeklärt. Der Patientin wurde ein Implantatausweis ausgehändigt. Sie wurde über notwendige Verhaltensanweisungen informiert.
+
+Wir empfehlen die Durchführung einer PTCA der LAD in 4-6 Wochen. Hierfür vereinbarten wir einen Termin am <[Pseudo] 28/12/2185> um 9:30 Uhr in der Tagesklinik. Wir bitten die Patientin sich um 08:00 zum COVID-Abstrich einzufinden und aktuelle Laborwerte sowie einen hausärztlichen Einweisungsschein mitzubringen. Die Aufklärung über den geplanten Eingriff ist bereits erfolgt und das Dokument beim ZPM hinterlegt. Die Aufklärung erfolgte bereits.
+
+Auf Grund eines a. e. prärenalen durch Exsikkose sowie KM- induzierten akut auf chronischen Nierenversagens erfolgte eine bilanzierte Volumensubstitution unter gleichzeitiger Diuretika- Therapie. Hierunter zeigten sich die Nierenretentionsparameter regredient. Bei Entlassung betrug das Kreatinin 2,07 mg/dl. Wir bitten um eine ausreichende Trinkmenge -LRB- 2L/Tag -RRB- zu achten und um eine ambulante Verlaufskontrolle der Nierenretentionsparameter am <[Pseudo] 22/11/2185> beim Hausarzt. Im Anschluss bitten um regelmäßige Gewichtskontrollen und fortlaufende Kontrollen der Elektrolyte und Nierenretentionsparameter sowie ggf. fachärztliche nephrologische Anbindung.
+
+Am <[Pseudo] 17/11/2185> kam es zu einer Sinustachykardie mit subjektivem thorakalem Engegefühl mit Ausstrahlung in den linken Arm. Es erfolgte daraufhin die intravenöse Gabe von 5 mg Metoprolol, woraufhin die Beschwerden sistierten. Bei Schüttelfrost und Fieber bis 38,8°C erfolgte die Durchführung einer Röntgenaufnahme vom Thorax. Hierbei zeigte sich ein Fleckinfltrat DD entzündlich. Bei auffälligem U-Status und nach Asservierung von 2 Blutkulturpaaren und einer Urinkultur erfolgte am <[Pseudo] 17/11/2185> die Einleitung einer empirischen Antibiose mit Cefotaxim 3xtäglich 2g intravenös. Nach Isolation eines gramnegativen Erregers in der vorläufigen Blutkultur vom <[Pseudo] 18/11/2185> erfolgte die Umstellung auf Piperacillin/Tazbactam 4,5 g 2xtäglich. Hierunter zeigten sich rückläufige Entzündungsparameter, sowie Besserung der Klinik. Die Erregerdiagnostik -LRB- zwei Blutkulturen/U-Kultur -RRB- erbrachte den Nachweis von einem E. coli. Die Antibiose konnte am 4. Tag - resistogramm-gerecht auf Cefuroxim in nierenadaptierter Dosis umgestellt werden. Wir bitten um eine Fortsetzung der oralen Antibiose bis einschließlich dem <[Pseudo] 23/11/2185> wie unten angegeben. Wir empfehlen eine kurzfristige ambulante Verlaufskontrolle in 3 bis 7 Tagen nach Entlassung. Im Nierenschall vom <[Pseudo] 20/11/2185> konnte keine Hydronephrose bzw. Harnverhalt festgestellt werden.
+
+Bei Auftreten von Fieber, Schüttelfrost oder Atembeschwerden bitten wir um eine sofortige Wiedervorstellung.
+
+Bei hypertensiven Blutdruckwerten erfolgte eine Anpassung der antihypertensiven Therapie nach aktuellen Leitlinien. Des Weiteren empfehlen wir die Durchführung wiederholter Langzeit-Blutdruck-Messungen sowie regelmäßige häusliche Blutdruckmessungen, z.B. in Form eines Blutdruck-Tagebuchs.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Termine/weiteres Prozedere:
+- Verlaufskontrolle der Entzündungs- und Nierenretentionswerte am <[Pseudo] 22/11/2185> beim Hausarzt
+- Auf ausreichende Trinkmenge -LRB- 2l/Tag -RRB- achten
+- PTCA der LAD in 4-6 Wochen. Hierfür vereinbarten wir einen Termin am <[Pseudo] 28/12/2185> um 9:30 Uhr in der B-ORG
+- Fortführung der oralen Antibiose bis einschließlich dem <[Pseudo] 23/11/2185>
+
+Medikation bei Entlassung:
+Oral:
+ASS 100 mg 1-0-0 Dauerhaft!
+Clopdidogrel 75mg 1-0-0 Neu, bis einschließlich dem B-DATE!
+Bisoprolol 5 mg -UNK- -0- -UNK- Dosisanpassung!
+Irbesartan 150 mg -UNK- -0-1
+HCT 12,5 mg -UNK- -0-1
+Lercanidipin 20 mg 0,5-0-05 Dosisanpassung!
+Torasemid 10 mg -UNK- -0-0
+Moxonidin 0,3 mg 1-0-1
+Omeprazol 20 mg 1-0-1
+Calcimagon D3 1-0-0
+Cefuroxim 250 mg 1-0-0 Neu, bis einschließlich dem <[Pseudo] 23/11/2185>
+Metamizol 500 mg/ml b. B.
+Glyceroltrinitrat 0,4 mg b. B.
+
+Inhalativ
+Umeclidinium 55 µg 1-0-0
+Vilanterol 22 µg 1-0-0
+
+Pflaster
+Buprenorphin 0,005 mg/h
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der Paul-Ehrlich-Gesellschaft
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir empfehlen eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen die Patientin heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER I-TITLE I-TITLE B-PER I-PER B-PER I-PER / B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 15/11/2185> und dem <[Pseudo] 20/11/2185>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+3.96 !L
+4 - 10 /nl
+B-DATE
+Hb
+10.6 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.8 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.310 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+82 !L
+83 - 97 fl
+<[Pseudo] 20/11/85>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+28
+27 - 33 pg
+<[Pseudo] 20/11/85>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 20/11/85>
+RDW
+14.0
+12,9 - 18,7 %
+<[Pseudo] 20/11/85>
+hypochr.Erythroz.
+0.9
+0 - 2 %
+<[Pseudo] 20/11/85>
+Thrombozyten
+242
+150 - 440 /nl
+<[Pseudo] 20/11/85>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 20/11/85>
+Kalium -LRB- ISE -RRB-
+4.10
+3,4 - 5,0 mmol/l
+<[Pseudo] 20/11/85>
+Kreatinin
+2.07 !H
+0,5 - 1,4 mg/dl
+<[Pseudo] 20/11/85>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+51 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+21.4 !L
+>60 s.u.
+<[Pseudo] 20/11/85>
+MDRD
+32.05
+ml/min/1,73qm
+<[Pseudo] 15/11/85>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+45.5
+30 - 50 g/l
+<[Pseudo] 15/11/85>
+CRP
+55.2 !H
+- <5 mg/l
+<[Pseudo] 19/11/85>
+Laktat
+1.18
+0,9 - 1,6 mmol/l
+<[Pseudo] 19/11/85>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 20/11/85>
+ikterisch
+-
+
+<[Pseudo] 20/11/85>
+Lipämie
+-
+
+<[Pseudo] 20/11/85>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+CK
+228 !H
+- <170 U/l
+B-DATE
+hs-TroponinT
+55.0 !H
+- <14 pg/ml
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+2500 !H
+- <450 ng/l
+<[Pseudo] 15/11/85>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+3.30
+0,400 - 4,000 mU/l
+<[Pseudo] 15/11/85>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+91.8
+70 - 125 %
+<[Pseudo] 15/11/85>
+INR - ber.
+1.05
+- <1.2
+<[Pseudo] 15/11/85>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+20.3
+- <35 s
+<[Pseudo] 15/11/85>
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+5.50 !L
+6,0 - 8,0
+<[Pseudo] 17/11/85>
+SpezGew/Tstr.
+1014
+1001 - 1035
+<[Pseudo] 17/11/85>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 17/11/85>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 17/11/85>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 17/11/85>
+Erys /Tstr.
+Ca 80
+- 0 Ery /µl
+<[Pseudo] 17/11/85>
+Eiweiß/Tstr.
+30.00
+- neg. mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+B-DATE
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 17/11/85>
+Leuko /Tstr.
+Ca 500
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+423.0 !H
+- <8 /µl
+B-DATE
+Leuko/µl
+14916.0 !H
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+27.00 !H
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+positiv
+/µl
+B-DATE

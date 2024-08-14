@@ -1,0 +1,333 @@
+Aufnahmedatum: <[Pseudo] 2040-09-01 >
+Geburtsdatum: <[Pseudo] 2012-07-09 >
+Alter: 28
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 09/07/2012> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR b, der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Elektrophysiologische Untersuchung -LRB- B-OTHER vom <[Pseudo] 30/08/2040> -RRB- :
+-UNK- Keine anhaltende Tachyarrhythmie induzierbar, duale AV-Knoten Physiologie mit induzierbarer nicht-anhaltender SVT -LRB- a. e. AVNRT -RRB- unter forcierter Katecholaminstimulation.
+-UNK- Auf Patientenwunsch keine SP-Ablation durchgeführt
+-UNK- Ad SP-Ablation im Rezidivfall empfohlen
+-UNK- Induktion eines Brugada-Typ-I-EKGs unter Ajmalin
+-UNK- PFO Nachweis
+Diagnosen:
+- Z.n. Schmalkomplextachykardie -LRB- ED <[Pseudo] 16/07/2040> -RRB-
+- Keine relevanten internistischer Vorerkrankungen bekannt
+
+Kardiovaskuläre Risikofaktoren: positive Familienanamnese -LRB- SCD Cousin 1. Grades mit 23J -RRB- .
+Allergien: anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur diagnostischen elektrophysiologischen Untersuchung in Ablationsbereitschaft bei paroxysmaler Schmalkomplextachykardie -LRB- ED <[Pseudo] 16/07/2040> -RRB- , sowie positiver SCD-Familienanamnese.
+B-SALUTE B-PER I-PER über vor 3 Wochen erstmals und in Ruhe aufgetretene tachykarde Episoden mit einhergehenden Palpitationen und Schwindelgefühl, welche nach wenigen Minuten spontan sistierten würden. Die Tachykardie sei laut Patient rhythmisch gewesen und nach 3 Tassen Kaffee aufgetreten -LRB- Genussmittelanamnese: täglicher Koffeinkonsum -RRB- .
+Darüber hinaus gibt B-SALUTE B-PER kardiales Wohlbefinden an. Es bestehe eine gute körperliche Belastbarkeit im Alltag -LRB- >3 Etagen Treppensteigen möglich -RRB- , ohne inadäquate Belastungsdyspnoe und ohne typische pectanginöse Beschwerden. Keine stattgehabten Synkopen und auf spezifische Nachfrage hin werden Palpitationen sowie Schwindelgefühl außerhalb der Episoden verneint. Nachtschlaf sei mit flachem Oberkörper möglich. Bei bestehender Gewichtskonstanz werden keine peripheren Ödeme angegeben. Die häuslichen Blutdruckwerte lägen bei ca. 140/85 mmHg. Aktuell kein Hinweis auf Infektgeschehen.
+
+Medikation bei Aufnahme:
+Keine Dauermedikation
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 186 cm, Gewicht: 85 kg, BMI: 24,6 -RRB-
+HF: 88/min, regelmäßig
+RR: 130/80 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 30/08/2040:>
+Normofrequenter Sinusrhythmus, regelmäßig, 88/min, Steiltyp. PQ 173 ms, QRS 100 ms, QTc 387 ms. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Elektrophysiologische Untersuchung -LRB- B-OTHER vom <[Pseudo] 30/08/2040> -RRB- :
+3-fache Punktion der V. femoralis dextra. Einbringen von 3 diagnostischen, 4-poligen Standardkathetern in HRA, RV-Apex und HIS-Position. Leichte Sondierbarkeit des LA bei PFO - nach Katheteranlage Gabe von 5.000 IE Heparin iv. Zu Untersuchungsbeginn keine auffällige ventrikuläre Extrasystolie. Kein Epsilon-Potential. Normale QT-Zeit. Normale supra- und infrahisäre Leitungszeiten. Normale Sinusknotenerholungszeit. Mittels inkrementaler Ventrikelstimulation Ausschluss einer akzessorischen Leitungsbahn. Bei schneller atrialer Stimulation knapp unterhalb des Wenckebachpunkts Nachweis einer sustained slow pathway conduction. Mittels programmierter Vorhofstimulation Nachweis eines umschriebenen AH-Jumps mit singulären Echoschlägen. Unter Vagolyse mit Atropin -LRB- 1mg fraktioniert -RRB-
+und unter Stimulation mittels Isoprenalin-Perfusor Induktion einer nicht-anhaltenden SVT -LRB- ZL 264 ms, VA 34 ms -RRB- über 1-2 Monitorlängen, passend zu einer AVNRT. Bei programmierter RV-Stimulation mit 3 ES vom RV-Apex und RVOT keine ventrikuläre Tachyarrhythmie induzierbar. Unter Ajmalin Induktion eines Brugada-Typ-I-EKGs in V1 im 2. ICR. Nomale infrahisäre Leitungsreserve -LRB- HV-Zeit 40 ms --> 48 ms, 1:1 AV-Überleitung bis 320 ms mit suprahisärer Blockierung unter Ajmalin -RRB- . Wir haben dem Pt. bei Induktion lediglich einer nicht-anhaltenden SVT -LRB- a.e.AVNRT -RRB- bei nachgewiesener dualer Physiologie eine SP Ablation angeboten - er ist diesbezüglich allerdings zurückhaltend und möchte bei bislang 2 klinisch-symptomatischen SVT-Episoden den weiteren Verlauf abwarten.
+Zusammenfassung: Keine anhaltende Tachyarrhythmie induzierbar, duale AV-Knoten Physiologie mit induzierbarer nicht-anhaltender SVT -LRB- a.e. AVNRT -RRB- unter forcierter Katecholaminstimulation. Induktion eines Brugada-Typ-I-EKGs unter Ajmalin. PFO Nachweis.
+
+Ruhe-EKG vom <[Pseudo] 31/08/2040:>
+Normofrequenter Sinusrhythmus, regelmäßig, 86/min, Steillagetyp. PQ 167 ms, QRS 100 ms, QTc 392 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2040>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.46
+4 - 10 /nl
+B-DATE
+Hb
+15.7
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.3
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.450
+0,38 - 0,52 l/l
+B-DATE
+MCV
+85
+83 - 97 fl
+<[Pseudo] 30/08/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 30/08/40>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 30/08/40>
+RDW
+12.8 !L
+12,9 - 18,7 %
+<[Pseudo] 30/08/40>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+<[Pseudo] 30/08/40>
+Thrombozyten
+226
+150 - 440 /nl
+<[Pseudo] 30/08/40>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+142
+135 - 146 mmol/l
+<[Pseudo] 30/08/40>
+Kalium -LRB- ISE -RRB-
+3.90
+3,4 - 4,6 mmol/l
+<[Pseudo] 30/08/40>
+Calcium
+2.51
+2,11 - 2,59 mmol/l
+<[Pseudo] 30/08/40>
+Kreatinin
+0.72
+0,6 - 1,2 mg/dl
+<[Pseudo] 30/08/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+31
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+126.9
+>60 s.u.
+<[Pseudo] 30/08/40>
+MDRD
+141.18
+ml/min/1,73qm
+<[Pseudo] 30/08/40>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+52.0 !H
+30 - 50 g/l
+<[Pseudo] 30/08/40>
+Glucose
+95
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+43
+- <50 U/l
+B-DATE
+GGT
+63 !H
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.90
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+8.3 !H
+- <7 mg/dl
+<[Pseudo] 30/08/40>
+Triglyceride
+100
+- <150 mg/dl
+<[Pseudo] 30/08/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+182.0
+- alt.abh. mg/dl
+<[Pseudo] 30/08/40>
+LDL-Chol. -LRB- berechn. -RRB-
+130
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+32 !L
+>40 mg/dl
+<[Pseudo] 30/08/40>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 30/08/40>
+Hämolyse
+-
+
+<[Pseudo] 30/08/40>
+ikterisch
+-
+
+<[Pseudo] 30/08/40>
+Lipämie
+-
+
+<[Pseudo] 30/08/40>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+193
+- <316 U/l
+B-DATE
+CK
+107
+- <190 U/l
+<[Pseudo] 30/08/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+6.57
+- <14 pg/ml
+<[Pseudo] 30/08/40>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+4.9
+- <6,1 %
+<[Pseudo] 30/08/40>
+HbA1c -LRB- IFCC -RRB-
+30
+20 - 42 mmol/mol
+<[Pseudo] 30/08/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+94
+- <110 mg/dl
+<[Pseudo] 30/08/40>
+TSH
+0.890
+0,400 - 4,000 mU/l
+<[Pseudo] 30/08/40>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+83.9
+70 - 125 %
+<[Pseudo] 30/08/40>
+INR - ber.
+1.09
+- <1.2
+<[Pseudo] 30/08/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+23.6
+- <35 s
+<[Pseudo] 30/08/40>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur diagnostischen elektrophysiologischen Untersuchung in Ablationsbereitschaft bei paroxysmaler Schmalkomplextachykardie -LRB- ED <[Pseudo] 16/07/2040> -RRB- , sowie positiver SCD-Familienanamnese.
+
+Am <[Pseudo] 30/08/2040> konnte eine komplikationslose elektrophysiologischen Untersuchung durchgeführt werden. Hierbei waren keine anhaltenden Tachyarrhythmien induzierbar, duale AV-Knoten Physiologie mit induzierbarer nicht-anhaltender SVT -LRB- a.e. AVNRT -RRB- unter forcierter Katecholaminstimulation. Es kam zur Induktion eines Brugada-Typ-I-EKGs unter Ajmalin. PFO Nachweis. Nach RS mit B-TITLE B-PER wurde auf explizitem Patientenwunsch und bisher 2-maliger SVT-Episode keine SP-Ablation bei AVNRT in diesem stationären Aufenthalt durchgeführt. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstellen.
+
+Wir empfehlen eine weitere Abklärung bei Brugada Syndrom über die Arrhythmie-Sprechstunde in domo -LRB- Terminvereinbarung unter B-PHONE -RRB- , im Rezidivfall einer SVT empfehlen wir, falls gewünscht, eine Terminvereinbarung zur SP-Ablation. Bei Brugada Syndrom bitten wir Betablocker zu vermeiden.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 31/08/2040> in Ihre geschätzte ambulante Betreuung.
+
+Therapieempfehlung:
+Keine
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsarzt

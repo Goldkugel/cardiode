@@ -1,0 +1,670 @@
+Aufnahmedatum: <[Pseudo] 2035-05-09 >
+Geburtsdatum: <[Pseudo] 1970-02-13 >
+Alter: 65
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 13/02/1970> wohnhaft in B-PLZ B-LOC I-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Multiple linkshemisphärische kortikale und subkortikale Ischämien
+-UNK- Feinmotorikstörung rechte Hand, Konzentrationsstörung
+- Hochgradiger V.a. -LRB- abgelaufene -RRB- Mitralklappenendokarditis, DD thrombotisch DD Myxom
+-UNK- TEE vom <[Pseudo] 21/04/2035:> Mitralklappe mit echoflauer bis echoreicher Verdickung am A2- Segment, ca 5x5mm -LRB- V.a. Vegetation -RRB-
+-UNK- Antibiotische Therapie mit Ampicillin, Flucloxacillin und Gentamycin
+-UNK- Blutkulturen v. <[Pseudo] 21/04/2035:> Kein Keimnachweis
+-UNK- Verlaufs TEE am <[Pseudo] 02/05/2035:> Vorbeschriebene flottierende, echoarme Struktur größenregredient -LRB- 3x2mm -RRB-
+-UNK- Endokarditis-Board vom <[Pseudo] 03/05/2035:>
+-UNK- Gentamycin für 14 Tage bis zum <[Pseudo] 05/05/2035> anschließend Fortführung der antibiotischen Therapie mit Ampicillin und Flucloxacillin bis zum <[Pseudo] 19/05/2035>
+-UNK- Wir empfehlen eine Verlaufskontrolle mittels TEE am <[Pseudo] 16/05/2035> und anschließend erneute Evaluation in unserem Endokarditis-Board am <[Pseudo] 17/05/2035>
+
+- Echokardiographisch gute systolische BV-Funktion ohne regionale WBST -LRB- TTE <[Pseudo] 21/04/35> -RRB-
+
+- Vollständige Verlegung des Sinus maxillaris links als möglicher Infektfokus -LRB- CT-NNH vom <[Pseudo] 27/04/2035> -RRB-
+-UNK- Operative Versorgung mittels Infundibulotomie, Kieferhöhlenoperation links am <[Pseudo] 29/04/2035>
+-UNK- Kontrolle am <[Pseudo] 03/05/2035:> regelmäßige Nasenpflege empfohlen
+-UNK- Histologischer Befund vom <[Pseudo] 05/05/2035:> Ausgeprägte chronische, plasmazellreiche Sinusitis -LRB- in o.g. Lokalisation -RRB- . Kein Nachweis eines invertierten Papilloms -LRB- klinische Fragestellung -RRB- . Kein Anhalt für Malignität.
+
+- Desolater Zahnstatus als möglicher Infektfokus
+-UNK- Zahnentfernungen durch Osteotomie Wurzelreste 24 + 27 am <[Pseudo] 05/05/2035> in der MKG in domo
+
+Diagnosen:
+- Rheumatoide Arthritis
+
+Kardiovaskuläre Risikofaktoren: arterielle Hypertonie
+Allergien/Unverträglichkeiten: keine bekannt
+Anamnese:
+Die stationäre Aufnahme erfolgte als Übernahme aus der B-ORG bei hochgradigem V.a. Mitralklappenendokarditis.
+
+Die Vorstellung von B-SALUTE B-PER in der Neurologie erfolgte eigeninitiativ nach Durchführung eines ambulanten cMRT am B-DATE. B-SALUTE B-PER sei am vorherigen Freitag, den <[Pseudo] 15/04/2035> um 7 Uhr gesund erwacht, dann sei ihr beim Kaffeetrinken die Kaffeetasse aus der Hand gefallen. Im Anschluss habe sie eine persistierende Feinmotorikstörung der rechten Hand bemerkt. Diese sei rückläufig, aber in geringer Form weiterhin persistierend. Bei hypertensiver Entgleisung und Kopfschmerzen sei eine Vorstellung im B-ORG in I-ORG erfolgt, wo der Verdacht auf eine linkshemisphärische TIA gestellt wurde. Am <[Pseudo] 20/04/2035> erfolgte dann ein ambulantes cMRT, in dem sich multiple linkshemisphräische Infarkte zeigte. Daher erfolgte die Vorstellung in unserer Klinik zur weiteren Abklärung. Sie arbeite in einem selbstständigen Nähbetrieb.
+
+Die Patientin berichtet, dass sie eine Veränderung im Bereich eines Zahnes habe, bei der die Zahnärztin B-TITLE B-PER eine -UNK- bakterielle Besiedelung -UNK- vermute und daher eine Sanierung empfohlen habe. Eine Röntgenaufnahme des Kiefers sei per Mail an die B-SALUTE der Neurologie versandt worden, hier zeige sich eine Parodontose mit typischen Anzeichen einer bakteriellen Besiedelung.
+
+In den letzten 6 Wochen und bei Aufnahme kein Anhalt für einen Infekt -LRB- keine Dysurie, kein Fieber, kein Husten, kein subjektives Krankheitsgefühl -RRB- . Eine Covid-Impfung ist erfolgt.
+
+Orale Medikation bei Aufnahme:
+ASS 100 mg 1-0-0 -LRB- seit <[Pseudo] 19/04/2035> -RRB-
+Nebivolol 5 mg 1-0-0
+Ramilich 5 mg 1-0-0 -LRB- seit <[Pseudo] 19/04/2035> -RRB-
+Pravastatin 40 mg 0-0-1 In neurologie begonnen
+Leflunomid 10 mg 1-0-0
+
+i.v. Antibiose bei Übernahme:
+Ampicillin 2g 6x/d
+Fluclox 2g 6x/d
+Gentamycin 240 mg 1x/d
+
+Neurologische Untersuchung in der B-ORG I-ORG:
+Patientin wach, orientiert, kooperativ, keine Dysarthrie, keine Aphasie. Keine Cephalgien, kein Meningismus. Antrieb und Stimmung adäquat. Pupillen mittelweit, isokor, prompt direkt und konsensuell lichtreagibel, regelrechte Okulomotorik, keine Doppelbilder, kein Nystagmus, Gesichtsfeld fingerperimetrisch unauffällig, keine faziale Parese. Kein Absinken in Armhalteversuch. Kein Absinken im Beinhalteversuch. Keine Hypästhesie. Koordination: Finger-Nase-Versuch beidseits metrisch, Knie-Hacke-Versuch beidseits regelrecht, Eudiadochokinese beidseits. Stand und Gang nicht geprüft. Babinski-Reflex beidseits negativ. Herztöne rhythmisch, rein. Pulmo seitengleich belüftet. Abdomen weich, Peristaltik in allen Quadranten mittellebhaft. Fußpulse bds. palpabel. Blutdruck 190/90 mmHg. O2-Sättigung unter Raumluft 98%. mRS: 1, NIHSS: 0.
+
+Körperlicher Untersuchungsbefund bei Aufnahme auf Station B-ORG:
+AZ: gut
+EZ: gut -LRB- Größe: 156 cm, Gewicht: 86 kg, BMI: 35,3 kg/m2 -RRB-
+HF: 70 /min
+RR: 140/80 mmHg
+Keine Cyanose, keine Anämiezeichen, kein Ikterus.
+HT: leise, rein, keine path. Geräusche
+Lunge: bds. vesikuläres AG, sonorer KS, keine NG
+Pulsstatus: periphere Pulse gut tastbar
+Periphere Ödeme: bds. Lymphödeme
+Abdomen: weich, kein DS, keine Resistenzen
+Neurol. Status: leichtgradige amnestische Störung, Sensibiltät und Motorik d. rechten Hand o.p.B., ansonsten orientierend neurologisch unauffällig
+
+Ruhe-EKG am <[Pseudo] 23/04/2035:>
+Sinusrhythmus, 73/min, Indifferenztyp. PQ ms, QRS 94 ms, QTc 418 ms. Zeiten im Normbereich. R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG am <[Pseudo] 27/04/2035:>
+Sinusrhythmus, 90/min, Linkstyp. PQ 160 ms, QRS 95 ms, QTc 415 ms. Zeiten im Normbereich. R/S Umschlag in V4/V5. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 06/05/2035:>
+Sinusrhythmus, 84/min, Indifferenztyp. PQ 173ms, QRS 98ms, QTc 412ms. Zeiten im Normbereich. R/S Umschlag in V3/V4. S-Persistenz in V6, Keine signifikanten Kammerendteilveränderungen.
+
+NEURORADIOLOGISCHE UNTERSUCHUNGEN:
+FremdMRT vom <[Pseudo] 20/04/2035:> embolische Infarkte im linken Mediaterritorium, zudem rechts frontal
+
+NEUROSONOLOGISCHE UNTERSUCHUNGEN:
+ECD/TCD vom <[Pseudo] 21/04/2035:> EC: Allenfalls geringe Arteriosklerose der Carotiden, Vertebralis rechts hypoplastisch, Vertebralis rechts regelrecht. A. subclavia bds.
+regelrecht. TCD beidseits kein ausreichendes Schallfenster. Basilaris regelrecht.
+
+Transthorakale und transösophageale Echokardiographie vom <[Pseudo] 21/04/2035:>
+Normal großer, leicht septal hypertrophierter linker Ventrikel mit guter systolischer Funktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale, sowie regelrechte diastolische LV-Funktion. LA, RA und RV normal groß. Gute systolische RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht ableitbar.
+
+TEE-Untersuchung unter Lokalanästhesie und 1,5 mg Midazolam i.v. komplikationslos durchgeführt.
+Aortenklappe trikuspid, zart, mit guter Separation, keine Insuffizienz; Mitralklappe mit echoflauer bis echoreicher Verdickung am A2- Segment, ca 5x5mm -LRB- V.a. Vegetation -RRB- sowie echoreicher flottierender Verdickung am zum posterioren Mitralklappensegel ziehenden Sehnenfaden, a.e. einer Verkalkung entsprechend. Mittelgradige Insuffizienz. Übrige Klappen bis auf minimale Pulmonalklappeninsuffizenz sonographisch und dopplersonographisch regelrecht. Aorta ascendens, Bogen und descendens - soweit einsehbar - regelrecht.
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 24/04/2035:>
+Befund und Beurteilung:
+Kein Pneumothorax. Kein Pleuraerguss. Keine Infiltrate. Keine Stauung. Trachea mittig, nicht eingeengt. ZVK von rechts jugulär mit Projektion der Spitze auf die Vena cava superior. Regelrechte Herzkontur. Regelrechter Zwerchfellstand.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße links -LRB- re. ZVK -RRB- vom <[Pseudo] 25/04/2035:>
+Links diskrete Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet.
+IMD links 0,07 cm.
+Das Vertebralissystem ist links orthograd perfundiert darstellbar.
+Erstbefund in domo.
+
+Röntgen Thorax p.a. vom <[Pseudo] 25/04/2035:>
+Voraufnahme vom Vortag zum Vergleich vorliegend.
+Befund und Beurteilung:
+Keine durchgreifende Befundänderung kardiopulmonal. Kein Pneumothorax. Kein Pleuraerguss. Keine Infiltrate. Keine Stauung. Trachea mittig, nicht eingeengt. ZVK von rechts jugulär Projektion der Spitze auf die Vena cava superior, idem. Regelrechte Herzkontur. Regelrechter Zwerchfellstand.
+
+HNO-Konsil vom <[Pseudo] 25/04/2035:>
+Befund:
+Nase: Keine Druckdolenz über NAP, keine Klopfdolenz über NNH. Kleiner Sporn vorne links, Septum sonst relativ mittig, Muschelhyperplasie inferior bds., mittlerer Nasengang endoskopisch -LRB- 30° Optik Nr. 13 -LRB- n KRINKO -RRB- -RRB- bds. frei, keine pathologischen Sekretstraßen.
+Nasenrachen: Transnasal 30° Optik Nr. 13 -LRB- n KRINKO -RRB- frei
+Mund/Rachen: Sanierungsbedürftiger Zahnstatus, Zunge frei beweglich, Gaumenbögen symmetrisch, Tonsillenlogen leer, Rachenhinterwand frei, prominenten Seitensträngen bds.
+Beurteilung und Empfehlung:
+Klinisch aktuell keine Hinweise für akute Sinusitis oder rhino-/sinugenen Fokus. Zum sicheren Fokusausschluss wäre eine Schnittbildgebung -LRB- CT/DVT NNH -RRB- notwendig. Bei post nasal drip ist eine probatorische topische Kortisontherapie empfohlen -LRB- bsplw. Nasonex 2-0-2 -RRB- mit anschliessender klinischer Verlaufskontrolle beim niedergelassenen HNO-Facharzt.
+
+Spirometrie vom <[Pseudo] 25/04/2035:>
+Keine Obstruktion.
+Reduzierte VC,a.e. einer leichten Restriktion entsprechend
+Spez.FEV1: 31,8 ml/kgKG
+Die spez. FEV1 liegt bei 31,8 ml/kgKG, damit besteht bei Beurteilung rein anhand der spez. FEV1 kein erhöhtes Op/ITN-Risiko.
+
+ZMK-Konsil vom <[Pseudo] 26/04/2035:>
+Befunde
+Extraoral
+unauffällig, keine Rötung, keine Schwellung, keine Sensibilitätsstörungen N. V1-3, N. facialis soweit klinisch beurteilbar intakt, Mundöffnung nicht eingeschränkt.
+Intraoral
+Mundöffnung regelhaft, gute Mundhygiene, Brücke ausgebrochen Zähne 24-27, WR 24+27. Karies mesial Zahn 38 -LRB- Versorgung im Intervall -RRB- , kein weiterer Fokus.
+Nebenbefunde
+s. o.
+
+Procedere
+
+Kontrolle, Untersuchung, Beratung.
+Ausführliche OP Aufklärung -LRB- inklusive Risiken, Komplikationen, usw. -RRB- für die Osteotomie WR24 + WR27 + Wundverschluss ist mündlich sowie schriftlich erfolgt. OP unter ASS.
+Aktuell stationär B-ORG unter i.v. Antibiose: Ampicillin 2g 6x/d.
+WV zur OP in LA im OP.
+Bei Beschwerden ist eine Wiedervorstellung jederzeit möglich.
+
+Langzeit-EKG vom <[Pseudo] 27/04/2035:>
+Normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 58/min und 115/min, im Mittel 75/min. Eingeschränkte Herzfrequenzvariabilität. Keine supraventrikulären Extrasystolen. Keine Pausen. Wenige polymorphe ventrikuläre Extrasystolen. Lown III a.
+
+HNO Kosnil vom <[Pseudo] 30/04/2035:>
+Patientin kommt heute zur Detamponade. Detamponade erfolgt. Keine Blutungszeichen. Weiteres Prozedere wie im Amb-K-Infobericht dokumentiert Montag konsiliarische Vorstellung zur Verlaufskontrolle und ggf. Histobesprechung
+
+OP Bericht HNO-Konsil vom <[Pseudo] 01/05/2035:>
+Patient:
+Butz, Sabine, *B-DATE
+Stat: Neuro 5 - Stroke Unit
+Diagnose:
+ICD10
+Lokalisation
+Verdacht auf akute Sinusitis bei bekannter Endokarditis
+
+
+Therapie:
+ICPM
+Lokalisation
+Kieferhöhlenoperation, Infundibulotomie links in ITN
+
+
+
+Operationstag:
+<[Pseudo] 29/04/2035>
+Operationszeit: 12:59 - 13:25 Uhr
+OP-Team:
+Operateur: B-TITLE I-TITLE B-PER I-PER
+1. Assistent: B-TITLE I-TITLE I-TITLE B-PER I-PER
+I-PER Anästhesist: B-TITLE I-TITLE B-PER I-PER I-PER 1. Instrumentierende: B-PER I-PER
+1. Springer: B-PER I-PER
+2. Springer: B-PER I-PER
+
+Primär Time-Out mit der Anästhesie. Bestätigung der Patientenidentität durch die Anästhesie. Keine weiteren Fragen. Die Indikation wurde gestellt. Die Aufklärung liegt vollständig und unterschrieben vor. Bei B-SALUTE B-PER besteht eine Endokarditis mit unklarem Infektfokus. Radiologisch zeigte sich eine Verschattung der linken Kieferhöhle, sodass der Eingriff zur Infektsanierung indiziert wurde.
+Lagerung in Rückenlage mit leichter Oberkörper-Hochlagerung. Hohe Einlage mit Privin/Pantocain-getränkten Spitztupfern. Nach angemessener Wartezeit Entfernung. Desinfizierendes Abwaschen, steriles Abdecken. Endoskopie der Nasenluftpassage linksseitig. Vorsichtige Medialisierung der mittleren Nasenmuschel. Es zeigt sich der Processus uncinatus mit vorgewölbter medialer Kieferhöhlenwand. Einschneiden des Processus uncinatus mit dem scharfen Freer von cranial nach dorsal und Abtragen mit dem Blakesley. Es zeigt sich nun das natürliche Kieferhöhlenostium. Dieses wird mit der Rückwärtsstanze erweitert. Es entleert sich eitriges Sekret. Ein Abstrich wird genommen. Weitere Erweiterung des Kieferhöhlenostiums mit der Rückwärtsstanze sowie des Blakesley. Kürettierung der Kieferhöhlenschleimhaut und Abtragen von polypöser Schleimhaut. Es zeigt sich keine weitere polypöse Schleimhaut in der Kieferhöhle. Das Kieferhöhlenostium zeigt sich weit. Kein Anhalt für Nachblutung oder Komplikationen. Daher Beendigung des Eingriffs. Einlage von Tamponaden beidseits und Verknoten vor der Columella. Fixation am Nasenrücken. Ende des operativen Eingriffs.
+
+
+Transthorakale Echokardiographie vom <[Pseudo] 02/05/2035:>
+Normal großer, septal hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit einsehbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Posteriore, stabile, kalzifizierte Struktur ausgehend vom Mitralanulus mit begleitender, minimaler Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalkappeninsuffizienz nicht bestimmbar. Erstbefund in domo.
+
+Transösophageale Echokardiografie vom <[Pseudo] 02/05/2035:>
+Posteriore, stabile, kalzifizierte Struktur ausgehend vom Mitralanulus mit begleitender, minimaler Mitralklappeninsuffizienz. Vorbeschriebene, angelagerte, flottierende, echoarme Struktur größenregredient -LRB- 3x2mm -RRB- . Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalkappeninsuffizienz nicht bestimmbar. Kein Nachweis intrakardialer Thromben. Erhaltene Flussgeschwindigkeiten im linken Vorhofohr. Regelrechtes Vorhofseptum mit farbdopplersonographischem Hinweis auf ein persistierendes Foramen ovale. Aorta ascendens, Bogen und descendens - soweit einsehbar - thrombogen Grad I, ansonsten regelrecht. Normal großer, septal hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Im Vergleich zur TEE-Voruntersuchung vom <[Pseudo] 20/04/2035> -LRB- in der Neurologie -RRB- : Vorbeschriebene, angelagerte, flottierende, echoarme Struktur größenregredient -LRB- 3x2mm -RRB-
+
+HNO- Konsil vom <[Pseudo] 03/05/2035:>
+Befund:
+NMI: Nasenhaupthöhle links kurzig mit Koageln verlegt, nach Absaugen reizlos Verhältnisse
+Kultureller Befund:
+Kein Wachstum von Bakterien
+Diagnosen:
+Bakterielle Mitralklappenendokarditis
+
+Beurteilung und Empfehlung:
+NASENPFLEGE wir in der Ambulanten Kurzinformation vom Operateur angeordnet bitte umsetzen!!!
+Patho Befund noch nicht im Symstem, bitte erneute Vorstellung zur Histo Besprechung sobald Befund im System
+Heute lokale Nasenpflege erfolgt
+
+MKG-OP-Bericht vom <[Pseudo] 05/05/2035:>
+
+
+Röntgen-Thorax vom <[Pseudo] 05/05/2035:>
+Zum Vergleich liegt zuletzt ein Röntgen-Thorax vom <[Pseudo] 25/04/2035> vor. Befund und Beurteilung: Kein Nachweis eines Pneumothorax. Keine Pleuraergüsse. Keine flächigen Infiltrate. Keine höhergradige Stauung. Neu einliegender ZVK von links jugulär mit Spitzenprojektion auf die Vena cava superior. ZVK von rechts idem. Konstante Mediastinalsilhouette.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2034> und dem B-DAY B-MONTH <[Pseudo] 2034>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hb
+10.4 !L
+12 - 15 g/dl
+<[Pseudo] 04/05/35>
+Erythrozyten
+3.5 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.300 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+84
+83 - 97 fl
+<[Pseudo] 04/05/35>
+MCH
+29
+27 - 33 pg
+B-DATE
+MCHC
+35
+30 - 36 g/dl
+B-DATE
+RDW
+13.8
+12,9 - 18,7 %
+B-DATE
+hypochr.Erythroz.
+0.2
+0 - 2 %
+B-DATE
+Thrombozyten
+247
+150 - 440 /nl
+B-DATE
+Lympho -LRB- abs. -RRB-
+1.60
+1,0 - 4,8 /nl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Neutroph.G.-abs.
+3.49
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.46
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.19
+- <0,5 /nl
+<[Pseudo] 21/04/35>
+Basoph.G. -LRB- abs -RRB-
+0.02
+- <0,2 /nl
+<[Pseudo] 21/04/35>
+Neutroph.G. -LRB- mech. -RRB-
+59.4
+50 - 80 %
+<[Pseudo] 21/04/35>
+Lympho -LRB- mech. -RRB-
+27.2
+25 - 40 %
+<[Pseudo] 21/04/35>
+Basoph.G.
+0.3
+- <1 %
+<[Pseudo] 21/04/35>
+Monozyten -LRB- mech. -RRB-
+7.8
+2 - 9 %
+<[Pseudo] 21/04/35>
+Eosinoph.G. -LRB- mech. -RRB-
+3.2
+2 - 4 %
+<[Pseudo] 21/04/35>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kalium -LRB- ISE -RRB-
+3.69
+3,4 - 5,0 mmol/l
+<[Pseudo] 06/05/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MDRD
+92.22
+ml/min/1,73qm
+<[Pseudo] 23/04/35>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+39.3
+30 - 50 g/l
+B-DATE
+GOT/AST
+19
+- <37 U/l
+B-DATE
+GPT/ALT
+12
+- <35 U/l
+B-DATE
+AP
+70
+55 - 105 U/l
+B-DATE
+GGT
+21
+- <40 U/l
+B-DATE
+CHE
+9.10
+4,26 - 11,25 kU/l
+<[Pseudo] 21/04/35>
+Ges.Bili.
+0.5
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+3.3
+- <6 mg/dl
+B-DATE
+Triglyceride
+100
+- <150 mg/dl
+B-DATE
+Cholesterin
+177.0
+- alt.abh. mg/dl
+<[Pseudo] 23/04/35>
+LDL-Chol. -LRB- berechn. -RRB-
+112
+- <160 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HDL-Cholesterin
+45 !L
+>50 mg/dl
+B-DATE
+Lipase
+35
+19 - 63 U/l
+B-DATE
+Eisen
+10.1 !L
+12 - 27 µmol/l
+<[Pseudo] 02/05/35>
+Ferritin
+180 !H
+20 - 120 µg/l
+<[Pseudo] 02/05/35>
+Transferrin
+1.80 !L
+2,0 - 3,6 g/l
+<[Pseudo] 02/05/35>
+TFSG
+22
+16 - 45 %
+<[Pseudo] 02/05/35>
+CRP
+21.0 !H
+- <5 mg/l
+<[Pseudo] 04/05/35>
+PCT sens.
+0.05 !H
+- <0,05 ng/ml
+<[Pseudo] 24/04/35>
+Hämolyse
+-
+
+<[Pseudo] 06/05/35>
+ikterisch
+-
+
+<[Pseudo] 06/05/35>
+Lipämie
+-
+
+<[Pseudo] 06/05/35>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+275
+- <301 U/l
+B-DATE
+CK
+175 !H
+- <170 U/l
+B-DATE
+CK-MB
+27
+-
+B-DATE
+hs-TroponinT
+19.9 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+105
+- <125 ng/l
+<[Pseudo] 02/05/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+ANA-Ak
+1:80 !H
+- <1:80 Titer
+<[Pseudo] 25/04/35>
+Muster-ANA1
+gespr.
+
+<[Pseudo] 25/04/35>
+ANCA-IFT
+negativ
+- <1:10 Titer
+<[Pseudo] 25/04/35>
+Rheumafaktor
+<7.0
+- <25 IU/ml
+<[Pseudo] 25/04/35>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.9
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+41
+20 - 42 mmol/mol
+B-DATE
+mittlere Glucose
+123 !H
+- <110 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.670
+0,400 - 4,000 mU/l
+B-DATE
+FT4
+12.18
+8 - 18 ng/l
+B-DATE
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+99.4
+70 - 125 %
+<[Pseudo] 28/04/35>
+INR - ber.
+1.02
+- <1.2
+B-DATE
+aPTT
+19.5
+- <35 s
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+D-Dimer -LRB- neu -RRB-
+1.34 !H
+- <0,5 mg/l
+B-DATE
+Thrombinzeit
+16.9
+- <22 s
+B-DATE
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+SpezGew/Tstr.
+Kein Material
+1001 - 1035
+<[Pseudo] 21/04/35>
+
+
+
+
+Medikamentenspiegel & Toxikologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Gentamycin
+1.0 !H
+- <1 mg/l
+<[Pseudo] 04/05/35>
+
+
+
+
+Infektiologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HBsAg qual.
+negativ
+qualitativ
+<[Pseudo] 28/04/35>
+anti-HBc IgG/IgM
+negativ
+qualitativ
+<[Pseudo] 28/04/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+anti-HCV IgG
+negativ
+qualitativ
+<[Pseudo] 28/04/35>
+
+
+
+
+
+
+Zusammenfassung:
+Die Vorstellung von B-SALUTE B-PER in der neurologischen Notfallambulanz und konsekutive Aufnahme auf der B-ORG I-ORG erfolgte aufgrund einer Feinmotorikstörung der rechten Hand. Im externen cMRT waren ursächlich embolische Mediainfarkte linksseitig, insbesondere auch präzentral im Handareal links, nachweisbar.
+
+Neurosonologisch waren keine relevanten Stenosen der hirnversorgenden Gefäße nachweisbar. Das EKG bei Aufnahme zeigte einen Sinusrhythmus. Im Monitoring war ebenfalls kein Vorhofflimmern nachweisbar. In der transösophagealen Echokardiographie war eine Vegetation im Bereich der Mitralklappe nachweisbar. Die Mitralklappe zeigte zudem eine mittelgradige Klappeninsuffizienz, möglicherweise begünstigt durch die Vorbehandlung mit Leflunomid. Nach Abnahme von drei Paar Blutkulturen begannen wir bei Verdacht auf eine Mitralklappenendokarditis eine antibiotische Therapie mit Ampicillin, Flucloxacillin und Gentamycin
+
+Aktuell besteht in Rücksprache mit den kardiologischen B-SALUTE keine Notwendigkeit einer Operation der Herzklappe.
+
+Die Patientin berichtet, dass sie eine Veränderung im Bereich eines Zahnes habe, bei der der Zahnarzt eine -UNK- bakterielle Besiedelung -UNK- vermute und daher eine Sanierung empfohlen habe. Daher wurde ein MKG Konsil angemeldet, was aktuell noch ausstehend ist.
+
+Am <[Pseudo] 22/04/2035> übernahmen wir B-SALUTE B-PER zur weiteren Behandlung der Mitralklappenendokarditis in die B-ORG Klinik. Zum Zeitpunkt der Verlegung persistierte eine leichte Feinmotorikstörung der rechten Hand. Über eine Fahruntauglichkeit von mind. 3 Monaten wurde B-SALUTE B-PER neurologischerseits aufgeklärt. Am <[Pseudo] 25/04/2035> erfolgte aufgrund einer anamnestischen chronischen Sinusitis eine HNO-Ärztliche Vorstellung. Dort ergab sich klinisch keine Hinweise für akute Sinusitis oder rhino-/sinugenen Fokus. Zum sicheren Fokusausschluss wurde eine Schnittbildgebung -LRB- CT/DVT NNH -RRB- empfohlen. Da bereits am <[Pseudo] 17/04/2035> extern eine CT-Untersuchung des Schädels durchgeführt worden war baten wir unsere Neuroradiologie um Mitbeurteilung.
+
+Nach Beurteilung unserer Neuroradiologie sind die extern festgestellten linkshemisphärischen Insulte am ehesten thromboembolischer Genese. Weiterhin zeigte sich auf einer am <[Pseudo] 17/04/2035> extern durchgeführten CT-Untersuchung eine Sinusitis des Sinus maxillaris links.
+
+Wir besprachen den Fall in unserer interdisziplinären Herzkatheterkonferenz am B-DATE. Nach Beschluss der Konferenz soll eine transösophageale Echokardiographische Kontrolle in 10 Tagen erfolgen. Danach erfolgt eine erneute Vorstellung in unserer interdisziplinären Herzkatheterkonferenz zum Beschluss eines weiteren Prozederes.
+
+Am <[Pseudo] 26/04/2035> erfolgte ein MKG-Konsil bezüglich eines möglichen Zahnfokuses. Dort zeigten sich ausgebrochene Brücken der Zähne 24-27 sowie ein WR 24+27.Weiterhin ergab sich Karies mesial Zahn 38 -LRB- Versorgung im Intervall -RRB- . Es erfolgte eine ausführliche OP Aufklärung -LRB- inklusive Risiken, Komplikationen, usw. -RRB- für die Osteotomie WR24 + WR27 + Wundverschluss mündlich sowie schriftlich. Eine Operation unter Lokalanästhesie wurde für den <[Pseudo] 05/05/2035> terminiert.
+
+In der extern durchgeführten CT-Untersuchung vom <[Pseudo] 17/04/2035> sowie in der extern durchgeführten MRT-Untersuchung zeigte sich eine vollständige Verlegung des Sinus maxillaris links. Nach Rücksprache mit der ORG wurde eine erneute HNO-Ärztliche Vorstellung empfohlen, da die vollständige Verlegung des Sinus Maxillaris links nicht hinreichend durch den Zahnfokus erklärbar sei. Am <[Pseudo] 26/04/2035> erfolgte eine erneute HNO-Ärztliche Vorstellung. Dort ergab sich der Verdacht auf eine Sinusitis des Sinus maxillaris links DD -LRB- invertiertes Papillom -RRB- und es erfolgte die Empfehlung zur operativen Sanierung in Intubationsnarkose. Ein Termin hierfür wurde für den <[Pseudo] 29/04/2035> vereinbart. Zur präoperativen Vorbereitung erfolgt am <[Pseudo] 27/04/2035> ein CT der NNH. Am <[Pseudo] 29/04/2035> erfolge die erfolgreiche Sanierung des Sinus maxillaris links durch eine Infundibulotomie links. Die HNO-ärztlichen Kontrollen im Anschluss verliefen regelrecht. Der Pathologische Befund am <[Pseudo] 05/05/2035> ergab eine ausgeprägte chronische, plasmazellreiche Sinusitis -LRB- in o.g. Lokalisation -RRB- . Es ergab sich kein Nachweis eines invertierten Papilloms -LRB- klinische Fragestellung -RRB- . Weiterhin zeigte sich kein Anhalt für Malignität. Nach Rücksprache mit B-TITLE B-PER ist keine erneute HNO-Ärztliche Vorstellung im stationären Aufenthalt notwendig. Es wird eine ambulante HNO-Ärztliche Kontrolle im Verlauf empfohlen. Dies wurde mit der Patientin besprochen.
+
+Am <[Pseudo] 05/05/2035> erfolgte die MKG-Chirurgische Sanierung der ausgebrochenen Brücken der Zähne 24-24 mittels Osteotomie unter Lokalanästhesie. Ein endgültiger OP-Bericht ist zum Entlasszeitpunkt ausstehend.
+
+Zum Ausschluss anderer Thromboemboliequellen erfolgte eine Langzeit-EKG- Untersuchung, diese ergab keinen Hinweis auf rhyhtmusassoziierte Emboliequellen. Wir empfehlen die Durchführung eines Thrombophiliescreening im Verlauf.
+
+Am <[Pseudo] 02/05/2035> erfolgte die transösophageale echokardiographische Kontrolle der vorbeschriebenen, angelagerten, flottierenden, echoarmen Struktur. Diese war im Vergleich zur Voruntersuchung vom <[Pseudo] 21/04/2035> größenregredient -LRB- 3x2mm -RRB- .
+
+Am <[Pseudo] 03/05/2035> erfolgte die Vorstellung in unserem Endokarditisboard. Nach Beschluss der Konferenz soll die antibiotische Therapie mit Gentamycin bis zum <[Pseudo] 05/05/2035> fortgeführt werden. Anschließend soll die antibiotische Therapie mit Ampicillin und Flucloxacillin bis zum <[Pseudo] 19/05/2035> erfolgen. Wir empfehlen die Durchführung einer transösophagealen Echokardiographie zur Verlaufskontrolle sowie Therapieevaluation am B-DATE. Anschließend bitten wir um teleradiologische Überstellung der Bilder zur Diskussion in unserem Endokarditisboard am B-DATE.
+
+Die IV-Antibiose wurde bei schlechtem Venenstatus über einen ZVK verabreicht, hier erfolgte der letzte Wechsel am B-DATE. Nach Anlage konnte mittels Röntgen-Thorax ein relevanter Pneumo- oder Hämatothorax ausgeschlossen werden.
+
+Im fortgeschrittenen stationären Verlauf waren zudem rezidivierende Hypokaliämien auffällig. Diese wurden zunächst oral ausgeglichen, welches die Patientin jedoch sehr schlecht vertrug und eine weitere Einnahme schließlich ablehnte -LRB- Erbrechen bei Kalium Verla Beutel, Kopfschmerz/ Völlegefühl bei Kalinor rtd. Tabletten -RRB- . Es erfolgt eine vorsichtige IV-Substitution über den liegenden ZVK unter regelmäßigen Kontrollen.
+
+Wir passten die Medikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Zudem bitten wir bei Statin-Therapie um eine Kontrolle des CK-Wertes, der Transaminasen und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir verlegten B-SALUTE B-PER kardiorespiratorisch stabil und oligosymptomatisch mit einem Entlassgewicht von 85,2 kg in die geschätzte stationäre Weiterbetreuung durch das B-ORG I-ORG zur Fortsetzung der IV-Antibiose wie unten angegeben. Wir danken für die freundliche und unkomplizierte Übernahme und stehen für Rückfragen jederzeit zur Verfügung.
+
+Procedere/Termine:
+- Verlegung in das B-ORG B-ORG I-ORG - wir danken für die freundliche und unkomplizierte Übernahme der Patientin
+- Fortführung der IV-antibiotischen Therapie mit Ampicillin sowie Flucloxacillin -RRB- bis zum <[Pseudo] 19/05/2035>
+-UNK- Bei schlechten Venenverhältnissen Gabe über ZVK, letzter Wechsel am <[Pseudo] 05/05/2035> erfolgt
+- Wir bitten um eine TEE-Kontrolle am <[Pseudo] 16/05/2035> und teleradiologischer Übermittelung der Bilder zur Diskussion in unserem Endokarditis-Board am <[Pseudo] 17/05/2035>
+- Wir empfehlen eine ambulante HNO-Ärztliche Kontrolle im Verlauf
+- Wir empfehlen eine ambulante zahnärztliche Kontrolle im Verlauf
+- Kalium-Kontrollen und ggf. Fortsetzung der IV-Substitution
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100 mg 1-0-0
+Carvedilol 25 mg 1-0-1
+Ramipril 5 mg 1-0-1
+Leflunomid 10 mg 1-0-0
+Lercandinipin 10 mg 1-0-1
+Doxacor 2 mg 1-0-1
+Spironolacton 25 mg 2-0-0
+Pravastatin 40 mg 0-0-1
+Pantoprazol 20 mg 1-0-1
+
+i.v.
+Ampicillin 3g 4x/d bis einschließlich <[Pseudo] 19/05/2035>
+Fluclox 3g 4x/d bis einschließlich <[Pseudo] 19/05/2035>
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER PER/ B-PER I-PER
+Ärztl. Direktor Oberarzt Stationsärzte
+
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

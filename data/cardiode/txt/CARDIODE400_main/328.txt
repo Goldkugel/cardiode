@@ -1,0 +1,413 @@
+Aufnahmedatum: <[Pseudo] 2040-02-25 >
+Geburtsdatum: <[Pseudo] 1976-10-21 >
+Alter: 63
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 21/10/1976> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Invasive Aspergillose der Lunge
+-UNK- Therapie mit liposomalem Amphotericin B vom <[Pseudo] 21.03.> - <[Pseudo] 04.04.> -LRB- abgesetzt bei Anstieg der Retentionsparameter und Hyperkaliämie -RRB-
+-UNK- Therapie mit Isavocunazol i.v. v. DATE dato
+-UNK- Vorübergehenden Reduktion der Immunsuppression -LRB- Zielbereich Tacrolimus 4-6, Everolimus 3-5 -RRB- gemäß HTX-Konferenzbeschluss vom <[Pseudo] 20/03/2040>
+-UNK- Kein Nachweis von Pilzstrukturen im Knochenmark
+
+-UNK- CT-gesteuerte Punktion vom <[Pseudo] 23/03/2040:>
+-UNK- in der Grocott-Histochemie nachweisbare, teils gefäßassoziierte Pilzstrukturen
+-UNK- Punktat-Kultur: Spärliches Wachstum von Aspergillus fumigatus
+
+-UNK- Bronchoalveoläre Lavage vom <[Pseudo] 16/03/2040:> Nachweis von Aspergillus-Antigen -LRB- 3,92 in BAL, Index BAL/Serum >10 -RRB-
+-UNK- Allerdings PCR und Kultur negativ auf Aspergillen
+-UNK- Vortherapie mit Caspofungin vom B-DATE - B-DATE
+-UNK- Diagnostische Pleurapunktion v. <[Pseudo] 24/02/40> -LRB- B-ORG -RRB- : Mikrobiologische Diagnostik: Kein Wachstum von Keimen, Kein Pus, blutig-tingierter Erguss
+-UNK- Erneute diagnostische Pleurapunktion am <[Pseudo] 01/03/2040:> Blutig tingiertes, seröses Sekret, Kein Keimnachweis
+
+- Ausschluss einer möglichen Ko-Infektion mit Myobacterien
+-UNK- Sputum-PCR/-Mikroskopie vom <[Pseudo] 19/03/2040:> negativ
+-UNK- Knochenmarks-PCR/Mikroskopie vom <[Pseudo] 22/03/2040:> negativ bzgl. M.tuberculosis-complex
+-UNK- BAL PCR und Mikroskopie v. <[Pseudo] 20/03/2040:> negativ
+-UNK- Knochenmarks-Kultur vom <[Pseudo] 22/03/2040:> kein Nachweis säurefester Stäbchen
+-UNK- Ct-gesteuerte Punktion: PCR und Mikroskopie negativ
+-UNK- CT-Thorax nativ vom <[Pseudo] 14/03/2040:> Zeichen der bronchogenen Ausbreitung, dies könnte Hinweis auf eine TBC oder andere mykobakterielle Infektion sein
+
+- Pulmonale Superinfektion Enterobacter cloacae
+-UNK- Nachweis in BAL-Kultur vom <[Pseudo] 16/03/2040> -LRB- 10^5 bzw. 10^3 -RRB- , resistent auf Ampicillin, sonst multisensibel
+-UNK- Therapie mit Meropenem vom <[Pseudo] 20.03.> - XX
+-UNK- Blutkulturen vom <[Pseudo] 19/03/2040:> negativ
+-UNK- Vortherapie mit Meropenem vom B-DATE - B-DATE
+-UNK-
+- Panzytopenie, medikamentös-toxisch bei Immunsuppression
+-UNK- HIT-Diagnostik negativ
+-UNK- Erneute HIT-Diagnostik vom B-DATE: negativ
+-UNK- Komplikationslose Transfusion von 2 EKs am <[Pseudo] 28/02/2040>
+-UNK- Komplikationslose Transfusion von 2 EKs am <[Pseudo] 17/03/2040>
+-UNK- Komplikationslose Transfusion von 2 EKs am <[Pseudo] 05/04/2040>
+-UNK- Komplikationslose Transfusion von 2 EKs am <[Pseudo] 26/04/2040>
+-UNK- Differential-Blutbild vom <[Pseudo] 19/03/2040:> nicht wegweisend
+-UNK- Knochenmarksbiopsie vom <[Pseudo] 21/03/2040:> vereinbar mit medikamentös-toxischer Genese, allerdings auch dysplastische Zellen
+-UNK- Weitere genetisch Abklärung der Dysplasie: unauffällig
+-UNK- Immunhistochemische Aufarbeitung favorisiert ebenfalls einen reaktiv -LRB- toxischen -RRB- Knochenmarksbefund
+
+- Ausgeprägte Kachexie und Malnutrition
+-UNK- Essensverweigerung, Appetitverlust, Antriebsarmut, aggraviert durch konsumierende Erkrankung
+-UNK- Unterstützende parenterale Ernährung seit <[Pseudo] 22/03/2040>
+-UNK- Initiales Refeeding-Syndrom am B-DATE, Ausgleich durch IV-Phosphat und IV-Magnesium
+-UNK- Umstellung auf Elektrolytfreie parenterale Ernährung bei Hyperkaliämie am <[Pseudo] 06/04/2040> -LRB- Zuspritzen der anderen E -UNK- lyte manuell -RRB-
+
+- V.a. metabolische Enzephalopathie a.e. nephrogen bei steigenden Harnstoff-Werten
+-UNK- Myoklonien, generalisierter Tremor, Somnolenz
+-UNK- Cave: Falsch-hohe Kreatinin-basierte eGFR bei schwerer Kachexie -LRB- Kreatinin-GFR 33ml/min, Cystatin C-GFR 9ml/min -RRB-
+-UNK- Anpassung der Medikation und Ernährung -LRB- Reduktion Gesamtkalorien-Menge und Eiweißanteil -RRB-
+-UNK- Regredienz im Verlauf
+
+- Komplikationslose Explantation des verbliebenen Schrittmacheraggregates am <[Pseudo] 10/03/2040>
+-UNK- Wegewechsel nach anästhesiologischer Einschätzung aktuell nicht notwendig -LRB- B-TITLE B-TITLE B-PER -RRB-
+-UNK- Abszess-Exzision parasternal rechts
+-UNK- Histopathologische und Mikrobiologische Aufarbeitung: ausstehend
+
+- Komplikationsloser ZVK-Wechsel am <[Pseudo] 04/04/2040>
+-UNK- Eingesandte ZVK-Spitze mikrobiologisch unauffällig
+
+- Myokardbiopsie v. B-DATE: 1R, pAMR ausstehend
+
+- Z.n. C. difficile Colitis -LRB- Vancomycin v. B-DATE - <[Pseudo] 24/02/40> -RRB-
+-UNK- Stuhlkultur in domo v. B-DATE: Kein Nachweis von Clostridoides
+-UNK- Erneute Stuhlkultur v. <[Pseudo] 08/04/40:> ausstehend
+
+- Akut auf chronisches Nierenversagen im Rahmen einer Überdosierung der Immunsuppression
+-UNK- Dosisanpassung Everolimus und Tacrolimus
+
+- Schlecht eingestellter Diabetes mellitus Typ II
+-UNK- Anpassung des Insulinplans am <[Pseudo] 28/02/2040>
+
+- Harnwegsinfekt mit Klebsiella pneumonia -LRB- Urinkultur <[Pseudo] 05/04/40> -RRB-
+-UNK- Antibiose mit Cefotaxim v. <[Pseudo] 07/04/40> - dato
+
+- Umstellung der Immunsuppression auf Certican -LRB- B-ORG -RRB-
+Diagnosen:
+- Z. n. Herztransplantation sowie LVAD und CRT-D-System-Explantation am <[Pseudo] 07/10/2039>
+-UNK- Transplantatstatus: mittelgradig verminderte systolische Pumpfunktion bei Hypokinesie aller Wandabschnitte -LRB- LVEF 38% -RRB-
+-UNK- MR-Tomographischer Aspekt einer Transplantatabstoßung -LRB- Kardio-MR v. <[Pseudo] 29/11/2039> -RRB-
+-UNK- Koronare 1-Gefäßerkrankung mit Verschluss der peripheren LAD bei Koronarfistel zwischen LAD und RV -LRB- B-OTHER v. <[Pseudo] 30/11/2039> -RRB-
+-UNK- Ätiologie der Koronarfistel: A. e. bei perforierter Übernaht bei Z. n. Perikardtamponade i. R. einer initialen RV-Biopsie
+-UNK- Z. n. LVAD-Implantation -LRB- Heartmate III -RRB- am <[Pseudo] 04/09/2036>
+-UNK- Aktuelle Immunsuppression: Prograf + Certican
+-UNK- Kardiale Grunderkrankung: Nicht-ischämische Kardiomyopathie -LRB- fam. DCM -RRB-
+- Kompletter Rechtsschenkelblock und linksanteriorer Hemiblock
+- Chronische Niereninsuffizienz
+- Nierenzyste im Mittelgeschoss der rechten Niere Bosniak-2F
+- Benigne Prostatahyperplasie
+-UNK- Z. n. mehrmaligen Prostata-Operationen, zuletzt <[Pseudo] 06/2032>
+- Rheumatoide Arthritis
+- Osteopenie
+- Antrumgastritis und leichte Duodenitis -LRB- ÖGD v. <[Pseudo] 29/12/2039> -RRB-
+-UNK- chemisch-reaktive Gastropathie, negativer HP Befund
+-UNK- CMV-PCR Magen/Duodenum: negativ
+-UNK- Hochdosis Pantoprazol-Therapie
+-UNK- Unauffällige Schleimhautverhältnisse in der Sigmoidoskopie
+-UNK- CMV-PCR Sigma: negativ
+- Z. n. depressiver Episode <[Pseudo] 2033>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Diabetes mellitus Typ 2, Z. n. Nikotinabusus -LRB- 95 py -RRB- , pos. Familienanamnese -LRB- Vater mit 63 63 an DCM verstorben -RRB-
+
+Allergien/Unverträglichkeiten: Erdbeeren, Entresto -LRB- Schwindel/Kreatinin-Anstieg <[Pseudo] 02/2040> -RRB-
+
+Anamnese:
+Die stationäre Aufnahme erfolgte als Verlegung durch das B-ORG I-ORG bei unter i.v. Antibiose eskalierenden Infektwerten und V.a. Pleuraempyem.
+
+Bei Aufnahme zeigt sich ein kardiorespiratorisch stabiler, subjektiv dem vorherigen Entlasszustand entsprechender Patient ohne Krankheitsgefühl -LRB- kein Fieber, keine Atemnot, kein Schüttelfrust, freies Atmen -RRB- . Es bestehen keine Dyspnoe und keine AP-Beschwerden. Die Belastbarkeit ist bei reduziertem AZ schlecht beurteilbar, entspricht jedoch a.e. dem bereits bekannten Status.
+
+Medikation bei Aufnahme:
+Tacrolimus in mg 4-0-4 -LRB- Ziel: 7 - 9 µg/l -RRB-
+Certican in mg 1,5-0-1,5 -LRB- Ziel: 4 - 6 µg/l -RRB-
+Prednisolon 5 mg 1-0-0
+Valganciclovir 450 mg 1-0-0 -LRB- alle 2 Tage -RRB-
+Cotrimoxazol 960 mg 1-0-0 -LRB- montags und donnerstags -RRB-
+Bisoprolol 1,25 mg 1-0-1/2
+Atorvastatin 20 mg 0-0-1
+Granisetron 2 mg 2-0-0
+Dekristol 20.000 I.E. 1-mal pro Woche -LRB- mittwochs -RRB-
+Pantoprazol 40 mg 1-0-0
+Escitalopram 20 mg 1-0-0
+Mirtazapin 15 mg 0-0-0-1
+Torasemid 5 mg 1-0-0
+Magnetrans 150 mg 1-0-1
+Ampho-Moronal 100 mg 1-1-1-1 -LRB- mind. 6 Monate nach HTX -RRB-
+Chlorhexidin 1% 4-mal/tgl. -LRB- mind. 6 Monate nach HTX -RRB-
+Novalgin 500 mg bei Bedarf
+Actraphane 0-0-0-5 I.E.
+Humalog Insulin nach Schema
+
+Eine antibiotische Therapie wurde bei Entlassung aus dem B-ORG Krankenhaus nicht berichtet.
+
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 165 cm, Gewicht: 61,2 kg, BMI: 22,5 kg/m2 -RRB-
+HF: /min
+RR: mmHg
+Keine Cyanose, keine Anämiezeichen, kein Ikterus.
+HT: leise, rein, keine path. Geräusche
+Lunge: bds. vesikuläres AG
+Pulsstatus: unauffällig
+Periphere Ödeme: keine
+Abdomen: Darmgeräusche in allen vier Quadranten; tastbare Verhärtung im Quadranten oben rechts; Abdomen druckschmerzhaft im Quadranten oben rechts.
+Neurol. Status: Pupillen isokor, beidseits direkt und indirekt lichtreagibel; Zittern an oberen und unteren Extremitäten.
+
+Ruhe-EKG bei Aufnahme am <[Pseudo] 25/02/2040:>
+Sinusrhythmus, 97/min, lagetyp. PQ 130 ms, QRS 144 ms, QTc 433 ms. Kompletter RSB mit konsekutiven Kammerendteilveränderungen. R-Verlust V3-V6.
+
+Ruhe-EKG am <[Pseudo] 06/03/2040:>
+Sinusrhythmus, 77, Linkstyp, QRS 143 ms, QTc 445 ms, M förmige Konfiguration in V1/2, S Persistenz.
+
+Ruhe-EKG am <[Pseudo] 26/03/2040:>
+Sinusrhythmus, 73/min, überdrehter Linkstyp. PQ 160 ms, QRS 148 ms, QTc 425 ms. Kompletter RSB mit konsekutiven Kammerendteilveränderungen. S Persistenz
+
+Befund:
+Thorax:
+Deutlich zunehmende herdförmige, teils noduläre Konsolidierungen bipulmonal, exemplarisch im Oberlappen rechts -LRB- 10 / 45 -RRB- sowie im Unterlappen links -LRB- 10 / 63 -RRB- , passend zu entzündlichen Veränderungen.
+Pleuraerguss rechts mit deutlich KM-affiner Darstellung der Pleura und teils gefangenem Ergussanteil im Interlobium und an der ventralen Thoraxwand. Maximale Saumbreite des Pleuraergusses liegt bei ca. 4,9 cm -LRB- 5 / 115 -RRB- . Gesteigerte KM-Aufnahme der Pleura, teils örtlich betont, z.B. im ventralen Recessus rechts -LRB- 5/111, 6/57 -RRB- . Linksseitig sehr kleiner schmaler Pleuraerguss. Geringer Pericarderguss. Insgesamt erscheint das Herz vergrößert.
+Keine zentrale Lungenarterienembolie. Einliegender ZVK von jugulär links mit Lage der Spitze in der Vena cava superior. Kein Nachweis einer Pleuraablösung. Einliegende sternale Drahtzerklagen; kein Materialbruch. Herztransplantat mit vergrößerten Herzkammern, aneurysmatische Ausziehung der Spitze des rechten Ventrikels -LRB- 4/22 -RRB- , ggf. postoperativ. Hyperdenses OP-Material perikardial.
+Abdomen:
+Freie Perfusion der Pfortader und der Lebervenen. Regelrechte Kontrastierung der Leberarterien; die rechte Leberarterie entspringt der AMS. Arteriell hyperkontrastierte Läsion im Segment 2 -LRB- 1,9 cm, 4 / 43 -RRB- , idem zur VU. Kein eindeutiger Nachweis eines Washouts in venöser Phase, am ehesten Hämangiom. Kleine Leberzyste. Zunehmende Mehrverfettung der Leber in Loco typico am Ligamentum falciforme hepatis.
+Wie zur Voruntersuchung vom <[Pseudo] 03/08/2039> multiple zystische Nierenläsionen beidseits, die sich im Wesentlichen größenkonstant darstellen; insbesondere die als Bosniak 2F gewertete Nierenzyste im Mittelgeschoss links stellt sich konstant dar. Perirenales Stranding.
+Bekannte Raumforderung der rechten Nebenniere, die sich im kurzfristigen Verlauf konstant zur Voruntersuchung darstellt -LRB- 22 mm, 4 / 71 -RRB-
+Hiläre Nebenmilz, idem. Milz homogen und nicht vergrößert.
+Pankreas unauffällig.
+Mäßige Menge freier Flüssigkeit im kleinen Becken -LRB- 5 / 280 -RRB- . Kein Nachweis freier intraabdomineller Luft.
+Soweit bei ausgedehnten Metallartefakten im linken Mittelbauch aufgrund eines dort einliegenden Devices beurteilbar, kein Nachweis einer abszesstypischen Formation in den einsehbaren Abschnitten den Abdomens. Lipom gluteal links. Z.n. Prostatektomie bei BPH.
+Schrittmacheraggregat im subkutanen Fettgewebe links abdominell ohne angrenzende Flüssigkeitskollektion, die Elektrode endet unverändert blind in der Thoraxwand. Clipmaterial rechts inguinal ohne umgebende infekttypische Veränderung.
+Skelett:
+Degenerative Skelettveränderungen in altersentsprechendem Umfang. Deckplatteneinmuldungen in der BWS. Bekannte, längerfristig größenkonstanter Knochendefekt im Processus spinosus LWK 5 -LRB- 5/230 -RRB- , ggf. auch postoperativ. Mehrere Compactainseln, idem. Osteopenie. Kein Hinweis auf eine Spondylodiszitis in der CT.
+Zu <[Pseudo] 11/2039> weiterhin kein fortschreiten der knöchernen Konsolidierung der Sternotomie.
+Beurteilung:
+- Pleuraerguss rechts mit deutlich KM-affiner Pleura und gefangenen Ergussanteilen. Empyem nicht auszuschließen, diagnostische Punktion empfohlen.
+- Seit <[Pseudo] 11/2039> abgrenzbare und zu <[Pseudo] 09/02/2040> weiter zunehmende Herdbefunde bipulmonal, im Kontext DD Pilzpneumonie bzw. auch andere atypische Erreger -LRB- z.B. Mykobakterien -RRB- .
+- Flüssigkeitstasche rechts pektoral nach Schrittmacherentfernung zu <[Pseudo] 09/02/40> partiell rückläufig, 7 x 3 x 1,5 cm, kleine Flüssigkeitskollektion am Rippenbogen rechts, 2,5 cm, nach LVAD-Explantation. Schrittmacheraggregat im abdominellen Fettgewebe ohne angrenzende Flüssigkeitskollektion, Elektrodenrest thorakal blind endend. ZVK links jugulär.
+- Postoperativ streifige Verdichtungen retrosternal, Flüssigkeitsstraße rückläufig zum B-DATE. Sternotomie zu <[Pseudo] 11/2039> weiterhin nicht knöchern konsolidiert, unverändert schmaler ossärer Resorptionssaum. Herztransplantat mit vergrößerten Herzkammern. Klinisch bekannte postoperative aneurysmatische Ausziehung der Spitze des rechten Ventrikels mit Fistel zur RIVA -LRB- 6/18 bis 6/20 -RRB- .
+- Geringer Aszites, kein abdomineller Verhalt, kein Ileus, keine freie Luft. Gering gesteigerte KM-Aufnahme des Zökums/Colon ascendens, Enteritis hier nicht ausgeschlossen, allerdings keine deutliche Umgebungsreaktion.
+- Konstante Darstellung der multiplen zystischen Nierenläsionen.
+
+Lungenfunktionsprüfung vom <[Pseudo] 28/02/2040:>
+Spirometrie:
+- formal keine Obstruktion
+- VC und FEV1 deutlich reduziert.
+Beurteilung:
+- V.a. restriktive Ventilationsstörung
+Kommentar:
+- Bodyplethysmographie zur Abklärung auf restriktive Ventilationsstörung erwägen
+
+Lungenfunktionsprüfung vom <[Pseudo] 28/02/2040:>
+Kapilläre Blutgasanalyse:
+Raumluft: Normoxie, Hypokapnie, kompensierte metabolische Azidose.
+Spirometrie und Bodyplethysmographie:
+Keine Obstruktion
+Hochgradige Restriktion.
+Keine Überblähung.
+CO-Diffusionskapazität: hochgradig eingeschränkt.
+CO-Transferkoeffizient: mittelgradig eingeschränkt.
+
+Transthorakale Echokardiographie vom <[Pseudo] 28/02/2040:>
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit mittelgradig verminderter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte. Noch erhaltene longitudinale Funktion. Hinweis auf diastolische LV-Dysfunktion. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid mit geringer, zentraler Insuffizienz. Zudem geringe Mitralklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch
+regelrecht. Der systolische PA-Druck in Ruhe ist im oberen Normbereich -LRB- ca. 35 mmHg -RRB- .
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 07/02/2040:> keine wesentliche Befundänderung.
+
+Pleurapunktion vom <[Pseudo] 01/03/2040:>
+Vorgehen nach SOP. Der Patient wurde durch den Stationsarzt bereits umfassend über die anstehende Punktion aufgeklärt und hat explizit keine weiteren Fragen. Die letzte Punktion war am <[Pseudo] 24/02/2040> im B-ORG I-ORG I-ORG erfolgt. Erneute Indikation zur diagnostischen Punktion zum Ausschluss eines Pleuraempyems bei CT-morphologischem Verdacht.
+Sonographisch zeigt sich rechts eine ca. 4-5cm messende, multiple septierte Ergussmenge mit einer Ausdehnung von ca. 4-5cm. Sonographische Lokalisation der geeigneten Punktionsstelle rechts lateral; Markierung, nachfolgend ausgiebige Hautdesinfektion; Lokalanästhesie mit ca. 5ml Scandicain 1% mit einer Injektionskanüle -LRB- 20G -RRB- unter Aspiration unter strengem Bezug zum Rippenoberrand, Aspiration von ca. 40ml rötlich-tingiertem serösem Erguss. Nach Beendigung der Ergussaspiration Rückzug der Nadel ohne Aspiration, Kompression der Punktionsstelle mit einer sterilem Kompresse, anschließend steriler Verband.
+Procedere:
+- Durchführung eines Röntgen-Thorax um 16 Uhr -LRB- 2 Stunden nach der Punktion -RRB-
+- Versand von Material durch die Station: klin. Chemie -LRB- Amylase, LDH, Ges.eiweiß, Triglyzeride, Cholesterin, Glucose -RRB- , kleines BB, Hb, pH. Mikrobiologie
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 04/03/2040:>
+Mehrere Voruntersuchungen zum Vergleich vorliegend, zuletzt eine Projektionsradiographie vom B-DATE
+Befund und Beurteilung:
+Konstanter Pleuraerguss rechts, entlang der Thoraxwand und in den Interlobärspalt auslaufend mit daran angrenzenden Minderbelüftungen. Begleitende pneumonische Infiltrate sind hier weiterhin möglich. Links minimaler Randwinkelerguss bei dort einliegender Pleuradrainage. Links keine pneumonischen Infiltrate abgrenzbar. Kein Pneumothorax. Trachea mittelständig, nicht eingeengt. Konstante Herzsilhouette. Fremdmaterial in situ, idem.
+Zusatzbefund vom <[Pseudo] 05/03/2040:>
+Bei dem linksseitig einliegenden Kabelmaterial handelt es sich nicht um eine Pleuradrainage, sondern um eine teilerfasste Elektrode eines in situ verbliebenen Schrittmachers im subkutanen Fettgewebe des linken Oberbauchs.
+
+Herzchirurgisches Konsil vom <[Pseudo] 10/03/2040:>
+Diagnose:
+z.n. HTX, verbliebenes SM Aggregat Abdominell als pot. Infektquelle mit extrathorakal einliegendem SM kabel und Abszessverdächtige Formation unteres Sternumdrittel re parasternal
+Operation:
+Entfernung abd. gelagertes SM Aggregat+ Sonde, Entfernung Fremdkörperreaktion und 3 Drahtcerclagen, Spülung
+
+Blutgaben keine
+Bei B-SALUTE B-PER wurde im B-MONTH eine orthotope Herztransplantation durchgeführt, im Rahmen der Infektfokussuche wurde nun das abdominell gelagerte SM-Aggregat gefunden, sowie eine abszessverdächtige Struktur rechts parasternal. Daher Indikation zur Aggregatentfernung und Exploration der parasternal gelegenen schmerzhaften Stelle.
+In Rückenlage und Analgosedierung erfolgt nach Abwaschen und sterilem Abdecken nach Instillation von lokaler Betäubung zunächst das Eröffnen der SM-Aggregattasche. Das Aggregat wird nebst Sonde entfernt und die Neointima der SM Tasche entfernt. Das Aggregat wird in die B-ORG geschickt. Redoneinlage. Schichtweiser Wundverschluss, Hautnaht.
+Im Anschluss Injektion von Lokalanästhetikum rechts parasternal. Inzision, es zeigt sich der Verdacht auf eine Fremdkörperreaktion durch die Drahtcerclagen, Abstrichnahme für die Mikrobiologie. Entfernung von reaktivem Gewebe und 3 Drahtcerclagen. Blutstillung. Schichtweiser Wundverschluss. Hautnaht.
+
+CT Thorax nativ vom <[Pseudo] 14/03/2040>
+Rechtfertigende Indikation: GIA
+Multiplanare Reformatierung -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 14/03/2040>
+Spektral-CT vom <[Pseudo] 14/03/2040>
+Maximum-Intensitäts-Projektion -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 14/03/2040>
+CT Voruntersuchung vom <[Pseudo] 28/12/39> zum Vergleich vorliegend sowie Röntgen vom B-DATE.
+Befund:
+Zustand nach Herztransplantation am B-DATE B-DATE Zunehmende rundliche konsolidierende Verdichtungen im rechten Oberlappen -LRB- 202- 93 -RRB- von 1,0 auf 1,4cm, sowie weitere neue rundlich konsolidierende Verdichtung kaudal davon mit 2,3 cm -LRB- 202-130 -RRB- jedoch keine eindeutige Milchglasumrandung. Kleinere Rundherd-Verdichtungen gefäßassoziiert/bronchusassoziiert auch im linken Unterlappen -LRB- 202 -198/178 -RRB- bis 10 mm. Angrenzende Minderbelüftungen an den Erguss. Zunehmender Pleuraerguss anteilig in den Lappenspalt auslaufend aktuell rechts 2,6 cm, links 2,2 cm.
+Neue Lufteinschlüsse subkutan angrenzend an die Sternalzerklagen im unteren Drittel des Sternums -LRB- 201 -233 -RRB- .
+Im teils abgebildeten Oberbauch nativ rundliche Läsion der rechte Nebenniere mit 2,1 cm konstant zur Voruntersuchung a.e. Nebennierenadenom, sonst übrige Oberbauchorgane ohne suspekte Läsionen.
+Beurteilung:
+-UNK- Zur VU größenzunehmende rundliche Verdichtung im rechten Oberlappen sowie kaudal weitere neue rundlich-konsolidierende Verdichtung. Der Befund entspricht a.e. einem Infekt. Eine Pilzinfektion ist möglich. Die Zeichen einer bronchogenen Ausbreitung des Infektes könnte Hinweis auf eine TBC oder eine andere Mykobakterielle Infektion sein.
+-UNK- Bei Zustand nach Transplantation sind nachrangig auch Neoplasien möglich, z.B. Bronchialkarzinom oder lymphoproliferative Erkrankung.
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 16/03/2040:>
+Zum intermodalen Vergleich liegt die CT vom <[Pseudo] 14/03/2040> vor.
+Befund und Beurteilung:
+ZVK links wurde entfernt. Neuer ZVK von rechts jugulär mit Spitzenprojektion auf den cavoatrialen Übergang. Dorsal auslaufender Pleuraerguss beidseits, rechts führend mit auch gefesselten Anteilen an der Thoraxwand. Rundliche Verschattung in Projektion auf das rechte Oberfeld sowie links im Mittelfeld bei vorbestehenden entzündlichen Infiltraten.
+
+
+Bronchoskopie vom <[Pseudo] 16/03/2040:>
+Beurteilung:
+Komplikationslose flexible Bronchoskopie unter LA+Propofol. Intubation oral. Stimmbänder unauffällig, Glottisschluss vollständig. Problemlose Intubation der Trachea. Carina spitz. Die Bronchialschleimhaut ist kontaktvulnarbel. Alle Ostien frei einsehbar. Ubiquitär, mobiles weißliches Sekret. Die BAL erfolgt aus dem UL rechts und UL links.
+Die BAL wurde zur mikrobiologischen Untersuchung -LRB- Bakterien, Pilze inkl. Schimmelpilze, CMV, HASV, Influenza, RSV -RRB- eingesandt.
+
+Procedere:
+- 2 Stunden nüchtern
+- Monitor-Überwachung -LRB- RR/HF/AF-Kontrolle -RRB- für 2 Stunden
+
+Zytologische Beurteilung von Knochenmarkausstrichen vom <[Pseudo] 21/03/2040:>
+Beurteilung:
+Es findet sich ein normozelluläres Knochenmark mit Ausreifung der Granulopoese. Diese weist jedoch in einer Vielzahl der Zellen eine toxische Granulation auf. Außerdem ist ein Großteil der Zellen stark vakuolisiert. Die Megakaryopoese weist Dysplasiezeichen auf in Form von isoliert liegenden Kernen. Die Erythropoese ist massiv vermindert vertreten, in den wenigen vorhandenen Proerythroblasten lassen sich
+ebenfalls einzelne Vakuolen wiederfinden. Daneben finden sich immer wieder eingestreute, ebenfalls vakuolisierte Plasmazellen und Makrophagen sowie Mastzellen. Insgesamt ist der Befund vereinbar mit einem toxischen Markschaden. Bei Vorliegen von vakuolisierten Proerythroblasten und Dysplasiezeichen in der Megakaryopoese empfehlen wir eine weiterführende Diagnostik zur Abklärung eines myelodysplastischen Syndroms mittels Zyto- und Molekulargenetik.
+
+CT-gesteuerte Punktion Thorax, Lunge vom <[Pseudo] 23/03/2040>
+Rechtfertigende Indikation: B-TITLE I-TITLE B-PER
+EKG-Monitoring vom <[Pseudo] 23/03/2040:>
+INTERVENTION:
+Nach Rücksprache mit dem behandelnden B-SALUTE interdisziplinäre Indikationsstellung zur diagnostischen Biopsie der pulmonalen Läsion im rechten Oberlappen. Eine ausführliche Aufklärung über die Indikation sowie allgemeine und patientenspezifische Risiken erfolgte am <[Pseudo] 23/03/2040> eine schriftliche Einverständniserklärung sowie aktuelle Laborparameter liegen vor.
+Natives Planungs-CT in Expiration. Verlaufskonstante irregulär konfigurierte pleuraständige Verdichtungen im rechten Oberlappen, ex.
+mit 13 mm -LRB- 11-24 -RRB- oder mit 25 mm -LRB- 11-33 -RRB- .
+Schmale Pleuraergüsse beidseits, rechts führend. Truncus bicaroticus. Teilerfasser Katheter mit Spitzenlokalisation in der VCS. Z.n. Sternotomie.
+Anzeichnen und Vorbereitung nach sterilen Kautelen. Periinterventionelle Gabe von 7,5 mg Piritramid i.v. Kontinuierliche Überwachung mittels Pulsoxymetrie sowie Monitor-EKG.
+Ausgiebige lokale Infiltration mittels 15 ml Xylocain s.c. Komplikationslose CT-gesteuerte Punktion mittels 17G BARD-System und Entnahme von insgesamt 4 gräulich imponierenden Stanzzylindern. Zwei Stanzzylindern wurden in Formalin fixiert und zur weiteren histopathologischen Aufarbeitung versandt. 2 Stanzzylindern wurden zur mikrobiologischen Untersuchung in steriler NaCl asserviert und auf Station mitgegeben. Entfernung der Nadel. Kompression. Postinterventionell geringe perifokale Hämorrhagie. Ansonsten CT-morphologisch kein Hinweis auf Komplikationen, insbesondere kein Pneumothorax. Wundverband.
+Der Patient wurde beschwerdefrei und kardiorespiratorisch stabil der Station übergeben.
+BEURTEILUNG:
+- Weitgehend konstante Konsolidierungen im rechten OL gegenüber B-DATE
+- Komplikationslose, CT- gesteuerte Stanzbiopsie der pleuraständigen Konsolidierung im dorsalen rechten OL und Asservierung der Gewebeproben mzur histopathologischen und mikrobiologischen Untersuchung.
+Telefonische Befundmitteilung an den behandelnden B-SALUTE erfolgt -LRB- B-TITLE B-PER -RRB- .
+PROCEDERE:
+Bettruhe in Rückenlage und Monitoring der Vitalparameter für 2 Stunden.
+Wundkontrollen.
+
+Psychosomatisches Konsil vom <[Pseudo] 23/03/2040:>
+Vertraulich
+
+Röntgen Abdomen in Links-Seitenlage vom <[Pseudo] 27/03/2040:>
+Zum intermodalen Vergleich liegt einen auswärtiges CT-Abdomen vom <[Pseudo] 23/02/2040> vor.
+Befund und Beurteilung:
+Keine freie Luft. Meteorismus des Colon ascendens. Keine Spiegelbildungen. Miterfasstes Skelett unauffällig.
+
+CT Thorax, Abdomen und Becken mit Kontrastmittel vom <[Pseudo] 29/03/2040>
+Rechtfertigende Indikation: DOT
+Spektral-CT vom <[Pseudo] 29/03/2040>
+Messungen und manuelle Platzierung von ROIs -LRB- CT -RRB- vom <[Pseudo] 29/03/2040>
+Multiplanare Reformatierung -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 29/03/2040>
+Maximum-Intensitäts-Projektion -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 29/03/2040>
+Zuletzt eine CT Thorax vom <[Pseudo] 23/03/2040> und <[Pseudo] 14/03/2040> sowie eine CT-Abdomen vom <[Pseudo] 23/02/2040> zum Vergleich.
+Befund:
+Thorax:
+Zustand nach Herztransplantation am B-DATE. Fetthaltige Läsion im Vorhofseptum von 5 mm DD Lipom.
+Unveränderte rundliche konsolidierende Verdichtungen im linken Unterlappen -LRB- 404 / 108 -RRB- sowie im rechten Oberlappen -LRB- 404 / 61, 77 -RRB- . Weiterhin Pleuraerguss beidseits mit 2 cm Saumbreite links und rechts bis zu 4 cm basal -LRB- 401 / 175 -RRB- . Rechtsseitig gefangene
+Ergussanteile, pleurale Begleitreaktion und Unterlappenteilatelektase. Kein Pneumothorax. Perikarderguss bis ca. 7 mm Saumbreite. Keine pathologisch vergrößerten Lymphknoten. Keine zentrale Lungenarterienembolie. ZVK von rechts jugulär mit Abbildung der Spitze der Vena cava superior. Unveränderte Flüssigkeitsformation mit kleinen fettisodensen Einschlüssen und ohne Lufteinschlüsse präpektoral rechts mit ca. 3,2 cm Durchmesser -LRB- 401 / 60 -RRB- .
+Abdomen:
+Gering inhomogenes Leberparenchym. Kein Nachweis suspekter Leberläsionen. Lebervenen und Pfortader offen. Keine Cholestase. Pankreas, Milz und beide Nieren regelrecht. Hiläre Nebenmilz.
+Teils etwas dichteangehobene Nierenzysten beidseits. Unveränderte rundliche Läsion in der rechten Nebenniere mit 2,4 cm Durchmesser -LRB- 401 / 215 -RRB- und nicht adenomtypischen Dichtewerten. Keine Harntransportstörung. Keine pathologisch vergrößerten Lymphknoten oder freie Luft abdominell. Moderate Mengen freier Flüssigkeit perisplenisch, interenterisch und im kleinen Becken. Arteriosklerose. Unveränderte Flüssigkeitsformation ebenfalls mit kleinen fettisodensen Einschlüssen und ohne Lufteinschlüsse im ventralen Bauchfettgewebe mit ca. 2,9 cm Durchmesser -LRB- 401 / 219 -RRB- . Zwischenzeitlich Zustand nach Entfernung des Schrittmacheraggregats links abdominell.
+Skelett:
+Geringe Dehiszenz der Sternotomieränder. Fokale Mehrsklerosierung im linken Os ilium -LRB- 401 / 348 -RRB- , idem. Degenerative Skelettveränderungen. Mehrere Deckplatteneinmuldungen.
+Beurteilung:
+-UNK- Unveränderte rundliche Infiltrate im linken Unterlappen und im rechten Oberlappen.
+-UNK- Weiterhin Pleuraerguss beidseits mit 2 cm Saumbreite links und rechts bis zu 4 cm basal. Rechtsseitig gefangene Ergussanteile, pleurale Begleitreaktion und Unterlappenteilatelektase.
+-UNK- Kein Infektfokus abdominell.
+-UNK- Perikarderguss bis ca. 7 mm Saumbreite.
+-UNK- Unveränderte Flüssigkeitsformation mit kleinen fettisodensen Einschlüssen und ohne Lufteinschlüsse präpektoral rechts und im ventralen Bauchfettgewebe rechts.
+-UNK- Teils etwas dichteangehobene Nierenzysten beidseits, DD eingeblutet.
+-UNK- Unveränderte rundliche Läsion in der rechten Nebenniere mit 2,4 cm Durchmesser und nicht adenomtypischen Dichtewerten.
+-UNK- Moderate Mengen freier Flüssigkeit perisplenisch, interenterisch und im kleinen Becken.
+-UNK- Geringe Dehiszenz der Sternotomieränder.
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 05/04/2040:>
+VU vom <[Pseudo] 16/03/40>
+Her vergrößert, dd Perikarderguss. Keine höhergradige Stauung, kein Infiltrat. Progredienter, teils abgekapselter Erguss rechts, links weitgehend unverändert. Bekannte begleitende Belüftungsstörungen Kein Pneu. Neuer ZVK von links mit Projektion der Spitze auf die VCS.
+
+ZVK-Anlage vom <[Pseudo] 05/04/2040:>
+Es erfolgte die komplikationslose ultraschallgesteuerte Anlage eines 5-Lumen ZVK in die linke V. jugularis interna. Nach ausgiebiger Lokalanästhesie erfolgte die Venenpunktion unter Ultraschallkontrolle. Anschließend problemloses Vorschieben des Führungsdrahtes. Lagekontrolle des Führungsdrahtes mittels Ultraschall, anschließend aufdilatieren der Einstichstelle und problemloses Vorschieben des vorgespülten ZVK auf 17 cm. Abnahme einer venösen BGA, anschließend Aspiration und Durchspülen aller Schenkel. Schließlich erfolgte die Annaht und Verbandsanlage.
+Thoraxröntgen zur Lagekontrolle und Ausschluss Pneumothorax erfolgt.
+
+Ernährungsmedizinisches Konsil vom <[Pseudo] 06/04/2040:>
+Diagnose:
+Z.n. Herztransplantation, Z.n. Abstoßung, parenterale Ernährung, Hyperkaliämie, Hyperphosphatämie bei
+Niereninsuffizienz, Proteinmangel
+Therapie:
+bei Hyperkaliämie und Hyperphosphatämie Umstellung der parenteralen Ernährung auf elektrolytfreies Regime, sofern orale Ernährung noch nicht ausreichend! -LRB- Bedarf ca. 1900 kcal /Tag -RRB- -LRB- Nutriflex lipid spezial 1250 ml elektrolytfrei + je 1 A. Addel trace und 1 A. Cernevit -LRB- anstatt Cernevit auch je 1 A Frekavit wasserl. und Frekavit fettlösl. möglich -RRB- ; Substitution von Na, Ca, Mg nach Laborkontrolle
+
+Transthorakale Echokardiographie vom <[Pseudo] 09/04/2040:>
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Röntgen LWS in 2 Ebenen vom <[Pseudo] 19/04/2040:>
+CT vom <[Pseudo] 29/03/40> zum Vergleich vorliegend.
+Befund und Beurteilung:
+Erhaltenes vorderes und hinteres Alignement der Wirbelsäule mit anteilig leichten Deckplatteneinmuldungen, kein Hinweis auf eine frische dislozierte Fraktur. Aortensklerose.
+
+
+Labor:
+
+Zusammenfassung:
+Die stationäre Aufnahme des Patienten erfolgte als Übernahme aus dem B-ORG I-ORG I-ORG bei erneutem CRP-Anstieg dort und vermutetem Pleuraempyem. Ein CT-Thorax/Abdomen wurde am <[Pseudo] 23/02/2040> im ORG angefertigt und durch unsere Radiologen beurteilt, hier fand sich eine KM-affine Formation in der Lunge, die verdächtig auf ein Pleuraempyem schien. Zudem ergaben sich computertomographische Aspekte einer Pilzpneumonie.
+
+Zur weiteren Aufarbeitung wurden erneute Blutkulturen asserviert. Diese blieben zum jetzigen Zeitpunkt negativ. Zudem erfolgte eine erneute Pleurapunktion am B-DATE. Sonographisch gesteuert erfolgte die komplikationslose Aspiration aus der Lokalisation des vermuteten Pleuraempyems. In der histologischen Aufarbeitung sowie in der laborchemischen Analyse ergaben sich xxx.
+
+Im externen Krankenhaus war zudem eine Clostridium-difficile-Colitis diagnostiziert worden und mit Vancomycin therapiert. Eine hier asservierte Stuhlprobe lieferte keinen Nachweis von Clostridien, weswegen die Therapie mit Vancomycin nicht weiter fortgeführt wurde.
+
+Bei akut auf chronischem Nierenversagen im Rahmen einer Überdosierung der Immunsuppressiva wurde die Dosierung von Everolimus und Tacrolimus angepasst. Hierunter zeigte sich eine suffiziente Regredienz der Retentionsparameter.
+
+Zudem erfolgte bei symptomatischer Anämie eine komplikationslose Transfusion von zwei Erythrozytenkonzentraten am B-DATE. Bei schlecht eingestelltem Diabetes mellitus Typ 2 und chronischer Niereninsuffizienz erfolgte zudem eine Mitbeurteilung durch unsere Diabetesexperten. Der Insulinplan des Patienten wurde entsprechend angepasst, und die Anpassung mit dem Patienten besprochen.
+
+Zudem wurde eine Echokardiographie durchgeführt, hier zeigte sich im Wesentlichen Befundkonstanz bei weiterhin mittelgradig eingeschränkter Pumpfunktion. In der Bodyplethysmographie, die nach einer inkonklusiven Spirometrie durchgeführt wurde, zeigte sich zudem lediglich eine FEV1 von 1,24 l/sec, weshalb auf eine invasive Abklärung mittels VATS und/oder Bronchoskopie zunächst verzichtet wurde. Dieses Procedere folgt dem Konferenzbeschluss vom <[Pseudo] 28/02/2040> der Herztransplantationskonferenz.
+
+Nach erneuter Vidierung aller bisher erhobenen radiographischen Befunde zeigte sich eine weiterhin noch nicht explantierte Schrittmachersonde sowie ein einliegendes Schrittmacheraggregat subcostal. Nach Konferenzbeschluss vom <[Pseudo] 06/03/2040> erfolgte deshalb die Explantation der noch einliegenden Fremdmaterialien am <[Pseudo] 10/03/2040> um eine mögliche Infektionsquelle zu entfernen.
+
+Unter der antibiotischen Therapie wurde nach Schrittmacher-Entfernung eine suffiziente Regredienz der Infektparameter erreicht, sodass diese im Verlauf abgesetzt wurde. Caspofungin wurde zum XX abgesetzt.
+
+Im weiteren stationären Verlauf allerdings verschlechterte sich B-SALUTE B-PER zunehmend, weshalb eine erneute native CT-Darstellung des Thorax erfolgte. Diese zeigte einen Progress der bekannten Lungenherde. Es erfolgte eine Mitbeurteilung durch die B-SALUTE der Thoraxchirurgie am B-DATE. Demnach sind die Herde dringlich Infektionsverdächtig. Es erfolgte daher eine erneute Abnahme vom Blutkulturen und der Wiederbeginn der Antibiose, empirisch erneut mit Meropenem. Die Blutkulturen blieben negativ.
+
+Nach konsiliarischer Beurteilung unserer infektiologischen B-SALUTE entschlossen wir uns zur gezielten Fokussuche mittels Bronchoskopie und bronchoalveolärer Lavage. Diese verlief komplikationslos.
+
+Im BAL-Sekret ergab sich der Nachweis eines deutlich erhöhten Aspergillus-Antigen, welches insbesondere im Vergleich zum Serum >10-fach erhöht war und somit dringend verdächtig auf eine Aspergillose ist. Nach Maßgabe der Infektiologie begannen wir daher die Therapie mittels Amphotericin B liposomal. Des Weiteren waren verschiedene Gram-negative Stäbchen -LRB- Corynebacterium spez. und Enterobacter cloacae -RRB- in signifikanten Zahlen im BAL-Sekret nachweisbar. Diese interpretieren wir a.e. als Superinfektion, welche durch die empirische Antibiose mit Meropenem ausreichend abgedeckt ist.
+
+Die weitere Auswertung des BAL-Sekrets ergab jedoch in der PCR und Kultur keinen weiteren Nachweis auf Aspergillus, sodass wir -LRB- bei fehlenden anderen möglichen Erregern und somit a.e. infrage kommender Aspergillose -RRB- weiter mit Amphotericin B therapierten, aber eine Umfelddiagnostik auf andere Erreger initiierten. Eine umfassende serologische Untersuchung ergab keinen Hinweis auf mögliche virale Erreger -LRB- EBV, CMV, HSV, Influenza, SARS-CoV-2 oder RSV -RRB- oder Candida albicans. Eine Sputumdiagnostik blieb bezüglich des Mycobacterium-tubercolosis-complexes in Mikroskopie und PCR negativ.
+
+Aufgrund der ungünstigen infektiologischen Situation des Patienten und weiteren Verschlechterung des Allgemeinzustandes entschlossen wir uns in der interdisziplinären Herztransplantationskonferenz vom <[Pseudo] 20/03/2040> zur vorübergehenden Reduktion der Immunsuppression -LRB- Zielbereich Tacrolimus 4-6, Everolimus 3-5 -RRB- .
+
+Nach Rücksprache mit der Infektiologie und Thoraxklinik entschlossen wir uns daher, bei weiter fehlendem eindeutigen Keimnachweis, zur CT-gesteuerten Punktion eines Lungenherdes. Diese verlief am <[Pseudo] 24.03.> komplikationslos. Die histopathologische Aufarbeitung ergab -UNK- . Eine mikrobiologische Untersuchung -LRB- PCR, Kultur -RRB- lieferte -UNK-
+
+Im stationären Verlauf fiel zudem eine langsam progrediente Panzytopenie auf. Zunächst wurde hier die antiinfektive Prophylaxe -LRB- nach HTX -RRB- mit Valganciclovir und Cotrimoxazol im Rahmen einer Nutzen-Risiko-Abwägung bereits nach 5 Monaten beendet. Ein Differential-Blutbild lieferte keinen Nachweis einer monoklonalen Expansion und war bezüglich möglicher Ursachen unergiebig. Nach hämatologischer Mitbeurteilung entschlossen wir uns daher zur Knochenmarksbiopsie. Diese konnte am <[Pseudo] 22.03.> komplikationslos durchgeführt werden. Es zeigte sich das Bild eines medikamentös-toxisch geschädigten Knochenmarks, somit kommt insbesondere die Immunsuppression nach HTX als Verursacher infrage. Bei Nachweis von dyplastischen Zellen erfolgte eine weitere Abklärung, welche XXX. Eine PCR und Mikroskopie blieb bezüglich Bakterien des Mykobaterium tuberculosis-complexes negativ.
+
+Am <[Pseudo] 23.03.> wurde aufgrund einer generellen AZ-Verschlechterung ein Interventionsgespräch mit dem Patienten gesucht. B-SALUTE B-PER gab eine allgemeine Antriebslosigkeit und Appetitlosigkeit an, er habe daher den ganzen Tag nichts gegessen. Es wurde eine supportive parenterale Ernährung begonnen. Unterstützend wurden die Psychologen und Ernährungsberater hinzugezogen. Am Folgetag entwickelte B-SALUTE B-PER ein Refeeding-Syndrom, eindrücklich durch Hypophophatämie und Hypomagnesiämie, welche zugleich ausgeglichen und engmaschig kontrolliert wurde. Wir gehen daher davon aus, dass eine akute Malnutrition schon länger besteht, zusätzlich aggraviert durch eine konsumierende Infekterkrankung mit erhöhtem Kalorienbedarf. In der engmaschigen Nachkontrolle zeigten sich die Elektrolyte im Normbereich.
+
+Im stationären Verlauf fiel auf, dass der Patient seine Gebissprothese des Oberkiefers nicht mehr selbstständig entfernen konnte. Durch eine Intervention der B-SALUTE der MKG gelang schließlich der Wechsel.
+
+Die routinemäßige 6-Monatsbiopsie wurde am <[Pseudo] 04/04/40> komplikationslos durchgeführt. Die pathologische Aufarbeitung ergab eine 1R-Reaktion.
+
+Unter zunächst supportiver parenteraler Ernährung gelang trotz mehrfacher Interventionen, Gabe von Wunschkost und ausführlichen Gesprächen im Ernährungsteam der orale Kostaufbau nicht. Eine Magensonde lehnte der Patient wiederholt ab. Am <[Pseudo] 16/04/40> wurde eine zunehmende Somnolenz bei Zunahme eines bekannten generalisierten Tremors mit jetzt neu aufgetretenen Myoklonien apparent. Es erfolgte die konsiliarische neurologische und nephrologische Mitbeurteilung sowie eine Rücksprache mit der Ernährungsmedizin. In der Zusammenschau handelt es sich a.e. um eine metabolische Enzephalopathie bei steigenden Harnstoffwerten. Kausal hängt dies mit einem einerseits deutlich reduzierten Nährstoff- und insbesondere Proteinbedarf zusammen, sodass es durch die parenterale Ernährung -LRB- trotz relativ geringer Gesamt-Kalorien-Menge von 1400kcal -RRB- zu einer Akkumulation von nicht verwerteten Proteinen kam. Andererseits ist die deutlich reduzierte Nierenfunktion, welche bei ausgeprägter Kachexie durch die Kreatinin-basierte GFR deutlich überschätzt wird -LRB- Kreatinin-GFR 33ml/min, Cystatin C-GFR 9ml/min -RRB- , aggravierend. Es erfolgte eine Reduktion der parenteralen Ernährung auf insgesamt 1000kcal/Tag, eine supportive Flüssigkeitsgabe sowie eine Anpassung der Medikation an die aktuelle Nierenfunktion. Hierunter kam es im Verlauf zu einer Normalisierung der Harnstoffwerte.
+
+Wir passten die Herzinsuffizienzmedikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Zudem bitten wir bei Statin-Therapie um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen xxxxxxxxxxxxxxx mit einem Entlassgewicht von xxxxxxxxxxx kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Procedere/Termine:
+-
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

@@ -1,0 +1,408 @@
+Aufnahmedatum: <[Pseudo] 2036-04-28 >
+Geburtsdatum: <[Pseudo] 1977-09-05 >
+Alter: 58
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 05/09/1977> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Akuter Myokardinfarkt -LRB- NSTEMI -RRB- am <[Pseudo] 14/04/2036>
+- Koronare 2-Gefäßerkrankung der LAD und LCX mit guter linksventrikulärer Pumpfunktion -LRB- B-OTHER vom <[Pseudo] 14/04/2036> -RRB-
+-UNK- Ca. 25-50%ige mittlere residuelle LAD Stenose, hochgradige LCX Stenose, erhöhter LVEDP -LRB- ca. 12 mmHg -RRB-
+-UNK- Erfolgreiche Rekanalisation der LCX mittels PTCA/1fach DE-Stentimplantation
+- Familiäre Hypertriglyceridämie
+-UNK- Erweiterung der medikamentösen Therapie
+-UNK- Verlaufskontrolle in unserer Fettstoffwechsel-Sprechstunde am <[Pseudo] 23/09/2035>
+
+Diagnosen:
+- Bekannte koronare Herzerkrankung mit Koronarangiographie vor ca. 10 Jahren
+- pAVK IIb links bei langstreckigem AFS-Verschluss
+- Nephrolithiasis
+-UNK- Z.n. sek. starrer u. flexibler URS links mit Laserlithotripsie, Steinextraktion, DJ-Katheterentfernung links u. SJ-Kathetereinlage li. am <[Pseudo] 13/07/2035>
+-UNK- SJ-Entfernung am <[Pseudo] 15/07/2035>
+- Z. n. Low-flow-Priapismus nach Erstanwendung von SKAT bei erektiler Dysfunktion <[Pseudo] 2032>
+- Sigmadivertikulitis
+- Z. n. Nabelbruch-OP <[Pseudo] 2029>
+- Z. n. Appendektomie <[Pseudo] 2029> -LRB- B-ORG I-ORG -RRB-
+- Depression
+
+Kardiovaskuläre Risikofaktoren: arterielle Hypertonie, aktiver Nikotinabusus -LRB- kumulativ ca. 30 py -RRB- , positive Familienanamnese, Hypercholesterinämie
+Allergien/Unverträglichkeiten: Keine bekannt.
+
+Medikamente
+ASS 100 mg 1-0-0 dauerhaft
+Ramipril / HCT 5/25 mg 1-0-0
+Bisoprolol 2,5mg 1-0-1
+Rosuvastatin 10 mg 0-0-1
+Pantozol 20 mg 1-0-0
+Venlafaxin 300 mg 1-0-0
+Dominal 40 mg b. Bed.
+
+Anamnese:
+Die stationäre Aufnahme des Patienten erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- als Verbringung durch den Notarzt bei akutem Koronarsyndrom DD hypertensiver Entgleisung mit thorakalen Beschwerden. Der Patient berichtet über seit 3 Stunden bestehende typische pektanginöse Beschwerden, in der häuslichen Messung hierbei RR 190/140mmHg. Nach Gabe von Urapidil sowie 2 Hub Nitro durch den Notarzt Besserung der Beschwerden, bei Eintreffen leichtes thorakales Druckgefühl unter Normotension. Ein Loading mit ASS und Heparin ist durch den NA erfolgt. Vor 3-4 Wochen sei für einige Stunden ebenfalls ein thorakales Druckgefühl aufgetreten, dies sei damals spontan verschwunden. Dyspnoe, Schwindel, Synkopen, Palpitationen und Ödeme werden verneint.
+
+Körperlicher Untersuchungsbefund:
+AZ: leicht red.
+EZ gut
+HF: 68/min, regelmäßig
+RR: 140/60 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein
+Lunge: VAG bds.
+Periphere Ödeme: bds US leicht
+Pulsstatus: o.B.
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Herzfrequenz 101/min, LT, PQ 148 ms, QRS 101 ms, QTc 382 ms, Zeiten im Normbereich, T-Negativierung II, III, aVF, V5-V9.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 14/04/2036> -RRB- :
+Herzkatheteruntersuchung bei subak. NSTEMI.
+Erfolgreiche 1-fach DE-Direktstentimplantation -LRB- Promus -RRB- der hochgradigen LCX-Stenose. Koronare 2-Gefäßerkrankung -LRB- RCA, LCX -RRB- . Global gute linksventrikuläre Pumpfunktion.
+
+EKG vom <[Pseudo] 14/04/2036:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 81/min, LT PQ 154 ms, QRS 98 ms, QTc 376 ms, Zeiten im Normbereich, T Negativierung in V5, V6.
+
+Langzeit-EKG vom B-DATE:
+Bradykarder Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 43/min und 90/min, im Mittel 58/min. Normale Herzfrequenzvariabilität. Vereinzelte supraventrikuläre Extrasystolen. Keine Pausen. Vereinzelte polymorphe ventrikuläre Extrasystolen. Lown III a.
+
+Transthorakale Echokardiographie vom <[Pseudo] 17/04/2036:>
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion bei minimaler Hypokinesie apikal.. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht ableitbar. Erstbefund in domo.
+
+Ruhe-EKG bei Entlassung:
+Normofrequenter Sinusrhythmus, regelmäßig, Herzfrequenz 52/min, Linkslagetyp. PQ 163 ms, QRS 102 ms, QTc 384 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Labor:
+Zusammenfassung:
+Die Aufnahme des Patienten erfolgte bei akutem Myokardinfarkt -LRB- NSTEMI -RRB- .
+
+In der Koronarangiographie zeigte sich eine koronare 2-Gefäßerkrankung mit guter linksventrikulärer Pumpfunktion. Es erfolgte die Rekanalisation der verschlossenen LCX mittels PTCA und 1-fach Stentimplantation.
+
+Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+In der postinterventionellen Monitorüberwachsung zeigten sich keine relevanten Herzrhythmusstörungen. Laborchemisch zeigten sich die Herzenzyme unter engmaschiger stationärer Überwachung im Verlauf rückläufig. Das Langzeit-EKG ergab keine relevanten Herzrhythmusstörungen. Während des gesamten stationären Aufenthaltes zeigte sich B-SALUTE B-PER stets kardiorespiratorisch stabil und beschwerdefrei.
+
+Die postinterventionelle Verlaufsechokardiographie zeigte am Entlasstag eine gute systolische Pumpfunktion bei minimaler Hypokinesie apikal ohne relevante Klappenvitien.
+
+Laborchemisch zeigte sich eine schwere Triglyceridämie bei positiver Familienanamnese. Zur Optimierung der medikamentösen Therapie wurden Bezafibrat und Zodin in die Therapie aufgenommen sowie die Dosis der Statin-Therapie erhöht. Weiterhin wurde ein Termin zur Verlaufskontrolle in unserer ORG am <[Pseudo] 23/09/2035> um 9.30 Uhr ausgemacht. Ein früherer Termin ist leider nicht verfügbar, dem Patienten wurde empfohlen, sich nach Möglichkeit eigenständig im niedergelassenen Bereich einen früheren Termin zu organisieren.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung mit ASS 100 mg 1x tägl. und Ticagrelor 90 mg 2x tägl. für 12 Monate. Im Anschluss ist eine alleinige Thrombozytenaggregationshemmung mit ASS 100 mg 1x tägl. ausreichend.
+Der Patient wurde über die Notwendigkeit einer lückenlosen Einnahme von ASS und Ticagrelor bis einschließlich <[Pseudo] 14/04/2037> ausführlich aufgeklärt.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+Nächster Termin/Prozedere:
+- Termin in unserer Fettstoffwechsel-Sprechstunde am <[Pseudo] 23/09/2035> um 9.30 Uhr
+- Regelmäßige Kontrollen von Gewicht, Blutdruck, Elektrolyten und Retentionsparametern und ggf. eine Anpassung der medikamentösen Therapieeinstellung
+- Einstellung der kardiovaskulären Risikofaktoren -LRB- Alkoholkarenz, Kontrolle der Triglyceride, Nikotinkarenz -RRB-
+
+Therapieempfehlung:
+ASS 100 mg 1-0-0 dauerhaft
+Ticagrelor 90 mg 1-0-1 neu, für 12 Monate
+Bisoprolol 2,5mg 1-0-1
+Ramipril /HCT 5/25 mg 1-0-0
+Rosuvastatin 20 mg 0-0-1 Dosis erhöht, bitten Kontrollen CK
+Bezafibrat 400 mg 0-0-1 neu, bitten Kontrollen CK
+Zodin Omega-3 1000 mg 2-0-2 neu
+Pantozol 20 mg 1-0-0
+Venlafaxin 300 mg 1-0-0
+Dominal 40 mg b. Bed.
+Nikotinpflaster -LRB- stark -RRB- 1-0-0 neu
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsärztin
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 14/04/2036> und dem <[Pseudo] 15/04/2036>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.21
+4 - 10 /nl
+B-DATE
+Hb
+15.5
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.3
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.390
+0,38 - 0,52 l/l
+B-DATE
+MCV
+91
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+36 !H
+27 - 33 pg
+B-DATE
+MCHC
+<NONE> !H
+30 - 36 g/dl
+B-DATE
+RDW
+13.3
+12,9 - 18,7 %
+B-DATE
+hypochr.Erythroz.
+0.1
+0 - 2 %
+B-DATE
+Thrombozyten
+287
+150 - 440 /nl
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+135
+135 - 146 mmol/l
+B-DATE
+Kalium -LRB- ISE -RRB-
+3.64
+3,4 - 4,8 mmol/l
+B-DATE
+Calcium
+2.22
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+0.51 !L
+0,6 - 1,2 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+23
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+118.5
+>60 s.u.
+B-DATE
+MDRD
+<NONE>
+ml/min/1,73qm
+B-DATE
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+44.0
+30 - 50 g/l
+B-DATE
+Glucose
+183 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+122 !H
+- <46 U/l
+B-DATE
+GPT/ALT
+178 !H
+- <50 U/l
+B-DATE
+AP
+139 !H
+40 - 130 U/l
+B-DATE
+GGT
+292 !H
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.80
+- <1.0 mg/dl
+B-DATE
+Triglyceride
+<NONE> !H
+- <150 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+<NONE>
+- alt.abh. mg/dl
+B-DATE
+HDL-Cholesterin
+68
+>40 mg/dl
+B-DATE
+Lipase
+54
+19 - 63 U/l
+B-DATE
+CRP
+19.1 !H
+- <5 mg/l
+B-DATE
+Hämolyse
++
+
+B-DATE
+ikterisch
++
+
+B-DATE
+Lipämie
++++
+
+<[Pseudo] 15/04/36>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+232
+- <317 U/l
+B-DATE
+CK
+109
+- <190 U/l
+<[Pseudo] 14/04/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+19.2 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+<20
+- <125 ng/l
+<[Pseudo] 14/04/36>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.980
+0,400 - 4,000 mU/l
+<[Pseudo] 14/04/36>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+94.9
+70 - 125 %
+B-DATE
+INR - ber.
+1.04
+- <1.2
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+22.8
+- <35 s
+B-DATE
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.36 !L
+7,37 - 7,45
+B-DATE
+pO2
+73
+mmHg
+B-DATE
+pCO2
+37.7
+35 - 45 mmHg
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-3.9 !L
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+21.2
+mmol/l
+B-DATE
+Laktat
+19.4 !H
+- <16 mg/dl
+B-DATE

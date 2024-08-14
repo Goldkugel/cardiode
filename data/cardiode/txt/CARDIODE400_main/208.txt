@@ -1,0 +1,718 @@
+Aufnahmedatum: <[Pseudo] 2040-01-11 >
+Geburtsdatum: <[Pseudo] 1965-06-15 >
+Alter: 74
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 15/06/1965> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Bipolare affektive Störung, gegenwärtig schwere depressive Episode
+- Instabile Angina pectoris bei
+- Koronare 3-Gefäßerkrankung -LRB- B-OTHER vom <[Pseudo] 07/12/2039> -RRB- mit/bei:
+- Sequentieller ACVB ad LAD, Ramus marg. und RIVP massiv aneurysmatisch erweitert, Anastomosen suffizient. RIVP zu Bifurkation RPLD hochgradig stenosiert. Hochgradige Hauptstammstenose, chronisch verschlossene LCX und RCA sowie distale LAD. Verzicht auf LV- Angiographie bei terminaler Niereninsuffizienz.
+- Noch mittelgradige Aortenklappenstenose -LRB- KÖF 1,1cm2, PPG 25mmHg. Erhöhte Drücke im kleinen Kreislauf -LRB- s/d/m 60/17/37 mmHg -RRB- , erhöhter PCWP -LRB- 25mmHg -RRB- , Erhöhter PVR -LRB- 197dyn*sec*cm5 -RRB- , gemischtvenöse Sättigung 60%, Cardiac Index 2,7l/min/m2, erhöhter LVEDP -LRB- 25mmHg, SVR -LRB- 1450dyn*sec*cm5 -RRB-
+-UNK- Herzkatheterkonferenz: <[Pseudo] 12/12/2039:> konservatives Vorgehen mit Verlaufskontrolle in 6 Monaten
+- Postinterventionell Echoarmes Hämatom ca. 58x50x49 cm ohne Hinweis auf Perfusion -LRB- Angiokontrolle vom <[Pseudo] 10/12/2039> -RRB-
+-UNK- Kontrolle am <[Pseudo] 11/12/2039:> Echoarmes Hämatom nicht größenprogredient ohne Hinweis auf Perfusion
+-UNK- Angio-CT vom <[Pseudo] 12/12/2039:> Großes Hämatom subkutan und in der Adduktormuskulatur des rechten Oberschenkels mit Nachweis zweier punktförmiger, intramuskulärer Blutungsspots.
+-UNK- Kleine KM- Ausziehung mit 4 mm Größe an der Hinterwand der distalen AFC ohne Zeichen einer aktiven Blutung, DD kleines Pseudoaneurysma, DD Sickerblutung möglich.
+-UNK- Hb-Abfall
+-UNK- Transfusion von 2 EKs am <[Pseudo] 12/12/2039> Transfusion von 2 EKS am <[Pseudo] 18/12/2039>
+-UNK- Angiokontrolle am <[Pseudo] 13/12/2039:> Nachweis eines offenen Stichkanals an der Unterseite der A. femoralis communis mit nachweisbarem Pendelfluss.
+-UNK- Manuelle Kompression und Anlage eines Druckverbandes
+-UNK- Pausieren des Heparinperfusor für 4h
+-UNK- Verlaufsangiokontrolle: Große, teilorganisierte Hämatomhöhlen ohne nachweisbare Perfusion.
+- Koloskopie vom <[Pseudo] 21/12/2039:> Kein Hinweis auf aktive oder stattgehabte Blutung. Colondivertikulose
+- Nosokomiale Pneumonie
+-UNK- Einleitung einer empirischen Antibiose
+-UNK- Unacid 3g 1xtäglich ab dem B-DATE - B-DATE
+-UNK- Eskalation der Antibiose auf Piperacillin/Tazobactam 4,5 g 2xtäglich intravenös vom B-DATE - B-DATE
+-UNK- Oralisierung auf Amoxicillin+Clavulansäure 875mg+125 mg 1xtäglich
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung
+-UNK- Z. n. NSTEMI bei schwerer 3-Gefäß-KHK mit 50-75%iger Hauptstammstenose und kollateralen Verschlüssen der RCA und LCX <[Pseudo] 05/2027>
+-UNK- Mittelgradig eingeschränkte linksventrikuläre Funktion <[Pseudo] 05/2027>
+-UNK- Z. n. ACVB zur LAD, venovenös auf Marg. 2 und RIVP am <[Pseudo] 20/05/2027>
+- Z. n. mechanischem Mitralklappenersatz bei Mitralklappenendokarditis mit Nachweis von Staph. aureus in der Blutkultur <[Pseudo] 05/2027>
+- Paroxysmales Vorhofflimmern
+-UNK- EHRA-Score: II
+-UNK- CHA2DS2-VASc-Score: 6 Punkte
+-UNK- HAS-BLED-Score: 6 Punkte
+-UNK- Antikoagulation mit Marcumar
+- pAVK IIb
+-UNK- Z. n. erfolgreicher PTA/DE-Ballon der A. femoralis sup. re. am <[Pseudo] 16/04/2032>
+- Z. n. Posteriorteilinfarkt rechts sowie postischämische, a. e. postembolische, Substanzdefekte hochparietal links sowie bizerebellär -LRB- CCT <[Pseudo] 09/2038> -RRB-
+- COPD GOLD C-D
+Nephrologische Diagnosen:
+- Terminale Niereninsuffizienz Stadium G5 nach KDIGO bei FSGS -LRB- NPE <[Pseudo] 08/14> -RRB-
+-UNK- Angiographisch Ausschluss einer Nierenarterienstenose <[Pseudo] 06/14>
+-UNK- Shuntanlage li. Unterarm am <[Pseudo] 15/04/36>
+-UNK- Z. n. akut auf chron. Nierenversagen, a. e. prärenal bei Blutung -LRB- <[Pseudo] 04/2036> -RRB-
+-UNK- Hämodialyse seit <[Pseudo] 09/03/2037>
+-UNK- Z. n. hydropische Dekompensation <[Pseudo] 03/2039>
+Endokrinologische Diagnosen:
+- Hyperlipidämie
+- Hyperurikämie
+- Z. n. Gichtanfall li. Fuß
+Gastroenterologische Diagnosen:
+- Hepatomegalie mit Steatosis hepatis
+- Fokal erosive Antrumgastritis, HP positiv -LRB- ÖGD <[Pseudo] 06/23> -RRB-
+- Tubuläres Schleimhautadenom -LRB- Kolo <[Pseudo] 05/23> -RRB-
+- V.a. mikroskopische Kolitis -LRB- Kolo <[Pseudo] 08/26> -RRB-
+Sonstige Diagnosen:
+- Chronifizierte affektiv bipolare Störung
+-UNK- Z. n. 4-monatigem stationärem Aufenthalt psychiatrische Univ. I-ORG bei bekannter bipolarer Störung bis einschl. <[Pseudo] 03/2028>
+- Nabelbruch
+- Asymptomatische Leistenhernie rechts
+- Degenerativ bedingte Retrospondylolisthesis LWK5/S1 -LRB- ca. 8 mm -RRB-
+- Alkoholabusus
+- Z. n. C2-Entzug im B-ORG
+- Läsion des Nervus radialis, Läsion des Nervus fibularis -LRB- Peroneus -RRB- communis -LRB- neurologische Untersuchung <[Pseudo] 01/2024> -RRB-
+- Z. n. Sternumdehiszenz und Sternumosteomyelitis <[Pseudo] 06/2027>
+- Z. n. SHT am <[Pseudo] 23/06/38>
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, aktiver Nikotinabusus -LRB- kumulativ 40 py -RRB- .
+
+Allergien:
+Anamnestisch keine bekannt.
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG bei instabiler Angina pectoris. Initiale Verbringung mit dem NA bei thorakalen Beschwerden seit der Nacht, links-thorakales Druckgefühl ohne Ausstrahlung. Zudem Kurzatmigkeit und Schwindel. Synkopen werden verneint.
+
+B-SALUTE B-PER beschreibt eine reduzierte körperliche Belastbarkeit im Alltag. Bei 1 Etage Treppensteigen bestehe inadäquate Belastungsdyspnoe -LRB- NYHA III -RRB- , jedoch keine belastungsinduzierten pectanginösen Beschwerden. In Ruhe bestünden weder pectanginöse Beschwerden noch Dyspnoe. Palpitationen und Schwindel werden wie stattgehabte Synkopen verneint. Die häuslichen Blutdruckmessungen ergäben Werte um 150/95 mmHg. Periphere Ödeme seien bei Gewichtskonstanz seit Beginn der Dialysebehandlungen vor 3 Jahren nicht mehr aufgefallen. Es bestehe keine Nykturie.
+
+Medikation bei Aufnahme:
+Oral:
+Marcumar n. INR Ziel: 2,5-3,5 INR
+Bisoprolol 2,5 mg 1-0-0
+Torasemid 200 mg 1-0-0
+Atorvastatin 40 mg 0-0-1
+Pantoprazol 40 mg 1-0-0
+Lamotrigin 100 mg 0-0-1
+Tamsulosin 0,4 mg 1-0-0
+Magnesium verla Drg. 1-0-1
+Dekristol 20.000 I.E. alle 14 Tage, sonntags
+Renagel 800 mg 1-2-1, zum Essen
+Vitarenal Kps. 1-0-0
+CPS Pulver 1-0-0, nur sonntags
+Inhalativ:
+Spiriva resp. 2,5 μg 2-0-0
+Viani 50/250 μg 2-0-2
+Berodual DA b. B.
+Bei Bedarf: Combiprasal, Momegalen Creme, Mometahexal,
+
+
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 163 cm, Gewicht: 64 kg -RRB-
+HF: 75/min, regelmäßig
+RR: 165 / 84 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o. p. B.
+HT: 3/6-Systolikum mit p.m. im 5. ICR medioklavikulär links und mit Fortleitung in die linke Axilla.
+Lunge: vesikuläres Atemgeräusch bds, keine RGs.
+Abdomen: ausladend, weich, kein DS, keine Resistenzen. Bekannter Nabelbruch.
+Leber: nicht vergrößert tastbar.
+Periphere Ödeme: keine.
+Pulsstatus: Aa. radiales beidseits tastbar. Aa. dorsales pedes beidseits nicht tastbar.
+Neurologischer Status: kein Hinweis auf ein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: Shunt am linken Arm. Operationsnarben über Sternum und Oberbauch.
+
+Labor:
+Ruhe-EKG vom <[Pseudo] 04/12/2039:>
+Normofrequenter Sinusrhythmus, regelmäßig, 71/min, Linkslagetyp. PQ 157 msec, QRS 102 msec., QTc 435 msec. Verzögerte R-Progression, R/S Umschlag in V4/V5. T-Negativierung III, aVF. Ansonsten keine signifikanten KETV.
+
+Ruhe-EKG vom <[Pseudo] 05/12/2039:>
+Normofrequenter Sinusrhythmus, regelmäßig, 66/min, Linkslagetyp. PQ 154 msec, QRS 89 msec., QTc 447 msec. Verzögerte R-Progression, R/S Umschlag in V4/V5. T-Negativierung III, aVF. Ansonsten keine signifikanten KETV.
+
+Ruhe-EKG vom <[Pseudo] 07/12/2039:>
+Normofrequenter Sinusrhythmus, regelmäßig, 88/min, Linkslagetyp. PQ 136 msec, QRS 103 msec., QTc 431 msec. Verzögerte R-Progression, R/S Umschlag in V4/V5. T-Negativierung III, aVF. Unspezifische Knotungen in V1-V3, M-Konfiguration in V4. Einzelne VES. Ansonsten keine signifikanten KETV.
+
+Ruhe-EKG vom <[Pseudo] 09/12/2039:>
+Normofrequenter Sinusrhythmus, regelmäßig, 73/min, Linkslagetyp. PQ 156 msec, QRS 102 msec., QTc 446 msec. Verzögerte R-Progression, R/S Umschlag in V5/V6. T-Negativierung II, III, aVF. Unspezifische Knotungen in V3. Ansonsten keine signifikanten KETV.
+
+Ruhe-EKG vom <[Pseudo] 13/12/2039:>
+Normofrequenter Sinusrhythmus, regelmäßig, 77/min, Linkslagetyp. PQ 175 msec, QRS 104 msec., QTc 431 msec. Verzögerte R-Progression, R/S Umschlag in V5/V6. T-Negativierung aVR, Unspezifische Knotungen in III. Ansonsten keine signifikanten KETV.
+
+Ruhe-EKG vom <[Pseudo] 15/12/2039:>
+Normofrequenter Sinusrhythmus, regelmäßig, 81/min, Linkslagetyp. PQ 175 msec, QRS 106 msec., QTc 406 msec. Verzögerte R-Progression, R/S Umschlag in V5/V6. T-Negativierung aVR, Unspezifische Knotungen in II, III. Gelegentliche Extrasystolen. Ansonsten keine signifikanten KETV
+
+Ruhe-EKG vom <[Pseudo] 29/12/2039:>
+Normofrequenter Sinusrhythmus, regelmäßig, 84/min, Linkslagetyp. PQ 161 msec, QRS 97 msec., QTc 433 msec. QTc-Zeit verlängert. Regelrechte R-Progression, R/S Umschlag in V3/V4. T-Negativierung in III. Unspezifische Knotungen in aVL, V1, V2, V4. Ansonsten keine signifikanten KETV. Sokolow-Lyon-Index links positiv.
+
+Virologischer Befund vom <[Pseudo] 03/12/2039> -LRB- Chest-Pain-Unit -RRB- :
+
+Mittelstrahlurin vom <[Pseudo] 06/12/2039:>
+Kultureller Befund:
+<10 hoch 2 KBE/ml: Kein Wachstum
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 06/12/2039:>
+Im Vergleich zur Voruntersuchung vom B-DATE
+Befund und Beurteilung:
+Stationäre Herzgröße. Unverändert Stauungszeichen. Kein pneumonietypisches Infiltrat. Erguss mit angrenzenden dystelektatischen Bereichen bilateral. A. e. gefesselter Erguss interlobär rechts idem.
+
+Echokardiographie vom <[Pseudo] 06/12/2039:>
+Bemerkungen: Reduzierte Schallbedingungen
+Beurteilung:
+Noch normal großer, konzentrisch hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion bei flachen Septumbewegungen. Noch erhaltene longitudinale Funktion. Diastolische LV Funktion bei Z. n. MKE nicht abschließend beurteilbar. LA dilatiert, RA und RV noch normal groß mit noch guter RV-Funktion. Kein Perikarderguss nachweisbar. Dopplersonographisch mittelgradige Aortenklappenstenose -LRB- AÖF-Kontinuitätsgleichung = 1,2 m², PPG 38 mmHg, MPG 18 mmHg -RRB- . Mechanische Klappenprothese in Mitralposition sonographisch und dopplersonographisch regelrecht. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist leicht erhöht -LRB- ca. 35-40 mmHg -RRB- .
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 11/12/2036:> Progress der Aortenklappenstenose.
+
+Herzkatheteruntersuchung -LRB- B-OTHER -RRB- vom <[Pseudo] 07/12/2039> Endbefund:
+Herzkatheteruntersuchung bei Aortenklappenstenose
+Koronare 3-Gefäßerkrankung mit sequentiellem ACVB ad LAD, Ramus marg. II und RIVP. Venenbypass massiv aneurysmatisch erweitert, Anastomosen suffizient. Hochgradige Hauptstammstenose, chronisch verschlossene LCX und RCA sowie distale LAD. RPLD hochgradig stenosiert. Verzicht auf LV-Angiographie bei terminaler Niereninsuffizienz
+Noch mittelgradige Aortenklappenstenose -LRB- KÖF 1,1cm², PPG 11mmHg -RRB- .
+Erhöhte Drücke im kleinen Kreislauf -LRB- s/d/m 60/17/37mmHg -RRB- , erhöhter PCWP -LRB- 25mmHg -RRB- , Erhöhter PVR -LRB- 197dyn*sec*cm -UNK- 5 -RRB- , gemischtvenöse Sättigung 60%, Cardiac Index 2,71l/min/m², Erhöhter LVEDP -LRB- 25mmHg, SVR -LRB- 1450dyn*sec*cm -UNK- 5 -RRB- .
+Sonstige Diagnosen:
+3-GE-KHK, Z. n. ACVB B-DATE; -LRB- RIVP, R. marginalis II und RIVA mit gleicher Vene im Sinn eines Sequentialbypasses -RRB- . Z. n. NSTEMI mit HS Stenose
+Vorhofflimmern, Z. n. mechanischem MKE bei Endokarditis.
+Z. n. Posteriorteilinfarkt rechts, COPD, Terminale Niereninsuffizienz
+CVRF: aHT, Nikotin.
+
+Maßnahmen:
+- ad pharmakologische Stressechokardiographie -LRB- Ischämienachweis und Gradienten -RRB-
+- RS OA B-PER bzgl. -LRB- TAVI- -RRB- CT am Freitag inklusive Bypass-Darstellung
+- In Abhängigkeit der Befund RS TAVI Team bzw. Vorstellung in B-ORG I-ORG
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 07/12/2039:>
+Beidseits leichtgradige Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im Carotisstromgebiet. IMD rechts 0,10 cm, links 0,10 cm. Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar.
+
+Lungenfunktionsdiagnostik vom <[Pseudo] 07/12/2039:>
+Spirometrie: Schwere Obstruktion der peripheren Atemwege
+Reduzierte VC, a. e. einer mittelgradigen Restriktion entsprechend
+Spez.FEV1: 17,5 ml/kgKG
+Die spez. FEV1 liegt bei 17,5ml/kgKG, damit besteht bei Beurteilung rein anhand der spez. FEV1 ein erhöhtes OP/ITN-Risiko
+Dobutamin Stress-Echokardiographie vom <[Pseudo] 07/12/2039:>
+Pharmakologische Belastung mit Dobutamin 40 μg/kg/min -LRB- + 1.0 mg Atropin -RRB- komplikationslos durchgeführt. Abbruch wegen Erreichen der maximalen pharmakologischen Stimulation. Herzfrequenzanstieg von 67 /min bis 135 /min -LRB- 96 % der max. erwarteten Herzfrequenz -RRB- , Blutdruckanstieg von 161/77 mmHg bis 192/83 mmHg -LRB- DP = 25.900 -RRB- . Das gleichzeitig aufgezeichnete Belastungs-EKG ist unauffällig. Gute Zunahme der Kontraktilität aller Wandsegmente des linken Ventrikels. Systolischer PA-Druck in Ruhe ca. 30 mmHg, Zunahme unter Belastung bis 35 mmHg.
+Zusammenfassung:
+Negatives Stress-Echokardiogramm, negatives Belastungs-EKG, negative Klinik. Normales PA-Druck-Verhalten unter Belastung.
+
+CT Herz nativ/mit Kontrastmittel + Abdomen mit Kontrastmittel -LRB- Kooperation -RRB- vom <[Pseudo] 08/12/2039:>
+Es liegen keine entsprechenden Voruntersuchungen zum Vergleich vor.
+Befund
+Thorax:
+Schmale Pleuraergüsse beidseits mit serösen Dichtewerten und einer Saumbreite von bis zu 10 mm. Konsekutive basale Dystelektasen. Unspezifische, perifissurale Opazitäten, z.B. an der linken Fissura obliqua -LRB- 505/92 -RRB- . Keine pneumonischen Infiltrate, keine Pleuraergüsse, keine Pleuraablösung, keine zentrale Lungenarterienembolie. Kardiomegalie. Aortenklappen- und Koronarsklerose. Zustand nach Mitralklappenersatz. Massiv dilatierter und teilthrombosierte ACVB auf den RIVP mit bis zu 39 mm im Durchmesser -LRB- 501/279 -RRB- . Keine pathologisch vergrößerten Lymphknoten an den thorakalen Prädilektionsstellen. Symmetrische Gynäkomastie. Defekt der ventralen Trachea -LRB- 501/39 -RRB- .
+Abdomen:
+Fokale Verkalkungen im Leberparenchym -LRB- 501 / 330 -RRB- , am ehesten postentzündlich. Im Übrigen soweit in einer Phase beurteilbar, homogenes Leberparenchym. Gallenblase reizlos, keine Konkremente. Fokale Verkalkung am Fundus -LRB- 501 / 393 -RRB- , keine Cholestase. Pankreas und Milz unauffällig. Nebennieren beidseits zart. Schrumpfnieren beidseits. Blander Zystenbesatz. Kein Harnstau. Keine freie Luft oder freie Flüssigkeit. Prostatavergrößerung. Fettig belegte Leistenhernie beidseits, rechts führend. Reizlose Colondivertikulose. Umbilikalhernie mit Prolaps einer Dünndarmschlinge. Kein Anhalt für eine Passagestörung oder Inkarzeration. Massive Vasosklerose mit Abgangsstenosen des TC, der AMS und der Nierenarterien. Doppelte Nierenarterie links. Kinking der Iliacalachsen. Grenzwertig große, aneurysmatisch erweiterte infrarenale Aorta mit 3,2 cm im axialen Durchmesser -LRB- 501 / 490 -RRB- . Im Zustand nach transfemoraler Katheterisierung rechts diskrete perivaskuläre Imbibierungen ohne größere Hämatomformationen. Aneurysmatische Aussackung der rechten AFC mit Teilthrombosierung, Durchmesser hier 1,9 cm -LRB- 501 / 681 -RRB- . In den kaudalen Scananteilen teilerfasste Auftreibung der Adduktorenmuskulatur rechts -LRB- 501-749 -RRB- , DD Hämatom.
+Skelett:
+Osteopener Knochenaspekt. Ältere, osteoporotisch Sinterungsfraktur von BWK 7 mit Plattwirbelbildung. Deckplatteneinbruch von LWK 1. Blockwirbelbildung von LWK 5 und SWK 1. Alte Rippenserienfraktur rechts. Keine ossären Suspizien.
+Beurteilung
+- Die Beurteilung der für die TAVI-Durchführung kritischen Gefäße erfolgt durch die B-SALUTE der Kardiologie. 1,9 cm messendes Aneurysma der rechten AFC. Geringe aneurysmatische Erweiterung der infrarenalen Aorta bis 3,2 cm im Durchmesser. Massiv dilatierter und teilthrombosierte ACVB auf den RIVP mit bis zu 39 mm im Durchmesser.
+- Verkalkung des Myokards an der Herzspitze, DD Z. n. Infarkt,
+- Schmale Pleuraergüsse beidseits mit serösen Dichtewerten und einer Saumbreite von bis zu 10 mm.
+- Umbilikalhernie mit kurzstreckigem Prolaps einer Dünndarmschlinge. Kein Anhalt für eine Passagestörung oder Inkarzeration.
+- Defekt der ventralen Trachea DD nach Tracheostoma DD Divertikel.
+- Auftreibung der Adduktorenmuskulatur rechts, DD Hämatom. Klinische Korrelation empfohlen.
+- Übrige Nebenbefunde wie beschrieben.
+
+
+Angiologische Farbduplexsonographie der Leiste am <[Pseudo] 10/12/2039:>
+Lokalbefund:
+Großes Hämatom Oberschenkelinnenseite rechts, Leistenpulse palpabel
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Echoarmes Hämatom ca. 58x50x49 cm ohne Hinweis auf Perfusion. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden. Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+Procedere:
+- Engmaschige HB-und klinische Kontrollen Hämatom
+- Bitte erneute angiologische Kontrolle Montag, bei Befundverschlechterung morgen
+
+Angiologische Farbduplexsonographie der Leiste am <[Pseudo] 11/12/2039:>
+Lokalbefund:
+Großes pralles Hämatom Oberschenkelinnenseite re, Leistenpulse palpabel, re Bein einschl. Füße warm
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Weiterhin Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Echoarmes Hämatom nicht größenprogredient ohne Hinweis auf Perfusion. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Procedere:
+- Engmaschige HB-und klinische Kontrollen Hämatom, Pat. an DA übergeben
+- Ziel PTT im unteren Bereich -LRB- 60 -RRB- bei mechan. MKE
+- Bei weiterem HB-Abfall evtl. CT zum Ausschluss einer aktiven Blutung -LRB- CAVE Niere! -RRB-
+- Bitte erneute angiologische Kontrolle Montag
+
+CT Abdomen nativ und mit Kontrastmittel vom <[Pseudo] 12/12/2039:>
+CT vom <[Pseudo] 08/12/2039> vorliegend.
+Befund:
+Diffuses, subkutanes Hämatom rechts inguinal und entlang des medialen Oberschenkels. Daneben großes, ca. 12x10x7cm messendes Hämatom in der Adduktorenloge -LRB- 401/501 -RRB- , mit deutlich raumfordernder Wirkung. Nachweis von mindestens zwei winzigen, punktförmigen Kontrastmittelanreicherungen innerhalb des Hämatoms im cranialen Anteil -LRB- 401/429, 401/441 -RRB- ohne eindeutigen Gefäßbezug und ohne Pooling in der -LRB- spät -RRB- venösen Phase. Kleine nasenartige KM- Ausziehung von 4 mm Größe an der Hinterwand der rechten A. femoralis communis unmittelbar proximal des Abgangs der A, femoralis profunda -LRB- 401/421 -RRB- ohne eindeutiges Korrelat in den Spätphasen. Bekannte teilthrombosierte, -LRB- pseudo -RRB- aneurysmatische Erweiterung der rechten A. femoralis communis -LRB- 401/363 -RRB- . Keine pathologische Arterialisierung der venösen Gefäße. Ausgeprägte atherosklerotische Gefäßveränderungen mit hochgradigen Abgangsstenosen der AMS und der Nierenarterien. Bekannte ektatische Erweiterung der infrarenalen Aorta bis 3,2 cm im axialen Durchmesser. Beckenachse bds. frei perfundiert. Keine Zeichen einer intra- oder extrahepatischen Cholestase. Fortgeschrittene Atrophie beider Nieren. Kein Harnstau. Kolondivertikulose. Umbilikalhernie mit Prolaps einer Dünndarmschlinge ohne Anhalt für eine Passagestörung oder Inkarzeration. Keine freie Flüssigkeit oder Luft abdominell. Keine suspekte ossäre Läsion. Osteopener Knochenaspekt. Bekannter Deckplatteneinbruch von LWK 1. Blockwirbelbildung von LWK 5 und SWK 1. Keine ossären Suspizien.
+Beurteilung:
+- Großes Hämatom subkutan und in der Adduktormuskulatur des rechten Oberschenkels mit Nachweis zweier punktförmiger, intramuskulärer Blutungsspots.
+- Kleine KM- Ausziehung mit 4 mm Größe an der Hinterwand der distalen AFC ohne Zeichen einer aktiven Blutung, DD kleines Pseudoaneurysma, DD Sickerblutung möglich.
+- Vorbestehendes, teilthrombosiertes -LRB- Pseudo -RRB- Aneurysma der proximalen AFC mit 19 mm Größe.
+
+Angiologie-Farbduplexsonographie vom <[Pseudo] 13/12/2039:>
+Lokalbefund:
+Ausgeprägtes, deutlich überwärmtes Hämatom im Bereich des medialen Oberschenkels. Deutlicher Druckschmerz.
+Farbduplexsonographie der rechten Leiste:
+Große, teilorganisierte Hämatomhöhlen ohne nachweisbare Perfusion. Allerdings Nachweis eines offenen Stichkanals an der Unterseite der A. femoralis communis mit nachweisbarem Pendelfluss. Daher Hinweis auf A. spurium. Es erfolgte eine manuelle ultraschallgesteuerte Kompression im Bereich des Stichkanals sowie erneute Anlage eines Druckverbandes. Bitte Heparin zunächst für 4 Stunden pausieren. Sonographische Kontrolle in 4 h in der angiologischen Ambulanz. Dann Diskussion fortgesetzte Pause der Antikoagulation vs. PTT im unteren Normbereich -LRB- bei Z. n. mech. MKE -RRB- .
+
+Angiologie-Farbduplexsonographie vom <[Pseudo] 13/12/2039:>
+Lokalbefund:
+Ausgeprägtes, deutlich überwärmtes Hämatom im Bereich des medialen Oberschenkels. Deutlicher Druckschmerz.
+Farbduplexsonographie der rechten Leiste:
+Große, teilorganisierte Hämatomhöhlen ohne nachweisbare Perfusion. Kein sicherer Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Empfehlung:
+- Bitte heute und morgen früh Hb Kontrolle
+- Morgen erneute angiologische Kontrolle
+- Vorsichtige Mobilisation
+
+Angiologie Farbduplexsonographie vom <[Pseudo] 14/12/2039:>
+Lokalbefund:
+Ausgeprägtes, deutlich überwärmtes Hämatom im Bereich des medialen Oberschenkels. Deutlicher Druckschmerz.
+Farbduplexsonographie der rechten Leiste:
+Große, teilorganisierte Hämatomhöhlen ohne nachweisbare Perfusion. Kein sicherer Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Empfehlung:
+- Bitte morgen früh erneute Hb Kontrolle
+- Bei
+progredienten Beschwerden bitte erneute sonographische Kontrolle
+- Vorsichtige Mobilisation
+
+Angiologische Kontrolle nach Katheteruntersuchung vom <[Pseudo] 18/12/2039:>
+Lokalbefund:
+Punktionsstelle reizlos, großes Hämatom am OS rechts. Leistenpulse kräftig palpabel. Kein relevanter Druckschmerz im Bereich der Punktionsstelle.
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstellen der rechten Leiste. Kein Anhalt für eine akute Einblutung. Ausgedehntes teilorganisiertes Hämatom am Oberschenkel. Bei weiterem Hb-Abfall ggf. Wiedervorstellung in der angiologischen Ambulanz.
+
+ÖGD vom <[Pseudo] 21/12/2039:>
+Befund:
+Glattes Vorspiegeln mit dem Gerät über den OÖS. Der Ösophagus ist tubulär mit unauffälliger Mucosa. Die Z-Linie ist bei 40cm aZR erhalten, Durchtritt in den Magen bei 42cm aZR. Vorspiegeln in den Magen. Die Kardia schließt regelrecht. Fundus und Magenkorpus mit blasser Schleimhaut, leicht ödematös. Im Antrum streifige Rötung. Der Pylorus ist rund und schließt regelrecht. Bulbus und Pars descendens duodeni unauffällig. Kein Hinweis auf aktive oder stattgehabte Blutung.
+Diagnose:
+Antrumgastritis
+Axiale Hiatushernie von 2cm
+Biopsien:
+Keine bei kompromittierter Gerinnung
+Empfehlungen:
+PPI Therapie
+Nicht invasive H. p. Testung
+
+Koloskopie vom <[Pseudo] 21/12/2039:>
+Befund:
+Inspektion: Unauffällig
+DRU: Ruhetonus und Kneifruck unter Sedierung nicht beurteilbar. Keine Resistenzen tastbar, kein Blut am Fingerling. Glattes Vorspiegeln mit dem Gerät bis ins Coecum. Massive Reststuhlverschmutzung und damit eingeschränkte Beurteilbarkeit. Kein Frisch- oder Altblut. Divertikel im Colon sigmoideum, Colon descendens und Colon ascendens, ansonsten unauffällige Schleimhaut im eingesehenen Bereich.
+Diagnose: Kein Hinweis auf aktive oder stattgehabte Blutung
+Colondivertikulose
+Malignitätausschluss bei deutlicher Reststuhlverschmutzung nicht sicher möglich
+Biopsien: Keine
+Empfehlungen: Koloskopie zur Krebsvorsorge im Verlauf nach besserer Darmvorbereitung
+
+Röntgen-Thorax vom <[Pseudo] 25/12/2039:>
+Befund und Beurteilung:
+Deutlich zunehmende flächige Verdichtungen im rechten Lungenunterfeld und -mittelfeld sowie geringer ausgeprägt im linken Unterfeld, vereinbar mit pneumonischen Infiltraten. Stauungsaspekt. Geringer gefesselter Pleuraerguss rechts. Links kein Erguss. Kein Pneumothorax. Trachea mittelständig, nicht eingeengt. Aortensklerose. Cardiomegalie. Fremdmaterial in situ, idem.
+
+Blutkultur peripher vom <[Pseudo] 25/12/2039:>
+Mikroskopie:
+BK-Medium aerob grampositive Kokken, V.a. Staphylococcus sp.
+BK-Medium Lytic grampositive Kokken, V. a. Staphylococcus sp.
+Kultureller Befund:
+K1 aerobes Medium Staphylococcus haemolyticus
+K2 Lytic Medium Staphylococcus haemolyticus
+
+
+Mittelstrahlurin vom <[Pseudo] 26/12/2039:>
+Kultureller Befund:
+<10 hoch 2 KBE/ml: Kein Wachstum
+Sputum Befund vom <[Pseudo] 28/12/2039:>
+Kultureller Befund:
+K1 spärlich Raoultella ornithinolytica
+K2 spärlich Pseudomonas aeruginosa
+K3 spärlich Candida albicans
+
+
+Virologischer Befund vom <[Pseudo] 29/12/2039:>
+
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über die B-ORG bei V.a. auf Progress der bekannter 3-Gefäß-KHK.
+
+In der Chest-Pain-Unit war der Patient im Wesentlichen oligosymptomatisch sowie kardiorespiratorisch stabil. Elektrokardiographisch zeigten sich T-Negativierungen in den erweiterten Brustwandableitungen. Das hs-cTroponin betrug bei Aufnahme 125 pg/ml, im Verlauf stabil bei 121 pg/ml., das wir a. e. als Myokardschaden im Rahmen der bekannten Niereninsuffizienz werteten.
+
+Nebenbefundlich zeigte sich der INR- Wert oberhalb der Norm, sodass wir Marcumar pausierten und eine vorübergehende Antikoagulation mittels Heparin-Perfusor -LRB- PTT- gesteuert mit Ziel 60-70 -RRB- erfolgte.
+
+Laborchemisch zeigte sich im stationären Verlauf eine Entzündungskonstellation -LRB- CRP 80, Leukozyten normwertig, PCT bei 0,2 ng/ml -RRB- . Die Erregerdiagnostik und Infektfokussuche blieb unauffällig. Es ergab sich kein Anhalt für einen Harnwegsinfekt. Im Röntgen-Thorax vom <[Pseudo] 06/12/39> zeigte sich ein Erguss mit angrenzenden dystelektatischen Bereichen bilateral. A. e. gefesselter Erguss interlobär rechts, idem zu letztem Röntgen. Die abgenommen Blutkulturen waren unauffällig. Bei fehlendem Fokus und regredienten Entzündungsparameter im Verlauf sahen wir von einer antibiotischen Behandlung ab. Wir bitten um laborchemische Verlaufskontrollen.
+Echokardiographisch zeigte sich ein noch normal großer, konzentrisch hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion bei flachen Septumbewegungen. Zudem zeigte sich dopplersonographisch eine mittelgradige Aortenklappenstenose -LRB- AÖF-Kontinuitätsgleichung = 1,2 m², PPG 38 mmHg, MPG 18 mmHg -RRB- mit im Vergleich zur Voruntersuchung vom <[Pseudo] 11/12/2036> Progress der Aortenklappenstenose. Die Mechanische Klappenprothese in Mitralposition war sonographisch und dopplersonographisch regelrecht.
+
+In der am <[Pseudo] 06/12/2039> durchgeführten Herzkatheteruntersuchung eine Koronare 3-Gefäßerkrankung. Sequentieller ACVB ad LAD, Ramus marg. und RIVP zeigten sich massiv aneurysmatisch erweitert, Anastomosen suffizient. RIVP zu Bifurkation RPLD war hochgradig stenosiert, zudem hochgradige Hauptstammstenose, chronisch verschlossene LCX und RCA sowie distale LAD. Auf eine LV- Angiographie wurde bei terminaler Niereninsuffizienz verzichtet. Ferner bestätigte sich eine noch mittelgradige Aortenklappenstenose -LRB- KÖF 1,1cm2, PPG 25mmHg. Es ergaben sich erhöhte Drücke im kleinen Kreislauf -LRB- s/d/m 60/17/37 mmHg -RRB- , erhöhter PCWP -LRB- 25mmHg -RRB- , erhöhter PVR -LRB- 197dyn*sec*cm5 -RRB- , gemischtvenöse Sättigung 60%, Cardiac Index 2,7l/min/m2, erhöhter LVEDP -LRB- 25mmHg, SVR -LRB- 1450dyn*sec*cm5 -RRB- .
+
+In RS mit den Interventionisten wurde bei residuellen Stenosen die Durchführung eines bildgebenden Ischämietest empfohlen. Eine pharmakologische Stressechokardiographie wurde durchgeführt, wobei sich ein negatives Stressechokardiogramm ergab.
+
+Zur weiteren Evaluation der Aortenklappenstenose und Möglichkeit der technischen Machbarkeit einer transfemoralen TAVI sowie Darstellung der aneurysmatisch erweiterten Koronargefäße/ Bypässe wurde eine CT-TAVI durchgeführt. Zudem erfolgte zur Risikostratifizierung eine Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße ohne Nachweis signifikanter Stenosen. Wir ergänzten die Diagnostik um eine Lungenfunktionsprüfung, wobei sich eine schwere Obstruktion der peripheren Atemwege und eine reduzierte VC, a. e. einer mittelgradigen Restriktion entsprechend zeigte. Insgesamt besteht damit rein an Hand der FEV1 ein erhöhtes Op/ITN-Risiko.
+
+Es erfolgte eine Vorstellung in der interdisziplinären kardiologisch-kardiochirurgischen Fallkonferenz am <[Pseudo] 12/12/2039> zur Planung des Weiteren Vorgehens. Nach Maßgabe der Herzkatheterkonferenz wurde sich in Zusammenschau der Befunde für ein zunächst konservatives Vorgehen entschieden.
+
+In 6 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung zur Reevaluation der Aortenklappenstenose, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind. Hierzu vereinbarten wir einen Termin in unserer B-ORG I-ORG -LRB- Tel.: B-PHONE Ebene B-LOC, B-ORG I-ORG B-ORG I-ORG -RRB- , den <[Pseudo] 04/07/2040> um 11.00 Uhr.
+
+Postinterventionell zeigte sich farbduplexsonographisch ein echoarmes Hämatom ohne Hinweis auf eine Perfusion. CT- graphisch stellte ein großes Hämatom subkutan und in der Adduktorenmuskulatur des rechten Oberschenkels mit Nachweis zweier punktförmiger, intramuskulärer Blutungsspots und zudem eine kleine KM- Ausziehung mit 4 mm Größe an der Hinterwand der distalen AFC ohne Zeichen einer aktiven Blutung dar.
+
+Bei dopplersonographisch nachweisbarem offenem Stichkanal an der Unterseite der A. femoralis communis mit nachweisbarem Pendelfluss am <[Pseudo] 13/12/2039> wurde eine erneute manuelle Kompression und Anlage eines Druckverbandes sowie das vorübergehende Pausieren des Heparinperfusor für 4h durchgeführt. In der darauffolgenden angiologischen Verlaufskontrolle zeigte sich schließlich eine große, teilorganisierte Hämatomhöhle ohne nachweisbare Perfusion. Bei Wiederauftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Verlaufskontrolle.
+
+Bei einem Hb- relevanten Abfall erfolgte die Gabe von kum. 4 EKs. Im weiteren Verlauf zeigte sich der Hb-Wert weiter stabil, sodass wir am <[Pseudo] 15/12/2039> eine Marcumarisierung mit gleichzeitiger Gabe von unfraktionierten Heparin zum Bridging wieder begannen. Am <[Pseudo] 25/12/2039> konnte der Heparinperfusor beim Erreichen des Ziel-INR -LRB- 2,5-3,5 -RRB- abgesetzt werden. Wir bitten um eine Fortsetzung der oralen Antikoagulation mit Marcumar.
+
+Zur Komplettierung der Diagnostik -LRB- Detektion einer möglichen gastrointestinalen Blutungsquelle -RRB- sowie hinsichtlich des von B-SALUTE B-PER geschilderten Gewichtsverlusts -LRB- >10kg -RRB- und Appetitlosigkeit -LRB- Ekel vor Fleisch -RRB- wurde eine ÖGD/ Koloskopie durchgeführt, hierbei ergab sich kein Hinweis auf aktive oder stattgehabte Blutung. Bei Nachweis eine Antrumgastritis empfehlen wir die Fortsetzung der PPI -Therapie sowie die Wiederholung einer Koloskopie zur Krebsvorsorge im Verlauf nach besserer Darmvorbereitung.
+
+Bei gel. hypertensiven Episoden während des stationären Aufenthaltes steigerten wir die antihypertensive Therapie wie unten angegeben. Wir bitten um regelmäßige Blutdruck-, Herzfrequenz-, Nierenwert- und Elektrolytkontrollen und ggf. Anpassung der Medikation.
+
+Dyspnoe und Verschlechterung der Sättigungswerte auf 84% unter Raumluft erfolgte am <[Pseudo] 25/12/2039> die Durchführung eines Röntgenaufnahme des Thorax. Hierbei zeigten sich deutlich zunehmende flächige Verdichtungen im rechten Lungenunterfeld und -mittelfeld. In der Zusammenschau gingen wir von einer nosokomialen Pneumonie aus und begannen nach Asservierung von Blutkulturpaaren eine empirische antibiotische Therapie mit Unacid 3g 1xtäglich intravenös, welches am <[Pseudo] 26/12/2039> auf Piperacillin mit Tazobactam umgestellt wurde.
+
+Die Erregerdiagnostik erbrachte den Nachweis von Staphylococcus haemolyticus, welche wir a. e. im Rahmen einer Kontamination der Blutkulturen werteten. Mehrfach täglich erfolgten supportive Inhalationen mit Atrovent und Sultatnol. Eine regelmäßige Atemtherapie war durch unsere physiotherapeutische Betreuung gewährleistet. Hierunter zeigten sich rückläufige Entzündungsparameter, sowie Besserung der Klinik. Die Antibiose konnte am <[Pseudo] 29/12/2039> auf Amoxicillin mit Clavulansäure 875 mg /125 mg 1xtäglich oralisiert werden. Wir bitten um die Fortführung der Antibiose bis einschließlich dem B-DATE. An Dialysetagen -LRB- Mo, Mi, Fr -RRB- bitten wir um eine zusätzliche Gabe von Amoclav nach der Dialyse.
+
+Wir empfehlen eine kurzfristige ambulante Verlaufskontrolle in 3 bis 7 Tagen nach Entlassung und eine Röntgen-Aufnahme des Thorax zur Verlaufskontrolle frühestens zwei Wochen nach Beendigung der antibiotischen Therapie.
+
+Bei anamnestisch geschilderter deutlicher psychischer Belastung sowie Hinweis auf einen Progress der chronifizierten affektiven bipolaren Störung erfolgte eine konsiliarische psychiatrische Mitbetreuung. Es erfolgte eine Kontaktaufnahme mit dem ORG I-ORG zur weiteren psychiatrischen Behandlung. Nach Rücksprache mit den B-SALUTE der Gerontopsychiatrie des B-ORG verlegten wir am <[Pseudo] 29/12/2039> B-SALUTE PER in das B-ORG I-ORG zur weitergehenden stationären Behandlung.
+
+Bei Hämodialysepflichtigkeit erfolgte im stationären Rahmen 3x wöchentliche eine Dialyse im B-ORG B-LOC. Wir bitten um eine Fortführung der Hämodialyse.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+
+
+
+Medikation bei Entlassung:
+Oral:
+Marcumar n. INR Ziel-INR: 2,5-3,5
+Bisoprolol 5 mg 1-0-0,5 Dosissteigerung
+Ramipril 1,25 mg 1-0-0 neu!
+Torasemid 200 mg 1-0-0
+Atorvastatin 40 mg 0-0-1
+Pantoprazol 40 mg 1-0-1 bis einschließlich dem B-DATE
+Pantoprazol 40 mg 1-0-0 ab dem B-DATE!
+Lamotrigin 100 mg 0-0-1
+Tamsulosin 0,4 mg 1-0-0
+Magnesium verla Dragees 1-0-1
+Dekristol 20.000 I.E. alle 14 Tage, sonntags
+Renagel 800 mg 1-2-1 zum Essen
+Vitarenal Kps. 1-0-0
+CPS Pulver 1-0-0 nur sonntags
+Amoxicillin/Clav 875 mg /125 mg 1-0-0
+Inhalativ:
+Spiriva resp. 2,5 μg 2-0-0
+Viani 50/250 μg 2-0-2
+Berodual DA b. B.
+Bei Bedarf: Combiprasal, Momegalen Creme, Mometahexal,
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen den Patienten heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER I-TITLE I-TITLE B-PER I-PER B-PER I-PER / B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärzte
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2039> und dem B-DAY B-MONTH <[Pseudo] 2039>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+4.33
+4 - 10 /nl
+B-DATE
+Hb
+8.5 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+2.7 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.250 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+92
+83 - 97 fl
+<[Pseudo] 29/12/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 29/12/39>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 29/12/39>
+RDW
+15.0
+12,9 - 18,7 %
+<[Pseudo] 29/12/39>
+hypochr.Erythroz.
+2.8 !H
+0 - 2 %
+<[Pseudo] 29/12/39>
+Thrombozyten
+252
+150 - 440 /nl
+<[Pseudo] 29/12/39>
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 29/12/39>
+Kalium -LRB- ISE -RRB-
+4.04
+3,4 - 5,0 mmol/l
+<[Pseudo] 29/12/39>
+Calcium
+2.43
+2,11 - 2,59 mmol/l
+<[Pseudo] 21/11/39>
+Phosphat
+1.10
+0,84 - 1,45 mmol/l
+<[Pseudo] 21/11/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+<NONE> !H
+0,6 - 1,4 mg/dl
+B-DATE
+Harnstoff
+67 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+9.4 !L
+>60 s.u.
+<[Pseudo] 29/12/39>
+MDRD
+17.35
+ml/min/1,73qm
+<[Pseudo] 20/12/39>
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+39.6
+30 - 50 g/l
+<[Pseudo] 20/12/39>
+Glucose
+88
+65 - 110 mg/dl
+<[Pseudo] 03/12/39>
+GOT/AST
+16
+- <46 U/l
+B-DATE
+GPT/ALT
+9
+- <50 U/l
+B-DATE
+CRP
+40.8 !H
+- <5 mg/l
+<[Pseudo] 29/12/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+PCT sens.
+0.34 !H
+- <0,05 ng/ml
+<[Pseudo] 12/12/39>
+Hämolyse
+-
+
+<[Pseudo] 29/12/39>
+ikterisch
+-
+
+<[Pseudo] 29/12/39>
+Lipämie
+-
+
+<[Pseudo] 29/12/39>
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+412 !H
+- <342 U/l
+B-DATE
+CK
+60
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+132 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+14952 !H
+- <450 ng/l
+<[Pseudo] 20/12/39>
+
+Endokrinologie & Diabetologie
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+2.20
+0,400 - 4,000 mU/l
+<[Pseudo] 20/12/39>
+
+
+
+Gerinnungsdiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+22.8 !L
+70 - 125 %
+<[Pseudo] 29/12/39>
+INR - ber.
+<NONE> !H
+- <1.2
+<[Pseudo] 29/12/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+61.5 !H
+- <35 s
+<[Pseudo] 25/12/39>
+
+Urindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+5.00 !L
+6,0 - 8,0
+<[Pseudo] 25/12/39>
+SpezGew/Tstr.
+1007
+1001 - 1035
+<[Pseudo] 25/12/39>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 25/12/39>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 25/12/39>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 25/12/39>
+Erys /Tstr.
+Ca 80
+- 0 Ery /µl
+<[Pseudo] 25/12/39>
+Eiweiß/Tstr.
+100.00
+- neg. mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+B-DATE
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 25/12/39>
+Leuko /Tstr.
+Ca 15
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+101.0 !H
+- <8 /µl
+B-DATE
+Leuko/µl
+62.0 !H
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+positiv
+/µl
+<[Pseudo] 25/12/39>
+
+
+Weitere Laborwerte
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kommentar
+Barcode schlecht lesbar - Verzögerung im Ablauf
+
+<[Pseudo] 04/12/39>
+Harnstoff nach Dialyse
+17
+mg/dl
+<[Pseudo] 21/11/39>
+hs-TroponinT
+121 !H
+- <14 pg/ml
+<[Pseudo] 03/12/39>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+2019-nCoV
+negativ
+
+<[Pseudo] 03/12/39>
+Schnelltest COVID 19
+negativ
+
+<[Pseudo] 29/12/39>
+Kreat. n. Dial.
+2.87
+mg/dl
+B-DATE

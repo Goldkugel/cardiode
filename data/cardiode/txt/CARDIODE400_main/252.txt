@@ -1,0 +1,113 @@
+Aufnahmedatum: <[Pseudo] 2032-01-14 >
+Geburtsdatum: <[Pseudo] 1962-09-19 >
+Alter: 69
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 19/09/1962> wh. B-PLZ B-LOC B-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Befundbesprechung der Dobutamin/Adenosin-Stress-Kardio MRT vom <[Pseudo] 31/12/2031>
+-UNK- höchstgradig eingeschränkte systolische LV-Funktion -LRB- LV EF 19% -RRB-
+-UNK- konservatives Procedere bzgl. Koronarien bei negativem Ischämie-/ Vitalitätsnachweis
+- Vorstellung in unserer Schrittmacherambulanz zur Planung einer ICD-Implantation -LRB- einschließlich Evaluation CRT-D-System -RRB-
+
+Diagnosen:
+- Schwere koronare 3-Gefäßerkrankung mit global hochgradig eingeschränkte LV-Funktion
+-UNK- Z.n. akutem Myokardinfarkt -LRB- NSTEMI -RRB- am <[Pseudo] 30/07/2031>
+-UNK- Z.n. erfolgreicher PTCA/ 2-fach DE-Stentimplantation -LRB- Synergy -RRB- der LCX -LRB- B-OTHER vom <[Pseudo] 30/07/2031> -RRB-
+-UNK- Kollateralisierter Verschluss der RCA
+-UNK- Hochgradige, langstreckige Stenose der LCX
+-UNK- Deutlich erhöhte LVEDP -LRB- ca. 24 mmHG -RRB-
+-UNK- Hochgradige Stenose der med. LAD
+-UNK- negativer Ischämie/-Vitalitätsnachweis
+- Echokardiographisch hochgradig eingeschränkte LV-Pumpfunktion -LRB- <[Pseudo] 29/07/2031> -RRB-
+- Chronische Niereninsuffizienz Stadium III bei a.e. diabetischer Nephropathie
+-UNK- Z.n. a.e. prärenalem Nierenversagen <[Pseudo] 09/2031>
+- Diabetische Neuropathie
+- Coxarthrosen
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus Typ 2 nicht insulinpflichtig, Adipositas, positive Familienanamnese -LRB- Vater mit 69 69 Herzinfarkt -RRB- , sistierter Nikotinkonsum -LRB- kum. ca. 15 py -RRB-
+Allergien: Gräser, Pollen, Meeresfrüchte, Kamille, Anis
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur Befundbesprechung der Dobutamin/Adenosin-Stress-Kardio MRT vom <B-DATE bei bekannter koronarer Herzerkrankung und Z.n. NSTEMI B-DATE. Im Alltag bestehe eine eingeschränkte Belastbarkeit; bei leichterer Anstrengung -LRB- wie 1 Etage Treppensteigen -RRB- bestehe inadäquate Belastungsdyspnoe -LRB- NYHA III -RRB- . Es bestehe zudem teilweise ein thorakales Engegefühl sowohl in Ruhe, als auch bei Belastung. Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestehe Nykturie mit ca. 1-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um ca. 90-100/60-70 mmHg. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Bisherige Medikation:
+ASS 100 mg 1-0-0
+Ticagrelor 90 mg 1-0-1 bis einschließlich <[Pseudo] 29/07/2032>
+Metoprolol 47,5 mg 1-0-0
+Ramipril 2,5 mg 1-0-0
+Spironolacton 25 mg 1-0-0
+Torasemid unbek. Dos. 1-0-0
+Atorvastatin unbek. Dos. 0-0-1
+Pantoprazol 20 mg 0-0-1
+L-Thyroxin 50 µg 1-0-0
+Inshuman 100 I.E./ml nach Plan
+Apidra 100 E/ml nach Schema
+Novaminsulfon 500 mg bei Bedarf
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 168cm, 68kg
+HF: 80/min, regelmäßig
+RR: 110/60 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 78/min, Indifferenztyp. PQ ms, QRS 125ms, QTc 448ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, keine S-Persistenz. Unspezifische intraventrikuläre Leitungsverzögerung. T-Wellen isoelektrisch in den Extremitätenableitungen. Sonst keine signifikanten Erregungsrückbildungsstörungen.
+
+Stress-Kardo-MRT:
+Beurteilung
+Deutlich dilatierter, septal hypertrophierter linker Ventrikel mit global höchstgradig eingeschränkter
+systolischer Funktion bei Akinesie des Apex übergreifend auf die angrenzenden Wandabschnitte anterior,
+anteroseptal und anterolateral medioapikal sowie Hypokinesie der übrigen Wandabschnitte. Eingeschränkte longitudinale Funktion. LA und RA normal groß. RV normal groß mit guter systolischer Funktion und eingeschränkter longitudinaler Funktion. Keine neu induzierbaren regionalen Kontraktionsstörungen unter pharmakologischer Belastung. Kontraktilitätszunahme der unter Ruhebedingungen hypokinetischen basalen Wandabschnitte. Nachweis einer Perfusionsdefektes im Bereich des Apex, anteroseptal bis anterolateral nach mittventrikulär reichend. Nachweis einer ausgedehnten, alten Vorderwandnarbe, den gesamten Apex, sowie übergreifend auf die angrenzenden Wandabschnitte anterior, anteroseptal und anterolateral medioapikal. Global erhöhte T1-Relaxationszeiten, betont medioapikal -LRB- T1 -UNK- 1,5T = 1120 +/- 81ms -RRB- .
+Nebenbefunde
+Degenerative Wirbelsäulenveränderungen. Skoliose. Grenzwertige Splenomegalie -LRB- ca. 12cm -RRB- . V.a. zystische Raumforderung der linken Niere.
+Zusammenfassung
+- Keine neu induzierbare Wandbewegungsstörung unter Dobutamin-Stressuntersuchung, jedoch Nachweis eines Perfusionsverzögerung anteroseptal, anterior und anterolateral basal sowie inferoseptal und inferior mittventrikulär im Bereich der Infarktnarbe. Zudem Nachweis eines Perfusionsdefekts in der apikalen Wandsegmenten.
+- Deutlich dilatierter, septal hypertrophierter linker Ventrikel mit global höchstgradig eingeschränkter
+systolischer Funktion -LRB- LV-EF 19% -RRB- .
+- Nachweis einer ausgedehnten, alten Vorderwandnarbe, den gesamten Apex, sowie übergreifend auf die
+angrenzenden Wandabschnitte anterior, anteroseptal und anterolateral medioapikal.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Befundbesprechung der Dobutamin/Adenosin-Stress-Kardio MRT vom B-DATE. Subjektiv wird von einem im Wesentlichen klinisch stabilen kardialen Verlauf berichtet.
+
+In der Stress-Kardio-MRT-Untersuchung zeigte sich ein dilatierter, septal hypertrophierter linker Ventrikel mit global höchstgradig eingeschränkter systolischer Funktion. Zudem war eine ausgedehnte, alte Vorderwandnarbe, den gesamten Apex sowie übergreifend auf die angrenzenden Wandabschnitte anterior, anteroseptal und anterolateral medioapikal betreffend, nachweisbar.
+
+Bezüglich des Koronarstatus empfehlen wir bei negativem Ischämienachweis und alter Vorderwandnarbe ein konservatives Procedere.
+
+Bei Erreichen der individuellen Ziel-Dosis -LRB- limitiert durch RR -RRB- sehen wir aktuell von einer Steigerung der Herzinsuffizienz-Therapie ab. Bei vorbekannter KHK mit eingeschränkter LV-Funktion und Diabetes kann unter Berücksichtigung der aktuellen Nierenfunktion ggf. im Verlauf die Hinzunahme eines SGLT-2-Inhibitors in Erwägung gezogen werden.
+
+Wir empfehlen zudem bei höchstgradig eingeschränkter Pumpfunktion die Implantation eines ICDs zur Primärprophylaxe. Wir empfehlen daher eine zeitnahe Vorstellung in unserer B-ORG -LRB- Terminvereinbarung telefonisch unter B-PHONE -RRB- zur weiteren Planung. Nach Rücksprache mit OA B-TITLE B-PER soll im Rahmen dieser Vorstellung ebenfalls die Möglichkeit einer Resynchronisationstherapie mittels CRT-D-Systems bei vorhandener unspezifischer intraventrikulärer Leitungsverzögerung evaluiert werden.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch beim niedergelassenen B-SALUTE Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Aktuelle Medikation -LRB- unverändert -RRB- :
+ASS 100 mg 1-0-0
+Ticagrelor 90 mg 1-0-1 bis einschließlich <[Pseudo] 29/07/2032>
+Metoprolol 47,5 mg 1-0-0
+Ramipril 2,5 mg 1-0-0
+Spironolacton 25 mg 1-0-0
+Torasemid unbek. Dos. 1-0-0
+Atorvastatin unbek. Dos. 0-0-1
+Pantoprazol 20 mg 0-0-1
+L-Thyroxin 50 µg 1-0-0
+Inshuman 100 I.E./ml nach Plan
+Apidra 100 E/ml nach Schema
+Novaminsulfon 500 mg bei Bedarf
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

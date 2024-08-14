@@ -1,0 +1,429 @@
+Aufnahmedatum: <[Pseudo] 2481-07-30 >
+Geburtsdatum: <[Pseudo] 2094-07-21 >
+Alter: 387
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 21/07/2094> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 14/02/2181> -RRB- bei kombiniertem Aortenklappenvitium mit mittelgradiger Aortenklappenstenose und belastungsabhängiger Angina pectoris DD im Rahmen hypertensiver Blutdruckwerte:
+-UNK- Kombiniertes Aortenklappenvitium mit mittelgradiger Aortenklappenstenose -LRB- KÖF ca. 1,1 cm², PPG ca. 15 mmHg -RRB-
+-UNK- Koronare Herzerkrankung ohne höhergradige Stenosen
+-UNK- Echokardiographie vom <[Pseudo] 15/02/2181:>
+-UNK- gute systolische LV-Pumpfunktion
+-UNK- Zeichen einer diastolischen LV-Dysfunktion
+-UNK- Dopplersonographisch kombiniertes Aortenvitium höheren Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 0,9 cm², PPG 61 mmHg, MPG 31 mmHg -RRB-
+-UNK- leichtgradige Mitralklappen Insuffizienz
+-UNK- PA-Druck in Ruhe ist leicht erhöht -LRB- ca. 40 mmHg -RRB-
+- Echo -LRB- Praxis B-TITLE B-PER <[Pseudo] 01/2181> -RRB- mit KÖF 0,5-0.6 cm2 bei guter linksventrikulärer Pumpfunktion
+- Koronarangiographie -LRB- B-LOC, <[Pseudo] 10/2178> -RRB- ohne relevanter Aortenklappenstenose
+-UNK- Empfehlung zur ergänzenden Verlaufskontrolle in domo
+-UNK- Termin: <[Pseudo] 09/05/2181> um 10:30 Uhr
+-UNK- Bitte aktuellen Überweisungsschein und aktuelle Laborwerte mitbringen
+- Hypertensive Entgleisung
+-UNK- Optimierung der medikamentösen Therapie
+- Intermittierende Bradykardie bis 40 /min
+-UNK- Pausierung der Digitalis-Therapie
+-UNK- Empfehlung zur Durchführung von Langzeit-EKGs & Langzeit-Blutdruckmessung im Verlauf
+
+Diagnosen:
+- Persistierendes
+-UNK- CHA2DS2-VASc-Score 4 Punkte
+-UNK- HAS-BLED-Score 2 Punkte
+-UNK- Antikoagulation mit Xarelto, pausiert für Koronarangiographie
+- Vertigo
+- Arterielle Hypertonie
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, kein Nikotinabusus, Normalgewicht -LRB- BMI 21 kg/m² -RRB-
+Allergien:
+Heuschnupfen, nicht näher bezeichnet
+
+Anamnese:
+Die Aufnahme auf unsere Station erfolgte elektiv zur Koronarangiographie bei KHK sowie hochgradiger Aortenklappenstenose und Evaluation einer TAVI.
+
+Es wird eine zuletzt abnehmende körperliche Belastbarkeit im Alltag beschrieben. Bei 1 Etagen Treppensteigen bestehen belastungsinduzierte pectanginöse Beschwerden -LRB- NYHA II bis III -RRB- , allerdings keine Dyspnoe. In Ruhe bestünden weder pectanginöse Beschwerden noch Dyspnoe. Keine Palpitationen. Keine Synkopen, allerdings bestehe seit Langem ein Drehschwindel, auch in Ruhe. Die häuslichen Blutdruckmessungen ergäben Werte um 130/70mmHg. Es bestehe Nykturie mit ca. 4-facher Miktion pro Nacht. Periphere Ödeme seien in der letzten Zeit nicht aufgefallen, allerdings habe das Gewicht mit über 20kg in den letzten Monaten deutlich abgenommen. Die Patientin beschreibt Appetitlosigkeit als Hauptgrund und sieht eine nicht näher beschriebene Leberfunktionsstörung als Ursache. Kein Fieber oder Infekt in jüngerer Vergangenheit.
+
+Medikation bei Aufnahme:
+Xarelto 15 mg 1-0-0 pausiert für Koro
+Metoprolol 50 mg 1-0-0
+Digimerck 0,1 mg -UNK- -0-0
+Torasemid 10 mg 1-0-0
+Allopurinol 100 mg 1-0-0
+
+MomeAllerg Nasenspray bei Bedarf
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+162 cm 55 kg
+HF: 70/min, regelmäßig
+RR: 130 / 70 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: Systolikum 3/6 über p.m. Erb
+Lunge: o.B., vesikuläres Atemgeräusch
+Abdomen: weich, kein DS, keine Resist
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: o.B.
+Neurologischer Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+
+
+
+Labor:
+Ruhe-EKG vom <[Pseudo] 14/02/2181>
+Normofrequentes Vorhofflimmern, arrhythmisch, 70/min, Linkslage. QRS 100msec., QTc 388msec. Verzögerte R-Progression, R/S Umschlag in V3/V4. Keine S-Persistenz. Keine signifikanten Kammerendteilveränderungen. Biphasisches T in V5/6
+
+Ruhe-EKG vom <[Pseudo] 15/02/2181>
+Normofrequentes Vorhofflimmern, arrhythmisch, 74/min, Linkstyp. QRS 98msec., QTc 406msec. Verzögerte R-Progression, R/S Umschlag in V3/V4. Keine S-Persistenz. Keine signifikanten Kammerendteilveränderungen. Biphasisches T in I, II, III,aVF, V4-V6
+
+Ruhe-EKG vom <[Pseudo] 17/02/2181>
+Normofrequentes Vorhofflimmern, arrhythmisch, 83/min, Linkstyp. QRS 100 msec., QTc 363 msec. Regelechte R-Progression, R/S Umschlag in V3/V4. Keine S-Persistenz. Keine signifikanten Kammerendteilveränderungen. Biphasisches T in I, II, III, aVF, V4-V6
+Virologischer Befund vom <[Pseudo] 14/02/2181:>
+
+
+Herzkatheteruntersuchung -LRB- B-OTHER -RRB- vom <[Pseudo] 14/02/2181> Endbefund:
+Herzkatheteruntersuchung bei Aortenklappenvitium.
+Mittelgradige Aortenklappenstenose -LRB- KÖF ca. 1,1 cm², PPG ca. 10 mmHg -RRB- . Erhöhte Drücke im kleinen Kreislauf -LRB- 38/15/25 mmHg -RRB- . Leicht erhöhter pulmonalarterieller Widerstand -LRB- 183 dyn.s.cm^-5 -RRB- , gemischtvenöse Sättigung 68%, Cardiac Index 2,8 l/min/m². Koronare Herzerkrankung ohne höhergradige Stenosen. Verzicht auf LV-Angiographie zur Nephroprotektion.
+Sonstige Diagnosen:
+Persistierendes Vorhofflimmern -LRB- CHA2DS2-VASc 4, HAS-BLED 2 -RRB-
+CVRF: aHT
+Maßnahmen:
+- Transthorakale Echokardiographie
+- Diskussion Procedere bzgl. der Aortenklappe
+- Konservativ bzgl. der Koronararterien
+
+Echokardiographie vom <[Pseudo] 15/02/2181:>
+Normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Zeichen einer diastolischen LV-Dysfunktion. LA und RA deutlich dilatiert, RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, deutlich verdickt und verkalkt mit verminderter Separation. Dopplersonographisch kombiniertes Aortenvitium höheren Schweregrades mit überwiegender Stenosekomponente -LRB- AÖF-Kontinuitätsgleichung = 0,9 cm², PPG 61 mmHg, MPG 31 mmHg -RRB- . Mitralklappe verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist leicht erhöht -LRB- ca. 40 mmHg -RRB- . Erstbefund in domo.
+
+Angiologische Verlaufskontrolle nach Femoralispunktion rechts vom <[Pseudo] 15/02/2181:>
+Lokalbefund:
+Punktionsstelle reizlos, größeres sichtbares Hämatom. Leistenpuls kräftig palpabel.
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden. Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße:
+Beidseits noch diskrete Plaquebildungen -LRB- re>li -RRB- im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet. IMD rechts 0,09 cm, links 0,08 cm. Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar. Erstbefund in domo.
+
+
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme der Patientin erfolgte elektiv zur geplanten Herzkatheteruntersuchung bei belastungsabhängigen AP-Beschwerden sowie einem extern beschriebenem kombiniertem Aortenklappen Vitium mit führender hochgradiger Stenose.
+
+In der am <[Pseudo] 14/02/2181> durchgeführten Herzkatheteruntersuchung ergab sich eine koronare Herzerkrankung ohne höhergradige Stenosen. Weiterhin zeigte sich eine noch mittelgradige Aortenklappenstenose -LRB- KÖF ca. 1,1 cm2, PPG ca. 15 mmHg -RRB- . Bzgl. der Koronarien wird ein konservatives Procedere empfohlen.
+Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich klinisch kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Zu weiteren Beurteilung des Schweregrads der Aortenklappenstenose erfolgte die Durchführung einer transthorakalen Echokardiographie. Diese zeigte ein kombiniertes Aortenklappenvitium mit führender hochgradiger Stenose -LRB- KÖF ca. 0,9 cm² -RRB- , nach Rücksprache mit unserem Klappenteam ist diese a. e. überschätzt - somit handelt es sich um eine mittelgradige Aortenklappenstenose. Aktuell wird hierbei ein konservatives Procedere empfohlen. Wir empfehlen eine Verlaufskontrolle in 3-6 Monaten in domo -LRB- Termin s.o. -RRB- ergänzend zu Ihren Untersuchungen zur Klärung einer TAVI-Indikation im Verlauf.
+
+Echokardiographisch zeigte sich weiterhin ein gute systolische LV-Pumpfunktion, Zeichen einer diastolischen LV-Dysfunktion, eine leichtgradige Mitralklappen Insuffizienz sowie ein leicht erhöhter PA-Druck in Ruhe -LRB- ca. 40 mmHg -RRB- .
+
+Bei häufigen hypertensiven Episoden während des stationären Aufenthaltes bis zu 170 mmHg systolisch steigerten wir die antihypertensive Therapie wie unten angegeben. Wir bitten um regelmäßige Blutdruck-, Herzfrequenz-, Nierenwert- und Elektrolytkontrollen und ggf. Anpassung der Medikation.
+
+Bei regelm. bradykarden Episoden bis 40/min pausierten wir die Frequenzkontrolle mittels Digimerck und bitten um die Durchführung von Langzeit-EKGs, sowie Langzeitblutdruckmessungen im Verlauf.
+
+Bei Vorhofflimmern und einem CHA2DS2-VASc Score von > 2 Pkt. empfehlen wir die Fortführung der bereits initiierten oralen Antikoagulation mittels Xarelto.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+Xarelto 15 mg 1-0-0
+Metoprolol 50 mg 1-0-0 Kontrolle: EKG, HF
+-LRB- im Verlauf in Anhängigkeit vom Langzeit-EKG Evaluation einer Umstellung auf Metoprolol succinat sowie ggf. einer Dosissteigerung -RRB-
+Amlodipin 5 mg 0-0-1 neu! Kontrolle: RR -LRB- Pause bei systolischem RR < 120 mmHg -RRB-
+Aldactone 25 mg 1-0-0 neu! Kontrolle: RR, Elektrolyte, Nierenparameter
+ggf. Anpassung der Dosierung -LRB- 12,5 mg oder 25 mg alle 2 Tage -RRB-
+Torasemid 10 mg 1-0-0
+Allopurinol 100 mg 1-0-0
+
+MomeAllerg Nasenspray bei Bedarf
+
+Pausiert:
+Digimerck 0,1 mg -UNK- -0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 3-6 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind. Hierzu vereinbarten wir einen Termin in unserer B-ORG I-ORG -LRB- Tel.: B-PHONE Ebene B-LOC, B-ORG I-ORG B-ORG I-ORG -RRB- , den <[Pseudo] 09/05/2181> 10:30 Uhr
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen die Patientin heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+
+Anlagen: 1 Seite Medikationsübersicht
+
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 14/02/2181> und dem <[Pseudo] 17/02/2181>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.38
+4 - 10 /nl
+B-DATE
+Hb
+10.5 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.3 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.320 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+98 !H
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 17/02/81>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 17/02/81>
+RDW
+14.8
+12,9 - 18,7 %
+<[Pseudo] 17/02/81>
+hypochr.Erythroz.
+3.0 !H
+0 - 2 %
+<[Pseudo] 17/02/81>
+Thrombozyten
+196
+150 - 440 /nl
+<[Pseudo] 17/02/81>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 17/02/81>
+Kalium -LRB- ISE -RRB-
+3.76
+3,4 - 5,0 mmol/l
+<[Pseudo] 17/02/81>
+Kreatinin
+1.37
+0,5 - 1,4 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+122 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+34.9 !L
+>60 s.u.
+B-DATE
+MDRD
+36.94
+ml/min/1,73qm
+<[Pseudo] 14/02/81>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+36.6
+30 - 50 g/l
+B-DATE
+CRP
+32.8 !H
+- <5 mg/l
+<[Pseudo] 16/02/81>
+Hämolyse
+-
+
+<[Pseudo] 17/02/81>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+ikterisch
+-
+
+<[Pseudo] 17/02/81>
+Lipämie
+-
+
+<[Pseudo] 17/02/81>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+CK
+50
+- <170 U/l
+B-DATE
+hs-TroponinT
+58.4 !H
+- <14 pg/ml
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+12094 !H
+- <450 ng/l
+<[Pseudo] 14/02/81>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.77
+0,400 - 4,000 mU/l
+<[Pseudo] 14/02/81>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+87.1
+70 - 125 %
+<[Pseudo] 14/02/81>
+INR - ber.
+1.07
+- <1.2
+<[Pseudo] 14/02/81>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+23.8
+- <35 s
+B-DATE
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+5.00 !L
+6,0 - 8,0
+<[Pseudo] 16/02/81>
+SpezGew/Tstr.
+1011
+1001 - 1035
+<[Pseudo] 16/02/81>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 16/02/81>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 16/02/81>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 16/02/81>
+Erys /Tstr.
+Ca 25
+- 0 Ery /µl
+<[Pseudo] 16/02/81>
+Eiweiß/Tstr.
+Spur
+- neg. mg/dl
+<[Pseudo] 16/02/81>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 16/02/81>
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 16/02/81>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+<[Pseudo] 16/02/81>
+Erys/µl
+4.0
+- <8 /µl
+B-DATE
+Leuko/µl
+2.0
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+positiv
+/µl
+B-DATE

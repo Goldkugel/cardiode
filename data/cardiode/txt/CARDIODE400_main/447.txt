@@ -1,0 +1,124 @@
+Aufnahmedatum: <[Pseudo] 2036-06-28 >
+Geburtsdatum: <[Pseudo] 1963-05-09 >
+Alter: 73
+
+über Ihren Patienten B-SALUTE B-TITLE B-PER I-PER geboren am <[Pseudo] 09/05/1963> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Erfolgreiche Pulmonalvenenisolation in Cryo-Technik bei paroxsysmalem Vorhofflimmern am <[Pseudo] 28/06/2036> -LRB- B-OTHER vom <[Pseudo] 28/06/2036> -RRB-
+-UNK- Klinisch und echokardiographisch Rekompensation unter Sinusrhythmus ohne Amiodaron
+-UNK- <[Pseudo] 11/2035> kardiale Dekompensation bei Erstdiagnose eines long persistent atrial fibrillation
+-UNK- CHADS-VASc-Score 4 Punkte
+- Hochgradig eingeschränkte linksventrikuläre Pumpfunktion -LRB- EF 40 % -RRB-
+- Kompletter Linksschenkelblock
+- Coro <[Pseudo] 11/2035> Ausschluss KHK
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Diabetes mellitus Typ 2, positive Familienanamnese -LRB- Vater SM mit 73 73 -RRB- , Adipositas
+
+Allergien: keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme des Patienten erfolgt über die B-ORG B-TITLE B-PER zur elektiven Pulmonalvenenisolation bei Vorhofflimmern und zweier Elektrokardioversionen DATE Der Patient beschreibt eine Erschöpfung beim Spazierengehen im Frühjahr verspürt zu haben, woraufhin er sich bei B-TITLE B-PER vorstellte und ein Vorhofflimmern diagnostiziert wurde. Er ist aktuell in gutem Allgemeinzustand. Es liegt keine Dyspnoe, keine Palpitationen, kein Schwindel, keine Synkopen und keine Ödeme vor. Aktuell liegen keine Infektionszeichen vor.
+
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 188 cm, Gewicht: 119 kg -RRB-
+HF: 44 /min
+RR: 120/70 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig.
+HT: leise, rein, keine path. Geräusche
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse gut tastbar
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG :
+Bradykarder Sinusrhythmus, regelmäßig, 44/min, lagetyp. PQ 207ms, QRS 162 ms, QTc 483 ms. AV-Block I. Grades, kompletter Linksschenkelblock, ST-Streckensenkungen in I, aVL, V5 und V6. Verzögerte R-Progression in V4/V5, keine weiteren spezifischen Erregungsrückbildungsstörungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 28/06/2036> -RRB- :
+Bradykarder Sinusrhythmus, regelmäßig Herzfrequenz 42/min, Links-Typ, PQ 202 ms, QRS 169 ms, QTc 457 ms. AV-Block I. Grades, kompletter Linksschenkelblock. ST-Streckensenkungen in I, aVL, V5 und V6. Verzögerte R-Progression in V4/V5, keine weiteren spezifischen Erregungsrückbildungsstörungen
+
+Elektrophysiologische Untersuchung -LRB- B-OTHER vom <[Pseudo] 28/06/2036> -RRB- :
+2-fache Punktion der V. femoralis dextra. Vorführen eines steuerbaren, diagnostischen 4-poligen Katheters in den CS. Problemlose 1-fache transseptale Punktion. Einführen der FlexCath-Schleuse in das LA. Transnasales Einführen der Temperatursonde in den Ösophagus -LRB- FIAB -RRB- . Angiographie der LSPV, RSPV, LIPV und RIPV jeweils nach Inflation des Cryoballons. Isolation der lateralen Pulmonalvenen -LRB- LSPV 1, LIPV 1 -RRB- . Isolation der septalen Pulmonalvenen -LRB- RSPV 1, RIPV 1 -RRB- .
+Minimale Temperaturen und -UNK- time to isolation -UNK- in LSPV -LRB- -51°C/ns -RRB- , LIPV -LRB- -47°C/33s -RRB- , RSPV -LRB- -53°C/ns -RRB- und RIPV -LRB- -51°C/ns -RRB- . Kein Hinweis auf Parese des N. phrenicus -LRB- Kontrolle durch kontinuierliche Phrenicusstimulation -RRB- . Postablationem Nachweis eines Entranceblocks aller PVs. Postinterventionell Ausschluss eines Perikardergusses durch Echokardiographie.
+Zusammenfassung:
+Pulmonalvenenisolation in Cryo-Technik.
+Proc.:
+DV 8 h. Echo-Kontrolle morgen früh zum PE-Ausschluss wiederholen. DOAC ab heute Abend 21 Uhr bei Blutstille fortsetzen. Bitte LZ-EKG Kontrollen heimatnah und WV in der zuweisenden Praxis zur Befundkontrolle. 40 mg Pantoprazol 1x/die für 10 Tage post ablationem.
+
+Echokardiographie nach PVI vom <[Pseudo] 29/06/2036:>
+Leicht dilatierter linker Ventrikel mit reduzierter Pumpfunktion, Regionale Kontraktionsstörungen sind bei eingeschränkten Schallbedingungen nicht beurteilbar. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA leicht erweitert, RA normal groß und RV leicht dilatiert, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut, atemvariabel. Leichtgradige Mitralklappeninsuffizienz, leichtgradige Trikuspidalklappeninsuffizienz, Aortenklappe leichtgradig verkalkt mit guter Seperation und ohne Flussbeschleunigung. Übrige Klappen sonographisch und dopplersonographisch regelrecht.
+Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 30 mmHg -RRB- .
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2035>
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+64.8 !L
+70 - 125 %
+<[Pseudo] 28/06/36>
+INR - ber.
+1.20 !H
+- <1.2
+<[Pseudo] 28/06/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+23.9
+- <35 s
+<[Pseudo] 28/06/36>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme des Patienten erfolgte zur elektiven Pulmonalvenenisolation bei Vorhofflimmern.
+Es erfolgte eine Pulmonalvenenisolation in Cryo-Technik. Ein Perikarderguss konnte nach der Intervention mehrfach ausgeschlossen werden. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich kein Anhalt für Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstellen beider Leisten.
+
+B-SALUTE B-TITLE B-PER zeigte während des stationären Aufenthaltes einen bradykarden Herzrhythmus -LRB- 38- 48/ min -RRB- bei einer bekannten Sinusbradykardie, worunter der Patient sich asymptomatisch darstellte. Bei einem leichten Spazierengehen stieg die Herzfrequenz auf ca. 60/ min. Bzgl. der bradykarden Episoden empfehlen wir eine weitere Abklärung durch Langzeit-EKG-Kontrollen und nach Maßgabe B-TITLE B-PER
+
+Wir empfehlen auch bei stabilem Sinusrhythmus die Fortführung der oralen Antikoagulation mit Apixaban für mindestens 3 Monate. Im Anschluss daran sollte eine Re-Evaluation nach CHA2DS2-VASc-Score und HAS-BLED-Score durch die niedergelassene B-SALUTE erfolgen. Wir bitten um die zeitnahe Durchführung eines Langzeit-EKGs. Darüber hinaus empfehlen wir vorerst monatliche Langzeit-EKG-Kontrollen. Nach Pulmonalvenenisolation empfehlen wir die Einnahme eines Protonenpumpeninhibitors für 10 Tage wie unten aufgeführt.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 29/06/2036> in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 3 Monaten in der B-ORG B-TITLE B-PER
+
+Therapieempfehlung v. kardiologischer Seite:
+Apixaban 5 1-0-1, weiter
+Allopurinol 300 0-0-1
+Entresto 59/51 1-0- -UNK-
+Eplerenon 25 0-1-0
+Jardiance 10 1-0-0
+Metformin 1 g -UNK- -0- -UNK-
+Insulin glargin 2-0-0 Einh.
+Pantoprazol 40 1-0-0, neu, bis <[Pseudo] 08/07/2036>
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

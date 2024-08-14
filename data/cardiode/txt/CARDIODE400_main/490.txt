@@ -1,0 +1,386 @@
+Aufnahmedatum: <[Pseudo] 2032-10-28 >
+Geburtsdatum: <[Pseudo] 1956-05-13 >
+Alter: 76
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 13/05/1956> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- pAVK Stadium IV beidseits
+-UNK- Oberschenkelamputation bei Verschluss des femoro-poplitealem Bypasses linksseitig mindestens ab AFC nach distal am <[Pseudo] 28/10/2032>
+-UNK- Empirisch antibiotische Therapie mit Meropenem vom <[Pseudo] 29.10.> - dato
+-UNK- Z. n. Becken-Bein-Angiografie am <[Pseudo] 24/06/2031> mit Rekanalisation des verschlossenen femoro-poplitealen Bypasses rechts mittels Rotationsthrombektomie/PTA. Bei massiver Thrombuslast 20mg Actilyse/5x covered Stentimplantation -LRB- 2x AIE, 1x AFC, 2xAFS -RRB- -LRB- BBA Nr. B-OTHER -RRB-
+-UNK- Z. n. Lyse via Lysekatheter v. B-DATE - B-DATE
+-UNK- Gutes Ergebnis nach lokaler Lysetherapie li. Art. Illicas ext., Art. Femoralis communis, femoro-poplitealer Bypass und die Unterschenkelgefäße offen perfundiert -LRB- B-OTHER v. <[Pseudo] 25/06/2031> -RRB-
+-UNK- Aneurysma spurium der A. brachialis rechts im Bereich der Punktionsstelle mit starker Einblutung am <[Pseudo] 25/06/2031>
+-UNK- Z. n. Übernähung der A. brachialis und V. brachialis rechts. Hämatom-Ausräumung am rechten Oberarm am <[Pseudo] 26/06/31> durch die gefäßchirurgische Abteilung des B-ORG I-ORG in Intubationsnarkose.
+-UNK- Z. n. femoro-poplitealem PIII Kunststoffbypass mit kompliziertem Verlauf, Lappenplastik bei Lymphfistel sowie VAC-Therapie <[Pseudo] 11/2026> -LRB- B-ORG -RRB-
+-UNK- Z. n. Oberschenkel-Amputation rechts bei pAVK Stadium IV
+-UNK- Z. n. BBA mit erfolgloser Rekanalisation der AIC rechts bei Verschluss der AIC, AFC und AFS rechts am <[Pseudo] 22/07/2030>
+-UNK- Z. n. BBA mit erfolgloser Rekanalisation der AIC rechts bei Verschluss der AIC, AFC und AFS rechts, li. höhergradig Stenose der AFC am <[Pseudo] 20/06/30>
+-UNK- Z. n. PTA und Stentimplantation der A. Iliaca <[Pseudo] 07/2025>
+- Akut auf chronisches Nierenversagen a.e. im Rahmen der Stomaverluste -LRB- <[Pseudo] 10/2032> -RRB-
+- Kardial
+-UNK- Koronare 2-Gefäßerkrankung der LAD und LCX ohne höhergradige Stenosen mit global guter linksventrikulärer Pumpfunktion bei leicht erhöhtem enddiastolischem Druck, DD Hypertensive Herzerkrankung -LRB- B-OTHER v. <[Pseudo] 30/08/2026> -RRB-
+-UNK- Leichtgradige Aortenklappeninsuffizienz
+-UNK- Leichtgradige Mitral- und Trikuspidalklappeninsuffizienz
+- Z. n. Acute on chronic Nierenversagen AKIN-III / RIFLE-F <[Pseudo] 06/2030>
+- Diabetes mellitus Typ II, a. e. MARD, ohne Insulinpflicht
+- Sekundärer Hyperparathyreoidismus
+- Euthyreote Stoffwechsellage unter L-Thyroxintherapie
+- Reaktiv-depressives Syndrom
+- VRE und 3MRGN -LRB- Citrobacter freundii -RRB- im Rektalabstrich -LRB- <[Pseudo] 07/30> -RRB-
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesternämie, Ehemaliger Nikotinabusus -LRB- karent seit B-YEAR, kumulativ 20PY -RRB- , Adipositas permagna, Diabetes mellitus Typ 2
+Allergien: Anamnestisch keine bekannt
+
+Externer Zuweiser: Gefäßchirurgie via ORG
+
+Anamnese:
+Die Aufnahme des Patienten erfolgte vom Gefäßchirurgischen OP bei Z.n. Oberschenkelamputation linksseitig.
+Die initiale Vorstellung erfolgte als Einweisung durch die B-ORG Brado in unsere ORG bei akutem Bypassverschluss li. Anamnestisch bestanden seit 3 Tagen Ruheschmerzen. Bei Vorstellung B-DATE Auf spezifische Nachfrage keine typische Angina pectoris oder Belastungsdyspnoe bei jedoch deutlich eingeschränkter Belastung. Kein Schwindel, keine Synkope. Keine Palpitationen. Kein Hinweis auf einen akuten Infekt. Häusliche Blutdruckwerte 140/80 mmHg.
+
+Bei Übernahme auf Station CCU kardiozirkulatorisch stabile, jedoch desorientierte Patientin.
+
+Körperlicher Untersuchungsbefund:
+AZ: stabil
+EZ: gut
+HF: 100/min, regelmäßig
+RR: 120/50mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Einflussstauung.
+Cor: reine, regelmäßige HT
+Pulmo: vesikuläres AG
+Abdomen: weich, kein DS, keine Resist. lebhafte DG
+Leber/Milz: nicht vergrößert palpabel
+Periphere Ödeme: keine
+Pulsstatus: Aa. radiales und Aa. femorales schwach palpabel
+Neurol. Status: nicht orientiert a.e. bei Narkoseüberhang
+sonstige Auffälligkeiten: 2 einliegende Redons und 1 Painbuster
+
+OP-Bericht vom <[Pseudo] 28/10/2032:>
+Befund folgt.
+
+Ruhe-EKG vom <[Pseudo] 28/10/2032:>
+Normofrequenter Sinusrhythmus, regelmäßig, Herzfrequenz 98/min, Linkslagetyp. PQ 136 ms, QRS 93 ms, QTc 426 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V2/V3. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 28/10/2032> und dem <[Pseudo] 30/10/2032>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+9.84
+4 - 10 /nl
+B-DATE
+Hb
+9.6 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.3 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.280 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+85
+83 - 97 fl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 30/10/32>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 30/10/32>
+RDW
+16.6
+12,9 - 18,7 %
+<[Pseudo] 30/10/32>
+hypochr.Erythroz.
+2.1 !H
+0 - 2 %
+<[Pseudo] 30/10/32>
+Thrombozyten
+226
+150 - 440 /nl
+<[Pseudo] 30/10/32>
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+137
+135 - 146 mmol/l
+<[Pseudo] 30/10/32>
+Kalium -LRB- ISE -RRB-
+4.30
+3,4 - 5,0 mmol/l
+<[Pseudo] 30/10/32>
+Calcium
+2.61 !H
+2,11 - 2,59 mmol/l
+<[Pseudo] 28/10/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+1.41 !H
+0,5 - 1,1 mg/dl
+B-DATE
+Harnstoff
+53 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+36.2 !L
+>60 s.u.
+<[Pseudo] 30/10/32>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Glucose
+94
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+39 !H
+- <37 U/l
+B-DATE
+GPT/ALT
+21
+- <35 U/l
+B-DATE
+CRP
+<NONE> !H
+- <5 mg/l
+<[Pseudo] 30/10/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+PCT sens.
+0.42 !H
+- <0,05 ng/ml
+<[Pseudo] 28/10/32>
+Hämolyse
+-
+
+<[Pseudo] 30/10/32>
+ikterisch
+-
+
+<[Pseudo] 30/10/32>
+Lipämie
+-
+
+<[Pseudo] 30/10/32>
+
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+LDH
+232
+- <301 U/l
+B-DATE
+CK
+492 !H
+- <170 U/l
+<[Pseudo] 30/10/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+709 !H
+- <450 ng/l
+<[Pseudo] 28/10/32>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+TSH
+<NONE> !H
+0,400 - 4,000 mU/l
+<[Pseudo] 28/10/32>
+FT3
+2.22
+2,0 - 4,2 ng/l
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+FT4
+15.60
+8 - 18 ng/l
+<[Pseudo] 28/10/32>
+Gerinnungsdiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+65.8 !L
+70 - 125 %
+<[Pseudo] 30/10/32>
+INR - ber.
+1.19
+- <1.2
+<[Pseudo] 30/10/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+aPTT
+27.8
+- <35 s
+<[Pseudo] 30/10/32>
+Blutgasanalyse
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH
+7.51 !H
+7,37 - 7,45
+B-DATE
+pO2
+71
+mmHg
+B-DATE
+pCO2
+37.6
+35 - 45 mmHg
+<[Pseudo] 30/10/32>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+5.8 !H
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+29.6
+mmol/l
+B-DATE
+Laktat
+6.0
+- <16 mg/dl
+<[Pseudo] 30/10/32>
+
+
+
+
+
+Zusammenfassung:
+Die Aufnahme von B-SALUTE B-PER erfolgte vom gefäßchirurgischen Operationssaal bei Z.n. Oberschenkelamputation linksseitig. Die initiale Vorstellung erfolgte als Einweisung durch die B-ORG B-TITLE B-PER in unsere B-ORG I-ORG -LRB- CPU -RRB- bei akutem femoro-poplitealem Bypassverschluss links.
+
+Im Aufnahmelabor zeigte sich eine wesentliche Entzündungskonstellation, sodass bereits in unserer B-ORG Notaufnahme eine antibiotische Therapie mittels Meropenem bei a.e. kritischer Ischämie des linken Unterschenkels als Infektfokus eingeleitet wurde. Im Verlauf zeigte sich das CRP weiter steigend a.e. im Rahmen der stattgehabten Oberschenkelamputation. Wir empfehlen zunächst die Fortführung der antibiotischen Therapie für mindestens 5 Tage -LRB- bis einschließlich dem <[Pseudo] 02/11/2032> -RRB- , hiernach weitere Therapie nach Entzündungsparameter.
+
+Noch am Tag der Vorstellung erfolgte die komplikationslose Amputation des linken Oberschenkels. Der portoperative Verlauf gestaltete sich komplikationslos.
+
+Laborchemisch zeigte sich ein akut auf chronisches Nierenversagen a.e. im Rahmen von Stomaverlusten. Wir pausierten die nephrotoxischen Medikamente und es erfolgte eine intravenöse Hydrierung. Wir bitten bei ausreichender renaler Reompensation die pausierte Medikation im Verlauf erneut aufzunehmen.
+
+Bei deutlich schmerzgeplagter Patientin leiteten wir eine Schmerztherapie mit Tilidin/Naloxon wie unten angegeben ein. Hierdurch konnte eine suffiziente Analgesie erreicht werden. Wir bitten diese im Verlauf ggf. auszuschleichen.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir verlegen die Patientin am <[Pseudo] 31/10/2032> beschwerdefrei in Ihre stationäre Betreuung.
+
+Procedere:
+- Infektsanierung
+- AHB
+
+Therapieempfehlung:
+intravenös
+Meropenem 1 g 1-0-1 bis einschließlich dem <[Pseudo] 02/11/2032>
+Heparin-Perf. 25000 I.E./50ml LR 0,9 zur Thromboseprophylaxe
+Oral
+
+ASS 100 mg 1-0-0
+Tilidin/Naloxon 10 mg/5 mg 1-0-1 neu
+Spironolacton 50 mg 1-0-0 aktuell pausiert
+Lercanidipin 10 mg 1-0-1 aktuell pausiert
+Atorvastatin 20 mg 0-0-1
+Calciumacetat 500 mg 1-0-1
+L-Thyroxin 150 ug 1-0-0
+Lercanidipin 10 mg 1-0-1
+Loperamid 2 mg 2-2-2
+Mirtazapin 15 mg 0-0-1
+Mucofalk 2-2-2
+Esomeprazol 40 mg 1-0-0
+Pregabalin 75 mg 1-0-0 reduziert
+Torasemid 5 mg 1-0-0 aktuell pausiert
+Ferrosanol 100 mg 1-0-0
+Tinktura opii 15-15-15-15
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Stationsarzt
+
+
+B-TITLE I-TITLE B-PER I-PER
+Funktionsoberarzt
+
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

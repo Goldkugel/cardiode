@@ -1,0 +1,435 @@
+Aufnahmedatum: <[Pseudo] 2036-04-15 >
+Geburtsdatum: <[Pseudo] 1983-04-07 >
+Alter: 53
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 07/04/1983> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Elektive Aufnahme zur routinemäßigen Koronarangiographie und LV-Myokardbiopsie
+-UNK- KHK ohne interventionsbedürftige Stenosen mit guter LV-Pumpfunktion -LRB- B-OTHER vom <[Pseudo] 12/04/2036> -RRB-
+-UNK- Komplikationslose Entnahmen multipler LV-Myokardbiopsien
+
+Diagnosen:
+- Z. n. Herztransplantation, LVAD-Explantation und CRT-D-Systemexplantation am <[Pseudo] 18/01/2035>
+-UNK- Transplantatstatus: Gute LV-Funktion
+-UNK- Aktuelle Immunsuppression: Sandimmun + CellCept
+-UNK- Initiale kardiale Diagnose: Nicht-ischämische Kardiomyopathie -LRB- DCM, Z. n. Perimyokarditis <[Pseudo] 2023> -RRB-
+-UNK- Z. n. LVAD-Implantation -LRB- SJM Heartmate 3 -RRB- am <[Pseudo] 28/01/2034>
+- Z. n. post-transplantativem VHF am <[Pseudo] 06/02/2035>
+- Chronische Niereninsuffizienz
+- Z. n. arterieller Muskelblutung in der Adduktorenloge rechts
+-UNK- Z. n. Coil-Embolisation eines proximalen AFP-Asts rechts am <[Pseudo] 07/02/2034>
+- Zwerchfellparese links
+- Z. n. Hashimoto-Thyreoiditis
+- Trochanter-major Schmerzsyndrom
+
+Kardiovaskuläre Risikofaktoren: Dyslipoproteinämie, früherer Nikotinkonsum wird verneint
+
+Allergien: Latex, ASS -LRB- Magenschmerzen -RRB- , ACE-Hemmer, Amoxicillin -LRB- Unacid vertragen -RRB- , Cefazolin -LRB- GI-Beschwerden -RRB- , Lidocain, Farben/Lacke/Lösungsmittel/Parfüm, diverse Nahrungsmittel, Pollinosis
+
+Anamnese:
+Die stationäre Aufnahme erfolgt zur routinemäßigen Koronarangiographie und Myokardbiopsie bei Z.n. HTX B-DATE
+Seit der letzten Vorstellung in unserer Ambulanz bestünde klinisch ein stabiler kardialer Verlauf. Auf explizite Nachfrage werden inadäquate Belastungsdyspnoe und belastungsinduzierten pectanginösen Beschwerden verneint. Keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen, kein Schwindel, keine stattgehabten Synkopen. Kein Hinweis auf einen rezenten Infekt und Fieber sowie Schüttelfrost in letzter Zeit werden verneint. Die häuslichen Blutdruckwerte lägen bei ca. 120/60 mmHg.
+
+Medikation bei Aufnahme:
+Oral
+Certican -LRB- Everolimus -RRB- in mg 1,00-0-1,00 Zielspiegel: 6,5-8,0
+Cellcept -LRB- Mycophenolat -RRB- in mg 500-0-500 Zielspiegel: 2,0-4,0
+Prednisolon 2,5 mg 1-0-0
+Ivabradin 7,5 mg 1-0-1
+Candesartan 4 mg 1-0-0
+Torasemid 10 mg 1-1/2-0
+Pravastatin 40 mg 0-0-1
+Pantoprazol 40 mg 1-0-0
+L-Thyroxin 75 µg 1-0-0
+Allopurinol 100 mg 1-0-0
+Dekristol 20.000 I.E. 1x/Woche -LRB- samstags -RRB-
+Epoetin alfa 2000 I.E. 1x pro Woche -LRB- mittwochs -RRB-
+
+Subkutan
+Toujeo in I.E. 0-0-6 bei Bedarf
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 167 cm, Gewicht: 74 kg -RRB-
+HF: 80/min, regelmäßig
+RR: 120/70 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 12/04/2036:>
+Normofrequenter Sinusrhythmus, regelmäßig, 76/min, Steillagetyp. PQ 154 ms, QRS 120 ms, QTc 455 ms. Kompletter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen in V1-V2. S-Persistenz bis V6. Ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 12/04/2036> -RRB- :
+Herzkatheteruntersuchung im Rahmen der HTX-Routine:
+
+Koronare 1-Gefäßerkrankung -LRB- R. diagonalis 1 -RRB- ohne interventionsbedürftige Stenosen. Gute linksventrikuläre Pumpfunktion mit grenzwertigen enddiastolischen Drücken im LV. Komplikationslose Entnahme von multiplen LV Myokardbiopsien. Postprozedural Ausschluss PE erfolgt.
+
+Vordiagnosen:
+Z.n. HTX B-DATE, initiale Diagnose DCMP/Z.n. Perimyokarditis DATE, post-transplant VHF, chronische NI
+CVRF: Hlp
+Multiple-Medikamentenallergien: u.a. Latex, ASS -LRB- Magenschmerzen -RRB- , ACE-Hemmer, Amoxicillin, Lidocain etc.
+
+Transthorakale Echokardiographie vom <[Pseudo] 13/04/2036:>
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion bei flacher Septumbewegungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA und RA leicht dilatiert und elongiert, RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Klappen sonographisch und dopplersonographisch regelrecht. Geringe Mitralinsuffizienz. Systolischer PA-Druck in Ruhe ist normal -LRB- ca. 25-30 mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 02/02/2036:> keine wesentliche Befundänderung.
+
+Pathologisch-anatomische Begutachtung mit kritischer Stellungnahme vom <[Pseudo] 13/04/2036:>
+Material:
+LV-Myocardbiopsie
+
+Klinische Angaben:
+Zustand nach HTX <[Pseudo] 2034>
+
+Makroskopie:
+Übersandt wurden neun bis 0,1 cm durchmessende Probebiopsate, insofern ISHLT-gerechte Probenentnahme. Kompletteinbettung -LRB- HE, PAS, AFOG -RRB- .
+
+Diagnose:
+Die makroskopische und histologische Begutachtung ergibt:
+Probebiopsate aus dem Arbeitsmyokard eines transplantierten Herzens mit Nachweis einer moderten akuten zellulären Rejektion -LRB- Grad 2 R -RRB- . Bzgl. der Frage nach einer humoralen Rejektion arbeiten wir das Material ergänzend immunhistochemisch auf. Ein entsprechender Nachbericht folgt. Das Material wurde als Schnelleinbettung aufgearbeitet und der Befund vorab telefonisch durchgegeben. Letzter Vorbefund: B-OTHER
+
+NACHBERICHT: <[Pseudo] 18/04/2036> - / ANT-ANT
+Zwischenzeitlich haben wir ergänzende immunhistochemische Untersuchungen durchgeführt. Innerhalb der CD34-positiven Kapillaren Nachweis einzelner CD68-positiver Makrophagen, jedoch keine herdförmigen intravaskulären Makrophagenaggregate in > 10% der Parenchymfläche. Kein Nachweis einer stärkergradigen oder linearen endothelständigen Expression von C4d -LRB- < 50% Immunreaktivität -RRB- . Konventionell-lichtmikroskopisch auch kein Nachweis ödematös geschwollener Endothelien mit Pyknose und/oder Karyorrhexis. Keine Hämorrhagien. Kein interstitielles Ödem. Abschließend und zusammenfassend somit kein Nachweis einer humoralen Rejektion -LRB- pAMR0 -RRB- .
+
+Ruhe-EKG vom <[Pseudo] 13/04/2036:>
+Normofrequenter Sinusrhythmus, regelmäßig, 70/min, Steillagetyp. PQ 153 ms, QRS 120 ms, QTc 440 ms. Kompletter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen in V1-V2. S-Persistenz bis V6. Ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 12/04/2036> und dem <[Pseudo] 13/04/2036>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.52
+4 - 10 /nl
+B-DATE
+Hb
+9.6 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.4 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.300 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+29
+27 - 33 pg
+<[Pseudo] 13/04/36>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 13/04/36>
+RDW
+13.8
+12,9 - 18,7 %
+<[Pseudo] 13/04/36>
+hypochr.Erythroz.
+2.9 !H
+0 - 2 %
+B-DATE
+Thrombozyten
+149 !L
+150 - 440 /nl
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+143
+135 - 146 mmol/l
+<[Pseudo] 13/04/36>
+Kalium -LRB- ISE -RRB-
+3.98
+3,4 - 4,8 mmol/l
+B-DATE
+Calcium
+2.53
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+1.45 !H
+0,5 - 0,9 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+53 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+41.1 !L
+>60 s.u.
+B-DATE
+MDRD
+32.73
+ml/min/1,73qm
+<[Pseudo] 12/04/36>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+46.6
+30 - 50 g/l
+B-DATE
+Glucose
+114 !H
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+21
+- <35 U/l
+B-DATE
+GGT
+18
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.40
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+7.9 !H
+- <6 mg/dl
+B-DATE
+Triglyceride
+275 !H
+- <150 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+220.0
+- alt.abh. mg/dl
+<[Pseudo] 12/04/36>
+LDL-Chol. -LRB- berechn. -RRB-
+116
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+49 !L
+>50 mg/dl
+B-DATE
+CRP
+5.3 !H
+- <5 mg/l
+<[Pseudo] 12/04/36>
+Hämolyse
+-
+
+<[Pseudo] 13/04/36>
+ikterisch
+-
+
+<[Pseudo] 13/04/36>
+Lipämie
+-
+
+<[Pseudo] 13/04/36>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+317 !H
+- <308 U/l
+B-DATE
+CK
+196 !H
+- <170 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+77.3 !H
+- <14 pg/ml
+<[Pseudo] 13/04/36>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+6.4 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+46 !H
+20 - 42 mmol/mol
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+137 !H
+- <110 mg/dl
+B-DATE
+TSH
+0.940
+0,400 - 4,000 mU/l
+<[Pseudo] 12/04/36>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+99.9
+70 - 125 %
+<[Pseudo] 13/04/36>
+INR - ber.
+1.01
+- <1.2
+<[Pseudo] 13/04/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+20.2
+- <35 s
+<[Pseudo] 13/04/36>
+
+
+Medikamentenspiegel & Toxikologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MPA -LRB- MS -RRB-
+3.00
+1,5 - 5 mg/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Everolimus
+6.7
+3 - 8 µg/l
+<[Pseudo] 12/04/36>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme erfolgt zur routinemäßigen Koronarangiographie und LV-Myokardbiopsie bei Z. n. HTX B-DATE Es besteht klinisch und echokardiographisch ein stabiler Verlauf mit stabiler Belastbarkeit und guter LV-Pumpfunktion.
+
+In der am <[Pseudo] 12/04/2036> durchgeführten Herzkatheteruntersuchung zeigte sich eine koronare 1-Gefäßerkrankung -LRB- R. diagonalis 1 -RRB- ohne interventionsbedürftige Stenosen mit global guter linksventrikulärer Pumpfunktion. Es erfolgte die komplikationslose Entnahme multipler Biopsien, ein postprozeduraler Perikarderguss konnte mehrfach echokardiographisch ausgeschlossen werden. Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle. Die histopathologische Beurteilung der Biopsate ergab eine moderate akute zellulären Rejektion -LRB- Grad 2 R -RRB- , es zeigte sich kein Hinweis auf eine humorale Rejektion -LRB- pAMR0 -RRB- . Dementsprechend leiteten wir eine Decortintherapie wie unten angegeben ein. Wir bitten diese bis einschließlich dem <[Pseudo] 18/04/2036> fortzuführen.
+
+Postinterventionell zeigte sich echokardiographisch ein normal großer linker Ventrikel mit guter systolischer Pumpfunktion bei flacher Septumbewegungen. Es war kein Perikarderguss nachweisbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 02/02/2036> zeigte sich keine wesentliche Befundänderung.
+
+Die Spiegelbestimmungen der immunsuppressiven Medikation wiesen auf subtherapeutische Medikamentenspiegel hin, so dass die Therapie wie unten angeführt angepasst wurde.
+
+Wir bitten um eine Wiedervorstellung in unserer B-ORG -LRB- Tel. B-PHONE -RRB- zum Aufklärungsgespräch zur Durchführung einer Myokardbiopsie am <[Pseudo] 10/05/2036> um 10:00 Uhr sowie um eine Wiedervorstellung zur stationären Aufnahme auf B-ORG I-ORG zur Durchführung einer Myokardbiopsie am <[Pseudo] 17/05/2036> um 07:30 Uhr. Wir bitten die Patientin einen aktuellen Medikamenteneinnahmeplan mitzuführen und nüchtern zu erscheinen.
+
+Des Weiteren bitten wir um eine Wiedervorstellung zur Verlaufskontrolle in drei Monaten in unserer B-ORG -LRB- Tel. B-PHONE -RRB- , der nächste Termin hierfür wurde bereits für den <[Pseudo] 19/07/2036> um 08:00 Uhr in unserer Herzinsuffizienz-Ambulanz vereinbart. Wir bitten die Patientin einen aktuellen Überweisungsschein sowie den Medikamenteneinnahmeplan mitzuführen und Wartezeiten von 4 - 6 Stunden einzuplanen.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen B-SALUTE B-PER mit einem Entlassgewicht von 75 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+Procedere/Termine:
+- Nächste Laborkontrolle: am <[Pseudo] 18/04/2036> -LRB- Medikamentenspiegel, Blutbild, Niere -RRB- .
+- Für Medikamentenspiegel bitte 1x EDTA-Vollblut -LRB- Inklusive Medikamentenplan -RRB- per Postversand an unsere HTX-Ambulanz. Ggf. Blutbild und Nierenparameter per Fax an uns -LRB- Fax B-PHONE -RRB- .
+- Termin zum Aufklärungsgespräch am <[Pseudo] 10/05/2036> um 10:00 Uhr in unserer Herzinsuffizienz-Ambulanz
+- Termin zur stationären Aufnahme auf B-ORG I-ORG zur Durchführung einer Myokardbiopsie am <[Pseudo] 17/05/2036> um 07:30 Uhr
+- Nächster Termin: <[Pseudo] 19/07/2036> um 08:00 Uhr in unserer Herzinsuffizienz-Ambulanz
+
+Therapieempfehlung:
+Oral
+Certican -LRB- Everolimus -RRB- in mg 1,25-0-1,00 Zielspiegel: 6,5-8,0 erhöht!
+Cellcept -LRB- Mycophenolat -RRB- in mg 500-0-500 Zielspiegel: 2,0-4,0
+Prednisolon 2,5 mg 1-0-0
+Ivabradin 7,5 mg 1-0-1
+Candesartan 4 mg 1-0-0
+Torasemid 10 mg 1-1/2-0
+Pravastatin 40 mg 0-0-1
+Pantoprazol 40 mg 1-0-0
+L-Thyroxin 75 µg 1-0-0
+Allopurinol 100 mg 1-0-0
+Dekristol 20.000 I.E. 1x/Woche -LRB- samstags -RRB-
+Epoetin alfa 2000 I.E. 1x pro Woche -LRB- mittwochs -RRB-
+Decortin 100 mg 1-0-0 neu, bis einschließlich dem <[Pseudo] 18/04/2036>
+Subkutan
+
+Toujeo in I.E. 0-0-6 bei Bedarf
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der B-ORG I-ORG I-ORG I-ORG -LRB- ORG -RRB- .
+
+Wegen der vielfältigen Möglichkeiten von Arzneimittelinteraktionen bitten wir bei allen Änderungen der Medikation -LRB- insbesondere der Immunsuppression -RRB- oder Auftreten von Problemen um eine direkte Kontaktaufnahme mit uns. Außerhalb der Ambulanzzeiten wenden Sie sich bitte bei Notfällen an unsere B-ORG -LRB- Tel. B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Stationsarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

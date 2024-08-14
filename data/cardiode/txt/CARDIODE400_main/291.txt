@@ -1,0 +1,276 @@
+Aufnahmedatum: <[Pseudo] 2041-07-05 >
+Geburtsdatum: <[Pseudo] 1968-08-10 >
+Alter: 72
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 10/08/1968> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Erfolgreiche PTCA/ 1x DE-Stentimplantation -LRB- Synergy Megatron -RRB- des ostialen Hauptstamms -LRB- B-OTHER v. <[Pseudo] 05/07/2041> -RRB-
+- Koronare 3-Gefäßerkrankung mit 90% hoher Hauptstammstenose bei global noch guter linksventrikulärer Pumpfunktion
+-UNK- Echokardiographisch noch gute linksventrikuläre Funktion -LRB- TTE vom <[Pseudo] 02/07/2041> -RRB-
+-UNK- Klinisch weitere Zunahme der Beschwerdesymptomatik
+- Koronare 3-Gefäßerkrankung mit global leichtgradig eingeschränkter Pumpfunktion bei ca. 50%iger Hauptstammstenose -LRB- B-OTHER, vom <[Pseudo] 21/06/2039> -RRB-
+-UNK- CT-morphologisch ausgeprägte Koronarkalzifizierung mit im Wesentlichen koronarer Zweigefäßerkrankung von LAD und RCA <[Pseudo] 12/2032>
+-UNK- Negative pharmakologische Stressechokardiographie <[Pseudo] 02/2033>
+-UNK- Kein Hinweis auf belastungsinduzierte Myokardischämie -LRB- Myokardszintigraphie <[Pseudo] 10/2033> -RRB-
+-UNK- Negativer Ischämienachweis mittels Stress-Kardio-MRT <[Pseudo] 11/11/2039>
+- VES Lown IVB -LRB- LZ-EKG extern vom <[Pseudo] 03/03/2039> -RRB-
+- COPD, Stadium GOLD IIIB
+-UNK- O2-Heimtherapie seit <[Pseudo] 2027>
+- Anamnestisch 50%ige Stenose der Aorta abdominalis -LRB- letzte Kontrolle <[Pseudo] 2031> -RRB-
+- pAVK
+-UNK- Mehrere max. mittelgradige Stenosen der AFC sowie AFS, zuletzt konservatives Procedere empfohlen -LRB- Farbduplexsonographie <[Pseudo] 25/12/2038> -RRB-
+- Diabetes Mellitus Typ 2, diätisch eingestellt.
+-UNK- V.a. diabetische PNP
+- Manifeste Osteoporose
+- Chronische Niereninsuffizienz St. II
+-UNK- Frakturen BWK 8 und LWK 5
+- HWS-Syndrom mit Sensibilitätsstörungen auf Höhe C 7/8
+- Z.n. NP-Prolaps C5/C6 -LRB- Hemiparese und Parästhesien rechtsseitig -RRB-
+
+Kardiovaskuläre Risikofaktoren: arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus Typ 2, Ex-Nikotinkonsum -LRB- ca. 25 py -RRB-
+
+Allergien: keine bekannt, Unverträglichkeit auf Ranolazin -LRB- Schwindel, Übelkeit -RRB- sowie Nitro-Spray -LRB- Übelkeit -RRB-
+
+Indikation für stationären Herzkatheter:
+- PTCA und Stentimplantation mit postinterventioneller Überwachungspflicht von mehr als 8h sowie erhöhtem Risiko einer Nachblutung
+
+Anamnese:
+Die aktuelle Vorstellung des Patienten erfolgt über unsere B-ORG I-ORG zur Herzkatheteruntersuchung bei V.a. Progress der koronaren Herzerkrankung. Aufgrund der Dyspnoe bei COPD und bei zusätzlicher Cox- und Gonarthrose sitzt der Patient im Rollstuhl und sei daher nur sehr eingeschränkt belastbar. Es bestehe weiterhin -LRB- fast täglich -RRB- ein belastungsunabhängiges retrosternales Druckgefühl. Ranolazin habe der Patient nicht gut vertragen und daher nicht eingenommen. Zudem bestehe zunehmender Schwindel sowohl in Ruhe als auch bei Lageveränderung. Palpitationen oder stattgehabte Synkopen werden verneint. Periphere Ödeme seien Gewichtkonstanz in den letzten Monaten nicht aufgefallen. Die unregelmäßig erhobenen häuslichen Blutdruckwerte lägen bei ca. 115/60 mmHg. Subjektiv bestehe seit der letzten Vorstellung ein verschlechterter Verlauf.
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 164cm, 70kg
+HF: 85/min, regelmäßig
+RR: 120/70mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: abgeschwächtes vesikuläres AG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, regelmäßig, 85/min, Rechtstyp. PQ: 164ms, QRS: 144ms, QTc: 431ms. Vorbekannter kompletter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 05/07/2041> -RRB- :
+Befund folgt im endgültigen Brief.
+
+Ruhe-EKG nach Intervention:
+Normofrequenter Sinusrhythmus, regelmäßig, Herzfrequenz 72/min, Rechts-Typ, PQ 188 ms, QRS 145 ms, QTc 430 ms. Vorbekannter kompletter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 02/07/2041> und dem <[Pseudo] 06/07/2041>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+10.01 !H
+4 - 10 /nl
+B-DATE
+Hb
+15.8
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.1
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.460
+0,38 - 0,52 l/l
+B-DATE
+MCV
+90
+83 - 97 fl
+<[Pseudo] 02/07/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+31
+27 - 33 pg
+<[Pseudo] 02/07/41>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 02/07/41>
+RDW
+13.3
+12,9 - 18,7 %
+<[Pseudo] 02/07/41>
+hypochr.Erythroz.
+0.3
+0 - 2 %
+<[Pseudo] 02/07/41>
+Thrombozyten
+304
+150 - 440 /nl
+<[Pseudo] 02/07/41>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 02/07/41>
+Kalium -LRB- ISE -RRB-
+3.85
+3,4 - 5,0 mmol/l
+<[Pseudo] 02/07/41>
+Kreatinin
+1.01
+0,6 - 1,4 mg/dl
+<[Pseudo] 02/07/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+31
+- <45 mg/dl
+<[Pseudo] 02/07/41>
+GFR, CKD-EPI
+74.0
+>60 s.u.
+<[Pseudo] 02/07/41>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 02/07/41>
+ikterisch
+-
+
+<[Pseudo] 02/07/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lipämie
+-
+
+<[Pseudo] 02/07/41>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+7.43
+- <14 pg/ml
+B-DATE
+
+
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.94
+0,400 - 4,000 mU/l
+<[Pseudo] 02/07/41>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+94.2
+70 - 125 %
+<[Pseudo] 02/07/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+INR - ber.
+1.04
+- <1.2
+<[Pseudo] 02/07/41>
+
+
+
+
+
+Zusammenfassung:
+In der Herzkatheteruntersuchung zeigte sich eine koronare 3-Gefäßerkrankung mit 90% hoher Hauptstammstenose bei global noch guter linksventrikulärer Pumpfunktion. Wir haben eine erfolgreiche PTCA und 1x DE-Stentimplantation -LRB- Synergy Megatron -RRB- des ostialen Hauptstamms durchgeführt. Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- . Postinterventionell zeigten sich keine signifikanten EKG-Veränderungen und kein signifikanter Troponin-Anstieg.
+
+Dem Patienten wurde ein Implantatausweis ausgehändigt. Er wurde über notwendige Verhaltensanweisungen informiert.
+
+Procedere:
+Wir empfehlen die kombinierte Thrombozytenaggregationshemmung mit ASS und Clopidogrel für mindestens 12 Monate nach Intervention. Anschließend ist eine dauerhafte Thrombozytenaggregationshemmung mit ASS 100 mg täglich ausreichend. Der Patient wurde über die Notwendigkeit einer lückenlosen Einnahme von ASS und Clopidogrel bis zum unten genannten Datum ausführlich aufgeklärt.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der unten aufgeführten medikamentösen Therapie. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Nächster Termin/Kontrolle:
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchungen, welche gerne auch bei einem niedergelassenen B-SALUTE durchgeführt werden können. Falls gewünscht kann hierfür auch ein Termin in unserer B-ORG I-ORG -LRB- Tel.: B-PHONE -RRB- vereinbart werden.
+
+Therapieempfehlung:
+Acetylsalicylsäure 100mg 1-0-0
+Clopidogrel 75 mg 1-0-0, neu bis <[Pseudo] 05/07/2042>
+Nebivolol 5mg 1-0-0
+Enalapril 20mg 1-0-1
+Amlodipin 5mg 1-0-1/2
+Torasemid 5mg 1-0-0
+Librolog Pen 100 Einheiten/mL nach Schema
+Lantus Pen 100 Einheiten/mL nach Schema
+Simvastatin 40mg 0-0-1
+Symbicort Turbohaler 320/9 1-0-1
+Spiriva 18ug 1-0-0
+LTOT 3-4 Liter >18h
+Crataegeus Verla cor 450mg 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 06/07/2041> in Ihre geschätzte ambulante Betreuung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die Überweisung und vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

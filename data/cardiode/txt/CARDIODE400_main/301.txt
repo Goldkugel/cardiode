@@ -1,0 +1,526 @@
+Aufnahmedatum: <[Pseudo] 2035-02-12 >
+Geburtsdatum: <[Pseudo] 1966-07-26 >
+Alter: 68
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 26/07/1966> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Vorhofflimmerrezidiv bei bekanntem paroxysmales Vorhofflimmern
+-UNK- Elektrische Kardioversion in den normofrequenten Sinusrhythmus am <[Pseudo] 02/02/2035>
+-UNK- Erfolgreiche Pulmonalvenenisolation in Cryo Technik -LRB- B-OTHER v. <[Pseudo] 08/02/2035> -RRB-
+-UNK- Z. n. Erfolgreicher eCV in den SR am <[Pseudo] 07/11/2033>
+-UNK- Z. n. erfolgloser elektrischer Kardioversion am <[Pseudo] 24/12/2032>
+
+- Ausschluss relevante Koronare Herzerkrankung
+-UNK- Im Wesentlichen unauffällige Koronarien bei angiographisch mittelgradig eingeschränkter LV-Funktion unter TAA mit V.a. Tachymyopathie DD DCMP -LRB- B-OTHER v. <[Pseudo] 04/11/2033> -RRB-
+-UNK- Mittel- bis hochgradig eingeschränkte systolische LV-Pumpfunktion -LRB- TTE <[Pseudo] 07/11/2033> -RRB-
+- V.a. Pityriasis versicolor
+-UNK- Epipevaryl Therapie und ambulante dermatologische Weiterbehandlung empfohlen
+
+Kardiovaskuläre Risikofaktoren: arterielle Hypertonie, Hypercholesterinämie. Nikotinanamnese: Raucher 40 py
+Allergien: Penicillin
+
+Anamnese:
+Die stationäre Aufnahme erfolgte bei symptomatischem Vorhofflimmerrezidiv durch den niedergelassenen Kollegen. Insgesamt bestehe eine Dyspnoe analog NYHA II seit ca. 2 Monaten sowie episodische Schwindelanfälle ohne Ohnmacht. Kein Hinweis auf einen akuten Infekt -LRB- kein Husten, kein Schnupfen, keine Heiserkeit, kein Fieber, kein Brennen beim Wasserlassen -RRB-
+
+Medikation bei Aufnahme:
+Eliquis 5 mg 1-0-1
+Metoprolol 47,5 mg 1-0-1/2
+Ramipril 5 mg 1-0-0
+Eplerenon 25 mg 1-0-0
+Simvastatin 20 mg 0-0-1
+Dronedaron 400 mg 1-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- 175 cm,68 kg -RRB-
+BMI 22 kg/m²
+HF: 100/min, regelmäßig
+RR: 140/90 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: unauffällig
+Neurol. Status: unauffällig
+sonstige Auffälligkeiten: klinischer V.a. . Pityriasis versicolor stammbetontes Exanthem -LRB- Bilddokumentation erfolgte -RRB- . Auffälliger Zahnstatus
+
+Ruhe-EKG bei Aufnahme:
+Tachykardes Vorhofflimmern HF 110 S/min, Rechsschenkelblock mit konsekutiven Kammendteilveränderungen -LRB- vorbekannt -RRB- .
+
+Ruhe EKG vom <[Pseudo] 03/02/2035>
+Sinusrhythmus HF 49 S/min, bekannter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen. QTc nach PER -LRB- <[Pseudo] 2017> -RRB- : 466 ms.
+
+Ruhe EKG vom <[Pseudo] 05/02/2035>
+Sinusrhythmus HF 53 S/min, bekannter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen. QTc nach PER -LRB- <[Pseudo] 2017> -RRB- : 523 ms.
+
+Ruhe EKG vom <[Pseudo] 06/02/2035:>
+Sinusrhythmus HF 50 S/min, bekannter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen. QTc nach per -LRB- <[Pseudo] 2017> -RRB- : 523 ms.
+
+Ruhe EKG vom <[Pseudo] 07/02/2035>
+Sinusrhythmus HF 43 S/min, bekannter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen. QTc nach PER -LRB- <[Pseudo] 2017> -RRB- : 519 ms.
+
+Ruhe EKG vom <[Pseudo] 08/02/2035>
+Sinusrhythmus HF 45 S/min, QRS 146 ms, bekannter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen. QTc nach PER -LRB- <[Pseudo] 2017> -RRB- : 534 ms.
+
+Ruhe EKG vom <[Pseudo] 09/02/2035>
+Sinusrhythmus HF 68 S/min, QRS 145 ms, bekannter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen. QTc nach PER -LRB- <[Pseudo] 2017> -RRB- : 513 ms.
+
+Belastungs-EKG vom <[Pseudo] 05/02/2035:>
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 75 Watt über 01:27 min. Maximale Frequenz 105/min -LRB- 69 % der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 158 mmHg, diastolisch 96 mmHg. Abbruch wegen peripherer Ermüdung. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Bei Nichterreichen der Ausbelastungsfrequenz und in Ruhe bereits komplettem RSB mit konsekutiven KETV eingeschränkte Beurteilbarkeit. Unter maximaler Belastung bleiben die o.g. Veränderungen gleich
+Durchgehend Sinusrhythmus. Vereinzelt VES -LRB- 2 -RRB- . Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck. Keine höhergradigen Herzrhythmusstörungen unter Belastung.
+
+Langzeit-EKG vom <[Pseudo] 05/02/2035:>
+Bradykarder Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 33/min und 91/min, im Mittel 52/min.
+Normale Herzfrequenzvariabilität.
+Einige supraventrikuläre Extrasystolen, z.T. auch repetitiv und als atriale Salven -LRB- längste über 4 Schläge, schnellste mit 109/min -RRB- . Keine Pausen. Vereinzelte polymorphe ventrikuläre Extrasystolen, 1 Couplet. Lown IV a.
+
+Ruhe EKG vom <[Pseudo] 06/02/2035:>
+Sinusrhythmus HF 50 S/min, bekannter Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen. QTc nach Rautaharju -LRB- <[Pseudo] 2017> -RRB- : 500 ms.
+
+Transösophageale Echokardiographie vom <[Pseudo] 07/02/2035:>
+3D-TEE-Untersuchung unter Lokalanästhesie und 2 mg Midazolam i.v. komplikationslos durchgeführt.
+Transösophageale Echokardiographie
+Kein Nachweis intrakardialer Thromben. Verminderte Flussgeschwindigkeiten im linken Vorhofohr. 2 rechte und 2 linke Lungenvenen münden regelrecht in den linken Vorhof ein.
+Regelrechtes Vorhofseptum ohne farbdopplersonographischem Nachweis eines Shunts.
+Thrombogener Aortenbogen - Grad II, ansonsten Aorta ascendens, Bogen und descendens - soweit einsehbar - regelrecht.
+Grenzwertig großer linker Ventrikel mit leichtgradig verminderter systolischer Pumpfunktion bei Hypokinesie des Apex und der angrenzenden Wandabschnitte. Verminderte longitudinale Funktion. LA und RA dilatiert und elongiert, RV normal groß mit noch guter RV-Funktion.
+Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Aorten- und Mitralklappe verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist nicht valide ableitbar.
+Im Vergleich zur TEE Voruntersuchung vom <[Pseudo] 07/11/2033:> Besserung der LV Pumpfunktion im Sinusrhythmus.
+
+Transthorakhale Echokardiographie vom <[Pseudo] 07/02/2035:>
+Grenzwertig großer linker Ventrikel mit leichtgradig verminderter systolischer Pumpfunktion bei Hypokinesie des Apex und der angrenzenden Wandabschnitte. Verminderte longitudinale Funktion. LA und RA dilatiert und elongiert, RV normal groß mit noch guter RV-Funktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aorten- und Mitralklappe verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist nicht valide ableitbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 07/11/2033:> Besserung der LV Pumpfunktion im Sinusrhythmus.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 07/02/2035:>
+Mehrere Voraufnahmen vorliegend, zuletzt zum Vergleich eine Projektionsradiografie vom B-DATE.
+Befund und Beurteilung:
+Randwinkel basal nicht vollständig erfasst.
+Kleine Ergussverschwielungen im Randwinkel bds. Keine Infiltrate oder Stauungszeichen. Keine Pleuraablösung. Schlankes oberes Mediastinum. Grenzwertige Herzbreite bei einem HTQ von 17/34. Frei einsehbarer Retrosternal- und Retrokardialraum, projektionsradiographisch kein Nachweis suspekter pulmonaler Rundherde. Degenerative Skelettveränderungen. Z.n. Fraktur der 7. und 8. laterale Rippe rechts, soweit in einer Ebene beurteilbar mit zunehmender Verdickung der Rippen zur B-YEAR, konstant zur VU, a.e. bei Callusbildung, unverändert fragliche Kortikalisunterbrechung. Meteorismus.
+
+Hautklinik/Konsil vom <[Pseudo] 08/02/2035:>
+Procedere:
+Lokaltherapie:
+Epipevaryl Creme
+2xtgl. auf befallene Körperstellen
+
+Epipevaryl p.v. Lösung
+An 3 Abenden infolge vor dem Schlafengehen 1 Beutel nach dem Duschen in feuchte Kopfhaut und befallene weitere Körperstellen einmassieren -LRB- wenn möglich -RRB-
+Medikation:
+/
+
+
+Ergänz. Diagnostik:
+Tesabriss: Tesafilm auf befallenes Areal aufkleben und abziehen. In Kulturschale mit den Rändern so einkleben, dass Klebestreifen nach oben in die Luft zeigt. Kulturschale unter Verwendung von z.B. Tesafilm sicher verschließen. Anforderung Mykologie im ISH -LRB- I-ORG -RRB- anlegen. Verschlossene und zugeklebte Kulturschale mit aufgeklebtem Patientenetikett und beiliegender Anforderung an B-ORG Labor der Hautklinik schicken.
+Sonstiges:
+Re-Konsil falls Befundprogress /-verschiebung.
+
+
+
+Pulmonalvenenisolation -LRB- B-OTHER <[Pseudo] 08/02/2035> -RRB- :
+2-fache Punktion der V. femoralis dextra. Vorführen eines steuerbaren, diagnostischen 4-poligen Katheters in den CS.
+Problemlose 1-fache transseptale Punktion. Einführen der FlexCath-Schleuse in das LA. Transnasales Einführen der Temperatursonde in den Ösophagus -LRB- FIAB -RRB- . Angiographie der LSPV, RSPV, LIPV und RIPV jeweils nach Inflation des Cryoballons. Isolation der lateralen Pulmonalvenen -LRB- LSPV 1, LIPV 1 -RRB- . Isolation der septalen Pulmonalvenen -LRB- RSPV 1, RIPV 1 -RRB- .
+Minimale Temperaturen und -UNK- time to isolation -UNK- in LSPV -LRB- -47°C/70s -RRB- , LIPV -LRB- -52°C/20s -RRB- , RSPV -LRB- -54°C/nm -RRB- und RIPV -LRB- -53°C/60s -RRB- .
+Kein Hinweis auf Parese des N. phrenicus -LRB- Kontrolle durch kontinuierliche Phrenicusstimulation -RRB- . Postablationem Nachweis eines Entranceblocks aller PVs. Postinterventionell Ausschluss eines Perikardergusses durch Echokardiographie.
+Zusammenfassung: Pulmonalvenenisolation in Cryo-Technik.
+Proc.: DV 8 h. Echo-Kontrolle morgen früh zum PE-Ausschluss wiederholen. Bei Blutstille Fortführung der OAK mit Eliquis ab heute Abend 20 Uhr. Bitte LZ-EKG Kontrollen heimatnah -LRB- auch zum Ausschluss relevanter Bradykardien -RRB- und WV in der zuweisenden Praxis zur Befundkontrolle. 40 mg Pantoprazol 1x/die für 10 Tage post ablationem.
+
+Echokardiographie vom <[Pseudo] 09/02/2035:>
+Untersuchung am Bett. Fokussierte Fragestellung.
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2034> und dem B-DAY B-MONTH <[Pseudo] 2034>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+10.41 !H
+4 - 10 /nl
+B-DATE
+Hb
+15.6
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.2 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.450
+0,38 - 0,52 l/l
+B-DATE
+MCV
+107 !H
+83 - 97 fl
+<[Pseudo] 09/02/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+<NONE> !H
+27 - 33 pg
+B-DATE
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 09/02/35>
+RDW
+15.4
+12,9 - 18,7 %
+<[Pseudo] 09/02/35>
+hypochr.Erythroz.
+0.9
+0 - 2 %
+<[Pseudo] 09/02/35>
+Thrombozyten
+177
+150 - 440 /nl
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+136
+135 - 146 mmol/l
+<[Pseudo] 09/02/35>
+Kalium -LRB- ISE -RRB-
+5.06 !H
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.44
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+0.89
+0,6 - 1,3 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+31
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+87.9
+>60 s.u.
+B-DATE
+MDRD
+115.16
+ml/min/1,73qm
+<[Pseudo] 03/02/35>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+38.5
+30 - 50 g/l
+<[Pseudo] 03/02/35>
+Glucose
+100
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+58 !H
+- <46 U/l
+B-DATE
+GPT/ALT
+37
+- <50 U/l
+B-DATE
+GGT
+135 !H
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.80
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+5.3
+- <7 mg/dl
+<[Pseudo] 03/02/35>
+Triglyceride
+125
+- <150 mg/dl
+<[Pseudo] 03/02/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+155.0
+- alt.abh. mg/dl
+<[Pseudo] 03/02/35>
+LDL-Chol. -LRB- berechn. -RRB-
+92
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+38 !L
+>40 mg/dl
+B-DATE
+CRP
+48.5 !H
+- <5 mg/l
+<[Pseudo] 07/02/35>
+PCT sens.
+0.10 !H
+- <0,05 ng/ml
+<[Pseudo] 07/02/35>
+Hämolyse
+-
+
+<[Pseudo] 09/02/35>
+ikterisch
+-
+
+<[Pseudo] 09/02/35>
+Lipämie
+-
+
+<[Pseudo] 09/02/35>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+207
+- <342 U/l
+B-DATE
+CK
+31
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+10.1
+- <14 pg/ml
+B-DATE
+NT-BNP
+1145 !H
+- <125 ng/l
+<[Pseudo] 02/02/35>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.4
+- <6,1 %
+<[Pseudo] 03/02/35>
+HbA1c -LRB- IFCC -RRB-
+36
+20 - 42 mmol/mol
+<[Pseudo] 03/02/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+108
+- <110 mg/dl
+<[Pseudo] 03/02/35>
+TSH
+0.580
+0,400 - 4,000 mU/l
+<[Pseudo] 03/02/35>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+83.9
+70 - 125 %
+<[Pseudo] 07/02/35>
+INR - ber.
+1.09
+- <1.2
+<[Pseudo] 07/02/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+21.2
+- <35 s
+<[Pseudo] 07/02/35>
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+6.00
+6,0 - 8,0
+<[Pseudo] 07/02/35>
+SpezGew/Tstr.
+1023
+1001 - 1035
+<[Pseudo] 07/02/35>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 07/02/35>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 07/02/35>
+Ketone /Tstr.
+Spur
+- neg. mg/dl
+<[Pseudo] 07/02/35>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 07/02/35>
+Eiweiß/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 07/02/35>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+1.0
+- <2,0 mg/dl
+<[Pseudo] 07/02/35>
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 07/02/35>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+0
+- <8 /µl
+B-DATE
+Leuko/µl
+1.0
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+B-DATE
+
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte bei tachykardem Vorhofflimmerrezidiv unter Dronedaron.
+
+Bei durchgehend eingenommener oraler Antikoagulation erfolgte eine elektrische Kardioversion in den normofrequenten Sinusrhythmus. Nach letztmaligem Ausschluss einer relevanten Koronaren Herzerkrankung erfolgte nach oberärztlicher RS eine Cryo-PVI.
+
+Am <[Pseudo] 08/02/2035> erfolgte nach TEE mittels Thrombenausschluss eine Cryo-Ablation bei bestehendem symptomatischem Vorhofflimmern.
+
+Ein Perikarderguss konnte nach der Intervention mehrfach ausgeschlossen werden. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich kein Anhalt für Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstellen
+
+Im EKG am Folgetag zeigte sich eine Sinusbradykardie. Wir bitten um regelmäßige Kontrolle der QTc Zeit nach Absetzen von Dronedaron. Wir bitten um ambulante LZ EKG Durchführung.
+
+Nebenbefundlich zeigte sich ein stammbetontes Exanthem bei V.a.. Pityriasis versicolor es erfolgte eine Bilddokumentation und eine dermatologische Mitbeurteilung. Wir empfehlen u.g. Cremetherapie und eine ambulante dermatologische Vorstellung zur Tesafilmdiagnostischen Sicherung. Zusätzlich zeigte sich ein auffälliger Zahnstatus bei labrochemisch leicht erhöhtem CRP. Wir empfehlen eine zeitnahe zahnärztliche ambulante Vorstellung.
+
+Wir passten die bestehende Medikation wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Des Weiteren begannen wir zur Lipidsenkung und Plaquestabilisierung eine Therapie mit einem Statin. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen den Patient kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+Procedere/Termine:
+- Regelmäßige EKG Kontrolle zur Kontrolle der QTc Zeit
+- LZ EKG zum Ausschluss relevanter Bradykardien
+- Medikation wie unten beschrieben
+-UNK- Wiedervorstellung bei Beschwerden jederzeit
+- Dermatologische Vorstellung bei V.a. Pityriasis versicolor -LRB- Tesafilmabriss empfohlen -RRB-
+- Ambulante zahnärztliche Vorstellung empfohlen
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Eliquis 5 mg 1-0-1
+Pantozol 40 mg 1-0-0 bis einschließlich <[Pseudo] 19/02/2035>
+Bisoprolol 2,5 mg 1-0-1
+Bitte regelmäßige Kontrolle von Herzfrequenz und Blutdruck und ggf. Anpassung der Dosis im Verlauf
+Ramipril 5 mg 1-0-0
+Bitte regelmäßige Kontrolle der Elektrolyt- und Retentionsparameter und ggf. Anpassung der Dosis im Verlauf
+Atorvastatin 20 mg 0-0-1
+Bitte regelmäßige Kontrolle der CK sowie Transaminasen und LDL Zielwerte nach aktuellen Leitlinien
+Tamsulosin 0,4 mg 0-0-1
+
+Creme/Lösungen:
+Epipevaryl Creme 2x tägl.
+Epipevaryl p.v. Lösung 0-0-1
+An 3 Abenden infolge vor dem Schlafengehen 1 Beutel nach dem Duschen in feuchte Kopfhaut und befallene weitere Körperstellen einmassieren -LRB- wenn möglich -RRB-
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Stationsarzt

@@ -1,0 +1,355 @@
+Aufnahmedatum: <[Pseudo] 2034-03-21 >
+Geburtsdatum: <[Pseudo] 1967-01-26 >
+Alter: 67
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 26/01/1967> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Diskret verlängerte infrahisäre Leitungszeit, normale infrahisäre Leitungsreserve -LRB- B-OTHER vom <[Pseudo] 19/03/2034> -RRB-
+
+Diagnose:
+- Bradyarrhythmia absoluta im Langzeit-EKG mit intermittierender AV-Block II° Typ Wenckebach
+-UNK- Z.n. Synkope am <[Pseudo] 26/02/2034>
+- Koronare 1-Gefäßerkrankung der LCX mit global guter LV Funktion
+-UNK- 50-75%iger Stenose des R. intermedius. Noch normaler LVEDP -LRB- B-OTHER v. <[Pseudo] 28/02/2034> -RRB-
+-UNK- Negatives Stress-Echokardiogramm vom <[Pseudo] 03/03/2034>
+- paroxysmales Vorhofflimmern mit intermittierender Bradyarrythmia absoluta
+-UNK- EHRA: I-II
+-UNK- CHADSVASc: 2
+-UNK- HAS-Bled: 1
+-UNK- LA-Diameter: 38mm -LRB- TTE vom <[Pseudo] 03/03/2034> -RRB-
+-UNK- LVEF: gut -LRB- TTE vom <[Pseudo] 03/03/2034> -RRB-
+-UNK- Keine Frequenzkontrolle bei BAA
+- anamnestisch Z.n. rheumatischem Fieber <[Pseudo] 1989>
+- anamnestisch Z.n. Borreliose <[Pseudo] 2023>
+
+Kardiovaskuläre Risikofaktoren: Hypercholesterinämie, Arterielle Hypertonie.
+Allergien/Unverträglichkeiten: Heuschnupfen Apfel, Karotte
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur diagnostischen EPU bei Z.n. einmaliger Synkope und einem AV Block II° Typ Wenckebach im Langzeit-EKG in der B-ORG B-TITLE I-TITLE B-PER
+Der Patient berichtet bei Aufnahme über eine unveränderte körperliche Belastbarkeit im Alltag auf leicht reduziertem Niveau -LRB- 3 Etagen -RRB- seit dem letzten stationären Aufenthalt in domo Ende B-MONTH B-DATE. Bei schwerer körperlicher Belastung klage B-SALUTE B-PER über eine inadäquate Belastungsdyspnoe ohne typische pectanginöse Beschwerden -LRB- NYHA II -RRB- . Auf spezifische Nachfrage hin werden Palpitationen, sowie Schwindel und stattgehabte Synkopen seit dem letzten stationären Aufenthalt verneint. Nachtschlaf sei mit flachem Oberkörper möglich. Bei bestehender Gewichtskonstanz werden keine peripheren Ödeme angegeben. Die häuslichen Blutdruckwerte lägen bei ca. 125/75 mmHg.
+
+Medikation bei Aufnahme:
+Eliquis 5 mg 1-0-1 Pausiert seit dem <[Pseudo] 18/03/2034>
+Ramipril 2,5 mg 1-0-0
+Atorvastatin 20 mg 0-0-1
+Pantoprazol 20 mg 1-0-0
+Tamsulosin 0,4 mg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- 186 cm 93,2 kg -RRB-
+HF: 74/min, regelmäßig
+RR: 140/90 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: kein fokalneurologisches Defizit. Allseits orientiert.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 19/03/2034:>
+Normofrequenter Sinusrhythmus, regelmäßig, 74/min, Linkslagetyp. PQ 220 ms, QRS 93 ms, QTc 399 ms. AV-Block I°. Verfrühter R/S Umschlag in V1/V2. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Pulmonalvenenisolation -LRB- B-OTHER -RRB- vom <[Pseudo] 19/03/2034:>
+3-fache Punktion der V. femoralis dextra. Einbringen von drei 4-poligen diagnostischen Standardkathetern in HRA-, RV-Apex und HIS-Position. Erschwerte Katheterplatzierung -LRB- His, RV -RRB- . Zu Untersuchungsbeginn Vorhofflimmern, keine auffällige ventrikuläre Extrasystolie. Kein Epsilon-Potential. Normale QT-Zeit. Bei programmierter RV-Stimulation mit 3 ES vom RV-Apex keine ventrikuläre Tachyarrhythmie induzierbar. Zweimalig erfolgloser Versuch der elektrischen Kardioversion: initial konversion in den Sinusrhythmus mit direkter Reinitiierung. Keine Konversionspause. Unauffälliger Carotis-Druckversuch im Liegen bds. Unauffälliger Ajmalintest. Leicht verlängerte infrahisäre Leitungszeit mit noch normaler infrahisärer Leitungsreserve -LRB- HV-Zeit 58ms -->80 ms -RRB- .
+Zusammenfassung: Diskret verlängerte infrahisäre Leitungszeit, normale infrahisäre Leitungsreserve.
+
+Transthorakale Echokardiographie vom <[Pseudo] 20/03/2034:>
+Beurteilung Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Ruhe-EKG vom <[Pseudo] 20/03/2034:>
+Normofrequenter Sinusrhythmus, regelmäßig, 70/min, Linkslagetyp. PQ 208 ms, QRS 90 ms, QTc 387 ms. AV-Block I°. Verfrühter R/S Umschlag in V1/V2. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2033>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.76
+4 - 10 /nl
+B-DATE
+Hb
+13.5
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.1 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.410
+0,38 - 0,52 l/l
+B-DATE
+MCV
+101 !H
+83 - 97 fl
+<[Pseudo] 19/03/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+33
+27 - 33 pg
+<[Pseudo] 19/03/34>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 19/03/34>
+RDW
+13.0
+12,9 - 18,7 %
+<[Pseudo] 19/03/34>
+hypochr.Erythroz.
+0.7
+0 - 2 %
+<[Pseudo] 19/03/34>
+Thrombozyten
+199
+150 - 440 /nl
+<[Pseudo] 19/03/34>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 19/03/34>
+Kalium -LRB- ISE -RRB-
+4.06
+3,4 - 5,0 mmol/l
+<[Pseudo] 19/03/34>
+Calcium
+2.24
+2,11 - 2,59 mmol/l
+<[Pseudo] 19/03/34>
+Kreatinin
+0.99
+0,6 - 1,3 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+35
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+78.5
+>60 s.u.
+B-DATE
+MDRD
+81.41
+ml/min/1,73qm
+<[Pseudo] 19/03/34>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+43.3
+30 - 50 g/l
+<[Pseudo] 19/03/34>
+Glucose
+85
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+19
+- <50 U/l
+B-DATE
+GGT
+20
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.7
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+7.0 !H
+- <7 mg/dl
+B-DATE
+Triglyceride
+59
+- <150 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+150.0
+- alt.abh. mg/dl
+<[Pseudo] 19/03/34>
+LDL-Chol. -LRB- berechn. -RRB-
+91
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+47
+>40 mg/dl
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 19/03/34>
+Hämolyse
+-
+
+<[Pseudo] 19/03/34>
+ikterisch
+-
+
+<[Pseudo] 19/03/34>
+Lipämie
+-
+
+<[Pseudo] 19/03/34>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+323
+- <342 U/l
+B-DATE
+CK
+176
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+10.8
+- <14 pg/ml
+<[Pseudo] 19/03/34>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.4
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+36
+20 - 42 mmol/mol
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+108
+- <110 mg/dl
+B-DATE
+TSH
+0.990
+0,400 - 4,000 mU/l
+<[Pseudo] 19/03/34>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+83.2
+70 - 125 %
+<[Pseudo] 19/03/34>
+INR - ber.
+1.09
+- <1.2
+<[Pseudo] 19/03/34>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+23.5
+- <35 s
+B-DATE
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte zur diagnostischen EPU bei Z.n. einmaliger Synkope und einem AV Block II° Typ Mobitz I im Langzeit-EKG in der B-ORG B-TITLE I-TITLE B-PER B-PER
+Nach planmäßiger Vorbereitung konnte am <[Pseudo] 19/03/2034> eine komplikationslose diagnostische elektrophysiologische Untersuchung durchgeführt werden. Dabei zeigte sich eine diskret verlängerte infrahisäre Leitungszeit mit normaler infrahisäre Leitungsreserve. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstellen.
+
+Wir empfehlen auch bei stabilem Sinusrhythmus die Fortführung der oralen Antikoagulation mit Eliquis, wie unten angegeben. Wir bitten um eine ambulante Komplettierung der Synkopenabklärung. Bei aktuell nicht eindeutiger Schrittmacherindikation bitten wir zudem um die Erwägung einer Eventrecorder-Implantation und Klärung der Kostenübernahme.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien, sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 20/03/2034> in Ihre geschätzte ambulante Betreuung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir regelmäßige kardiologische Kontrolluntersuchung in der B-ORG B-TITLE I-TITLE B-PER
+
+Weiteres Procedere/Termine:
+- ambulante Komplettierung der Synkopenabklärung
+
+Therapieempfehlung von kardiologischer Seite:
+Eliquis 5 mg 1-0-1
+Ramipril 2,5 mg 1-0-0
+Atorvastatin 20 mg 0-0-1
+Pantoprazol 20 mg 1-0-0
+Tamsulosin 0,4 mg 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER PD. B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

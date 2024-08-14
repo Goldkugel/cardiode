@@ -1,0 +1,363 @@
+Aufnahmedatum: <[Pseudo] 2514-02-04 >
+Geburtsdatum: <[Pseudo] 2107-05-01 >
+Alter: 406
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 01/05/2107> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreiche 2-Kammer-Schrittmacher Implantation der Firma Medtronic am <[Pseudo] 10/09/2190> bei Tachy-Brady-Syndrom mit rez. symptomatischen Pausen über 2 Monitorlängen
+
+Diagnosen:
+- Paroxysmales Vorhofflimmern
+-UNK- EHRA: I
+-UNK- CHA2DS2-VASc: 3
+-UNK- HAS-BLED: 2
+-UNK- LA-Diameter: 40 mm -LRB- TTE vom <[Pseudo] 09/09/2190> -RRB-
+-UNK- LV-Funktion: gut -LRB- TTE vom <[Pseudo] 09/09/2190> -RRB-
+-UNK- Z.n. Pulmonalvenenisolation <[Pseudo] 11/2177>
+- Z.n. cavotrikuspidaler Isthmusablation bei dokumentiertem, typischem Vorhofflattern <[Pseudo] 07/2176>
+- vorbefundlich intermittierender AV-Block II°, Typ Mobitz
+- diskrete Halsgefäßatherosklerose
+- Z.n. Pankreatitis
+- Keine Indikation zu einer Kyphoplastie am BWK 12 bei manifester Osteoporose mit Keilwirbel BWK 12 und ventraler Höherminderung BWK 7 <[Pseudo] 2178>
+- Spondylolisthese LWK 2/3 im Sinne einer Retrolisthese
+- Osteochondrose LWK -UNK- und 2/3
+- Spondylose LWK 1 bis 3
+- Monoklonale Gammopathie IgA-Typ Kappa
+- Kreuzband-Operation re. Knie vor 20 Jahren
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie.
+Allergien/Unverträglichkeiten: Lactoseintoleranz -LRB- anamnestisch -RRB-
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei rezidivierenden symptomatischen Pausen über 2 Monitorlängen bei Bradykardie-Tachykardie-Syndrom bei bekanntem Vorhofflimmern.
+Die initiale Vorstellung erfolgte als Verbringung durch den Notarzt auf Einweisung durch den behandelnden Kardiologen B-TITLE B-PER bei rezidivierenden Präsynkopen und Pausen bis 4 Sekunden im Ruhe-EKG. Anamnestisch bestünden seit 10 Tagen mehrmals täglich Episoden mit Schwindel und -UNK- Tunnelblick -UNK- , Präsynkope, kein Sturz. Im EKG in der Praxis am Vorstellungstag seien Pausen bis 4 Sekunden dokumentiert worden. Auf spezifische Nachfrage keine typische Angina pectoris, Belastungsdyspnoe -LRB- entsprechend NYHA I-II -RRB- , Vorhofflimmern -LRB- entsprechend EHRA I -RRB- . Keine peripheren Ödeme. Keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen, kein Schwindel, keine stattgehabten Synkopen. Kein Hinweis auf einen akuten Infekt. Die häuslichen Blutdruckmessungen seien um ca. 120/80 mmHg.
+
+Medikation bei Aufnahme:
+Marcumar nach INR Ziel 2-3
+Candesartan 16 mg 1-0-0
+Bisoprolol 2,5 mg -UNK- -0- -UNK-
+Propafenon 300 mg 1-0-1
+Rosuvastatin 5 mg 0-0-1
+Vigantoletten 1000 -UNK- -0-0
+Stangyl 15 Tr 0-0-1
+Solviden 0-0- -UNK-
+Novalgin bei Bedarf
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 172 cm, Gewicht: 77 kg -RRB-
+HF: 100/min, regelmäßig
+RR: 140/90 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse regelrecht
+Neurol. Status: grob orientierend unauffällig
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG vom <[Pseudo] 09/09/2190:>
+Normofrequentes Vorhofflimmern, unregelmäßig, 96/min, überdrehter Linkstyp. QRS 100 ms, QTc 435 ms. S-Persistenz bis V6. Linksanteriorer Hemiblock. Ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 09/09/2190:>
+Normal großer, konzentrisch leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion bei diskreter Hypokinesie inferior basal. Erhaltene longitudinale Funktion. Kein Hinweis auf eine relevante diastolische Dysfunktion. LA leicht dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Leichtgradige Mitralklappeninsuffizienz. Leichtgradige Aortenklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck ist bei fehlender TI nicht ableitbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 10/01/2177:> Keine wesentliche Befundänderung.
+
+OP-Bericht: Implantation eines 1-Kammer-SM vom <[Pseudo] 10/09/2190:>
+Begründung:
+2-Kammer-Herzschrittmacherimplantation bei Bradykardie-Tachykardie Syndrom unter Sick-Sinus-Syndrom und paroxysmalem Vorhofflimmern. In Zusammenschau a.e. Binodale Erkrankung bei vorbefundl. Intermittierendem AV-Block II Typ Mobitz, LAHB. LVEF 55%. Z.n. CTI <[Pseudo] 07/76> sowie PVI B-DATE. Sympt. Pausen >6s unter benötigter rhythmuskontrollierender Medikation.
+
+Aggregat: Medtronic Attesta DR ATDR01 SN: B-OTHER
+Vorhofelektrode: Medtronic Capsurefix Novus MRI Sirescan 5076 52cm IS1 SN: B-OTHER
+Ventrikelelektrode: Medtronic Capsurefix Novus MRI Sirescan 5076 58cm IS1 SN: B-OTHER
+
+Messwerte:
+RA: RS: VHF RV: RS: 0,5 V/0,5 ms
+Impedanz: 464 -UNK- Impedanz: 710 -UNK-
+Sensing: 0,6 -1,4 mV Sensing: 10,9 mV
+Zugang: V. cephalica links Zugang: V. cephalica links
+
+OP-Dauer: 46 min. DL-Zeit: 2,6 min. Dosis: 0,4 Gy·cm² KM: 0 ml
+
+Operation:
+Nach ausgiebiger Lokalanästhesie Schnittinzision über dem Sulcus deltoidopectoralis links. Der Zugang der Ventrikelelektrode erfolgte transvenös über die Vena cephalica links. Präparation der Vene im Sulcus deltoidopectoralis. Anschlingen, distale Ligatur und Inzision der Vene. Vorschub der RV-Sonde unter Durchleuchtung bis in den rechten Ventrikel. Problemloses Platzieren der Sonde apikosseptal mit guten Messwerten. Der Zugang der Vorhofelektrode erfolgte transvenös über die Vena cephalica links. Einführen der Sonde in die Vene und Vorschieben unter Bildwandlerkontrolle in den rechten Vorhof. Gute Messwerte. Danach Konnektion des Generators und Versenken in der Tasche. Schichtweiser Wundverschluss unter sorgfältiger Blutstillung. Die Aggregattasche wurde pectoral links subfaszial angelegt. Verband.
+
+Röntgen Thorax vom <[Pseudo] 10/09/2190:>
+Projektionsradiographische VU vom <[Pseudo] 13/11/2178> zum Vergleich vorliegend.
+Befund und Beurteilung:
+Liegendaufnahme.
+Von links-pectoral einliegender Schrittmacher mit Sondenspitzen in Projektion auf den rechten Vorhof und rechten Ventrikel.
+Keine infiltrattypischen Verschattungen und kein Erguss. Im Liegen keine relevante Pleuraablösung. Keine Stauungszeichen. Im Liegen unauffällige Herz- und obere Mediastinalkontur. Trachea mittelständig und nicht eingeengt.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 11/09/2190:>
+Vergleich zur Voruntersuchung vom Vortag.
+Befund und Beurteilung:
+Lagewechsel vom Liegen zum Stehen. Konstant eingehender Zweikammerschrittmacher von links pektoral mit Projektion der Elektroden auf den rechten Vorhof und den Boden des rechten Ventrikels. Keine Pleuraergüsse. Kein Pneumothorax. Die flächigen dynamischen Infiltrate. Keine Anzeichen einer pulmonalvenösen Stauung. Herzschatten verbreitert mit einer CTR von 16/30. Trachea mittig, nicht eingeengt. Degenerative Wirbelsäulenveränderung.
+
+SM-Kontrolle vom <[Pseudo] 11/09/2190:>
+Befund / Zusammenfassung:
+Regelrechte Aggregatfunktion. Batteriestatus gut -LRB- 2,80 V -RRB- . Messwerte gut. Insgesamt 51 neue AHE Episoden bei bekannten Vorhofflimmern im Speicher. Aktuell <1% atriale- und 1,4% ventrikuläre Stimulation. Programmierung durchgeführt. Anpassung der Stimulationsparameter nach Ende der Einheilungsphase bei nächster Kontrolle. Der Patient wurde über Verhaltensmaßregeln aufgeklärt. Die Informationsbroschüre -LRB- lt. MPG -RRB- wurde ausgehändigt. Der Schrittmacher-Ausweis wurde ausgestellt und dem Patienten ebenfalls ausgehändigt. Es besteht keine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+Kommentar:
+Ihr Schrittmacher-Aggregat und die dazugehörigen Elektroden wurden speziell entwickelt, um die Sicherheit während einer MRT-Untersuchung zu gewährleisten. Magnetisch aufladbare Teile wurden ausgetauscht, Schaltkreise speziell geschützt und die Elektroden so konstruiert, dass die Funktion des Stimulationssystems während einer MRT-Untersuchung nicht beeinträchtigt wird. Außerdem wurde eine spezielle Programmierfunktion -LRB- der SureScan-Modus -RRB- für die Verwendung im MRT entwickelt.
+Wichtig:
+Vor der MRT-Untersuchung sollte ihr Schrittmacher-System auf diesen SureScan-Modus programmiert werden. Nach dem MRT-Scan muss dieser Modus wieder ausgeschaltet werden. Jedoch sollte in den ersten 6 Wochen keine MRT-Untersuchung erfolgen, da diese SureScan-Modus in dieser Zeit der Einheilungsphase nicht aktivierbar ist.
+
+Transthorakale Echokardiographie nach SM-Implantation vom <[Pseudo] 11/09/2190:>
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+
+Ruhe-EKG nach SM-Implantation vom <[Pseudo] 11/09/2190:>
+Normofrequenter Sinusrhythmus, regelmäßig, 76/min, überdrehter Linkstyp. PQ 173 ms, QRS 104 ms, QTc 440 ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V3/V4. Präterminalnegative T-Welle in III, ansonsten keine signifikanten Erregungsrückbildungsstörungen.
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei rezidivierenden symptomatischen Pausen über 2 Monitorlängen bei Bradykardie-Tachykardie-Syndrom bei bekanntem Vorhofflimmern. Die initiale Vorstellung erfolgte als Verbringung durch den Notarzt als Einweisung durch den behandelnden Kardiologen B-TITLE B-PER bei rezidivierenden Präsynkopen und Pausen bis 4 Sekunden im Ruhe-EKG bei Bradykardie-Tachykardie-Syndrom.
+
+Elektrokardiographisch zeigte sich ein leicht tachykard übergeleitetes Vorhofflimmern. Pausen dokumentiert im mitgebrachten EKG aus der B-ORG B-TITLE B-PER Das hs-cTroponin betrug bei Aufnahme 10 pg/ml, im Verlauf stabil 10 pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig -RRB- . Das NT-pro-BNP fand sich altersadjustiert erhöht bei 2742 ng/l -LRB- bei Vorhofflimmern -RRB- .
+
+Echokardiographisch zeigte sich ein normal großer, konzentrisch leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion bei diskreter Hypokinesie inferior basal. Es zeigten sich keine höhergradigen Klappenvitien.
+
+Am <[Pseudo] 10/09/2190> konnte die Implantation eines 1-Kammer-SM erfolgreich durchgeführt werden. Echokardiographisch konnten postinterventionell ein Perikarderguss sowie konventionell-radiologisch ein Pneumothorax ausgeschlossen werden. Die im Anschluss kontrollierte Schrittmacherfunktion war regelrecht. Die Wunde zeigte sich bei Entlassung reizlos. Wir bitten um eine Wundkontrolle in 3 - 4 Tagen beim Hausarzt empfohlen -LRB- Kein Fadenzug bei selbstauflösendem Nahtmaterial erforderlich -RRB- .
+
+Ein Termin zur nächsten Schrittmacher-Kontrolluntersuchung in unserer B-ORG I-ORG wurde bereits für den <[Pseudo] 22/10/2190> um 13:00 Uhr vereinbart. Die weiteren Kontrollen danach empfehlen wir in der B-ORG B-TITLE B-PER in Intervallen von 6 Monaten durchführen zu lassen. Wir bitten hier um die Evaluation der Durchführung einer Re-Pulmonalvenenisolation nach Auslesen des Speichers.
+
+Der Patient wurde über Verhaltensmaßregeln aufgeklärt. Die Informationsbroschüre -LRB- lt. MPG -RRB- wurde ausgehändigt. Der Schrittmacher-Ausweis wurde ausgestellt und dem Patienten ebenfalls ausgehändigt. Es besteht keine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- gemäß den aktuellen Leitlinien der DGK. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich. Des Weiteren wurde der Patient über eine Schonung und Vermeidung einer Elevation des linken Armes über 90° für 6 Wochen informiert. Bei Rötung, Schwellung, Fieber oder purulentem Sekret aus der Aggregattasche erbitten wir eine sofortige Wiedervorstellung in unserem Hause.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir empfehlen regelmäßige Kardiologische Kontrollen durch den betreuenden B-SALUTE B-SALUTE B-TITLE B-PER B-PER
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 12/09/2190> in Ihre geschätzte ambulante Betreuung.
+
+Nächster Termin/Prozedere
+- Wundkontrolle in 3 - 4 Tagen beim Hausarzt -LRB- Kein Fadenzug bei selbstauflösendem Nahtmaterial erforderlich -RRB- .
+- Wiedervorstellung zur nächsten Schrittmacherkontrolluntersuchung am <[Pseudo] 22/10/2190> um 13:00 Uhr in unserer B-ORG I-ORG
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Marcumar nach INR Ziel 2-3
+Candesartan 16 mg 1-0-0
+Bisoprolol 5 mg 1-0-1 erhöht!
+Propafenon 300 mg 1-0-1
+Rosuvastatin 5 mg 0-0-1
+Vigantoletten 1000 -UNK- -0-0
+Stangyl 15 Tr 0-0-1
+Solviden 0-0- -UNK-
+Novalgin bei Bedarf
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Assistenzarzt
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 09/09/2190> und dem <[Pseudo] 10/09/2190>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.33
+4 - 10 /nl
+B-DATE
+Hb
+15.2
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.1
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.450
+0,38 - 0,52 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+<[Pseudo] 10/09/90>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 10/09/90>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 10/09/90>
+RDW
+12.9
+12,9 - 18,7 %
+<[Pseudo] 10/09/90>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+<[Pseudo] 10/09/90>
+Thrombozyten
+206
+150 - 440 /nl
+<[Pseudo] 10/09/90>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+143
+135 - 146 mmol/l
+<[Pseudo] 10/09/90>
+Kalium -LRB- ISE -RRB-
+3.78
+3,4 - 5,0 mmol/l
+B-DATE
+Kreatinin
+1.16
+0,6 - 1,7 mg/dl
+<[Pseudo] 10/09/90>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+37
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+57.9 !L
+>60 s.u.
+<[Pseudo] 10/09/90>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+96
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+17
+- <46 U/l
+B-DATE
+GPT/ALT
+14
+- <50 U/l
+B-DATE
+CRP
+9.9 !H
+- <5 mg/l
+<[Pseudo] 10/09/90>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 10/09/90>
+ikterisch
+-
+
+<[Pseudo] 10/09/90>
+Lipämie
+-
+
+<[Pseudo] 10/09/90>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+220
+- <342 U/l
+B-DATE
+CK
+66
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+12.1
+- <14 pg/ml
+B-DATE
+NT-BNP
+2742 !H
+- <450 ng/l
+<[Pseudo] 09/09/90>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.64
+0,400 - 4,000 mU/l
+<[Pseudo] 09/09/90>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+36.8 !L
+70 - 125 %
+<[Pseudo] 10/09/90>
+INR - ber.
+1.78 !H
+- <1.2
+<[Pseudo] 10/09/90>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+28.9
+- <35 s
+B-DATE

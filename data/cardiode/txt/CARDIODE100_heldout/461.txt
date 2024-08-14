@@ -1,0 +1,92 @@
+Aufnahmedatum: <[Pseudo] 2034-03-25 >
+Geburtsdatum: <[Pseudo] 1982-03-13 >
+Alter: 52
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 13/03/1982> wh. B-PLZ B-LOC I-ADDR I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Stabiler kardialer Verlauf bei vorbekanntem Aortenaneurysma der Aorta ascendens und mittelgradiger Insuffizienz der bikuspiden Aortenklappe:
+-UNK- Negativer Ischämienachweis im Adenosin-Stress-MRT vom <[Pseudo] 28/02/2034>
+-UNK- Gute linksventrikuläre Funktion -LRB- LVEF 57 % -RRB-
+-UNK- Befundkonstanz des Aortenaneurysmas -LRB- max. 52x49 mm -RRB-
+
+Diagnosen:
+- Aortenaneurysma der Aorta asc. -LRB- 52x49 mm -RRB- bei bikuspider Aortenklappe mit mittelgradiger Insuffizienz -LRB- MRT v. <[Pseudo] 28/02/2034> -RRB-
+-UNK- Dilatierter, septal leicht hypertrophierter linker Ventrikel mit global normaler systolischer Funktion und normaler longitudinaler Funktion -LRB- MRT v. <[Pseudo] 28/02/2034> -RRB-
+-UNK- Echokardiographisch Aortenwurzel 42mm, im TEE 50mm -LRB- <[Pseudo] 08/2030> -RRB-
+-UNK- OP-Indikation <[Pseudo] 05/2033> gestellt, aktuell zurückhaltend gegenüber operativer Sanierung
+- Paroxysmales Vorhofflimmern
+-UNK- CHA2DS2-VASc Score: 2
+-UNK- Z. n. Sturz bei Synkope und konsekutiver Kopfplatzwunde links frontal am <[Pseudo] 10/08/2030>
+-UNK- Antikoaguliert mit Lixiana
+- Koronare 1-Gefäßerkrankung -LRB- B-OTHER vom <[Pseudo] 16/08/2030> -RRB-
+-UNK- Negativer Ischämienachweis im Adenosin-Stress-MRT vom <[Pseudo] 20/03/2033> und <[Pseudo] 28/02/2034>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, aktiver Nikotinabusus -LRB- 30py -RRB- , pos. Familienanamnese
+Allergien: Voltaren
+
+Anamnese:
+Die ambulante Vorstellung erfolgte zur kardiologischen Verlaufskontrolle eines Aortenaneurysmas und mittelgradiger Insuffizienz der bikuspiden Aortenklappe. Im Alltag bestünde eine gute Belastbarkeit ohne inadäquate Belastungsdyspnoe -LRB- NYHA I -RRB- . Es bestünden keine belastungsabhängigen und -unabhängigen pectanginösen Beschwerden. Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestünde keine Nykturie bei ca. einmaliger Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Keine häuslichen Blutdruckmessungen. Subjektiv bestünde seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Aktuelle Medikation:
+Lixiana 60 mg 1-0-0
+Nebivolol 5 mg -UNK- -0- -UNK-
+Atorvastatin 10 mg 0-0-1
+Allopurinol 300 mg 0-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 178 cm 75 kg
+HF: 53/min, regelmäßig
+RR: 130/70 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+
+
+Ruhe-EKG:
+Bradykarder Sinusrhythmus, HF 53/min, Steiltyp. PQ 175 ms, QRS 110 ms, QTc ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, keine S-Persistenz. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Transthorakale Echokardiographie:
+Normal großer, septal leicht hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel erweitert auf 48 mm, Ektasie der Aorta ascendens bis 50 mm, Aortenbogen 31 mm. Sonographisch kein sicherer Hinweis auf Aortenisthmusstenose. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe bikuspid mit mittelgradiger, exzentrischer Insuffizienz bei Taschenprolaps. Klappen ansonsten sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 35 mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 17/08/2030:> Soweit vergleichbar keine wesentliche Befundänderung.
+
+Kardio-MRT vom <[Pseudo] 28/02/2034:>
+Dilatierter, septal leicht hypertrophierter linker Ventrikel mit global normaler systolischer Funktion und normaler longitudinaler Funktion. Apikoseptal ausgedünntes Myokard im Sinne eines aborted VSD. Normal großer rechter Ventrikel mit visuell guter systolischer Funktion und normaler longitudinaler Funktion. Vorhöfe normal groß. MR-tomographisch mittelgradige Aortenklappeninsuffizienz -LRB- Regurgitationsfraktion ca. 29%, -volumen 36,6 ml -RRB- . Kein Nachweis eines Perfusionsdefizits in der Adenosinstressuntersuchung. Aortenbulbus ca. 47 mm, A. ascendens -LRB- max. -RRB- : 52 x 49 mm, Arcus Aortae: 24 mm x 22 mm, A. descendens -LRB- Höhe Pulmonalis-Bifurkation -RRB- : 24 mm x 22 mm. Umschriebenes transmurales Late Gadolinium Enhancement septal apikal.
+Nebenbefunde
+Beidseits basal pleurale Verdichtungen. Zystische Raumforderung der linken Niere.
+Zusammenfassung
+Negativer Ischämienachweis in der Adenosinstressuntersuchung. Aneursyma der Aorta ascendens mit max. 52x49mm Durchmesser bei vorbekannt bikuspider Aortenklappe mit begleitender mittelgradiger Aortenklappeninsuffizienz. Dilatierter, septal leicht hypertrophierter linker Ventrikel mit global normaler systolischer Funktion -LRB- LVEF 57% -RRB- . Umschriebenes transmurales LGE apikoseptal im Sinne eines aborted VSD. Im Vergleich zur Voruntersuchung von <[Pseudo] 03/2033> keine wesentliche Befundänderung.
+
+
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur kardiologischen Verlaufskontrolle eines Aortenaneurysmas und mittelgradiger Insuffizienz der bikuspiden Aortenklappe. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Echokardiographisch sahen wir eine noch gute linksventrikuläre Pumpfunktion ohne regionale Kontraktionsstörungen. Die VCI war nicht gestaut. Die Aortenwurzel zeigte sich erweitert auf 48 mm, die Ektasie der Aorta ascendens bis 50 mm und der Aortenbogen 31 mm. Die Aortenklappe fand sich bikuspid mit mittelgradiger, exzentrischer Insuffizienz bei Taschenprolaps. Im Vergleich zur Voruntersuchung vom <[Pseudo] 17/08/2030> fand sich keine wesentliche Befundänderung.
+
+Die MRT-Untersuchung fand sich ein negativer Ischämienachweis in der Adenosinstressuntersuchung. Das Aneursyma der Aorta ascendens zeigte sich mit max. 52x49 mm Durchmesser bei vorbekannt bikuspider Aortenklappe mit begleitender mittelgradiger Aortenklappeninsuffizienz. Die Untersuchung ergab zudem einen dilatierten, septal leicht hypertrophierten linken Ventrikel mit global normaler systolischer Funktion -LRB- LVEF 57% -RRB- . Im Vergleich zur Voruntersuchung von <[Pseudo] 03/2033> fand sich keine wesentliche Befundänderung. Es zeigte sich nebenbefundlich eine zystische Raumforderung der linken Niere. Sollte noch keine weiterführende Diagnostik erfolgt sein, empfehlen wir die sonographische Abklärung.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund und Befundkonstanz aus. Die bereits seit <[Pseudo] 2032> gegebene OP-Indikation des Aneurysmas wurde erneut ausführlich besprochen. Der Patient verbleibt weiterhin zurückhalt gegenüber einer operativen Sanierung.
+
+Wir empfehlen einen Nikotinverzicht, zudem die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien. Wir empfehlen den Verzicht von Kontaktsportarten oder maximale Belastung, sowie die konsequente häusliche Blutdruckkontrolle und ggf. Anpassung der anti-hypertensiven Medikation zum Anstreben eines Blutdrucks unter 130/80 mmHg.
+
+Wir empfehlen die weiterführenden Kontrollen und Behandlung bei B-TITLE B-PER der I-PER und B-TITLE I-TITLE I-TITLE B-PER sowie die regelmäßige hausärztliche Vorstellung. Bei Auftreten von Beschwerden oder Komplikationen sind wir gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung: -LRB- unverändert -RRB-
+Lixiana 60 mg 1-0-0
+Nebivolol 5 mg -UNK- -0- -UNK-
+Atorvastatin 10 mg 0-0-1
+Allopurinol 300 mg 0-0-1
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen,
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

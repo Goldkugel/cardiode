@@ -1,0 +1,85 @@
+Aufnahmedatum: <[Pseudo] 2465-11-29 >
+Geburtsdatum: <[Pseudo] 2121-12-14 >
+Alter: 343
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 14/12/2121> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kein sicherer Ausschluss eines Progresses der koronaren Herzerkrankung:
+-UNK- Echokardiographisch Abnahme der linksventrikulären Funktion mit neuen Hypokinesien der Vorderseitenwand
+-UNK- Klinisch stabiler kardialer Verlauf
+- Ad Herzkatheteruntersuchung für den <[Pseudo] 10/05/2203> um 07:45 Uhr -LRB- Aufklärung, BE erfolgt -RRB-
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung mit global leichtgradig eingeschränkter linksventrikulärer Pumpfunktion
+-UNK- Erfolgreiche PTCA/1x DE-Stentimplantation der LAD bei subtotaler Stenose -LRB- B-OTHER v. <[Pseudo] 20/01/2198> -RRB-
+-UNK- Residuelle hochgradige Stenose der prox. LCX -LRB- bekannt -RRB-
+-UNK- Negativer Ischämienachweis in dynamischer Stressechokardiographie vom <[Pseudo] 09/04/2202>
+-UNK- Kardio-MRT vom <[Pseudo] 25/02/2197:> Leichtgradig eingeschränkte systolische LV-Funktion -LRB- LVEF 49% -RRB- , positiver Ischämienachweis, Nachweis einer Infarktnarbe
+-UNK- Z.n. erfolglosem PTCA-Versuch der LCX -LRB- <[Pseudo] 07/12/89> -RRB-
+-UNK- Z. n. PTCA und Stenting der RCA <[Pseudo] 09/81> bei Hinterwandinfarkt mit Lysetherapie <[Pseudo] 09/81>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Dyslipidämie, positive Familienanamnese
+Allergien/Unverträglichkeiten: Penicillinallergie
+
+
+
+Anamnese:
+Die ambulante Vorstellung erfolgte zur kardiologischen Verlaufskontrolle bei bekannter koronarer 3-Gefäßerkrankung. Im Alltag bestände eine eingeschränkte Belastbarkeit bei Z.n. Knie-TEP und leichter Dyspnoe beim Gehen von steilen Anstiegen -LRB- NYHA II -RRB- . Insgesamt beschreibt der Patient keine klinische Veränderung zu den Vorjahren. Es bestünden keine belastungsabhängigen und -unabhängigen pectanginösen Beschwerden. Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestünde keine Nykturie. Unterschenkelödeme seien bei Gewichtszunahme -LRB- +3 kg -RRB- beidseits aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 120/60 mmHg. Subjektiv bestünde seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Aktuelle Medikation:
+ASS 100 mg 1-0-0
+Metoprololsucc. 47,5 mg 1-0-0
+Ramipril comp. 5/25 mg 1-0-0
+Simvastatin 40 mg 0-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 174 cm 105 kg
+HF: 62/min, regelmäßig
+RR: 110/70 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: leichte US Ödeme bds
+
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, regelmäßig, 62/min, Links- bis überdrehter Linkstyp. PQ: 191 ms, QRS: 149 ms, QTc: 425 ms. Linksschenkelblock mit konsekutiven Kammerendteilveränderungen. Regelrechte R-Progression, R/S Umschlag in V5/V6. S-Persistenz bis V6.
+
+Belastungs-EKG:
+Bei Z.n. Knie-TEP und persistierenden Kniebeschwerden nicht durchführbar.
+
+Transthorakale Echokardiographie vom <[Pseudo] 08/04/2203:>
+Normal großer, septal betont hypertrophierter linker Ventrikel mit noch leicht verminderter systolischer Pumpfunktion bei Hypokinesie inferolateral, anterolateral und anterior. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, leicht verdickt mit guter Separation und leichtgradiger Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Systolischer PA-Druck bei fehlender Trikuspidalinsuffizienz nicht bestimmbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 09/04/2202:> Abnahme der LV-EF, neue Hypokinesien der Vorderseitenwand, sonst keine wesentliche Befundänderung.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur Verlaufsuntersuchung bei bekannter koronarer 3-Gefäßerkrankung. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Eine Belastungsuntersuchung konnte bei Z.n. Knie-TEP und Kniebeschwerden nicht durchgeführt werden. Echokardiographisch sahen wir eine Abnahme der linksventrikulären Pumpfunktion mit neuen regionalen Kontraktionsstörungen der Vorderseitenwand. Die VCI war nicht gestaut. Es war eine vorbeschriebene leichtgradige Aortenklappeninsuffizienz feststellbar. Somit zeigte sich im Vergleich zur Voruntersuchung vom <[Pseudo] 09/04/2202> eine dezente Befundverschlechterung.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde kann eine Progression der koronaren Herzerkrankung nicht ausgeschlossen werden. Bei klinisch inapparenten Verlauf vor der letzten Herzkatheteruntersuchung -LRB- <[Pseudo] 2197> -RRB- mit dem Resultat einer hochgradigen LAD-Stenose, empfehlen wir die invasive Abklärung mit einer zeitnahen Durchführung einer Herzkatheteruntersuchung. Ein möglicher Termin konnte am <[Pseudo] 11/04/2203> angeboten werden, welcher B-SALUTE B-PER jedoch aus persönlichen Gründen nicht wahrnehmen möchte. Der Patient wurde ausführlich auf die Notwendigkeit der zeitnahen Durchführung der Untersuchung hingewiesen. Auf Patientenwunsch wurde deshalb ein Termin zur Herzkatheteruntersuchung am <[Pseudo] 10/05/2203> um 07:45 Uhr in domo terminiert.
+
+Wir empfehlen zudem die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien und die körperliche Schonung bis zur geplanten Untersuchung.
+
+Bei Auftreten von Beschwerden oder Komplikationen sind wir gerne bereit, den Patienten vorher wiederzusehen - in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung: -LRB- unverändert -RRB- :
+ASS 100 mg 1-0-0
+Metoprololsucc. 47,5 mg 1-0-0
+Ramipril comp. 5/25 mg 1-0-0
+Simvastatin 40 mg 0-0-1
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+
+Mit freundlichen Grüßen,
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER B-PER
+Ärztlicher Direktor Oberarzt Assistenzärzte
+
+Vorläufiger Brief! Endgültiger Bericht folgt!

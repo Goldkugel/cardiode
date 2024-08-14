@@ -1,0 +1,138 @@
+Aufnahmedatum: <[Pseudo] 2037-05-26 >
+Geburtsdatum: <[Pseudo] 1970-03-18 >
+Alter: 67
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 18/03/1970> wh. B-PLZ B-LOC B-ADDR I-ADDR die sich am <[Pseudo] 04/05/2037> und in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kardiologische Verlaufskontrolle einschließlich Schrittmacherabfrage:
+-UNK- Klinisch stabiler kardialer Verlauf
+-UNK- Unauffälliges Belastungs-EKG bis zu 75 Watt -LRB- 57% Ziel-Hf -RRB-
+-UNK- Echokardiographisch noch gute linksventrikuläre Funktion ohne sicher abgrenzbare regionale Wandbewegungsstörungen
+-UNK- Erneute nsVT-Episode in der Schrittmacherabfrage
+-UNK- In Myokardszintigraphie vom <[Pseudo] 13/05/2037> belastungsinduzierte Ischämien ohne aktuellen Interventionsbedarf
+- Ad pharmakologische Stressechokardiographie am <[Pseudo] 30/11/2037> um 12:00 Uhr in unserer kardiologischen Ambulanz
+
+Diagnosen:
+- Koronare Herzkrankheit ohne höhergradige Stenosen -LRB- Herzkatheter <[Pseudo] 2029> -RRB-
+-UNK- Negativer Befund bzgl. einer belastungsinduzierten Ischämie, kein late enhancement -LRB- Stress-Kardio-MRT v. <[Pseudo] 03/03/2033> -RRB-
+- Dilatierter linker Ventrikel mit noch guter linksventrikulärer Pumpfunktion -LRB- LV-EF 56% -RRB- -LRB- Stress-Kardio-MRT v. <[Pseudo] 03/03/2033> -RRB-
+- Relaxationsstörung des linken Ventrikels -LRB- TTE <[Pseudo] 23/04/2036> -RRB-
+- Intermittierende atriale Tachykardien bei Vorhofflimmern <[Pseudo] 01/2030>
+-UNK- Therapie mit Rivaroxaban seit <[Pseudo] 02/2030>
+- Z.n. 2-Kammer-Schrittmacherimplantation -LRB- Medtronic Ensura DR MRI EN1 DR 01 -RRB- -LRB- <[Pseudo] 04/03/2033> -RRB- bei Bradykardie bis 25/min und Sick-Sinus-Syndrom
+- Obstruktive Ventilationsstörung
+- Kleiner Milchglasnodulus im Lungensegment 10 links
+- Morbus Crohn, EM ca. B-DATE, ED <[Pseudo] 07/30>
+-UNK- Montreal-Klassifikation: A3 L1 B1
+-UNK- Befallsmuster: Präterminales und terminales Ileum über eine Strecke von mindestens 35 cm
+-UNK- Medikamentenhistorie:
+-UNK- Xifaxan 550 1-0-1 <[Pseudo] 07/2030>
+-UNK- Budenofalk 9 mg B-DATE
+-UNK- Decortin wechselnde Dosis <[Pseudo] 07/2030>
+-UNK- Z.n. Therapie mit Azathioprin B-DATE - B-DATE abgesetzt bei Bauchschmerzen und Lipaseanstieg
+-UNK- Z.n. Therapie mit Humira seit <[Pseudo] 08/2030> - B-DATE abgesetzt bei ansteigendem Calprotectin
+-UNK- Z.n. Therapie mit MTX B-DATE - B-DATE, abgesetzt bei Übelkeit, Leberwertanstieg und rez. Infekten
+-UNK- Therapie mit Stelara seit <[Pseudo] 06/12/2033>
+- Polymyalgia rheumatica
+- Eisenmangelanämie
+- Z.n. Helicobacter-positiver Gastritis
+- Steatosis hepatis
+- Monoklonale Gammopathie Typ IgG Lambda
+- Z.n. Schilddrüsenexstirpation <[Pseudo] 2015> bei Hyperthyreose
+- Bipolare Störung
+- Z.n. Suizidversuch -LRB- <[Pseudo] 2024> -RRB-
+- Z.n. Hysterektomie -LRB- <[Pseudo] 2008> -RRB-
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Adipositas, positive Familienanamnese -LRB- Mutter und Tanten an Herzerkrankungen verstorben -RRB- , aktiver Nikotinkonsum -LRB- ca. 50 py -RRB-
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die Vorstellung in unserer B-ORG I-ORG erfolgt zur Verlaufskontrolle bei bekannter koronarer Herzerkrankung und Vorhofflimmern. Es wird eine eingeschränkte aber stabile körperliche Belastbarkeit im Alltag beschrieben. Bei 2 Etagen Treppensteigen bestehe inadäquate Belastungsdyspnoe, jedoch keine typischen belastungsinduzierten pectanginösen Beschwerden. In Ruhe bestünden weder typische pectanginöse Beschwerden noch Dyspnoe. Palpitationen werden wie stattgehabte Synkopen verneint. Etwa 1x Monat bestehe morgens orthostatischer Schwindel. Die Patientin beschreibt zudem niedrige Blutdruckwerte -LRB- 100/80 mmHg -RRB- im Alltag. Es bestehe keine relevante Nykturie. Periphere Ödeme seien bei Gewichtskonstanz in der letzten Zeit nicht aufgefallen. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Bisherige Medikation:
+Xarelto 20 mg 1-0-0
+Bisoprolol 5 mg 1-0-1
+Candesartan 4 mg 1-0-0
+Rosuvastatin 5 mg 0-0-1 Ziel-LDL <55mg/dl
+Metformin 1000 mg 1-0-1
+L-Thyroxin 175 µg 1-0-0
+Pantoprazol 40 mg 1-0-0 -LRB- alle 3Tage -RRB-
+Quetiapin 50 mg 0-0-1
+Sertralin 50 mg 1-0-0
+Dekristol 20.000 IE 1x/Woche
+Spiolto Respimat 2,5 µg/Hub 2-0-0
+Tilidin 50 mg b.B.
+Vedolizumab 300 mg alle 4 Wochen
+
+
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+170 cm, 99 kg
+HF: 68/min, regelmäßig
+RR: 100/ 75 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein, keine path. Geräusche
+Lunge: o.B.
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Schrittmacher-EKG, 68/min, Linkstyp. PQ 190 ms, QRS 92 ms, QTc 385 ms. Verzögerte R-Progression, R/S Umschlag in V5/V6, S-Persistenz bis V6. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 75 Watt über 01:09 min. Maximale Frequenz 88/min -LRB- 57% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 160 mmHg, diastolisch 86 mmHg. Abbruch wegen peripherer Ermüdung. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Eingeschränkte Beurteilbarkeit bei Nichterreichen der Ausbelastungsfrequenz und Schrittmacherstimulation. Soweit beurteilbar, keine signifikanten Kammerendteilveränderungen unter Belastung. Angedeutete biphasische T-Welle unter Belastung in V2. Durchgehend SM-Stimulation. Wenige VES -LRB- 15 -RRB- . Flaches Herzfrequenzprofil bei regelrechtem Blutdruckanstieg und -abfall. Keine höhergradigen Herzrhythmusstörungen.
+
+Transthorakale Echokardiographie:
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit noch guter LV-Funktion ohne sicher abgrenzbare regionale Wandbewegungsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA, RA und RV grenzwertig vergrößert. Gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe verdickt mit guter Separation. Leichte zentrale Aortenklappen-, leichte Mitralklappen- und leichtgradige Trikuspidalinsuffizienz. Der systolische PA-Druck in Ruhe ist im Normbereich -LRB- ca. 25 mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 23/04/2037:> keine Wesentliche Befundänderung.
+
+Schrittmacherabfrage:
+Regelrechte Schrittmacher-Nachsorge. Batteriestatus gut -LRB- 3,01 V, 6,5 Jahre -RRB- . Messwerte stabil. Eine neue nsVT- Episode am <[Pseudo] 26/03/37> im Speicher über 10 Schlägen -LRB- CL 260-280ms -RRB- . Patientin hierunter asymptomatisch. Keine kurzen VV-Intervalle. Aktuell 71,9% atriale- und 0,3% ventrikuläre Schrittmacher-Stimulation. Keine Anpassung der Stimulationsparameter erforderlich.
+
+Myokardszintigraphie vom <[Pseudo] 13/05/2037:>
+Belastungsinduzierte Koronarinsuffizienz in der Vorderwand und Seitenwand, aktuell noch ohne Interventionsbedarf -LRB- Prozentwert der quantitativen Auswertung bei 6% -UNK- Anmerkung: Interventionsempfehlung ab einem Prozentwert von 10-12% -UNK- -RRB- .
+
+Zusammenfassung:
+Die Vorstellung in unserer B-ORG I-ORG erfolgt zur Verlaufskontrolle bei bekannter koronarer Herzerkrankung und Vorhofflimmern. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+In der Echokardiographie fand sich eine noch gute linksventrikuläre Pumpfunktion. Es zeigte sich eine leichtgradige Aortenklappen-, Mitralklappen- und Trikuspidalklappeninsuffizienz. Im Vergleich zur Voruntersuchung vom <[Pseudo] 23/04/2037> ergab sich keine wesentliche Befundänderung.
+
+Das Belastungs-EKG bis 75 Watt ergab, soweit bei Nichterreichen der Ausbelastungsfrequenz beurteilbar, weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradigen Herzrhythmusstörungen.
+
+Bei erneut auffälliger nsVT-Episode in der Schrittmacherabfrage und stabiler Belastungsdyspnoe wurde ein nachfolgender bildgebender Ischämienachweis beschlossen. Bei vorbekannter Klaustrophobie und dringlicher Indikation wurde eine Myokardszintigraphie am <[Pseudo] 13/05/2037> als zeitnah verfügbare bildgebende Untersuchung durchgeführt. Es zeigte sich eine belastungsinduzierte Koronarinsuffizienz jedoch aktuell ohne Interventionsbedarf.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher die Fortführung der bestehenden medikamentösen Therapie.
+
+Basierend auf den Ergebnissen der Szintigraphie empfehlen wir eine Verlaufskontrolle mittels pharmakologischen Stress-Echokardiographie. Ein Termin hierfür wurde für den <[Pseudo] 30/11/2037> um 12:00 Uhr in unserer kardiologischen Ambulanz vereinbart.
+
+Bei anamnestisch und hier niedrig gemessenen Blutdruckwerten empfehlen wir eine Anpassung der Blutdruckmedikation wie unten angegeben. Wir bitten um regelmäßige Blutdruck-, Puls und Elektrolytkontrollen.
+
+Zur Optimierung des kardiovaskulären Risikoprofils empfehlen wir die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir empfehlen die Wahrnehmung des obengenannten Termins und die nächste Schrittmacherkontrolle in 6 Monaten, sowie regelmäßige hausärztliche Vorstellungen. Bei Auftreten von Beschwerden sind wir gerne bereit, B-SALUTE B-PER wiederzusehen, in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Aktuelle Medikation:
+Xarelto 20 mg 1-0-0
+Bisoprolol 5 mg 1-0-1
+Candesartan 4 mg 1-0-0 Auslassversuch -LRB- bitte regelm. RR- und Pulskontrollen -RRB-
+Rosuvastatin 5 mg 0-0-1 Ziel-LDL <55mg/dl
+Metformin 1000 mg 1-0-1
+L-Thyroxin 175 µg 1-0-0
+Pantoprazol 40 mg 1-0-0 -LRB- alle 3 Tage -RRB-
+Quetiapin 50 mg 0-0-1
+Sertralin 50 mg 1-0-0
+Dekristol 20.000 IE 1x/Woche
+Spiolto Respimat 2,5 µg/Hub 2-0-0
+Tilidin 50 mg b.B.
+Vedolizumab 300 mg alle 4 Wochen
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

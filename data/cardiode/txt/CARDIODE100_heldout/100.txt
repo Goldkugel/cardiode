@@ -1,0 +1,107 @@
+Aufnahmedatum: <[Pseudo] 2039-12-18 >
+Geburtsdatum: <[Pseudo] 1985-06-04 >
+Alter: 54
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 04/06/1985> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Akutes Nierenversagen a.e KM-bedingt mit hydropischer Dekompensation, aktuell keine Dialyseindikation bei suffizienter Ausscheidung
+-UNK- Therapie mit Furosemidperfusor <[Pseudo] 21.12.> - dato
+
+Diagnosen:
+- V.a. schwere Transfusionsreaktion auf ein Thrombozytenkonzentrat DD Volumenüberladung
+- Z. n. Endoskopische Abtragung -LRB- ESD -RRB- bei Ösophaguskarzinom pT2, cN0, G3, R1 B-DATE
+-UNK- Histologie: Geringgradig differenziertes Plattenepithelkarzinom, Her2neu negativ
+-UNK- Intraprozedurale Ösophagusvarizenblutung mit endoskopischer Ligatur
+-UNK- Intensivmed. Behandlung B-DATE - B-DATE
+-UNK- Makrozytäre normochrome Anämie
+- Äthyltoxische Leberzirrhose Child C mit aktuell Entwicklung einer Hepatische Enzephalopathie
+- Z.n. Generalisierter hydropischer Dekompensation kardialer und hepatischer Genese <[Pseudo] 08/2038> bei Äthyltoxische Leberzirrhose CHILD B sowie hochgradig eingeschränkter kardialer Pumpfunktion
+-UNK- Ösophagusvarizen II° -LRB- <[Pseudo] 2030> -RRB-
+-UNK- Z. n. oberer GI Blutung
+-UNK- Z. n. akuter Pankreatitis
+- Koronare Herzkrankheit ohne höhergradige Stenosen -LRB- B-OTHER vom <[Pseudo] 18/11/2039> -RRB-
+- Kammer-ICD-Implantation am <[Pseudo] 26/08/2034>
+- Z. n. Fallot-Tetralogie mit einer mittel- bis hochgradig eingeschränkten Pumpfunktion
+-UNK- Rekonstruktion des Aortenbogens mit Gore Tex Patch, <[Pseudo] 2019>
+-UNK- Pulmonalklappenersatz Bioprothese, <[Pseudo] 2019>
+-UNK- VSD Verschluss, RV-PA Conduit mit Bioprothese, Verschluss der Pott -UNK- schen Anastomose, <[Pseudo] 2008> I-ORG
+-UNK- Operation <[Pseudo] 1991> -LRB- in B-LOC -RRB- Anastomose Pott
+- Persistierendes Vorhofflimmern -LRB- ED <[Pseudo] 07/2032> -RRB-
+-UNK- Erfolgreiche Kardioversion mit 1x120 J -LRB- extern, biphasisch, synchron -RRB- , nachfolgend Sinusrhythmus -LRB- <[Pseudo] 01/09/2032> -RRB-
+- Z. n. Cavotrikuspidaler Isthmusablation bei dokumentiertem typischem Vorhofflattern am <[Pseudo] 26/07/2029>
+- Aorto-bronchiale Fistel links, zwischen Aortenwand und Segmentbronchius IV. Ordnung
+-UNK- Z. n. Implantation einer thorakalen Endoprothese bei aorto-bronchialer Fistel, <[Pseudo] 2025>
+- Chronische Niereninsuffizienz
+- Rezidiverende Hämoptysen unter Marcumar-Therapie -LRB- B-DATE <[Pseudo] 10/2031> -RRB-
+- Z. n. Apoplex ohne Residuen -LRB- intraoperativ, <[Pseudo] 2019> -RRB-
+- Restriktive Ventilationsstörung
+- Z. n. akutem Nierenversagen unter Aminoglycosiden -LRB- <[Pseudo] 2011> -RRB-
+- Leistenhernie OP <[Pseudo] 2024>
+- Z.n. Hämatom Unterschenkel links mit drohendem Kompartmentsyndrom unter Eliquis <[Pseudo] 2038>
+- Cholezystolithiasis
+
+Kardiovaskuläre Risikofaktoren: arterielle Hypertonie, Hypercholesterinämie, pos. Familienanamnese -LRB- Bruder und Schwester in jungem Alter an Schlaganfall verstorben -RRB- , ehemaliger Nikotinkonsum -LRB- kumulativ ca. 4 py -RRB-
+Allergien: Anamnestisch keine bekannt
+Externer Zuweiser: Strahlentherapie
+
+Anamnese:
+Die Aufnahme des Patienten erfolgte über die Kopfklinik bei schwerer Transfusionsreaktion auf ein Thrombozytenkonzentrat. Ca. 20 Minuten nach Beginn der Transufsion kam es zu einer akut auftretenden Dyspnoe und Tachykardie. Daraufhin Gabe von Prednisolon und Fenistil. In der Strahlentherapie ist B-SALUTE B-PER elektiv zur Behandlung seines Ösophaguskarzinoms in Behandlung. Bei Übernahme auf B-ORG CCU kardiozirkulatorisch stabiler, beschwerdefreier Patient.
+
+Körperlicher Untersuchungsbefund:
+AZ: reduziert
+EZ: adipös
+HF: 105/min, regelmäßig
+RR: 118/77mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, basal abgeschw. AG
+Abdomen: deutlicher Aszites
+Leber/Milz: nicht vergrößert
+Periphere Ödeme: Unterschenkel
+Pulsstatus: o.B.
+Neurol. Status: verlangsamt
+sonstige Auffälligkeiten: keine
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 20/12/2039:>
+Zum Vergleich siehe letzte CT-Voraufnahme vom B-DATE.
+Befund und Beurteilung:
+Liegendaufnahme. Fremdmaterial idem.
+Weiterhin Randwinkelerguss rechts. Dorsal auslaufender Pleuraerguss links. Angrenzend Dystelektasen. Darüber hinaus Projektion des Herzschrittmacher-Aggregats auf das linke Unterfeld, Infiltrate können daher maskiert sein. Kein Nachweis eines Pneumothorax im Liegen. Keine durchgreifende kardiopulmonale Befundänderung.
+
+Ruhe-EKG:
+
+
+Labor:
+Siehe ISH
+
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte aus der B-ORG bei formal schwerer Transfusionreaktion. Diese wurde initial mit Prednisolon und Fenistil behandelt.
+
+In Rücksprache mit unseren B-SALUTE der B-PER -LRB- B-TITLE B-PER -RRB- sahen wir Diffentialdiagnostisch eine Volumenüberladung oder eine allergische Reaktion. Bei kardial vorerkranktem Patienten scheint eine Volumenüberladung dabei wahrscheinlicher. Formal ist die Episode als schwere Transfusionsreaktion einzustufen, da eine Verlegung auf Wachstation erfolgte. Es erfolgte eine prolongierte Oberservation. Der Patient zeigte sich durchgehend kardiorespiratorisch stabil.
+
+Nach Rückverlegung in die Strahlentherapie am <[Pseudo] 18/12/2039> erfolgte am <[Pseudo] 20/12/2039> die erneute Aufnahme bei kardiorenaler und hepatorenaler Dekompensation. Der Patient wurde ausführlich über eine Trinkmengenrestriktion von 1l/d aufgeklärt. Wir begannen eine Therapie mittels Furosemidperfusor, hierunter -UNK-
+
+
+
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir verlegen den Patienten am <[Pseudo] 19/12/2039> beschwerdefrei in Ihre stationäre Betreuung.
+
+Procedere:
+- Nach Maßgabe Strahlentherapie
+- Diskussion Betablocker bei tachykardem VHF und hochgradiger Pumpfunktionsminderung
+- Diskussion reduzierte Dosierung Apixaban erhöhen, wenn Thrombozytopenie ausgeglichen
+
+Aktuelle Therapie:
+Nach Maßgabe Strahlentherapie, keine Veränderungen erfolgt
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel. B-PHONE -RRB- .
+
+Wir bedanken uns für die Übernahme und stehen für Rückfragen jederzeit zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE
+Ärztlicher Direktor Oberarzt Assistenzarzt

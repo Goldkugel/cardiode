@@ -1,0 +1,499 @@
+Aufnahmedatum: <[Pseudo] 2038-05-04 >
+Geburtsdatum: <[Pseudo] 2006-08-24 >
+Alter: 31
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 24/08/2006> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+
+Diagnosen:
+- Driveline-Infekt mit Staphylokokkus aureus
+-UNK- Nachweis von Staphylokokken in der Blutkultur
+-UNK- Meropenem <[Pseudo] 21.04.> - dato
+-UNK- Rifampicin <[Pseudo] 27/04/2038> - dato
+-UNK- Vancomycin <[Pseudo] 21.04.> - <[Pseudo] 23/04/2038>
+-UNK- Ausschluss Endokarditis mittels TEE am <[Pseudo] 24/04/2038>
+-UNK- CT- Thorax/Abdomen mit KM: Langstreckige Weichgewebsverdichtung entlang der Driveline nach Durchtritt durch die Muskulatur als möglicher Hinweis auf einen Driveline-Infekt
+
+- Subtherapeutische INR-Spiegel
+-UNK- Passageres Bridging, initial mit Heparin-Perfusor, bei fraglicher HIT -LRB- HIT-Screen pos, HIP-Antikörper negative -RRB- Bridging mit Fondaparinux
+-UNK- INR bei Verlegung: 2,15
+
+- Erneute HIT-Diagnostik am <[Pseudo] 28/04/2038:> HIT-II-Screening negativ -LRB- NPV: 98% -RRB-
+-UNK- Thrombozyten stabil, klinisch kein V.a. HIT-II
+
+- Z.n. LVAD-Implantation -LRB- HeartMate III -RRB- , Tandemheart, Impella-Explantation am <[Pseudo] 08/03/2037> bei
+-UNK- kardiogenem Schock bei a.e. chron. lymphozytärer Myokarditis mit hochgradig reduzierter LV-Funktion mit Multiorganversagen
+-UNK- Z.n. Re-Thorakotomie bei Tamponade am <[Pseudo] 09/03/2037>
+-UNK- Z.n. perkutane dilatative Tracheotomie am <[Pseudo] 21/03/2037>
+-UNK- Z.n. RVAD-Explantation am <[Pseudo] 31/03/2037>
+- Anamnestisch Ausschluss KHK
+-UNK- kein Herzkatheterbefund in domo
+- Z.n. peripherer LAE <[Pseudo] 12/2036>
+- Encephalomyelitis disseminata
+- Thrombozytopenie, HIT-Screen. pos., HIPA neg.
+- 3 MRGN/VRE
+
+Kardiovaskuläre Risikofaktoren: ehemaliger Nikotinkonsum, karent seit <[Pseudo] 12/2036> -LRB- noch gelegentlich -RRB- , kumulativ ca. 15 PYs.
+Allergien: keine bekannt -LRB- HIT-Screening positiv, HIPA negativ -RRB-
+
+Anamnese:
+Die Vorstellung erfolgte als Verbringung durch den Notarzt. Heute Vorstellung beim Hausarzt bei AZ Verschlechterung seit einigen Tagen. Vor 4 Tagen Kopfschmerzen und Übelkeit mit Erbrechen. Weiterhin
+Lichtempfindlichkeit. Auf spezifische Nachfrage keine typische Angina pectoris oder inadäquate Belastungsdyspnoe. Kein Schwindel, keine Synkope. Keine Palpitationen. Kein Hinweis auf einen akuten
+Infekt. INR Werte hätte er schon seit ein paar Tagen nicht mehr kontrolliert. Initial Vorstellung über die Neurologie, hier unauffällige cCT und kein Hinweis auf Meningitis.
+
+Körperlicher Untersuchungsbefund :
+AZ: reduziert, ungepflegt
+EZ: gut
+HF: 90/min, regelmäßig
+RR: 100/60mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Einflussstauung.
+Cor: VAD Strömungsgeräusch
+Pulmo: vesikuläres AG
+Abdomen: weich, kein DS, keine Resist. lebhafte DG
+Leber/Milz: nicht vergrößert palpabel
+Periphere Ödeme: keine
+Pulsstatus: o.p.B.
+Neurol. Status: orientierend o.p.B.
+sonstige Auffälligkeiten: Driveline Stelle gereizt, leich blutig, kein Nachweis von Pus
+
+Ruhe-EKG:
+Sinusrhythmus, Herzfrequenz 90min, Linkstyp, QRS 96ms, PQ 172ms, QTc 417ms. T-Negativierung V4-V6.
+
+CT Schädel nativ vom <[Pseudo] 21/04/2038:>
+Rechtfertigende Indikation: HTG
+Befund:
+Zum Vergleich liegt eine CT vom <[Pseudo] 08/07/2037> vor. Unveränderte, altersentsprechende Liquorräume. Kein Nachweis eines pathologischen subduralen Kompartiments. Regelrechte Abgrenzbarkeit von Kortex und Basalganglien. Bei üblicher Artefaktüberlagerung unauffällige Darstellung von Hirnstamm und Kleinhirn. Keine pathologischen Hyperdensitäten.
+Soweit mitabgebildet sind NNH und Ohrnebenräume regelrecht belüftet.
+Beurteilung:
+Altersentsprechender Befund von Hirnparenchym und Liquorräumen.
+Keine Fokuskorrelat in den NNH oder Ohrnebenräumen, soweit mitabgebildet.
+
+CT Thorax, Abdomen und Becken mit Kontrastmittel vom <[Pseudo] 21/04/2038:>
+Rechtfertigende Indikation: LKR
+Messungen und manuelle Platzierung von ROIs -LRB- CT -RRB- vom <[Pseudo] 21/04/2038>
+Multiplanare Reformatierung -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 21/04/2038>
+Spektral-CT vom <[Pseudo] 21/04/2038>
+Maximum-Intensitäts-Projektion -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 21/04/2038>
+Vergleich zu einer Voruntersuchung vom B-DATE.
+Befund:
+Thorax: Z.n. LVAD und Tandem-Heart Implantation. 8 mm messende Milchglasverdichtung im rechten Oberlappen apical -LRB- 404 / 28 -RRB- , regredient zur Voruntersuchung, a.e. narbig. Keine pneumonischen Infiltrate. Pleuraerguss rechts dorsal mit einer Saumbreite bis 14 mm, in den großen Lappenspalt ziehend, angrenzende Dystelektasen. Weichgewebsverdichtung im vorderen oberen Mediastinum mit etwa 45 x 29 mm -LRB- 401/50 -RRB- bei hier zuvor postoperativer Flüssigkeitskollektion in der Voruntersuchung a.e. postoperativ bedingt. Prominente axilläre Lymphknoten beidseits bis 9 mm. Leicht vergrößerte mediastinale Lymphknoten bis 10 mm KAD -LRB- 401/36 -RRB- . Kein Nachweis vergrößerter hilärer Lymphknoten.
+Abdomen: Langstreckige Weichgewebsverdichtung entlang der Driveline nach Durchtritt
+durch die ventrale Bauchmuskulatur -LRB- 401/161 bis 142 -RRB- , im Vergleich zur direkt postoperativen Aufnahme vom <[Pseudo] 28/03/2037> zunehmend. Geringe Mengen freier Flüssigkeit perihepatisch.
+Homogene Kontrastierung der Leber ohne fokale Läsionen. Gallenblase reizlos, keine Cholestase. Pfortader und Lebervenen frei perfundiert. Milzparenchym unauffällig. Seitengleiche Kontrastierung der Nieren, kein Harnstau. Nebennieren beidseits unauffällig. Kein Nachweis vergrößerter abdominelle Lymphknoten. Keine freie abdominelle Luft. Kein Nachweis von Abszessformationen.
+Skelett: Minimale degenerative Veränderungen am Achsenskelett. Keine suspekten ossären Läsionen. CT-graphisch kein Hinweis auf Spondylodiszitis.
+Beurteilung:
+-UNK- Langstreckige Weichgewebsverdichtung entlang der Driveline nach Durchtritt durch die Muskulatur als möglicher Hinweis auf einen Driveline-Infekt, allerdings kein vermehrtes KM-Enhancement und keine Membranisierungen oder Einschmelzungen, DD unspezifisch.
+-UNK- Residuelle Weichgewebsvermehrung im oberen Mediastinum, a.e. postoperativ.
+-UNK- Sonst kein thorakoabdomineller Infektfokus.
+
+Echokardiogramm vom <[Pseudo] 21/04/2038:>
+Beurteilung Kanüle des LVAD-Devices im Bereich des LV-Apex sonographisch regelrecht. Dilatierter linker Ventrikel mit hochgradig verminderter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte. Keine LV-Thromben. Verminderte longitudinale Funktion. LA dilatiert, RA und RV noch normal groß, verminderte RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Regelrechte Öffnungsbewegung der Aortenklappe bei jeder Herzaktion nachweisbar. Keine vegetationsverdächtige Veränderungen an den Herzklappen oder Kanüle. Der systolische PADruck in Ruhe ist ohne Trikuspidalklappeninsuffizienz nicht ableitbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 17/11/2037:> Hinweis auf leichte Volumenmangelsituation -LRB- RA/RV-Diameter trotz atypischer Anlotung abnehmend -RRB- , ansonsten keine wesentliche Befundänderung
+
+TEE vom <[Pseudo] 24/04/2038:>
+Kein Hinweis auf Endokarditis: Keine vegetationsverdächtige Veränderungen an den Herzklappen oder LVAD-Kanüle nachweisbar. Kein Nachweis intrakardialer Thromben. Verminderte Flussgeschwindigkeit im linken Vorhofohr. Kein Nachweis eines Persistierendes Foramen ovale. Aorta ascendens, Bogen und descendens - soweit einsehbar - regelrecht. Kanüle des LVAD-Devices im Bereich des LV-Apex sonographisch regelrecht. Dilatierter linker Ventrikel mit hochgradig verminderter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte. Verminderte longitudinale Funktion. LA dilatiert, RA und RV noch normal groß, verminderte RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Regelrechte Öffnungsbewegung der Aortenklappe bei jeder Herzaktion nachweisbar. Der systolische PA-Druck in Ruhe ist ohne Trikuspidalklappeninsuffizienz nicht ableitbar.
+
+Geplante Untersuchung: FDG-PET/CT mit F18-FDG am <[Pseudo] 27/04/2038:>
+Die Untersuchung konnte am heutigen Tage nicht durchgeführt werden, da der Patient gefrühstückt hatte. Mindestens 6-stündige Nahrungskarenz vor der Untersuchung empfohlen -LRB- auch keine gesüßten Getränke, Kaugummis, Bonbons etc. -RRB- .
+Ggf. Wiedervorstellung nach erneuter Terminvereinbarung.
+
+Labor:
+Zusammenfassung:
+Die Aufnahme des Patienten erfolgte über unsere B-ORG bei unklarem Infekt.
+
+In der CT-Diagnostik zeigte sich der V.a. einen drive-line-Infekt bei sonst fehlendem Hinweis für einen thorakoabdominellen Infektfokus. Wir initiierten eine Antibiose mit Meropenem und Vancomycin. In den Blutkultur gelang der Nachweis von multisensiblem Staph. aures weshalb Vancomycin auf Flucloxacillin umgestellt wurde. Meropenem wurde vorerst bei Nachweis von E. coli und Enterobacter cloacae im direvline-Abstrich belassen. Zur weiterführenden Fokussuche erfolgte am <[Pseudo] 24/04/2038> eine TEE. Hier zeigte sich kein Hinweis auf einen Infektfokus. Ein PET-CT war für den <[Pseudo] 27/04/2038> geplant worden, konnte aber aufgrund einer Nahrungsaufnahme innerhalb von 6h vor der Untersuchung entgegen der ärztlichen Anordnung nicht durchgeführt werden. Bei Nachweis eines multisensiblen Staphylokokkus aureus in der Nase wurde eine Sanierung eingeleitet. Wir bitten um Fortführung.
+
+Zudem erfolgte zur erweiterten Fokussuche eine Vorstellung in der MKG, in der sich kein Zahnfokus bestätigte.
+
+Die Antibiose wurde fortgeführt und bei klinisch hochgradigem V.a. Driveline-Infekt in infektiologischer Rücksprache um Rifampicin ergänzt. Die antibiotische Therapie mit Flucloxacilllin und Rifampicin sollte für 4 Wochen ab 1. negativer Blutkultur fortgeführt werden. Meropenem bis zum B-DATE.
+
+Ein subtherapeutischer INR-Spiegel musste intermittierend mit niedermolekularem Heparin überbrückt werden. Im Verlauf wurde das Bridging auf Fondaparinux umgestellt -LRB- bei fraglichem HIT in der Anamnese, jedoch ohne den Nachweis von Antikörpern in der damaligen Diagnostik -RRB- . Eine erneute HIT-Diagnostik wurde asserviert. Hier zeigte sich ein negativer Screening-test. Die Thrombozyten waren ebenfalls allzeit stabil, zudem kein klinischer Hinweis auf ein HIT II.
+
+Wir passten die Medikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER mit einem Entlassgewicht von 61 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Procedere:
+- Fortführung AB wie unter Zusammenfassung angegeben -LRB- Antibiogramm anbei -RRB-
+- Engmaschige INR-Kontrollen unter Rifampicin-Therapie durch Beeinflussung mikrosomaler Enzyme
+
+Aktuelle Therapie:
+Flucloxacillin 2g 1-1-1-1 -LRB- jeweils über 3 h, bis 4w nach 1. Negativer BK -RRB-
+Meropenem 1g 1-1-1 bis <[Pseudo] 04/05/38>
+Rifampicin 300 mg 1-1-1 oral seit <[Pseudo] 27/04/2038> abends
+
+Marcumar nach INR, Ziel 2-3 Cave Rifampicin -LRB- letzte 4 Tage: 1,5-1-5-3-3, heute: 0 -RRB-
+ASS 100 mg 1-0-0
+Carvedilol 6,25 mg 1-0-1
+Entresto 97/103 mg 1-0-1
+Spironolacton 50mg 1-0-0
+Sildenafil 20 mg 1-1-1
+Amlodipin 10 mg 1-0-0
+Pantozol 40 mg 1-0-1
+L-Thyroxin 100 ug 1-0-0
+Kalinor ret. 600 mg 2-1-2
+Magnesium verla bei Bedarf
+Mirtazapin 15 mg 0-0-1
+Sertralin 50 mg 2,5-0-0
+Novalgin 500 mg b.B.
+
+Mupirocin Nasensalbe 1-1-1-1
+Chlorhexidin Nasensalbe 1-1-1-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden jenseits des 60. Lebensjahres sowie bei KHK- und/oder Herzinsuffizienz im Besonderen empfohlen.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2037> und dem B-DAY B-MONTH <[Pseudo] 2037>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+13.30 !H
+4 - 10 /nl
+B-DATE
+Hb
+14.3
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.7
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.410
+0,38 - 0,52 l/l
+B-DATE
+MCV
+87
+83 - 97 fl
+<[Pseudo] 28/04/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 28/04/38>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 28/04/38>
+RDW
+13.2
+12,9 - 18,7 %
+<[Pseudo] 28/04/38>
+hypochr.Erythroz.
+0.2
+0 - 2 %
+<[Pseudo] 28/04/38>
+Thrombozyten
+464 !H
+150 - 440 /nl
+<[Pseudo] 28/04/38>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+136
+135 - 146 mmol/l
+<[Pseudo] 28/04/38>
+Kalium -LRB- ISE -RRB-
+4.81 !H
+3,4 - 4,6 mmol/l
+B-DATE
+Calcium
+2.39
+2,11 - 2,59 mmol/l
+B-DATE
+Kreatinin
+0.53 !L
+0,6 - 1,2 mg/dl
+<[Pseudo] 28/04/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+38
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+141.0
+>60 s.u.
+<[Pseudo] 28/04/38>
+MDRD
+173.80
+ml/min/1,73qm
+B-DATE
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+40.1
+30 - 50 g/l
+B-DATE
+Glucose
+105
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+69 !H
+- <46 U/l
+B-DATE
+GPT/ALT
+60 !H
+- <50 U/l
+B-DATE
+GGT
+60 !H
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.30
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+1.8
+- <7 mg/dl
+B-DATE
+Triglyceride
+110
+- <150 mg/dl
+B-DATE
+Cholesterin
+146.0
+- alt.abh. mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+98
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+26 !L
+>40 mg/dl
+B-DATE
+Haptoglobin
+3.68 !H
+0,3 - 2,0 g/l
+<[Pseudo] 24/04/38>
+CRP
+63.9 !H
+- <5 mg/l
+<[Pseudo] 27/04/38>
+PCT sens.
+0.16 !H
+- <0,05 ng/ml
+<[Pseudo] 21/04/38>
+Hämolyse
+-
+
+<[Pseudo] 28/04/38>
+ikterisch
+-
+
+<[Pseudo] 28/04/38>
+Lipämie
+-
+
+<[Pseudo] 28/04/38>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+185
+- <316 U/l
+B-DATE
+CK
+32
+- <190 U/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+7.49
+- <14 pg/ml
+B-DATE
+NT-BNP
+1739 !H
+- <125 ng/l
+<[Pseudo] 21/04/38>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.2
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+33
+20 - 42 mmol/mol
+B-DATE
+mittlere Glucose
+103
+- <110 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.83
+0,400 - 4,000 mU/l
+B-DATE
+FT3
+1.92 !L
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+9.68
+8 - 18 ng/l
+B-DATE
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+29.2 !L
+70 - 125 %
+<[Pseudo] 28/04/38>
+INR - ber.
+2.19 !H
+- <1.2
+B-DATE
+aPTT
+29.4
+- <35 s
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Fib. -LRB- Clauss -RRB-
+8.75 !H
+1,8 - 3,5 g/l
+B-DATE
+D-Dimer -LRB- neu -RRB-
+2.36 !H
+- <0,5 mg/l
+B-DATE
+ATIII
+113.5
+80 - 120 %
+<[Pseudo] 24/04/38>
+
+
+Medikamentenspiegel & Toxikologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Vancomycin
+7.5
+5 - 20 mg/l
+<[Pseudo] 23/04/38>
+
+
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.47 !H
+7,37 - 7,45
+B-DATE
+pO2
+69
+mmHg
+B-DATE
+pCO2
+36.8
+35 - 45 mmHg
+<[Pseudo] 22/04/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+2.9
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+27.0
+mmol/l
+B-DATE
+Laktat
+7.3
+- <16 mg/dl
+B-DATE

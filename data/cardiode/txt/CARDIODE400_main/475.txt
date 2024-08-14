@@ -1,0 +1,386 @@
+Aufnahmedatum: <[Pseudo] 2036-04-14 >
+Geburtsdatum: <[Pseudo] 1975-11-24 >
+Alter: 60
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 24/11/1975> wh. B-PLZ B-LOC B-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Diagnosen:
+- Ischämische Kardiomyopathie
+-UNK- Mittelgradige eingeschränkte systolische Pumpfunktion -LRB- LVEF 40% -RRB- -LRB- TTE <[Pseudo] 04/2035> -RRB-
+-UNK- Diskreter Prolaps des vorderen Mitralsegels mit begleitender leichtgradiger Insuffizienz
+- Koronare 2-Gefäßerkrankung mit vasospastischer Komponente
+-UNK- Z.n. NSTEMI mit Z.n. erfolglosem Rekanalisationsversuch einer peripheren RD Verschlußes -LRB- B-ORG -RRB- <[Pseudo] 04/2031>
+-UNK- Z.n. NSTEMI mit Rekanalisation eines peripheren RCX Verschlußes und Z.n. kardialer Dekompensation mit Lungenödem -LRB- B-LOC -RRB- <[Pseudo] 05/2031>
+-UNK- Z.n. RIVA-6-PCI mit BVS <[Pseudo] 05/2031>
+-UNK- Auschluß interventionsbedürftiger Koronarstenosen <[Pseudo] 11/2031> und <[Pseudo] 12/2032>
+-UNK- Z.n kardialer Dekompenstation B-DATE B-LOC
+- Homozygote MTHFR Genmutation
+- Z.n. Eventrecorder <[Pseudo] 04/2031> bis <[Pseudo] 12/2031> -LRB- B-ORG I-ORG I-ORG -RRB- , keine relevanten Vorhofflimmern Episoden dokumentiert
+- Gemischte Hyperlipidämie
+-UNK- CLEAR-Outcome Studie -LRB- Bempedosäure -RRB- seit <[Pseudo] 10/2033>
+-UNK- ABI-Messung <[Pseudo] 11/32> opB
+-UNK- IMD 0,5mm bds. <[Pseudo] 11/32>
+-UNK- Lp -LRB- a -RRB- <10mg/dl
+- Hypothyreose unklarer Genese
+- Z.n. Gallenblasen-Operation
+
+Kardiovaskuläre Risikofaktoren: Gemischte Hyperlipidämie, ehemaliger Nikotinkonsum, karent seit B-YEAR, kumulativ ca. 5 PY
+Allergien / Unverträglichkeiten: Jod, Statine -LRB- Muskelschmerzen, bisher probiert: Simva-, Atorva- und Rosuva- und Pravastatin -RRB-
+
+Aktuell:
+- Herzinsuffizienz NYHA Stadium III
+- Verlaufskontrolle bei Ischämischer Kardiomyopathie mit aktuell stabilem Verlauf
+
+
+Anamnese:
+Vorstellung zur Verlaufskontrolle bei ischämischer Kardiomyopathie. Seit der letzten Vorstellung bei uns wird ein stabiles kardiales Befinden berichtet. Im Alltag bestehe eine eingeschränkte Belastbarkeit -LRB- max. 1 Etagen Treppensteigen möglich, NYHA III -RRB- , dann Belastungsdyspnoe jedoch keine belastungsinduzierten pectanginösen Beschwerden. Keine Palpitationen. Orthostatischer Schwindel. Synkopen werden verneint. Keine Nykturie. Trinkmenge 1,5 -2 Liter/Tag. Gewichtskonstanz -LRB- 68 kg -RRB- . Keine Ödeme. Aktuell kein klinischer Hinweis auf Infekt -LRB- Kein Husten, kein Fieber, kein Brennen beim Wasserlassen -RRB- . Häusliche Blutdruckmessungen werden nicht durchgeführt. Seit der letzten Vorstellung keine erneuten Hospitalisierungen.
+
+Körperlicher Untersuchungsbefund:
+60-jäh. Pat., 160 cm, 68 kg, in gutem Allgemeinzustand. Klares Bewusstsein, Blutdruck 125/80 mmHg HF 64/min. Herztöne unauffällig, keine pathologischen Geräusche. Vesikuläres Atemgeräusch, keine Nebengeräusche. Keine Ödeme. Keine Zyanose.
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, regelmäßig, 62/min, Linkstyp. PQ: 160 ms, QRS: 93 ms, QT/QTcB: 411/417 ms. Zeiten im Normbereich. Fehlende R-Progression von V1-V5 mit R/S Umschlag in V5/V6. Keine S-Persistenz bis V6. T-Negativierung V6 sowie I, aVL, idem zum Vor-EKG
+
+Echokardiographie:
+Grenzwertig dilatierter linker Ventrikel mit mittelgradig eingeschränkter systolischer Pumpfunktion bei Akinesie des Apex, Akinesie der angrenzenden Wandabschnitte anterior, anteroseptal und inferoseptal, anterolateral sowie Hypokinesie inferolateral. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV noch normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Mitralklappe leicht verdickt mit guter Separation. Diskreter Prolaps des vorderen Mitralsegels mit begleitender, leichtgradiger Insuffizienz. Leichtgradige Trikuspidalklappeninsuffizinez.
+Systolischer PA-Druck im Normalbereich -LRB- 20-25 mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 16/04/2035:> leichter Progress der LV-Dilatation, sonst keine wesentliche Befundänderung.
+
+Labor:
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2035>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.69
+4 - 10 /nl
+B-DATE
+Hb
+13.0
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.4
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.380
+0,36 - 0,47 l/l
+B-DATE
+MCV
+88
+83 - 97 fl
+B-DATE
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+34
+30 - 36 g/dl
+B-DATE
+RDW
+12.9
+12,9 - 18,7 %
+B-DATE
+hypochr.Erythroz.
+0.1
+0 - 2 %
+B-DATE
+Thrombozyten
+474 !H
+150 - 440 /nl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+2.16
+1,0 - 4,8 /nl
+<[Pseudo] 14/04/36>
+Neutroph.G.-abs.
+3.81
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.32
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.30
+- <0,5 /nl
+<[Pseudo] 14/04/36>
+Basoph.G. -LRB- abs -RRB-
+0.02
+- <0,2 /nl
+<[Pseudo] 14/04/36>
+Neutroph.G. -LRB- mech. -RRB-
+56.9
+50 - 80 %
+<[Pseudo] 14/04/36>
+Lympho -LRB- mech. -RRB-
+32.3
+25 - 40 %
+<[Pseudo] 14/04/36>
+Basoph.G.
+0.3
+- <1 %
+<[Pseudo] 14/04/36>
+Monozyten -LRB- mech. -RRB-
+4.8
+2 - 9 %
+<[Pseudo] 14/04/36>
+Eosinoph.G. -LRB- mech. -RRB-
+4.5 !H
+2 - 4 %
+<[Pseudo] 14/04/36>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+143
+135 - 146 mmol/l
+<[Pseudo] 14/04/36>
+Kalium -LRB- ISE -RRB-
+4.20
+3,4 - 4,8 mmol/l
+<[Pseudo] 14/04/36>
+Calcium
+2.24
+2,11 - 2,59 mmol/l
+<[Pseudo] 14/04/36>
+Kreatinin
+0.65
+0,5 - 0,9 mg/dl
+B-DATE
+Harnstoff
+25
+- <45 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cystatin C
+0.99 !H
+0,5 - 0,96 mg/l
+B-DATE
+GFR, CKD-EPI
+96.8
+>60 s.u.
+B-DATE
+GFR -LRB- Cystatin C -RRB-
+74.39 !L
+90 - 150 ml/min/1,73qm
+B-DATE
+MDRD
+104.30
+ml/min/1,73qm
+<[Pseudo] 14/04/36>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+46.5
+30 - 50 g/l
+<[Pseudo] 14/04/36>
+Glucose
+108
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+20
+- <37 U/l
+B-DATE
+GPT/ALT
+16
+- <35 U/l
+B-DATE
+AP
+57
+55 - 105 U/l
+B-DATE
+GGT
+15
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.40
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+7.6 !H
+- <6 mg/dl
+B-DATE
+Triglyceride
+150 !H
+- <150 mg/dl
+<[Pseudo] 14/04/36>
+Cholesterin
+205.0
+- alt.abh. mg/dl
+<[Pseudo] 14/04/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDL-Chol. -LRB- berechn. -RRB-
+123
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+52
+>50 mg/dl
+B-DATE
+Eisen
+11.5 !L
+12 - 27 µmol/l
+<[Pseudo] 14/04/36>
+Ferritin
+58
+20 - 120 µg/l
+<[Pseudo] 14/04/36>
+Transferrin
+2.39
+2,0 - 3,6 g/l
+<[Pseudo] 14/04/36>
+TFSG
+19
+16 - 45 %
+<[Pseudo] 14/04/36>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 14/04/36>
+Hämolyse
+-
+
+<[Pseudo] 14/04/36>
+ikterisch
+-
+
+<[Pseudo] 14/04/36>
+Lipämie
+-
+
+<[Pseudo] 14/04/36>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+181
+- <308 U/l
+B-DATE
+CK
+72
+- <170 U/l
+<[Pseudo] 14/04/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+109
+- <125 ng/l
+<[Pseudo] 14/04/36>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.8
+- <6,1 %
+<[Pseudo] 14/04/36>
+HbA1c -LRB- IFCC -RRB-
+40
+20 - 42 mmol/mol
+<[Pseudo] 14/04/36>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+120 !H
+- <110 mg/dl
+B-DATE
+TSH
+0.660
+0,400 - 4,000 mU/l
+<[Pseudo] 14/04/36>
+
+
+
+
+
+
+
+Zusammenfassung:
+Vorstellung zur Routinekontrolle in unserer Ambulanz bei ischämischer Kardiomyopathie.
+
+Die Patientin berichtet über einen subjektiv stabilen kardialen Verlauf.
+
+Echokardiographisch ergab sich ebenfalls eine Befundkonstanz bei weiterhin mittelgradig eingeschränkter LV-Funktion mit Nachweis einer Akinesie des Apex, Akinesie der angrenzenden Wandabschnitte anterior, anteroseptal und inferoseptal, anterolateral sowie Hypokinesie inferolateral. Die RV-Funktion war normal. Relevante Klappenvitien fand sich nicht bis auf einen Prolaps des vorderen Mitralsegels mit begleitender und konstanter leichtgradiger Insuffizienz. Der systolische PA-Druck war in Ruhe im Normalbereich -LRB- 20-25 mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 16/04/2035> fand sich ein leichter Progress der LV-Dilatation, sonst keine wesentliche Befundänderung.
+
+Die Durchführung eines Belastungs-EKGs wurde seitens der Patientin heute nicht gewünscht. Die Optimierung einer Herzinsuffizienztherapie durch Hinzunahme eines Betablockers wurde erneut und ausführlich besprochen, wird jedoch aktuell weiterhin nicht gewünscht.
+
+Das NTproBNP lag bei 109 ng/l, zuvor 236 ng/l, somit rückläufiger sowie normwertiger Wert.
+
+Bei erhöhten LDL-Werten sowie bekannter ICMP bitten wir um eine Intensivierung der lipidsenkenden Therapie nach Ablauf der CLEAR Studie.
+
+Bei bekannter ICMP mit reduzierten Schallbedingungen von apikal empfehlen wir im Rahmen der nächsten kardiologischen Kontrolle die Durchführung eines bildgebenden Ischämienachweises mittels Kardio-MRT. Ein Termin hierfür wurde für den <[Pseudo] 30/03/2037> um 14:45 Uhr vereinbart, wir bitten die Patienten, sich zum angegebenen Termin um 14:30 Uhr in der Patientenaufnahme in Ebene B-LOC vorzustellen. Zum komplikationsfreien Ablauf der geplanten Untersuchung bitten wir Sie, der Patientin für den Tag der Untersuchung aktuelle Laborwerte -LRB- nicht älter als 3 Wochen -RRB- von Harnstoff und Kreatinin sowie eine Überweisung zum Kardio-MRT mitzugeben. Ein leichtes Frühstück am Tag der Untersuchung ist gestattet. Des Weiteren weisen wir darauf hin, dass der Patient zum komplikationsfreien Ablauf der Untersuchung 24 Stunden vor der Untersuchung keine koffeinhaltigen Lebensmittel -LRB- inklusive schwarzer Tee -RRB- und keine Schokolade zu sich nehmen sollte. Zur Besprechung des Befundes der Kardio-MRT-Untersuchung wurde ein Termin am <[Pseudo] 13/04/2037> um 11 Uhr vereinbart
+
+In der Zusammenschau gehen wir aufgrund der heute klinisch und apparativ erhobenen Befunde von einem stabilen kardialen Verlauf aus.
+
+Wir empfehlen die Fortführung der unten angegebenen Therapie und bitten um Wiedervorstellung in 12 Monaten. -LRB- Terminvereinbarung unter Tel: B-PHONE -RRB- , sowie die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Medikation:
+ASS 100 mg 1-0-0
+L-Thyroxin 75ug 1-0-0
+Entresto 24/26 mg 1-0-1
+Torasemid 10 mg 1-0-0
+Studienmedikation CLEAR Studie 1-0-0
+
+
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Funktionsoberarzt Assistenzärztin

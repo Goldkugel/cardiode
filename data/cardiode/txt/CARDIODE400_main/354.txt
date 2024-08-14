@@ -1,0 +1,312 @@
+Aufnahmedatum: <[Pseudo] 2038-01-25 >
+Geburtsdatum: <[Pseudo] 1964-08-28 >
+Alter: 73
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 28/08/1964> wohnhaft in B-PLZ B-LOC I-LOC I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Hypertensive Entgleisung
+-UNK- Optimierung der antihypertensiven Medikation
+- Kein Anhalt für eine strukturelle oder funktionelle Herzerkrankung
+-UNK- Gute biventrikuläre Pumpfunktion -LRB- TTE vom <[Pseudo] 23/01/2038> -RRB-
+-UNK- Negativer Ischämienachweis -LRB- Stress-Echokardiographie vom <[Pseudo] 23/01/2038> -RRB-
+
+Diagnosen:
+- Paroxysmales Vorhofflimmern
+-UNK- CHA2DS2-VASc: 5
+-UNK- Orale Antikoagulation mit Xarelto
+-UNK- Erfolgreiche elektrische Kardioversion mit 1x120 J nach Amiodaron Kurzinfusion -LRB- extern, biphasisch, synchron; initialer Versuch ohne Amiodaron mit Frührezidiv -RRB- , nachfolgend Sinusrhythmus am <[Pseudo] 11/03/2036>
+- Koronare 1-Gefäßerkrankung der LAD ohne höhergradige Stenosen
+-UNK- Letzte Herzkatheteruntersuchung -LRB- B-OTHER -RRB-
+-UNK- Z.n. PTCA der LAD <[Pseudo] 2008>
+-UNK- Gute linksventrikuläre Pumpfunktion
+-UNK- Leichtgradige Mitralklappeninsuffizienz
+-UNK- Leichtgradige Trikuspidalklappeninsuffizienz
+- Rezidivierende hypertensive Entgleisungen
+- Ausschluss einer Nierenarterienstenose dopplersonographisch -LRB- anamnestisch -RRB-
+- Latente Hyperthyreose
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, positive Familienanamnese, Nikotinanamnese: nie.
+Allergien/Unverträglichkeiten: Pflaster, Amlodipin -LRB- Ödeme -RRB-
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE I-ORG erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- als Selbstvorstellung bei V.a. Progress der bekannten koronaren Herzerkrankung im Sinne einer instabilen Angina Pectoris und V.a. hypertensive Entgleisung.
+Die Patientin berichtet über progrediente pectanginöse Beschwerden mit Ausstrahlung in den linken Arm und Fuß begleitet von Dyspnoe und Übelkeit. Diese bestünden seit einer Woche zunächst bei stärkerer Belastung und seien in den letzten Tagen progredient. Ähnliche Beschwerden habe sie diese Woche auch im Rahmen von RR-Werten um die 180mmHg verspürt. Weiterhin progredienter Belastungsdyspnoe -LRB- entsprechend NYHA II-III -RRB- . Auf spezifische Nachfragen werden Schwindel, Palpitationen sowie präsynkopale Beschwerden verneint. Kein Hinweis auf einen akuten Infekt. Häusliche Blutdruckwerte 140/80 mmHg
+
+Medikation bei Aufnahme:
+Xarelto 20mg 1-0-0
+Lercanidipin 5mg 1-0-1
+Metoprolol 95mg 1-0-0
+Rosuvastatin 10 0-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut
+HF: 88/min, arrythmisch
+RR: 170/95 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: orientierend unauffällig.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+Normofrequentes Vorhofflimmern, Herzfrequenz 88/min, Indifferenztyp, QRS 94 ms, QTc 408 ms. Zeiten im Normbereich. verzögerte R-Progression, R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Transthorakale Echokardiographie vom <[Pseudo] 23/01/2038:>
+Normal großer linker Ventrikel mit noch guter systolischer Pumpfunktion ohne sicher abgrenzbare regionale Kontraktionsstörungen. Noch erhaltene longitudinale Funktion. Kein signifikanter Hinweis auf diastolische LV-Dysfunktion. LA, RA und RV leicht dilatiert, gute RVFunktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aorten- und Mitralklappe leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist leicht erhöht -LRB- ca. 35-40 mmHg -RRB- .
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 31/03/2031:> Keine wesentliche Befundänderung.
+
+Dynamische Stress-Echokardiographie vom <[Pseudo] 23/01/2038:>
+Dynamische Belastung auf dem Liegendergometer bis 75 Watt komplikationslos durchgeführt. Abbruch wegen peripherer Erschöpfung und Belastungsdyspnoe. Herzfrequenzanstieg von 82/min bis 137/min -LRB- 100% der max. erwarteten Herzfrequenz -RRB- , Blutdruckanstieg von 132/83 mmHg bis 176/82 mmHg -LRB- DP = 21106 -RRB- . Das gleichzeitig aufgezeichnete Belastungs-EKG ist unauffällig. Gute Zunahme der Kontraktilität aller Wandsegmente des linken Ventrikels. Systolischer PA-Druck in Ruhe ca. 36 mmHg, Zunahme unter Belastung bis 55 mmHg. Zusammenfassung: Soweit bei deutlich reduzierten Schallbedingungen beurteilbar, negatives Stress-Echokardiogramm, negatives Belastungs-EKG, negative Klinik. Grenzwertiges PA-Druck-Verhalten unter Belastung.
+
+Ruhe-EKG vom <[Pseudo] 23/01/2038:>
+Normofrequentes Vorhofflimmern, Herzfrequenz 87/min, Steiltyp, QRS 90ms, QTc 422ms. Zeiten im Normbereich. R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE I-ORG erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- als Selbstvorstellung bei V.a. Progress der bekannten koronaren Herzerkrankung im Sinne einer instabilen Angina Pectoris und V.a. hypertensive Entgleisung.
+
+Seit der Aufnahme war die Patientin im Wesentlichen nach 2 Hub Nitro asymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 7,2 pg/ml, im Verlauf stabil 6,75 pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig -RRB- . Das NT-pro-BNP fand sich bei 971 ng/l.
+
+Echokardiographisch zeigte sich ein normal großer linker Ventrikel mit noch guter systolischer Pumpfunktion ohne sicher abgrenzbare regionale Kontraktionsstörungen. Die Herzklappen stellten sich sonographisch und dopplersonographisch regelrecht dar.
+
+Zum Ausschluss einer belastungsinduzierten myokardialen Ischämie erfolgte die Durchführung einer dynamischen Stress-Echokardiographie, hier zeigte sich eine gute Zunahme der Kontraktilität aller Wandsegmente des linken Ventrikels. Der systolische PA-Druck war in Ruhe bei ca. 36 mmHg, unter Belastung zeigte sich eine Zunahme bis 55 mmHg. Zusammenfassend zeigte sich, soweit bei deutlich reduzierten Schallbedingungen beurteilbar, ein negatives Stress-Echokardiogramm bei negativem Belastungs-EKG und negativer Klinik bei grenzwertigem PA-Druck- Verhalten unter Belastung. Insgesamt ergibt sich kein Anhalt für eine strukturelle oder funktionelle Herzerkrankung.
+
+Bei hypertensiver Entgleisung und während des stationären Aufenthaltes hypertensivem Blutdruckprofil erfolgte eine Erweiterung der antihypertensiven Medikation wie unten angegeben. Wir bitten darunter um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf.
+
+Sollte es darunter zu keiner Symptomverbesserung kommen, empfehlen wir zum Ausschluss einer therapiebedürftigen, pulmonalen Hypertonie eine Vorstellung in unserer Spezialambulanz für pulmonalarterielle Hypertonie.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien, eine absolute Nikotinkarenz sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung. Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen Kollegin oder einem niedergelassenen Kollegen.
+
+
+Therapieempfehlung:
+Xarelto 20mg 1-0-0
+Metoprolol 95mg 1-0-0
+Lercanidipin 10mg 1-0-1 Dosissteigerung
+Ramipril 5mg 1-0-1 Neu
+Rosuvastatin 10 0-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsärztin
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+
+Werte wurden ermittelt am B-DAY B-MONTH <[Pseudo] 2037>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.55
+4 - 10 /nl
+B-DATE
+Hb
+15.1 !H
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+4.7
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.440
+0,36 - 0,47 l/l
+B-DATE
+MCV
+93
+83 - 97 fl
+<[Pseudo] 20/01/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 20/01/38>
+MCHC
+34
+30 - 36 g/dl
+<[Pseudo] 20/01/38>
+RDW
+12.7 !L
+12,9 - 18,7 %
+<[Pseudo] 20/01/38>
+hypochr.Erythroz.
+0.2
+0 - 2 %
+<[Pseudo] 20/01/38>
+Thrombozyten
+202
+150 - 440 /nl
+<[Pseudo] 20/01/38>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 20/01/38>
+Kalium -LRB- ISE -RRB-
+4.25
+3,4 - 5,0 mmol/l
+<[Pseudo] 20/01/38>
+Kreatinin
+0.70
+0,5 - 1,1 mg/dl
+<[Pseudo] 20/01/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+20
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+86.2
+>60 s.u.
+<[Pseudo] 20/01/38>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+97
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+27
+- <37 U/l
+B-DATE
+GPT/ALT
+28
+- <35 U/l
+<[Pseudo] 20/01/38>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 20/01/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
++
+
+<[Pseudo] 20/01/38>
+ikterisch
+-
+
+<[Pseudo] 20/01/38>
+Lipämie
+-
+
+<[Pseudo] 20/01/38>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+265
+- <301 U/l
+B-DATE
+CK
+64
+- <170 U/l
+<[Pseudo] 20/01/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+971 !H
+- <450 ng/l
+<[Pseudo] 20/01/38>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.10
+0,400 - 4,000 mU/l
+<[Pseudo] 20/01/38>
+FT3
+3.28
+2,0 - 4,2 ng/l
+<[Pseudo] 20/01/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+FT4
+13.71
+8 - 18 ng/l
+<[Pseudo] 20/01/38>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+60.8 !L
+70 - 125 %
+<[Pseudo] 20/01/38>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+INR - ber.
+1.25 !H
+- <1.2
+B-DATE

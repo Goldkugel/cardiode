@@ -1,0 +1,99 @@
+Aufnahmedatum: <[Pseudo] 2032-05-21 >
+Geburtsdatum: <[Pseudo] 1967-07-26 >
+Alter: 64
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 26/07/1967> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+
+Aktuell:
+ACS
+- NSTEMI DD Typ II bei Vorhofflimmern -LRB- Grace-Score: -RRB-
+
+- Erfolgreiche elektrische Kardioversion
+- Xx Ischämienachweis in der dynamischen Stressechokardiographie -LRB- <[Pseudo] 22/05/2032> -RRB-
+
+Diagnosen:
+- x
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Nikotinkonsum, Adipositas, Diabetes mellitus Typ 2 -LRB- insulinpflichtig -RRB- , pos. Familienanamnese
+
+Allergien/Unverträglichkeiten: keine bekannt
+
+Anamnese:
+
+Der Patient / Die Patientin beklagt BLANKLINEBLANKLINE seit BLANKLINEBLANKLINE -LRB- AP-Beschwerden, Belastungsdyspnoe, Schwindel, Synkopen inkl. Sturzfolgen, Palpitationen, ggf. sonstiges -RRB- . Auf gezielte Nachfrage: Pektanginöse Beschwerden nicht vorhanden / unter Belastung / in Ruhe -LRB- analog CCS BLANKLINEBLANKLINEBLANKLINE -RRB- , keine / geringe / ausgeprägte Belastungsdyspnoe -LRB- analog NYHA BLANKLINEBLANKLINEBLANKLINE -RRB- , kein Schwindel, keine Synkopen, keine Palpitationen. Es bestehen keine / gelegentlich / ständig /abendlich betont periphere Ödeme bei stabilem Gewichtsverlauf / zuletzt Gewichtszunahme von X kg. Nykturie bestehe x -mal pro Nacht bei einer Trinkmenge von x l/d. Die häuslich gemessenen Blutdruckwerte seien um X/X mmHg.
+
+Es bestehen BLANKLINEBLANKLINE kardiale Dekompensationen in der Vorgeschichte, zuletzt BLANKLINEBLANKLINE . In den letzten 6 Wochen und bei Aufnahme kein Anhalt für einen Infekt -LRB- keine Dysurie, kein Fieber, kein Husten, kein subjektives Krankheitsgefühl -RRB- .
+
+
+Medikation bei Aufnahme:
+x
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: cm, Gewicht: kg, BMI: kg/m2 -RRB-
+HF: /min
+RR: mmHg
+Keine Cyanose, keine Anämiezeichen, kein Ikterus.
+HT: leise, rein, keine path. Geräusche
+Lunge: bds. vesikuläres AG, sonorer KS, keine NG
+Pulsstatus: periphere Pulse gut tastbar
+Periphere Ödeme: keine
+Abdomen: weich, kein DS, keine Resistenzen
+Neurol. Status: orientierend o.p.B.
+
+
+Ruhe-EKG bei Aufnahme:
+Sinusrhythmus, /min, lagetyp. PQ ms, QRS ms, QTc ms. Zeiten im Normbereich. R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Herzkatheteruntersuchung -LRB- HK-Nr. XXXX-20XX vom XX.XX.XXXX -RRB-
+XXX
+
+Labor:
+
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte über unsere ORG bei initialer Vorstellung in der Rhythmusambulanz zur Aufklärung für eine PVI/ecV?.
+
+Bei AP-Beschwerden erfolgte eine Übernahme in die ORG und hier formal das rule-in für einen NSTEMI DD Typ II bei Vorhofflimmern.
+
+Zur weiteren Risikostratifizierung wurde eine dynamische Stressechokardiographie durchgeführt. Hier zeigte sich BLANKLINEBLANKLINE .
+
+Anschließend erfolgte bei dauerhaft eingenommener Antikoagulation die erfolgreiche elektrische Kardioversion in den Sinusrhythmus.
+
+Bei V.a. BLANKLINEBLANKLINE stellten wir die Indikation zur invasiven Diagnostik. In der Koronarangiographie zeigte sich eine Koronare BLANKLINEBLANKLINE -Gefäßerkrankung mit hochgradiger BLANKLINEBLANKLINE -Stenose. Es erfolgte eine erfolgreiche Rekanalisation der hochgradigen BLANKLINEBLANKLINE -Stenose mittels PTCA und BLANKLINEBLANKLINE -fach DE-Stentimplantation.
+
+Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung mit ASS und Clopidogrel / Ticagrelor für 6 / 12 Monate nach Stentimplantation. Auf die Bedeutung einer lückenlosen Einnahme beider Präparate für diesen Zeitraum wurde explizit hingewiesen. Anschließend empfehlen wir ASS dauerhaft fortzuführen. Bei hohem Ischämie- und niedrigem Blutungsrisiko kann ebenfalls eine prolongierte anti-thrombotische Therapie analog Pegasus- -LRB- ASS 100 mg 1-0-0 + Ticagrelor 60 mg 1-0-1 -RRB- oder Compass-Schema -LRB- ASS 100mg 1-0-0 + Rivaroxaban 2,5mg 1-0-1 -RRB- evaluiert werden.
+
+Zur Stentverschlussprophylaxe empfehlen wir bei bestehender Antikoagulationsindikation eine Triple-Therapie mit dualer Thrombozytenaggregationshemmung -LRB- zusätzlich zur dauerhaften Antikoagulation -RRB- mit ASS und Clopidogrel für insgesamt 1 Monat / 7 Tage -LRB- bei erhöhtem Blutungsrisiko -RRB- . Anschließend ist eine singuläre Thrombozytenaggregationshemmung -LRB- zusätzlich zur Antikoagulation -RRB- mit Clopidogrel bis 6 / 12 Monate nach Stentimplantation erforderlich. Hiernach ist die alleinige Antikoagulation ausreichend. Auf die Bedeutung einer lückenlosen Einnahme der Präparate für o.g. Zeiträume wurde explizit hingewiesen.
+
+Dem Patienten/Der Patientin wurde ein Implantatausweis ausgehändigt. Es wurde ausführlich über notwendige Verhaltensanweisungen informiert.
+
+Zum Ischämienachweis bzgl. der residuellen BLANKLINEBLANKLINE -Stenose empfehlen wir die Durchführung eines bildgebenden Ischämienachweises mittels dynamischer / pharmakologischer Stressechokardiographie zum u.a. Termin.
+
+Zum Ischämienachweis bzgl. der residuellen BLANKLINEBLANKLINE -Stenose empfehlen wir die Durchführung eines Stress-Kardio-MRTs zum u.a. Termin. Zum komplikationsfreien Ablauf der geplanten Untersuchung bitten wir Sie, dem Patienten für den Tag der Untersuchung aktuelle Werte -LRB- nicht älter als 10 Tage -RRB- von TSH, Harnstoff und Kreatinin sowie eine Überweisung zum Kardio-MRT mitzugeben. Ein leichtes Frühstück am Tag der Untersuchung ist freundlich gestattet. Wir weisen darauf hin, dass mindestens ab 24h vor der Untersuchung keine koffeinhaltigen Speisen und keine Schokolade zu konsumieren sind.
+
+Zur Versorgung der residuellen BLANKLINEBLANKLINE -Stenose empfehlen wir die Durchführung einer elektiven PTCA zum u.a. Termin. Wir bitten zur Aufnahme auf unsere B-ORG eine Einweisung zum Herzkatheter, sowie ein aktuelles Labor inkl. TSH, Kreatinin und Quick -LRB- nicht älter als 10 Tage -RRB- mitzubringen. BLANKLINEBLANKLINE darf am Tag der Untersuchung / ab dem Vorabend nicht eingenommen werden. Die übrigen Medikamente empfehlen wir einzunehmen. Die Aufklärung ist bereits erfolgt und liegt dem ZPM vor.
+
+Wir passten die Herzinsuffizienzmedikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Zudem bitten wir bei Statin-Therapie um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen xxxxxxxxxxxxxxx mit einem Entlassgewicht von xxxxxxxxxxx kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Procedere/Termine:
+- Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen B-SALUTE oder Kollegen. B-PER -
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

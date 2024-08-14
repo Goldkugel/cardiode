@@ -1,0 +1,336 @@
+Aufnahmedatum: <[Pseudo] 2437-10-25 >
+Geburtsdatum: <[Pseudo] 2065-09-10 >
+Alter: 372
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 10/09/2065> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Geplante Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 23/09/2146> -RRB- mit/bei:
+-UNK- Koronare 1-Gefäßerkrankung der LAD mit 50%iger prox. Stenose. Global noch leichtgradig eingeschränkte linksventrikuläre Pumpfunktion. Erhöhte enddiastolische Drücke des linken Ventrikels -LRB- 18mmHg -RRB- .
+-UNK- Angiographisch und hämodynamisch mittelgradige Aortenklappeninsuffizienz. Erhöhte Drücken im kleinen Kreislauf -LRB- 45/18/28 mmHg -RRB- . Leicht erhöhter pulmonalarterieller Widerstand -LRB- 158 dyn.s.cm^-5 -RRB- , gemischtvenöse Sättigung 68%, Cardiac Index 2,6l/min/m².
+-UNK- Aneurysma der Aorta ascendens -LRB- ca. 53mm -RRB- .
+-UNK- Ad chirurgischer Aorta ascendens Ersatz nach Maßgabe Herzchirurgie und LIMA ad LAD
+
+Diagnosen:
+- V.a. Progress der Aortenklappeninsuffizienz sowie Anstieg des PA-Drucks von 62mmHg -LRB- Echokardiographie DATE, B-ORG I-ORG -RRB-
+- Gute linksventrikuläre Funktion -LRB- EF 58%, LVED 44mm -RRB- ohne Wandbewegungsstörungen bei konzentrischer linksventrikulärer Hypertrophie
+- Aorta Ascendens Aneurysma, aktuell 5,2cm Diameter -LRB- MRT <[Pseudo] 23/04/2146> Gefäßchirurgie I-ORG -RRB-
+- Komplettes Remodelling nach TEVAR bei B- Dissektion mit max. 3,6cm Diameter der AO. desc. auf Höhe TEVAR- Beginn
+- Z. n. perkutaner transfemoraler TEVAR am <[Pseudo] 02/04/2141> in ITN bei subakuter B-Dissektion, Ereignis fraglich <[Pseudo] 23/01/2141> mit großem Entry im Bereich der proximalen Ao. desc. -LRB- 1,5 x 1,8 cm -RRB- , damals max. Aortendiameter 4,1 cm am thorakoabd. Übergang
+- Abgangsstenose der A. hepatica communis durch Dissektionsmembran
+- Mitralklappeninsuffizienz I-II°
+- Trikuspidalinsuffizienz, PA-Druck ca. 75mmHg
+- Art. Hypertonie
+- Z. n. CHE
+- Z. n. Prostatavesikulektomie und pelviner LAE R1 <[Pseudo] 08/2139> -LRB- B-ORG I-ORG -RRB-
+- Z. n. additiver Radiotherapie der Prostataloge mit Protonen -LRB- GD 18x3 GyE -RRB- im Rahmen der PROLOG-Studie vom B-DATE - B-DATE
+- -UNK- Upside down -UNK- Magen bei Hiatushernie
+- Z. n. Leistenhernien-OP rechts
+- Supraumbilikale Bauchwandhernie
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Hypercholesterinämie, geringster ehemaliger Nikotinabusus -LRB- geringer Konsum in Jugendjahren, karent seit über 60 Jahren -RRB- , Geringes Übergewicht -LRB- BMI 26,1 kg/m² -RRB- , pos. Familienanamnese -LRB- Schwester mit interventionell versorgter KHK im Alter von 372 372 Bruder mit Aneurysma der Aorta thoracica mit 85 Jahren -RRB-
+
+Allergien:
+Anamnestisch keine bekannt
+
+Anamnese:
+Die Aufnahme auf unsere Station erfolgte elektiv zur Herzkatheteruntersuchung und invasiven Korrelation und ggf. chirurgischen Therapie bei Progress der Aortenklappeninsuffizienz -LRB- Echo MVZ I-ORG <[Pseudo] 02/09/2146> -RRB- , Anstieg des PA-Drucks -LRB- 62mmHG -RRB- und bei bekanntem Aortenaneurysma der Aorta ascendens von zuletzt 52mm -LRB- MRT <[Pseudo] 04/2146> B-LOC -RRB- .
+
+Es wird eine gute körperliche Belastbarkeit im Alltag beschrieben. Beim längeren Wandern bergauf bestehen Belastungsdyspnoe -LRB- NYHA II -RRB- sowie bei Belastung vereinzelt pectanginösen Beschwerden in Form von thorakalem Stechen. In Ruhe bestünden weder pectanginöse Beschwerden noch Dyspnoe. Palpitationen und Schwindel werden wie stattgehabte Synkopen in den letzten Jahren verneint. Die häuslichen Blutdruckmessungen ergäben Werte um 140/55mmHg. Es bestehe keine Nykturie. Periphere Ödeme seien bei Gewichtskonstanz in der letzten Zeit nicht aufgefallen.
+
+Medikation bei Aufnahme:
+ASS 100mg 0-1-0
+Bisoprolol 5mg 1/2-0-1/2
+Candecor 16mg 1-0-0
+Atorvastatin 10mg 0-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+175 cm 80 kg
+HF: 73/min, regelmäßig
+RR: 140 / 55 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein, Diastolikum
+Lunge: o.B., vesikuläres Atemgeräusch
+Abdomen: weich, kein DS, keine Resist
+Leber: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: o.B., Fußpulse beidseits kräftig
+Neurologischer Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Labor:
+Ruhe-EKG vom <[Pseudo] 15/09/2146> -LRB- Ambulanz -RRB- :
+Normofrequenter Sinusrhythmus, regelmäßig, 73/min, Überdrehter Linkstyp. PQ 198msec, QRS 114msec, QTc 392msec. Frühe R-Progression, R/S Umschlag in V2/V3. S-Persistenz. Linksanteriorer Hemiblock. Keine signifikanten Kammerendteilveränderungen.
+
+Ruhe-EKG vom <[Pseudo] 24/09/2146:>
+Normofrequenter Sinusrhythmus, regelmäßig, 69/min, Überdrehter Linkstyp. PQ 194msec, QRS 129msec., QTc 408msec. Regelrechte R-Progression, R/S Umschlag in V2/V3. Keine S-Persistenz. Linksanteriorer Hemiblock. Keine signifikanten Kammerendteilveränderungen
+
+Virologischer Befund vom <[Pseudo] 23/09/2146:>
+
+
+
+
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 23/09/2146> -RRB- , Endbefund:
+Herzkatheteruntersuchung bei hochgradiger Aortenklappeninsuffizienz
+Koronare 1-Gefäßerkrankung der LAD mit 50%iger prox. Stenose. Global noch leichtgradig eingeschränkte linksventrikuläre Pumpfunktion. Erhöhte enddiastolische Drücke des linken Ventrikels -LRB- 18mmHg -RRB- . Angiographisch und hämodynamisch mittelgradige Aortenklappeninsuffizienz. Erhöhte Drücken im kleinen Kreislauf -LRB- 45/18/28 mmHg -RRB- . Leicht erhöhter pulmonalarterieller Widerstand -LRB- 158 dyn.s.cm^-5 -RRB- , gemischtvenöse Sättigung 68%, Cardiac Index 2,6l/min/m². Aneurysma der Aorta ascendens -LRB- ca. 53mm -RRB- .
+Sonstige relevante Diagnosen:
+Aorta Ascendens Aneurysma, 5,2cm Diameter -LRB- MRT <[Pseudo] 23/04/2146> -RRB-
+Z. n. TEVAR am <[Pseudo] 02/04/2141> bei subakuter B-Dissektion <[Pseudo] 23/01/2141>
+CVRF: aHT, Hypercholesterinämie, Z. n. Nikotinabusus, pos. FA
+Maßnahmen:
+Ad chirurgischer Aorta ascendens Ersatz nach Maßgabe Herzchirurgie und LIMA ad LAD
+
+Echokardiographie vom <[Pseudo] 24/09/2146:>
+Leicht dilatierter, septal betont hypertrophierter linker Ventrikel mit leicht eingeschränkter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenwurzel erweitert -LRB- 41 mm -RRB- , Aorta ascendens deutlich erweitert -LRB- max. 53mm, soweit im TTE einsehbar -RRB- , Aortenbogen eingeschränkt einsehbar. Verdickte, trikuspide Aortenklappe mit noch guter Separation. Dopplersonographisch mittel- bis hochgradige, zentrale Aortenklappeninsuffizienz nachweisbar -LRB- PHT 319ms, holosystol. Reflux in Aorta descendens
+nachweisbar -RRB- . Geringe Mitralklappeninsuffizienz. Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist erhöht -LRB- ca. 45-50 mmHg -RRB- . Erstbefund in domo.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 24/09/2146:>
+Beidseits leichtgradige Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Kein Nachweis von Turbulenzen, bzw. Hinweisen auf signifikante Stenosen. Allseits soweit beurteilbar regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet. IMD rechts 0,07 cm, links 0,08cm. Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar.
+Erstbefund in domo.
+
+Lungenfunktionsprüfung vom <[Pseudo] 24/09/2146:>
+Kapillare Blutgasanalyse: nicht durchgeführt
+Spirometrie: Keine Obstruktion der kleinen Atemwege.
+Bronchospasmolyse -LRB- mit Salbutamol -RRB- : nicht durchgeführt
+CO-Diffusionskapazität: nicht durchgeführt
+CO-Transferkoeffizient: nicht durchgeführt
+
+Zusammenfassende Beurteilung:
+Die stationäre Aufnahme des Patienten erfolgte elektiv zur Herzkatheteruntersuchung bei V.a. Progress der Aortenklappeninsuffizienz -LRB- Echo MVZ I-ORG <[Pseudo] 02/09/2146> -RRB- , Anstieg des PA-Drucks -LRB- 62mmHG -RRB- sowie bei bekanntem Aortenaneurysma der Aorta ascendens von zuletzt 52mm -LRB- MRT <[Pseudo] 04/2146> HD -RRB- .
+
+In der am <[Pseudo] 23/09/2146> durchgeführten Herzkatheteruntersuchung ergab sich eine Koronare 1-Gefäßerkrankung der LAD mit 50%iger prox. Stenose bei global noch leichtgradig eingeschränkter linksventrikulärer Pumpfunktion. Es zeigten sich erhöhte enddiastolische Drücke des linken Ventrikels -LRB- 18mmHg -RRB- , erhöhte Drücken im kleinen Kreislauf und ein erhöhter pulmonalarterieller Widerstand. Zudem ergab sich angiographisch und hämodynamisch eine mittelgradige Aortenklappeninsuffizienz. Das Aneurysma der Aorta ascendens bemaß sich auf ca. 53mm. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich klinisch kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+
+Echokardiographisch zeigte sich eine leicht eingeschränkte systolische Pumpfunktion ohne regionale Kontraktionsstörungen. Die Aortenwurzel kam erweitert -LRB- 41 mm -RRB- , Aorta ascendens deutlich erweitert -LRB- max. 53mm, soweit im TTE einsehbar -RRB- zur Darstellung. Dopplersonographisch war eine mittel- bis hochgradige, zentrale Aortenklappeninsuffizienz nachweisbar, zudem eine geringe Mitralklappeninsuffizienz.
+
+Wir empfehlen einen chirurgischen Ersatz der Aorta ascendens -LRB- nach Maßgabe Herzchirurgie -RRB- und einen ACVB -LRB- LIMA ad LAD -RRB- . Wir besprachen dies mit dem Patienten, eine Anmeldung in der Herzchirurgie ist erfolgt. Der Patient wird bzgl. eines Termins telefonisch informiert werden.
+
+Die präoperative Diagnostik -LRB- inklusive Duplexsonographie der Carotiden und Lungenfunktionsdiagnostik -RRB- ist bereits im stationären Aufenthalt erfolgt. Hierbei zeigten sich beidseits leichtgradige Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Es ergab sich kein Nachweis von Turbulenzen, bzw. Hinweisen auf signifikante Stenosen und allseits soweit beurteilbar regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet. Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar. In der Lungenfunktionsdiagnostik ergab sich kein Hinweis einer Obstruktion, FEV1 -LRB- % -RRB- lag bei 80,90.
+
+Bei häufigen hypertensiven Episoden während des stationären Aufenthaltes steigerten wir die antihypertensive Therapie wie unten angegeben. Wir bitten um regelmäßige Blutdruck-, Herzfrequenz-, Nierenwert- und Elektrolytkontrollen und ggf. Anpassung der Medikation.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+ASS 100mg 0-1-0
+Bisoprolol 5mg 1/2-0-1/2
+Candecor 16mg 1-0-1/2
+Atorvastatin 10mg 0-0-1
+
+Bakterielle Endokarditisprophylaxe gemäß Empfehlungen der Paul-Ehrlich-Gesellschaft
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir empfehlen ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen den Patienten heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärztin
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 23/09/2146> und dem <[Pseudo] 25/09/2146>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+4.07
+4 - 10 /nl
+B-DATE
+Hb
+11.7 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.3
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.360 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+84
+83 - 97 fl
+<[Pseudo] 25/09/46>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+28
+27 - 33 pg
+<[Pseudo] 25/09/46>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 25/09/46>
+RDW
+15.8
+12,9 - 18,7 %
+<[Pseudo] 25/09/46>
+hypochr.Erythroz.
+5.8 !H
+0 - 2 %
+B-DATE
+Thrombozyten
+146 !L
+150 - 440 /nl
+<[Pseudo] 25/09/46>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 25/09/46>
+Kalium -LRB- ISE -RRB-
+4.58
+3,4 - 5,0 mmol/l
+<[Pseudo] 25/09/46>
+Kreatinin
+0.98
+0,6 - 1,7 mg/dl
+<[Pseudo] 25/09/46>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+41
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+72.0
+>60 s.u.
+B-DATE
+MDRD
+80.18
+ml/min/1,73qm
+<[Pseudo] 23/09/46>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+47.4
+30 - 50 g/l
+<[Pseudo] 23/09/46>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 23/09/46>
+Hämolyse
+-
+
+<[Pseudo] 25/09/46>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+ikterisch
+-
+
+<[Pseudo] 25/09/46>
+Lipämie
+-
+
+<[Pseudo] 25/09/46>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+CK
+151
+- <190 U/l
+B-DATE
+hs-TroponinT
+19.1 !H
+- <14 pg/ml
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+585 !H
+- <450 ng/l
+<[Pseudo] 23/09/46>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.00
+0,400 - 4,000 mU/l
+<[Pseudo] 23/09/46>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+107.9
+70 - 125 %
+<[Pseudo] 23/09/46>
+INR - ber.
+0.99
+- <1.2
+<[Pseudo] 23/09/46>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+20.3
+- <35 s
+B-DATE

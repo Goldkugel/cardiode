@@ -1,0 +1,362 @@
+Aufnahmedatum: <[Pseudo] 2032-05-18 >
+Geburtsdatum: <[Pseudo] 1964-12-27 >
+Alter: 67
+
+über Ihren Patienten B-SALUTE B-TITLE B-PER I-PER geboren am <[Pseudo] 27/12/1964> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Instabile Angina pectoris
+- Bekannte schwere koronare Dreigefäßerkrankung mit guter LV-Funktion
+-UNK- LIMA ad LAD offen, hochgradige 90% ostiale Stenose der art. Radialis ad LCX, Venenbypass ad RIVP verschlossen
+-UNK- Z.n. PTCA/1xDES der A. radialis ad LCX -LRB- B-OTHER vom <[Pseudo] 11/05/2032> -RRB-
+-UNK- Aktuell PTCA/1xDES der proximalen nativen RCA -LRB- B-OTHER vom <[Pseudo] 17/05/2032> -RRB- bei persistierenden Beschwerden
+
+Diagnosen:
+- Schwere koronare Dreigefäßerkrankung mit guter LV-Funktion bei hochgradiger LAD-, LCX- und RCA-Stenosierung sowie Hauptstammstenose
+-UNK- 3-fach Koronarrevaskularisation unter Verwendung der LIMA -LRB- skelettiert -RRB- als in-situ-graft auf LAD, Anlage einer linken Arteria radialis auf RCX mit lokaler Plaquespaltung, Anlage eines aortocoronaren Venenbypasses auf RIVP -LRB- <[Pseudo] 22/10/2029> -RRB-
+-UNK- Periinterventionell Episode von Kammerflimmern, Termination mittels einmaliger Defibrillation -LRB- HK vom <[Pseudo] 09/2029> -RRB-
+-UNK- Gute linksventrikuläre Pumpfunktion
+- Prostatitis
+- Z.n. Bandscheibenvorfall <[Pseudo] 2015>
+- Z.n. Hodentorsion <[Pseudo] 1983>
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, positive Familienanamnese, Nikotinanamnese: nie.
+Allergien/Unverträglichkeiten: Pollen, Hausstaubmilben, Karotten, Schimmelpilz
+
+Anamnese:
+Die stationäre Wiederaufnahme von B-SALUTE B-TITLE B-PER erfolgte nach erneuter Selbstvorstellung über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei persistierenden Beschwerden nach Entlassung nach PTCA/Stent-Versorgung am B-DATE. Eine residuelle Stenose der nativen RCA besteht weiterhin und sollte in 4-6 Wochen versorgt werden.
+Der Patient beschreibt ein persistierendes thorakales Druckgefühl -LRB- CCS II, Belastungsabhängig ohne Ausstrahlung -RRB- sowie eine persistierende Belastungsdyspnoe entsprechend NYHA II, ähnlich zu den Beschwerden vor der ACB-Op. Keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen, kein Schwindel, keine stattgehabten Synkopen. Kein Hinweis auf einen akuten Infekt.
+
+Medikation bei Aufnahme:
+ASS 100mg 1-0-0
+Clopidogrel 75mg 1-0-0 bis zum <[Pseudo] 08/11/2032>
+Nebivolol 1,25mg 1-0-0
+Candesartan 32mg 0-0-1
+Lercanidipin 10mg 1-0-1
+Rosuvastatin 20mg 0-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe: 178cm, Gewicht: 78kg, BMI: 24,6kg/m2 -RRB-
+HF: 62 /min
+RR: 130/80mmHg
+Keine Cyanose, keine Anämiezeichen, kein Ikterus.
+HT: leise, rein, keine path. Geräusche
+Lunge: bds. vesikuläres AG, sonorer KS, keine NG
+Pulsstatus: periphere Pulse gut tastbar
+Periphere Ödeme: keine
+Abdomen: weich, kein DS, keine Resistenzen
+Neurol. Status: orientierend o.p.B.
+
+Ruhe-EKG bei Aufnahme am <[Pseudo] 14/05/2032:>
+Sinusrhythmus, regelmäßig, 69/min, Rechtslagetyp. PQ 160ms, QRS 110ms, QTc 402ms. Inkompletter Rechtsschenkelblock mit verzögertem oberen Umschlagspunkt in V1 und Kammerendteilveränderungen in V1/V2. R/S Umschlag in V3/V4.
+
+Ruhe-EKG vor Entlassung am <[Pseudo] 18/05/2032:>
+Sinusrhythmus, regelmäßig, 58/min, Indifferenzlagetyp. PQ 162ms, QRS 113ms, QTc 389ms. Inkompletter Rechtsschenkelblock mit verzögertem oberen Umschlagspunkt und Kammerendteilveränderungen in V1. R/S Umschlag in V3/V4.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 17/05/2032> -RRB-
+Befund folgt.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2031> und dem B-DAY B-MONTH <[Pseudo] 2031>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.08
+4 - 10 /nl
+B-DATE
+Hb
+15.2
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.1
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.460
+0,38 - 0,52 l/l
+B-DATE
+MCV
+89
+83 - 97 fl
+<[Pseudo] 17/05/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 17/05/32>
+MCHC
+34
+30 - 36 g/dl
+B-DATE
+RDW
+12.0 !L
+12,9 - 18,7 %
+<[Pseudo] 17/05/32>
+hypochr.Erythroz.
+0.1
+0 - 2 %
+B-DATE
+Thrombozyten
+155
+150 - 440 /nl
+<[Pseudo] 17/05/32>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 17/05/32>
+Kalium -LRB- ISE -RRB-
+4.21
+3,4 - 5,0 mmol/l
+<[Pseudo] 17/05/32>
+Calcium
+2.14
+2,11 - 2,59 mmol/l
+B-DATE
+Ca./korr.
+2.04 !L
+2,1 - 2,65 mmol/l
+<[Pseudo] 15/05/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+0.98
+0,6 - 1,3 mg/dl
+B-DATE
+Harnstoff
+28
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+79.5
+>60 s.u.
+B-DATE
+MDRD
+86.24
+ml/min/1,73qm
+<[Pseudo] 15/05/32>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+42.0
+30 - 50 g/l
+<[Pseudo] 15/05/32>
+Glucose
+142 !H
+65 - 110 mg/dl
+B-DATE
+GPT/ALT
+16
+- <50 U/l
+B-DATE
+GGT
+18
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.60
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+6.1
+- <7 mg/dl
+<[Pseudo] 15/05/32>
+Triglyceride
+76
+- <150 mg/dl
+<[Pseudo] 15/05/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+82.0
+- alt.abh. mg/dl
+<[Pseudo] 15/05/32>
+LDL-Chol. -LRB- berechn. -RRB-
+39
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+28 !L
+>40 mg/dl
+B-DATE
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 15/05/32>
+Hämolyse
+-
+
+<[Pseudo] 17/05/32>
+ikterisch
+-
+
+<[Pseudo] 17/05/32>
+Lipämie
+-
+
+<[Pseudo] 17/05/32>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+167
+- <342 U/l
+B-DATE
+CK
+83
+- <190 U/l
+<[Pseudo] 15/05/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+23.2 !H
+- <14 pg/ml
+<[Pseudo] 15/05/32>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.7
+- <6,1 %
+<[Pseudo] 15/05/32>
+HbA1c -LRB- IFCC -RRB-
+39
+20 - 42 mmol/mol
+<[Pseudo] 15/05/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+117 !H
+- <110 mg/dl
+<[Pseudo] 15/05/32>
+TSH
+1.97
+0,400 - 4,000 mU/l
+<[Pseudo] 15/05/32>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+72.8
+70 - 125 %
+<[Pseudo] 15/05/32>
+INR - ber.
+1.15
+- <1.2
+<[Pseudo] 15/05/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+22.8
+- <35 s
+<[Pseudo] 15/05/32>
+
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte bei persistierenden thorakalen Beschwerden. Symptomatisch imponiert eine typische Angina pectoris -LRB- CCS 2 -RRB- und eine Belastungsdyspnoe -LRB- NYHA II -RRB- .
+
+Bei dem Patienten ist in der Vorwoche ein A.radialis-Bypass ad LCX interventionell versorgt worden. Eine residuelle Stenose der proximalen nativen RCA verblieb und sollte in 4-6 Wochen interveniert werden.
+
+Bei Persistenz der Beschwerden erfolgte daher die vorgezogene invasive Therapie mittels erfolgreicher Rekanalisation der hochgradigen nativen RCA-Stenose mittels PTCA und 1 -fach DE-Stentimplantation.
+
+Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung mit ASS und Clopidogrel für 6 Monate nach der aktuellen Stentimplantation. Auf die Bedeutung einer lückenlosen Einnahme beider Präparate für diesen Zeitraum wurde explizit hingewiesen. Anschließend empfehlen wir ASS dauerhaft fortzuführen.
+
+Die restliche Medikation beließen wir unverändert. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Zudem bitten wir bei Statin-Therapie um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER mit einem Entlassgewicht von 77 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Procedere/Termine:
+- Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen B-SALUTE oder Kollegen.
+- Duale Thrombozytenaggregation für 6 Monate nach letzter Stentimplantation, aktuell bis <[Pseudo] 14/11/2032>
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+ASS 100mg 1-0-0
+Clopidogrel 75mg 1-0-0 bis zum <[Pseudo] 14/11/2032>
+Nebivolol 1,25mg 1-0-0
+Candesartan 32mg 0-0-1
+Lercanidipin 10mg 1-0-1
+Rosuvastatin 20mg 0-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Stationsarzt
+
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

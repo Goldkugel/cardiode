@@ -1,0 +1,748 @@
+Aufnahmedatum: <[Pseudo] 2032-03-30 >
+Geburtsdatum: <[Pseudo] 1993-01-19 >
+Alter: 39
+
+über Ihren Patienten B-SALUTE B-PER B-PER geboren am <[Pseudo] 19/01/1993> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis <[Pseudo] 07/04/2032> in unserer stationären Behandlung befand.
+
+Aktuell:
+- Elektive Vorstellung zur Listung zur Herztransplantation
+
+-UNK- Rechtsherzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 30/03/2032> -RRB- :
+-UNK- Normale Drücke im kleinen Kreislauf -LRB- 25/12/12 mmHg -RRB-
+-UNK- Grenzwertig PCWP 13 mmHg
+-UNK- Regelrechter PVR -LRB- 93 dyn*sek*cm-5 -RRB-
+-UNK- gemischtvenöse Sättigung 58%
+-UNK- Cardiac Index: 1,7 l/min/m²
+
+- Isolierte AFP-Erhöhung, i.V. stabil seit ca. 6 Monaten
+-UNK- Aufgrund fehlender Korrelate im CT-Thorax/Abdomen sowie unauffälliger urologischer Untersuchung inkl. Hodensonographie/HCG/LDH keine Kontraindikation zur Listung -LRB- Freigabe Gastroenterologie und Urologie -RRB-
+
+- Ambulante Zahnsanierung am <[Pseudo] 21/05/2031> in der B-ORG
+
+- Milder, symptomatischer Driveline-Infekt
+
+-UNK- Antibiose mit Flucloxacillin 4x 3g seit <[Pseudo] 07/04/2032>
+
+Diagnosen:
+- Z.n. LVAD-Implantation -LRB- Heartmate III -RRB- , Impella- und ECLS-Explantation am <[Pseudo] 04/08/2031>
+-UNK- Z.n. kardiogenem Schock, respiratorischer Dekompensation und beginnendem Multiorganversagen mit Implantation einer Impella 5.5, periphere VA-ECLS am <[Pseudo] 28/07/2031>
+- Hypertrophe Kardiomyopathie mit dilatativer Verlaufsform und hochgradig reduzierter LV- und RV-Funktion
+-UNK- Genetische Untersuchung vom <[Pseudo] 16/06/2031:> Mutation in MYH7 -LRB- heterozygot 2155C>T -RRB-
+-UNK- Initial hypertrophe obstruktive Kardiomyopathie
+-UNK- Z.n. Myektomie B-DATE <B-LOC>
+-UNK- Ventrikelaneurysma
+-UNK- Leicht- bis mittelgradige Aortenklappeninsuffizienz
+-UNK- Leichtgradige Mitral - und Trikuspidalklappeninsuffizienz
+- Anämie a.e. bei rezidivierender Epistaxis und Tamponadenanlage <[Pseudo] 08/2031>
+-UNK- Transfusion von kumulativ 6 Erythrozytenkonzentraten
+- Aufrüstung auf ein CRT-D System <[Pseudo] 2022> -LRB- St. Jude Medical Unify Assura -RRB-
+-UNK- Deaktivierung der LV-Sonde bei nicht messbarer Reizschwelle nach LVAD-Implantation am <[Pseudo] 21/08/2031>
+-UNK- RV-Reizschwelle leicht erhöht -LRB- CRT-D Abfrage vom <[Pseudo] 20/08/2031> -RRB-
+-UNK- Z.n. sekundärprophylaktischer ICD-Implantation <[Pseudo] 2008>
+-UNK- Z.n. Kammerflimmern <[Pseudo] 2008>
+- Invasiver Ausschluss einer relevanten koronaren Herzkrankheit <[Pseudo] 07/2031>
+- Paroxysmales Vorhofflimmern
+- Chronische Niereninsuffizienz -LRB- Stadium I n. NKF: Kreatinin-Clearance im Sammelurin: 81 ml/min <[Pseudo] 03/2032> -RRB-
+- Latente Hypothyreose, a.e. Amiodaron-induziert
+- Leichter Leberparenchymschaden, a.e. stauungsbedingt
+- Cholezystolithiasis
+- Generalisierte Blutungsneigung
+- 2x Impfung mit BioNTech erfolgt -LRB- zuletzt <[Pseudo] 11/31> -RRB-
+
+Kardiovaskuläre Risikofaktoren: positive Familienanamnese bezüglich Kardiomyopathien -LRB- Schwester und Vater -RRB-
+Allergien: Kontrastmittel -LRB- bei SM-Implantation -RRB- , leichte Laktoseintoleranz, Ramipril -LRB- Schlafstörungen -RRB-
+
+Anamnese:
+Die stationäre Aufnahme erfolgte zur Evaluation zur Listung zur Herztransplantation. Subjektiv besteht ein stabiler kardialer Verlauf.
+
+Der Patient berichtet über leicht eingeschränkte Belastbarkeit im Alltag -LRB- 4 Etagen -RRB- , keine inadäquate Belastungsdyspnoe, keine belastungsinduzierten pectanginösen Beschwerden. Keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen, kein Schwindel, keine stattgehabten Synkopen. Keine peripheren Ödeme. Der Patient berichtet von zwei Episoden erhöhter Temperatur -LRB- 38,5 Grad -RRB- , welche jedoch im Tagesverlauf selbstlimitierend waren. Ansonsten kein Hinweis auf einen Infekt.
+
+Eine Herztransplantation ist gewünscht, aktuell anamnestisch keine Kontraindikationen.
+
+Medikation bei Aufnahme:
+Marcumar Ziel INR 2-3
+Metoprolol 47,5 mg 2-0-1
+Ramipril 2,5mg 1-0-0
+Spironolacton 25 mg 1-0-0
+Torasemid 20 mg 1,5-0-0
+Dapagliflozin 10 mg 1-0-0
+Sildenafil 10 mg 1-1-1
+Pantozol 40 mg 1-0-0
+L-Thyroxin 50 µg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut -LRB- Größe 183 cm, Gewicht 73 kg, BMI: 22 -RRB-
+HF: 77/min, regelmäßig
+RR: mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: eingeschränkte Beurteilbarkeit bei LVAD-Überlagerung
+Pulmo: eingeschränkte Beurteilbarkeit bei LVAD-Überlagerung
+Periphere Ödeme: keine
+Pulsstatus: unauffällig
+Neurol. Status: unauffällig
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+Artefaktüberlagerung bei einliegendem LVAD-System, Ventrikulär- stimuliertes Schrittmacher-EKG bei einliegendem CRT-D-System mit konsekutiven Endstreckenveränderungen, Herzfrequenz 77/min. QRS: 181ms, QTc: 443ms
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 30/03/2032> -RRB- :
+Rechtsherzkatheteruntersuchung im Rahmen der HTX-Listung.
+Normale Drücke im kleinen Kreislauf -LRB- 28/15/20 mmHg; PCWP 15 mmHg; noch normale PCR 123 dyn*s*cm^-5 -RRB- CI 1,7 l/min/cm² ; SvO2 57 %;
+Sonstige Diagnosen:
+- Z.n. LVAD-Implantation -LRB- Heartmate III -RRB- sowie Impella+ECLS ex <[Pseudo] 07/31> bei HCM
+- CRT-D Aufrüstung -LRB- <[Pseudo] 2022> -RRB- ; VHF; a.e. amiodaroninduz. Latente Hypotheryreose
+CvRF: pos. FA
+Allergien: KM, Ramipril
+
+Maßnahmen:
+1. -RRB- n. Maßgabe HTX-Team
+2. -RRB- DV n. SOP
+
+CT Schädel nativ vom <[Pseudo] 01/04/2032:>
+Rechtfertigende Indikation: MEH
+Befund:
+Es liegen keine Voraufnahmen zum Vergleich vor.
+Mittelständiger Interhemisphärenspalt. Leicht erweiterte innere und äußere Liquorräume. Keine dekompensierte Liquorzirkulationsstörung. Regelrechte Mark - Rinden- Differenzierbarkeit des supratentoriellen Hirnparenchyms sowie regelrechte Abgrenzbarkeit der Basalganglien und des Thalamus beidseits. Regelrechte Darstellung des Marklagers. Soweit bei untersuchungstypischen Aufhärtungsartefakten beurteilbar, unauffällige Darstellung des infratentoriellen Hirnparenchyms. Verlauf des Canalis opticus durch den Sinus sphenoidales beidseits. Regelrechte Darstellung der Hypophyse. Verkalkung an der frontalen Falx cerebri. Freie Belüftung der Nasennebenhöhlen und Ohrnebenräume.
+Beurteilung:
+-UNK- Normalbefund ohne Nachweis von embolischen Infarkten.
+NB: Verlauf des Canalis opticus durch den Sinus sphenoidales bds.
+
+Abdomensonographie vom <[Pseudo] 02/04/2032:>
+Etwas eingeschränkte Schallbedingungen bei LVAD-Verband. Die leber kann von subcostal nicht komplett durchfächert werden.
+Die Leber misst im größten kraniokaudalen Durchmesser 13,7 cm. Der Leberrand ist abgerundet. Die Echodichte ist unauffällig, die Struktur ist leicht inhomogen. Raumforderungen sind im einsehbaren Bereich nicht abzugrenzen. Die Lebervenen sind gestaut bis 14 mm und weisen einen Pendelfluss auf. Die V. cava inferior ist gestaut mit 23 mm und wenig atemvariabel. Die Pfortader ist orthograd undulierend perfundiert, V max. 19 cm/s. Die Gallenblase lässt sich postprandial teilkontrahiert darstellen. In der Gallenblase ist ein echoreiches Konkrement mit dorsaler Schallauslöschung zu sehen. Die intrahepatischen Gallengänge sind nicht dilatiert. Der Ductus Choledochus ist normal weit.
+Die Milz misst 11,7 x 3,6 cm. Das Echomuster ist homogen. Die V. lienalis ist nicht erweitert. Am Milzunterpol zeigt sich eine winzige echoarme Läsion, a.e. Zyste. Im Milzhilus zeigt sich eine ca. 6 x 6 mm große kugelige zur Milz isoechogene Struktur, a.e. der vorbeschriebenen Nebenmilz entsprechend.
+Das Pankreas ist bei Darmgasüberlagerung nur sehr schemenhaft einzusehen. Soweit beurteilbar unauffälliges Parenchym. Der Pankreasschwanz ist nicht vollständig einsehbar. Der Pankreasgang ist nicht einsehbar. Beide Nieren erscheinen in Form, Größe und Lage altersentsprechend. An der rechten Niere zeigt sich am Unterpol eine echoleere runde Struktur von 5 x 5 mm, a.e. einer Nierenzyste entsprechend. Die abdominale Aorta stellt sich teilweise dar, keine Gefäßektasien nachweisbar. Eine paraaortale Raumforderung ist soweit beurteilbar nicht nachzuweisen. Die Harnblase stellt sich prall gefüllt und unauffällig dar. Keine freie Flüssigkeit abdominell.
+Beurteilung:
+-UNK- Zeichen eines diskreten Leberparenchymschadens
+-UNK- Gestaute Lebervenen und V. cava inferior
+-UNK- Cholezystolithiasis
+-UNK- Grenzwertige Milzgröße
+-UNK- zystische Milzläsion am Unterpol -LRB- wie im CT <[Pseudo] 08/2031> beschrieben -RRB-
+-UNK- Nebenmilz
+-UNK- Nierenzyste rechts
+
+Koloskopie vom <[Pseudo] 06/04/2032:>
+Befund
+Inspektion und Palpation unauff.
+Vorspiegeln bis erminales Ileum. Gringe Menge Restverschmutzung, die mit dem Endowasher abgespült werden kann. Keine Blutungsquelle, keine Angiodysplasien, kein Frisch- oder Altblut. Etwas vulnerable Schleimhaut. Keine Polypen. Keine Entzündung.
+Diagnose
+unauff. Koloskopie
+Biopsien
+keine
+Empfehlungen
+Keine
+
+Lungenfunktionsprüfung vom <[Pseudo] 07/04/2032:>
+Spirometrie:
+Keine Obstruktion.
+Reduzierte VC, a..e einer mäßigen Restriktion entsprechend
+
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme erfolgte elektiv zur Komplettierung der notwendigen Untersuchung zur Listung zur Herztransplantation nach LVAD-Implantation im B-MONTH B-YEAR
+
+Es erfolgte SOP gemäß die Durchführung einer Rechtsherzkatheter Untersuchung. Hierbei zeigten sich normale Drücke im kleinen Kreislauf bei einem PCWP von 13 mmHg einer PVR von 93 dyn*sek*cm-5 einer gemischvenösen Sätigung von 58 % und einem Cardiac Index von 1,7 l/min/m².
+
+Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Im oralen Glucosetoleranztest zeigte sich eine pathologische Glucosetoleranz. Hier erfolgt bereits eine Therapie mit einem Gliflozin, weshalb wir entsprechend erneut auf die möglichen Lifestyle-Interventionen hinwiesen.
+
+Bei Z.n. LVAD erfolgte die Schädel-CT-Darstellung, welche einen unauffälligen Befund lieferte.
+
+Es erfolgte eine Aufklärung über eine mögliche Herztransplantation von anästhesiologischer, kardiologisch und herzchirurgischer Seite. Die Beurteilung durch die B-SALUTE der Psychosomatik lieferte keine Kontraindikationen gegen eine mögliche Herztransplantation.
+
+Bei isolierter AFP-Erhöhung -LRB- konstant im Vergleich zum B-MONTH diesen Jahres -RRB- erfolgte eine erweiterte Umfelddiagnostik, bei der mit den gastroenterologischen und urologischen Kolleg:innen Rücksprache gehalten wurde. Hiernach besteht bei unauffälliger Schnittbildgebung und unauffälliger urologischer Untersuchung keine Kontraindikation zur Listung zur Herztransplantation.
+
+Bei positivem IFOBT wurde eine unauffällige Koloskopie durchgeführt.
+
+Im Rahmen einer Vorstellung in der ORG wurde die Zahnsanierung empfohlen und ein Termin am <[Pseudo] 20/05/2032> vereinbart. Wir bitten den INR um einen Zielwert von 2-2,5 einzustellen.
+
+Bei symptomatischer Driveline-Infektion -LRB- Schmerzen/Rötung Einstichstelle -RRB- ohne vegetative Begleitsymptomatik wurde eine i.v. Antibiose mit Staphylex wie u.a. am <[Pseudo] 07/04/2032> begonnen. Wir bitten um Fortführung der Therapie für mindestens 5 Tage.
+
+Wir passten die Medikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Zudem bitten wir bei Statin-Therapie um eine Kontrolle des CK-Wertes, der Transaminasen und der Lipide im Verlauf.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir verlegten den Patienten kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte stationäre Betreuung. Wir danken für die freundliche Übernahme. Für Rückfragen stehen wir jederzeit gerne zur Verfügung.
+
+Procedere/Termine:
+- Die Listung zur Herztransplantation wird in unserer nächsten Herztransplantationskonferenz diskutiert, der Bescheid von Eurotransplant ergeht postalisch
+- Kontrolle VAD-Ambulanz in RS mit der VAD-Koordination
+- Fortführung i.v. Antibiose
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Marcumar Ziel INR 2-3 -LRB- 0 Tabletten am <[Pseudo] 07/04/2032> -RRB-
+Metoprolol 47,5 mg 2-0-1
+Ramipril 2,5mg 1-0-0
+Spironolacton 25 mg 1-0-0
+Torasemid 10 mg 1,5-0-0
+Dapagliflozin 10 mg 1-0-0
+Sildenafil 10 mg 1-1-1
+Pantozol 40 mg 1-0-0
+L-Thyroxin 50 µg 1-0-0
+
+Staphylex 3g 4x tgl seit <[Pseudo] 07/04/2032>
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden jenseits des 60. Lebensjahres sowie bei KHK- und/oder Herzinsuffizienz im Besonderen empfohlen.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2031> und dem B-DAY B-MONTH <[Pseudo] 2031>
+Blutbild
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+4.47
+4 - 10 /nl
+B-DATE
+Hb
+14.2
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.8
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.400
+0,38 - 0,52 l/l
+B-DATE
+MCV
+84
+83 - 97 fl
+<[Pseudo] 07/04/32>
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+35
+30 - 36 g/dl
+B-DATE
+RDW
+16.2
+12,9 - 18,7 %
+<[Pseudo] 07/04/32>
+hypochr.Erythroz.
+1.1
+0 - 2 %
+<[Pseudo] 07/04/32>
+Retikulozyten
+27.00 !H
+5 - 15 %o
+B-DATE
+Reti-Prod.Index
+2.5
+>2
+B-DATE
+Reti-Hb
+31.9
+28 - 35 pg
+<[Pseudo] 31/03/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Thrombozyten
+148 !L
+150 - 440 /nl
+B-DATE
+Lympho -LRB- abs. -RRB-
+1.49
+1,0 - 4,8 /nl
+B-DATE
+Neutroph.G.-abs.
+5.29
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.64
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.12
+- <0,5 /nl
+<[Pseudo] 31/03/32>
+Basoph.G. -LRB- abs -RRB-
+0.05
+- <0,2 /nl
+<[Pseudo] 31/03/32>
+Neutroph.G. -LRB- mech. -RRB-
+69.1
+50 - 80 %
+<[Pseudo] 31/03/32>
+Lympho -LRB- mech. -RRB-
+19.4 !L
+25 - 40 %
+<[Pseudo] 31/03/32>
+Basoph.G.
+0.6
+- <1 %
+B-DATE
+Monozyten -LRB- mech. -RRB-
+8.3
+2 - 9 %
+<[Pseudo] 31/03/32>
+Eosinoph.G. -LRB- mech. -RRB-
+1.6 !L
+2 - 4 %
+<[Pseudo] 31/03/32>
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 07/04/32>
+Kalium -LRB- ISE -RRB-
+3.85
+3,4 - 4,6 mmol/l
+<[Pseudo] 07/04/32>
+Calcium
+2.37
+2,11 - 2,59 mmol/l
+B-DATE
+Phosphat
+1.06
+0,84 - 1,45 mmol/l
+<[Pseudo] 31/03/32>
+Magnesium
+1.07 !H
+0,75 - 1,05 mmol/l
+<[Pseudo] 31/03/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Chlorid -LRB- ISE -RRB-
+103
+98 - 111 mmol/L
+<[Pseudo] 31/03/32>
+Kreatinin
+0.89
+0,6 - 1,2 mg/dl
+B-DATE
+Harnstoff
+28
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+107.7
+>60 s.u.
+B-DATE
+MDRD
+83.58
+ml/min/1,73qm
+<[Pseudo] 31/03/32>
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Ges.Eiweiss
+80.9 !H
+60 - 80 g/l
+B-DATE
+Albumin quant.
+48.8
+30 - 50 g/l
+B-DATE
+Glucose
+123 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+37
+- <46 U/l
+B-DATE
+GPT/ALT
+33
+- <50 U/l
+B-DATE
+AP
+140 !H
+40 - 130 U/l
+B-DATE
+GGT
+<NONE> !H
+- <60 U/l
+B-DATE
+CHE
+8.91
+5,32 - 12,92 kU/l
+B-DATE
+Ges.Bili.
+1.30 !H
+- <1.0 mg/dl
+B-DATE
+Dir.Bilirubin
+0.40 !H
+- <0.3 mg/dl
+B-DATE
+Harnsäure
+9.5 !H
+- <7 mg/dl
+<[Pseudo] 31/03/32>
+Triglyceride
+126
+- <150 mg/dl
+<[Pseudo] 31/03/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+167.0
+- alt.abh. mg/dl
+<[Pseudo] 31/03/32>
+LDL-Chol. -LRB- berechn. -RRB-
+107
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+35 !L
+>40 mg/dl
+B-DATE
+p-Amylase
+62 !H
+8 - 53 U/l
+B-DATE
+Lipase
+81 !H
+19 - 63 U/l
+<[Pseudo] 31/03/32>
+Ferritin
+85
+30 - 300 µg/l
+<[Pseudo] 31/03/32>
+Transferrin
+3.45
+2,0 - 3,6 g/l
+B-DATE
+CRP
+32.8 !H
+- <5 mg/l
+<[Pseudo] 07/04/32>
+PCT sens.
+0.25 !H
+- <0,05 ng/ml
+<[Pseudo] 07/04/32>
+Hämolyse
+-
+
+<[Pseudo] 07/04/32>
+ikterisch
+-
+
+<[Pseudo] 07/04/32>
+Lipämie
+-
+
+<[Pseudo] 07/04/32>
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+314
+- <316 U/l
+B-DATE
+CK
+72
+- <190 U/l
+B-DATE
+hs-TroponinT
+326 !H
+- <14 pg/ml
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+NT-BNP
+1387 !H
+- <125 ng/l
+B-DATE
+AFP
+16.6 !H
+- <8 IU/ml
+<[Pseudo] 03/04/32>
+PSA
+1.60
+- <4 µg/l
+<[Pseudo] 31/03/32>
+
+Endokrinologie & Diabetologie
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+6.0
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+42
+20 - 42 mmol/mol
+B-DATE
+mittlere Glucose
+126 !H
+- <110 mg/dl
+B-DATE
+TSH
+1.01
+0,400 - 4,000 mU/l
+<[Pseudo] 31/03/32>
+FT3
+3.61
+2,0 - 4,2 ng/l
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+FT4
+17.58
+8 - 18 ng/l
+B-DATE
+PTH intakt
+11.0 !H
+1,3 - 7,6 pmol/l
+B-DATE
+Gluc. nue /OGTT
+94
+mg/dl
+B-DATE
+Gluc.60min/oGTT
+189
+mg/dl
+B-DATE
+Gluc.120min/oGTT
+177
+mg/dl
+<[Pseudo] 01/04/32>
+
+Gerinnungsdiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+18.5 !L
+70 - 125 %
+<[Pseudo] 07/04/32>
+INR - ber.
+<NONE> !H
+- <1.2
+B-DATE
+aPTT
+29.3
+- <35 s
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+ATIII
+114.4
+80 - 120 %
+B-DATE
+Prot.C Aktivitaet
+58.3 !L
+60 - 120 %
+B-DATE
+Protein S -LRB- frei -RRB-
+60.7 !L
+72 - 132 %
+<[Pseudo] 31/03/32>
+
+Spezielle Stoffwechsel- & Proteindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+Vitamin B12
+300
+160 - 670 pmol/l
+<[Pseudo] 31/03/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Folsäure
+14
+4,5 - 21 nmol/l
+<[Pseudo] 31/03/32>
+
+Urindiagnostik
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+5.00 !L
+6,0 - 8,0
+<[Pseudo] 01/04/32>
+SpezGew/Tstr.
+1018
+1001 - 1035
+<[Pseudo] 01/04/32>
+Glucose/Tstr.
+>=1000
+- neg. mg/dl
+<[Pseudo] 01/04/32>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 01/04/32>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 01/04/32>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 01/04/32>
+Eiweiß/Tstr.
+negativ
+- neg.
+mg/dl
+<[Pseudo] 01/04/32>
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 01/04/32>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+0
+- <8 /µl
+B-DATE
+Leuko/µl
+1.0
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+<[Pseudo] 01/04/32>
+Sammelvol.
+1600
+ml
+<[Pseudo] 01/04/32>
+U-Kreatinin
+74.20
+24 - 392 mg/dl
+<[Pseudo] 01/04/32>
+
+Infektiologie
+Parameter
+Wert
+Normb / Dimension
+Datum
+anti-HAV IgM
+negativ
+qualitativ
+<[Pseudo] 31/03/32>
+anti-HAV IgG/IgM
+positiv
+qualitativ
+<[Pseudo] 31/03/32>
+HBsAg qual.
+negativ
+qualitativ
+<[Pseudo] 31/03/32>
+HBE AG-EIA
+negativ
+qualitativ
+<[Pseudo] 31/03/32>
+anti-HBc IgG/IgM
+negativ
+qualitativ
+<[Pseudo] 31/03/32>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+anti-HBe IgG/IgM
+negativ
+qualitativ
+<[Pseudo] 31/03/32>
+anti-HBs quant.
+278
+IU/l
+<[Pseudo] 31/03/32>
+anti-HCV IgG
+negativ
+qualitativ
+<[Pseudo] 31/03/32>
+anti-HIV1/2 + Ag
+negativ
+qualitativ
+<[Pseudo] 31/03/32>
+
+Weitere Laborwerte
+Parameter
+Wert
+Normb / Dimension
+Datum
+Schnelltest COVID 19
+negativ
+
+<[Pseudo] 07/04/32>

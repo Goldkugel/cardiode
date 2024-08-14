@@ -1,0 +1,102 @@
+Aufnahmedatum: <[Pseudo] 2037-12-03 >
+Geburtsdatum: <[Pseudo] 1964-04-26 >
+Alter: 73
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 26/04/1964> wh. B-PLZ B-LOC B-ADDR I-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Verlaufskontrolle bei mittelgradiger Aortenklappenstenose
+-UNK- Mittelgradige Aortenklappenstenose -LRB- AÖF 1,2cm -UNK- -RRB-
+-UNK- Unauffälliges Belastungs-EKG bis zu 75 Watt -LRB- 92% Ziel-HF -RRB-
+-UNK- Echokardiographisch gute systolische Pumpfunktion
+- Unzureichende Einstellung der arteriellen Hypertonie
+-UNK- Anpassung der antihypertensiven Therapie
+
+Diagnosen:
+- Koronare Herzerkrankung ohne höhergradige Stenosen -LRB- B-OTHER vom <[Pseudo] 07/11/2024> -RRB-
+- Schlafstörung
+- Rezidivierend Phlebitiden des rechten Unterschenkels
+- Osteoporose
+- Somatoforme Schmerzstörungen
+
+Kardiovaskuläre Risikofaktoren: Arterieller Hypertonus, Hypercholesterinämie, ehemaliger Nikotinabusus -LRB- kumulativ ca. 1 PY -RRB-
+Allergien/Unverträglichkeiten: keine bekannt
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Verlaufskontrolle bei bekannter Aortenklappenstenose sowie KHK. B-SALUTE B-PER berichtet über schwankenden Blutdruckwerte, insbesondere bei psychischer Belastung. Es bestehe seit längerer Zeit unter psychische Belastung druckartige Kopfschmerzen, ein retrosternales Einklemmungsgefühl. Die häuslichen Blutdruckmessungen ergäben in solche Situationen Werte ca. 170/90-100 mmHg. Es bestehe eine psychotherapeutische Anbindung. Im Alltag bestehe eine mäßige Belastbarkeit. Die Teilnahme an Reha-Sport und Seniorengymnastik seien beschwerdefrei möglich. Ab ca. 1 Etage Treppensteigen bestehe allerdings Belastungsdyspnoe. Es bestehe keine belastungsinduzierten pectanginösen Beschwerden. Palpitationen, Schwindel und stattgehabte Synkopen werden verneint. Periphere Ödeme seien in der letzten Zeit aufgefallen. Subjektiv bestehe seit der letzten Vorstellung ein unveränderter kardialer Verlauf.
+
+Aktuelle Medikation:
+ASS 100mg 1-0-0
+Metoprolol 47,5mg -UNK- -0- -UNK-
+Candesartan 8mg 1-0-1
+Lercanidipin 10mg 1-0-1
+Moxonidin 0,3 mg 1-0-1
+Hygroton 25mg 0-1-0
+Torem 10 mg 1-0-0
+Simvastatin 40mg 0-0-1
+Pantozol 40mg 1-0-0
+Quetiapin 25mg bei Bedarf
+Nitrolingual bei Bedarf
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 164 cm 74 kg
+HF: 68 /min, regelmäßig
+RR: 130/85 mmHg
+Keine Zyanose, keine Anämiezeichen, kein Ikterus.
+HT: rein, Systolikum 3/6 über 3 ICR li.
+Lunge: bds. Belüftet, vesikuläres AG, keine NG
+Periphere Ödeme: keine
+
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, regelmäßig, 89/min, überdrehter Linkstyp. PQ 89 msec, QRS 164 msec, QTc 90 msec. Verzögerte R-Progression, R/S-Umschlag in V5. S-Persistenz bis V6. LAHB. Flache T Wellen in aVL. Keine signifikanten Kammerendteilveränderungen.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 75 Watt über 01:34 min. Maximale Frequenz 127/min -LRB- 92% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 230 mmHg, diastolisch 120 mmHg. Abbruch bei zunehmendem stechenden Thoraxschmerz unter Belastung. Keine Angina pectoris oder inadäquate Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Keine VES. Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz. Bei bereits hypertensivem Ausgangswert insgesamt hypertensives Blutdruckprofil.
+
+Transthorakale Echokardiographie:
+Soweit beurteilbar normal großer, septal betont hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion. Bei deutlich eingeschränkten Untersuchungsbedingungen ist über regionale Kontraktionsstörungen keine Aussage möglich. Relaxationsstörung des LV. LA grenzwertig, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid, deutlich verdickt und verkalkt mit verminderter Separation. Dopplersonographisch kombiniertes Aortenvitium rechnerisch mittleren Schweregrades mit überwiegender Stenosekomponente, rechnerisch AÖF-Kontinuitätsgleichung = 1,2 cm², PPG 41 mmHg, MPG 20 mmHg, bei unzureichenden Schallbedingungen jedoch nicht konklusiv beurteilbar. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA Druck in Ruhe ist nicht ableitbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 26/11/2036:> rechnerisch weiterhin mittelgradige Aortenklappenstenose bei reduzierten Schallbedingungen -LRB- KÖF heute 1,2cm² -RRB- über mögliche Wandbewegungsstörungen ist leider keine Aussage möglich.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Verlaufskontrolle bei bekannter Aortenklappenstenose sowie KHK. Subjektiv wird von einem klinisch unveränderten kardialen Verlauf berichtet.
+
+Das heute durchgeführte Belastungs-EKG bis 75 Watt ergab -LRB- 92 % der Zielfrequenz -RRB- , weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradige Herzrhythmusstörungen. Bei bereits hypertensivem Ausgangswert zeigte sich insgesamt ein hypertensives Blutdruckprofil.
+
+Echokardiographisch fand sich eine gute linksventrikuläre Pumpfunktion. Es zeigte sich weiterhin eine mittelgradige Aortenklappenstenose -LRB- AÖF 1,2cm -UNK- -RRB- sowie eine Relaxationsstörung des LV. Wir empfehlen bezüglich der Aortenklappe zunächst ein konservatives Procedere mit regelmäßigen echokardiographischen Verlaufskontrollen.
+
+In Zusammenschau von Klinik und der apparativen Untersuchungsbefunde sehen wir derzeit keinen Anhalt für einen Progress der bekannten koronaren Herzerkrankung.
+
+Bezüglich die deutlich hypertensiven Blutdruckwerte empfehlen wir weiterhin, sofern es noch nicht erfolgt, die Durchführung einer Nierensonographie, sowie die laborchemische Abklärung von Hyperaldosteronismus zum Ausschluss einer sekundären Ursache der arteriellen Hypertonie.
+
+Wir empfehlen bei hypertensiven Blutdruckwerte die Hinzunahme von Spironolacton unter engmaschige Kontrolle von Nierenretentionswerte und Elektrolyten. Zudem bitten wir um engmaschige Blutdruckkontrollen, ggf. eine Langzeit-Blutdruckmessung sowie weitere Anpassung der Medikation.
+
+In 6 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung von kardiologischer Seite:
+ASS 100mg 1-0-0
+Metoprolol 47,5mg -UNK- -0- -UNK-
+Candesartan 8mg 1-0-1
+Lercanidipin 10mg 1-0-1
+Moxonidin 0,3 mg 1-0-1
+Hygroton 25mg 0-1-0
+Torem 10 mg 1-0-0
+Spironolacton 25mg 1-0-0, neu, unter Kontrolle von Nierenretentionswerte und Elektrolyten
+Simvastatin 40mg 0-0-1
+Pantozol 40mg 1-0-0
+Quetiapin 25mg bei Bedarf
+Nitrolingual bei Bedarf
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen,
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

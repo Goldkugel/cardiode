@@ -1,0 +1,115 @@
+Aufnahmedatum: <[Pseudo] 2041-08-09 >
+Geburtsdatum: <[Pseudo] 1984-12-13 >
+Alter: 56
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 13/12/1984> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Rezidivierende Synkope bei gesichertem intermittierendem AV Block III°
+-UNK- Ad 2 Kammer-ICD Implantation -LRB- bei HCM -RRB-
+- Akutes Nierenversagen a.e. bei akuter Tubulusnekrose im Rahmen der Synkopen
+- Unklare Entzündugnskonstellation DD Postcardiac Injury Syndrom
+
+Diagnosen:
+- Koronare Zweigefäßerkrankung
+-UNK- Wandunregelmäßigkeiten des RIVA
+-UNK- Z.n. 1-fach Koronarrevaskularisation unter Anlage eines aortokoronaren Venenbypasses auf Marginalis
+- Myektomie nach Morrow -LRB- 20 x 10 mm -RRB- . <[Pseudo] 25/07/2041>
+-UNK- Mitralklappeninsuffizienz I°
+-UNK- Trikuspidalklappeninsuffizienz I°
+- Hypertrophe obstruktive Kardiomyopathie -LRB- HOCMP -RRB-
+-UNK- Myokardhypertrophie septal
+-UNK- Intramyokardiales Late Enhancement inferoseptal basal <[Pseudo] 11/2040>
+-UNK- Dilatation des linken Vorhofs
+-UNK- Flussbeschleunigung im LVOT -LRB- Valsalva Manöver P max 100 mmHg -RRB-
+- Gute systolische linksventrikuläre Pumpfunktion -LRB- EF 54% -RRB-
+- Diastolische Dysfunktion II°
+- Z.n. ventrikulären Salven <[Pseudo] 10/2040>
+- Bradykardie -LRB- HF 50/Min. -RRB-
+- Plaques der Carotiden beidseits
+- Z.n. Apoplex mit Hemiparese links <[Pseudo] 2031>
+- Z.n. Ulcus ventriculi
+
+Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus, Adipositas, Nikotinanamnese: früher, Packyears: 20.
+Allergien: Keine bekannt.
+
+Externer Zuweiser: B-ORG B-ORG I-ORG
+Anamnese:
+Die Vorstellung erfolgte als Verbringung durch den Rettungsdienst aus der I-ORG bei interm. AV-Bloc kIII° Pat dort bei Z.n. ACB Op zur Reha. Am <[Pseudo] 07.08.> und B-DATE kam es zur Synkope. Kein Sturz. Auf spezifische Nachfrage keine typische Angina pectoris oder inadäquate Belastungsdyspnoe -LRB- entsprechend NYHA I -RRB- // Keine Dyspnoe, Vorhofflimmern -LRB- entsprechend EHRA I -RRB- . Kein Hinweis auf einen akuten Infekt. Bei Übernahme auf B-ORG ORG kardiozirkulatorisch stabiler Patient.
+
+Körperlicher Untersuchungsbefund:
+AZ: stabil
+EZ: gut
+HF: 70/min, regelmäßig
+RR: 130/80mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Einflussstauung.
+Cor: Systolikum 3/6 über Erb
+Pulmo: vesikuläres AG
+Abdomen: weich, kein DS, keine Resist. lebhafte DG
+Leber/Milz: nicht vergrößert palpabel
+Periphere Ödeme: keine
+Pulsstatus: o.p.B.
+Neurol. Status: orientierend o.p.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+kompl LSB mit kons. KEV idem zum Vor-EKG, Rhythmus: Sinusrhythmus, Herzfrequenz: 90/min, Lagetyp:Linkstyp, QRS-Komplex: Linksschenkelblock.
+
+Echokardiographie vom <[Pseudo] 09/08/2041:>
+Normal großer, septal basal betont leicht hypertrophierter linker Ventrikel mit guter systolischer Pumpfunktion ohne sicher abgrenzbare regionale Wandbewegungsstörungen. Erhaltene longitudinale Funktion. Hinweis auf Relaxationsstörung des LV. LA dilatiert, RA, RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Perikardergusslamelle nachweisbar. Vena cava inferior nicht einsehbar.
+Nachweis einer leichten Flussbeschleunigung am basalen Septum -LRB- max. 2,9 m/s, ppg 33 mmHg -RRB- , nicht obstruierend. Valsalva-Manöver bei fehlender Mitarbeit nicht beurteilbar. SAM der Mitralklappe mit begleitender, leichtgradiger, exzentrischer Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 30 mmHg -RRB- .
+
+Labor:
+Siehe ISH
+
+Zusammenfassung:
+Die Aufnahme des Patienten erfolgte via ORG bei intermittierendem AV Block III° und rezidivierenden Synkopen.
+Es erfolgte eine Überwachung auf unserer ORG, bei Infektkonstellation a.e. im Rahmen eines Postkardiotomie Syndroms verzichteten wir zunächst auf die Initiierung einer antibiotischen Therapie.
+
+Bei intermittierendem AVBLANKLINEBlock III° sowie vorbekannter HCM entschieden wir uns zur Implantation eines ICD. Die Implantation konnte am <[Pseudo] 10/08/2041> komplikationslos durchgeführt werden.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir verlegen den Patienten am <[Pseudo] 10/08/2041> beschwerdefrei in den Schrittmacher-OP zur Übernahme auf B-ORG ORG.
+
+Procedere:
+- Monitor weiter
+- ICD Abfrage
+- LZ-EKG im Verlauf
+- AHB
+- Urinsediment bei a.e. Tubulusnekrose
+
+Aktuelle Therapie:
+ASS 100mg 1-0-0
+Tamsulosin 0,4mg 1-0-0
+Jardiance 25mg pausiert
+Metformin 1000mg pausiert
+Candecor comp 16 1-0-0
+HCT 12,5mg pausiert
+Pantoprazol 40mg 1-0-0
+Levetiracetam 1000mg 1-0-0
+Rosuvastatin 10mg 0-0-1
+Ezetimib 10mg 1-0-0
+Torasemid 10mg 1-0-0
+Bisoprolol 2,5mg aktuell Pause
+Kalinor ret 3-3-3
+Lantus 20 IE 22:00
+Humalog n. Schema
+Trulicity 0,75 1x1 sc Di
+
+Clexane 0,4mg pausiert nach ICD, Thromboseprophylaxe
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel. B-PHONE -RRB- .
+
+Wir bedanken uns für die Übernahme und stehen für Rückfragen jederzeit zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Stationsarzt
+
+
+B-TITLE I-TITLE B-PER I-PER
+Funktionsoberarzt

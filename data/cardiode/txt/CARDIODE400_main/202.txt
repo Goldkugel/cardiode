@@ -1,0 +1,99 @@
+Aufnahmedatum: <[Pseudo] 2035-12-08 >
+Geburtsdatum: <[Pseudo] 1972-04-26 >
+Alter: 63
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 26/04/1972> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Behandlung befand.
+
+Diagnosen:
+- Im Wesentlichen koronare Herzerkrankung ohne höhergradige Stenosen mit noch guter linksventrikulärer Pumpfunktion -LRB- B-OTHER v. <[Pseudo] 08/12/2035> -RRB-
+-UNK- LVEDP leicht erhöht -LRB- 17mmHg -RRB- .
+- Kein sicherer Ausschluss einer koronaren Herzerkrankung möglich
+-UNK- Echokardiographisch leichtgradig eingeschränkte linksventrikuläre Funktion bei Hypokinesie aller Wandabschnitte -LRB- TTE vom <[Pseudo] 21/10/2035> -RRB-
+-UNK- Belastungsinduziertes Auftreten von tachykarden SVES im Belastungs-EKG bis zu 125 Watt -LRB- 111% Ziel-HF -RRB- am <[Pseudo] 21/10/2035>
+-UNK- Klinisch stabiler kardialer Verlauf bei stark eingeschränkter Belastbarkeit
+- Z.n. biologischem Trikuspidalklappenersatz bei höhergradiger Insuffizienz <[Pseudo] 2007>
+-UNK- Bioprothese in Trikuspidalposition sonographisch regelrecht, dopplersonographisch kein Nachweis einer relevanten Randleckage oder Insuffizienz -LRB- TTE vom <[Pseudo] 21/10/2035> -RRB-
+-UNK- Biologische Trikuspidalklappe sonographisch und dopplersonographisch regelrecht -LRB- TTE <[Pseudo] 09/2034> -RRB-
+- Z. n. erfolgreicher cavotrikuspidaler Isthmus-Ablation bei typischem Vorhofflattern am <[Pseudo] 08/09/2023>
+- Sinusbradykardie mit häufigen supraventrikulären Extrasystolen
+-UNK- LZ-EKG -LRB- B-TITLE B-PER I-ORG -RRB- vom B-DATE: Überwiegend bradykarder Sinusrhythmus, mittlere HF 51/min, minimal 34/min. Wenige VES, Keine höhergradige, supraventrikuläre Ektopieneigung. Wenige Pausen bis 3,0 sec. Keine ERST.
+-UNK- Atriale Salve über 7 Schläge im Ruhe EKG vom <[Pseudo] 05/02/2035>
+- Kompletter Rechtsschenkelblock
+- Pulomologische Vorstellung <[Pseudo] 10/2034> -LRB- B-TITLE B-PER I-ORG -RRB-
+-UNK- Chronische Bronchitis ED <[Pseudo] 10/2034>
+- Posttraumatische komplette Hypophysenvorderlappen-Insuffizienz nach Motorradunfall <[Pseudo] 1988>
+- Z.n. mehrfachen Dünndarmstenosen-OP -LRB- posttraumatisch bedingt -RRB- <[Pseudo] 1999>
+-UNK- Anamnestisch Z. n. Reanimation im Rahmen der Operation
+-UNK- V.a. M. Crohn
+- Osteopenie
+
+Kardiovaskuläre Risikofaktoren: Hypercholesterinämie, aktiver Nikotinkonsum, aktuell E-Zigarette -LRB- kum. ca 20 py -RRB- , Z.n. Steroiddiabetes, Z.n. arterieller Hypertonie
+
+Allergien: Pflaster, fraglich Amoxicillin, Candesartan -LRB- Juckreiz, periphere Ödeme -RRB- , Ramipril -LRB- Ödeme -RRB-
+
+Anamnese:
+Die aktuelle Vorstellung des Patienten erfolgt zur Herzkatheteruntersuchung bei V.a. eine koronare Herzerkrankung über unsere B-ORG Ambulanz. Dort erfolgte die Vorstellung zur routinemäßigen kardiologischen Verlaufskontrolle nach Trikuspidalklappenersatz <[Pseudo] 2007> und eingeschränkter Belastbarkeit nach COVID Infektion im B-DATE. Der Patient berichtet, dass eine Ablation bei Vorhofflattern im Jahr <[Pseudo] 2023> erfolgte, wodurch in der Folge eine Sinusbradykardie aufgetreten sei. Im B-MONTH <[Pseudo] 2034> ergab ein Kardio-CT bei eingeschränkter Beurteilbarkeit wegen SVES kein ausreichendes Korrelat. Die damaligen atypischen Brustbeschwerden wurden mit einer chronischen Bronchitis korreliert, welche sich nach Vorstellung und Anbehandlung beim Pulmologen gebessert hatten. Nach COVID-Infektion kam es erneut zu pulmologische Beschwerden und Unverträglichkeit der Medikation. Im Alltag bestehen eine eingeschränkte Belastbarkeit mit einer inadäquaten Belastungsdyspnoe nach einer Etage Treppensteigen -LRB- NYHA III -RRB- . Darüber hinaus bestehen keine belastungsabhängigen und -unabhängigen pectanginösen Beschwerden. Palpitationen, Schwindel sowie stattgehabte Synkopen werden vom Patienten verneint. Der Patient berichtet, dass keine Nykturie bei ca. einmaliger Miktion pro Nacht vorliegt. Periphere Ödeme sind B-SALUTE B-PER nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte nach Medikamenteneinnahme von 120/80 mmHg. Subjektiv besteht seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 183 cm; 66 kg
+HF: 56/min, regelmäßig
+RR: 140/70 mmHg
+Temperatur 35,8° Keine Zyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: reizlose Sternotomienarbe
+
+Ruhe-EKG vom <[Pseudo] 21/10/2035:>
+Rechtsschenkelblock mit konsekutiven Kammerendteilveränderungen. Bradykarder Sinusrhythmus, HF 53/min, Linkstyp. PQ 111 ms, QRS 133 ms, QTc 448 ms. Regelrechte R-Progression, R/S Umschlag in V2/V3, S-Persistenz bis in V6. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Herzkatheteruntersuchung -LRB- HK-Nr. B-OTHER vom <[Pseudo] 08/12/2035> -RRB- :
+Herzkatheteruntersuchung bei V.a. stenosierende koronare Herzerkrankung
+
+Im Wesentlichen koronare Herzerkrankung ohne höhergradige Stenosen mit noch guter linksventrikulärer Pumpfunktion. LVEDP leicht erhöht -LRB- 17mmHg -RRB- .
+Procedere:
+- konservativ bzgl. Koronarien.
+- Ggf. Einleitung einer ACE- Hemmer/Betablocker Therapie zur Herzinsuffizienztherapie
+Zusammenfassung:
+
+In der Herzkatheteruntersuchung zeigte sich im Wesentlichen koronare Herzerkrankung ohne höhergradige Stenosen mit noch guter linksventrikulärer Pumpfunktion. Insgesamt gestaltete sich der peri- und postinterventionelle Verlauf komplikationslos -LRB- klinisch kein Anhalt für A. spurium oder AV-Fistel -RRB- .
+
+Bei kompletter Hypophysenvorderlappeninsuffizienz nach Motorradunfall bitten wir um regelmäßige endokrinologische Verlaufskontrollen und ggf. weitere Anpassung der Substitutiostherapie.
+Procedere:
+
+
+
+Wir empfehlen bezüglich der Koronargefäße ein konservatives Procedere. Wir empfehlen die Fortführung der Thrombozytenaggregationshemmung mit ASS, sowie den Beginn einer lipidsenkenden Therapie mittels Atorvastatin wie unten aufgeführt. Wir bitten um weitere Verlaufskontrolle des LDL-Cholesterins sowie CK und Transaminasen.
+
+Darüber hinaus empfehlen wir zur Optimierung der Herzinsuffizienztherapie die therapeutische Hinzunahme eines Sartans und die Evaluation bzgl. der Hinzunahme eines Betablockers. Wir bitten um eine Steigerung der Dosis gemäß den Leitlinien im Verlauf.
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der unten aufgeführten medikamentösen Therapie. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Nächster Termin/Kontrolle:
+Wir empfehlen regelmäßige kardiologische Kontrolluntersuchungen, welche gerne auch bei einem niedergelassenen B-SALUTE durchgeführt werden können. Falls gewünscht kann hierfür auch ein Termin in unserer B-ORG I-ORG -LRB- Tel.: B-PHONE -RRB- vereinbart werden.
+Therapieempfehlung:
+
+ASS 100 mg 1-0-0
+Atacand 8 mg 1-0-0, neu
+Torem 5 mg 1-0-0
+L-Thyroxin 100 µg 1-0-0
+Hydrocortison 10 mg 2- -UNK- -0
+Laventair Spray 55 µg/22 µg 1-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 08/12/2035> in Ihre geschätzte ambulante Betreuung.
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die Überweisung und vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER B-PER I-PER B-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

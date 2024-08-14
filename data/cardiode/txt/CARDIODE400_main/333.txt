@@ -1,0 +1,317 @@
+Aufnahmedatum: <[Pseudo] 2041-03-08 >
+Geburtsdatum: <[Pseudo] 1965-04-26 >
+Alter: 75
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 26/04/1965> wohnhaft in B-PLZ B-LOC Unter I-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+
+Aktuell:
+- Myokardschaden bei Vorhofflimmerrezidiv in der Blanking-Phase nach PVI
+-UNK- Präklinische Konversion in einen normofrequenten Sinusrhythmus nach Flecainid-Einnahme
+-UNK- Amiodaron ohne Aufsättigung während der Blankingphase -LRB- für 3 Monate -RRB-
+
+- Koronare Herzerkrankung ohne höhergradige Stenosen -LRB- B-OTHER v. <[Pseudo] 05/03/2041> -RRB-
+-UNK- Global gute LV-Funktion
+-UNK- LVEDP erhöht -LRB- 18 mmHf -RRB-
+
+Diagnosen:
+- Paroxysmales Vorhofflimmern -LRB- ED <[Pseudo] 2036> -RRB-
+-UNK- Z.n. Erfolgreicher Pulmonalvenenisolation in Cryo-Technik bei paroxysmalem Vorhofflimmern am <[Pseudo] 23/02/2041> -LRB- B-OTHER vom <[Pseudo] 23/02/2041> -RRB-
+-UNK- EHRA: III
+-UNK- CHA2DS2-VASc: 3
+-UNK- HAS-BLED: 2
+-UNK- LA-Diameter: 36mm -LRB- TTE vom B-DATE, extern -RRB-
+-UNK- Erhaltene LV-Funktion EF 68% -LRB- TTE vom DATE, extern -RRB-
+- Obstruktives Schlafapnoesyndrom mit Maskenbeatmung
+- Z.n. obere GI-Blutung bei B-Gastritis <[Pseudo] 11/2024>
+- Degenerative HWS-Erkrankung, vertebragener Schwindel
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Adipositas
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die Vorstellung erfolgte als Selbstvorstellung bei rez. Vorhofflimmerrezidiven seit der PVI am <[Pseudo] 23/02/41>
+welche nach Einnahme von Flecainid terminiert werden konnten.
+
+Hierunter verspüre der Patient Palpitationen sowie ein thorakales Engegefühl und Dyspnoe. Auf spezifische Nachfrage keine typische Angina pectoris oder inadäquate Belastungsdyspnoe außerhalb der Vorhofflimmerrezidive, welche stets normofrequent seien -LRB- max. HF bis 90/min -RRB- . Im Alltag bestehe eine gute körperliche Belastbarkeit -LRB- >2 Etagen -RRB- . Kein Schwindel, keine Synkope. Häusliche Blutdruckwerte um 150/80 mmHg. Diskrete Unterschenkelödeme beidseits. Trinkmenge ca. 2,5l/d. Nykturie 1-2mal in der Nacht. Täglicher Alkoholkonsum von ca. 400 ml Rotwein sowie 3 cl Schnaps.
+Keine kardialen Dekompensationen in der Vorgeschichte. In den letzten Wochen und bei Aufnahme auf Station kein Hinweis auf einen Infekt.
+
+Medikation bei Aufnahme:
+Lixiana 60mg 1-0-0 -LRB- pausiert -RRB-
+ASS 100mg 1-0-0 neu -LRB- Loading in CPU -RRB-
+Clopidogrel 75mg 1-0-0 neu -LRB- Loading in CPU -RRB-
+Amiodaron 200mg 1-0-0 neu, für 3 Monate nah PVI, unter regelm. EKG Kontrollen
+Ramipril 2,5mg 1-0-0
+Amlodipin 5mg 0-0-1
+Pantoprazol 40 mg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: adipös -LRB- Größe: 169 cm, Gewicht: 97 kg, BMI: 34,0 kg/m2 -RRB-
+HF: 67 /min
+RR: mmHg
+Keine Cyanose, keine Anämiezeichen, kein Ikterus.
+HT: leise, rein, keine path. Geräusche
+Lunge: bds. vesikuläres AG, keine NG
+Pulsstatus: periphere Pulse gut tastbar
+Periphere Ödeme: diskrete Unterschenkelödeme beidseits
+Abdomen: weich, kein DS, keine Resistenzen
+Neurol. Status: orientierend o.p.B.
+
+Ruhe-EKG bei Aufnahme in der CPU:
+Normofrequenter Sinusrhythmus, 68/min, Indifferenztyp. PQ 182 ms, QRS 98 ms, QTc 407 ms. R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 05/03/2041> -RRB- :
+folgt
+
+Ruhe-EKG vom <[Pseudo] 06/03/2041:>
+Normofrequenter Sinusrhythmus, 64/min, Indifferenztyp. PQ 171 ms, QRS 90 ms, QTc 408 ms. R/S Umschlag in V3/V4. Keine signifikanten Kammerendteilveränderungen.
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte bei erhöhtem Troponin im Rahmen der bereits häuslich durch Flecainid terminierten VHF-Episode.
+
+Bei Hochrisikoprofil und formal NSTEMI rule-in stellten wir die Indikation zur invasiven Diagnostik. In der Koronarangiographie zeigte sich eine Koronare Herzerkrankung ohne höhergradige Stenosen.
+
+Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+In Zusammenschau der Befunde gehen wir von einem Myokardschaden im Rahmen des VHF-Rezidivs und der stattgehabten PVI aus und empfehlen ein konservatives Prozedere bzgl. der Koronarien.
+
+Bei erhöhtem LVEDP optimierten wir die antihypertensive Therapie und bitten um Durchführung einer 24h-RR Messung im ambulanten Kontext.
+
+Bei Frührezidiv des Vorhofflimmerns empfehlen wir nach Rücksprache mit B-SALUTE B-PER die Medikation mit Amiodaron wie u.a. -LRB- keine Aufsättigungsphase -RRB- für den Zeitraum der Blankingphase. Der Patient wurde ausführlich darüber aufgeklärt, Flecainid während der Amiodarontherapie nicht weiter einzunehmen.
+
+Wir passten die Herzinsuffizienzmedikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Zudem bitten wir bei Statin-Therapie um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Bei Einnahme von Amiodaron empfehlen wir eine regelmäßige Kontrolle der Schilddrüsenwerte, der Leberwerte sowie eine elektrokardiographische Kontrolle im 3-Monatsrhythmus. Bei Verschlechterung einzelner Parameter, z. B. Verlängerung der QRS-Zeit bzw. QTc-Zeit um mehr als 25 % oder der PQ-Zeit um mehr als 50 % bzw. einer QTc-Verlängerung auf mehr als 500 ms oder einer Zunahme der Anzahl oder des Schweregrades der Herzrhythmusstörungen, sollte eine Therapieüberprüfung erfolgen. Alle 6 Monate empfehlen wir eine Lungenfunktionsuntersuchung sowie augenärztliche Kontrolluntersuchungen. Auf entsprechende Maßnahmen zur notwendigen Lichtschutzprophylaxe wurde hingewiesen.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Procedere/Termine:
+- Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten, gerne auch bei einer niedergelassenen B-SALUTE oder Kollegen.
+- Amiodaron 200mg 1-0-0 in der Blanking Phase -LRB- bis zum <[Pseudo] 26/05/41> -RRB-
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Lixiana 60mg 1-0-0
+Bisoprolol 1,25 mg 1-0-0
+Bitte regelmäßige Kontrollen von Herzfrequenz und Blutdruck und ggf. Dosisanpassung im Verlauf
+Amiodaron 200mg 1-0-0 neu, bis zum <[Pseudo] 26/05/2041> danach absetzen
+Bitte Kontrolle der Transaminasen, der Schilddrüsenparameter sowie EKG-Aufzeichnungen alle 3 Monate, Lungenfunktionstestung und augenärztliche Kontrollen alle 6 Monate. Zudem bei Lichtexposition Sonnenschutz mit hohem LSF empfohlen
+Ramipril 2,5mg 1-0-1 erhöht
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Amlodipin 5mg 1-0-1 erhöht
+Pantoprazol 40 mg 1-0-0
+Atorvastatin 20mg 1-0-0 neu, bei KHK + Hypercholesterinämie
+Bitte regelmäßige Kontrollen von CK, Transaminasen und Lipiden und LDL-adaptierte Dosisanpassung nach aktuellen Leitlinien
+
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2040> und dem B-DAY B-MONTH <[Pseudo] 2040>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.65
+4 - 10 /nl
+B-DATE
+Hb
+14.4
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.2 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.420
+0,38 - 0,52 l/l
+B-DATE
+MCV
+98 !H
+83 - 97 fl
+<[Pseudo] 04/03/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+34 !H
+27 - 33 pg
+<[Pseudo] 04/03/41>
+MCHC
+35
+30 - 36 g/dl
+<[Pseudo] 04/03/41>
+RDW
+12.5 !L
+12,9 - 18,7 %
+<[Pseudo] 04/03/41>
+hypochr.Erythroz.
+0.2
+0 - 2 %
+<[Pseudo] 04/03/41>
+Thrombozyten
+174
+150 - 440 /nl
+<[Pseudo] 04/03/41>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+142
+135 - 146 mmol/l
+<[Pseudo] 04/03/41>
+Kalium -LRB- ISE -RRB-
+4.31
+3,4 - 5,0 mmol/l
+<[Pseudo] 04/03/41>
+Kreatinin
+1.08
+0,6 - 1,4 mg/dl
+<[Pseudo] 04/03/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+45 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+66.8
+>60 s.u.
+<[Pseudo] 04/03/41>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Glucose
+110
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+20
+- <46 U/l
+B-DATE
+GPT/ALT
+29
+- <50 U/l
+B-DATE
+CRP
+5.4 !H
+- <5 mg/l
+<[Pseudo] 04/03/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 04/03/41>
+ikterisch
++
+
+<[Pseudo] 04/03/41>
+Lipämie
+-
+
+<[Pseudo] 04/03/41>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+293
+- <342 U/l
+B-DATE
+CK
+105
+- <190 U/l
+<[Pseudo] 04/03/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+46.6 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+167
+- <450 ng/l
+<[Pseudo] 04/03/41>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.22
+0,400 - 4,000 mU/l
+<[Pseudo] 04/03/41>
+
+
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+55.4 !L
+70 - 125 %
+<[Pseudo] 04/03/41>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+INR - ber.
+1.31 !H
+- <1.2
+B-DATE

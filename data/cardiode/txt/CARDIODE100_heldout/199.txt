@@ -1,0 +1,81 @@
+Aufnahmedatum: <[Pseudo] 2038-01-26 >
+Geburtsdatum: <[Pseudo] 1975-11-04 >
+Alter: 62
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 04/11/1975> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kardiologische Verlaufskontrolle bei erhöhtem kardiovaskulären Risikoprofil
+-UNK- Echokardiographisch gute biventrikuläre Funktion -LRB- LV EF: 55% -RRB-
+-UNK- Unauffälliges Belastungs-EKG bis zu 125 Watt -LRB- 93% Ziel-Hf -RRB-
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Aortenklappeninsuffizienz I°
+- V.a. Obstruktives Schlafapnoesyndrom
+- Hypothyreose
+- Morbus Dupuytren
+- Z. n. Bandscheibenvorfall mit OP L5/S1 <[Pseudo] 2009>
+- Z. n. Tonsillektomie
+- Z. n. Appendektomie
+
+Kardiovaskuläre Risikofaktoren: ehemaliger Nikotinabusus, karent seit 62 Familienanamnese -LRB- Vater Hinterwandinfarkt mit 62 62 -RRB- , Adipositas.
+Allergien: bisher keine bekannt, Prick-Test wird demnächst durchgeführt bei V.a. Pollinosis
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur routinemäßigen kardiologischen Verlaufskontrolle bei erhöhtem kardiovaskulären Risikoprofil -LRB- s.o -RRB- . Im Alltag bestehe eine gute Belastbarkeit -LRB- P. geht regelmäßig Joggen, 3-4 Etagen Treppensteigen problemlos möglich -RRB- . Es bestehen keine pectanginöse Beschwerden bei Belastung oder in Ruhe. Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Es bestehe keine relevante Nykturie. Periphere Ödeme seien bei Gewichtszunahme -LRB- +5 kg in den letzten 4 Monaten, a.e. bewegungsbedingt bei Muskelfaserriss -RRB- nicht aufgefallen. Häusliche Blutdruckmessungen würden nicht erfolgen. Die letzte Langzeit-Blutdruckmessung -LRB- vor ca. 2-3 Jahren -RRB- sei unauffällig gewesen. Vor kurzem sei in B-LOC eine Schlaflaboruntersuchung erfolgt, dabei sei bei noch ausstehendem Befund eine nächtliche Maskentherapie empfohlen worden. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Bisherige Medikation:
+L-Thyroxin 50µg 1-0-0
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 178cm 88kg
+HF: 77/min, regelmäßig
+RR: 140/80mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 77/min, Indifferenztyp. PQ 188 ms, QRS 100 ms, QTc ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, diskrete S-Persistenz in V6. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 125 Watt über 2:00 min. Maximale Frequenz 147/min -LRB- 93% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 231 mmHg, diastolisch 97 mmHg. Abbruch wegen peripherer Ermüdung und Dyspnoe bei FFP2-Maske. Keine Angina pectoris oder inadäquate Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Vereinzelt VES -LRB- 3 -RRB- . Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck bei insgesamt erhöhtem Blutdruckprofil.
+
+Transthorakale Echokardiographie:
+Normal großer linker Ventrikel mit noch guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA leicht erweitert, RA und RV normal groß, gute RV-Funktion. Diskrete Ektasie der Aortenwurzel bei normwertiger Aorta ascendens. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspide mit leichtgradiger Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist bei fehlender Trikuspidalklappeninsuffizienz nicht bestimmbar.
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur routinemäßigen kardiologischen Verlaufskontrolle bei erhöhtem kardiovaskulären Risikoprofil. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Das Belastungs-EKG bis 125 Watt ergab weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradige Herzrhythmusstörungen. Echokardiographisch fand sich eine gute linksventrikuläre Pumpfunktion ohne relevante Klappenvitien.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus.
+
+Bei in unserer Ambulanz erhobenen hypertensiven Blutdruckwerten empfehlen wir die bereits initiierte Abklärung und Therapie der obstruktiven Schlafapnoe. Wir empfehlen weiterhin regelmäßige häusliche sowie hausärztliche Blutdruckmessungen sowie ggf. eine erneute Durchführung einer Langzeit-Blutdruckmessung.
+
+Wir empfehlen zudem die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen insbesondere nicht-medikamentöse Maßnahme zur Senkung des Blutdrucks wie salzarme Ernährung, mediterrane Diät, Gewichtsreduktion sowie regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, Tanzen oder Ergometertraining.
+
+Sofern sich im Verlauf, insbesondere nach Einstellung der obstruktiven Schlafapnoe sowie nach Beachtung der oben aufgeführten nicht-medikamentösen Maßnahmen, weiterhin hypertensive Blutdruckwerte zeigen sollten, empfehlen wir ggf. die Hinzunahme einer medikamentösen antihypertensiven Therapie.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Aktuelle Medikation:
+L-Thyroxin 50µg 1-0-0
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

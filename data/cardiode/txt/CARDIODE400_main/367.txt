@@ -1,0 +1,563 @@
+Aufnahmedatum: <[Pseudo] 2468-10-25 >
+Geburtsdatum: <[Pseudo] 2107-06-21 >
+Alter: 361
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 21/06/2107> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+Aktuell:
+- V. a. stattgehabte hypertensive Entgleisung, DD Tachyarrhythmia absoluta bei Vorhofflimmern
+- Leichte kardiale Dekompensation
+- Koronare 3-Gefäßerkrankung
+-UNK- Z. n. insgesamt 11x Koronarangiographie zuletzt <[Pseudo] 2186>
+-UNK- Ad Myokardszintigraphie -LRB- Termin siehe unten -RRB-
+- Mittelgradige Mitral- und Trikuspidalklappeninsuffizienz
+- Gute LV-Funktion
+- Z. n. 1-Kammer-Schrittmacherimplantation -LRB- Biotronic am <[Pseudo] 03/01/2183> -RRB- bei Bradyarrhythmia absoluta
+- Permanentes Vorhofflimmern
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Z. n. Nikotinkonsum bis <[Pseudo] 2161> -LRB- kumulativ 30 PY -RRB-
+Allergien/Unverträglichkeiten: Novalgin, Jod, Nickel, Diclophenac, Kontrastmittel, Ranexa -LRB- bei 2x tgl. Einnahme -RRB-
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte als Übernahme aus unserer B-ORG I-ORG I-ORG dortige Einweisung durch den niedergelassenen betreuenden B-SALUTE B-TITLE B-PER I-PER Der Patient hatte sich am Aufnahmetag dort vorgestellt aufgrund von seit 6.23 Uhr bestehendem -UNK- Herzflattern -UNK- . Grundsätzlich kenne er dieses Gefühl von etwaigen Vorhofflimmer-Episoden, jedoch nicht in dieser Stärke der Ausprägung. Eine Selbstmessung des Blutdrucks war anamnestisch technisch bei unregelmäßigem Puls nicht möglich. Daraufhin erfolgte eine Einnahme des Nitrosprays, jedoch ohne Besserung der Beschwerden, sodass die Vorstellung beim Kardiologen erfolgte. Dort erfolgte eine Aggregatabfrage, welche einen regelrechten Befund zeigte ohne etwaige Episoden im Speicher, so dass der Patient schließlich in die B-ORG I-ORG I-ORG eingewiesen wurde. Auf typische Nachfrage hin: Keine typische Angina pectoris Beschwerden -LRB- seit der letzten Herzkatheteruntersuchung keine erneuten Episoden -RRB- , keine inadäquate Belastungsdyspnoe, Zunahme von 2 kg Gewicht in den letzten Wochen sowie Ödeme der Unterschenkel beidseits, keine Synkopen, kein Schwindel, kein Hinweis auf einen aktuellen Infekt.
+
+Medikation bei Aufnahme:
+Xarelto 20 mg 1-0-0
+Metosuccinat 95 mg 0,5-0-1
+Amlodipin 0-0-1
+Ramilich 10 mg 0,5-0-0,5
+Moxonidin 0,3 mg 1-0-1
+Ranexa 375 mg 0-0-1
+Simvastatin 40 mg 0-0-1
+Torasemid 30 mg 1,5-0-0 Pause
+Lasix nach Labor und Bilanz
+Pantoprazol 20 mg 1-0-0
+Multinorm Vitamin C+Zink 1-0-0
+Vertigoheel 1-0-0
+Isoket Spray b.B. 2-3x
+Dekristol 2x/Woche
+Natrium Globuli 0-0-5
+lactaid Ultra b.B. 1x15000 FCC-Units
+Magnesium-Brause 300 mg b.B.
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: 178 cm, 79,5 kg
+HF: 65/min
+RR: 130/80 mmHg
+Keine Zyanose, keine Anämiezeichen, kein Ikterus.
+Cor: leise, rein, keine path. Geräusche
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Abdomen: weich, kein DS, keine Resist.
+Pulsstatus: periphere Pulse gut tastbar
+Periphere Ödeme: Unterschenkel bds.
+Kopf/Hals: unauffällig
+Neurol. Status: orientierend o.p.B.
+Sonstiges: keine
+
+Ruhe-EKG in der B-ORG I-ORG I-ORG vom <[Pseudo] 21/12/2192:>
+Normofrequentes Vorhofflimmern mit einer mittleren Frequenz von 62/min, überdrehter Linkstyp, QRS 138 ms, QTc 466 ms, kompletter Rechtsschenkelblock, linksanteriorer Hemiblock -LRB- bifaszikuläres Blockbild -RRB- mit konsekutiven Kammerendteilveränderungen. S-Persistenz bis V6.
+
+Röntgen Thorax vom <[Pseudo] 21/12/2192:>
+Emphysemaspekt. Keine pneumonietypischen Verschattungen. Randwinkelschwielen beidseits. Kein Erguss. Apikale Pleuraschwielen beidseits. Kein Pneumothorax. Cardiomegalie. Schrittmacheraggregat linkspectoral, Elektrode in Projektion auf den basalen rechten Ventrikel. Aortensklerose. Retrosternalraum frei. Retrocardialraum bei Cardiomegalie eingeengt. Fortgeschrittene degenerative Skelettveränderungen.
+
+
+
+
+
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 24/12/2192:>
+Beidseits leichtgradige, echoreiche Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet. IMD rechts 0,11 cm, links 0,10 cm. Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar. Erstbefund in domo.
+
+Lungenfunktionsprüfung vom <[Pseudo] 24/12/2192:>
+Kapilläre Blutgasanalyse:
+Raumluft: Normoxie, Normokapnie, normaler Säure-Basen-Status.
+Spirometrie und Bodyplethysmographie:
+Keine Obstruktion der kleinen Atemwege.
+Keine Obstruktion der großen Atemwege.
+Keine Restriktion. Keine Überblähung.
+CO-Diffusionskapazität: mäßig eingeschränkt.
+CO-Transferkoeffizient: normal.
+
+Sonographie vom <[Pseudo] 24/12/2192:>
+Fragestellung: Ausschluss Pleuraerguss
+Beidseist kein Nachweis eines Pleuraergusses.
+
+Transthorakale Echokardiographie vom <[Pseudo] 24/12/2192:>
+Normal großer linker Ventrikel mit noch guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Kein Hinweis auf eine signifikante diastolische Funktionsstörung. LA dilatiert und elongiert, RA deutlich dilatiert und RV leicht dilatiert sowie hyertrabekularisiert, noch gute RV-Funktion. Aortenwurzel normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior erweitert und wenig atemvariabel. Mittelgradige Trikuspidalklappeninsuffizienz bei SM-Elektrodendurchtritt sowie Anulusdilatation. Aortenklappe leicht verdickt mit noch guter Separation. Leichtgradige Mitralklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist erhöht -LRB- ca. 40 mmHg -RRB- . Erstbefund in domo.
+
+Schrittmacherkontrolle vom <[Pseudo] 24/12/2192:>
+Regelrechte 1-Kammer- Schrittmacherfunktion. Die Gerätemessparameter für die Impedanz, Wahrnehmung und Reizschwelle der RV-Sonde sind regelrecht. Batteriestatus gut -LRB- 45% bis ERI, Restlaufzeit 4-5Jahre -RRB- . Im Speicher wurden keine Episoden von Herzrhythmusstörungen seit letzter Abfrage am <[Pseudo] 12/79> aufgezeichnet. VP-Anteil 36% -LRB- stabil zur VU, insgesamt seit Implantation angestiegen -RRB- . Der Patient berichtet von einer symptomatischen Episode von Herzrasen vor einer Woche. Diese wurde bei einer aktuellen Detektionsfrequenz von ventrikulär 150/min nicht aufgezeichnet. Somit erfolgte die Reduktion der Detektionsfrequenz zur Episodenaufzeichnung von 180/min auf 150/min. Nach RS mit dem Stationsarzt erfolgte das Anheben der Grundfrequenz von 50/min auf 60/min, Belassen der Ruhefrequenz von 45/min. Nach Einsicht des Frequenzprofils zeigt sich bei permanentem Vorhofflimmern ein deutlich linksakzentuierters Frequenzprofil mit ventrikulären Frequenzen von 50- 70/min, keine ventrikulären Frequenzen von >90/min. Trotz bestehender Polyneuropathie und eingeschränkter Belastbarkeit erfolgte die probatorische Programmierung der Sensorfunktion mit niedriger -LRB- 100/min -RRB- MSR bei chronotroper Inkompetenz sowie Belastungsdyspnoe.
+
+Langzeitblutdruckmessung vom B-DATE:
+Im Mittel normotensives Blutdruckverhalten tagsüber von 131/79 mmHg, nachts 118/63 mmHg, sowie im 24h-Mittel 127/75 mmHg. Systolische Blutdruckspitzen tagsüber von 158 mmHg und nachts von 129 mmHg, diastolische Maximalwerte betragen tagsüber 103 mmHg und nachts 79 mmHg. Erhaltene zirkadiane Rhythmik.
+
+
+
+
+Langzeit-EKG vom B-DATE:
+Vorhofflimmern als Grundrhythmus. Intermittierend Schrittmacher-Stimulation. Frequenzen zwischen 44/min und 109/min, im Mittel 66/min. Keine Pausen. Viele polymorphe ventrikuläre Extrasystolen, z. T. auch repetitiv mitweitem Kopplungsintervall und als Bigemini. Einige Couplets. Vereinzelte ventrikuläre Salven -LRB- längste über vier Schläge, schnellste mit 149/min -RRB- . Lown IV b.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 22/12/2192> und dem <[Pseudo] 26/12/2192>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+6.61
+4 - 10 /nl
+B-DATE
+Hb
+13.5
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.3
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.420
+0,38 - 0,52 l/l
+B-DATE
+MCV
+96
+83 - 97 fl
+<[Pseudo] 26/12/92>
+MCH
+31
+27 - 33 pg
+<[Pseudo] 26/12/92>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 26/12/92>
+RDW
+13.7
+12,9 - 18,7 %
+<[Pseudo] 26/12/92>
+hypochr.Erythroz.
+1.1
+0 - 2 %
+<[Pseudo] 26/12/92>
+Thrombozyten
+188
+150 - 440 /nl
+B-DATE
+Lympho -LRB- abs. -RRB-
+1.50
+1,0 - 4,8 /nl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Neutroph.G.-abs.
+4.42
+1,8 - 7,7 /nl
+<[Pseudo] 22/12/92>
+Mono. -LRB- abs. -RRB-
+0.57
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.05
+- <0,5 /nl
+<[Pseudo] 22/12/92>
+Basoph.G. -LRB- abs -RRB-
+0.01
+- <0,2 /nl
+<[Pseudo] 22/12/92>
+Neutroph.G. -LRB- mech. -RRB-
+66.3
+50 - 80 %
+<[Pseudo] 22/12/92>
+Lympho -LRB- mech. -RRB-
+22.5 !L
+25 - 40 %
+<[Pseudo] 22/12/92>
+Basoph.G.
+0.2
+- <1 %
+<[Pseudo] 22/12/92>
+Monozyten -LRB- mech. -RRB-
+8.5
+2 - 9 %
+<[Pseudo] 22/12/92>
+Eosinoph.G. -LRB- mech. -RRB-
+0.7 !L
+2 - 4 %
+<[Pseudo] 22/12/92>
+BKS 1h
+9
+- <20 mm
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+142
+135 - 146 mmol/l
+<[Pseudo] 26/12/92>
+Kalium -LRB- ISE -RRB-
+4.07
+3,4 - 5,0 mmol/l
+<[Pseudo] 26/12/92>
+Calcium
+2.48
+2,11 - 2,59 mmol/l
+<[Pseudo] 22/12/92>
+Phosphat
+0.81 !L
+0,84 - 1,45 mmol/l
+<[Pseudo] 22/12/92>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+0.85
+0,6 - 1,7 mg/dl
+<[Pseudo] 26/12/92>
+Harnstoff
+36
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+79.5
+>60 s.u.
+<[Pseudo] 26/12/92>
+MDRD
+119.25
+ml/min/1,73qm
+<[Pseudo] 22/12/92>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Ges.Eiweiss
+76.6
+60 - 80 g/l
+B-DATE
+Albumin quant.
+44.7
+30 - 50 g/l
+B-DATE
+Glucose
+101
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+20
+- <46 U/l
+B-DATE
+GPT/ALT
+11
+- <50 U/l
+B-DATE
+AP
+70
+40 - 130 U/l
+B-DATE
+GGT
+39
+- <60 U/l
+<[Pseudo] 22/12/92>
+Ges.Bili.
+2.00 !H
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+6.4
+- <7 mg/dl
+<[Pseudo] 26/12/92>
+Triglyceride
+61
+- <150 mg/dl
+<[Pseudo] 22/12/92>
+Cholesterin
+122.0
+- alt.abh. mg/dl
+<[Pseudo] 22/12/92>
+LDL-Chol. -LRB- berechn. -RRB-
+64
+- <160 mg/dl
+<[Pseudo] 22/12/92>
+HDL-Cholesterin
+46
+>40 mg/dl
+<[Pseudo] 22/12/92>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+p-Amylase
+30
+8 - 53 U/l
+<[Pseudo] 22/12/92>
+Lipase
+35
+19 - 63 U/l
+<[Pseudo] 22/12/92>
+Eisen
+19.1
+14 - 32 µmol/l
+<[Pseudo] 22/12/92>
+Ferritin
+80
+30 - 300 µg/l
+<[Pseudo] 22/12/92>
+Transferrin
+2.27
+2,0 - 3,6 g/l
+<[Pseudo] 22/12/92>
+TFSG
+33
+16 - 45 %
+<[Pseudo] 22/12/92>
+CRP
+<2.0
+- <5 mg/l
+<[Pseudo] 26/12/92>
+IgM
+0.69
+0,4 - 2,3 g/l
+<[Pseudo] 22/12/92>
+IgG
+15.02
+7,0 - 16,0 g/l
+B-DATE
+IgA
+4.20 !H
+0,7 - 4,0 g/l
+<[Pseudo] 22/12/92>
+Hämolyse
+-
+
+<[Pseudo] 26/12/92>
+ikterisch
+-
+
+<[Pseudo] 26/12/92>
+Lipämie
+-
+
+<[Pseudo] 26/12/92>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+191
+- <342 U/l
+B-DATE
+CK
+97
+- <190 U/l
+<[Pseudo] 22/12/92>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+16.3 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+2138 !H
+- <450 ng/l
+<[Pseudo] 22/12/92>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.6
+- <6,1 %
+<[Pseudo] 22/12/92>
+HbA1c -LRB- IFCC -RRB-
+38
+20 - 42 mmol/mol
+<[Pseudo] 22/12/92>
+mittlere Glucose
+114 !H
+- <110 mg/dl
+<[Pseudo] 22/12/92>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.760
+0,400 - 4,000 mU/l
+<[Pseudo] 22/12/92>
+FT3
+3.45
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+16.58
+8 - 18 ng/l
+B-DATE
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+65.8 !L
+70 - 125 %
+<[Pseudo] 26/12/92>
+INR - ber.
+1.20 !H
+- <1.2
+<[Pseudo] 26/12/92>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+28.7
+- <35 s
+B-DATE
+Fib. -LRB- Clauss -RRB-
+2.60
+1,8 - 3,5 g/l
+<[Pseudo] 26/12/92>
+
+
+
+
+
+Blutgasanalyse
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH
+7.46 !H
+7,37 - 7,45
+<[Pseudo] 24/12/92>
+pO2
+84
+mmHg
+<[Pseudo] 24/12/92>
+pCO2
+35.0
+35 - 45 mmHg
+<[Pseudo] 24/12/92>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+0.6
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+25.0
+mmol/l
+B-DATE
+Laktat
+12.6
+- <16 mg/dl
+<[Pseudo] 24/12/92>
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte notfallmäßig über unsere B-ORG I-ORG I-ORG nachdem der Patient am Aufnahmetag um 06:23 Uhr über plötzliches -UNK- Herzflattern -UNK- berichtet hatte. Dies hatte für mehrere Stunden angehalten, so dass der Patient sich im niedergelassenen Bereich vorgestellt hatte. Hier erfolgte eine Abfrage des Schrittmacheraggregats, welches einen regelrechten Befund ohne etwaige Episoden. Daraufhin erfolgte die Einweisung in unsere B-ORG I-ORG I-ORG Hier konnte laborchemisch ein akuter Myokardinfarkt ausgeschlossen werden bei zu diesem Zeitpunkt bereits klinisch beschwerdefreiem Patienten. Weiterhin imponierte eine Gewichtszunahme von ca. 2 kg in den letzten Wochen sowie Ödeme auf Unterschenkelniveau. Passend zum Bild einer milden kardialen Dekompensation fand sich das NT-ProBNP deutlich erhöht sowie im Röntgen Thorax pulmonalvenöse Stauungszeichen ohne Pleuraergüsse beidseits. Es erfolgte daher eine intensivierte intravenöse diuretische Therapie mittels Furosemid-Boli. Hierunter konnte eine zügige Rekompensation erreicht werden. Echokardiographisch fand sich ein normal großer linker Ventrikel mit noch guter systolischer Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen ohne höhergradige Vitien. Im Langzeit-EKG fand sich das bekannte VHF sowie vereinzelte Salven -LRB- diesbezüglich empfehlen wir wiederholte Aufzeichnungen im ambulanten Setting, ggf. weiterführenden Therapieanpassung -RRB- . Die Langzeitblutdruckmessung fand eine noch erhaltene circadiane Rhythmik. Zur Ischämiediagnostik vereinbarten wir einen post-stationären Termin zur Myokardszitnigraphie -LRB- siehe unten -RRB- . In der Schrittmacherkontrolle fanden sich keinerlei Episoden bei jedoch erhöhter Monitor-Zone, sodass hier eine Reduktion stattfand zur verbesserten Detektion etwaiger AT/AF-Episoden. Ferner erfolgte eine Anhebung der Interventionsfrequenz auf 60/min. inkl. Aktivierung der Sensor-Funktion bei bereits zuvor erhöhtem VP-Anteil und reduzierter körplericher Belastbarkeit.
+
+Zudem passten wir die antihypertensive Medikation an -LRB- Absetzen von Amlodipin bei Unterschenkelödemen und differentialdiagnostischer Arzneimittelnebenwirkung -RRB- . Bei seit Jahren keinerlei erneuter Angina pectoris Beschwerden pausierten wir zudem probatorisch die Ranexa-Therapie und intensivierten die Betablockade bei V.a. sattgehabte TAA.
+Bei unzureichend kontrolliertem LDL-Cholesterin erfolgte -LRB- zur Plaquestabilisierung wie auch Cholesterinsenkung -RRB- die Eskalation bzw. Einleitung einer Statintherapie. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf. Unter der angepassten Therapie -LRB- inkl. intensivierter Antihypertensiva -RRB- bitten wir um eine Kontrolle der Retentionsparameter in den nächsten 2-3 Werktagen beim Hausarzt -LRB- inkl. erneute Wundkontrolle bei Z.n. Nahtentfernung linkes Ohr -RRB- . Bzgl. des erhöhten Bilirubins empfehlen wir eine erneute Kontrolle und ggf. Oberbauchsonographie als ergänzende Diagnostik.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER mit einem Entlassgewicht von 77,15 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung in 6 Monaten -LRB- inkl. Schrittmacherkontrolle -RRB- , auf Wunsch gerne beim betreuenden niedergelassenen B-SALUTE B-TITLE I-TITLE I-TITLE PER.
+
+
+Nächster Termin:
+Myokardszintigraphie am <[Pseudo] 01/01/2193> um 9:00 Uhr; Vorstellung B-ORG -LRB- Leitstelle -RRB-
+Den Betablocker bitten wir 24 Stunden vorher zu pausieren
+Die Lercanidipin-Medikation bitten wir 4 Tage vorher zu pausieren
+Ferner bitten wir am Tag der Untersuchung nüchtern zu erscheinen und ausreichend fetthaltige Nahrungsmittel mitzubringen. Die Gesamtdauer der Untersuchung beträgt ca. 5-6 h.
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Xarelto 20 mg 1-0-0
+Metosuccinat 95 mg 1-0-1 gesteigert -LRB- Pause vor Szintigraphie beachten; s. Text -RRB-
+Amlodipin 0-0-1 abgesetzt
+Lercanidipin 10 mg 1-0-1 neu -LRB- Pause vor Szintigraphie beachten; siehe Text -RRB-
+Ramilich 10 mg 0,5-0-0,5
+Moxonidin 0,3 mg 1-0-1 abgesetzt
+Ranexa 375 mg 0-0-1 abgesetzt
+Simvastatin 40 mg 0-0-1 abgesetzt
+Rosuvastatin 20 0-0-1
+Torasemid 10 mg 3-0-0
+Pantoprazol 20 mg 1-0-0
+Multinorm Vitamin C+Zink 1-0-0
+Vertigoheel 1-0-0
+Isoket Spray b.B. 2-3x
+Dekristol 2x/Woche
+Natrium Globuli 0-0-5
+lactaid Ultra b.B. 1x15000 FCC-Units
+Magnesium-Brause 300 mg b.B.
+
+
+Wir empfehlen fettmodifizierte und an tierischen Fetten reduzierte, kalorienkontrollierte Mischkost.
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Assistenzarzt

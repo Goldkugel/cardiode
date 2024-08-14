@@ -1,0 +1,391 @@
+Aufnahmedatum: <[Pseudo] 2040-05-10 >
+Geburtsdatum: <[Pseudo] 1977-06-24 >
+Alter: 62
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 24/06/1977> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Z.n. adäquater ICD-Entladung bei ventrikulärer Tachykardie am <[Pseudo] 17/01/2040>
+-UNK- Bei erneuter Episode Evaluation bezüglich Ablation oder Amiodaron-Aufsättigung
+- Verschluss von LAD, R. marginalis und RCA -LRB- kollat. über LCA -RRB- , höhergradige LCX-Stenose -LRB- idem zum Vorbefund -RRB- , LIMA ad LAD und ACVB sequentiell ad RD und RM offen -LRB- B-OTHER vom <[Pseudo] 20/04/2040> -RRB-
+-UNK- Konservatives Prozedere bezüglich Koronarien
+
+Diagnosen:
+- Schwere koronare 3-Gefäßerkrankung mit hochgradig eingeschränkter LV-Pumpfunktion -LRB- B-OTHER vom <[Pseudo] 14/03/2035> -RRB-
+-UNK- Z.n. 3-fach Koronarrevaskularisation unter Verwendung der LIMA als in-situ-graft auf LAD, Anlage eines sequentiellen aortocoronaren Venenbypasses auf RD und RM -LRB- B-DATE, Herzchirurgie I-ORG -RRB-
+-UNK- Myokardszinitgraphie B-DATE: belastungsabhängige Ischämie beidseits im Randbereich der bekannten Infarktnarbe
+- Primärprophylaktische 1-Kammer-ICD-Implantation -LRB- Medtronic -RRB- am <[Pseudo] 26/09/2035>
+-UNK- ICD Schock bei Kammerflimmern <[Pseudo] 30/06/2037>
+- pAVK Stadium I, gutes kurzfristiges Ergebnis nach:
+-UNK- Erfolgreiche PTA -LRB- 1x Scoring Ballon/1x DEB -RRB- der AFS rechts -LRB- B-OTHER vom <[Pseudo] 22/05/2037> -RRB-
+-UNK- PTA links am <[Pseudo] 24/03/2040> im B-ORG
+- Mittelgradige Obstruktion der kleinen Atemwege, mäßige Restriktion, mäßige Überblähung
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus Typ II, positive Familienanamnese, Nikotinanamnese: früher, Packyears: 30.
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt.
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei Verdacht auf Progress der bekannten koronaren Herzerkrankung bei Feststellung einer ventrikulären Tachykardie mit adäquater Terminierung durch ICD-Entladung am <[Pseudo] 17/01/2040> in der planmäßigen ICD-Kontrolluntersuchung.
+Im Rahmen der heutigen SM-Kontrolluntersuchung in der B-ORG B-TITLE B-PER sei eine ICD-Entladung bei ventrikulärer Tachykardie am <[Pseudo] 17/01/2040> aufgefallen. Anamnestisch sei es bei der ventrikulären Tachykardie zu einer Synkope ohne Sturz gekommen, der ICD-Schock sei nicht wahrgenommen worden. Danach seien keine erneuten ICD-Entladungen oder Synkopen bemerkt worden. Auf spezifische Nachfrage sonst keinerlei kardiale Beschwerden. Es werden insbesondere AP-Beschwerden oder inadäquate Belastungsdyspnoe verneint. Keine subjektiv empfundenen Palpitationen oder Herzrhythmusstörungen, kein Schwindel. Die letzte Herzkatheteruntersuchung sei im B-MONTH <[Pseudo] 2034> durchgeführt worden. Anamnestisch sei es im B-MONTH <[Pseudo] 2036> bereits zu einer Episode Kammerflimmern mit ICD-Entladung gekommen, aufgrund derer eine Ischämiediagnostik mittels Myokardszintigraphie im B-MONTH <[Pseudo] 2037> erfolgte. Diese zeigte eine belastungsabhängige Ischämie im Randbereich der bekannten Infarktnarbe an der Hinterwand. Eine weiterführende Abklärung mittels Koronarangiographie sei damals nicht durchgeführt worden.
+
+Medikation bei Aufnahme:
+ASS 100 mg 1-0-0
+Clopidogrel 75 mg 1-0-0 bis <[Pseudo] 24/06/2040> bei Z.n. PTA linkes Bein am <[Pseudo] 24/03/2040>
+Bisoprolol 5 mg 1-0-1
+Entresto 97/103 mg 1-0-1
+Lercanidipin 10 mg 1-0-0
+Eplerenon 50 mg 1-0-0
+Atorvastatin 40 mg 0-0-1
+Ezetrol 10 mg 1-0-0
+Jardiance 25 mg 1-0-0
+Metformin 1000 mg 1-0-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ:adipös -LRB- 182cm, 104kg; BMI: 31,4 kg/m² -RRB-
+HF: xx/min, regelmäßig
+RR: 130/70 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: A. radialis und A. dorsalis pedis beidseits palpabel
+Neurol. Status: orientierend unauffällig.
+sonstige Auffälligkeiten: Mediale Sternotomie Narbe
+
+Ruhe-EKG bei Aufnahme:
+Bradykarder Sinusrhythmus, Herzfrequenz: 54/min, Steiltyp, Linkschenkelblock mit konsekutiven Kammerendteilveränderungen.
+
+ICD-Kontrolle vom <[Pseudo] 19/04/2040:>
+Auffällige ICD-Kontrolluntersuchung bei ventrikulärer Tachykardie am <[Pseudo] 17/01/2040> mit einmalig erfolgloser ATP-Abgabe und anschließender Terminierung durch Schockabgabe mit 36 J. 9 weitere nsVT Episoden im Speicher. Messwerte stabil. Batteriestatus gut. <1 % ventrikuläres Pacing.
+Aufklärung über eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 3 Monate nach Therapieabgabe gemäß den aktuellen DGK-Leitlinien erfolgt. Anmerkung: Bei Berufskraftfahrern -LRB- Klasse 2 -RRB- ist eine gesonderte Stellungnahme erforderlich.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 20/04/2040> -RRB- :
+HK-Untersuchung bei V.a. Progress der KHK:
+Schwere koronare 3-Gefäßerkrankung mit Verschluss von LAD, R. marginalis und RCA -LRB- kollateralisiert über LCA -RRB- sowie höhergradigen LCX-Stenosen -LRB- idem zum Vorbefund -RRB- . LIMA ad LAD und ACVB sequentiell ad R. diagonalis und R. marginalis offen. Keine LV Angiographie zur Nephroprotektion.
+
+ICD-Kontrolle vom <[Pseudo] 21/04/2040> -LRB- Abfrage Frequenzhistogramm -RRB- :
+Kurzfristige 1-K-ICD Abfrage im Rahmen des stationären Krankenaufenthaltes bei Z.n. VT B-DATE. Im Speicher wurden seit letzter Abfrage <[Pseudo] 19/04/40> keine neuen Episoden detektiert. VP-Anteil bei 0,7%, zuvor <0%. Nach Einsicht des Frequenzhistogramms zeigt sich ein regelrechtes Frequenzprofil mit ventrikulären Frequenzen zwischen 50-80/min -LRB- zu 80% ventrikuläre Frequenzen zischen 50-70/min -RRB- . Seit 2 Tagen seit letzter Abfrage prozentual gefallener Anteil der ventrikulären Frequenzen >70/min.
+
+Transthorakale Echokardiographie vom <[Pseudo] 21/04/2040:>
+Dilatierter, septal betont hypertrophierter linker Ventrikel mit global mittel- bis hochgradig eingeschränkter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte, betont inferolateral basal sowie anterolateral medioapikal, Akinesie inferior mediobasal. Erhaltene longitudinale Funktion. Hinweis auf diastolische Funktionsstörung des LVs. LA dilatiert, RA und RV leicht erweitert. Erhaltene RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut und atemvariabel. Leichtgradige Mitral- und Trikuspidalinsuffizienz. Der systolische PA-Druck in Ruhe ist normwertig -LRB- ca. 20mmHg -RRB- . Im Vergleich zum Vorbefund vom <[Pseudo] 15/03/2035:> Relaxationsstörung des LVs, ansonsten keine wesentliche Befundänderung.
+
+Langzeit-EKG vom B-DATE:
+Sinusrhythmus als Grundrhythmus. Intermittierend Schrittmacher-Stimulation. Frequenzen zwischen 43/min und 79/min, im Mittel 58/min. Häufige supraventrikuläre Extrasystolen, z.T. auch repetitiv. Keine Pausen. Häufige polymorphe ventrikuläre Extrasystolen, auch als Bigemini. Vereinzelte Couplets. Ein Triplet. Lown IV b. Der Patient ist bereits mit einem ICD-System versorgt.
+
+Ruhe-EKG vom <[Pseudo] 22/04/2040> -LRB- bei Entlassung -RRB- :
+Bradykarder Sinusrhythmus, Herzfrequenz: 46/min, Steiltyp, Linkschenkelblock mit konsekutiven Kammerendteilveränderungen.
+
+Labor:
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei Verdacht auf Progress der bekannten koronaren Herzerkrankung bei Feststellung einer ventrikulären Tachykardie mit adäquater Terminierung durch ICD-Entladung am <[Pseudo] 17/01/2040> in der planmäßigen ICD-Kontrolluntersuchung.
+
+In der am <[Pseudo] 20/04/2040> durchgeführten Koronarangiographie zeigte sich die bekannte schwere koronare 3-Gefäßerkrankung ohne relevanten Progress, sodass keine Intervention erfolgte. Der postprozedurale Verlauf gestaltete sich komplikationslos, insbesondere zeigte sich kein Anhalt für ein Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+In der Echokardiographie zeigte sich ein vorbekannt dilatierter, septal betont hypertrophierter linker Ventrikel mit global mittel- bis hochgradig eingeschränkter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte, betont inferolateral basal sowie anterolateral medioapikal, Akinesie inferior mediobasal.
+
+In der ICD-Kontrolluntersuchung zeigte sich die VT-Episode vom <[Pseudo] 17/01/2040> welche aus einer bradykarden Episode heraus entstanden war. In Rücksprache mit den B-SALUTE der Rhythmologie erfolgte eine weitere Diagnostik mittels Frequenzhistogramm sowie Langzeit-EKG. Im Frequenzhistogramm zeigte sich ein regelrechtes Frequenzprofil, im Langzeit-EKG waren keine nichtanhaltenden VT-Episoden nachweisbar. In der Zusammenschau der Befunde empfehlen wir im Falle einer erneuten VT-Episode eine Wiedervorstellung zur Diskussion bezüglich einer möglichen Durchführung einer Ablation oder alternativ der Einleitung einer Amiodaron-Therapie. Bezüglich eines möglichen Telemedizin-Einschlusses bei Aggregatrückruf wünscht der Patient Bedenkzeit.
+
+Es erfolgte eine Aufklärung über eine Fahrungeeignetheit als Privatkraftfahrer -LRB- Klasse 1 -RRB- für mindestens 3 Monate nach Therapieabgabe gemäß den aktuellen DGK-Leitlinien.
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen B-SALUTE B-PER kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Bei beschwerdefreiem Verlauf empfehlen wir eine kardiologische Kontrolluntersuchung sowie eine Schrittmacher-Kontrolle in 3 Monaten, gerne wieder in der B-ORG B-TITLE B-PER
+
+Therapieempfehlung:
+ASS 100 mg 1-0-0
+Clopidogrel 75 mg 1-0-0 bis <[Pseudo] 24/06/2040> bei Z.n. PTA linkes Bein am <[Pseudo] 24/03/2040>
+Bisoprolol 5 mg 1-0-1
+Entresto 97/103 mg 1-0-1
+Lercanidipin 10 mg 1-0-0
+Eplerenon 50 mg 1-0-0
+Atorvastatin 40 mg 0-0-1
+Ezetrol 10 mg 1-0-0
+Jardiance 25 mg 1-0-0
+Metformin 1000 mg 1-0-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER / B-PER I-PER
+Ärztl. Direktor Oberärztin Stationsärztinnen
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 19/04/2040> und dem <[Pseudo] 20/04/2040>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+8.28
+4 - 10 /nl
+B-DATE
+Hb
+13.9
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+4.4
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.420
+0,38 - 0,52 l/l
+B-DATE
+MCV
+96
+83 - 97 fl
+<[Pseudo] 20/04/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+MCH
+32
+27 - 33 pg
+<[Pseudo] 20/04/40>
+MCHC
+33
+30 - 36 g/dl
+<[Pseudo] 20/04/40>
+RDW
+13.9
+12,9 - 18,7 %
+<[Pseudo] 20/04/40>
+hypochr.Erythroz.
+1.0
+0 - 2 %
+<[Pseudo] 20/04/40>
+Thrombozyten
+302
+150 - 440 /nl
+<[Pseudo] 20/04/40>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+139
+135 - 146 mmol/l
+<[Pseudo] 20/04/40>
+Kalium -LRB- ISE -RRB-
+4.16
+3,4 - 5,0 mmol/l
+<[Pseudo] 20/04/40>
+Calcium
+2.30
+2,11 - 2,59 mmol/l
+<[Pseudo] 20/04/40>
+Kreatinin
+0.81
+0,6 - 1,3 mg/dl
+<[Pseudo] 20/04/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+26
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+95.3
+>60 s.u.
+<[Pseudo] 20/04/40>
+MDRD
+104.89
+ml/min/1,73qm
+<[Pseudo] 20/04/40>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+41.8
+30 - 50 g/l
+<[Pseudo] 20/04/40>
+Glucose
+115 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+14
+- <46 U/l
+B-DATE
+GPT/ALT
+19
+- <50 U/l
+B-DATE
+GGT
+24
+- <60 U/l
+B-DATE
+Ges.Bili.
+0.80
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+5.5
+- <7 mg/dl
+<[Pseudo] 20/04/40>
+Triglyceride
+132
+- <150 mg/dl
+<[Pseudo] 20/04/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+135.0
+- alt.abh. mg/dl
+<[Pseudo] 20/04/40>
+LDL-Chol. -LRB- berechn. -RRB-
+72
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+37 !L
+>40 mg/dl
+B-DATE
+CRP
+6.6 !H
+- <5 mg/l
+<[Pseudo] 20/04/40>
+PCT sens.
+<0.05
+- <0,05 ng/ml
+<[Pseudo] 19/04/40>
+Hämolyse
+-
+
+<[Pseudo] 20/04/40>
+ikterisch
+-
+
+<[Pseudo] 20/04/40>
+Lipämie
+-
+
+<[Pseudo] 20/04/40>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+180
+- <342 U/l
+B-DATE
+CK
+63
+- <190 U/l
+<[Pseudo] 20/04/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+20.1 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+516 !H
+- <125 ng/l
+<[Pseudo] 19/04/40>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+7.3 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+56 !H
+20 - 42 mmol/mol
+<[Pseudo] 20/04/40>
+mittlere Glucose
+163 !H
+- <110 mg/dl
+<[Pseudo] 20/04/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+0.660
+0,400 - 4,000 mU/l
+<[Pseudo] 20/04/40>
+FT3
+3.11
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+12.69
+8 - 18 ng/l
+B-DATE
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+99.9
+70 - 125 %
+<[Pseudo] 20/04/40>
+INR - ber.
+1.01
+- <1.2
+<[Pseudo] 20/04/40>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+24.4
+- <35 s
+B-DATE

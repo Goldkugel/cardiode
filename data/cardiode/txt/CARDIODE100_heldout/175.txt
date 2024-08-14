@@ -1,0 +1,97 @@
+Aufnahmedatum: <[Pseudo] 2040-07-27 >
+Geburtsdatum: <[Pseudo] 1989-06-30 >
+Alter: 51
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 30/06/1989> wh. B-PLZ B-LOC I-ADDR I-ADDR die sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Verlaufskontrolle bei Z. n. transfemoraler Aortenklappenimplantation am <[Pseudo] 27/01/2041>
+-UNK- Regelrechte Position und Funktion der Klappenprothese
+-LRB- leichte Stenosewirkung nachweisbar -RRB-
+-UNK- Kein Nachweis einer Randleckage
+-UNK- Echokardiographisch weiterhin noch gute linksventrikuläre Funktion
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Z.n. transfemoraler Aortenklappenimplantation -LRB- Edwards, 20mm -RRB- am <[Pseudo] 28/01/2040> bei kombiniertem Aortenklappenvitium mit führender hochgradiger Stenose
+-UNK- Kombiniertes Aortenklappenvitium mit führender hochgradiger Stenose
+-UNK- KÖF 0,6 cm², PPG 46 mmHg, MPG 30 mmHg -LRB- Echokardiographie v. <[Pseudo] 27/01/2040> -RRB-
+-UNK- Hochgradige Aortenkleppenstenose mit KÖF 0,8cm2, PPG 30mmHg. Porzellanaorta. Erhöhte Drücke im kleinen Kreislauf -LRB- 50/16/30 mmHg -RRB- , erhöhter PCWP -LRB- 16mmHg -RRB- , erhöhter pulmonaler Gefäßwiderstand -LRB- 207dyn*s*cm-5 -RRB- . Gemischtvenöse Sättigung 72%, Cardiac Index 3,1 l/min/m² -LRB- B-OTHER v. <[Pseudo] 07/01/2040> -RRB-
+-UNK- Postinterventionell erhöhte Gradienten mit Stenosewirkung sowie leichtgradige Randleckage nachweisbar -LRB- Echokardiographie v. <[Pseudo] 29/01/2040> -RRB-
+-UNK- A.e. durch das hyperdyname Myokard, die kleine Klappenprothese und die Porzellanaorta mit kleinem Aortenanulus erklärt
+-UNK- Linksschenkelblock
+- Ausgeprägte Verkalkungen der Aorta ascendens -LRB- Porzellan-Aorta -RRB-
+- Koronare 1-Gefäßerkrankung der RCA mit hochgradiger ostialer Stenose des kleinen Gefäßes bei global guter linksventrikulärer Pumpfunktion -LRB- B-OTHER v. <[Pseudo] 2039> -RRB-
+-UNK- Koronare Herzerkrankung ohne höhergradige Stenosen mit global noch guter bis leichtgradig eingeschränkter linksventrikulärer Pumpfunktion -LRB- B-OTHER v. <[Pseudo] 16/07/2033> -RRB-
+- Z.n. M. Hodgkin von nodulär-sklerosierender Form ED <[Pseudo] 1993> mit Manifestation rechts cervical, rechts axillär und an der rechten Pectoralisvorderwand
+-UNK- Kein Hinweis auf Rezidiv -LRB- hämatologische Beurteilung in domo <[Pseudo] 05/2024> -RRB-
+-UNK- Z.n. Chemotherapie mit Natulan, Vincristin, Cyclophosphamid und Prednison
+-UNK- Z.n. Radiatio
+- Bekannte restriktive Ventilationsstörung -LRB- B-TITLE B-PER <[Pseudo] 08/31> -RRB-
+- Z.n. Nabelbruch-Operation <[Pseudo] 11/32>
+- Depression mit Venlavlaxintherapie
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie
+Allergien: keine bekannt
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur kardiologischen Verlaufskontrolle bei Z.n. transfemoraler Aortenklappenimplantation am B-DATE. Im Alltag bestehe eine gute Belastbarkeit -LRB- 3 Etagen Treppensteigen möglich -RRB- ; bei 3-4 Etagen Treppensteigen bestehe inadäquate Belastungsdyspnoe -LRB- NYHA II -RRB- . Es bestehen keine typischen pectanginösen Beschwerden bei Belastung oder in Ruhe. Gelegentlich treten kurzzeitige Palpitationen auf -LRB- ca. 5-7 sec -RRB- , welche sich durch tiefes Durchatmen meist bessern würden. Schwindel sowie stattgehabte Synkopen werden verneint. Es bestehe Nykturie mit ca. 2-facher Miktion pro Nacht. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 120-130/80-90mmHg. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Bisherige Medikation:
+ASS 100 mg 1-0-0
+Metoprolol 47,5 mg 1-0-1
+Candesartan 2 mg 1-0-0
+Atorvastatin 10 mg 0-0-2
+Venlafaxin 150 mg 1-0-0
+L- Thyroxin 25 µg 1-0-0
+Pantoprazol 20 mg 1-0-0
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 158 cm, 72 kg
+HF: 81/min, regelmäßig
+RR: 160/90mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: Systolikum, 2.ICR rechts, 4/6
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, Hf 81/min, Indifferenztyp. PQ 159 ms, QRS 142 ms, QTc 436ms. Linksschenkelblock mit konsekutiven Kammerendteilveränderungen.
+
+Transthorakale Echokardiographie:
+Normal großer, leicht hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Noch erhaltene longitudinale Funktion. Diastolische Dysfunktion des LV. LA leicht vergrößert. RA und RV normal groß, gute RV-Funktion. Kleine Perikardergusslamelle hinter dem RV. Vena cava inferior nicht gestaut. Evolut Klappenprothese in Aortenposition sonographisch regelrecht, dopplersonographisch leichte Stenosewirkung nachweisbar, keine Randleckage. Mitralkappe leicht verdickt mit leicht- bis mittelgradiger Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist erhöht -LRB- ca. 55 mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 29/01/2040:> Heute niedrigere Gradienten über der Aortenklappe, leicht- bis mittelgradige Mitralklappeninsuffizienz und erhöhter PA-Druck.
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur kardiologischen Verlaufskontrolle bei Z.n. transfemoraler Aortenklappenimplantation am B-DATE. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Echokardiographisch fand sich eine weiterhin noch gute linksventrikuläre Pumpfunktion. Die Aortenklappenprothese fand sich sonographisch regelrecht ohne Randleckage, mit dopplersonographisch leichter Stenosewirkung. Im Vergleich zur Voruntersuchung vom <[Pseudo] 29/01/2040> war ein leicht vergrößerter linker Vorhof sowie ein erhöhter PA-Druck auffällig a.e. im Sinne eines Rückstaus bei Myokardhypertrophie und diastolischer Dysfunktion nach Aortenstenose.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher eine Fortführung der konservativen Therapie.
+
+Bei heute in unserer Ambulanz erhobenen hypertensiven Blutdruckwerten empfehlen wir regelmäßige häusliche sowie hausärztliche Blutdruckkontrollen und ggf. die Intensivierung der antihypertensiven Therapie. Bei diastolischer Dysfunktion empfehlen wir zudem bei ausreichender Nierenfunktion ggf. die Hinzunahme von Spironolacton.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie. Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, I-ORG oder Ergometertraining, sowie weiterhin nichtmedikamentösen Maßnahmen -LRB- z.B. Reduktion des Salzkonsums, mediterrane Diät und Gewichtsreduktion -RRB- .
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne durch ambulante Betreuung bei B-SALUTE B-TITLE B-PER Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Aktuelle Medikation:
+ASS 100 mg 1-0-0
+Metoprolol 47,5 mg 1-0-1
+Candesartan 2 mg 1-0-0
+Atorvastatin 10 mg 0-0-2
+Venlafaxin 150 mg 1-0-0
+L- Thyroxin 25 µg 1-0-0
+Pantoprazol 20 mg 1-0-0
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Zur Endokarditisprophylaxe empfehlen wir lebenslang eine gute Mundhygiene und regelmäßige zahnärztliche Kontrollen. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o. oder i.v. -RRB- oder bei Penicillinallergie mit Ampicillin und Clindamycin -LRB- 600 mg p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärzte

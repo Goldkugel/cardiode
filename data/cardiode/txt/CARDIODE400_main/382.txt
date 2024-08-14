@@ -1,0 +1,113 @@
+Aufnahmedatum: <[Pseudo] 2463-01-25 >
+Geburtsdatum: <[Pseudo] 2055-11-06 >
+Alter: 407
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 06/11/2055> wh. B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kardiologische Verlaufs- und Schrittmacherkontrolle bei bekannter koronarer 3-Gefäßerkrankung
+-UNK- Echokardiographisch noch gute linksventrikuläre Funktion
+-UNK- Keine wesentliche Befundänderung im Vergleich zum <[Pseudo] 15/12/2135>
+-UNK- Unauffälliges Belastungs-EKG bis zu 125 Watt -LRB- 106% Ziel-HF -RRB-
+-UNK- Regelrechte SM-Funktion, atriale Salve über max. 21 Sec -LRB- konsekutiv ca. 10 sec -RRB-
+-UNK- Ad Schrittmacherkontrolle in 3 Monaten zur Rhythmuskontrolle
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung mit HS-Verschluss und echokardiographisch guter linksventrikulärer LV-Funktion -LRB- EF 60%, TTE vom <[Pseudo] 25/07/2135> -RRB-
+-UNK- LIMA-ACB ad LAD offen, ACVB ad LCX offen, ACVB ad RD von linksradial nicht darstellbar -LRB- <[Pseudo] 12/2134> -RRB-
+-UNK- Z. n. PTCA und Absorbstentimplantation der RCA und direkte Stent-implantation des RCA-Ostiums -LRB- 1 x Xience -RRB- bei positivem Ischämienachweis am <[Pseudo] 21/01/2129>
+-UNK- Z. n. PTCA/Stentimplantation der RCA <[Pseudo] 2119> in B-LOC
+-UNK- Z. n. aortokoronarer Bypass-OP <[Pseudo] 2117> in B-LOC -LRB- LIMA ad LAD, ACVB ad LCX und Ramus marginalis offen, ACVB ad Ramus diagonalis -RRB-
+- Z. n. erfolgreicher Implantation eines 2-Kammer-Schrittmachers am <[Pseudo] 29/10/2133> bei intermittierendem AV-Block III° mit Z. n. Asystolie und kurzzeitiger Reanimation
+- Z. n. transfemoraler, percutaner EVAR am <[Pseudo] 27/10/2133> in CSE mit Analgosedierung
+-UNK- Asymptomatisches teilthrombosiertes infrarenales Aortenaneurysma, max. -UNK- 5,1 cm
+-UNK- Kardiopulmonale Reanimation, ROSC nach ca. 20 Sekunden am <[Pseudo] 27/10/33>
+-UNK- Zuletzt persistierende Typ II-Endoleckage -LRB- Farbduplexsono <[Pseudo] 02/06/2134> -RRB-
+- Ausschluss LAE, Aortendissektion -LRB- CT vom <[Pseudo] 02/02/2134> -RRB- bei nichtkardialem Thoraxschmerz, a. e. muskuloskelettal oder gastroenterologische bedingt bei
+-UNK- Erosiv-hämorrgahische Gastritis -LRB- ÖGD v. <[Pseudo] 04/02/2134> -RRB-
+- Z. n. Prostatitis
+- Rezidivierende depressive Episoden
+
+Kardiovaskuläres Risikoprofil: Arterielle Hypertonie, Hypercholesterinämie, deutlich erhöhtes Lp -LRB- a -RRB- , pos. Familienanamnese bezüglich Aortenaneurysma -LRB- Vater -RRB- ,
+Allergien/Unverträglichkeiten: ACE-Hemmer -LRB- Reizhusten -RRB- , V. a. Kontrastmittelallergie -LRB- Exanthem 2-3 Tage nach CT -RRB-
+
+Anamnese:
+Die ambulante Vorstellung von B-SALUTE B-PER erfolgt zur routinemäßigen kardiologischen Verlaufskontrolle und Schrittmacherkontrolle bei bekannter koronarer 3- Gefäßerkrankung.
+Im Alltag bestehe eine gute Belastbarkeit -LRB- >4 Etagen Treppensteigen möglich -RRB- ; Bei 4 Etagen Treppensteigen bestehe keine inadäquate Belastungsdyspnoe -LRB- NYHAI -RRB- , sowie keine belastungsinduzierten pectanginösen Beschwerden. Die im <[Pseudo] 12/2135> beschriebenen thorakalen Beschwerden bestehen seit der letzten Vorstellung und seit der Dosiserhöhung von Ranexa auf 500mg zwei Mal täglich nicht mehr. Pectanginöse Beschwerden in Ruhe, Palpitationen, Schwindel sowie stattgehabte Synkopen werden verneint. Periphere Ödeme seien bei Gewichtskonstanz nicht aufgefallen. Die häuslichen Blutdruckmessungen ergäben Werte um 115/60 maximal 130/70mmHg, gelegentlich käme es morgens zu Werten um die 105 systolisch, aus diesem Grund sei das Candesartan selbstständig pausiert worden. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Aktuelle Medikation:
+ASS 100 mg 0-1-0 dauerhaft
+Metoprolol 47,5 mg 1/2-0-0
+Ranexa 500 mg 1-0-1
+Candesartan 8 mg 0-0-1 Aktuell durch Patienten pausiert
+Alfuzosin 10mg 0-0-1
+Simvastatin 20 mg 0-0-1
+Tomcardin Complex 1-0-1
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 178 cm 82 kg
+HF: 78/min, regelmäßig
+RR: 130/70 mmHg
+Keine Cyanose, Anämiezeichen, Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: vesikuläres AG, keine NG
+Periphere Ödeme: keine
+
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, HF 72/min, Steiltyp bei bekanntem komplettem Linksschenkelblock mit konsekutiven Kammerendteilveränderungen, PQ 274 ms AV Block I°, QRS 162ms QTc 464.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 125 Watt über 00:23 min. Maximale Frequenz 148/min -LRB- 106% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 191 mmHg, diastolisch 88 mmHg. Abbruch wegen peripherer Ermüdung und Kurzatmigkeit beim Tragen von FFP-Maske. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+
+Beurteilender Abschnitt:
+AV-Block 1°. Eingeschränkte Beurteilbarkeit bei Linksschenkelblock mit konsekutiven Kammerendteilveränderungen. Soweit beurteilbar keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Wenige VES -LRB- 26 -RRB- . Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall der Herzfrequenz. Hypertones Blutdruckprofil.
+
+
+Transthorakale Echokardiographie:
+Normal großer linker Ventrikel mit noch guter systolischer Pumpfunktion bei flacher Septumbewegungen ohne abgrenzbare regionale Wandbewegungsstörungen. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA, RA und RV leicht dilatiert, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenwurzel grenzwertig weit -LRB- 39 mm -RRB- . Aorta asc. soweit einsehbar normal weit. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Systolischer PA-Druck in Ruhe ist im Normbereich -LRB- ca. 15-30 mmHg -RRB- . Im direkten Bildvergleich zur Voruntersuchung vom <[Pseudo] 15/12/2135:> keine wesentliche Befundänderung.
+
+Schrittmacher-Kontrolle:
+Regelrechte 2-Kammer-Schrittmacher-Kontrolluntersuchung. Batteriestatus gut -LRB- 3.01V, mittlere Laufzeit 7 Jahre -RRB- . Keine kurzen V-V Intervalle. Zwei a.e. supraventrikuläre Tachykardien DD Sinustachykardien im Speicher -LRB- ca. 160/min -RRB- . Gerätemesswerte für beide Sonden regelrecht und im Verlauf stabil. Regelrechtes Frequnzhistogramm. AP: 6,3% und VP: 2,7%. Keine Änderung der Parameter bei aktivierter Autocapture-Funktion vorgenommen. Im Speicher wurde 1 AT/AF-Episoden bei atrialer Salve über 21 Sekunden am <[Pseudo] 25/11/36> detektiert. Diese zeigt sich als durch einen normalem Sinusrhythmus unterbrochene kurze Episoden von atrialen runs. Im Falle einer längeren SVT Episode im Verlauf ist die Evaluation einer Vollantikoagulation indiziert. Wiedervorstellung zur nächsten Schrittmacher-Kontrolluntersuchung in 6 Monaten.
+
+Zusammenfassung:
+Die ambulante Vorstellung von B-SALUTE B-PER erfolgt zur routinemäßigen kardiologischen Verlaufskontrolle und Schrittmacherkontrolle bei bekannter koronarer 3- Gefäßerkrankung.
+
+Das Belastungs-EKG bis 125 Watt ergab, weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradige Herzrhythmusstörungen.
+
+Echokardiographisch sahen wir weiterhin eine noch gute linksventrikuläre Pumpfunktion ohne regionale Kontraktionsstörungen. Die VCI ist nicht gestaut. Es waren keine relevanten Klappenvitien feststellbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 15/12/2135> fand sich keine wesentliche Befundänderung.
+
+Die Herzschrittmacher - Kontrolle zeigte einen regelrechten Befund bei gutem Batteriestatus. Im Speicher wurde 1 AT/AF-Episoden bei atrialer Salve über 21 Sekunden am <[Pseudo] 25/11/36> detektiert. Diese zeigte sich als durch einen normalem Sinusrhythmus unterbrochene kurze Episoden von atrialen runs. Im Falle einer längeren SVT Episode im Verlauf empfehlen wir die Evaluation einer Vollantikoagulation. Wir empfehlen bei asymptomatischem Verlauf eine kurzfristige Schrittmacherabfrage in 3 Monaten zur erneuten Rhythmusevaluation unter gesteigerter Betablockertherapie.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde sehen wir keinen Anhalt für einen Progress der bekannten 3-Gefäßerkrankung und Empfehlen die Fortführung der Medikation wie unten angegeben. Bei Hypotonieneigung und guter Pumpfunktion kann auf die Einnahme von Candesartan verzichtet werden. Bei anamnestisch gelegentlich Refluxbeschwerden empfehlen wir eine probatorische Einnahme von Pantoprazol wie unten angegeben.
+
+Wir empfehlen regelmäßige körperliche Aktivität 3 bis 4 Mal pro Woche für ca. 40 bis 50 Minuten in Form von zum Beispiel B-ORG I-ORG Radfahren, Schwimmen, Tanzen oder Ergometertraining.
+
+Des Weiteren empfehlen wir die Wiedervorstellung zur nächsten kardiologischen Kontrolluntersuchung in 12 Monaten bzw. im Rahmen der nächsten Vorstellung in unserer B-ORG I-ORG oder auch gerne beim niedergelassenen Kardiologen. Ebenfalls empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+
+
+Therapieempfehlung -LRB- unverändert -RRB- :
+ASS 100 mg 0-1-0 Dauerhaft
+Metoprolol 47,5 mg 1-0-0 Dosissteigerung
+Ranexa 500 mg 1-0-1 Dosisreduktion möglich
+Alfuzosin 10mg 0-0-1
+Simvastatin 20 mg 0-0-1
+Pantoprazol 40mg 1-0-0 Neu
+Tomcardin Complex 1-0-1
+
+Candesartan Abgesetzt
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

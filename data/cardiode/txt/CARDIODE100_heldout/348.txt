@@ -1,0 +1,73 @@
+Aufnahmedatum: <[Pseudo] 2034-04-14 >
+Geburtsdatum: <[Pseudo] 1965-01-08 >
+Alter: 69
+
+über Ihren Patienten B-SALUTE B-TITLE B-PER I-PER geboren am <[Pseudo] 08/01/1965> wohnhaft in B-PLZ B-LOC B-ADDR B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Diagnosen:
+- Unauffällige Ergometrie bis 100 Watt
+- Leichtgradig eingeschränkte LV-Funktion mit A-bis Dyskinesie des Apex
+- Relaxationsstörung des linken Ventrikels mit leichter LV-Hypertrophie
+- Geringgradige Aortenklappeninsuffizienz
+- Minimale Mitralklappeninsuffizienz
+- Diskrete bis leichtgradige Halsgefäßatherosklerose
+- Koronare 2-Gefäßerkrankung mit initial hochgradig eingeschränkter LV-Funktion -LRB- Herzkatheter vom <[Pseudo] 09/03/2030> -RRB-
+-UNK- Z. n. subakutem STEMI der Vorderwand <[Pseudo] 09/03/2030> mit nachfolgender Rekanalisation der LAD mittels PCI und 1-fach DE-Stent
+- Aktuell neu aufgetretene Effloreszenzen der Haut bzw. der Oberschenkel unklarer Ätiologie
+- Vorbefundlich Allergie gegen Penicillin, Statin und ACE-Hemmer
+
+
+
+
+Anamnese:
+B-SALUTE B-TITLE B-PER stellt sich heute zu einer Routinekontrolle vor. Im Rahmen des Herzinfarkts retrospektiv typische Angina pectoris, verzögerte Vorstellung und Rekanalisation, damals hochgradig eingeschränkte LV-Funktion, im Verlauf aber deutlich gebessert. Aktuell schildert B-SALUTE B-TITLE B-PER einen neu aufgetreten Hautausschlag der bereits multipel Abgeklärt wurde. Eine eindeutige Ursache wurde bislang nicht festgestellt. Nebenbefundlich schildert B-SALUTE B-TITLE B-PER eine Gingivitis mit Hyperplasie der Gingiva, bekannter Zusammenhang zur Einnahme von Amlodipin. Die sonstige Vorgeschichte setzen wir freundlicherweise als bekannt voraus.
+
+Befunde:
+
+Körperliche Untersuchung:
+Normale Herztöne, kein Zusatzton, kein Herzgeräusch, Pulmo frei, Abdomen reizlos, RR 140/80 mmHg.
+
+Ruhe-EKG:
+Sinusrhythmus, Frequenz 73/min, T-Welleninversion aVL, träge R-Progression V1-V4 sowie V5 und V6 mit Endstreckenveränderungen über der Vorderwand im Sinne eines abgelaufenen ausgedehnten Vorderwandinfarktes.
+
+Belastungs-EKG:
+Stufenweise fahrradergometrische Belastung bis 100 Watt, Abbruch wegen Ermüdung, keine Angina, keine Dyspnoe, max. Frequenz 107/min, max. RR 146/69 mmHg, keine signifikanten Kammerendteilabweichungen
+
+Echokardiographie:
+Aorta ascendens: 31 mm. Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit leichtgradig reduzierter systolischer Pumpfunktion bei A- bis Dyskinesie des Apex. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA grenzwertig weit, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenwurzel und Aorta ascendens normal weit. Aortenklappe trikuspid, leicht verdickt mit guter Separation und geringer Insuffizienz. Mitralanulusverkalkung. Mitralklappe leicht verdickt mit guter Separation und minimaler Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck ist bei fehlender Trikuspidalinsuffizienz nicht bestimmbar. Im direkten Vergleich zur Voruntersuchung vom <[Pseudo] 11/12/2033:> keine wesentliche Befundänderung.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße:
+Rechts diskrete, links leichtgradige echogemischte Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz. Nachweis einer isolierten, echoreichen Plaquebildung in der distalen ACI links ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im Carotisstromgebiet. IMD rechts 0,10 cm, links 0,09 cm.
+Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar.
+Im Vergleich zu B-DATE: weitgehende Befundkonstanz.
+
+Zusammenfassende Beurteilung:
+Bei B-SALUTE B-TITLE B-PER besteht aktuell ein kardial beschwerdefreier Krankheitsverlauf. Hinweise für eine Progression der bekannten koronaren 2-Gefäßerkrankung zeigten sich aktuell nicht. Die Ergometrie gelang bis 100 Watt ohne ST-Streckenabweichungen oder klinische Beschwerden. Echokardiographisch findet sich weiterhin eine nur leichtgradig eingeschränkte LV-Funktion nach Vorderwandinfarkt mit Aneurysmareaktion. Eine relevante Klappeninsuffizienz lag nicht vor. Im Bereich der Halsgefäße konnten bis leichtgradige Plaques festgestellt werden. Diese sind allerdings im Verlauf stabil. Hinsichtlich der beschriebenen Effloreszenz der Haut sahen wir bei der Inspektion der Haut keine wesentliche Auffälligkeit. Nach Durchsicht des mitgebrachten Labors erkannten wir auch keinen Hinweis für eine allergische Reaktion -LRB- Eosenophilen-Zahl normal, IGE normal -RRB- . Wir empfahlen ein konservatives Vorgehen mit abwarten. Darüber hinaus schildert B-SALUTE B-TITLE B-PER eine bekannte Gingivahyperplasie mit Gingivitis. Sehr wahrscheinlich liegt ein Zusammenhang mit Amlodipin vor. Wir empfahlen die Änderung der Amlodipintherapie von Amlodipin auf Lercanidipin. B-TITLE B-PER wünschte aber zunächst die Fortführung des aktuellen Konzepts. Ansonsten empfahlen wir die Weiterführung der bisherigen medikamentösen Therapie. Die nächste Routinekontrolle wurde für den <[Pseudo] 13/03/2035> um 08:30 Uhr vereinbart.
+
+Aktuelle Therapie:
+ASS 100 1-0-0
+Brilique 60 1-0-1
+Tioblis 10/10 0-0-1
+Atenolol 50 2-1-1
+Candesartan 8 2-1-1
+Inspra 25 1-0-0
+Amlodipin 5 1-0-0
+Agopton 15 1-1-1
+Finasterid 5 1-0-0
+Bromazepam 6 -UNK- - -UNK- - -UNK- - -UNK-
+Zolpidem 5 0-0-0-1/2
+Tromcardin nach Plan
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff anderer Hersteller verordnet werden.
+
+Bei Auftreten von Beschwerden sind wir jederzeit gerne bereit, den Patienten wiederzusehen - in Notfällen über unsere B-ORG I-ORG I-ORG unter Tel.: B-PHONE
+
+Mit freundlichen Grüßen
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor
+Oberarzt

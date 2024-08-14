@@ -1,0 +1,79 @@
+Aufnahmedatum: <[Pseudo] 2037-03-23 >
+Geburtsdatum: <[Pseudo] 1976-03-07 >
+Alter: 61
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 07/03/1976> wh. B-PLZ B-LOC I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Regelrechte kardiologische Verlaufskontrolle
+-UNK- Echokardiographisch gute biventrikuläre Funktion
+-UNK- Klinisch stabiler kardialer Verlauf
+
+Diagnosen:
+- Z. n. Mitralklappenring-Rekonstruktion mit Segelplastik und Ringimplantation am <[Pseudo] 14/02/2024> bei Mitralklappenprolaps mit hochgradiger Mitralinsuffizienz
+-UNK- Z.n. Percardiotomie und passagärer postoperativer Anlage einer Perikarddrainage bei postoperativem Perikarderguss <[Pseudo] 03/2024>
+- KHK ohne höhergradige Stenosen -LRB- HK vom <[Pseudo] 26/12/2023>
+- Ektasie der Aortenwurzel -LRB- 45mm -RRB- -LRB- Echo <[Pseudo] 03/2037> -RRB-
+- Aortenklappeninsuffizienz I°
+- Trikuspidalinsuffizienz I°
+- Offenes Foramen ovale
+- Ventrikuläre Extrasystolie Lown IV a
+- Gicht
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie
+Allergien/Unverträglichkeiten: keine bekannt
+
+Anamnese:
+Die Vorstellung in unserer B-ORG I-ORG erfolgt zur Verlaufskontrolle bei Z. n. Mitralklappenrekonstruktion -LRB- <[Pseudo] 01/2024> -RRB- . Es wird eine gute körperliche Belastbarkeit ohne inadäquate Belastungsdyspnoe im Alltag beschrieben, auch keine belastungsinduzierten pectanginösen Beschwerden. Der Pat. gehe regelmäßig ins Fitness-Studio und fahre dort auch eine halbe Stunde auf dem Ergometer. Auch in Ruhe bestünden weder pectanginöse Beschwerden noch Dyspnoe. Palpitationen und Schwindel werden wie stattgehabte Synkopen verneint. Zu Hause wird der Blutdruck nicht gemessen. Es bestehe keine relevante Nykturie. Periphere Ödeme seien bei Gewichtskonstanz in der letzten Zeit nicht aufgefallen. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Bisherige Medikation:
+ASS 100mg 1-0-0
+Bisoprolol 2,5mg 1-0-0
+Allopurinol 150mg 1-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+173 cm, 82 kg
+HF: 64/min, regelmäßig
+RR: 125 / 85 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein, keine patholog. HG
+Lunge: o.B.
+Periphere Ödeme: keine
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Grenzwertig normofrequenter Sinusrhythmus, regelmäßig, 59/min, Linkstyp. PQ 200ms, QRS 100ms, QTc 466ms. Regelrechte R-Progression, R/S Umschlag in V3/V4, S-Persistenz bis V6. Keine signifikanten Erregungsrückbildungsstörungen.
+
+Belastungs-EKG:
+Beschreibender Abschnitt:
+Stufenweise fahrradergometrische Belastung im Sitzen bis 150 Watt über 02:00 min. Maximale Frequenz 130/min -LRB- 81% der Zielfrequenz -RRB- . Maximaler Blutdruck systolisch 176 mmHg, diastolisch 85 mmHg. Abbruch wegen peripherer Ermüdung und Kurzatmigkeit beim Tragen von FFP2-Maske. Keine Angina pectoris oder schwere Dyspnoe. Keine periphere Zyanose.
+Beurteilender Abschnitt:
+Eingeschränkte Beurteilbarkeit bei Nichterreichen der Ausbelastungsfrequenz. Vorbekannter AV-Block I° in Ruhe. Keine signifikanten Kammerendteilveränderungen unter Belastung. Durchgehend Sinusrhythmus. Wenige VES -LRB- 30 -RRB- . Keine höhergradigen Herzrhythmusstörungen. Regelrechter Anstieg und Abfall von Herzfrequenz und Blutdruck.
+
+Transthorakale Echokardiographie:
+Mitralklappe bei Z.n. Mitralklappenrekonstuktion leicht verdickt -LRB- betont PML -RRB- mit guter Separation, dopplersonographisch noch leichtgradige Insuffizienz nachweisbar. Anuloplastie-Ring in Mitralposition sonographisch regelrecht nachweisbar, dopplersonographisch kein Nachweis einer signifikanten Stenosewirkung. Aortenklappe trikuspid, leicht verdickt mit guter Separation und dopplersonographisch eichtgradiger Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist im Normbereich -LRB- ca. 35 mmHg -RRB- . Normal großer, betont septal leicht hypertrophierter linker Ventrikel mit global guter Pumpfunktion bei flachen Septumbewegungen. Relaxationsstörung des LV. LA erweitert, RA und RV leicht normal groß. Gute RV-Funktion. Ektasie der Aortenwurzel -LRB- 45 mm -RRB- , Aorta ascendens bis 40mm erweitert darstellbar. Kein Perikarderguß nachweisbar. Vena cava inferior nicht gestaut, atemkollaptisch. Im Vergleich zur Voruntersuchung vom B-DATE: keine wesentliche Befundänderung.
+
+Zusammenfassung:
+Die Vorstellung in unserer B-ORG I-ORG erfolgt zur routinemäßigen Verlaufskontrolle. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Das Belastungs-EKG bis 150 Watt ergab, soweit bei Nichterreichen der Ausbelastung beurteilbar, weder klinisch noch elektrokardiographisch einen Hinweis auf eine belastungsinduzierte Myokardischämie oder höhergradige Herzrhythmusstörungen. Echokardiographisch fand sich eine gute linksventrikuläre Pumpfunktion ohne relevante Klappenvitien.
+
+In der Zusammenschau der heutigen klinischen und apparativen Befunde gehen wir von einem stabilen kardialen Befund aus und empfehlen daher eine Fortführung der konservativen Therapie.
+
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie.
+
+In 12 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung, gerne auch bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Aktuelle Medikation -LRB- unverändert -RRB- :
+ASS 100mg 1-0-0
+Bisoprolol 2,5mg 1-0-0
+Allopurinol 150mg 1-0-0
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzarzt

@@ -1,0 +1,423 @@
+Aufnahmedatum: <[Pseudo] 2037-02-20 >
+Geburtsdatum: <[Pseudo] 1978-09-22 >
+Alter: 58
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 22/09/1978> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+-UNK- NT-Listung zur Herztransplantation bei LVAD-Systeminfekt
+-UNK- Ad T-Listung ? -LRB- Aktuell Niere zu schlecht lt Konferenz v. <[Pseudo] 10.03.> -RRB-
+
+-UNK- NT-Listung zur Nierentransplantation -UNK- Kidney after heart -UNK-
+-UNK- Vorraussetzung: Patient muss < 90d vor Herztransplantation mind. 1x Dialyse gehabt haben -LRB- letzte Dialyse: <[Pseudo] 20/02/2037>
+
+-UNK- Z.n. HTX-HU-Listung B-DATE - B-DATE
+-UNK- Seit dem <[Pseudo] 16/02/2037> NT-Listung bei Nierenversagen im Rahmen eines kardiorenalem Syndroms
+
+- LVAD-Systeminfekt -LRB- PET CT v. <[Pseudo] 02/03/2037> -RRB-
+-UNK- FDG-Mehrspeicherung an proximaler Driveline und am Outflow Conduit -LRB- PET CT v. <[Pseudo] 02/03/2037> -RRB-
+-UNK- Blutkulturen v. <[Pseudo] 24/02/2037> -LRB- unter Imipenem -RRB- : negativ
+-UNK- Blutkulturen v. <[Pseudo] 03/03/2037> -LRB- unter Imipenem -RRB- : negativ
+-UNK- Blutkulturen v. <[Pseudo] 08/03/2037> -LRB- ohne Antibiose -RRB- : ausstehend
+-UNK- Vancomycin v. B-DATE - B-DATE
+-UNK- Piperacillin/Tazobactam v. B-DATE - B-DATE
+-UNK- Imipenem v. B-DATE - B-DATE
+-UNK- Probatorisches Absetzen der Antibiose zum definitiven Keimnachweis
+- Vancomycin/Rifampicin empfohlen
+
+- Oligosymptomatische Bakteriurie mit multisensibler Klebsiella Pneumoniae -LRB- Urinkultur v. <[Pseudo] 08/03/2037> -RRB-
+-UNK- Vorerst verzicht auf Antibiose
+
+- Z.n. rezidivierender rechtsführender hydropischer Dekompensation
+-UNK- Gemischtvenöse Sättigung von 68%, CI 3,95 l/min/m2, PAP -LRB- s/d/m 24/118/21mmHg -RRB- -LRB- B-OTHER vom <[Pseudo] 19/02/2037> -RRB-
+-UNK- Normale Drücke im kleinen Kreislauf -LRB- 22/12/16 -RRB- . PCWP -LRB- ca. 12 mmHg -RRB- . Normaler pulmonalvaskulärer Widerstand -LRB- 54 dyn*s*cm-5 -RRB- . Cardiac index mit 2,9 l/min/m2 und gemischt-venöse Sättigung mit 65% vermindert. -LRB- B-OTHER v. <[Pseudo] 15/02/2037> -RRB-
+-UNK- PA normal -LRB- 30/16/25mmHg -RRB- , PCWP 24mmHg. Ventrikularisierung der RA-Kurve bei hochgradiger Trikuspidalklappeninsuffizienz. svO2 56%; CI: 2,5 -LRB- HK.-Nr. B-OTHER v. <[Pseudo] 06/01/2037> -RRB-
+-UNK- Therapie mit Levosimendan <[Pseudo] 07/01/2037> bis B-DATE; B-DATE bis <[Pseudo] 11/02/2037>
+-UNK- Katecholaminerge Therapie:
+-UNK- Dobutamin vom <[Pseudo] 02.02.> bis <[Pseudo] 17/02/2037>
+-UNK- Corotrop -LRB- Milrinon -RRB- <[Pseudo] 16.02.> bis <[Pseudo] 16/02/2037>
+
+- Akut auf chronisches Nierenversagen a.e. bei kardiorenalem Syndrom
+-UNK- Intermittierende Hämodialyse B-DATE - B-DATE
+-UNK- Forcierte Diurese mittels Furosemid-Perfusor sowie sequenzieller Nephronblockade B-DATE - dato
+-UNK- Oralisierungversuch seit <[Pseudo] 10/03/2037>
+
+- Transfusion von kumulativ 4 EKs -LRB- Stand <[Pseudo] 17/02/2037> -RRB-
+-UNK- HLA Antikörper nach EK Gabe nach Schema erfolgt
+
+- Z.n. Thrombophlebitis im Bereich der pVK DD Paravasat des linken Unterarmes
+-UNK- Antibiotische Therapie mittels Vancomycin vom <[Pseudo] 18/01/2037> - <[Pseudo] 27/01/2037>
+-UNK- Antibiotische Therapie mittels Piperacillin/Tazobactam vom <[Pseudo] 20/01/2037> - <[Pseudo] 03/02/2037>
+
+
+- CRT-D-Kontrolle am <[Pseudo] 12/02/2037:> regelrechte Funktion
+-UNK- Umprogramierung der Interventionsfrequenz auf ausdrücklichen Patientenwunsch am <[Pseudo] 03/03/2037>
+-UNK- Erneute Kontrolle in 6 Monaten empfohlen
+
+Diagnosen:
+- HTX-Listung -LRB- B-OTHER -RRB- bei dilatativer Kardiomyopathie mit hochgradig eingeschränkter LV-Pumpfunktion
+- Rechtsherzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 11/12/2036> -RRB- :
+-UNK- Normale Drücke im kleinen Kreislauf -LRB- 28/19/23 mmHg -RRB-
+-UNK- Erhöhter PCWP 19 mmHg
+-UNK- Normaler PVR -LRB- 66 dyn*sek*cm-5 -RRB-
+-UNK- gemischtvenöse Sättigung 59%
+-UNK- Cardiac Index: 2,3 l/min/m²
+- Z. n. LVAD-Implantation -LRB- Heartmate 3 -RRB- am <[Pseudo] 06/12/2033>
+-UNK- Probatorische Anpassung der LVAD Funktionsparameter -LRB- Drehzahl um 200/min -RRB- im Rahmen einer Rechtsherzkatheteruntersuchung -LRB- B-OTHER v. <[Pseudo] 18/12/2036> -RRB- ohne signifikante Veränderung der pulmonalarteriellen Drücke, gemischtvenöse Sättigung 61%, CI 2,14 k/min/m²
+-UNK- LVAD Rückprogrammierung am <[Pseudo] 21/12/2036> bei erniedrigtem CI und nicht verbesserter RV Funktion, fehlendem klinischen Ansprechen und PI Alarm.
+-UNK- Rechtsherzversagen unter LVAD <[Pseudo] 04/2034>
+-UNK- Z. n. Dobutamin-Perfusor-Therapie vom <[Pseudo] 10/04/2034> - <[Pseudo] 22/04/2034>
+
+- Progredienz der hochgradigen Trikuspidalklappeninsuffizienz bei einliegendem CRT-D Elektrodenkabel -LRB- TTE v. <[Pseudo] 10/12/2036> -RRB-
+- Mittel-hochgradige Mitralklappeninsuffizienz, leichtgradige Aortenklappeninsuffizienz -LRB- TEE v. <[Pseudo] 13/12/2036> -RRB-
+- Z. n. Driveline-Infekt -LRB- Staphylokokkus aureus -RRB- <[Pseudo] 04/2034>
+- Z. n. kardiopulmonaler Reanimation bei Kammerflimmern <[Pseudo] 08/2033>
+- Z. n. CRT-D-Aufrüstung -LRB- Medtronic -RRB- mit LV-Elektroden-Implantation am <[Pseudo] 24/11/2033>
+-UNK- Z. n. RV-Elektrodenwechsel am <[Pseudo] 10/05/2029> mit Stilllegung der alten RV-Elektrode
+-UNK- Z. n. 2-Kammer-ICD-Aggregatwechsel am <[Pseudo] 30/04/2029> bei Batterieerschöpfung
+-UNK- Z. n. 2-Kammer-ICD-Implantation am <[Pseudo] 04/12/2024>
+- Koronare Herzerkrankung ohne höhergradige Stenosen -LRB- B-OTHER vom <[Pseudo] 30/11/2033> -RRB-
+- Permanentes Vorhofflimmern
+- Z. n. Hüft-TEP Reimplantation am <[Pseudo] 31/05/2035> bei Hüft-TEP-Infekt links
+-UNK- Z. n. Entfernung der Totalendoprothese und Implantation von Spacer am <[Pseudo] 21/03/2035>
+-UNK- Z. n. Hüft-TEP Ausbau und Spacereinbau links am <[Pseudo] 01/03/2035>
+-UNK- Osteolysen distaler Femur und Hüfte
+- Rezidivierende Epididymitiden mit persistierenden Schmerzen
+- Z. n. primärer Implantation einer zementiert fixierten Duokopfprothese links bei medialer Schenkelhalsfraktur links - Typ Garden 4 am <[Pseudo] 26/07/2034>
+- Z. n. Schädelkalottenfraktur, SAB, Parenchymblutung nach Sturz
+- Z. n. akuter Pankreatitis unklare Genese a.e bilär
+-UNK- Z. n. antibiotischer Therapie mit Meropenem <[Pseudo] 03/2035>
+- Z. n. rezidivierenden Bakteriämien mit Enterokokkus faecalis
+- Chronische Niereninsuffizienz
+- Z. n. Synkope mit Sturzfolge, am ehesten orthostatisch bedingt
+- Z. n. rezidivierenden Epistaxis
+-UNK- Z. n. bipolarer Koagulation des Lokus Kiesselbachi in LA am <[Pseudo] 17/05/2034>
+- Roemheldsyndrom, axiale Hiatushernie
+- Barrett-Ösophagus und Pangastritis -LRB- ÖGD vom <[Pseudo] 30/11/2033> -RRB-
+- Psychische Belastungsreaktion, depressive Verstimmung
+
+Allergien: Ichtoseptal-Lösung, ausgeprägte Hypotonie unter Betablockade
+Risikofaktoren: Diabetes mellitus, Adipositas, Nikotinanamnese: nie.
+
+Anamnese:
+Die Aufnahme des Patienten erfolgte als Selbstvorstellung bei erneuter hydropischer Dekompensation. Gewichtszunahme von 7kg seit der Entlassung vor 3 Wochen. Aktuell ca. 800ml Diurese unter 200mg/d Torasemid. Progrediente Belastungsdyspnoe, keine AP-Symptomatik, kein Hinweis auf einen Infekt.
+
+Körperliche Untersuchung:
+AZ: reduziert
+EZ: gut
+HF: 57/min, regelmäßig
+RR: 95/63mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: VAD Geräusch
+Pulmo: vesikuläres AG, keine RGs
+Abdomen: weich, kein DS, keine Resist.
+Leber/Milz: nicht vergrößert
+Periphere Ödeme: US bds
+Pulsstatus: o.B.
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: V.a. Aszites
+
+EKG:
+Rhythmus: Ventrikuläre Schrittmacherstimulation, Herzfrequenz: 57/min.
+
+Rechtsherzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 06/01/2037> -RRB- :
+Rechtsherzkatheteruntersuchung im Rahmen der HTX-Listung bei LVAD.
+
+Normale Drücke im kleinen Kreislauf -LRB- 30/19/24 mmHg -RRB- , erhöhter PCWP -LRB- 22mmHg -RRB- , normaler pulmonaler Gefäßwiderstand -LRB- 31 dyn.s.cm^-5 -RRB- . Gemischtvenöse Sättigung 56%, Cardiac Index 2,5 l/min/m².
+
+Sonstige relevante Diagnosen:
+Hochgradige TI, mittel- bis hochgradige MI
+Z.n. LVAD <[Pseudo] 12/2033>
+Z.n. CPR <[Pseudo] 08/2033> bei DCM
+VHF
+CvRF: DM, Adipositas
+
+Maßnahmen:
+Therapiebeginn mit Levosimendan bei Endorganschäden zur Rekompensation ab heute. Nach Maßgabe HTX Team
+
+Echokardiographie vom <[Pseudo] 08/01/2037:>
+Bemerkungen Untersuchung am Bett auf HI-Wach. Deutlich reduzierte Schallbedingungen, insbes. v. apikal. Beurteilung Dilatierter linker Ventrikel mit hochgradig verminderter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte. LA dilatiert, RA und RV deutlich dilatiert, hochgradig reduzierte RV-Funktion. Kein relevanter Perikarderguss nachweisbar. Vena cava inferior erweitert und eingeschränkt atemvariabel. Kanüle des LVAD-Devices im Bereich des LV-Apex regelrecht nachweisbar. Keine Öffnungsbewegung der Aortenklappe nachweisbar, dopplersonographisch leichtgradige zentrale Aortenklappeninsuffizienz mit permanenter Regurgitation. Hochgradige Trikuspidalklappeninsuffizienz bei Anulusdilatation und einliegender CRT-D-Elektrode. Der systolische PA-Druck ist nicht valide ableitbar.
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 21/12/2036:> Besserung der Mitralklappeninsuffizienz, ansonsten keine wesentliche Befundänderung.
+
+Rechtsherzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 13/01/2037> -RRB- :
+Rechtsherzkatheterunteruschung im Rahmen der HTX-Listung bei LVAD
+
+Normale Drücke im kleinen Kreislauf -LRB- 23/14/16 -RRB- . PCWP -LRB- ca. 15 mmHg -RRB- . Normaler pulmonalvaskulärer Widerstand -LRB- 26 dyn*s*cm-5 -RRB- . Cardiac index mit 2,8 l/min/m2 und gemischt-venöse Sättigung mit 63% vermindert.
+
+Relevante Vordiagnosen:
+Hochgradige TI, mittel bis hochgradige MI
+Z. n. LVAD-Implantation -LRB- Heartmate 3 -RRB- am <[Pseudo] 12/2033>
+DCMP mit hochgradig eingeschränkter LV-Funktion -LRB- B-OTHER vom <[Pseudo] 30/11/2033> -RRB-
+Z. n. CPR bei VF <[Pseudo] 08/2033> und Z. n. CRT-D-Aufrüstung <[Pseudo] 24/11/2033>
+CVRF: IDDM II
+
+Psychosomatisches Konsil vom <[Pseudo] 18/01/2037:>
+Vertraulich
+
+Röntgen-Thorax vom <[Pseudo] 18/01/2037:>
+Stationäre unveränderte Herzgröße. Weiterhin keine Stauungszeichen. Kein flächiges Infiltrat. Im Liegen kein Randwinkelerguss. Und kein Pneumothorax. Installationen idem.
+
+Röntgen-Thorax vom <[Pseudo] 19/01/2037:>
+Eingeschränkte Beurteilbarkeit bei unvollständiger Abbildung basal. Kurzfristige keine durchgreifende Befundänderung.
+
+Röntgen-Hüfte vom <[Pseudo] 22/01/2037:>
+Unverändert einliegende zementierte Hüft-TEP links. Keine Luxation. Keine Lockerungszeichen. Keine periprothetische Fraktur. Vasosklerose. Altersentsprechender Mineralsalzgehalt.
+
+Röntgen-Thorax vom <[Pseudo] 01/02/2037:>
+Weiterhin unvollständig erfasste Randwinkel. Neuer ZVK von links jugulär in situ mit Spitzenprojektion auf die Vena cava superior. Restliches Fremdmaterial in situ, idem. Keine durchgreifende kardiopulmonale Befundänderung. Im Liegen keine Pleuraablösung abgrenzbar. Keine größeren Pleuraergüsse. Keine höhergradige Stauung. Keine infiltrattypischen Verschattungen in den einsehbaren Lungenabschnitten.
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 08/02/2037:>
+Randwinkel links unvollständig abgebildet. Jetzt neu ZVK via Vena jugularis rechts mit Projektion Spitze auf VCS. Übriges Fremdmaterial idem. Konstante Herzgröße. Keine höhergradigen Stauungszeichen im Liegen. Kein Erguss abgebildet. Kein pneumonietypisches Infiltrat. Kein Pneumothorax.
+
+Echokardiographie vom <[Pseudo] 09/02/2037:>
+Beurteilung Dilatierter linker Ventrikel mit hochgradig verminderter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte. LA dilatiert, RA und RV deutlich dilatiert, hochgradig reduzierte RV-Funktion. Kein relevanter Perikarderguss nachweisbar. Vena cava inferior erweitert und eingeschränkt atemvariabel. Kanüle des LVAD-Devices im Bereich des LV-Apex regelrecht nachweisbar. Keine Öffnungsbewegung der Aortenklappe nachweisbar, dopplersonographisch leichtgradige zentrale Aortenklappeninsuffizienz mit permanenter Regurgitation. Hochgradige Trikuspidalklappeninsuffizienz bei Anulusdilatation und einliegender CRT-D-Elektrode. Der systolische PA-Druck ist nicht valide ableitbar.
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 09/02/2037:> Keine wesentliche Befundänderung.
+
+ICD Kontrolle am <[Pseudo] 12/02/2037>
+Regelrechte CRT-D-Kontrolluntersuchung. Batteriestatus gut -LRB- Laufzeit: 3 Jahre -RRB- . Messwerte stabil. Im Speicher fanden sich 1365 AT/AF-Epsioden, bei denen es sich nach EGM-Durchsicht a.e. um atriale Tachykardien ohne Überleitung handelt. Hierunter war der Patient im Wesentlichen asymptomatisch.
+AP: 46,3 % und VP: 98,3 %. Eher starres Frequenzhistogramm.
+Anpassung der Interventionsfrequenz auf 80/min nach Maßgabe der Station. Keine Änderung der übrigen Parameter bei aktivierter Autocapture-Funktion. Weitere Prozedere n. Maßgabe der Station HI-Wach.
+
+Echokardiographie vom <[Pseudo] 15/02/2037:>
+Bemerkungen Untersuchung am Bett auf der HI-Wach. Deutlich reduzierte Schallbedingungen. Beurteilung Dilatierter linker Ventrikel mit hochgradig verminderter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte. LA dilatiert, RA und RV deutlich dilatiert, hochgradig reduzierte RV-Funktion. Kein relevanter Perikarderguss nachweisbar. Vena cava inferior gestaut. Kanüle des LVAD-Devices im Bereich des LV-Apex regelrecht nachweisbar. Keine Öffnungsbewegung der Aortenklappe nachweisbar, dopplersonographisch leichtgradige zentrale Aortenklappeninsuffizienz mit permanenter Regurgitation. Hochgradige Trikuspidalklappeninsuffizienz bei Anulusdilatation und einliegender CRT-D-Elektrode. Der systolische PA-Druck ist nicht valide ableitbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 09/02/2037:> Keine wesentliche Befundänderung.
+
+Herzkatheteruntersuchung vom <[Pseudo] 15/02/2037> -LRB- B-OTHER -RRB- :
+Rechtsherzkatheterunteruschung im Rahmen der HTX-Listung bei LVAD
+
+Normale Drücke im kleinen Kreislauf -LRB- 22/12/16 -RRB- . PCWP -LRB- ca. 12 mmHg -RRB- . Normaler pulmonalvaskulärer Widerstand -LRB- 54 dyn*s*cm-5 -RRB- . Cardiac index mit 2,9 l/min/m2 und gemischt-venöse Sättigung mit 65% vermindert.
+
+Relevante Vordiagnosen:
+Hochgradige TI, mittel bis hochgradige MI
+Z. n. LVAD-Implantation -LRB- Heartmate 3 -RRB- am <[Pseudo] 12/2033>
+DCMP mit hochgradig eingeschränkter LV-Funktion -LRB- B-OTHER vom <[Pseudo] 30/11/2033> -RRB-
+Z. n. CPR bei VF <[Pseudo] 08/2033> und Z. n. CRT-D-Aufrüstung <[Pseudo] 24/11/2033>
+CVRF: IDDM II
+
+Röntgen Thorax auf Intensiv a.p. vom <[Pseudo] 16/02/2037:>
+Mehrere Voruntersuchungen zum Vergleich vorliegend, zuletzt konventionelles Röntgen vom B-DATE.
+Befund und Beurteilung:
+Aufnahme im Liegen. Leicht fehlrotierter Aufnahme mit unvollständiger Erfassung des linken Randwinkels.
+Zur Voruntersuchung leicht zunehmende streifige bis fleckige Zeichnungsvermehrung in den Oberfeldern, DD projektionsbedingt, DD gering zunehmende kardiopulmonale Stauung. Zwischenzeitlich Zug des vormals von links einliegenden ZVK. Darüber hinaus kein durchgreifender Befundwandel. Soweit bei liegender Aufnahme beurteilbar, kein Pneumothorax. Übriges Fremdmaterial unverändert.
+
+CRT-D-Abfrage vom <[Pseudo] 17/02/2037:>
+Regelrechte CRT-D-Funktion. Batteriestatus gut -LRB- Laufzeit: 3 Jahre, 2,94V -RRB- . Messwerte stabil. Im Speicher fanden sich 17 AT/AF-Episoden, bei denen es sich nach EGM-Durchsicht a.e. um atrialeTachykardien ohne Überleitung handelt. Keine VT-Episoden im Speicher. Hierunter war der Patient im Wesentlichen asymptomatisch. AP: 12,5 % und VP: 99,5 %. Eher starres Frequenzhistogramm. Keine Änderung der übrigen Parameter bei aktivierter Autocapture-Funktion.
+
+Pankreassonographie vom <[Pseudo] 17/02/2037:>
+Massiv eingeschränkte Schallbedingungen bei LVAD-Verband, Schall am Bett auf Intensivstation sowie
+ausgeprägtem Meteorismus.
+Das Pankreas ist bei Darmgasüberlagerung nur im Korpusbereich einzusehen. Soweit beurteilbar, unauffälliges Parenchym. Der Pankreasschwanz ist nicht vollständig einsehbar. Der Pankreasgang ist nicht einsehbar.
+Keine freie peripankreatische Flüssigkeit.
+Beurteilung:
+-UNK- sonographisch keine sicheren Pankreatitiszeichen, jedoch bei deutlich eingeschränkten Schallbedingungen
+
+OBS vom <[Pseudo] 18/02/2037:>
+Massiv eingeschränkte Schallbedingungen bei LVAD-Verband, Meteorismus, Schall am Bett auf Intensivstation. Die Leber misst im größten kraniokaudalen Durchmesser 13,7 cm. Der Leberrand ist stumpf. Die Echogenität ist angehoben, die Struktur ist inhomogen. Raumforderungen sind nicht abzugrenzen, bei oben genannten Schallbedingungen jedoch keineswegs sicher auszuschließen. Die rechte Lebervene kommt auf 11mm erweitert zur Darstellung. Die mittlere Lebervene ist mit 9,9mm grenzwertig. Es lässt sich ein Pendelfluss ableiten. Die Pfortader ist orthograd offen mit einem dutlich undulierendem Flussprofil perfundiert, Vmax. 23,9 cm/s. Die Gallenblase stellt sich postprandial teilkontrahiert dar und kann nicht vollständig beurteilt werden. Es kommt erneut eine echodichte Struktur mit dorsaler Schallauslöschung im Infundibulumbereich von ca. 0,4 cm zur Darstellung, a.e. Konkrement. Die intrahepatischen Gallengänge sind nicht dilatiert. Der Ductus Choledochus stellt sich mit 6,4 mm nicht erweitert dar.
+Die Milz misst 10,8 x 4,1 cm. Das Echomuster ist homogen. Die V. lienalis ist nicht erweitert.
+Das Pankreas ist bei Darmgasüberlagerung nur im Korpusbereich einzusehen. Soweit beurteilbar, unauffälliges Parenchym. Der Pankreasschwanz ist nicht vollständig einsehbar. Der Pankreasgang ist nicht einsehbar. Die Nieren sind beidseits in Form und Lage regelrecht. Sie wirken beidseits etwas hypotrophiert. Kein Hinweis auf Harnstau. Die Harnblase ist teilentleert und kommt unauffällig zur Darstellung. Keine freie Flüssigkeit intraabdominell.
+Beurteilung:
+- Leberparenchymschaden bei Steatosis hepatis
+- Cholezystolithiasis
+- Pendelfluss der Lebervenen
+- Erweiterte rechte und grenzwertige mittlere Lebervene.
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 19/02/2037:>
+Links ZVK einliegend. Beidseits diskrete Plaquebildungen im Bulbusbereich sowie an den Gefäßabgängen ohne hämodynamische Relevanz -LRB- bei -UNK- low CO -UNK- Flussprofil der ACI vom Flussprofil der ACE nicht zu unterscheiden -RRB- , kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im Carotisstromgebiet. IMD rechts 0,08 cm, links 0,08 cm. Das Vertebralissystem ist beidseits orthograd perfundiert darstellbar.
+
+Rechtsherzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 19/02/2037> -RRB- :
+Herzkatheteruntersuchung zur HU Listung
+
+Drücke im kleinen Kreislauf -LRB- s/d/m 24/18/21mmHg -RRB- , PCWP -LRB- 18mmHg -RRB- , PVR -LRB- 37dyn*sec*cm -UNK- 5 -RRB- , gemischtvenöse Sättigung 68%, Cardiac Index 3,95l/min/m²,
+
+Relevante Vordiagnosen:
+Hochgradige TI, mittel bis hochgradige MI
+Z. n. LVAD-Implantation -LRB- Heartmate 3 -RRB- am <[Pseudo] 12/2033>
+DCMP mit hochgradig eingeschränkter LV-Funktion -LRB- B-OTHER vom <[Pseudo] 30/11/2033> -RRB-
+Z. n. CPR bei VF <[Pseudo] 08/2033> und Z. n. CRT-D-Aufrüstung <[Pseudo] 24/11/2033>
+CVRF: IDDM II
+
+Maßnahmen:
+- nach Maßgabe HTX Team
+
+ÖGD vom <[Pseudo] 22/02/2037:>
+Befund
+Glatte Passage OÖS. Prox. Tubulärer Ösophagus regelrecht. Ab ca. 35Cm aZR zeigt sich eine landkartenartige Schleimhautrötung, -UNK- der Zirkumferenz umfassend. Bei 40cm aZR zirkuläre Schleimhautrötung. Bei 41cm zeigt sich eine 2mm messende polypöse Erhabenheit mit regelmäßiger Oberfläche. Beginn der Magenfalten ab 41cm aZR. Zwerchfelldurchtritt bei 44cm AZR. Magen im Kardiabereich mit einem geröteten ca. 5 mm hohen, spitz zulaufenden Schleimhautpolypen mit Altblutigen Schleiren belegt. Sonst Magen unauffällig. Pylorus, Bulbus ud Duodenum regelrecht.
+Diagnose
+V.a. Barret-Ösophagus C1M6
+Axiale Hiatushernie über 3 cm
+V.a. Refluxpolyp von 2mm bei 41cm aZR
+A.e. entzündlicher Pseudopolyp an der Kardia
+Biopsien
+Keine unter Antikoagulation
+Empfehlungen
+PPI-Therapie.
+
+Koloskopie vom <[Pseudo] 22/02/2037:>
+Befund
+Inspektion: Unauffällig. DRU: Keine Resistenzen. Vorspiegeln bis zum Coecum. Im Coecum und C. ascendens findet sich noch viel flockiger Stuhl, welcher nicht abgesaugt werden kann, somit hier eingeschränkte Beurteilbarkeit. Im C. ascendens findet sich ein 3mm messender Polyp, sonst soweit beurteilbar keine Auffälligkeiten.
+Diagnose
+Polypenknospe 3mm C. ascendens, sonst soweit bei Reststuhlverschmutzung beurteilbar unauffällige Schleimhaut
+Biopsien
+Keine unter Antikoagulation
+Empfehlungen
+Erneute Vorsorgekoloskopie mit optimierter Vorbereitung nach erfolgter HTX.
+
+Angiologie vom <[Pseudo] 23/02/2037:>
+Anamnese:
+Die Vorstellung von B-SALUTE B-PER erfolgte in unserer Ambulanz zum Ausschluss einer relevanten pAVK und Carotisstenosen vor Nieren- und Herztransplantation. B-SALUTE B-PER habe keine Claudicatio-Beschwerden.
+Lokalbefund:
+Warme Extremitäten, normale Rekapillarisierungszeit.
+Farbduplexsonographie:
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße:
+Links ZVK einliegend, Wundabdeckung auf Schallfenster. Rechts kein Hinweis auf relevante Plaquebildungen, weder im Bulbusbereich noch an den Gefäßabgängen. Kein Nachweis von Turbulenzen, bzw. kein Hinweis auf signifikante Stenosen bei kontinuierlichem Fluss bei LVAD. Soweit beurteilbar regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet. IMD rechts 0,06. Das Vertebralissystem ist rechts orthograd perfundiert darstellbar. Im Vergleich zur Voruntersuchung vom <[Pseudo] 19/02/37> keine wesentliche Befundveränderung.
+Farbduplexsonographie der infrarenalen Aorta abdominalis:
+Infrarenale Aorta abdominalis mit einem maximalen Querdurchmesser von 2,2 cm darstellbar. Keine prominenten Plaquebildungen abgrenzbar.
+Farbduplexsonographie der Beckengefäße:
+Im einsehbaren Verlauf der Aa. iliaca comm. und ext. kein Hinweis für relevante Plaquebildungen oder Stenosen.
+Farbduplexsonographie der die beiden unteren Extremitäten versorgenden Gefäße:
+Im einsehbaren Verlauf der A. femoralis communis, der AFS und der A. poplitea kein Hinweis auf relevante Plaquebildungen oder Stenosen.
+
+Arterieller Gefäßstatus:
+
+
+
+
+
+
+Zusammenfassung:
+-klinisch und in den apperativen Untersuchungen kein Hinweis für eine relevante pAVK.
+-Kein Hinweis für eine Stenose der extrakraniell hirnversorgenden Gefäße
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 24/02/2037:>
+Letzte Aufnahme vom B-DATE.
+Befund und Beurteilung:
+Kein Pleuraerguss. Stauungsaspekt. Kein pneumonisches Infiltrat. Trachea nicht eingeengt.
+Bekannte Cardiomegalie. Zwischenzeitlicher Zug des ZVK von rechts jugulär. Übriges Fremdmaterial idem. Leichte Hyperkyphose der mittleren BWS.
+
+HNO-Konsil vom <[Pseudo] 25/02/2037:>
+LVAD. ad NTX. Dobutrex erfolgreich ausgeschlichen
+bitte um erneuten C7 ohne Dobutrex
+Befund:
+Ohr: GG bds. ceruminal verlegt, valsalva neg. TF reizlos intakt
+Nase: Septum bds gerötet und blutig verkrustet
+Nasenrachen: 70° Nr. 23 -LRB- n. KRINKO -RRB- frei
+Mund/Rachen: unauffällig
+Larynx: 70° Nr. 23 -LRB- n. KRINKO -RRB- frei, KK gerötet
+Hals: opB
+
+Beurteilung und Empfehlung:
+Nasenpflege mit Bepanthen nasensalbe tgl., keine Manipulation
+Pantoprazol 40mg 1-0-1 zudem Salbeitee gurgeln
+Otriven Tropfen für 7 Tage bei Kopfschräglage zum Ohr hinlaufen lassen und tgl. Druckausgleich
+Bei Persistenz WV und Hörtest Kontrolle
+WV bei ausbleibender Befundverbesserung
+
+PET/CT - CT-Befundung/Konsil vom <[Pseudo] 02/03/2037:>
+CT ohne Kontrastmittel i.v.
+Letzte Voruntersuchung: -
+Befund:
+
+-UNK- Insbesondere links basale pulmonale Dystelektasen -LRB- 8-84 -RRB- .
+-UNK- Cardiomegalie.
+-UNK- Cholezystolithiasis.
+-UNK- Hypotrophe Nieren beidseits.
+-UNK- Zustand nach medianer Sternotomie.
+-UNK- Zustand nach Hüft-TEP links.
+-UNK- Einliegender LVAD.
+-UNK- CRT-D Aggregat in situ.
+-UNK- Degenerative Skelettveränderungen.
+
+Die zusammenfassende Beurteilung der mittels PET/CT gewonnen Datensätze erfolgt während einer gemeinsamen Befundbesprechung im Konsens zwischen Radiologie und Nuklearmedizin, in
+der die zunächst getrennt erhobenen PET- und CT-Befunde zusammengeführt und in den PET-Befund integriert werden.
+
+Rhythmus-Ambulanz vom <[Pseudo] 03/03/2037:>
+Auf Patientenwunsch hin erfolgte die Anpassung der Interventionsfrequenz von DDD 80/min auf DDD 60/min. Aktuell AT/AF 99%, bei permanentem Vorhofflimmern Umprogrammierung auf VVI in Abhängigkeit der Dauer des Vorhofflimmerns erwägen
+
+Erneute CRT-D-Kontrolluntersuchung in spätestens 6 Monaten, weiteres Procedere nach Maßgabe Station B-ORG.
+
+Labor:
+
+
+Zusammenfassung:
+Die Übernahme aus CPU erfolgte bei hydropischer Dekompensation. Seit der Aufnahme war der Patient im Wesentlichen oligosymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 73 pg/ml, im Verlauf stabil 66 pg/ml, klinisch kein Hinweis auf ein ACS. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP leicht erhöht, Leukozyten normwertig -RRB- . Nach RS mit OA PER und OA PER sollte nach RHK eine Verlegung auf AHFU zum Versuch einer Therapie mit Simdax sowie zur HU-Antragsstellung stattfinden.
+
+Echokardiographisch zeigte sich ein dilatierter linker Ventrikel mit hochgradig verminderter systolischer Pumpfunktion bei Hypokinesie aller Wandabschnitte, hochgradig reduzierter RV-Funktion und hochgradiger Trikuspidalklappeninsuffizienz. Im Vergleich zur Voruntersuchung konnte eine Besserung der Mitralklappeninsuffizienz festgestellt werden. Eine TriClip-Therapie sahen wir aktuell nicht sinnvoll. Am <[Pseudo] 09/02/2037> führten wir ein Verlauf Echokardiographie durch. Hierbei zeigte sich keine wesentliche Befundänderung.
+
+In der Herzkatheteruntersuchung am B-DATE zeigten sich normale PA-Drücke -LRB- 30/16/25mmHg -RRB- , eine Ventrikularisierung der RA-Kurve bei hochgradiger Trikuspidalklappeninsuffizienz, svO2 56% und CI 2,5. Die Levosimendan-Gabe erfolgte komplikationslos. Anschließend kam es zunächst zu einer Besserung der Retentionswerte. Unter Therapie mit Lasix-Boli und Hygroton wurde eine Rekompensation angestrebt. Die diuretische Therapie wurde im Verlauf auf eine kontinuierliche Furosemid-Infusion umgestellt. Hierunter konnte eine effektivere Negativbilanzierung erreicht werden.
+
+Wir haben diesen Kasus in der HTx-Konferenz vom <[Pseudo] 12/01/2037> besprochen. Es wurde aufgrund von rezidivierenden kardialen Dekompensationen bei bekanntem rechtsventrikulärem Versagen eine HU-Listung empfohlen. Es erfolgte seit <[Pseudo] 15.01.> eine HU-Listung.
+
+Am Abend des <[Pseudo] 18/01/2037> kam es zu einer einmaligen Auffieberung des Patienten. Klinisch präsentierte B-SALUTE B-PER a.e. eine Thrombophlebitis DD Paravasat im Bereich der peripheren Venenverweilkanüle. Es erfolgte die Initiierung einer Antibiose mittels Vancomycin -LRB- <[Pseudo] 28/01/37> - B-DATE -RRB- . Bei deutlichem Anstieg des CRPs erfolgte eine Eskalation mit Piperacillin/Tazobactam worunter es im weiteren Verlauf zu deutlich rückläufigen Infetkwerten kam.
+
+Bei Schmerzen im Bereich der linken Hüfte und Z.n. Hüft-TEP erfolgte zum Ausschluss eines möglichen Infektfokus eine Röntgen-Untersuchung. Hierbei zeigte sich keine Prothesenlockerung oder eine sonstige Pathologie. In einem orthopädischen Konsil am <[Pseudo] 25/01/2037> wurde die röntgenologische Verlaufskontrolle als unauffällig bewertet. Bei lokalem Infektverdacht im Verlauf kann hier eine Punktion der linken Hüfte erwogen werden.
+
+Im weiteren Verlauf gelang unter kontinuierlicher Furosemid-Infusion eine Negativbilanzierung. Bei ansteigendem Kreatinin trotz hochdosierter diuretischer Therapie und nur spärlicher Ausscheidung erfolgte am <[Pseudo] 01/02/2037> die Initiierung einer katecholaminergen Therapie mittels Dobutamin. Hierunter konnte eine ausreichende Rekompensierung erzielt werden. Bei erneut steigenden Retentionswerten erfolgte die Erhöhung der Herzfrequenz des einliegenden Schrittmachers bis auf 80/min.
+
+Es kam erneut zum mäßigen Infektwertanstieg. Es erfolgte die erneute Asservierung von Kulturen, sowie der Wechsel von dem einliegenden ZVK mit empirischer antibiotischer Therapie mittels Vancomycin und Piperacillin/Tazobactam. Bei Beschwerden in der Genitalen erfolgte die Vorstellung in der Urologie. Hierbei wurde eine beidseitige Epididymitis als möglicher Fokus festgestellt. Bei erneutem Anstieg der Entzündungswerte erfolgte die Umstellung der Antibiose auf Imipenem. Des Weiteren zeigte sich in der Urinkultur vom <[Pseudo] 17.02.> der Nachweis von Candida parapsilosis. Wir bitten um weitere Abklärung einer Therapieindikation. In der Urinkultur v. <[Pseudo] 09/03/2037> diesbezüglich kein weiterer Nachweis, jedoch Nachweis einer multisensiblen Klebsielle. Wir verzichteten bei oligosymptomatischen Patienten zunächst auf eine Antibiose.
+
+Die echokardiographische Untersuchung am <[Pseudo] 16.02.> ergab weiterhin i.W. eine Befundkonstanz. In der Rechtsherzkatheteruntersuchung zeigten sich normale Drücke im kleinen Kreislauf; PA sys/dia/mit: 22/12/16mmHg; gemischt venöse Sättigung 65%. Bei weiterhin bestehender kardialer Dekompensation und steigenden Retentionsparametern wurde nach Maßgabe des HTx-Teams ein Therapie-Versuch mit Corotrop gestartet. Bei Anurie trotz Lasixstimulation wurde Hämodialyse initiiert und Pat NT-gemeldet.
+
+Unter Negativbilanz mittels Dialyse konnte Dobutamin sukzessive ausgeschlichen werden. Die im Anschluss -LRB- am <[Pseudo] 20.02.> -RRB- durchgeführte Rechtsherzkatheteruntersuchung ergab gemischtvenöse Sättigung von 68%, CI 3,95 l/min/m2, PAP -LRB- s/d/m 24/118/21mmHg -RRB- .
+
+Am <[Pseudo] 20/02/2037> erfolgte die Verlegung des Patienten auf unsere B-ORG Normalstation. Initial wurde ein Dialyse-Auslassversuch begonnen. Nach i.v. Rekompensation konnten am B-DATE die Diuretika oralisiert werden. Hierunter wurde Gewichtskonstanz erreicht.
+
+In interdisziplinärer Konferenz wurde zudem der Einschluss in das B-ORG Programm beschlossen, nachdem B-SALUTE B-PER aufgrund des renalen Endorganschadens für eine alleinige Herztransplantation NT-gelistet werden musste. Konsekutiv erfolgten die notwendigen Listungsuntersuchungen und erfreulicherweise die Freigabe und NT-Listung zur Nierentransplantation. B-SALUTE B-PER könnte nun bis 90 Tage nach letzter Dialyse Herztransplantiert werden und in der Folge im Kidney after heart programm allokiert werden.
+
+Nach Konferenzbeschluss vom <[Pseudo] 09/03/2037> ist bei aktuell eingeschränkter Nierenfunktion weiterhin zunächst der Versuch einer weiteren renalen Rekompensation anzustreben.
+
+Diesbezüglich erfolgte bei undulierenden Infektwerten ohne klinisch oder laborchemischen Fokus ein PET-CT mit Befund eines Drive-line- und Outflow-Systeminfekts. Da bisher kein Keimnachweis gelang, setzten wir die Antibiose probatorisch ab und asservierten am <[Pseudo] 08/03/2037> erneut Blutkulturen -LRB- ausstehend -RRB- .
+
+Bei V.a. Systeminfekt erfolgte eine RS mit den B-SALUTE der I-ORG und OA PER. Hiernach hiernach ist eine Antibiose mit Vancomycin/Rifampicin erst bei Keimnachweis empfohlen worden.
+
+Procedere:
+
+
+Aktuelle Therapie:
+i.v.
+Heparinperfusor 25000IE/50ml 1,6ml/h Ziel ptt 40-60
+Lasixperfusor 500mg/50ml 4,2ml/h in Dialysefreiem Intervall
+Imipenem/Cilastin 500mg i.v. 1-0-1 seit <[Pseudo] 17/02/2037>
+Pantoprazol 40mg 1-0-1
+Oral
+
+Marcumar nach INR Ziel INR 2,0-3,0 Heute a.e. 1 Tablette
+Clopidogrel 75 mg seit <[Pseudo] 16/01/2035> pausiert bei Nasenblutungen
+Amiodaron 200 mg 1-0-0
+Sildenafil 20 mg 1-0-1
+Atorvastatin 10 mg 0-0-2
+Sertralin 50 mg 1-0-0
+Xipamid 10mg 1-0-0
+Calcium 600mg 1-0-1
+Ferro Sanol 100mg 1-0-1
+Vit D3 1000 IE 1/2-0-1/2
+Folsäure 5 mg 1-0-0
+Magnesium Verla 1-1-1
+Perenterol forte 250mg 1-0-0
+
+s.c.
+Lantus -UNK- IE -UNK- nach Schema
+
+
+
+
+
+Procedere/Termine:
+-
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+
+
+
+
+
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

@@ -1,0 +1,436 @@
+Aufnahmedatum: <[Pseudo] 2035-11-08 >
+Geburtsdatum: <[Pseudo] 1964-02-08 >
+Alter: 71
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 08/02/1964> wh. B-PLZ B-LOC B-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- pAVK im Stadium IIb nach Fontaine rechtsführend -LRB- B-ORG v. <[Pseudo] 07/11/2035> -RRB-
+-UNK- Erfolgreiche Rekanalisation der thrombotisch verschlossenen AFS re. mittels PTA/Rotationsthrombektomie. Erfolgreiche Rekanalisation von ATA, TTF und AFP mittels Thrombaspiration.
+-UNK- PTA/1-fach DES-Implantation- abschließend 2-Gefäßabstrom.
+-UNK- Antikoagulation: Tripple Schema -LRB- ASS + Clopidogrel + NMH -RRB- für eine Woche. Duale Antikoagulation -LRB- Clopidogrel + NMH -RRB- für 6 Monaten. Danach nach Maßgaben der Angiologen.
+-UNK- Ein Termin wurde am <[Pseudo] 20/12/35> um 10:30 in unserer ORG vereinbart. -LRB- Tel: B-PHONE -RRB-
+- Bei Z.n. Chemotherapie nun reduzierte LVEF. Zunahme der Mitralklappeninsuffizienz.
+-UNK- Aktuell darf die R-CHOP21 Chemo-Immuntherapie durchgeführt werden
+-UNK- Wir bitte um die Terminvereinbarung in der B-ORG I-ORG vor ihrer übernächsten Chemotherapie -LRB- Tel: B-PHONE -RRB-
+
+
+Diagnosen:
+- Nodales Marginalzonen-B-Zell-Lymphom -LRB- C83.0 -RRB- , Stadium III AE, ED <[Pseudo] 02/2035>
+-UNK- Nodaler Befall: abdominell, thorakal, zervikal, axillär; Extralymphatischer Befall: Läsion im rechten Oberlappen basal
+-UNK- Risikofaktoren: extranodaler Befall
+-UNK- FLIPI: 3 -LRB- Alter > 60, Stadium III oder IV der Ann-Arbor-Klassifikation, > 4 befallene Lymphknotenregionen -RRB-
+-UNK- KMP nicht durchgeführt
+- Z. n. Plattenepithelkarzinom der Vulva, ED B-YEAR, 2-malige Resektion, keine adjuvante Therapie,
+-UNK- N0-Status, Verhornendes Plattenepithelkarzinom der Vulva, G1. Operation: wide excision mit Sentinel LNE bds, sowie medio-caudaler Nachresektion. PT1b, pN0 -LRB- 0/11 -RRB- , L0, V0, Pn0, R0.
+- Rezidivierende inguinale Lymphozele links
+- Z. n. Schilddrüsen-OP vor ca. 30 Jahren
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie
+
+Allergien/Unverträglichkeiten: Anamnestisch keine bekannt
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG I-ORG als EInweisung bei progredienten Beschwerden bei subtotalem Verschluss der A. poplitea, A. tibialis ant. und post. re. Anamnestisch bestehen seit 3 Wochen progrediente Beschwerden im Bereich des rechten Beines.
+Aktuell bestehe eine maximale Gehstrecke von < 10 m. Es besten keine Ruhebeschwerden Weiterhin wird von keinen Wunden/Nekrosen der Extremität berichtet. Ansonsten bestehe ein kardial stabiler Zustand mit keiner Dyspnoe oder pectanginösen Beschwerden soweit bei eingeschränkter Belastbarkeit aufgrund pAVK beurteilbar. Palpitationen und Schwindel werden wie stattgehabte Synkopen verneint. Die häuslichen Blutdruckmessungen ergäben Werte um 110/70 mmHg. Es bestehe keine Nykturie. Subjektiv bestehe seit der letzten Vorstellung ein stabiler kardialer Verlauf.
+
+Medikation bei Aufnahme:
+Oral:
+ASS 100mg 1-0-0
+Candesartan 16 mg 0,5-0-0
+L- Thyroxin 88ug 1-0-0
+Losar Teva 50 mg 1-0-0
+Simvastatin 10 mg 0-0-1
+Allopurinol 300 mg 0,5-0-0
+Magnetrans 1-0-1
+MCP 10mg 1-1-1
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: reduziert -LRB- BMI 20,4 -RRB-
+HF: 112/min, regelmäßig
+RR: 147/91 mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, keine RGs
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse nicht tastbar
+Neurol. Status: orientierend unauffällig.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme vom <[Pseudo] 04/11/2035> :
+Sinusrhythmus, Herzfrequenz: 112/min, Lagetyp: Linkstyp, QRS-Komplex: normal, ST-Strecke:
+normal, T-Welle: normal.
+
+Ruhe-EKG vom <[Pseudo] 07/11/2035> :
+Sinusrhythmus, Herzfrequenz: 80/min, Linkslagetyp. PQ 160 msec., QRS-Komplex 60 msec., QTc 485 msec.. Präterminale T-Inversionen in I, II, III, aVR, aVF, V1, V4-V6.
+
+
+Angiologische Vorstellung bei Verdacht auf pAVK vom <[Pseudo] 04/11/2035:>
+Aktuell: pAVK im Stadium IIb nach Fontaine rechtsführend; Farbduplexsonographisch Verschluss der distalen Arteria femoralis superficialis und A.poplitea, sowie V.a. Verschluss der ATA und ATP rechts; mittelgradige Stenose der distalen AIE/prox. AFC rechts sowie leichtgradige Stenose der AFC links
+
+Relevante Vordiagnosen: Vulva-CA unter Chemo-Therapie seit <[Pseudo] 09/2035> und NHL
+
+Anamnese: Die Vorstellung des Patienten erfolgte erstmals in unserer Ambulanz bei externer Diagnose eines Verschluss der A.poplitea und ATA rechts am B-DATE. Die Patientin berichtet von Wadenclaudicatio nach ca. 10m Gehen sowie kaltem Fuß rechts, links keine Beschwerden, keine Ruheschmerzen, keine Parästhesie, keine Ulcera. Aktuell erfolge eine Chemo-Therapie bei Vulva-CA, linksseitig bestände ein Lymphödem.
+
+Arterieller Gefäßstatus:
+Rechtes Bein
+
+Linkes Bein
++
+A.femoralis
++
+-
+A.poplitea
++
+-
+A.dorsalis pedis
++
+-
+A.tibialis posterior
++
+
+Lokalbefund: Keine Ulzera. Rechter Fuß kühler und blässer, verzögerte Rekapillarisierungszeit
+
+Farbduplexsonographie der Arterien der unteren Extremitäten:
+Rechtes Bein
+
+Linkes Bein
+Proximal triphasisch, max. 150 cm/s, nach distal prominente echoreiche schallauslöschende Plaques ca. 50% des Lumens ausfüllend, max. 300 cm/s, einer mittelgradigen Stenose entsprechend
+A. iliaca ext.
+triphasisch, max. 100 cm/s
+Proximal prominente echoreiche schallauslöschende Plaques ca. 50% des Lumens ausfüllend, max. 200 cm/s, einer mittelgradigen Stenose entsprechend, distal keine höhergradige Stenose, Bifurkation frei
+A. femoralis comm.
+prominente echoreiche schallauslöschende Plaques ca. 20% des Lumens ausfüllend, max. 120 cm/s ohne Nachweis einer relevanten Stenose
+Proximal tri- bis biphasischer Fluss 80cm/s im Verlauf langsamer werdend min. 40 cm/s, distal auf Höhe des Adduktorenkanals kollateralisiert verschlossen
+A. femoralis sup.
+
+Verschlossen
+A. poplitea
+
+Nicht sicher darstellbar
+Tractus tibiofibularis
+
+Proximal monophasisch 25 cm/s DD Kollaterale, distal verschlossen darstellbar
+A. tibialis anterior
+
+Nicht sicher darstellbar
+A. tibialis posterior
+
+Nicht sicher darstellbar
+A. fibularis
+
+
+
+Becken-Bein-Angiographie -LRB- BBA-Nr. B-OTHER vom <[Pseudo] 07/11/2035> -RRB- , vorläufiger Befund
+Indikation: elektive BBA bei pAVK IIb re.
+Befund: Erfolgreiche Rekanalisation der thrombotisch verschlossenen AFS re. mittels PTA/Rotationsthrombektomie. Erfolgreiche Rekanalisation von ATA, TTF und AFP mittels Thrombaspiration.
+Intervention: PTA/1-fach DES-Implantation- abschließend 2-Gefäßabstrom.
+Prozedere: Antikoagulation -LRB- NMH -RRB- weiter, ASS für 7d, Clopidogrel dauerhaft
+
+Angiologische Verlaufskontrolle nach Femoralispunktion rechts vom <[Pseudo] 08/11/2035:>
+
+Anamnese:
+Kontrolle nach BBA mit Rekanalisierung von AFS, ATA und ATP rechts. Patientin beschwerdefrei. Kein Druckschmerz.
+
+Lokalbefund:
+Punktionsstelle reizlos, kein sichtbares Hämatom. Leistenpuls kräftig palpabel. Kein Druckschmerz.
+
+Farbduplexsonographie der Gefäße der rechten Leiste:
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+Farbduplexsonographie der Beinarterien rechts: distale AFS, distale ATA und ATP jeweils mit biphasischen Flussprofilen perfundiert, Vmax in der AFS ca. 80 cm/s, in der ATA und ATP jeweils 40 cm/s.
+
+Arterieller CW-Doppler -LRB- Verschlussdrücke in mmHg -RRB-
+Referenzdruck: A.brachialis re 160/li 150 mmHg
+Rechtes Bein
+
+Linkes Bein
+170
+A. dorsalis pedis
+150
+180
+A. tibialis posterior
+160
+1,13
+ABI
+1,0
+
+Procedere: NMH weiter, ASS für 7 d, Clopidogrel dauerhaft. Bitte Wiedervorstellung in einem Monat in unserer Ambulanz.
+
+Echokardiographie <[Pseudo] 08/11/2035:>
+Bemerkungen Eingeschränkte Schallbedingungen.
+Beurteilung Normal großer, septal leichtgradig hypertrophierter linker Ventrikel mit mittelgradiger systolischer Pumpfunktion bei globaler Hypokinesie, betont septal. Erhaltene longitudinale Funktion. Relaxationsstörung des LV. LA leichtgradig dilatiert, RA und RV normal groß, gute RVFunktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kleine Perikardergusslamelle betont vor dem RA ohne hämodynamische Relevanz. Vena cava inferior nicht gestaut. Aortenklappe trikuspid mit guter Separation. Dopplersonographisch leichtgradiger Reflux über der Aortenklappe. Mittelgradige Mitralklappeninsuffizienz sowie leichtgradige Trikuspidalklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist leichtgradig erhöht -LRB- ca. 40-45 mmHg -RRB- . Im Vergleich zur Voruntersuchung vom <[Pseudo] 09/08/2035:> Bei Z.n. Chemotherapie nun reduzierte LVEF. Zunahme der Mitralklappeninsuffizienz -LRB- aktuell mittelgradig -RRB- . Ansonsten idem.
+
+Laborwerte:
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG bei Verdacht auf eine periphere arterielle Verschlusskrankheit im Stadium IIb nach Fontaine rechtsführend.
+
+In der B-ORG I-ORG I-ORG war die Patientin seit der Aufnahme im Wesentlichen asymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 21 pg/ml, im Verlauf 29 pg/ml, somit nach oberärztlicher RS a.e. subklinischer Myokardschaden unter Chemothepai. Klinisch ergab sich kein Hinweis für ein akutes Koronarsyndrom. Wir bitten um die Durchführung einer Echokardiographie und Evaluation eines bildgebenden Ischämienachweises. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig -RRB- . Das NT-pro-BNP fand sich mit 8465ng/l erhöht.
+
+In der angiologischen Untersuchung ergab sich eine pAVK im Stadium IIb nach Fontaine rechtsführend bei farbduplexsonographischem Verschluss der distalen Arteria femoralis superficialis und A.poplitea, sowie V.a. Verschluss der ATA und ATP rechts. Zudem ergab sich eine mittelgradige Stenose der distalen AIE, der prox. AFC rechts sowie leichtgradige Stenose der AFC links. Bei aktuell zurückhaltender Patientin wurde eine Becken-Bein-Angiographie in Interventionsbedarf für Montag geplant. Bis zu diesem Zeitpunkt erfolgte eine Innohep-Gabe.
+
+In der am <[Pseudo] 07/11/2035> durchgeführten Becken-Bein-Angiographie konnte eine erfolgreiche Rekanalisation der thrombotisch verschlossenen AFS re. mittels PTA/Rotationsthrombektomie, eine erfolgreiche Rekanalisation von ATA, TTF und AFP mittels Thrombaspiration und PTA/1-fach DES-Implantation- abschließend 2-Gefäßabstrom erfolgen.
+
+Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich farbduplexsonographisch kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Ferner zeigte sich kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden. Bei Auftreten von Beschwerden bitten wir um Wiedervorstellung zur sonographischen Kontrolle in unserer B-ORG Ambulanz.
+
+
+Wir empfehlen eine Tripple Schema-Antikoagulation -LRB- ASS + Clopidogrel + NMH -RRB- für eine Woche. Danach eine duale Antikoagulation -LRB- Clopidogrel + NMH -RRB- für 6 Monaten. Danach nach Maßgaben der Angiologen. Die Patientin wurde über die Notwendigkeit einer lückenlosen Einnahme von ASS, Clopidogrel und NMH ausführlich aufgeklärt. Wir empfehlen eine angiologische Verlaufskontrolle in 4-6 Wochen. Hierfür vereinbarten wir einen Termin am <[Pseudo] 20/12/35> um 10:30 in unserer ORG vereinbart.
+
+In der am <[Pseudo] 08/11/2035> durchgeführten Echokardiographie zeigte sich ein normal großer, septal leichtgradig hypertrophierter linker Ventrikel mit mittelgradiger systolischer Pumpfunktion bei globaler Hypokinesie, betont septal. Es ergab sich eine erhaltene longitudinale Funktion und Relaxationsstörung des LV. Es zeigte sich eine kleine Perikardergusslamelle betont vor dem RA ohne hämodynamische Relevanz. Die Aortenklappe war trikuspid mit guter Separation. Dopplersonographisch zeigte sich einen leichtgradigen Reflux über der Aortenklappe. Es wurde eine mittelgradige Mitralklappeninsuffizienz sowie leichtgradige Trikuspidalklappeninsuffizienz. Die Übrige Klappen waren sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe war leichtgradig erhöht -LRB- ca. 40-45 mmHg -RRB- .
+
+Nach Rücksprache mit unserem kardioonkologischen Team unter Leitung von B-PER B-PER bezüglich der nun reduzierte LVEF und Zunahme der Mitralklappeninsuffizienz bei z.N Chemotherapie erfolgte eine Optimierung der Herzinsuffizienz-Therapie wie unten angegeben. Wir bitten um engmaschige Kontrolle von Nierenretentionsparameter und Elektrolyten mit ggf. Anpassung der Therapie im Verlauf. Die R-CHOP21 Chemo-Immuntherapie darf fortgesetzt werden. Wir bitten vor der nächsten Chemotherapie-Gabe eine Vorstellung der Patientin in der Kardio-Onko-Ambulanz. Wir bitte um die Terminvereinbarung in der B-ORG I-ORG vor ihrer übernächsten Chemotherapie -LRB- Tel: B-PHONE -RRB-
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten am <[Pseudo] 08/11/2035> in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Nächster Termin/Prozedere:
+- Ein Termin wurde am <[Pseudo] 20/12/35> um 10:30 in unserer Angio-Ambulanz vereinbart.
+- Wir bitte um die Terminvereinbarung in der B-ORG I-ORG vor ihrer übernächsten Chemotherapie -LRB- Tel: B-PHONE -RRB-
+
+
+Therapieempfehlung:
+Clexane 0,4ml 1-0-1, für mind. 6 Monate, dann nach Maßgaben der Angiologen
+ASS 100mg 1-0-0, bis einschließlich dem <[Pseudo] 15/11/2035>
+Clopidogrel 75mg 1-0-0, für mind. 6 Monate, dann nach Maßgaben der Angiologen
+Carvedilol 6,25 mg 1-0-0 neu! Unter regelmäßige Kontrolle von RR und HF
+Candesartan 8 mg 1-0-0
+Epleronon 25 mg 1-0-0 neu! Unter engmaschige Kontrolle von Kalium und Nierenretentionsparameter.
+L- Thyroxin 50ug 1-0-0, reduziert
+Simvastatin 10mg 0-0-1
+Allopurinol 300mg 0,5-0-0
+Magnetrans 1-0-1
+MCP 10mg 1-1-1
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit, und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+Mit freundlichen Grüßen
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER I-TITLE I-TITLE B-PER I-PER I-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärztin
+
+
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 04/11/2035> und dem <[Pseudo] 08/11/2035>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.64
+4 - 10 /nl
+B-DATE
+Hb
+10.5 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.9 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.310 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+82 !L
+83 - 97 fl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+27
+27 - 33 pg
+B-DATE
+MCHC
+34
+30 - 36 g/dl
+B-DATE
+RDW
+19.9 !H
+12,9 - 18,7 %
+B-DATE
+hypochr.Erythroz.
+2.9 !H
+0 - 2 %
+B-DATE
+Thrombozyten
+306
+150 - 440 /nl
+B-DATE
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+143
+135 - 146 mmol/l
+B-DATE
+Kalium -LRB- ISE -RRB-
+4.56
+3,4 - 5,0 mmol/l
+B-DATE
+Kreatinin
+0.76
+0,5 - 1,1 mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+40
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+79.2
+>60 s.u.
+<[Pseudo] 08/11/35>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Glucose
+90
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+23
+- <37 U/l
+B-DATE
+GPT/ALT
+17
+- <35 U/l
+B-DATE
+CRP
+5.0 !H
+- <5 mg/l
+<[Pseudo] 04/11/35>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Hämolyse
+-
+
+<[Pseudo] 08/11/35>
+ikterisch
+-
+
+<[Pseudo] 08/11/35>
+Lipämie
+-
+
+<[Pseudo] 08/11/35>
+
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+LDH
+313 !H
+- <301 U/l
+B-DATE
+CK
+45
+- <170 U/l
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+24.7 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+8465 !H
+- <450 ng/l
+<[Pseudo] 04/11/35>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+TSH
+0.160 !L
+0,400 - 4,000 mU/l
+<[Pseudo] 04/11/35>
+FT3
+3.45
+2,0 - 4,2 ng/l
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+FT4
+14.48
+8 - 18 ng/l
+<[Pseudo] 04/11/35>
+Gerinnungsdiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+111.0
+70 - 125 %
+<[Pseudo] 04/11/35>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+INR - ber.
+0.98
+- <1.2
+B-DATE

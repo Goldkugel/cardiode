@@ -1,0 +1,569 @@
+Aufnahmedatum: <[Pseudo] 2037-10-09 >
+Geburtsdatum: <[Pseudo] 1970-10-22 >
+Alter: 66
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 22/10/1970> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Diagnosen:
+- Akuter Myokardinfarkt -LRB- STEMI -RRB- am <[Pseudo] 27/09/2037> bei bekannter Koronarer 3 Gefäßerkrankung
+-UNK- Erfolgreiche Rekanalisation der RCA mittels PTCA/3x DES Implantation. langstreckige -LRB- 50%ige -RRB- Stenose der LAD. -LRB- B-OTHER v. <[Pseudo] 27/09/2037> -RRB-
+-UNK- NSTEMI am <[Pseudo] 22/05/2036>
+-UNK- Erfolgreiche Rekanalisation der LAD/RD1 mittels PTCA/2fach DE-Stentimplantation in mini-crush + final kiss Technik bei hochgradiger Bifurkationsstenose , PTCA/1fach DES der distalen RCA. PTCA/1xDES der proximalen RCA bei hochgradiger proximaler und hochgradiger langstreckiger dist. RCA Stenose -LRB- In-Stent Stenose -RRB- -LRB- B-OTHER vom <[Pseudo] 23/05/2036> -RRB-
+-UNK- Z. n. STEMI bei Stent-Thrombose mittels Ballon-Dilatation am <[Pseudo] 17/06/2035> -LRB- B-LOC -RRB-
+-UNK- Z. n. PTCA 1-fach DE-Stentimplantaion der LAD und 3-fach DE-Stentimplantation der RCA -LRB- B-OTHER -RRB-
+-UNK- Z. n. NSTEMI B-DATE, Re-PTCA und DE-Stent <[Pseudo] 04/2026>
+-UNK- Z. n. PTCA und Stentimplantation RCA <[Pseudo] 03/2019>
+
+- Langzeit-EKG Lown 4b sowie hochgradig reduzierte Pumpfunktion -LRB- LVEF < 30% -RRB-
+-UNK- Temporäre Versorgung mittels Life vest
+-UNK- ICD-Evaluation in 3 Monaten empfohlen
+
+- Termin in der Lipid-Sprechstunde am <[Pseudo] 05/12/2037> um 08 Uhr
+-UNK- Bitte nüchtern und mindestens 48 h Alkoholkarenz
+
+
+
+- Hirnstamminfarkt, Stammganglieninfarkt rechts und kleine Infarkte bds. parietal am B-DATE, a.e. peri-interventionell als Plaqueembolie
+-UNK- rechtsseitige internukleäre Opthalmoplegie, faziale Parese links
+-UNK- systemische Lysetherapie im 3h10min-Zeitfenster
+- Echokardiographisch mittel-hochgradig eingeschränkte systolische LV Pumpfunktion bei Hypokinesie septobasal und -medial sowie infero- und posterobasal -LRB- TTE v. <[Pseudo] 28/09/2037> -RRB-
+-UNK- LV-Aneurysma inferior medioapikal sowie inferolateral medioapikal nicht mehr nachweisbar
+
+- Akutes Nierenversagen Stadium I nach KM-Exposition und externer Erhöhung des Spironolactons
+
+- 3. Covid-Impfung am <[Pseudo] 02/10/2037> mit Moderna -LRB- Station B-ORG -RRB-
+
+- Entgleister Diabetes mellitus Typ 2
+-UNK- Therapieoptimierung -LRB- s.u. -RRB-
+- Z. n. Parotitis rechts
+- Z. n. Pansinusitis chronica rechts mit Pansinus-Operation rechts in ITN am <[Pseudo] 22/04/2035>
+- Z. n. Bandscheiben-OP
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Hypercholesterinämie, Diabetes mellitus, Adipositas, Ex-Nikotinkonsum -LRB- 5 PY -RRB-
+Allergien/Unverträglichkeiten: Hausstaubmilben, Pferde
+Externer Zuweiser: Notarzt
+
+Anamnese:
+Die Aufnahme des Patienten erfolgte aus der ORG bei STEMI. Der Patient berichtete von seit ca. 1,5 h bestehenden retrosternalen Druck mit Dyspnoe und Ausstrahlung in den linken Arm. In den letzten Tagen keine typische AP, keine Belastungsdyspnoe. Keine Übelkeit, kein Erbrechen, keine Synkope, kein Schwindel. Kein Hinweis auf einen Infekt. Bei Übernahme auf unsere B-ORG präsentiert sich der Patient wach, spontan atmend und beschwerdefrei. Es besteht Belastungsdyspnoe analog NYHA III seit ca. 8 Wochen, zudem eine chronische AP-Symptomatik insbes. in Ruhe, die sich durch Belastung nicht aggraviert.
+
+Medikation bei Übernahme aus der Neurologie:
+Ass 100 mg 1-0-0
+Ticagrelor 90 mg 1-0-1
+Metoprolol 95 mg 1-0-1
+Ramipril 5 mg 1-0-0
+Spironolacton 25 mg 2-0-0
+Torasemid 10 mg 1-1-0
+Sitagliptin 50 mg 1-0-0
+Jardiance 25 mg 1-0-0
+Atorvastatin 80 mg 0-0-1
+Ezetimib 10 mg 1-0-0
+Pantozol 40 mg 1-0-0
+Clexane 0,4 0-0-1 Thromboseprophylaxe
+
+Körperlicher Untersuchungsbefund bei Übernahme aus der Neurologie:
+AZ: gut
+EZ: leicht adipös
+HF: 80 /min
+RR: 140/80 mmHg
+Keine Cyanose, keine Anämiezeichen, kein Ikterus.
+HT: leise, rein, keine path. Geräusche
+Lunge: bds. vesikuläres AG, sonorer KS, keine NG
+Pulsstatus: periphere Pulse gut tastbar
+Periphere Ödeme: keine
+Abdomen: weich, kein DS, keine Resistenzen
+Neurol. Status: Okolomotorikstörung, leichtes Pronieren im linken Arm, leichtgradige faziale Parese links
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 27/09/2037> -RRB- Vorläufig:
+Vorläufig: Erfolgreiche Rekanalisation der RCA mittels PTCA/3x DES Implantation. langstreckige -LRB- 50%ige -RRB- Stenose der LAD. -LRB- B-OTHER v. <[Pseudo] 27/09/2037> -RRB-
+
+Ruhe EKG vom <[Pseudo] 27/09/2037:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 110/min, LT PQ 153 ms, QRS 89 ms, QTc 432 ms, Zeiten im Normbereich, unauffällige Erregungsausbreitung und -rückbildung.
+
+Ruhe EKG vom <[Pseudo] 01/10/2037:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 68/min, Indifferenztyp, PQ 162 ms, QRS 99 ms, QTc 448 ms, Zeiten im Normbereich, R-/S-Umschlag in V1/V3, T-Negativierung in I, aVL, keine weiteren signifikanten Kammerendteilveränderungen
+
+Ruhe EKG vom <[Pseudo] 02/10/2037:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 81/min, Linkstyp, PQ 161 ms, QRS 99 ms, QTc 443 ms, Zeiten im Normbereich, R-/S-Umschlag in V2/V3, T-Negativierung in I, aVL, V4, V5 keine weiteren signifikanten Kammerendteilveränderungen, Sokolw Lyon Index: 3,7mV Hypertrophie
+
+Ruhe EKG vom <[Pseudo] 02/10/2037:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 82/min, Indifferenztyp, PQ 166 ms, QRS 99 ms, QTc 431 ms, Zeiten im Normbereich, R-/S-Umschlag in V1/V2, T-Negativierung in I, aVL, V4, V5 keine weiteren signifikanten Kammerendteilveränderungen
+
+Ruhe EKG vom <[Pseudo] 04/10/2037:>
+Normofrequenter Sinusrhythmus, Herzfrequenz 82/min, Indifferenztyp, PQ 168 ms, QRS 94 ms, QTc 424 ms, Zeiten im Normbereich, R-/S-Umschlag in V2/V3, Keine- S-Persistenz, T-Negativierung in I, aVL, V4, V5, V6, keine weiteren signifikanten Kammerendteilveränderungen
+
+NEURORADIOLOGISCHE UNTERSUCHUNGEN:
+CCT und CT-Angiografie vom <[Pseudo] 27/09/2037:> Keine subakute Ischämie oder frische intrakranielle Einblutung. Moderate Mikro- und gering ausgeprägte Makroangiopathie. Aus der Voruntersuchung bekannter Parenchymdefekt im Centrum semiovale rechts. Kein Nachweis eines Gefäßabbruches oder einer hochgradigen Stenose. Nebenbefundlich Pleuraergüsse beidseits, rechts betont.
+cMRT vom <[Pseudo] 28/09/2037:> Vereinzelte, kleine subakute Ischämien der Capsula externa rechts und parietal beidseits, am ehesten embolischer Genese. Kein Nachweis eines Verschlusses oder einer höhergradigen Stenose der erfassten hirnversorgenden Arterien. Moderate Mikroangiopathie -LRB- Fazekas 2 -RRB- .
+
+NEUROSONOLOGISCHE UNTERSUCHUNGEN:
+ECD vom <[Pseudo] 28/09/2037:> Soweit bei stark eingeschränkten Schallbedigungen beurteilbar, kein Anhalt auf Arteriosklerose der Carotiden. Vertebrales und A. subclavia bds. regelrecht.
+
+Transthorakale Echokardiographie vom <[Pseudo] 28/09/2037:>
+Normal großer, lateral leicht hypertrophierter linker Ventrikel mit mittel-hochgradig eingeschränkter systolischer Pumpfunktion bei Hypokinesie septobasal und -medial sowie infero- und posterobasal. LV-Aneurysma inferior medioapikal sowie inferolateral medioapikal nicht mehr nachweisbar. Eingeschränkte longitudinale Funktion -LRB- MAPSE 8mm -RRB- , eingeschränkte diastolische LV-Funktion. LA leicht dilatiert, RA und RV normal groß, reduzierte RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior betont, gut atemvariabel. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch jeweils leichtgradig insuffizient. Der systolische PA-Druck in Ruhe ist gering erhöht -LRB- ca. 34mmHg -RRB- . Vorsichtig negativ bilanzieren. NT-proBNP nachbestimmen. Optimierung der Herzinsuffizienztherapie.
+
+Langzeit-EKG vom B-DATE:
+Normofrequenter Sinusrhythmus als Grundrhythmus mit Frequenzen zwischen 65/min und 110/min, im Mittel 76/min. Deutlich eingeschränkte Herzfrequenzvariabilität. Vereinzelte supraventrikuläre Extrasystolen. Keine Pausen. Vereinzelte polymorphe ventrikuläre Extrasystolen. 1 ventrikuläre Salve über 5 Schläge mit 174/min. Lown IV b. In Abhängigkeit der kardialen Grunderkrankung kann eine weitere Risikostratifizierung sinnvoll sein.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2036> und dem B-DAY B-MONTH <[Pseudo] 2036>
+
+Blutbild
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.92
+4 - 10 /nl
+B-DATE
+Hb
+15.2
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+5.4
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.440
+0,38 - 0,52 l/l
+B-DATE
+MCV
+82 !L
+83 - 97 fl
+B-DATE
+MCH
+28
+27 - 33 pg
+B-DATE
+MCHC
+35
+30 - 36 g/dl
+B-DATE
+RDW
+14.8
+12,9 - 18,7 %
+<[Pseudo] 04/10/37>
+hypochr.Erythroz.
+0.7
+0 - 2 %
+<[Pseudo] 04/10/37>
+Thrombozyten
+255
+150 - 440 /nl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+1.81
+1,0 - 4,8 /nl
+<[Pseudo] 28/09/37>
+Neutroph.G.-abs.
+5.65
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.38
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.31
+- <0,5 /nl
+<[Pseudo] 28/09/37>
+Basoph.G. -LRB- abs -RRB-
+0.04
+- <0,2 /nl
+<[Pseudo] 28/09/37>
+Neutroph.G. -LRB- mech. -RRB-
+68.4
+50 - 80 %
+<[Pseudo] 28/09/37>
+Lympho -LRB- mech. -RRB-
+21.9 !L
+25 - 40 %
+<[Pseudo] 28/09/37>
+Basoph.G.
+0.5
+- <1 %
+<[Pseudo] 28/09/37>
+Monozyten -LRB- mech. -RRB-
+4.6
+2 - 9 %
+<[Pseudo] 28/09/37>
+Eosinoph.G. -LRB- mech. -RRB-
+3.8
+2 - 4 %
+<[Pseudo] 28/09/37>
+
+
+Elektrolyte & Nierenfunktionsparameter
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+133 !L
+135 - 146 mmol/l
+<[Pseudo] 04/10/37>
+Kalium -LRB- ISE -RRB-
+4.18
+3,4 - 5,0 mmol/l
+<[Pseudo] 04/10/37>
+Calcium
+2.23
+2,11 - 2,59 mmol/l
+<[Pseudo] 04/10/37>
+Kreatinin
+2.04 !H
+0,6 - 1,3 mg/dl
+<[Pseudo] 04/10/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+59 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+33.0 !L
+>60 s.u.
+B-DATE
+MDRD
+37.25
+ml/min/1,73qm
+<[Pseudo] 30/09/37>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+42.2
+30 - 50 g/l
+B-DATE
+Glucose
+<NONE> !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+89 !H
+- <46 U/l
+B-DATE
+GPT/ALT
+20
+- <50 U/l
+B-DATE
+AP
+79
+40 - 130 U/l
+<[Pseudo] 28/09/37>
+GGT
+28
+- <60 U/l
+B-DATE
+CHE
+7.20
+5,32 - 12,92 kU/l
+<[Pseudo] 28/09/37>
+Ges.Bili.
+1.10 !H
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+9.0 !H
+- <7 mg/dl
+<[Pseudo] 30/09/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Triglyceride
+347 !H
+- <150 mg/dl
+B-DATE
+Cholesterin
+182.0
+- alt.abh. mg/dl
+<[Pseudo] 30/09/37>
+LDL-Chol. -LRB- berechn. -RRB-
+85
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+28 !L
+>40 mg/dl
+B-DATE
+Lipase
+32
+19 - 63 U/l
+<[Pseudo] 28/09/37>
+CRP
+27.0 !H
+- <5 mg/l
+<[Pseudo] 30/09/37>
+Hämolyse
+-
+
+<[Pseudo] 04/10/37>
+ikterisch
+-
+
+<[Pseudo] 04/10/37>
+Lipämie
+-
+
+<[Pseudo] 04/10/37>
+
+
+Aktivitätsparameter & Elektrophorese
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+LDH
+329
+- <342 U/l
+B-DATE
+CK
+108
+- <190 U/l
+B-DATE
+CK-MB
+44
+-
+<[Pseudo] 28/09/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+445 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+1342 !H
+- <125 ng/l
+<[Pseudo] 28/09/37>
+
+
+Endokrinologie & Diabetologie
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+HbA1c
+9.3 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+78 !H
+20 - 42 mmol/mol
+B-DATE
+mittlere Glucose
+220 !H
+- <110 mg/dl
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+TSH
+1.03
+0,400 - 4,000 mU/l
+<[Pseudo] 30/09/37>
+FT4
+10.54
+8 - 18 ng/l
+<[Pseudo] 28/09/37>
+
+
+Gerinnungsdiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Quick
+99.4
+70 - 125 %
+<[Pseudo] 30/09/37>
+INR - ber.
+1.02
+- <1.2
+B-DATE
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+aPTT
+21.1
+- <35 s
+B-DATE
+Thrombinzeit
+17.8
+- <22 s
+B-DATE
+
+
+Urindiagnostik
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+5.00 !L
+6,0 - 8,0
+<[Pseudo] 28/09/37>
+SpezGew/Tstr.
+1011
+1001 - 1035
+<[Pseudo] 28/09/37>
+Glucose/Tstr.
+>=1000
+- neg. mg/dl
+<[Pseudo] 28/09/37>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 28/09/37>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 28/09/37>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 28/09/37>
+Eiweiß/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 28/09/37>
+
+
+Parameter
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+<[Pseudo] 28/09/37>
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 28/09/37>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+0
+- <8 /µl
+B-DATE
+Leuko/µl
+1.0
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+B-DATE
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme des Patienten erfolgte initial über unsere ORG und nach sofortiger Verbringung in den Herzkatheter bei STEMI. Hier erfolgte die erfolgreiche Rekanalisation einer höchstgradigen RCA-Stenose mittels PTCA und 3-fach DE-Stentimplantation. Der postinterventionelle Verlauf gestaltete sich zunächst komplikationslos, der Patient wurde auf unsere B-ORG B-ORG übernommen.
+
+Im frühen postinterventionellen Verlauf entwickelte der Patient eine linksseitige faziale Parese, sowie eine rechtsseitige internukleäre Ophthalmoplegie, weshalb der Patient auf die neurologische Stroke-Unit übernommen wurde. Dor zeigte sich Im cCT keine frische Pathologie, in der CT-Angiografie konnten ein Gefäßverschluss sowie eine höhergradige Stenose eines hirnversorgenden Gefäßes ausgeschlossen werden. Im 3h10min-Zeitfenster erfolgte eine systemische Lysetherapie.
+
+Die cMRT am Folgetag zeigte mehrere kleine Infarkte im Hirnstamm sowie rechts in den Stammganglien und bds. parietal mit embolischem Muster. Eine Einblutung nach Lyse konnte ausgeschlossen werden. Als ursächlich für die zerebralen Ischämien werteten wir das Verschleppen einzelner kleiner Plaques aus dem arteriellen Blutkreislauf nach zerebral während der Koronarangiografie. Neurosonologisch zeigte sich ein Normalbefund der Karotiden.
+
+In der transthorakalen Echokardiografie zeigte sich eine hochgradig eingeschränkte Pumpfunktion bei Hypokinesie septobasal und -medial sowie infero- und posterobasal, das vorbekannte LV-Aneurysma zeigte sich nicht mehr, postinterventionell zeigte sich kein Perikarderguss.
+
+Am <[Pseudo] 29/09/2037> erfolgte die Übernahme des kardiorespiratorisch stabilen und beschwerdefreien Patienten auf unsere B-ORG Normalstation. Es erfolgte die Fortführung der Observanz am Monitor. Bei Verlegung persistierten die Okulomotorikstörung, eine leichtgradige linksseitige faziale Parese sowie ein Pronieren im linken Arm. Über eine mindestens dreimonatige Fahruntauglichkeit wurde der Patient neurologischerseits aufgeklärt. Eine ambulante logopädische Anbindung wurde empfohlen.
+
+Im Langzeit-EKG zeigte sich eine Salve über 5 Schläge bei hochgradig reduzierter Pumpfunktion, weswegen wir die Versorgung mittels Life-vest mit dem Patienten besprachen und diese im Verlauf beantragten. Am <[Pseudo] 04/10/2037> erfolgte die Versorgung mit einer life-vest. Der Patient wurde ausführlich über die Handhabung eingewiesen. In drei Monaten erfolgt eine erneute Evaluation bezüglich einer ICD-Versorgung bei dem niedergelassenen Kardiologen B-TITLE B-PER
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung mit ASS und Ticagrelor für 12 Monate nach Stentimplantation. Auf die Bedeutung einer lückenlosen Einnahme beider Präparate für diesen Zeitraum wurde explizit hingewiesen. Anschließend empfehlen wir ASS dauerhaft fortzuführen. Bei hohem Ischämie- und niedrigem Blutungsrisiko kann ebenfalls eine prolongierte anti-thrombotische Therapie analog Pegasus- -LRB- ASS 100 mg 1-0-0 + Ticagrelor 60 mg 1-0-1 -RRB- oder Compass-Schema -LRB- ASS 100mg 1-0-0 + Rivaroxaban 2,5mg 1-0-1 -RRB- evaluiert werden.
+
+Bei LDL > 80 trotz Atorvastatin/Ezetimib empfehlen wir insbesondere die Gewichtsreduktion und den Ausbau der Cholesterin-senken Medikation. Bei multiplen vaskulären Ereignissen ist eine Senkung des LDL-Cholesterins bis auf einen Wert < 40 mg/dl empfohlen. Hierfür haben wir einen Termin in der Lipid-Sprechstunde wie u.a. terminiert um ggf. Bempedoinsäure oder PCSK-9 Inhibitor zu evaluieren. Zudem eskalierten wir bei schlecht eingestelltem DM Typ II die orale antidiabetische Therapie. Wir bitten um engmaschige Erfolgskontrollen und ggf. um die Eskalation der Therapie.
+
+Bei akutem Nierenversagen Stadium I nach KM-Exposition und externer Erhöhung des Spironolactons pausierten wir das Spironolacton. Aufgrund der Herzinsuffizienz mit hochgradiger eingeschränkter Pumpfunktion empfehlen wir eine erneute Evaluation einer medikamentöse Therapie mit einem Aldosteronantagonist -LRB- Eplerenon 25 mg -LRB- 1-0-0 -RRB- bei während des stationären Verlaufs eher normotensiven Blutdruckwerten -RRB- nach hausärztlicher Kontrolle der Retentionsparameter.
+
+Wir passten die Medikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf.
+
+Des Weiteren empfehlen wir die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß der aktuellen Leitlinien.
+
+Wir entließen den kardiorespiratorisch stabilen und beschwerdefreien Patienten in Ihre geschätzte ambulante Betreuung. Für Rückfragen stehen wir selbstverständlich gerne zur Verfügung.
+
+Prozedere / Termine:
+- Eine AHB wurde empfohlen und eingeleitet.
+- Hausärztliche Kontrolle der Retentionsparameter Ende der Woche, Wiederbeginn der pausierten Medikation, Durchführung einer 24h RR Messung i.V.
+- Ambulante Kardiologische Anbindung mit einer echokardiographischen Kontrolle in 3 Monaten sowie erneuter Durchführung eines Langzeit-EKGs
+-UNK- Evaluation einer primärprophylaktischen ICD-Implantation bei weiterhin hochgradig reduzierter Pumpfunktion.
+-UNK- Bis zum o.g. Kontrolltermin Versorgung mittels Life-vest
+- Tägliche Gewichtskontrollen und Anpassung der Diuretika-Dosierung an den Gewichtsverlauf. Zeitnahe Vorstellung beim Hausarzt bei Gewichtszunahme > 2kg empfohlen.
+- Fortführung der dualen Plättchenhemmung mindestens bis <[Pseudo] 27/09/2038>
+-UNK- Bei guter Verträglichkeit Evaluation einer Extension der antithrombotischen Therapie für > 12 Monate bei hohem Ischämierisiko und niedrigem Blutungsrisiko -LRB- Analog PEGASUS-Schema -RRB-
+- Termin in der Lipid-Sprechstunde unserer Endokrinologischer Ambulanz am <[Pseudo] 05/12/2037> um 8 Uhr
+-UNK- Bitte nüchtern sowie mindestens 48h Alkoholkarenz
+-UNK- Bitte Überweisung vom Hausarzt mitbringen
+- Ambulante logopädische Anbindung
+
+Therapieempfehlung v. kardiologischer Seite:
+Ass 100 mg 1-0-0
+Ticagrelor 90 mg 1-0-1 bis mindestens <[Pseudo] 27/09/2038> danach Re-Evaluation
+Metoprolol 95 mg 1-0-1
+Bitte regelmäßige Kontrollen von Herzfrequenz und Blutdruck und ggf. Dosisanpassung im Verlauf
+Ramipril 5 mg 1-0-0
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Eplerenon 25 mg 1-0-0 Beginn erst nach hausärztlicher Kontrolle der Retentionsparameter
+Torasemid 10 mg 1-1-0
+Sitagliptin 50 mg 1-0-0
+Jardiance 25 mg 1-0-0
+Bitte regelmäßige Kontrollen der Retentionsparameter und gute Intimhygiene. Bei rezidivierenden Harnwegsinfektionen absetzen
+Atorvastatin 80 mg 0-0-1
+Ezetimib 10 mg 1-0-0
+Pantozol 20 mg 1-0-1 solange DAPT
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben
+Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokkenimpfung mit 6-jährlicher Auffrischung werden jenseits des 60. Lebensjahres sowie bei KHK- und/oder Herzinsuffizienz im Besonderen empfohlen. Neuere Daten unterstützen eine zeitnahe Grippeimpfung nach Myokardinfarkt -LRB- IAMI-Studie -RRB-
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, den Patienten unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+
+Mit freundlichen Grüßen
+B-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER PER/ B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzärzte
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

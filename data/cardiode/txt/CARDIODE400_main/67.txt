@@ -1,0 +1,275 @@
+Aufnahmedatum: <[Pseudo] 2440-09-24 >
+Geburtsdatum: <[Pseudo] 2082-01-12 >
+Alter: 358
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 12/01/2082> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Großes frisches Hämatom im Unterbauch und in der Rektusscheide mit aktiver Blutung.
+-UNK- Hämatomausräumung sowie Ligatur der A. epigastrica am <[Pseudo] 07/12/2165>
+-UNK- Transfusion von insgesamt 4 EKs
+-UNK- Intubation und maschinelle Beatmung am <[Pseudo] 06.12.>
+- Koronare Herzkrankheit ohne höhergradige Stenosen, bei Verdacht auf Endokarditis Verzicht auf LV-Angiographie -LRB- B-OTHER vom <[Pseudo] 19/11/2165> -RRB-
+- Thrombosierung der Aortenklappenprothese
+-UNK- TAVI deutlich verdickt mit eingeschränkter Separation, AÖF 0,5-1cm2 ohne flottierende Anteile, AI lg/mg, kein Ringabszess -LRB- TEE vom <[Pseudo] 17/11/2165> -RRB-
+-UNK- Evolut -LRB- 34 mm -RRB- Klappenprothese in Aortenposition mit Nachweis einer Klappenthrombose mit hochgradiger Stenosewirkung -LRB- KÖF 0,6cm2, PPG 54mmHg, MPG 33mmHg -RRB- . Kein Nachweis endokarditischer Vegetationen -LRB- TEE <[Pseudo] 30/11/2165> -RRB-
+- Z.n. unterer GI-Blutung
+-UNK- Kein Nachweis einer Blutungsquelle -LRB- Koloskopie extern B-DATE -RRB-
+-UNK- V.a. Barrettzunge im distalen Ösophagus
+-UNK- Ca 0,5cm großer Polyp im Bulbus duodeni -LRB- ÖGD <[Pseudo] 17/11/2165> extern -RRB-
+-UNK- Transfusion 2EKS extern
+- a/c Nierenversagen
+
+Diagnosen:
+- Erfolgreiche transfemorale Aortenklappenimplantation -LRB- Evolut 34mm + Vordilatation -RRB- am <[Pseudo] 27/04/2165> bei kombiniertem Aortenklappenvitium mit führender hochgradiger Stenose -LRB- Klappenöffnungsfläche von 0,8cm² -RRB- -LRB- HK-Nr. B-OTHER -RRB-
+-UNK- 1-Kammer-Schrittmacher-Implantation -LRB- Medtronic Attesta SR MRI ATSR01 -RRB- am <[Pseudo] 28/04/2165> bei konsekutivem AV III° und permanentem VHF
+- Koronare 2-Gefäßerkrankung
+-UNK- Z.n. PTCA und 1-fach DE-Stentimplantation der LAD <[Pseudo] 10/2160> -LRB- extern, B-ORG I-ORG -RRB-
+-UNK- Z.n. PCI der RCA mit 3-fach DE-Stentimplantation <[Pseudo] 12/2162> -LRB- extern, B-ORG I-ORG -RRB-
+-UNK- Leichtgradig eingeschränkte linksventrikuläre Pumpfunktion
+- Permanentes Vorhofflimmern
+-UNK- CHA2DS2-VASc-Score: 4 Punkte
+- Mittelgradige Mitralklappeninsuffizienz -LRB- Echo v. <[Pseudo] 24/04/2165> -RRB-
+- Leichtgradige Trikuspidalklappeninsuffizienz -LRB- Echo v. <[Pseudo] 24/04/2165> -RRB-
+- pAVK Stadium IIa nach Fontaine vom Mehretagentyp
+-UNK- Stenose der A. poplitea rechts und PTA und Stentimplantation
+- Z.n. Carotis -TEA links
+- Polymyalgia rheumatica
+- Z.n. interventioneller Therapie der V. saphena parva links
+
+Kardiovaskuläre Risikofaktoren: arterielle Hypertonie, Hyperlipidämie, Ex-Raucher 75py
+Allergien: Braunol Lsg 10%, Octenisept Lsg
+
+Anamnese:
+Die initiale Aufnahme des Patienten erfolgte aus B-LOC bei Klappenthrombose der biol. Aortenklappe DD Endokarditis und unterer GIB.
+Ursprüngliche Vorstellung in B-LOC erfolgte bei Dyspnoe und laut dem Arztbrief AP-Beschwerden.
+Vor dem Transport zu uns erneute AP-Beschwerden -LRB- Nitro-sensibel -RRB- mit neuen EKG Veränderungen bei SM-EKG und im Verlauf stabilem Troponin -LRB- in B-LOC 95, Vorwert 89 -RRB- . Bei der Ankunft verneint der Patient Dyspnoe und AP-Beschwerden. Keine Palpitationen, kein Schwindel, keine Synkopen. Keine Ödeme, keine Gewichtszunahme, flache Schlafposition.
+
+Die Übernahme auf unsere B-ORG erfolgte bei noch intubiert/beatmetet Patienten nach Hämatomausräumung sowie Ligatur der A. epigastrica.
+
+Körperlicher Untersuchungsbefund:
+AZ: leicht reduziert
+EZ: gut
+HF: 60/min, regelmäßig
+RR: 110/30mmHg
+Keine Zyanose, keine Anämiezeichen, keine Dyspnoe, keine Zeichen der Einflussstauung.
+Cor: 3/6 Systolikum PM 2.ICR re
+Pulmo: vesikuläres AG, keine RGs
+Abdomen: weich, kein DS, keine Resist.
+Leber/Milz: nicht vergrößert
+Periphere Ödeme: keine
+Pulsstatus: o.B.
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+Durchgehende ventrikuläre SM-Stimulation, 65/, min, QRS 172ms, QTc 488ms, ST-Streckensenkungen in V4, V5. Dezent in V3
+
+Herzkatheteruntersuchung -LRB- HK-Nr. B-OTHER vom <[Pseudo] 19/11/2165> -RRB- :
+Koronare 2-Gefäßerkrankung der LAD und RCA ohne derzeitigen Interventionsbedarf. Verzicht auf LV-Angiographie bei V. a. Endokarditis.
+Maßnahmen:
+Konservativ bzgl. Koronarien.
+V. a. Endokarditis
+
+Transthorakale Echokardiographie vom <[Pseudo] 19/11/2165:>
+Untersuchung am Bett. Reduzierte Schallbedingungen von parasternal. Deviceelektrode RA/RV.
+Beurteilung: Evolut -LRB- 34 mm -RRB- Klappenprothese in Aortenposition sonographisch regelrecht, dopplersonographisch minimale Randleckage, ausgeprägte Stenosewirkung -LRB- Vmax 4,0 m/s, PPG 63 mmHg, MPG 34 mmHg -RRB- nachweisbar. Normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit noch guter systolischer Pumpfunktion bei diskreter Hypokinesie betont inferior basal und anterior mittventrikulär. LA deutlich dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior erweitert, gestaut. Übrige Klappen sonographisch regelrecht, bis mittelgradige Mitral- und leicht- bis mittelgradige Trikuspidalklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist deutlich erhöht -LRB- ca. 50 mmHg -RRB- .
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 23.04.> bzw. <[Pseudo] 29/04/2166:> Nun deutliche Stenosewirkung der Klappenprothese. Zunahme des systolischen PA-Drucks bei nun mittelgradiger Mitralklappeninsuffizienz.
+
+Transösophageale Echokardiographie vom <[Pseudo] 19/11/2165:>
+TEE-Untersuchung unter Lokalanästhesie und 2 mg Midazolam i.v. komplikationslos durchgeführt. 2l O2/min während Untersuchung. MFA B-PER/MTA B-PER I-PER
+Beurteilung: Transösophageale Echokardiografie
+Evolut -LRB- 34 mm -RRB- Klappenprothese in Aortenposition mit echogener Auflagerung -LRB- max. 9x8x7mm -RRB- betont im Bereich der rechtskoronar gelegenen Klappenprothesentasche. Kommissur der akoronaren Tasche erscheint ebenfalls verdickt bis zum klappentragenden Stentgraft. Kein Nachweis eines Klappenringabzesses. Zentrale, leichtgradige Aortenklappeninsuffizienz. Farbdopplersonographisch Hinweis auf Stenosierung im Bereich der Aortenklappenporthese -LRB- Druckgradienten vgl. TTE - achsengerechte Anlotung im TEE ist techn. eingeschränkt -RRB- . Übrige Herzklappen ohne vegetationsverdächtige Veränderungen. Leicht- bis mittelgradige Mitralklappeninsuffizienz bei angedeutetem Prolaps des AML -LRB- hier ein flottierender Sehnenfaden erkennbar, Bild#3 -RRB- .
+Ansonsten kein Nachweis intrakardialer Thromben. Verminderte Flussgeschwindigkeiten im linken Vorhofohr. VH-Septum unauffällig. Aorta ascendens - soweit einsehbar - regelrecht. Thrombogener Aortenbogen III.
+
+Leber-/Milzsonographie vom <[Pseudo] 23/11/2165:>
+Die Leber misst im größten kraniokaudalen Durchmesser 18,0 cm. Der Leberrand ist spitz. Die Echogenität ist unauffällig, die Struktur ist homogen. Im Bereich der Leberpforte, rechts lateral des Pankeaskopfes, ist eine echoarme, ovale Struktur von ca. 1,7 x 1,0 cm, a.e. einem Lymphknoten entsprechend, zu sehen. Weitere Raumforderungen sind nicht abzugrenzen. Die Lebervenen sind mit bis zu 1,3 cm Durchmesser gestaut. Sie sind offen perfundiert. Die Pfortader ist orthograd perfundiert.
+Die Gallenblase lässt sich postprandial teilweise kontrahiert darstellen. Es sind keine Konkremente nachzuweisen.
+Die Gallenblasenwand ist ödematös verquollen -LRB- 1,1 cm -RRB- , möglicherweise im Rahmen einer chronischen
+Entzündung. Die intrahepatischen Gallengänge sind nicht dilatiert. Der Ductus Choledochus ist normal weit.
+Die Milz misst 11,3 x 4,4 cm. Das Echomuster ist homogen. Die V. lienalis ist nicht erweitert.
+Keine freie Flüssigkeit perisplenisch/perihepatisch.
+Nebenbefundlich punktionswürdiger Pleuraerguss bds. -LRB- rechts ca. 1580 ml, links ca. 1100 ml -RRB- .
+Beurteilung:
+-UNK- Hepatomegalie
+-UNK- Pathologisch vergrößerter Lymphknoten in der Leberpforte, rechts des Pankreaskopfes
+-UNK- Verdickte Gallenblasenwand, DD i.R. einer chronischen Cholezystitis. Falls weitere Abklärung gewünscht,
+empfehlen wir eine CT- bzw. MRT-Untersuchung
+-UNK- Grenzwertige Milzgröße
+-UNK- Punktionswürdiger Pleuraerguss bds.
+
+Elektrophysiologischer Befundbericht vom <[Pseudo] 24/11/2165:>
+Befund / Zusammenfassung:
+Regelrechte Schrittmacher-Kontrolluntersuchung. Messwerte stabil. Batteriestatus gut -LRB- 2,78V 9 Jahre -RRB- . Im Speicher eine VHE am B-DATE Hierbei handelt es sich a.e. um eine Salve über 5 Schläge -LRB- CL 320-340ms -RRB- . 98,9 % ventrikuläre SM-Stimulation.
+Keine Änderung der Parameter bei aktivierter AutoCapture-Funktion.
+Wiedervorstellung zur nächsten Schrittmacher-Kontrolluntersuchung in 6 Monaten.
+
+Maximum-Intensitäts-Projektion -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 24/11/2165:>
+Spektral-CT vom: <[Pseudo] 24/11/2165>
+CT Abdomen mit Kontrastmittel vom <[Pseudo] 24/11/2165:>
+Zum Vergleich liegen Voraufnahmen vom <[Pseudo] 24/04/2165> vor.
+Befund:
+Abdomen:
+Soweit bei subtotaler kollabierter Gallenblase beurteilbar Gallenblasenwand nicht verdickt. Kein murales oder mukosales Hyperenchancement. Keine umgebende Flüssigkeitskollektion. Umgebendes Lebergewebe unauffällig.
+Steatosis hepatis. Keine suspekte fokale Leberläsion. Keine Cholestase. Im Leberhilus kein Nachweis eines auffälligen Lymphknotens. Venös etwas inhomogen perfundierte, grenzwertig vergrößerte Milz. Pankreas scharf abgrenzbar und homogen kontrastiert,
+Pankreashauptgang nicht dilatiert. Keine peripankreatische Flüssigkeitskollektion. Nieren beidseits etwas verplumpt. Nieren beidseits normalgroß und symmetrisch kontrastiert. Kein Hinweis auf Harnabflussstörung. Prostata inhomogen vergrößert. Keine pathologisch vergrößerten Lymphknoten. Geringe freie Flüssigkeit im kleinen Becken. Anasarka.
+Ausgeprägte arteriosklerotische Wandveränderungen mit Coronarsklerose. Hochgradige Abgangsstenose beider Nierenarterien. Multifokalen bis mittelgradige Stenosen der Arteria mesenterica superior sowie der Iliacalarterien.
+Mitangeschnittener Thorax:
+Rechter Vorhof deutlich erweitert. Teilerfasstes Fremdmaterial im rechten Herz. Pleuraergüsse beidseits mit angrenzenden dystelektatischen Arealen -LRB- 501/16 -RRB- , rechts aktuell 55 mm Saumbreite und links 41 mm. Diskrete flächige Milchglastrübungen sowie streifige pulmonale Verdichtungen in beiden Unterlappen angrenzend den Pleuraergüssen, am ehesten dystelektatisch.
+Keine suspekten Lungenrundherde. Kein Pneumothorax. Kein sicherer Nachweis pneumonischer Infiltrate.
+Skelett:
+Degenerative Skelettveränderungen mit Osteochondrose. Keine ossären Suspizien.
+Beurteilung:
+-UNK- Soweit bei subtotal kollabierter Gallenblase beurteilbar keine entzündlichen oder malignen Veränderungen der Gallenblase. Kein Nachweis abszessverdächtiger Strukturen.
+-UNK- Keine suspekte Raumforderung.
+-UNK- Keine pathologisch vergrößerten Lymphknoten.
+-UNK- Pleuraergüsse beidseits, rechts 55 mm Saumbreite und links 41 mm.
+-UNK- Hochgradige Abgangsstenose beider Nierenarterien. Multifokalen bis mittelgradige Stenosen der Arteria mesenterica superior sowie der Iliacalarterien.
+
+Neurologie - Konsiliarische Mitbeurteilung vom <[Pseudo] 26/11/2165:>
+BEURTEILUNG und EMPFEHLUNG:
+Aufgrund rezidivierenden Auftretens seit>1 Jahr elektive Abklärung möglich. Bei DD orkuläre Myasthenie bitte Ach-Rez-AK bestimmen, evtl. im Verlauf Dekrement in unserer Neurophysiologie oder beim Niedergelassenen Neurologen. Dann Vorstellung Augenklinik und evtl. im Verlauf auch cMRT wenn keine andere Ursache gefunden wird.
+
+Transthorakale Echokardiographie vom <[Pseudo] 30/11/2165:>
+Beurteilung Normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit leichtgradig
+eingeschränkter systolischer Pumpfunktion bei Hypokinesie betont inferior sowie
+inferoseptal. LA und RA deutlich dilatiert und elongiert, RV normal groß mit guter RV-Funktion.
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut und atemvariabel.
+Evolut -LRB- 34 mm -RRB- Klappenprothese in Aortenposition mit hochgradiger Stenosekomponente
+-LRB- KÖF 0,6cm2, PPG 54mmHg, MPG 33mmHg -RRB- nachweisbar. Leichtgradige
+Mitralklappeninsuffizienz bei Prolaps des AML. Leicht- bis mittelgradige
+Trikuspidalklappeninsuffizienz. Pulmonalklappe sonographisch und dopplersonographisch
+regelrecht. Der systolische PA-Druck in Ruhe ist leicht erhöht -LRB- ca. 35-40mmHg -RRB- .
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 19/11/2165:> Besserung der VCI-Stauung sowie des PADrucks.
+Ansonsten im Wesentlichen Befundkonstanz.
+
+Transösophageale Echokardiographie vom <[Pseudo] 30/11/2165:>
+3D-TEE-Untersuchung unter Lokalanästhesie und kum. 2 mg Midazolam i.v. komplikationslos durchgeführt.
+Transösophageale Echokardiographie:
+Evolut -LRB- 34 mm -RRB- Klappenprothese in Aortenposition mit Nachweis einer Klappenthrombose mit hochgradiger Stenosewirkung -LRB- KÖF 0,6cm2, PPG 54mmHg, MPG 33mmHg -RRB- . Kein Nachweis endokarditischer Vegetationen. Leichtgradige Mitralklappeninsuffizienz bei Prolaps des AML.
+Leicht- bis mittelgradige Trikuspidalklappeninsuffizienz. Pulmonalklappe sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist leicht erhöht -LRB- ca. 35- 40mmHg -RRB- .
+Kein Nachweis intrakardialer Thromben. Thrombogene Flussgeschwindigkeiten im linken Vorhofohr. Farbdopplersonographisch kein Nachweis eines Shunts auf Vorhofebene. Aorta ascendens noch normal weit -LRB- 35mm -RRB- , thrombogener Aortenbogen Grad I.
+Normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit leichtgradig eingeschränkter systolischer Pumpfunktion bei Hypokinesie betont inferior sowie inferoseptal. LA und RA deutlich dilatiert und elongiert, RV normal groß mit guter RV-Funktion.
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut und atemvariabel.
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 19/11/2165:> Besserung der VCI-Stauung sowie des PADrucks.
+Ansonsten im Wesentlichen Befundkonstanz.
+
+PET/CT Herz und Ganzkörper mit F-18 FDG vom <[Pseudo] 03/12/2165:>
+Radiologischer Befund -LRB- verantwortliche Ärzte: B-TITLE B-PER B-PER B-PER I-PER I-PER -RRB- :
+Datum letzte Vergleichsuntersuchung: <[Pseudo] 24/11/2165> -LRB- CT Abdomen -RRB- .
+
+- Im Untersuchungsgebiet kein Hinweis auf floride entzündliche Foci.
+- Anzahlsvermehrte, nicht pathologisch vergrößerte Lymphknoten mediastinal, exemplarisch in Position 4R mit einem KAD von 13mm -LRB- 10-75 -RRB- .
+- Kardiomegalie.
+- Zustand nach Aortenklappenersatz -LRB- TAVI -RRB- .
+- Zustand nach Schrittmacher-Implantation links pektoral mit regelrecht einliegender Schrittmacherelektrode.
+- Ausgeprägte, bilaterale Pleuraergüsse mit einer Saumbreite von 6cm rechts und 5cm links mit angrenzenden Dystelektasen, idem.
+- Pleuraplaques, zum Teil mit Verkalkungen, DD Asbestose.
+- Steatosis hepatis.
+- Geringe Mengen freier Flüssigkeit im kleinen Becken -LRB- 10-159 -RRB- , idem.
+- Ausgeprägte Hydrocele testis beidseits.
+- Prostata inhomogen vergrößert.
+- Ausgeprägte arteriosklerotische Wandveränderungen mit Coronarsklerose und Abgangsstenosen der Visceralarterien.
+- Anasarka.
+- Rechtskonvexe Thorakalskoliose.
+- Ältere Rippenfrakturen links.
+
+Die zusammenfassende Beurteilung der mittels PET/CT gewonnenen Datensätze erfolgt während einer gemeinsamen Befundbesprechung im Konsens zwischen Radiologie und Nuklearmedizin, in der die zunächst getrennt erhobenen PET- und CT-Befunde zusammengeführt und in den PET-Befund integriert werden.
+Nuklearmedizinische Befund:
+
+Mediastinaler Bloodpool: SUVmax 2,5.
+
+Erhöhte FDG-Anreicherungen an folgenden Lokalisationen:
+- Lungenhilus beidseits: SUVmax bis 6,9 rechts bzw. 4,6 linksseitig.
+- Mediastinale LK: Position 4 R -LRB- SUVmax 4,1 -RRB- , Position 4 L -LRB- SUVmax 5,1 -RRB- , Position 5/6 -LRB- SUVmax 5,9 -RRB- , Position 7 -LRB- SUVmax 5,2 -RRB- .
+Zusammenfassende Beurteilung:
+
+- Unklare FDG-avide Lymphadenopathie bihilär und mediastinal, DD entzündlich?
+- Im übrigen Untersuchungsgebiet kein Hinweis auf floride entzündliche Foci.
+- Übrige Befunde siehe radiologischer Befund.
+
+CT-Schädel nativ vom <[Pseudo] 05/12/2165:>
+Spektral-CT vom: <[Pseudo] 05/12/2165>
+CT Multiplanare Rekonstruktion -LRB- en -RRB- vom <[Pseudo] 05/12/2165:>
+Befund:
+Voraufnahmen des Neurokranium zum Vergleich liegen nicht vor.
+Erweiterte innere und äußere Liquorräume ohne Zeichen einer Liquorzirkulationsstörung. Regelrecht abgrenzbarer Kortex, Basalganglien und Thalami. Lakunäre Dichteminderung lateral des linken Vorderhorns bzw. Caudatuskopf sowie geringe, periventrikulär betonte Dichteminderung des Marklagers, passend zu mikroangiopathischen Veränderungen.. Bei üblicher Artefaktüberlagerung unauffällige Darstellung von Hirnstamm und Kleinhirn. Makroangiopathie mit Wandsklerose und Verkalkungen. Soweit mitabgebildet sind NNH und Ohrnebenräume regelrecht belüftet.
+Beurteilung:
+Kein Nachweis einer -LRB- sub -RRB- akuten Ischämie oder einer Blutung.
+Geringe Mikro- und moderate Makroangiopathie.
+
+Konsiliarbericht Viszeralchirurgie vom <[Pseudo] 06/12/2165:>
+Diagnose:
+Unklare RF im UB mit akutem Abdomen
+Befund:
+
+Pat. wach und ansprechbar auf St. Matthis, Bauch mit sichtbarer und tastbarer RF im UB, druckschmerzhaft mit Abwehrspannung. Lt. Pflegeübergabe zuletzt am <[Pseudo] 05/12/65> mit Durchfall abgeführt. Krea deutlich gestiegen im Verlauf, bisher keine Dialyse. Sonografisch durch B-TITLE B-PER zystische RF mit Sediment, Urologin war auch bereits am Bett zur DK-Anlage, RF entspricht nicht der Harnblase.
+Aktuell lehnt der Pat. im Gesrpäch mit B-TITLE B-PER und B-TITLE B-PER eine Operation ab, auch angesichts dessen, dass er daraufhin versterben kann.
+Therapie:
+
+CT nativ, ggf. auch mit KM falls nativ nicht zu beurteilen zur Klärung des Befundes im UB. Dann Festlegung weiteres Procedere und Besprechung mit Pat. + Angehörigen.
+
+CT Abdomen nativ vom <[Pseudo] 06/12/2165:>
+Spektral-CT vom: <[Pseudo] 06/12/2165>
+Maximum-Intensitäts-Projektion -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 06/12/2165:>
+CT Multiplanare Rekonstruktion -LRB- en -RRB- vom <[Pseudo] 06/12/2165:>
+CT Abdomen mit Kontrastmittel vom <[Pseudo] 06/12/2165:>
+Befund:
+
+Zum Vergleich liegt zuletzt ein PET-CT vom <[Pseudo] 03/12/2165> vor.
+
+Konstante voluminöse basale Pleuraergüsse beidseits mit Unterlappenteilatelektasen, sonst freie basale Lungenabschnitte. Sonst freie basale Lungenabschnitte. Neue freie Flüssigkeit perihepatisch. Neue keilförmige hypodense Milzdefekte. Neues raumforderndes Hämatom im Unterbauch von 17 x 14 x 15 cm und in der rechten Rektusscheide, a.e. von den rechten epigastrischen Gefäßen ausgehend, kein arterielles KM Extravasat aber venöses Pooling. Fortgeschrittene Vasosklerose.
+Beurteilung:
+
+- Großes frisches Hämatom im Unterbauch und in der rechten Rektusscheide mit aktiver Blutung -LRB- venöses Pooling -RRB- a.e. aus der rechten epigastrischen Gefäßbahn, kein arterielles Extravasat.
+- Neue keilförmige hypodense Milzläsionen, a.e. Infarkten entsprechend.
+Labor:
+
+Siehe ISH
+Zusammenfassung:
+
+Die Aufnahme des Patienten erfolgte aus B-LOC bei Klappenthrombose der biol. Aortenklappe DD Endokarditis und unterer GIB.
+
+Bei steigendem Troponin erfolgte am <[Pseudo] 19/11/2165> eine Herzkatheteruntersuchung, in der sich eine koronare Herzkrankheit ohne höhergradige Stenosen fand. Bei Verdacht auf Endokarditis wurde auf eine LV-Angiographie verzichtet. Der postinterventionelle Verlauf gestaltete sich komplikationslos, insbesondere ergab sich kein Anhalt für Aneurysma spurium oder eine AV-Fistel im Bereich der Punktionsstelle.
+
+Eine transthorakale und transösophageale Echokardiographie vom <[Pseudo] 19/11/2165> erhärtete den Verdacht auf eine Aortenklappenprothesenendokarditis. Wir begannen daher am <[Pseudo] 19/11/2165> nach erneuter Asservierung von Blutkulturen eine Dreifachtherapie mit Vancomycin, Gentamycin und Rifampicin.
+
+Am <[Pseudo] 21/11/2165> erfolgte eine Verlegung auf Normalstation. Zunächst wurde hier die antibiotische Therapie mit Vancomycin, Gentamycin und Rifampicin fortgeführt. Der Patient präsentierte sich hierunter ikterisch. Ferner zeigten sich deutlich erhöhte Leberwerte -LRB- Bilirubin, Transaminasen -RRB- .
+
+Es erfolgte daraufhin eine Oberbauchsonographie. Hier fand sich ein verdächtiger Lymphknoten in der Leberpforte, rechts des Pankreaskopfes. Wir führten zur weiteren Abklärung ein CT Abdomen durch. Hier fanden sich keine Raumforderungen oder verdächtige Lymphknoten. Es fanden sich aber die bekannten Pleuraergüsse beidseits und hochgradige Abgangsstenosen beider Nierenarterien
+
+Nach RS mit den B-SALUTE der I-ORG und I-ORG erfolgte daraufhin bei a.e. Leberschädigung unter Rifampicin-Therapie eine Umstellung der antibiotischen Therapie auf Staphylex, Azithromycin und Gentamycin.
+
+Im weiteren Verlauf zeigte sich eine Verschlechterung der Nierenfunktionsparameter, a.e. als Folge der Therapie mit Gentamycin. Es erfolgte daraufhin eine forcierte Diurese mittels Lasixperfusor, worunter eine gute Negativbilanzierung bei erhaltener Eigendiurese erreicht werden konnte.
+
+Im Verlaufs-TEE am <[Pseudo] 30/11/2165> fand sich a.e. eine Thrombosierung, Hinweise für Vegetationen ergaben sich nicht mehr. Wir beendeten daraufhin die antibiotische Therapie und es erfolgte bei weiterhin erhöhten Infektparamatern die erneute Abnahme von Blutkulturen, Urinkulturen und Sputum-Proben. Diese blieben jedoch ohne wegweisenden Befund.
+
+Am <[Pseudo] 03/12/2165> veranlassten wir ein PET/CT Herz und Ganzkörper mit F-18 FDG. Hierbei zeigte sich eine unklare FDG-avide Lymphadenopathie bihilär und mediastinal, im übrigen Untersuchungsgebiet erging kein Hinweis auf floride entzündliche Foci.
+
+Bei weiterhin bestehender unklarer Entzündungskonstellation ohne klaren Infektfokus mit leicht erhöhtem PCT indizierten wir bei eingeschränkter Nierenfunktion keine antibiotische Therapie. Die Umfelddiagnostik ergab keine wegweisenden Befunde.
+
+Am Abend des <[Pseudo] 05/12/2165> kam es zu einem systolischen RR-Abfall auf Werte zwischen 80 - 100 mmHg. Der Patient war zwar ansprechbar, jedoch verlangsamt. Es wurde ein neurologisches Konsil und ein cCT veranlasst. Hierbei konnte eine eine -LRB- sub -RRB- akute Ischämie und eine Blutung ausgeschlossen werden. Bei sichtbarer und tastbarer Raumforderung im Unterbauch erfolgte eine Schnittbnildgebung zur weiteren Abklärung, im Abdomen-CT zeigte sich ein großes frisches Hämatom im Unterbauch und in der rechten Rektusscheide mit aktiver Blutung -LRB- venöses Pooling -RRB- a.e. aus der rechten epigastrischen Gefäßbahn,. Des Weiteren zeigte sich eine neue keilförmige hypodense Milzläsionen, a.e. Infarkten entsprechend.
+
+Bei einem Hb von 6,6 g/dl erfolgte die Gabe von 2 EKs. Hierauf kam es zu einem adäquaten Anstieg des Hb auf 9,3 g/dl. Es erfolgte die Kontaktaufnahme mit den interventionellen Radiologen zur Versorgung der Blutung. Diese sahen bei adäquatem Anstieg des Hbs, der schlechten Nierenfunktion sowie der schlechten Gefäßsituation keine notfallmäßige Indikation, weshalb vorerst auf einen Eingriff verzichtet wurde.
+Bei zunehmenden Unterbauchhämatom erfolgte am <[Pseudo] 06.12.> die Hämatomausräumung sowie Ligatur der A. epigastrica in ITN. Bei noch intubiert/ beatmetem Patienten erfolgte anschließend eine Übernahme auf unsere B-ORG Intensivstation.
+
+Bei Übernahme intubiert/ maschinell beatmeter Patient, unter niedrigdosierter Arterenoltherapie kreislaufstabil. Bei beginnender
+Aufwachreaktion konnte der Patient am <[Pseudo] 06.12.> extubiert werden.
+Aktuelle Therapie:
+
+
+
+Siehe COPRA
+
+Bei Auftreten von Problemen oder Komplikationen kann jederzeit eine Wiedervorstellung erfolgen.
+-LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich jederzeit gerne zur Verfügung.
+Mit freundlichen Grüßen
+
+Mit freundlichen Grüßen
+
+
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt

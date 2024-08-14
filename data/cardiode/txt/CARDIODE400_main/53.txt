@@ -1,0 +1,610 @@
+Aufnahmedatum: <[Pseudo] 2033-10-20 >
+Geburtsdatum: <[Pseudo] 1974-10-15 >
+Alter: 59
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 15/10/1974> wohnhaft in B-PLZ B-LOC I-ADDR I-ADDR der sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreiche Rekompensation bei Z.n. rechtsführender kardialer Dekompensation
+- Ausschluss Lungenarterienembolie -LRB- CT-Angio der Pulmonalarterien vom <[Pseudo] 05/10/2033> -RRB-
+
+Diagnosen:
+- Hochgradiger V.a. eine idiopatische NSIP, ED <[Pseudo] 05/2030>
+- Z. n. akutem Nierenversagen bei hämorrhagischer Pneumonie und Coombs negativer hämolytischer Anämie DD infektgetriggert DD autoimmun
+-UNK- intermittierende Hämodialyse B-DATE
+- Anämie
+-UNK- Coombs negative Hämolyse
+-UNK- Gastrointestinale Blutung
+-UNK- Transfusion von 2 Erythrozytenkonzentraten am <[Pseudo] 23/08/2033>
+- Nachweis von atypischen Praezipitationsbanden mit Anti-IgA und IgG und Anti-Kappa und Lambda-Leichtketten Antiseren im Serum
+- Z. n. Pneumonie <[Pseudo] 08/2033>
+- Z.n. Minimalinvasiver Mitralklappenrekonstruktion am <[Pseudo] 16/06/2033> -LRB- HCH I-ORG -RRB- bei exzentrischer Mitralklappeninsuffizienz III° - IV° mit partiellem Sehnenfadenabriss des hinteren Segels
+-UNK- Z. n. Leistenrevision rechts am <[Pseudo] 29/06/2033>
+- Koronare Herzerkrankung ohne höhergradige Stenosen
+- Dilatation des linken Ventrikels mit leicht- mittelgradig eingeschränkter linksventrikulärer Pumpfunktion
+- Pulmonale Hypertonie
+- Essentieller Tremor
+- Chronisch obstruktive Lungenerkrankung -LRB- COPD -RRB-
+- Refluxösophagitis DD Barrett-Ösophagus am <[Pseudo] 05/05/2033>
+- Z. n. Soor, Stomatitis am <[Pseudo] 22/04/2033>
+- Z. n. akutem Nierenversagen bei Exsikkose am <[Pseudo] 18/04/2033>
+- C2-Abusus
+- Steatosis hepatis DD äthyltoxischer Genese DD Steatohepatitis
+
+Kardiovaskuläre Risikofaktoren: anamnestisch keine bekannt
+Allergien: Anamnestisch keine bekannt.
+MRE: VRE rektal B-DATE I-DATE I-DATE
+
+Anamnese:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei rechtsführender kardialer Dekompensation. Seit einigen Tagen sei es zu progredienten Beinödemen, Skrotalödem und Luftnot bei erhaltener Ausscheidung gekommen. Keine pektanginösen Beschwerden, keine stattgehabte Synkope. Soweit eruierbar sei eine Umstellung der diuretischen Medikation erfolgt. Zuletzt stationärer Aufenthalt vom B-DATE und B-DATE in domo/Nierenzentrum bei Nierenversagen unklarer Genese. Zuletzt kein Infekt erinnerlich.
+
+Medikation bei Aufnahme:
+oral
+ASS 100 mg 1-0-0
+Metoprolol 47,5 mg 1-0-0
+Torasemid 10 mg 2-0-0
+Chlortalidon 25 mg 1-0-0
+Atorvastatin 10 mg 0-0-1
+Allopurinol 100 mg 1-0-0
+Methylpredinsolon 20 mg 1-0-0
+Pantoprazol 40 mg 1-0-1
+Domperidon 10 mg 1-1-1
+Primidon 250 mg 0-0-1
+BicaNorm 1-1-1
+Metamizol 500 mg 3-4x täglich bei Bedarf
+
+inhalativ
+Foster 200/6 µg 1-0-1
+Spiriva 2,5 µg 2-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: reduziert
+EZ: gut -LRB- Größe: 181 cm, Gewicht: 81 kg -RRB-
+HF: 86/min, regelmäßig
+RR: 120/80 mmHg
+Keine Zyanose, keine Anämiezeichen. Dyspnoe und Zeichen der oberen Einflussstauung.
+Cor: reine HT, keine path. HG
+Pulmo: vesikuläres AG, bibasale RGs
+Abdomen: weich, kein DS, keine Resist.
+Leber/Milz: nicht vergrößert
+Periphere Ödeme: ausgeprägt prätibial und malleolar
+Pulsstatus: periphere Pulse regelrecht
+Neurol. Status: grob orientierend unauffällig
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG bei Aufnahme:
+Normofrequenter Sinusrhythmus, Herzfrequenz 88/min, überdrehter Linkstyp, PQ 210 ms, QRS 125 ms, QTc 437 ms. S-Persistenz bis V6. AVB I°, LAHB.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 05/10/2033:>
+Zum Vergleich liegt ein Röntgen Thorax vom <[Pseudo] 09/09/2033> vor.
+Befund und Beurteilung:
+Zunehmender Pleuraerguss rechts mit angrenzenden Minderbelüftungen. Links minimaler Randwinkelerguss. Akzentuierte streifige Transparenzminderungen im Unterfeld paracardial rechts, bei vormals ausgeprägten Milchglasinfiltraten bipulmonal a.e. Residuen entsprechend, diese projektionsradiographisch nur unzureichend korrelierbar -LRB- vgl. CT vom <[Pseudo] 25/08/2033> -RRB- . Geringer Stauungsaspekt. Keine pleurale Ablösung. Trachea mittig, nicht eingeengt. Herzsilhouette konstant verbreitert, CTR 19 / 34. Retrosternalraum eingeengt, a.e. Konstitutionsbedingt. Retrocardialraum durch Erguss überlagert. Degenerative Skelettveränderungen in altersentsprechendem Umfang.
+
+CT-Angio der Pulmonalarterien vom <[Pseudo] 05/10/2033:>
+Spektral-CT vom <[Pseudo] 05/10/2033:>
+Maximum-Intensitäts-Projektion -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 05/10/2033:>
+CT Multiplanare Rekonstruktion -LRB- en -RRB- vom <[Pseudo] 05/10/2033:>
+Es liegt ein CT Thorax vom <[Pseudo] 25/08/2033> zum Vergleich vor.
+Befund: Kein Nachweis einer Kontrastmittelaussparung in der pulmonalarteriellen Strombahn. CT-morphologisch keine Rechtsherzbelastungszeichen bei einem RV/LV-Quotienten < 1. Schmale perikardiale Flüssigkeitslamelle. Kein Kontrastmittelrückstau in die Lebervenen.
+Weiterhin Pleuraergüsse beidseits mit gefangener Ergusskomponente im Interlobärspalt rechts, im Verlauf idem, rechts mit einer Saumbreite von bis zu 6,6 cm -LRB- 401-308 -RRB- mit angrenzender Teilatelektase des rechten Unterlappens. Im Verlauf rückläufige Oberlappenbetonte milchglasartige Verdichtungen des Lungenparenchyms. Im Verlauf neue herdförmige Konsolidierungen in der Lingula. Dystelektasen betont rechts pulmonal. Verdickte Interlobulärsepten als Zeichen einer pulmonalvenösen Stauung.
+Zwischenzeitlich Entfernung des von rechts jugulär einliegenden ZVK. Im Verlauf konstante mediastinale Lymphadenopathie, am ehesten reaktiv bedingt. Kein Nachweis pathologisch vergrößerter Lymphknoten periklavikulär oder axillär.
+Bild einer Leberzirrhose. Neu freie Flüssigkeit perihepatisch. Sonst unauffällige Darstellung der parenchymatösen Oberbauchorgane ist erfasst. Unveränderte Mehrsklerosierungen in den Humerusköpfen beidseits. Fortgeschrittene degenerative Skelettveränderungen. Kein Nachweis ossärer Suspizien.
+Beurteilung:
+-UNK- Keine zentrale oder periphere LAE. CT-morphologisch keine Rechtsherzbelastungszeichen.
+-UNK- Weiterhin Pleuraergüsse beidseits, rechts mehr als links, rechts mit einer Saumbreite von bis zu 6 cm.
+-UNK- Im Verlauf rückläufige oberlappenbetonte Milchglasinfiltrate beidseits.
+-UNK- Neue herdförmige Konsolidierungen in der Lingula, bei bestehendem klinischen Verdacht passend zu Pneumonie.
+-UNK- Stauungszeichen.
+-UNK- Mediastinale Lymphadenopathie, idem, a.e. reaktiv bedingt.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 11/10/2033:>
+Zum Vergleich liegt ein Röntgen Thorax vom <[Pseudo] 05/10/2033> vor.
+Befund und Beurteilung:
+Weiterhin zunehmender Pleuraerguss rechts mit angrenzenden Minderbelüftungen. Konstant geringer Randwinkelerguss links. Konstant streifige Transparenzminderungen im Unterfeld paracardial rechts. Flau erkennbare konfluierende Transparenzminderungen links retro/parakardial bei hier bekannten Infiltraten. Mäßiger Stauungsaspekt. Kein Pneumothorax. Trachea mittig, nicht eingeengt. Mediastinalkontur unverändert. Bekannte Kardiomegalie im Z.n. MKE. Retrosternalraum aufgrund Weichteilüberlagerung nicht frei einsehbar. Retrocardialraum durch Erguss überlagert. Weichteilmantel unauffällig. Degenerative Skelettveränderungen in altersentsprechendem Umfang. Ossäre Verdichtung am linken Humeruskopf am ehesten vereinbar mit Kompaktainsel.
+
+Rheumatologisches Konsil vom <[Pseudo] 14/10/2033:>
+Erneute Pleuraergüsse, rechts kardiale Dekompensation, Lingula links verdichtete Infiltrate. ANCA weiter negativ, ANA negativ, Steroide reduziert, damit auch fallende CRP-Werte. Kardiale rekompensiert, Bronchoskopie für Ende B-DATE geplant. Kein Hinweis auf Vaskulitis, Kollagenose, Steroide weiter reduzieren. Ggf. Biopsien aus Gewebekonglomerat lingular links bei Bronchoskopie falls möglich.
+
+Transthorakale Echokardiographie vom <[Pseudo] 14/10/2033:>
+Beurteilung Leicht dilatierter linker Ventrikel mit noch guter systolischer Pumpfunktion. Erhaltene longitudinale Funktion. Regelrechte diastolische LV-Funktion. LA leicht dilatiert. RA und RV normal weit mit guter RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior dilatiert und nicht atemvariabel. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Mitralklappe nach Rekonstruktion dopplersonographisch mit geringer Insuffizienz und ohne relevante Stenosewirkung. Leichtgradige Trikuspidalklappeninsuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist erhöht -LRB- ca. 45 mmHg -RRB- . Im direkten Bildvergleich zum Vorbefund vom <[Pseudo] 23/08/2033:> erhöhter PA-Druck, sonst keine wesentliche Befundänderung.
+
+Ruhe-EKG vom <[Pseudo] 17/10/2033:>
+Normofrequenter Sinusrhythmus, regelmäßig, 80/min, überdrehter Linkstyp. PQ 180 ms, QRS 115 ms, QTc ms. Unspezifische intraventrikuläre Erregungsausbreitungsverzögerung in V1. Verzögerte R-Progression, R/S Umschlag in V4/V5. Keine signifikanten Kammerendteilveränderungen.
+
+Labor:
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 04/10/2033> und dem <[Pseudo] 14/10/2033>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+4.69
+4 - 10 /nl
+B-DATE
+Hb
+9.2 !L
+13 - 17 g/dl
+B-DATE
+Erythrozyten
+2.8 !L
+4,3 - 6,1 /pl
+B-DATE
+Haematokrit
+0.280 !L
+0,38 - 0,52 l/l
+B-DATE
+MCV
+99 !H
+83 - 97 fl
+B-DATE
+MCH
+32
+27 - 33 pg
+B-DATE
+MCHC
+33
+30 - 36 g/dl
+B-DATE
+RDW
+15.6
+12,9 - 18,7 %
+<[Pseudo] 14/10/33>
+hypochr.Erythroz.
+4.2 !H
+0 - 2 %
+B-DATE
+Thrombozyten
+146 !L
+150 - 440 /nl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+0.45 !L
+1,0 - 4,8 /nl
+B-DATE
+Neutroph.G.-abs.
+3.63
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.31
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.04
+- <0,5 /nl
+<[Pseudo] 11/10/33>
+Basoph.G. -LRB- abs -RRB-
+0.02
+- <0,2 /nl
+<[Pseudo] 11/10/33>
+Neutroph.G. -LRB- mech. -RRB-
+80.7 !H
+50 - 80 %
+<[Pseudo] 11/10/33>
+Lympho -LRB- mech. -RRB-
+10.0 !L
+25 - 40 %
+<[Pseudo] 11/10/33>
+Basoph.G.
+0.5
+- <1 %
+B-DATE
+Monozyten -LRB- mech. -RRB-
+6.9
+2 - 9 %
+<[Pseudo] 11/10/33>
+Eosinoph.G. -LRB- mech. -RRB-
+0.8 !L
+2 - 4 %
+<[Pseudo] 11/10/33>
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+147 !H
+135 - 146 mmol/l
+<[Pseudo] 14/10/33>
+Kalium -LRB- ISE -RRB-
+3.81
+3,4 - 4,8 mmol/l
+<[Pseudo] 14/10/33>
+Calcium
+2.24
+2,11 - 2,59 mmol/l
+<[Pseudo] 14/10/33>
+Phosphat
+1.13
+0,84 - 1,45 mmol/l
+<[Pseudo] 04/10/33>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Kreatinin
+1.06
+0,6 - 1,2 mg/dl
+B-DATE
+Harnstoff
+48 !H
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+77.0
+>60 s.u.
+B-DATE
+MDRD
+85.94
+ml/min/1,73qm
+B-DATE
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Ges.Eiweiss
+71.6
+60 - 80 g/l
+B-DATE
+Albumin quant.
+39.9
+30 - 50 g/l
+B-DATE
+Glucose
+87
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+32
+- <46 U/l
+B-DATE
+GPT/ALT
+15
+- <50 U/l
+B-DATE
+AP
+244 !H
+40 - 130 U/l
+B-DATE
+GGT
+<NONE> !H
+- <60 U/l
+B-DATE
+CHE
+7.48
+5,32 - 12,92 kU/l
+B-DATE
+Ges.Bili.
+0.7
+- <1.0 mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Dir.Bilirubin
+0.40 !H
+- <0.3 mg/dl
+B-DATE
+Harnsäure
+11.7 !H
+- <7 mg/dl
+B-DATE
+Lipase
+96 !H
+19 - 63 U/l
+B-DATE
+CRP
+18.4 !H
+- <5 mg/l
+B-DATE
+PCT sens.
+0.10 !H
+- <0,05 ng/ml
+<[Pseudo] 04/10/33>
+Hämolyse
+-
+
+<[Pseudo] 14/10/33>
+ikterisch
+-
+
+<[Pseudo] 14/10/33>
+Lipämie
+-
+
+<[Pseudo] 14/10/33>
+
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+LDH
+282
+- <317 U/l
+B-DATE
+CK
+70
+- <190 U/l
+B-DATE
+hs-TroponinT
+66.3 !H
+- <14 pg/ml
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+65.7 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+1212 !H
+- <125 ng/l
+<[Pseudo] 04/10/33>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+TSH
+3.46
+0,400 - 4,000 mU/l
+<[Pseudo] 04/10/33>
+Gerinnungsdiagnostik
+
+
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+71.9
+70 - 125 %
+<[Pseudo] 06/10/33>
+INR - ber.
+1.15
+- <1.2
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+aPTT
+30.4
+- <35 s
+<[Pseudo] 06/10/33>
+
+
+Spezielle Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Vitamin B12
+340
+160 - 670 pmol/l
+<[Pseudo] 11/10/33>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Folsäure
+31 !H
+4,5 - 21 nmol/l
+<[Pseudo] 11/10/33>
+Urindiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+6.00
+6,0 - 8,0
+<[Pseudo] 04/10/33>
+SpezGew/Tstr.
+1010
+1001 - 1035
+<[Pseudo] 04/10/33>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 04/10/33>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 04/10/33>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 04/10/33>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 04/10/33>
+Eiweiß/Tstr.
+Spur
+- neg. mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+0.2
+- <2,0 mg/dl
+B-DATE
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 04/10/33>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+8.0 !H
+- <8 /µl
+B-DATE
+Leuko/µl
+11.0 !H
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+0
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+<[Pseudo] 04/10/33>
+Blutgasanalyse
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH
+7.46 !H
+7,37 - 7,45
+B-DATE
+pO2
+17
+mmHg
+B-DATE
+pCO2
+48.5 !H
+35 - 45 mmHg
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+<NONE> !H
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+31.7
+mmol/l
+B-DATE
+Laktat
+12.6
+- <16 mg/dl
+B-DATE
+
+
+
+
+
+Zusammenfassung:
+Die stationäre Aufnahme von B-SALUTE B-PER erfolgte über unsere B-ORG I-ORG -LRB- B-ORG I-ORG I-ORG -RRB- bei rechtsführender kardialer Dekompensation.
+
+Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei
+Aufnahme 74 pg/ml, im Verlauf stabil 66 pg/ml, somit kein Hinweis für einen akuten Nicht ST-Hebungsinfarkt. Laborchemisch zeigte sich keine rel. Entzündungskonstellation, afebril. Das NT-pro-BNP
+fand sich altersadjustiert leicht erhöht.
+
+Bei Anasarka und gestauter V. cava inferior begannen wir mit einer forcierten diuretischen Therapie. Rechtsseitig fand sich ein punktabler Pleuraerguss. Bei Thrombozytopenie wurde zunächst auf eine Pleurapunktion verzichtet. Zur Rekompensation starteten wir eine Therapie mittels Furosemidperfusor zur forcierten Diurese.
+
+Zum Ausschluss einer LAE bei erhöhtem PA-Druck wurde eine CT-angiographische Diagnostik durchgeführt. Hierbei konnte eine Lungenarterienembolie ausgeschlossen werden, es zeigten sich weiterhin Pleuraergüsse beidseits, rechts mehr als links, rechts mit einer Saumbreite von bis zu 6 cm. Ferner zeigten sich im Verlauf rückläufige oberlappenbetonte Milchglasinfiltrate beidseits und neue herdförmige Konsolidierungen in der Lingula, bei bestehendem klinischem Verdacht passend zu einer Pneumonie. Außerdem fand sich eine mediastinale Lymphadenopathie, a. e. reaktiv bedingt. Bei Verdacht auf atypische Pneumonie erfolgte laborchemisch ein Anschluss einer Aspergillus- sowie einer CMV-Infektion.
+
+Eine Rekompensation konnte durch forcierte Diurese mittels Erhöhung der Laufrate des Furosemidperfusors, sowie intermittierenden Furosemidboli dargestellt werden. Darunter zeigte sich eine gute Ausscheidung und es wurde ein Gewichtsverlust von 9 kg erzielt. Wir passten die orale diuretische Therapie an, wir bitten um regelmäßige klinische Kontrollen, sowie Kontrollen der Elektrolyte und ggf. eine Anpassung im Verlauf. Weiterhin bitten wir um regelmäßige Kontrollen der Nierenretentionsparameter und des Kaliumspiegels. Der Patient wurde zu täglichen Gewichtskontrollen - möglichst morgens im Nüchternzustand nach dem Toilettengang - instruiert.
+
+Laborchemisch zeigte sich ein akutes Nierenversagen, sodass die nephrotoxischen Medikamente pausiert wurden. Im Verlauf erholten sich die Nierenfunktionsparameter, sodass die übliche Medikation erneut aufgenommen wurde.
+
+Echokardiographisch zeigte sich am <[Pseudo] 12/10/2033> ein leicht dilatierter linker Ventrikel mit noch guter systolischer Pumpfunktion. Die Vena cava inferior zeigte sich dilatiert und nicht atemvariabel. Im direkten Bildvergleich zum Vorbefund vom <[Pseudo] 23/08/2033> zeigte sich ein erhöhter PA-Druck -LRB- ca. 45 mmHg -RRB- , ansonsten keine wesentliche Befundänderung.
+
+Es erfolgte eine RS mit den B-SALUTE der Rheumatologie sowie der B-SALUTE der I-ORG bei CT-angriographischem V.a. Granulomatose mit Polyangiitis. Es erging die Maßgabe das Konzept vom letzten stationären Aufenthalt fortzuführen -LRB- Vorstellung in der Thoraxklinik -RRB- und die damals begonnene Therapie mit Methylprednisolon wöchentlich um 2,5 mg weiter auszuschleichen -LRB- letzte Reduktion am <[Pseudo] 14/10/2033> auf 7,5 mg -RRB- . Wir empfehlen hiernach bei laborchemischer Panzytopenie eine Vorstellung in der hämatologischen Ambulanz und ggf. die Durchführung einer Knochenmarksbiopsie zur weiteren Abklärung.
+
+Zur weiteren Abklärung der oberlappenbetonten Milchglasinfiltrate beidseits wurde der bereits im letzten stationären Aufenthalt vereinbarte Termin in der ILD-Ambulanz der B-ORG I-ORG durch uns auf den <[Pseudo] 30/01/2034> um 09:00 Uhr verschoben. Wir bitten am Tag der Untersuchung um einen Überweisungsschein vom Hausarzt sowie aktuelle Laborwerte -LRB- insb. Kreatinin, Harnstoff -RRB- .
+
+Wir empfehlen die Kontrolle und ggf. Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß den aktuellen Leitlinien.
+
+Wir entließen B-SALUTE B-PER mit einem Entlassgewicht von 80 kg kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung. Ferner empfehlen wir um eine strikte Alkoholkarenz.
+
+Wir empfehlen regelmäßige Kardiologische Kontrollen durch den betreuenden B-SALUTE B-SALUTE B-TITLE B-PER
+
+Nächster Termin/Prozedere
+- Termin in der B-ORG in I-ORG in der ILD-Ambulanz am <[Pseudo] 30/01/2034> um 09:00 Uhr
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+oral
+ASS 100 mg 1-0-0
+Metoprolol 47,5 mg 1-0-0
+Torasemid 10 mg 2-3-0 erhöht!
+Atorvastatin 10 mg 0-0-1
+Allopurinol 100 mg 1-0-0
+Methylpredinsolon 7,5 mg 1-0-0 reduziert, wöchentlich um 2,5 mg ausschleichen!
+Pantoprazol 40 mg 1-0-1
+Domperidon 10 mg 1-1-1
+Primidon 250 mg 0-0-1
+BicaNorm 1-1-1
+Metamizol 500 mg 3-4x täglich bei Bedarf
+Chlortalidon 25 mg 1-0-0 abgesetzt!
+inhalativ
+
+Foster 200/6 µg 1-0-1
+Spiriva 2,5 µg 2-0-0
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist es natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten/die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER I-PER
+Ärztl. Direktor Oberarzt Stationsärzte
+
+
+Dieses Dokument wurde digital erstellt und ist ohne Unterschrift gültig.

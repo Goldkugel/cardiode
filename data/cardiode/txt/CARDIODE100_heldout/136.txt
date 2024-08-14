@@ -1,0 +1,624 @@
+Aufnahmedatum: <[Pseudo] 2040-05-15 >
+Geburtsdatum: <[Pseudo] 1968-09-22 >
+Alter: 71
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 22/09/1968> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Akuter Myokardinfarkt -LRB- STEMI -RRB- am <[Pseudo] 06/05/2040>
+- Koronare 3-Gefäßerkrankung mit mittel- bis hochgradig eingeschränkter linksventrikulärer Pumpfunktion und Apexaneurysma
+-UNK- Erfolgreiche Rekanalisation der LAD mittels PTCA/3fach DE-Stentimplantation -LRB- B-OTHER vom <[Pseudo] 06/05/2040> -RRB-
+-UNK- Residuelle 50%-Abgangsstenose der LCX sowie der peripheren RCA
+-UNK- AD Stress-MRT im Verlauf -LRB- <[Pseudo] 26/09/2040> um14:45 Uhr -RRB-
+-UNK- Bitte aktuellen Überweisungsschein mitbringen; 24h vorher keinen Kaffee/Schwarztee/Koffein im Allgemeinen/Kakao oder Schokolade einnehmen.
+-UNK- Befundbesprechung am <[Pseudo] 11/10/2040> um 11:30 Uhr in unserer Herzinsuffizienz Ambulanz
+- Akuter Harnwegsinfekt
+-UNK- Kalkulierte antibiotische Therapie mit:
+-UNK- Piperacillin/Tazobactam vom <[Pseudo] 07/05/2040> bis <[Pseudo] 14/05/2040>
+- Echokardiographie:
+-UNK- Mittel- bis hochgradig verminderte systolische LV-Pumpfunktion bei A- bis Dyskinesie apikal und Hypokinesie
+-UNK- Mittelschwere diastolische Dysfunktion des LV
+-UNK- leicht- bis mittelgradige zentrale Mitralklappen Insuffizienz
+-UNK- PA-Druck in Ruhe ist deutlich erhöht -LRB- ca. 60 mmHg -RRB-
+- Langzeit-EKG vom B-DATE
+-UNK- Lown IV b: ventrikulärer Salve über vier Schläge mit 152/min.
+- Verordnung Life-Vest
+-UNK- Empfehlung zur kardiologischen Verlaufskontrolle in 3 Monaten in unserer Herzinsuffizienz I-ORG -LRB- B-PHONE - I-PHONE I-PHONE -RRB- <[Pseudo] 14/08/2040> um 10:00 Uhr
+Diagnosen:
+- Art. Hypertonie
+- Diabetes Mellitus Typ 2, ED <[Pseudo] 2025>
+-UNK- HbA1c vom B-DATE: 6,8 %
+-UNK- Bitte Evaluation SGLT-2 Inhibitor
+-UNK- Empfehlung zur angiologischen Diagnostik und regelhaften Wundversorgung bzgl. Wunde DI rechts
+- Schwindel
+
+Kardiovaskuläre Risikofaktoren:
+Arterielle Hypertonie, Diabetes mellitus Typ 2, pos. Familienanamnese -LRB- Mutter und Großmutter -LRB- mütterlicherseits -RRB- mit KHK -RRB-
+
+Allergien:
+Penicillin -LRB- Hautausschlag -RRB- , Insektengifte, Süßstoff
+
+Anamnese:
+Die Aufnahme auf unsere Station erfolgte als Übernahme von der CCU bei STEMI am B-DATE.
+Die Patientin berichtet von einer reduzierten körperlichen Belastbarkeit im Alltag. Bei 3 Etagen Treppensteigen bestehe inadäquate Belastungsdyspnoe -LRB- NYHA II -RRB- , jedoch keine belastungsinduzierten pectanginösen Beschwerden. Auch in Ruhe bestünden weder pectanginöse Beschwerden noch Dyspnoe. Es bestehe gelegentlich ein Drehschwindel beim Lagewechsel und ein Schwankschwindel bei Bewegung. Palpitationen und stattgehabte Synkopen werden verneint. Die häuslichen Blutdruckmessungen ergäben Werte um 120/80mmHg. Es bestehe keine Nykturie. Die Patientin berichtet, dass in den letzten Wochen diskrete Knöchelödeme v.a. links aufgetreten seien. Es bestehe eine Gewichtszunahme von etwa 7 kg in der letzten Zeit bei reduzierter Bewegung.
+
+Medikation bei Aufnahme:
+Verapamil 120mg 1-0-0
+Betahistin 6mg 1-0-0
+Novorapid nach Schema
+Lantus 16IE zur Nacht
+
+Körperlicher Untersuchungsbefund:
+
+AZ: gut
+178 cm 81 kg
+HF: 80/min, regelmäßig
+RR: 130/76 mmHg
+Keine Zyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein, keine path. Geräusche
+Lunge: o.B.
+Abdomen: weich, kein DS, keine Resist
+Leber: nicht vergrößert
+Periphere Ödeme: diskrete Knöchelödeme
+Pulsstatus: o.B.
+Neurologischer Status: orientierend o.B.
+sonstige Auffälligkeiten: Wunde D1 rechts
+
+Labor:
+Ruhe-EKG vom <[Pseudo] 05/04/2040:>
+Normofrequenter Sinusrhythmus, 78/min, regelmäßig. überdrehter Linkstyp. PQ 158 ms, QRS 101 ms, QTc 482 ms. R-Verlust. Tendenziell regrediente ST-Hebungen in V2-V4 mit T-Negativierung in I, aVL
+
+Ruhe-EKG vom <[Pseudo] 07/05/2040>
+Normofrequenter Sinusrhythmus, regelmäßig, 80/min, überdrehter Linkstyp. PQ 157msec, QRS 93msec., QTc 416msec. Zeiten im Normbereich. R-Verlust, Kein R/S Umschlag, S-Persistenz bis in V6. Diskrete ST-Hebung in II, III, aVF, V1-V6
+Langzeit-EKG vom B-DATE.
+Deutlich eingeschränkte Herzfrequenzvariabilität. Vereinzelte supraventrikuläre Extrasystolen. Keine Pausen. Einige polymorphe ventrikuläre Extrasystolen. Eine ventrikuläre Salve über vier Schläge mit 152/min. Lown IV b. In Abhängigkeit der kardialen Grunderkrankung kann eine weitere Risikostratifizierung sinnvoll sein.
+
+Ruhe-EKG vom <[Pseudo] 08/05/2040>
+Normofrequenter Sinusrhythmus, regelmäßig, 74/min, überdrehter Linkstyp. PQ 163msec, QRS 122msec., QTc 410msec. Zeiten im Normbereich. R-Verlust, Kein R/S Umschlag, S-Persistenz bis in V6. Diskrete ST-Hebung in II, III, aVF, V1-V6 -LRB- a. e. rückläufig -RRB-
+
+Ruhe-EKG vom <[Pseudo] 08/05/2040>
+Normofrequenter Sinusrhythmus, regelmäßig, 68/min, überdrehter Linkstyp. PQ 162msec, QRS 114msec., QTc 419msec. Zeiten im Normbereich. Verzögerter R-Progress, Kein R/S Umschlag, S-Persistenz bis in V5. Diskrete ST-Hebung in II, III, aVF, V1-V5 -LRB- a. e. rückläufig -RRB-
+
+Ruhe-EKG vom <[Pseudo] 13/05/2040>
+Normofrequenter Sinusrhythmus, regelmäßig, 71/min, überdrehter Linkstyp. PQ 164msec, QRS 99msec., QTc 431msec. Zeiten im Normbereich. Verzögerter R-Progress, R/S-Umschlag in V5/V6, S-Persistenz bis in V5. Diskrete ST-Hebung in II, III, aVF, V1-V5 -LRB- a. e. rückläufig -RRB-
+
+Virologischer Befund vom <[Pseudo] 06/05/2040> -LRB- Chest-Pain-Unit -RRB- :
+
+
+
+Nasenabstrich vom <[Pseudo] 06/05/2040> -LRB- B-ORG -RRB- :
+Kultureller Befund:
+K1 Staphylococcus aureus Oxacillin empfindlich
+Kein Nachweis von Methicillin resistenten Staphylococcus aureus -LRB- MRSA -RRB-
+
+Rektalabstrich vom <[Pseudo] 06/05/2040> -LRB- B-ORG -RRB- :
+Kultureller Befund:
+Kein Nachweis von Staphylococcus aureus
+Kein Nachweis von Vancomycin-resistenten Enterokokken
+Kein Nachweis von multiresistenten gramnegativen Stäbchen.
+
+Echokardiographie vom <[Pseudo] 06/05/2040:>
+Bemerkungen: Untersuchung am Bett auf Kardio-Wach. Eingeschränkte Schallbedingungen, kein Schallfenster von subcostal.
+Beurteilung:
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit mittelgradig verminderter systolischer Pumpfunktion bei A- bis Dyskinesie apikal und Hypokinesie der angrenzenden Wandabschnitte. Erhaltene longitudinale Funktion. Hinweis auf diastolische Dysfunktion des LV. LA leicht dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht einsehbar. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist nicht ableitbar. Erstbefund in domo.
+
+Herzkatheteruntersuchung -LRB- HK-Nr. B-DATE I-DATE I-DATE -RRB- vom <[Pseudo] 06/05/2040> Endbefund:
+Notfall--Diagnostik bei subakutem STEMI:
+Erfolgreiche Rekanalisation der im mittleren Segment verschlossenen LAD mittels PTCA / 3-fach DE-Stentimplantation -LRB- Promus -RRB- .
+Koronare 3-Gefäßerkrankung mit residueller 50%-iger Abgangsstenose der LCX sowie der peripheren RCA. Mittelgradig eingeschränkte linksventrikuläre Pumpfunktion mit Apexaneurysma und deutlich erhöhten enddiastolischen Drücken des linken Ventrikels.
+CvRF: aHT, Adipositas, DM, pos. FA.
+Allergien: Penicillin.
+Maßnahmen:
+1 -RRB- Duale Thrombozytenaggregationshemmung für 12 Monate.
+2 -RRB- STEMI-SOP.
+3 -RRB- Ad Ischämienachweis im Intervall bzgl. residueller Stenosen.
+
+Blutkultur peripher vom <[Pseudo] 07/05/2040:>
+Kultureller Befund:
+Aerobe Flasche kein Wachstum
+Lytic anaerobe Flasche kein Wachstum
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 07/05/2040:>
+Zum Vergleich liegen keine Voraufnahmen vor.
+Befund / Beurteilung:
+Aufnahme in Exspiration.
+Kein Pneumothorax. Kein Pleuraerguss. Gestauchtes Lungenparenchym, soweit einsehbar, kein Anhalt für großflächiges Infiltrat.
+Trachea nicht eingeengt. Degenerative Wirbelsäulenveränderungen. Stent in Projektion auf das Herz.
+
+Mittelstrahlurin vom <[Pseudo] 10/05/2040:>
+Kultureller Befund:
+<10 hoch 2 KBE/ml: Kein Wachstum
+
+Echokardiographie vom <[Pseudo] 13/05/2040:>
+Bemerkungen: Reduzierte Schallbedingungen, insb. von subcostal.
+Beurteilung:
+Normal großer, septal betont leicht hypertrophierter linker Ventrikel mit mittelgradig verminderter systolischer Pumpfunktion bei A- bis Dyskinesie apikal und Hypokinesie der angrenzenden Wandabschnitte. Leicht reduzierte longitudinale Funktion. Mittelschwere diastolische Dysfunktion des LV. LA dilatiert, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior erweitert, noch grenzwertig atemvariabel. Aortenklappe trikuspid, leicht verdickt mit guter Separation. Mitralklappe verdickt, mit guter Separation und leicht- bis mittelgradiger zentraler Insuffizienz, a. e. bei Anulusdilatation. Übrige Klappen sonographisch regelrecht, dopplersonographisch leichtgradige
+Trikuspidalklappeninsuffizienz. Der systolische PA-Druck in Ruhe ist deutlich erhöht -LRB- ca. 60 mmHg -RRB- .
+Im Vergleich zum Vorbefund des <[Pseudo] 06/05/2040:> MI, TI und PI heute darstellbar, heute ableitbarer sPAP deutlich erhöht. Ansonsten keine wesentliche Befundänderung.
+
+Wundabstrich DI Fuß rechts vom <[Pseudo] 13/05/2040:>
+Kultureller Befund:
+K1 mäßig Staphylococcus aureus
+K2 spärlich Koagulase-negative Staphylokokken
+Kein Nachweis von Pilzen.
+
+
+
+
+Zusammenfassende Beurteilung:
+Die Aufnahme der Patientin erfolgte bei akutem Myokardinfarkt -LRB- STEMI -RRB- .
+
+In der Koronarangiographie zeigte sich eine koronare 3-Gefäßerkrankung mit mittelgradig eingeschränkter linksventrikulärer Pumpfunktion. Es erfolgte die Rekanalisation der verschlossenen LAD mittels PTCA und 3-fach Stentimplantation -LRB- DES -RRB- . Insgesamt gestaltete sich der postinterventionelle Verlauf komplikationslos.
+Wir empfehlen einen Ischämienachweis bzgl residuellen Stenosen -LRB- 50%-Abgangsstenose der LCX sowie der peripheren RCA -RRB- im Intervall. Hierfür vereinbarten wir einen Termin zum Stress-MRT am <[Pseudo] 26/09/2040> um 14:45 Uhr. Bitte einen aktuellen Überweisungsschein mitbringen, sowie aktuelle Laborwerte -LRB- Nieren Parameter, Elektrolyte, TSH, Blutbild, Gerinnung -RRB- . Weiterhin bitte 24h vorher keinen Kaffee/Schwarztee/Koffein im Allgemeinen/Kakao oder Schokolade einnehmen. Die Besprechung findet am <[Pseudo] 11/10/2040> um 11:30 Uhr in unserer Herzinsuffizienzambulanz statt.
+
+Zur Stentverschlussprophylaxe empfehlen wir eine duale Thrombozytenaggregationshemmung mit ASS 100 mg 1x tägl. und Ticagrelor 90 mg 2x tägl. für 12 Monate. Im Anschluss ist eine alleinige Thrombozytenaggregationshemmung mit ASS 100 mg 1x tägl. ausreichend.
+Der Patient wurde über die Notwendigkeit einer lückenlosen Einnahme von ASS und Ticagrelor bis einschließlich <[Pseudo] 06/05/2041> ausführlich aufgeklärt.
+
+Echokardiographisch zeigte sich eine mittel- bis hochgradig verminderte systolische LV-Funktion bei Rhythmusstörungen im Langzeit-EKG -LRB- Formal LOWN IVB -RRB- erfolgte die Anpassung und Verordnung einer Life-Vest. Weiterhin zeigte sich eine mittelgradige Mitralklappeninsuffizienz. Wir empfehlen bei nun optimierter Herzinsuffizienz Medikation eine Reevaluation der systolischen LV-Funktion in 3 Monaten in unserer Herzinsuffizienzambulanz und bitten um Reevaluation einer ICD Implantation bei Vorstellung.
+
+Am <[Pseudo] 07/05/2040> präsentierte sich ein ausgeprägter Anstieg der Inflammationsmarker a. e. auf Grundlage eines Harnwegsinfektes. Auf Grund der ausgeprägten Inflammation entschieden wir uns zunächst für eine kalkulierte antibiotische Therapie mittels Piperacillin/Tazobactam, dieses Breitband-Antibiotikum habe die Patientin bereits früher anamnestisch vertragen. In Folge bildeten sich die Inflammationsmarker rasch zurück, die Patientin berichtete von Beschwerdefreiheit, sodass wir die Antibiose am <[Pseudo] 14/05/2040> beendeten.
+
+Nebenbefundlich zeigte sich in der körperlichen Untersuchung eine anamnestisch seit Langem bestehende Wunde des D1 rechts -LRB- im Bereich des Nagelbettes -RRB- . Wir empfehlen diesbezüglich eine regelhafte Wundkontrolle, sowie eine angiologische Anbindung der Patientin.
+
+Bei häufigen hypertensiven Episoden während des stationären Aufenthaltes bis zu 160 mmHg systolisch steigerten wir die antihypertensive Therapie wie unten angegeben. Wir bitten um regelmäßige Blutdruck-, Herzfrequenz-, Nierenwert- und Elektrolytkontrollen und ggf. Anpassung der Medikation.
+
+Abschließend empfehlen wir insbesondere die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- RR, Lipide, HbA1c -RRB- gemäß den Leitlinien und Fortführung der u. a. medikamentösen Therapie.
+
+Medikation bei Entlassung:
+ASS 100 mg 1-0-0 dauerhaft
+Ticagrelor 90 mg 1-0-1 bis einschl. <[Pseudo] 06/05/2041>
+Metoprolol 47, mg 1-0-0 neu! Kontrolle: RR, HF
+Ramipril 5 mg 1-0-0
+Torasemid 10 mg 1- -UNK- -0 neu! Kontrolle: RR, Elektrolyte, Nierenparameter
+Spironolacton 25 mg 1-0-0 neu! Kontrolle: RR, Elektrolyte, Nierenparameter
+Pantoprazol 40 mg 1-0-0
+Betahistin 6 mg 1-0-0
+Lantus 16 IE zur Nacht
+Novorapid nach Schema
+
+Empfehlung:
+Evaluation Gliflozin Therapie
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden. Ebenso ist natürlich möglich, verwandte Wirkstoffe aus derselben Wirkstoffgruppe alternativ zu verordnen. Zusätzliche Medikationen nach Haus- bzw. fachärztlicher Empfehlung.
+
+Eine jährliche Grippeimpfung sowie eine Pneumokokken-Impfung mit 6-jährlicher Auffrischung werden bei Patienten jenseits des 60. Lebensjahres sowie bei KHK-Patienten im Besonderen empfohlen.
+
+In 6 Monaten empfehlen wir eine ambulante kardiologische Kontrolluntersuchung, die wir - falls nicht vom einweisenden Kardiologen durchgeführt - nach telefonischer Voranmeldung -LRB- Tel.: B-PHONE -RRB- vorzunehmen gerne bereit sind -LRB- Termin s.o. -RRB- .
+
+Bei Auftreten von Problemen oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen jederzeit gerne zur Verfügung.
+
+Wir entlassen die Patientin heute in gutem Allgemeinzustand in Ihre geschätzte ambulante Betreuung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+
+B-TITLE I-TITLE I-TITLE B-PER - B-PER I-PER B-TITLE I-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+
+Anlagen: 1 Seite Medikationsübersicht
+
+
+
+
+Werte wurden ermittelt zwischen dem <[Pseudo] 06/05/2040> und dem <[Pseudo] 14/05/2040>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+7.58
+4 - 10 /nl
+B-DATE
+Hb
+10.5 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.4 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.320 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+92
+83 - 97 fl
+B-DATE
+MCH
+30
+27 - 33 pg
+B-DATE
+MCHC
+33
+30 - 36 g/dl
+B-DATE
+RDW
+14.2
+12,9 - 18,7 %
+B-DATE
+hypochr.Erythroz.
+4.3 !H
+0 - 2 %
+B-DATE
+Thrombozyten
+418
+150 - 440 /nl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Lympho -LRB- abs. -RRB-
+1.87
+1,0 - 4,8 /nl
+B-DATE
+Neutroph.G.-abs.
+9.74 !H
+1,8 - 7,7 /nl
+B-DATE
+Mono. -LRB- abs. -RRB-
+0.77
+0,2 - 0,8 /nl
+B-DATE
+Eos. G. -LRB- abs. -RRB-
+0.15
+- <0,5 /nl
+B-DATE
+Basoph.G. -LRB- abs -RRB-
+0.05
+- <0,2 /nl
+<[Pseudo] 06/05/40>
+Neutroph.G. -LRB- mech. -RRB-
+76.4
+50 - 80 %
+<[Pseudo] 06/05/40>
+Lympho -LRB- mech. -RRB-
+14.7 !L
+25 - 40 %
+<[Pseudo] 06/05/40>
+Basoph.G.
+0.4
+- <1 %
+<[Pseudo] 06/05/40>
+Monozyten -LRB- mech. -RRB-
+6.0
+2 - 9 %
+<[Pseudo] 06/05/40>
+Eosinoph.G. -LRB- mech. -RRB-
+1.2 !L
+2 - 4 %
+<[Pseudo] 06/05/40>
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+140
+135 - 146 mmol/l
+<[Pseudo] 14/05/40>
+Kalium -LRB- ISE -RRB-
+4.11
+3,4 - 5,0 mmol/l
+B-DATE
+Calcium
+2.07 !L
+2,11 - 2,59 mmol/l
+B-DATE
+Ca./korr.
+2.17
+2,1 - 2,65 mmol/l
+B-DATE
+Phosphat
+<NONE> !L
+0,84 - 1,45 mmol/l
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Magnesium
+0.84
+0,75 - 1,05 mmol/l
+B-DATE
+Kreatinin
+0.93
+0,5 - 1,1 mg/dl
+B-DATE
+Harnstoff
+25
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+62.0
+>60 s.u.
+B-DATE
+MDRD
+38.86
+ml/min/1,73qm
+<[Pseudo] 07/05/40>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+37.7
+30 - 50 g/l
+<[Pseudo] 07/05/40>
+Glucose
+166 !H
+65 - 110 mg/dl
+B-DATE
+GOT/AST
+128 !H
+- <37 U/l
+B-DATE
+GPT/ALT
+18
+- <35 U/l
+B-DATE
+Ges.Bili.
+0.90
+- <1.0 mg/dl
+B-DATE
+Triglyceride
+53
+- <150 mg/dl
+B-DATE
+Cholesterin
+158.0
+- alt.abh. mg/dl
+<[Pseudo] 06/05/40>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Lipase
+20
+19 - 63 U/l
+B-DATE
+CRP
+25.4 !H
+- <5 mg/l
+<[Pseudo] 13/05/40>
+PCT sens.
+<NONE>
+- <0,05 ng/ml
+<[Pseudo] 08/05/40>
+Hämolyse
+-
+
+<[Pseudo] 14/05/40>
+ikterisch
+-
+
+<[Pseudo] 14/05/40>
+Lipämie
+-
+
+<[Pseudo] 14/05/40>
+
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+LDH
+<NONE>
+- <301 U/l
+B-DATE
+CK
+362 !H
+- <170 U/l
+<[Pseudo] 07/05/40>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+<NONE> !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+6274 !H
+- <450 ng/l
+<[Pseudo] 07/05/40>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+HbA1c
+6.8 !H
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+51 !H
+20 - 42 mmol/mol
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+mittlere Glucose
+148 !H
+- <110 mg/dl
+B-DATE
+TSH
+0.720
+0,400 - 4,000 mU/l
+<[Pseudo] 07/05/40>
+Gerinnungsdiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+85.9
+70 - 125 %
+<[Pseudo] 07/05/40>
+INR - ber.
+1.08
+- <1.2
+<[Pseudo] 07/05/40>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+aPTT
+26.6
+- <35 s
+B-DATE
+Urindiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+5.00 !L
+6,0 - 8,0
+<[Pseudo] 09/05/40>
+SpezGew/Tstr.
+1030
+1001 - 1035
+<[Pseudo] 09/05/40>
+Glucose/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 09/05/40>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 09/05/40>
+Ketone /Tstr.
+Spur
+- neg. mg/dl
+<[Pseudo] 09/05/40>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 09/05/40>
+Eiweiß/Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 09/05/40>
+Urobil /Tstr.
+1.0
+- <2,0 mg/dl
+<[Pseudo] 09/05/40>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 09/05/40>
+Leuko /Tstr.
+Ca 70
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+7.0
+- <8 /µl
+B-DATE
+Leuko/µl
+29.0 !H
+- <8 /µl
+<[Pseudo] 09/05/40>
+RundEpi/Sedu.
+<None>
+- <3,8 /µl
+B-DATE
+Pl.-epi./µl
+<None> !H
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+B-DATE
+Krist./µl
+<None>
+/µl
+
+B-DATE
+Blutgasanalyse
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH
+7.40
+7,37 - 7,45
+B-DATE
+pO2
+19
+mmHg
+B-DATE
+pCO2
+34.4 !L
+35 - 45 mmHg
+<[Pseudo] 06/05/40>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+-3.2 !L
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+20.6
+mmol/l
+B-DATE
+Laktat
+15.3
+- <16 mg/dl
+B-DATE

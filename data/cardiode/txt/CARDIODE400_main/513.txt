@@ -1,0 +1,91 @@
+Aufnahmedatum: <[Pseudo] 2033-04-10 >
+Geburtsdatum: <[Pseudo] 1984-06-01 >
+Alter: 48
+
+über Ihre Patientin B-PER I-PER geboren am <[Pseudo] 01/06/1984> die sich am <[Pseudo] 10/04/2033> um 09:54 Uhr in unserer B-ORG I-ORG I-ORG vorstellte.
+Hauptdiagnose:
+V.a. muskuloskeletal bedingten Thoraxschmerz
+Ausschluss akuter Myokardinfarkt
+Ausschluss LAE und Aortendissektion -LRB- CT .v B-DATE -RRB-
+Ausschluss TVT bds
+SARS-CoV Ag neglPCR folgt
+Diagnosen:
+Kein Anhalt für eine akute myokardiale Ischämie <[Pseudo] 05/26>
+-Struma uninodosa
+Kleine echokomplexe Rundstruktur, sonographische Kontrolle empfohlen
+Periphere Euthyreose
+Calcitonin negativ - Zn provozierter TVT li
+Allergien:
+Pollen
+Risikofaktoren:
+Arterielle Hypertonie, Nikotinanamnese: nie.
+Anamnese:
+
+Die Vorstellung erfolgte als Selbtsvorstellung bei lageabhängigem Stechen welches heute Nacht um 4 Uhr aufgerten sei sowie nochmals beim Gassi gehen und auf der Arbeit. Keine Radiatio. Auf spezifische Nachfrage keine typische Angina pectoris oder inadäquate Belastungsdyspnoe. Kein Schwindel, keine Synkope. Keine Palpitationen. Kein Hinweis auf einen akuten Infekt. Häusliche Blutdruckwerte 120/80 mmHg. Letzte kardiologische Vorstellung <[Pseudo] 2028> ohne pathologischen Befund
+Vitalparameter bei Aufnahme: 124/81 mmHg, 78 -UNK- min, 37,2 o c.
+EKG:
+idem zum Vor-EKG, Rhythmus: Sinusrhythmus, Herzfrequenz: 78/min, Lagetyp: Linkstyp, QRS-Komplex: normal, ST-Strecke: normal, T-Welle: normal.
+Untersuchungsbefund:
+Bewußtsein: klar, Herztöne: normal, Herzzusatztöne: keine, Pulmo auskultatorisch: vesikuläres Atmen, Abdomen: unauffällig, Halsvenen: unauffällig, Cyanosezeichen: Nein. klin. kein Hinweis für TVT -LRB- Meyer, Payr, Homans neg -RRB-
+Echokardiographie:
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale
+Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LVFunktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit beurteilbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in
+Ruhe ist normal -LRB- ca. 20 mmHg -RRB- . Erstbefund in domo.
+Computertomographie:
+Klinische Angaben: ts, d-dimere erhöht Diagnose: s.o.
+Fragestellung: bitte triple out
+CT Triple-Rule-Out -LRB- Kooperation -RRB- vom <[Pseudo] 10/04/2033> Rechtfertigende Indikation: TWR
+EKG-Monitoring vom B-DATE:
+Messungen und manuelle Platzierung von ROIs -LRB- CT -RRB- vom B-DATE Spektral-CT vom B-DATE
+Multiplanare Reformatierung -LRB- en -RRB- -LRB- CT -RRB- vom <[Pseudo] 10/04/2033>
+Strukturierter Befund: Lungenarterienembolie
+
+-RRB- ALLGEMEINE ANGABEN
+-UNK- Untersuchungsparameter
+- EKG-Synchronisation: Ja
+- CT-Dichte Truncus pulmonalis -LRB- Standard -RRB- : 260 HU
+- Artefakt-Score -LRB- 0-5 -RRB- : 0 -LRB- keine Artefakte -RRB-
+-UNK- Vergleich
+- Letzte Voruntersuchung:
+-RRB- ANGABEN ZUR LUNGENARTERIENEMBOLIE
+-UNK- Lungenarterienembolie
+- Nachweis einer Lungenarterienembolie: Nein
+- B-LOC Clot Burden Score -LRB- CBS, B-OTHER -RRB- :
+- Perfusionsausfälle -LRB- DE-CT -RRB- :
+- RV/LV-Quotient:
+-UNK- Thrombuslast -LRB- proximalster Embolus -RRB-
+- Rechts Pulmonalhauptarterie:
+- Rechts Oberlappen:
+- Mittellappen:
+- Rechts Unterlappen:
+- Links Pulmonalhauptarterie:
+- Links Oberlappen: - Links Unterlappen:
+-UNK- Deskription
+-RRB- ANGABEN ZU ANDEREN BEFUNDEN
+-UNK- Herz und Aorta Keine Aortendissektion.
+Kein Perikarderguss. Truncus bicaroticus.
+-UNK- Thorax
+Labor bei Aufnahme:
+<[Pseudo] 10/04/2033> 11:09 D-Dimer 0,56 mg/l
+HSTNT im Verlauf:
+<[Pseudo] 10/04/2033> 10:03 Troponin T -LRB- T NT -RRB- , high sensitive im Plasma 8,92 pg/ml < 14
+Medikation in der ORG:
+Epikrise:
+Die Vorstellung erfolgte bei o.g. Krankheitsbild. Seit der Aufnahme war die Patientin im Wesentlichen asymptomatisch sowie kardiorespiratorisch stabil -LRB- RR, HF, AF, Sättigung -RRB- . Elektrokardiographisch zeigten sich keine infarkttypischen Ischämiezeichen. Das hs-cTroponin betrug bei Aufnahme 10,3 pg/ml, im Verlauf stabil 9 pg/ml, somit kein Hinweis für einen akuten Nicht-ST-Hebungsinfarkt. Laborchemisch zeigte sich keine Entzündungskonstellation -LRB- CRP, Leukozyten normwertig -RRB- . Das NT-pro-BNP fand sich im Normbereich.
+Bei Z.n. TVT und erhöhten D-Dimeren erfolgte ein Triple rule out. Hiernach kein Nachweis einer LAE oder Dissketion. Echokardiographisch ergab sich ein normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Weiterhin fanden sich keine relevante Klappenvitien oder ein Perikarderguss. Die Vena cava inferior war nicht gestaut. Der systolische PA-Druck in Ruhe war normal -LRB- ca. 20 mmHg -RRB- . Zur weiterführenden Abklärung der D-Dimere erfolgte die Durchführung einer angiologischen Untersuchung, in der sich ebenfalls kein Nachweis einer TVT beidseits ergab. Nach mündlicher Übergabe ergab sich im Koronar-CT zudem kein Nachweis höhergradiger Stenosen bei Nachweis von Wandunregelmäßigkeiten. Wir bitten um Einholung des endgültigen Befundes.
+In Zusammenschau gehen wir a.e. von einem muskuloskeletal bedingten Thoraxschmerz aus und empfehlen eine ausreichende Analgesie sowie ggf. eine orthopädische Vorstellung.
+Bei bestehendem Risikoprofil bitten wir zudem um regelmäßige kardiologische Verlaufskontrollen inkl. Durchführung einer Echokardiographie sowie eines bildgebenden Ischämienachweises.
+Bei CT morphologischem Nachweis eines ossären Hämangioms auf BWK 7 sowie Nachweis einer kleinen axialen Magenhernie bitten wir um weiterführende Abklärung.
+Wir entlassen die Patientin kardiorespiratporisch stabil und klinisch beschwerdefrei nach Hause. Bei erneutem Auftreten von Beschwerden ist natürlich jederzeit eine Wiedervorstellung in unserer B-ORG I-ORG I-ORG möglich.
+Procedere:
+- ausreichende Analgesie sowie ggf. eine orthopädische Vorstellung regelmäßige kardiologische Verlaufskontrollen schriftlicher CT-Thoraxbefund sowie Koronar CT Befund unter Tel. B-PHONE
+- weiterführende Abklärung der D-Dimer Erhöhung
+- Abklärung des ossären Hämangioms auf BWK 7 sowie Nachweis der kleinen axialen Magenhernie
+Die Patientin wurde am B-DATE <[Pseudo] 05/2032> um 17:53 Uhr regelrecht entlassen.
+Therapieempfehlung:
+Ramipril 2,5mg 1-0-0
+Atorvastatin 20mg 0-0-1 neu, unter regelm. Kontrollen v. CK und Leberwerten
+Mit freundlichen und kollegialen Grüßen
+B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt B-ORG I-ORG I-ORG Assistenzärztin

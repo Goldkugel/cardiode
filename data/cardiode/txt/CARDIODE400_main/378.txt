@@ -1,0 +1,88 @@
+Aufnahmedatum: <[Pseudo] 2040-11-02 >
+Geburtsdatum: <[Pseudo] 1978-12-11 >
+Alter: 61
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 11/12/1978> wh. B-PLZ B-LOC B-ADDR I-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Kardiologische Abklärung bei V. a. persistierendes Foramen ovale
+-UNK- Echokardiographisch gute systolische linksventrikuläre Pumpfunktion
+-UNK- Hypermobiles Vorhofseptum mit Nachweis eines PFO mit farbdopplersonographischem Nachweis eines geringen Shunts von LA nach RA in Ruhe und Nachweis eines mäßigen Kontrastmittelübertritts von RA nach LA unter Valsalva-Manöver -LRB- TEE <[Pseudo] 02/11/2040> -RRB-
+-UNK- Ad Langzeit-EKG, Thrombophiliescreening - über B-ORG B-TITLE B-PER
+
+Diagnosen:
+- V.a. Hirnstammischämie
+-UNK- passagere Sprechstörung, persistierende Lidschwäche links
+- Ältere a. e. embolische Infarkte linkshemisphärisch und zerebellär bds.
+- Optikusatrophie links
+- Migräne
+- Bandscheibenvorfall HWS
+- Kniearthrose bds.
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie
+Allergien: ASS -LRB- Atemnot -RRB- , Formaldehyd, Benzoylperoxid, Kaliumdichromat, Perubalsam, Cocamidopropylbeatain
+
+
+
+
+Anamnese:
+Die ambulante Vorstellung erfolgt zur kardiologischen Abklärung bei V.a. PFO nach passagerer Sprechstörung, Lidschwäche und V.a. Hirnstammischämie. Im Alltag bestehe eine gute Belastbarkeit ohne inadäquate Belastungsdyspnoe und ohne belastungsinduzierten pectanginösen Beschwerden. Periphere Ödeme, Palpitationen, Schwindel sowie stattgehabte Synkopen werden ebenfalls verneint. B-SALUTE B-PER berichtet seit dem neurologischen Ereignis über eine leichte Gedächtnis- sowie, Konzentrationsstörung. Ein Langzeit-EKG wurde bereits extern durchgeführt, es ergab sich kein Nachweis eines Vorhofflimmerns.
+
+Aktuelle Medikation:
+Clopidogrel 75 1-0-0
+Lisinopril 5mg 1-0-0
+Atorvastatin 20 0-0-1
+
+Viani 1-0-0 Hub
+Salbutamol bei Bedarf
+
+Körperliche Untersuchung:
+AZ: gut
+EZ: 176 cm 85 kg
+HF: 66 /min, regelmäßig
+RR: 120/70 mmHg
+Keine Zyanose, keine Anämiezeichen, kein Ikterus.
+HT: rein, keine path. Geräusche
+Lunge: bds. Belüftet, vesikuläres AG, keine NG
+Periphere Ödeme: keine
+
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+Normofrequenter Sinusrhythmus, regelmäßig, 65/min, Indifferenztyp. PQ 176 msec, QRS 102 msec, QTc 392 msec. Regelrechte R-Progression, R/S-Umschlag in V3/V4. Negative T Wellen in aVL. Keine signifikanten Kammerendteilveränderungen.
+
+Transthorakale Echokardiographie:
+Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LVFunktion. LA, RA und RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Aorta ascendens, soweit einsehbar, normal weit. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid mit leichtgradiger Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 25 mmHg -RRB- .
+
+Transoesophageale Echokardiographie:
+Hypermobiles Vorhofseptum mit Nachweis eines persistierenden Foramen ovale mit farbdopplersonographischem Nachweis eines geringen Shunts von LA nach RA in Ruhe und nach Kontrastmittelgabe Nachweis eines mäßigen Kontrastmittelübertritts von RA nach LA unter Valsalva-Manöver. Kein Nachweis intrakardialer Thromben. Erhaltene Flussgeschwindigkeiten im linken Vorhofohr. 2 rechte und 2 linke Lungenvenen münden regelrecht in den linken Vorhof ein. Kein Hinweis auf Sinus venosus defekt. Aorta ascendens, Bogen und descendens - soweit einsehbar - regelrecht. Normal großer linker Ventrikel mit guter systolischer Pumpfunktion ohne regionale Kontraktionsstörungen. Erhaltene longitudinale Funktion. Regelrechte diastolische LVFunktion. LA, RA und RV normal groß, gute RV-Funktion. Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut. Aortenklappe trikuspid mit leichtgradiger Insuffizienz. Übrige Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in Ruhe ist normal -LRB- ca. 25 mmHg -RRB- .
+
+Zusammenfassung:
+Die ambulante Vorstellung erfolgte zur kardialen Abklärung bei V.a. PFO und Z. n. Hirnstammischämie. Subjektiv wird von einem klinisch stabilen kardialen Verlauf berichtet.
+
+Echokardiographisch fand sich von transthorakal eine gute linksventrikuläre Pumpfunktion ohne regionale Kontraktionsstörungen und ohne relevante Klappenvitien. Von transösophageal zeigte sich ein persistierenden Foramen ovale mit Nachweis eines mäßigen Kontrastmittelübertritts von RA nach LA unter Valsalva-Manöver.
+
+Wir empfehlen die Komplettierung der Diagnostik mittels Durchführung, sofern es noch nicht erfolgt, von einem Thrombophiliescreening sowie von einem weiteren Langzeit-EKG. Falls unauffällig bitten wir um eine Wiedervorstellung zur Planung eines interventionellen Verschlusses des persistierenden Foramen ovale. Wir bitten hierfür um eine Terminvereinbarung über die Praxis des zuweisenden B-SALUTE B-TITLE B-PER B-PER
+Wir empfehlen die konsequente Einstellung der kardiovaskulären Risikofaktoren gemäß den aktuellen Leitlinien, sowie die Fortführung der u.a. medikamentösen Therapie.
+
+In 6 Monaten empfehlen wir eine kardiologische Kontrolluntersuchung bei einem niedergelassenen Kardiologen. Des Weiteren empfehlen wir regelmäßige hausärztliche Kontrollen. Bei Auftreten von Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, den Patienten wiederzusehen -in Notfällen über unsere B-ORG I-ORG I-ORG unter B-PHONE
+
+Therapieempfehlung von kardiologischer Seite:
+Clopidogrel 75mg 1-0-0
+Lisinopril 5mg 1-0-0
+Atorvastatin 20mg 0-0-1
+
+Viani 1-0-0 Hub
+Salbutamol bei Bedarf
+
+Selbstverständlich können auch preiswertere, wirkstoffgleiche Präparate anderer Hersteller verordnet werden. Zusätzliche Medikationen nach haus- bzw. fachärztlicher Empfehlung.
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen selbstverständlich gerne zur Verfügung.
+
+Mit freundlichen Grüßen,
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-PER I-PER
+Ärztlicher Direktor Oberarzt Assistenzärztin

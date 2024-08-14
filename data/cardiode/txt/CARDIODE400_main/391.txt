@@ -1,0 +1,98 @@
+Aufnahmedatum: <[Pseudo] 2032-01-20 >
+Geburtsdatum: <[Pseudo] 1953-06-06 >
+Alter: 78
+
+über Ihren Patienten B-SALUTE B-PER I-PER geboren am <[Pseudo] 06/06/1953> wh. B-PLZ B-LOC B-ADDR I-ADDR der sich am in unserer Ambulanz vorstellte.
+
+Aktuell:
+- Erfolgreiche transfemorale Aortenklappenimplantation -LRB- Evolute, 26 mm -RRB- am <[Pseudo] 14/07/2031> bei kombiniertem Aortenklappenvitium mit führender hochgradiger Stenose -LRB- B-OTHER -RRB-
+- Postinterventionell kurzzeitig neuer LSB, spontane Rückbildung im Verlauf
+- Z. n. Aortenklappenstenose -LRB- AVA planimetrisch 0,6 cm2, peak to peak Gradient 60 mmHg -RRB- -LRB- B-LOC B-DATE -RRB-
+
+Diagnosen:
+- Koronare 3-Gefäßerkrankung
+-UNK- Z. n. ACVB <[Pseudo] 2014> LIMA ad LAD und RD 1, LIMA Aktuell verschlossen -LRB- B-OTHER vom <[Pseudo] 30/04/2031> -RRB-
+-UNK- Erfolgreiche PTCA/3x-DE-Stenting der RCA-1/-2 und -3 bei NSTEMI -LRB- HK am <[Pseudo] 01/07/31> -RRB-
+-UNK- Postinterventionelles Aneurysma spurium der rechten Leiste -LRB- 10x14mm -RRB-
+-UNK- Z. n. Hinterwandinfarkt <[Pseudo] 2014>
+- Z. n. Ischämie im rechten Gyrus parahippocampalis und im rechten Thalamus -LRB- B-LOC, <[Pseudo] 04/31> -RRB-
+-UNK- A. e. periinterventionell embolisch bei Herzkatheter
+- Metastasiertes Prostata-CA ED <[Pseudo] 2017>
+-UNK- Aktuell Staging PSA stabil -LRB- <[Pseudo] 05/31> -RRB- ,
+- COPD
+- Mittelgradige Abgangsstenose des Tr. coeliacus bei Lig. arcuatum mit poststenotischer Dilatation CT -LRB- B-DATE -RRB- .
+- Mittelgradige Stenose der AII links und AFC beidseits CT -LRB- <[Pseudo] 05/31> -RRB-
+- Zentrilobuläres Lungenemphysem und regressive Schilddrüsenveränderungen CT -LRB- B-DATE -RRB-
+- Z. n. Cholecystektomie, Blande Nierenzysten rechts., Reizlose Colondivertikel. CT -LRB- <[Pseudo] 05/31> -RRB-
+- Mehrere flächige osteoplastische Veränderungen CT -LRB- <[Pseudo] 05/31> -RRB-
+- Leberzirrhose Child A
+-UNK- V.a. Leberhämamgion ED <[Pseudo] 01/2019>
+- Barett-Ösophagus -LRB- Long Segment -RRB-
+- <[Pseudo] 10/2026> Bandscheibenprolaps LWK3/4 mit Laminektomie
+
+Kardiovaskuläre Risikofaktoren: Arterielle Hypertonie, Dyslipoproteinämie, sistierter Nikotinabusus, insulinpflichtiger Diabetes mellitus Typ 2
+Allergien: Penicillin, Clindamycin, Kiwi
+Anamnese:
+
+Die Vorstellung des Patienten erfolgt zur Kontrolle 6 Monate nach TAVI-Implantation.
+Von kardialer Seite besteht im Wesentlichen eine Befundkonstanz. Der Patient geht täglich ca. 3 km spazieren. Konstante Atemnot bei körperlicher Belastung, unverändert seit der TAVI-Implantation, Treppensteigen ist über 3 Etagen möglich.
+Keine Ödeme. Die häuslich gemessenen Blutdruckwerte liegen im normotensiven Bereich. Keine pectanginösen Beschwerden, keine stattgehabten Synkopen. Gelegentlicher orthosthatischer Schwindel.
+Körperlicher Untersuchungsbefund:
+
+AZ: gut
+
+EZ: 172 cm, 73kg
+HF: 64/min, regelmäßig
+RR: 130/80 mmHg
+Keine Zyanose, Anämiezeichen oder Ikterus.
+HT: leise, rein, keine path. Geräusche
+Lunge: vesikuläres AG, sonorer KS, keine NG
+Periphere Ödeme: keine
+Pulsstatus: periphere Pulse gut tastbar
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG:
+
+Normofrequenter Sinusrhythmus, regelmäßig, 64/min, Indifferenz -Typ. PQ: 200 ms, QRS:98 ms, QTc: 438ms. Zeiten im Normbereich. Regelrechte R-Progression, R/S Umschlag in V2/V3. Keine signifikanten Erregungsrückbildungsstörungen. Unauffällige Erregungsausbreitung und -rückbildung.
+Echokardiographie:
+
+
+Normal großer, septal betont deutlich hypertrophierter linker Ventrikel mit guter systolischer
+Pumpfunktion ohne abgrenzbare regionale Kontraktionsstörungen. Erhaltene longitudinale
+Funktion. Relaxationsstörung des LV. LA dilatiert, RA und RV normal groß, gute RV-Funktion.
+Kein Perikarderguss nachweisbar. Vena cava inferior nicht gestaut.
+Evolut Klappenprothese in Aortenposition sonographisch regelrecht, dopplersonographisch
+leichtgradige Randleckage, keine relevante Stenosewirkung nachweisbar. Mitralklappe
+verdickt mit guter Separation und leichtgradiger Insuffizienz. Mitralanulusverkalkung. Übrige
+Klappen sonographisch und dopplersonographisch regelrecht. Der systolische PA-Druck in
+Ruhe ist nicht valide ableitbar.
+Im Vergleich zum Vorbefund vom <[Pseudo] 15/07/2031:> Keine wesentliche Befundänderung.
+Zusammenfassende Beurteilung:
+
+
+
+
+Die ambulante Vorstellung des Patienten erfolgt zur Kontrolle 6 Monate nach TAVI-Implantation.
+Klinisch zeigte sich ein stabiler Befund, echokardiographisch eine regelrechte Prothesenfunktion.
+Wir empfehlen die Fortführung bzw. Anpassung der Medikation wie unten angegeben. Leider hat der Patient seinen aktuellen Medikamentenplan nicht dabei. Wir empfehlen die Aufdosierung des Ramiprils -LRB- laut Patient aktuell Einnahme von 5 mg abends -RRB- auf 10 mg/d unter Kontrolle der Elektrolyte und Nierenwerte und das Absetzen des Amlodipins.
+Darüber hinaus bitten wir um regelmäßige kardiologische Kontrollen sowie Einstellung der Risikofaktoren gemäß den aktuellen Leitlinien.
+Therapieempfehlung:
+
+ASS 100 mg 1-0-0
+Ticagrelor 90mg 1-0-1 Für 12 Monate nach NSTEMI, bis zum <[Pseudo] 30/06/2032>
+Bisoprolol 5 mg -UNK- -0-0
+Ramipril 5 mg 1-0-1 steigern
+Amlodipin 5 mg 1-0-0 ggf. absetzen
+Atorvastatin 80 mg 0-0-1
+Pantoprazol 20 mg 1-0-0
+Empagliflozin 10 mg 1-0-0
+Symbicort Turbohaler 320 µg/ 9 µg 1-0-0 Hub
+Mit freundlichen Grüßen
+
+
+
+
+
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztlicher Direktor Oberarzt Fachärztin

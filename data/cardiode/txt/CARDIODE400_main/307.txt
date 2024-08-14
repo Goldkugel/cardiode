@@ -1,0 +1,592 @@
+Aufnahmedatum: <[Pseudo] 2039-05-14 >
+Geburtsdatum: <[Pseudo] 1963-04-22 >
+Alter: 76
+
+über Ihre Patientin B-SALUTE B-PER I-PER geboren am <[Pseudo] 22/04/1963> wohnhaft in B-PLZ B-LOC B-ADDR I-ADDR I-ADDR die sich vom bis in unserer stationären Behandlung befand.
+
+Aktuell:
+- Erfolgreiche 1-fache PascalClip-Implantation in Mitralposition am <[Pseudo] 01/05/2039> -LRB- HK-Nr. B-OTHER -RRB- bei hämodynamisch und angiographisch hochgradiger Mitralklappeninsuffizienz bei Prolaps des anterioren Segels
+-UNK- Reduktion der Mitralinsuffizienz III° auf Mitralinsuffizienz I°
+-UNK- Verlängerte stationäre Observanz zur kardialen Rekompensation
+
+- Koronare 3-Gefäßerkrankung
+-UNK- Z. n. PTCA/Stentimplantation der proximalen RIA und RCX <[Pseudo] 02/2038>
+-UNK- Z. n. kardialer Dekompensation, Pleurapunktion rechts <[Pseudo] 08/2038>
+
+- Z. n. DDD-SM-Implantation am <[Pseudo] 07/03/2038> -LRB- St. Jude -RRB- bei AV-Block III. Grades
+- Paroxysmales Vorhofflimmern
+- Z. n. TEA der ACI, ACC und ACE mit Dacron-Patch-Plastik links am <[Pseudo] 14/03/2038>
+- Höhergradige ACI-Stenose rechts -LRB- 70-80 % -RRB-
+- Z. n. akut auf chronisches Nierenversagen, am ehesten im Rahmen eines kardiorenalen Syndroms mit Hypokaliämie und metabolischer Azidose <[Pseudo] 03/2039>
+- Anämie
+-UNK- Eisenmangel
+-UNK- Angiodysplasien des Magens -LRB- Z. n. oberer GI-Blutung <[Pseudo] 06/2038> -RRB-
+-UNK- Transfusion von kumulativ 5 EKs -LRB- B-DATE -RRB-
+- Pulmonales Adenokarzinom des rechten Oberlappens -LRB- ED <[Pseudo] 09/2038> -RRB-
+-UNK- cT4cN0Nx
+-UNK- Z. n. Bestrahlung im Bereich des rechten Oberlappens, insgesamt 60 GY
+- Respiratorische Insuffizienz nach CT-gesteuerter Punktion <[Pseudo] 25/09/2038>
+- Z.n. Pneumothorax rechts mit Parenchymblutung und Aspirationspneumonie <[Pseudo] 09/2038>
+- Z. n. Bandscheibenvorfall
+- Latente Hyperthyreose
+
+Kardiovaskuläre Risikofaktoren: Adipositas, Arterielle Hypertonie, Diabetes mellitus Typ 2, ehemaliger Nikotinkonsum bis <[Pseudo] 02/2038> -LRB- insgesamt 30 py -RRB- .
+Allergien/Unverträglichkeiten: anamn. keine bekannt.
+
+Anamnese:
+Die aktuelle Vorstellung der Patientin erfolgt zur interventionellen Mitralklappenrekonstruktion mittels MitraClip-Device bei hochgradiger exzentrischer Mitralklappeninsuffizienz bei Prolaps des anterioren Segels. B-SALUTE B-PER berichtet über eine deutlich eingeschränkte Belastbarkeit im Alltag -LRB- Treppensteigen nicht mehr möglich -RRB- mit zunehmender Belastungsdyspnoe und Dyspnoe in Ruhe. Auf spezifisches Nachfragen keine typische Angina pectoris. Seit der SM-Implantation <[Pseudo] 02/2038> gelegentliche thorakale Beschwerden, welche belastungsunabhängig sind. Gelegentlich orthostatischer Schwindel. Keine stattgehabten Synkopen oder Palpitationen. Stabile Unterschenkeloedeme bds. Aktuell kein Hinweis auf einen Infekt.
+
+Medikation bei Aufnahme:
+Apixaban 2,5 1-0-1
+Ramipril 2,5 1-0-0
+Torasemid 20 1-1-9
+Venlafaxin 37,5 1-0-0
+Atorvastatin 20 0-0-1
+Pantozol 40 1-0-0
+Melperon 25 1-0-0
+Kalinor ret. 600 1-0-0
+Ferrosanol 100 1-0-1
+Colecalciferol 1000 2-0-0
+
+Körperlicher Untersuchungsbefund:
+AZ: gut
+EZ: gut
+HF: 67 /min, regelmäßig
+RR: 180/75mmHg
+Keine Cyanose, Anämiezeichen, Ikterus. Kopf/Hals unauffällig. Schilddrüse o.B.
+HT: rein
+Lunge: vesikuläres AG, keine RGs
+Periphere Ödeme: US-Oedeme bds.
+Pulsstatus: regelrecht
+Neurol. Status: orientierend o.B.
+sonstige Auffälligkeiten: keine
+
+Ruhe-EKG v. B-DATE:
+Durchgehende ventrikuläre SM-Stimulation mit einer mittleren Frequenz von 67/min mit konsekutiven Kammerendteilveränderungen. QRS 170 ms, QTc 415 ms.
+
+Lungenfunktionsprüfung vom <[Pseudo] 30/04/2039:>
+Kapilläre Blutgasanalyse:
+Spirometrie: Formal hochgradige Obstruktion.
+Zudem hochgradige Einschränkung der Vitalkapazität.
+
+
+
+
+
+Farbduplexsonographie der extrakraniellen hirnversorgenden Gefäße vom <[Pseudo] 30/04/2039:>
+Schallbedingungen eingeschränkt bei ausgeprägter Atemnot und bewegungsabhängiger Verschiebung der Gefäßachse, Atemmanöver nur sehr eingeschränkt durchführbar.
+
+Links: Anamnestisch Z.n. TEA, beidseits mittelgradige Plaquebildungen entlang der ACC und im Bulbusbereich ohne hämodynamische Relevanz. Kein Nachweis signifikanter Stenosen. Allseits regelrechte Strömungsgeschwindigkeiten im einsehbaren Carotisstromgebiet. IMD 0,11 cm.
+
+Rechts: Mittel-bis hochgradige größtenteils echogemischte z.T. schallauslöschende Plaquebildungen entlang der ACC und besonders im Bulbusbereich, sowie an den Gefäßabgängen. ACI langstreckig verändert mit turbulenten Flüssen und maximalen Flussgeschwindigkeiten bis 150 cm/s, jedoch visuell höhergradig imponierend, ACE ebenfalls langstreckig verändert und mit turbulentem Flussprofil, jedoch aktuell ohne messbare Erhöhung der Strömungsgeschwindigkeiten darstellbar. IMD 0,1 cm.
+Das Vertebralissystem ist beidseits nicht sicher darstellbar.
+Erstbefund in domo.
+
+Echokardiographie vom <[Pseudo] 30/04/2039:>
+Eingeschränkte Schallbedingungen, insbesondere von apikal. einliegende SM-Elektroden in RA und RV
+Normal großer linker Ventrikel mit global mittelgradig eingeschränkter LV-Funktion bei globaler Hypokinesie. Noch erhaltene longitudinale Funktion. Hinweise für diastolische Funktionsstörung des LV. Biatriale Dilatation, RV normal groß, gute RV-Funktion. Aortenwurzel normal weit. Konzentrischer Perikarderguss, hämodynamisch nicht relevant Vena cava inferior nicht gestaut.
+Aortenklappe leicht verdickt mit guter Separation. Hochgradige exzentrische Mitralklappeninsuffizienz infolge von Prolaps des AML. Hochgradige zentrale Trikuspidalklappeninsuffizienz bei Anulusdilatation. Der systolische PA-Druck in Ruhe a.e. unterschätzt erhöht -LRB- ca. 55 mmHg -RRB- .
+Erstbefund in domo.
+
+Röntgen Thorax auf Intensiv a.p. / Kardio vom <[Pseudo] 01/05/2039:>
+Keine Voruntersuchungen vorliegend.
+Befund und Beurteilung:
+Liegendaufnahme. Voluminöser Pleuraerguss links basal mit angrenzenden Dystelektasen. V. a. gefesselten Pleuraerguss rechts bei ovaler Hypertransparenz im rechten Mittel- und Unterfeld. Zeichen einer pulmonalvenösen Stauung. Maskierte Infiltrate sind beidseits nicht auszuschließen, klinische Korrelation. Im Liegen keine Pleuraablösung abgrenzbar. Aortensklerose. Trachea mittig, nicht eingeengt. Prominenter Herzschatten. Degenerative Skelettveränderungen. ZVK von links jugulär mit Spitzenprojektion auf die Vena cava superior. Links pectoral einliegendes Schrittmacheraggregat mit Projektion der Elektrodenspitzen auf den rechten Vorhof und den rechten Ventrikel.
+
+Herzkatheteruntersuchung -LRB- B-OTHER vom <[Pseudo] 01/05/2039> -RRB- :
+Pascal Implantation bei hochgradiger Mitralinsuffizienz und deutlich erhöhtem OP-Risiko für eine konventionelle Operation:
+
+Erfolgreiche endovaskuläre Mitralklappenrekonstruktion mittels 1-fach Pascal Implantation bei hochgradiger Mitralinsuffizienz.Hierunter Reduktion der Mitralinsuffizienz von III-IV° auf I°
+Postinterventionell Ausschluß einer Mitralstenose -LRB- MPG: 3 mmHg -RRB- .
+
+Maßnahmen:
+Nach SOP MitraClip. Druckverband 4 Stunden. Endokarditisprophylaxe. Marcumar für mindestens 4 Wochen.
+
+Echokardiographie vom <[Pseudo] 02/05/2039:>
+Zirkuläre Perikardergusslamelle unverändert zum Vorbefund und hämodynamisch nicht relevant. Vena cava inferior gestaut.
+Normal großer linker Ventrikel mit global noch leichtgradig eingeschränkter LV-Funktion bei globaler Hypokinesie. Noch erhaltene longitudinale Funktion. Biatriale Dilatation, RV normal groß, gute RV-Funktion. Aortenwurzel normal weit.
+MitraClip Device sonographisch regelrecht, dopplersonographisch leichtgradige Insuffizienz verbleibend, keine relevante Stenosewirkung nachweisbar. Aortenklappe leicht verdickt mit guter Separation. Noch mittelgradige Trikuspidalklappeninsuffizienz bei Anulusdilatation. Der systolische PA-Druck in Ruhe ist erhöht -LRB- mind. 50 mmHg -RRB- .
+Im Vergleich zur Voruntersuchung vom <[Pseudo] 30/04/2039:> MitraClip regelrecht.
+
+Farbduplexsonographie der Gefäße der rechten Leiste vom <[Pseudo] 02/05/2039:>
+Kein Hinweis auf ein Aneurysma spurium, AV-Fistel oder eine TVT im Bereich der Punktionsstelle der rechten Leiste. Kein Anhalt für eine akute Einblutung. Eine Sickerblutung kann nicht sicher ausgeschlossen werden.
+
+Fragestellung: pulmologische Mitbeurteilung vom <[Pseudo] 06/05/2039:>
+A: zunehmende Dyspnoe bei Belastung. Z.n. MitraClip <[Pseudo] 04/2039> in domo. Echokardiographisch B-DATE: noch mittelgradige Trikuspidalklappeninsuffizienz, PA- Druck 50 mmHg. Pulmonales Adenokarzinom, ED <[Pseudo] 09/2038> -LRB- cT4 -RRB- , Z.n Bestrahlung rechter Oberlappen, Z.n. respiratorischer Insuffizienz B-DATE, Z.n. Pneumothorax rechts mit Parenchymblutung und Aspirationspneumonie B-DATE. Positive Raucheranamnsese
+
+Lungenfunktion vom <[Pseudo] 30/04/2039:>
+Formal hochgradige Obstruktion.
+hochgradige Einschränkung der Vitalkapazität.
+
+Procedere:
+- Kardiale Rekompensation
+- Dann im Verlauf: Lungenfunktion wiederholen -LRB- bei Obstruktion kann eine antiobstruktive Therapie mit einem LABA z.B. Oxis oder Striverdi erwogen werden -RRB-
+- Ggfs. weiterführende Diagnostik zur Abklärung der PA- Druckerhöhung
+- Ggfs. Therapieoption mit PDE5 Inhibitor diskutieren
+- Sichtung Befunde und Therapiekonzept des Pulmonalen Adenokarzinom
+
+Die Obstruktion und Restriktion ist im Rahmen des Adenokarzinoms und der Bestrahlung sowie a. e. bei COPD gesehen werden.
+Die PA-Druckerhöhung ist a. e. kardial -LRB- Trikuspidalklappeninsuffizienz -RRB- sowie pulmonal -LRB- Karzinom, Z. n. Bestrahlung der Lunge, Pneumothorax und Aspirationspneumonie -RRB- zu sehen. Zur besseren Evaluierung kann ein Rechtsherzkatheter erwogen werden.
+
+Elektrophysiologischer Befundbericht vom <[Pseudo] 06/05/2039:>
+Befund / Zusammenfassung:
+Regelrechte Schrittmacher-Nachsorge. Batteriestatus gut -LRB- 6,8-7,3 Jahre, 2,98 V, >95% -RRB- .
+Messwerte stabil. Keine neuen Episoden im Speicher. VP: >99%. Regelrechtes Frequenzhistogramm.
+Im Speicher finden sich 2 ventrikuläre hochfrequenzepisoden klassifizierte Episoden am <[Pseudo] 05/02/39> sowie B-DATE, nach EGM-Einsicht ns-VTs über maximal 6 Sekunden entsprechend ohne eindeutige Symptom-Rhythmus-Korrelation. Genaue Differenzierung bei VVI-Modus nicht möglich.
+Es erfolgte eine Umprogrammierung der RV-Wahrnehmung auf bipolar sowie die Aktivierung der AutoCapture-Funktion.
+Procedere:
+-Reevaluation der LV-Funktion nun erfolgtem Mitra-Clip, ggf. Evaluation CRT-D/ICD Wir empfehlen regelmäßige kardiologische Kontrollen sowie Schrittmachernachsorgen im primär nachsorgenden Zentrum KH I-ORG im Abstand von 6 Monaten.
+
+Röntgen Thorax in 2 Ebenen vom <[Pseudo] 06/05/2039:>
+Zum Vergleich liegt zuletzt die Voraufnahme vom <[Pseudo] 01/05/2039> vor.
+Befund und Beurteilung:
+Lagewechsel zum Stehen.
+ZVK von linksjugulär zwischenzeitlich entfernt, übriges Fremdmaterial idem.
+Keine durchgreifende kardiopulmonale Befundänderung bei weiterhin ausgedehntem Pleuraerguss links, geringerem rechts. Kein Hinweis auf Pneumothorax.
+
+
+
+
+Labor:
+
+Zusammenfassung:
+Die Aufnahme der Patientin erfolgte zur elektiven Pascal-Clip-Implantation. Am <[Pseudo] 01/05/2039> erfolgte die erfolgreiche Implantation eines 1-fachen Pascal-Clips in Mitralposition. Es erfolgte eine periinterventionelle Antibiose mit Cefuroxim.
+
+In der postinterventionell durchgeführten transthorakalen Echokardiographie zeigte sich eine Reduktion der Mitralinsuffizienz auf eine minimale Restinsuffizienz. Der weitere postinterventionelle Verlauf gestaltete sich komplikationslos.
+
+Bei klinisch unauffälligen Leisten begannen wir die Fortführung der Antikoagulation mittels Eliquis. Wir verlegten die kardiorespiratorisch stabile Patientin am <[Pseudo] 02/05/2039> auf unsere B-ORG B-ORG Hier präsentierte sich eine kardiorespiratorisch eingeschränkte Patientin mit 3 Liter Sauerstoffbedarf -LRB- analog Heimsauerstoffbedarf v. 2-3 l -RRB- und massiven peripheren Ödemen bei echokardiographisch noch mittelgradiger Trikuspidalinsuffizienz und noch leichtgradiger Trikuspidalklappeninsuffizienz. Eine Rekompensation konnte durch forcierte Diurese mittels intermittierender Furosemidboli, unter engmaschiger Kontrolle und b.B. Substitution der Elektrolyte, erreicht werden. In der Folge wurden die Diuretika oralisiert, wir bitten um regelmäßige klinische Kontrollen -LRB- inkl. Körpergewicht -RRB- , sowie um laborchemische Kontrollen der Elektrolyte und der Nierenretentionsparameter und ggf. um eine Anpassung der Diuretika im Verlauf. Zudem empfehlen wir das dauerhafte Tragen von Kompressionsstrümpfen der Klasse II.
+
+Bei Pleurasonographisch Pleuraerguss links und bekanntem pulmonal metastasiertem Adeno CA rechts sowie Z.n. traumatischer Punktion mit respiratorischer Globalinsuffizienz <[Pseudo] 12/2038> verzichteten wir auf eine Pleurapunktion auf Wunsch der Patientin.
+
+Bei klinisch und funktionell obstruktiver Komponente auch noch Rekompensation begannen wir eine antiobstruktive Therapie wie u.a. Wir empfehlen eine ambulante pneumologische Anbindung inkl. regelmäßiger Verlaufskontrollen.
+
+Bezüglich des bestehenden Adenokarzinoms der Lunge empfehlen wir die noch ausstehenden Bestrahlungen sowie die ebenfalls bereits geplante CT-graphische Verlaufskontrolle nach nun stabilisierter kardialer Situation an der B-ORG I-ORG vorzunehmen. Wir haben dies mit der Patientin ausführlich besprochen. In diesem Rahmen empfehlen wir in Kooperation mit den betreuenden Pulmologen nach nun erfolgter kardialer Rekompensation eine Re-Evaluation des pulmonalarteriellen Drucks vorzunehmen und ggf. eine differenzierte Therapie, etwa mit einem PDE-5 Hemmer, zu beginnen.
+
+Im Rahmen der Kontrolle in unserer ORG am <[Pseudo] 30/10/2038> empfehlen wir die LV-Funktion zu re-evaluieren und ggf. die Aufrüstung auf ein CRT-D/ ICD-Device zu evaluieren. Zudem bitten wir um Re-Evaluation der Trikuspidalinsuffizienz und ggf. um die Bahnung einer Therapie bei weiterer Progredienz. Zuletzt kann bei Fortbestehen des erhöhten PA-Drucks je nach Prognose und Stadium des Bronchial-CAs ebenfalls eine weitere Diagnostik bzgl. des pulmonalarteriellen Drucks evaluiert werden -LRB- falls nicht in B-LOC bereits erfolgt -RRB- .
+
+Wir passten die Herzinsuffizienzmedikation gemäß aktueller Leitlinien wie unten angegeben an. Wir bitten um regelmäßige Kontrollen der Herzfrequenz, des Blutdruckes, der Elektrolyte und der Nierenretentionsparametern, sowie ggf. eine Anpassung im Verlauf. Des Weiteren begannen wir zur Lipidsenkung und Plaquestabilisierung eine Therapie mit einem Statin. Wir bitten um eine Kontrolle des CK-Wertes und der Lipide im Verlauf.
+
+Zur Endokarditisprophylaxe empfehlen wir lebenslang eine gute Mundhygiene und regelmäßige zahnärztliche Kontrollen. Im Rahmen zahnärztlicher Höchstrisikoeingriffe sollte eine Prophylaxe mit Amoxicillin oder Ampicillin -LRB- 2 g p.o. oder i.v. -RRB- oder bei Penicillinallergie mit Ampicillin und Clindamycin -LRB- 600 mg p.o. oder i.v. -RRB- jeweils 30 bis 60 Minuten vor dem Eingriff erfolgen. Weitere Empfehlungen der B-ORG I-ORG I-ORG I-ORG zum Thema unter http://leitlinien.dgk.org
+
+
+Abschließend empfehlen wir die konsequente Einstellung der kardiovaskulären Risikofaktoren -LRB- Blutdruck, Lipide, HbA1c -RRB- gemäß aktueller Leitlinien sowie die Fortführung der u. a. medikamentösen Therapie.
+
+Wir entlassen die Patientin kardiorespiratorisch stabil und beschwerdefrei in Ihre geschätzte ambulante Betreuung.
+
+Procedere/Termine:
+- Termin in unserer HIS Ambulanz am <[Pseudo] 30/10/2039> um 10:00 Uhr
+-UNK- Bitte Verlaufskontrolle der LV-Funktion und ggf. Evaluation einer Aufrüstung auf ein CRT-D Device / ICD-Implantation
+-UNK- Verlaufskontrolle der Trikuspidalklappeninsuffizienz
+-UNK- Re-Evaluation des PA-Drucks
+- Engmaschige weitere onkologische Betreuung durch die B-SALUTE der I-ORG und der Strahlentherapie am B-ORG I-ORG
+- Tägliche Gewichtskontrollen und Anpassung der Diuretika-Dosierung an den Gewichtsverlauf. Zeitnahe Vorstellung beim Hausarzt bei Gewichtszunahme > 2kg empfohlen. Zeitnahe hausärztliche Vorstellung nach Entlassung inkl. Kontrolle der Retentions- und Schilddrüsenparameter. Tragen von Kompressionsstrümpfen der Klasse II
+- Schrittmachernachsorgen im primär nachsorgenden Zentrum KH I-ORG im Abstand von 6 Monaten
+- Endokrinologische Anbindung und Abklärung bei bekannter, latenter Hyperthyreose empfohlen
+
+
+Therapieempfehlung -LRB- von kardiologischer Seite -RRB- :
+Apixaban 2,5mg 1-0-1 Bei GFR < 30 ml/min
+Ramipril 2,5mg 1-0-0
+Lercanidipin 10mg 1-0-1
+Torasemid 40mg 1-0-0 Bitte engmaschige Kontrolle und Re-Evaluation
+Bitte regelmäßige Kontrollen der Elektrolyte und Nierenretentionsparameter und ggf. Dosisanpassung im Verlauf
+Kalinor ret. 600mg 2-1-2 nach Kalium, bitte Re-Evaluation
+Atorvastatin 20mg 0-0-1
+Pantozol 40mg 1-0-0
+Ferrosanol 100mg 1-0-1
+Dekristol 1000mg 2-0-0
+
+Melperon 25mg 0-0-1
+Venlafaxin 37,5mg 1-0-0
+Irenat Tropfen 20-20-20 Bis <[Pseudo] 21/05/2039>
+
+Spiolto 2,5/2,5µg Hub 2-0-0
+Salbutamol Spray bei Bedarf, je 2 Hub, bis 3x/tgl
+
+Selbstverständlich können Präparate mit gleichem Wirkstoff und gleicher Wirkung von anderen Herstellern verordnet werden.. Zusätzliche Medikation nach haus- bzw. fachärztlicher Empfehlung
+
+Bei Auftreten von akuten Beschwerden oder Komplikationen sind wir jederzeit gerne bereit, die Patientin unverzüglich wieder zu sehen -LRB- B-ORG I-ORG - B-ORG I-ORG I-ORG Tel.: B-PHONE -RRB- .
+
+Wir danken für die vertrauensvolle Zusammenarbeit und stehen bei Rückfragen gerne zur Verfügung.
+
+Mit freundlichen kollegialen Grüßen
+B-PER
+
+B-TITLE I-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER B-TITLE I-TITLE B-PER I-PER
+Ärztl. Direktor Oberarzt Assistenzarzt
+
+
+
+Werte wurden ermittelt zwischen dem B-DAY B-MONTH <[Pseudo] 2038> und dem B-DAY B-MONTH <[Pseudo] 2038>
+Blutbild
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Leukozyten
+5.58
+4 - 10 /nl
+B-DATE
+Hb
+9.9 !L
+12 - 15 g/dl
+B-DATE
+Erythrozyten
+3.3 !L
+4 - 5,2 /pl
+B-DATE
+Haematokrit
+0.310 !L
+0,36 - 0,47 l/l
+B-DATE
+MCV
+96
+83 - 97 fl
+<[Pseudo] 12/05/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+MCH
+30
+27 - 33 pg
+<[Pseudo] 12/05/39>
+MCHC
+32
+30 - 36 g/dl
+<[Pseudo] 12/05/39>
+RDW
+15.9
+12,9 - 18,7 %
+<[Pseudo] 12/05/39>
+hypochr.Erythroz.
+9.3 !H
+0 - 2 %
+<[Pseudo] 12/05/39>
+Thrombozyten
+204
+150 - 440 /nl
+<[Pseudo] 12/05/39>
+
+
+Elektrolyte & Nierenfunktionsparameter
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Natrium -LRB- ISE -RRB-
+138
+135 - 146 mmol/l
+<[Pseudo] 12/05/39>
+Kalium -LRB- ISE -RRB-
+4.45
+3,4 - 5,0 mmol/l
+<[Pseudo] 12/05/39>
+Calcium
+2.32
+2,11 - 2,59 mmol/l
+<[Pseudo] 12/05/39>
+Kreatinin
+1.88 !H
+0,5 - 1,1 mg/dl
+<[Pseudo] 12/05/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Harnstoff
+38
+- <45 mg/dl
+B-DATE
+GFR, CKD-EPI
+25.6 !L
+>60 s.u.
+<[Pseudo] 12/05/39>
+MDRD
+27.11
+ml/min/1,73qm
+<[Pseudo] 10/05/39>
+
+
+Allgemeine Stoffwechsel- & Proteindiagnostik
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Albumin quant.
+33.7
+30 - 50 g/l
+B-DATE
+Glucose
+97
+65 - 110 mg/dl
+<[Pseudo] 12/05/39>
+GOT/AST
+27
+- <37 U/l
+B-DATE
+GPT/ALT
+12
+- <35 U/l
+B-DATE
+GGT
+75 !H
+- <40 U/l
+B-DATE
+Ges.Bili.
+0.60
+- <1.0 mg/dl
+B-DATE
+Harnsäure
+9.2 !H
+- <6 mg/dl
+B-DATE
+Triglyceride
+71
+- <150 mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Cholesterin
+117.0
+- alt.abh. mg/dl
+<[Pseudo] 10/05/39>
+LDL-Chol. -LRB- berechn. -RRB-
+53
+- <160 mg/dl
+B-DATE
+HDL-Cholesterin
+50 !L
+>50 mg/dl
+B-DATE
+CRP
+19.8 !H
+- <5 mg/l
+<[Pseudo] 10/05/39>
+Hämolyse
+-
+
+<[Pseudo] 12/05/39>
+ikterisch
+-
+
+<[Pseudo] 12/05/39>
+Lipämie
+-
+
+<[Pseudo] 12/05/39>
+
+
+Aktivitätsparameter & Elektrophorese
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+LDH
+280
+- <301 U/l
+B-DATE
+CK
+50
+- <170 U/l
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+hs-TroponinT
+41.0 !H
+- <14 pg/ml
+B-DATE
+NT-BNP
+16997 !H
+- <450 ng/l
+<[Pseudo] 30/04/39>
+
+
+Endokrinologie & Diabetologie
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+HbA1c
+5.3
+- <6,1 %
+B-DATE
+HbA1c -LRB- IFCC -RRB-
+34
+20 - 42 mmol/mol
+B-DATE
+mittlere Glucose
+105
+- <110 mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+TSH
+0.010 !L
+0,400 - 4,000 mU/l
+B-DATE
+FT3
+2.72
+2,0 - 4,2 ng/l
+B-DATE
+FT4
+19.85 !H
+8 - 18 ng/l
+B-DATE
+Gerinnungsdiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+Quick
+55.4 !L
+70 - 125 %
+<[Pseudo] 10/05/39>
+INR - ber.
+1.31 !H
+- <1.2
+<[Pseudo] 10/05/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+aPTT
+28.9
+- <35 s
+B-DATE
+Urindiagnostik
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH/Tstr.
+6.50
+6,0 - 8,0
+<[Pseudo] 08/05/39>
+SpezGew/Tstr.
+1016
+1001 - 1035
+<[Pseudo] 08/05/39>
+Glucose/Tstr.
+>=1000
+- neg. mg/dl
+<[Pseudo] 08/05/39>
+Bili/Tstr.
+negativ
+- neg.
+<[Pseudo] 08/05/39>
+Ketone /Tstr.
+negativ
+- neg. mg/dl
+<[Pseudo] 08/05/39>
+Erys /Tstr.
+negativ
+- 0 Ery /µl
+<[Pseudo] 08/05/39>
+Eiweiß/Tstr.
+30.00
+- neg. mg/dl
+B-DATE
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+Urobil /Tstr.
+0.2
+-
+<2,0 mg/dl
+B-DATE
+Nitrit /Tstr.
+negativ
+- neg.
+<[Pseudo] 08/05/39>
+Leuko /Tstr.
+negativ
+- 0 Leuko /µl
+B-DATE
+Erys/µl
+0
+- <8 /µl
+B-DATE
+Leuko/µl
+4.0
+- <8 /µl
+B-DATE
+Pl.-epi./µl
+23.00 !H
+- <5 /µl
+B-DATE
+Bakt./Sedu.
+negativ
+/µl
+<[Pseudo] 08/05/39>
+Blutgasanalyse
+
+
+Parameter
+
+Wert
+Normb / Dimension
+Datum
+pH
+7.45
+7,37 - 7,45
+B-DATE
+pO2
+74
+mmHg
+B-DATE
+pCO2
+41.4
+35 - 45 mmHg
+<[Pseudo] 02/05/39>
+Parameter
+
+
+Wert
+Normb / Dimension
+Datum
+BE/Std.
+3.7 !H
+-2 - +3 mmol/L
+B-DATE
+Bicarb. /Std.
+27.7
+mmol/l
+B-DATE
+Laktat
+9.6
+- <16 mg/dl
+B-DATE
